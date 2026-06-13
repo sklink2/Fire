@@ -108,5 +108,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-31661"
     }
+  },
+  {
+    "runNumber": "31663",
+    "rawCode": "MED",
+    "timestamp": "2026-06-13T12:03:43.137090-04:00",
+    "address": "2800 Block Winter Garden",
+    "extra": {
+      "incidentNumber": "31663",
+      "run_id": "31663",
+      "address": "2800 Block Winter Garden",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31663"
+    }
   }
 ]
