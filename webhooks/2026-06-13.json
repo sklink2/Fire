@@ -746,5 +746,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-31690"
     }
+  },
+  {
+    "runNumber": "31691",
+    "rawCode": "MED",
+    "timestamp": "2026-06-13T14:52:05.067881-04:00",
+    "address": "600 Block Shasta Circle",
+    "extra": {
+      "incidentNumber": "31691",
+      "run_id": "31691",
+      "address": "600 Block Shasta Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L04,EC4",
+      "units": "L04,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31691"
+    }
   }
 ]
