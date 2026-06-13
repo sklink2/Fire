@@ -614,5 +614,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31682"
     }
+  },
+  {
+    "runNumber": "31687",
+    "rawCode": "MED",
+    "timestamp": "2026-06-13T14:24:03.167644-04:00",
+    "address": "100 Block Kentucky Avenue",
+    "extra": {
+      "incidentNumber": "31687",
+      "run_id": "31687",
+      "address": "100 Block Kentucky Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31687"
+    }
   }
 ]
