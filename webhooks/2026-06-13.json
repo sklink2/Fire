@@ -1428,5 +1428,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31719"
     }
+  },
+  {
+    "runNumber": "31717",
+    "rawCode": "FDET",
+    "timestamp": "2026-06-13T17:28:28.682870-04:00",
+    "address": "200 Shives Drive",
+    "extra": {
+      "incidentNumber": "31717",
+      "run_id": "31717",
+      "address": "200 Shives Drive",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC34",
+      "units": "EC34",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31717"
+    }
   }
 ]
