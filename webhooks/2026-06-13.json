@@ -284,5 +284,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31669"
     }
+  },
+  {
+    "runNumber": "31670",
+    "rawCode": "MED",
+    "timestamp": "2026-06-13T12:59:51.724426-04:00",
+    "address": "500 Block Hi Crest Drive",
+    "extra": {
+      "incidentNumber": "31670",
+      "run_id": "31670",
+      "address": "500 Block Hi Crest Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31670"
+    }
   }
 ]
