@@ -240,5 +240,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31668"
     }
+  },
+  {
+    "runNumber": "31667",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-06-13T12:35:49.804858-04:00",
+    "address": "Paris Pike & Old Paris Road",
+    "extra": {
+      "incidentNumber": "31667",
+      "run_id": "31667",
+      "address": "Paris Pike & Old Paris Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E02,L03,EC6,201,241,RS1",
+      "units": "FIRE1,E02,L03,EC6,201,241,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-31667"
+    }
   }
 ]
