@@ -1670,5 +1670,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31729"
     }
+  },
+  {
+    "runNumber": "31730",
+    "rawCode": "FELF",
+    "timestamp": "2026-06-13T18:32:34.259216-04:00",
+    "address": "1909 Kinsail Circle",
+    "extra": {
+      "incidentNumber": "31730",
+      "run_id": "31730",
+      "address": "1909 Kinsail Circle",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E12,E20,L04,EC7,204",
+      "units": "FIRE1,E12,E20,L04,EC7,204",
+      "unitCount": "6",
+      "primaryTopic": "FELF",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-31730"
+    }
   }
 ]
