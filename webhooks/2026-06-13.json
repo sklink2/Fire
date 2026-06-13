@@ -570,5 +570,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31684"
     }
+  },
+  {
+    "runNumber": "31683",
+    "rawCode": "MED",
+    "timestamp": "2026-06-13T14:20:03.780180-04:00",
+    "address": "400 Block Dallas Avenue",
+    "extra": {
+      "incidentNumber": "31683",
+      "run_id": "31683",
+      "address": "400 Block Dallas Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L05,EC8",
+      "units": "L05,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31683"
+    }
   }
 ]
