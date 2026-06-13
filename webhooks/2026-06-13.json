@@ -1560,5 +1560,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31723"
     }
+  },
+  {
+    "runNumber": "31725",
+    "rawCode": "MED",
+    "timestamp": "2026-06-13T18:00:29.769287-04:00",
+    "address": "Dartmouth Drive & Wilson Downing",
+    "extra": {
+      "incidentNumber": "31725",
+      "run_id": "31725",
+      "address": "Dartmouth Drive & Wilson Downing",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC12",
+      "units": "E15,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31725"
+    }
   }
 ]
