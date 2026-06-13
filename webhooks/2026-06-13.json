@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31700"
     }
+  },
+  {
+    "runNumber": "31703",
+    "rawCode": "MED",
+    "timestamp": "2026-06-13T15:32:11.988740-04:00",
+    "address": "100 Block E Seventh Street",
+    "extra": {
+      "incidentNumber": "31703",
+      "run_id": "31703",
+      "address": "100 Block E Seventh Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,EC20",
+      "units": "E13,EC20",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31703"
+    }
   }
 ]
