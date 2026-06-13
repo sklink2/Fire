@@ -1758,5 +1758,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31733"
     }
+  },
+  {
+    "runNumber": "31735",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-13T19:04:38.525142-04:00",
+    "address": "591 S Upper Street",
+    "extra": {
+      "incidentNumber": "31735",
+      "run_id": "31735",
+      "address": "591 S Upper Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E05,E06,L02,205",
+      "units": "FIRE1,E05,E06,L02,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-31735"
+    }
   }
 ]
