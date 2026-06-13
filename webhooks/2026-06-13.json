@@ -790,5 +790,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31692"
     }
+  },
+  {
+    "runNumber": "31689",
+    "rawCode": "FDET",
+    "timestamp": "2026-06-13T14:56:10.105839-04:00",
+    "address": "3051 Leestown Road",
+    "extra": {
+      "incidentNumber": "31689",
+      "run_id": "31689",
+      "address": "3051 Leestown Road",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC35",
+      "units": "EC35",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31689"
+    }
   }
 ]
