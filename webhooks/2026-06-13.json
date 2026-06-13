@@ -1780,5 +1780,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-31735"
     }
+  },
+  {
+    "runNumber": "31734",
+    "rawCode": "MED",
+    "timestamp": "2026-06-13T19:04:42.776592-04:00",
+    "address": "700 Block E Sixth Street",
+    "extra": {
+      "incidentNumber": "31734",
+      "run_id": "31734",
+      "address": "700 Block E Sixth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31734"
+    }
   }
 ]
