@@ -1516,5 +1516,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31721"
     }
+  },
+  {
+    "runNumber": "31724",
+    "rawCode": "MED",
+    "timestamp": "2026-06-13T17:52:29.144288-04:00",
+    "address": "1200 Block Providence Lane",
+    "extra": {
+      "incidentNumber": "31724",
+      "run_id": "31724",
+      "address": "1200 Block Providence Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31724"
+    }
   }
 ]
