@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31689"
     }
+  },
+  {
+    "runNumber": "31690",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-13T14:44:06.851930-04:00",
+    "address": "508 Administration Drive",
+    "extra": {
+      "incidentNumber": "31690",
+      "run_id": "31690",
+      "address": "508 Administration Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E05,E12,L02,204",
+      "units": "FIRE1,E05,E12,L02,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-31690"
+    }
   }
 ]
