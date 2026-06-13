@@ -1208,5 +1208,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-31709"
     }
+  },
+  {
+    "runNumber": "31711",
+    "rawCode": "MED",
+    "timestamp": "2026-06-13T16:40:20.567889-04:00",
+    "address": "1000 Block Darley Drive",
+    "extra": {
+      "incidentNumber": "31711",
+      "run_id": "31711",
+      "address": "1000 Block Darley Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31711"
+    }
   }
 ]
