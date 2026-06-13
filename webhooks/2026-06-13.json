@@ -262,5 +262,27 @@
       "commandUnits": "241,201",
       "dedupeKey": "INCIDENT-31667"
     }
+  },
+  {
+    "runNumber": "31669",
+    "rawCode": "MED",
+    "timestamp": "2026-06-13T12:47:50.919663-04:00",
+    "address": "600 Block N Broadway",
+    "extra": {
+      "incidentNumber": "31669",
+      "run_id": "31669",
+      "address": "600 Block N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,EC1,CRT1",
+      "units": "E04,EC1,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31669"
+    }
   }
 ]
