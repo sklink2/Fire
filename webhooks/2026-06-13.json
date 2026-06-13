@@ -1098,5 +1098,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31705"
     }
+  },
+  {
+    "runNumber": "31706",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-13T16:12:17.338743-04:00",
+    "address": "209 Ruccio Way",
+    "extra": {
+      "incidentNumber": "31706",
+      "run_id": "31706",
+      "address": "209 Ruccio Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E07,E15,L04,204",
+      "units": "FIRE1,E07,E15,L04,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-31706"
+    }
   }
 ]
