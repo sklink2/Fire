@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31717"
     }
+  },
+  {
+    "runNumber": "31718",
+    "rawCode": "MED",
+    "timestamp": "2026-06-13T17:24:25.362937-04:00",
+    "address": "400 Block Radcliffe Road",
+    "extra": {
+      "incidentNumber": "31718",
+      "run_id": "31718",
+      "address": "400 Block Radcliffe Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC6,RS1,CRT1",
+      "units": "EC6,RS1,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31718"
+    }
   }
 ]
