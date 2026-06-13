@@ -130,5 +130,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31663"
     }
+  },
+  {
+    "runNumber": "31664",
+    "rawCode": "MED",
+    "timestamp": "2026-06-13T12:07:44.638307-04:00",
+    "address": "3200 Block Yellowstone Parkway",
+    "extra": {
+      "incidentNumber": "31664",
+      "run_id": "31664",
+      "address": "3200 Block Yellowstone Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L06,EC9",
+      "units": "L06,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31664"
+    }
   }
 ]
