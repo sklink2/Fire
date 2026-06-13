@@ -1846,5 +1846,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31738"
     }
+  },
+  {
+    "runNumber": "31737",
+    "rawCode": "MED",
+    "timestamp": "2026-06-13T19:24:42.416529-04:00",
+    "address": "100 Block Patchen Drive",
+    "extra": {
+      "incidentNumber": "31737",
+      "run_id": "31737",
+      "address": "100 Block Patchen Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31737"
+    }
   }
 ]
