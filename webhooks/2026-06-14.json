@@ -2110,5 +2110,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-31886"
     }
+  },
+  {
+    "runNumber": "31885",
+    "rawCode": "MED",
+    "timestamp": "2026-06-14T15:19:14.589617-04:00",
+    "address": "1200 Block N Limestone",
+    "extra": {
+      "incidentNumber": "31885",
+      "run_id": "31885",
+      "address": "1200 Block N Limestone",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31885"
+    }
   }
 ]
