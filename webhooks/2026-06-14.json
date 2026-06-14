@@ -812,5 +812,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31826"
     }
+  },
+  {
+    "runNumber": "31826",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-06-14T06:58:10.345637-04:00",
+    "address": "2601 Sandersville Road",
+    "extra": {
+      "incidentNumber": "31826",
+      "run_id": "31826",
+      "address": "2601 Sandersville Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E24,L03,EC5,EC6,203,241,RS1",
+      "units": "FIRE1,E24,L03,EC5,EC6,203,241,RS1",
+      "unitCount": "8",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-31826"
+    }
   }
 ]
