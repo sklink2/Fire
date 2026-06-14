@@ -2418,5 +2418,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31900"
     }
+  },
+  {
+    "runNumber": "31899",
+    "rawCode": "FFIA",
+    "timestamp": "2026-06-14T16:43:24.273603-04:00",
+    "address": "1300 Glenview Drive",
+    "extra": {
+      "incidentNumber": "31899",
+      "run_id": "31899",
+      "address": "1300 Glenview Drive",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE1,E15,E20,L04,EC9,204",
+      "units": "FIRE1,E15,E20,L04,EC9,204",
+      "unitCount": "6",
+      "primaryTopic": "FFIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-31899"
+    }
   }
 ]
