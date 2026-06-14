@@ -2572,5 +2572,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31770"
     }
+  },
+  {
+    "runNumber": "31769",
+    "rawCode": "FELS",
+    "timestamp": "2026-06-13T21:53:04.742287-04:00",
+    "address": "1801 Newtown Pike",
+    "extra": {
+      "incidentNumber": "31769",
+      "run_id": "31769",
+      "address": "1801 Newtown Pike",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE2,E08,L01,205",
+      "units": "FIRE2,E08,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-31769"
+    }
   }
 ]
