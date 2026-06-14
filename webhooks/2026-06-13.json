@@ -2660,5 +2660,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31774"
     }
+  },
+  {
+    "runNumber": "31776",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-13T22:41:04.714261-04:00",
+    "address": "235 E Maxwell Street",
+    "extra": {
+      "incidentNumber": "31776",
+      "run_id": "31776",
+      "address": "235 E Maxwell Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE3,E05,E06,L02,204",
+      "units": "FIRE3,E05,E06,L02,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-31776"
+    }
   }
 ]
