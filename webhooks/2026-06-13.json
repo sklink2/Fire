@@ -2836,5 +2836,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31782"
     }
+  },
+  {
+    "runNumber": "31783",
+    "rawCode": "FINV",
+    "timestamp": "2026-06-13T23:25:09.746628-04:00",
+    "address": "3816 Camelot Drive",
+    "extra": {
+      "incidentNumber": "31783",
+      "run_id": "31783",
+      "address": "3816 Camelot Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22",
+      "units": "E22",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31783"
+    }
   }
 ]
