@@ -1164,5 +1164,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31841"
     }
+  },
+  {
+    "runNumber": "31840",
+    "rawCode": "MED",
+    "timestamp": "2026-06-14T09:54:35.347563-04:00",
+    "address": "200 Block Patchen Drive",
+    "extra": {
+      "incidentNumber": "31840",
+      "run_id": "31840",
+      "address": "200 Block Patchen Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC13",
+      "units": "E09,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31840"
+    }
   }
 ]
