@@ -394,5 +394,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31805"
     }
+  },
+  {
+    "runNumber": "31806",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-14T03:09:40.792832-04:00",
+    "address": "423 N Martin Luther King Boulevard",
+    "extra": {
+      "incidentNumber": "31806",
+      "run_id": "31806",
+      "address": "423 N Martin Luther King Boulevard",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E01,E04,L01,205",
+      "units": "FIRE1,E01,E04,L01,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-31806"
+    }
   }
 ]
