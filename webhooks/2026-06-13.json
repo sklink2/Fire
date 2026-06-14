@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31757"
     }
+  },
+  {
+    "runNumber": "31758",
+    "rawCode": "MED",
+    "timestamp": "2026-06-13T20:44:51.150611-04:00",
+    "address": "100 Block Constitution Street",
+    "extra": {
+      "incidentNumber": "31758",
+      "run_id": "31758",
+      "address": "100 Block Constitution Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC1,CRT1",
+      "units": "E01,EC1,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31758"
+    }
   }
 ]
