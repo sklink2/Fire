@@ -1472,5 +1472,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-31855"
     }
+  },
+  {
+    "runNumber": "31857",
+    "rawCode": "MED",
+    "timestamp": "2026-06-14T11:50:44.757994-04:00",
+    "address": "1500 Block Trent Boulevard",
+    "extra": {
+      "incidentNumber": "31857",
+      "run_id": "31857",
+      "address": "1500 Block Trent Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31857"
+    }
   }
 ]
