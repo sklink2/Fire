@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31834"
     }
+  },
+  {
+    "runNumber": "31835",
+    "rawCode": "MED",
+    "timestamp": "2026-06-14T09:10:25.285022-04:00",
+    "address": "300 Block King Arthur Court",
+    "extra": {
+      "incidentNumber": "31835",
+      "run_id": "31835",
+      "address": "300 Block King Arthur Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC9,241",
+      "units": "E15,EC9,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-31835"
+    }
   }
 ]
