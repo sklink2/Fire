@@ -1098,5 +1098,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31839"
     }
+  },
+  {
+    "runNumber": "31838",
+    "rawCode": "FMIS",
+    "timestamp": "2026-06-14T09:42:30.094193-04:00",
+    "address": "2025 Drummond Drive",
+    "extra": {
+      "incidentNumber": "31838",
+      "run_id": "31838",
+      "address": "2025 Drummond Drive",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE1,E24,220",
+      "units": "FIRE1,E24,220",
+      "unitCount": "3",
+      "primaryTopic": "FMIS",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-31838"
+    }
   }
 ]
