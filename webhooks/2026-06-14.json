@@ -2484,5 +2484,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31903"
     }
+  },
+  {
+    "runNumber": "31902",
+    "rawCode": "FELS",
+    "timestamp": "2026-06-14T16:51:23.701129-04:00",
+    "address": "140 E Main Street",
+    "extra": {
+      "incidentNumber": "31902",
+      "run_id": "31902",
+      "address": "140 E Main Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE2,E13,L01,205",
+      "units": "FIRE2,E13,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-31902"
+    }
   }
 ]
