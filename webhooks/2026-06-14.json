@@ -174,5 +174,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31794"
     }
+  },
+  {
+    "runNumber": "31795",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-14T01:25:25.440964-04:00",
+    "address": "128 N Broadway",
+    "extra": {
+      "incidentNumber": "31795",
+      "run_id": "31795",
+      "address": "128 N Broadway",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,EC10",
+      "units": "E04,EC10",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31795"
+    }
   }
 ]
