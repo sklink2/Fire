@@ -2088,5 +2088,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31883"
     }
+  },
+  {
+    "runNumber": "31886",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-14T15:19:10.151731-04:00",
+    "address": "3777 Sundart Drive",
+    "extra": {
+      "incidentNumber": "31886",
+      "run_id": "31886",
+      "address": "3777 Sundart Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE1,E09,E22,L07,202",
+      "units": "FIRE1,E09,E22,L07,202",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-31886"
+    }
   }
 ]
