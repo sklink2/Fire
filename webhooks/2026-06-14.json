@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31920"
     }
+  },
+  {
+    "runNumber": "31921",
+    "rawCode": "MED",
+    "timestamp": "2026-06-14T18:59:36.611743-04:00",
+    "address": "3700 Block Bingham Drive",
+    "extra": {
+      "incidentNumber": "31921",
+      "run_id": "31921",
+      "address": "3700 Block Bingham Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31921"
+    }
   }
 ]
