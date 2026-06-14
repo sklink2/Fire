@@ -130,5 +130,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31792"
     }
+  },
+  {
+    "runNumber": "31793",
+    "rawCode": "MED",
+    "timestamp": "2026-06-14T01:13:23.480607-04:00",
+    "address": "500 Block Waller Avenue",
+    "extra": {
+      "incidentNumber": "31793",
+      "run_id": "31793",
+      "address": "500 Block Waller Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31793"
+    }
   }
 ]
