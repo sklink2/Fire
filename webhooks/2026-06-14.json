@@ -1230,5 +1230,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31844"
     }
+  },
+  {
+    "runNumber": "31845",
+    "rawCode": "FELS",
+    "timestamp": "2026-06-14T10:18:34.293637-04:00",
+    "address": "401 W High Street",
+    "extra": {
+      "incidentNumber": "31845",
+      "run_id": "31845",
+      "address": "401 W High Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE1,E13,L01,205,220",
+      "units": "FIRE1,E13,L01,205,220",
+      "unitCount": "5",
+      "primaryTopic": "FELS",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-31845"
+    }
   }
 ]
