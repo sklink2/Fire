@@ -1802,5 +1802,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31871"
     }
+  },
+  {
+    "runNumber": "31870",
+    "rawCode": "FNGL",
+    "timestamp": "2026-06-14T13:47:05.165740-04:00",
+    "address": "2221 Stone Garden Lane",
+    "extra": {
+      "incidentNumber": "31870",
+      "run_id": "31870",
+      "address": "2221 Stone Garden Lane",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE1,E10,E11,L04,EC12,204,220",
+      "units": "FIRE1,E10,E11,L04,EC12,204,220",
+      "unitCount": "7",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-31870"
+    }
   }
 ]
