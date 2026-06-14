@@ -1318,5 +1318,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31849"
     }
+  },
+  {
+    "runNumber": "31848",
+    "rawCode": "MED",
+    "timestamp": "2026-06-14T10:50:38.073590-04:00",
+    "address": "600 Block Maple Avenue",
+    "extra": {
+      "incidentNumber": "31848",
+      "run_id": "31848",
+      "address": "600 Block Maple Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31848"
+    }
   }
 ]
