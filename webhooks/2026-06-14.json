@@ -2132,5 +2132,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31885"
     }
+  },
+  {
+    "runNumber": "31888",
+    "rawCode": "MED",
+    "timestamp": "2026-06-14T15:27:10.445687-04:00",
+    "address": "1500 Block Meade Court",
+    "extra": {
+      "incidentNumber": "31888",
+      "run_id": "31888",
+      "address": "1500 Block Meade Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L05,EC6",
+      "units": "L05,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31888"
+    }
   }
 ]
