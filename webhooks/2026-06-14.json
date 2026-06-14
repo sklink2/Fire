@@ -1824,5 +1824,27 @@
       "commandUnits": "220,204",
       "dedupeKey": "INCIDENT-31870"
     }
+  },
+  {
+    "runNumber": "31872",
+    "rawCode": "MED",
+    "timestamp": "2026-06-14T13:51:00.484286-04:00",
+    "address": "2000 Block Street Christopher Drive",
+    "extra": {
+      "incidentNumber": "31872",
+      "run_id": "31872",
+      "address": "2000 Block Street Christopher Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31872"
+    }
   }
 ]
