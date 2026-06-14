@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31771"
     }
+  },
+  {
+    "runNumber": "31770",
+    "rawCode": "MED",
+    "timestamp": "2026-06-13T21:53:01.053131-04:00",
+    "address": "1300 Block Glenview Drive",
+    "extra": {
+      "incidentNumber": "31770",
+      "run_id": "31770",
+      "address": "1300 Block Glenview Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC4,CRT1",
+      "units": "EC4,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31770"
+    }
   }
 ]
