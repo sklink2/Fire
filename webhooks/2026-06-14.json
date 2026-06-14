@@ -2748,5 +2748,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31914"
     }
+  },
+  {
+    "runNumber": "31915",
+    "rawCode": "FVIS",
+    "timestamp": "2026-06-14T18:11:30.417554-04:00",
+    "address": "2257 Shaker Run Road",
+    "extra": {
+      "incidentNumber": "31915",
+      "run_id": "31915",
+      "address": "2257 Shaker Run Road",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE1,E13,E21,L06,EC11,201,RS1",
+      "units": "FIRE1,E13,E21,L06,EC11,201,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-31915"
+    }
   }
 ]
