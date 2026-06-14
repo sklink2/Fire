@@ -2682,5 +2682,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-31776"
     }
+  },
+  {
+    "runNumber": "31775",
+    "rawCode": "MED",
+    "timestamp": "2026-06-13T22:41:08.843438-04:00",
+    "address": "600 Block Honey Locust Way",
+    "extra": {
+      "incidentNumber": "31775",
+      "run_id": "31775",
+      "address": "600 Block Honey Locust Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31775"
+    }
   }
 ]
