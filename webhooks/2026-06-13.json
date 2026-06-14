@@ -2814,5 +2814,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31781"
     }
+  },
+  {
+    "runNumber": "31782",
+    "rawCode": "FINV",
+    "timestamp": "2026-06-13T23:21:08.611732-04:00",
+    "address": "5751 Briar Hill Road",
+    "extra": {
+      "incidentNumber": "31782",
+      "run_id": "31782",
+      "address": "5751 Briar Hill Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E23",
+      "units": "E23",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31782"
+    }
   }
 ]
