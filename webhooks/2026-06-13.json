@@ -2748,5 +2748,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31778"
     }
+  },
+  {
+    "runNumber": "31777",
+    "rawCode": "FCMS",
+    "timestamp": "2026-06-13T22:49:12.488315-04:00",
+    "address": "2490 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "31777",
+      "run_id": "31777",
+      "address": "2490 Nicholasville Road",
+      "rawType": "FCMS",
+      "typeCode": "FCMS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE2,E15,L04,EC4,202,220,241",
+      "units": "FIRE2,E15,L04,EC4,202,220,241",
+      "unitCount": "7",
+      "primaryTopic": "FCMS",
+      "commandUnits": "241,220,202",
+      "dedupeKey": "INCIDENT-31777"
+    }
   }
 ]
