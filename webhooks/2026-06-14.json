@@ -548,5 +548,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-31813"
     }
+  },
+  {
+    "runNumber": "31815",
+    "rawCode": "FCAR",
+    "timestamp": "2026-06-14T04:21:47.738229-04:00",
+    "address": "1545 Meade Court",
+    "extra": {
+      "incidentNumber": "31815",
+      "run_id": "31815",
+      "address": "1545 Meade Court",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L05",
+      "units": "L05",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31815"
+    }
   }
 ]
