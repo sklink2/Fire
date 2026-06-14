@@ -526,5 +526,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31812"
     }
+  },
+  {
+    "runNumber": "31813",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-14T03:49:44.657908-04:00",
+    "address": "3857 Barnard Drive",
+    "extra": {
+      "incidentNumber": "31813",
+      "run_id": "31813",
+      "address": "3857 Barnard Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE2,E09,E21,L05,202",
+      "units": "FIRE2,E09,E21,L05,202",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-31813"
+    }
   }
 ]
