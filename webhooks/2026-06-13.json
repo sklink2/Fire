@@ -2242,5 +2242,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-31756"
     }
+  },
+  {
+    "runNumber": "31755",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-13T20:32:53.952435-04:00",
+    "address": "172 Trade Street",
+    "extra": {
+      "incidentNumber": "31755",
+      "run_id": "31755",
+      "address": "172 Trade Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E10,E13,L03,203",
+      "units": "FIRE1,E10,E13,L03,203",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-31755"
+    }
   }
 ]
