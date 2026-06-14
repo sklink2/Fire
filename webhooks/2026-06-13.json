@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31763"
     }
+  },
+  {
+    "runNumber": "31765",
+    "rawCode": "MED",
+    "timestamp": "2026-06-13T21:08:53.322227-04:00",
+    "address": "1900 Block Dunkirk Drive",
+    "extra": {
+      "incidentNumber": "31765",
+      "run_id": "31765",
+      "address": "1900 Block Dunkirk Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,EC12",
+      "units": "E14,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31765"
+    }
   }
 ]
