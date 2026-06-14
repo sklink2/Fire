@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31821"
     }
+  },
+  {
+    "runNumber": "31822",
+    "rawCode": "MED",
+    "timestamp": "2026-06-14T06:18:01.075365-04:00",
+    "address": "300 Block Shadow Glen Court",
+    "extra": {
+      "incidentNumber": "31822",
+      "run_id": "31822",
+      "address": "300 Block Shadow Glen Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31822"
+    }
   }
 ]
