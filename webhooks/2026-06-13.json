@@ -2220,5 +2220,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31752"
     }
+  },
+  {
+    "runNumber": "31756",
+    "rawCode": "MED",
+    "timestamp": "2026-06-13T20:32:49.738449-04:00",
+    "address": "4200 Block Versailles Road",
+    "extra": {
+      "incidentNumber": "31756",
+      "run_id": "31756",
+      "address": "4200 Block Versailles Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,EC12,241",
+      "units": "E14,EC12,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-31756"
+    }
   }
 ]
