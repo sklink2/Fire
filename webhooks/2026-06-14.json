@@ -790,5 +790,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31825"
     }
+  },
+  {
+    "runNumber": "31826",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-14T06:54:05.810280-04:00",
+    "address": "2601 Sandersville Road",
+    "extra": {
+      "incidentNumber": "31826",
+      "run_id": "31826",
+      "address": "2601 Sandersville Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,EC5",
+      "units": "E24,EC5",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31826"
+    }
   }
 ]
