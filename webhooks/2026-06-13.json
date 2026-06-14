@@ -2704,5 +2704,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31775"
     }
+  },
+  {
+    "runNumber": "31779",
+    "rawCode": "MED",
+    "timestamp": "2026-06-13T22:49:04.252829-04:00",
+    "address": "4000 Block Victoria Way",
+    "extra": {
+      "incidentNumber": "31779",
+      "run_id": "31779",
+      "address": "4000 Block Victoria Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC13",
+      "units": "EC13",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31779"
+    }
   }
 ]
