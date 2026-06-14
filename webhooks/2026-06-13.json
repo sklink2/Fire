@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31761"
     }
+  },
+  {
+    "runNumber": "31760",
+    "rawCode": "MED",
+    "timestamp": "2026-06-13T20:56:54.542625-04:00",
+    "address": "200 Block Shannon Court",
+    "extra": {
+      "incidentNumber": "31760",
+      "run_id": "31760",
+      "address": "200 Block Shannon Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "T1,EC7",
+      "units": "T1,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31760"
+    }
   }
 ]
