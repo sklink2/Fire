@@ -2198,5 +2198,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31753"
     }
+  },
+  {
+    "runNumber": "31752",
+    "rawCode": "FDUM",
+    "timestamp": "2026-06-13T20:28:52.701976-04:00",
+    "address": "172 Trade Street",
+    "extra": {
+      "incidentNumber": "31752",
+      "run_id": "31752",
+      "address": "172 Trade Street",
+      "rawType": "FDUM",
+      "typeCode": "FDUM",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24",
+      "units": "E24",
+      "unitCount": "1",
+      "primaryTopic": "FDUM",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31752"
+    }
   }
 ]
