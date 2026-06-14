@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31911"
     }
+  },
+  {
+    "runNumber": "31912",
+    "rawCode": "MED",
+    "timestamp": "2026-06-14T17:59:28.991004-04:00",
+    "address": "600 Block Southpoint Drive",
+    "extra": {
+      "incidentNumber": "31912",
+      "run_id": "31912",
+      "address": "600 Block Southpoint Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L07,EC9",
+      "units": "L07,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31912"
+    }
   }
 ]
