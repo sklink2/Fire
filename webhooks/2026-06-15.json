@@ -2836,5 +2836,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32085"
     }
+  },
+  {
+    "runNumber": "32086",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-15T16:46:17.404528-04:00",
+    "address": "100 Oliver Lewis Way",
+    "extra": {
+      "incidentNumber": "32086",
+      "run_id": "32086",
+      "address": "100 Oliver Lewis Way",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC7,RS1",
+      "units": "EC7,RS1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32086"
+    }
   }
 ]
