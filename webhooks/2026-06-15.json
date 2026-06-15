@@ -1406,5 +1406,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32023"
     }
+  },
+  {
+    "runNumber": "32024",
+    "rawCode": "MED",
+    "timestamp": "2026-06-15T10:05:25.631577-04:00",
+    "address": "2400 Block Greatstone Pt",
+    "extra": {
+      "incidentNumber": "32024",
+      "run_id": "32024",
+      "address": "2400 Block Greatstone Pt",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32024"
+    }
   }
 ]
