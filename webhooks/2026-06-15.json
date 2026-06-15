@@ -394,5 +394,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31979"
     }
+  },
+  {
+    "runNumber": "31978",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-06-15T04:16:50.053466-04:00",
+    "address": "75 Sb / 119.0 Mm",
+    "extra": {
+      "incidentNumber": "31978",
+      "run_id": "31978",
+      "address": "75 Sb / 119.0 Mm",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE1,E24,L03,EC6,203,241,RS1",
+      "units": "FIRE1,E24,L03,EC6,203,241,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-31978"
+    }
   }
 ]
