@@ -2946,5 +2946,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32091"
     }
+  },
+  {
+    "runNumber": "32090",
+    "rawCode": "MED",
+    "timestamp": "2026-06-15T17:26:25.154042-04:00",
+    "address": "1200 Block Birmingham Lane",
+    "extra": {
+      "incidentNumber": "32090",
+      "run_id": "32090",
+      "address": "1200 Block Birmingham Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC9",
+      "units": "E20,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32090"
+    }
   }
 ]
