@@ -1912,5 +1912,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-32045"
     }
+  },
+  {
+    "runNumber": "32046",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-15T12:25:43.907566-04:00",
+    "address": "2001 Hume Road",
+    "extra": {
+      "incidentNumber": "32046",
+      "run_id": "32046",
+      "address": "2001 Hume Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC11",
+      "units": "E02,EC11",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32046"
+    }
   }
 ]
