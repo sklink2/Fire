@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32003"
     }
+  },
+  {
+    "runNumber": "32006",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-06-15T08:13:10.474589-04:00",
+    "address": "4617 Fitzroy Court",
+    "extra": {
+      "incidentNumber": "32006",
+      "run_id": "32006",
+      "address": "4617 Fitzroy Court",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E22",
+      "units": "E22",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32006"
+    }
   }
 ]
