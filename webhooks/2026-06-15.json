@@ -1098,5 +1098,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32009"
     }
+  },
+  {
+    "runNumber": "32011",
+    "rawCode": "FELS",
+    "timestamp": "2026-06-15T08:37:15.575666-04:00",
+    "address": "1350 Bull Lea Road",
+    "extra": {
+      "incidentNumber": "32011",
+      "run_id": "32011",
+      "address": "1350 Bull Lea Road",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE1,L01,205,RS1",
+      "units": "FIRE1,L01,205,RS1",
+      "unitCount": "4",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-32011"
+    }
   }
 ]
