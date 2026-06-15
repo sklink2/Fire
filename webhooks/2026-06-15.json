@@ -2044,5 +2044,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32051"
     }
+  },
+  {
+    "runNumber": "32053",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-15T13:05:50.059401-04:00",
+    "address": "3405 Samford Court",
+    "extra": {
+      "incidentNumber": "32053",
+      "run_id": "32053",
+      "address": "3405 Samford Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE2,E07,E22,L07,201",
+      "units": "FIRE2,E07,E22,L07,201",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-32053"
+    }
   }
 ]
