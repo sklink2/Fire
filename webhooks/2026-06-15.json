@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31983"
     }
+  },
+  {
+    "runNumber": "31984",
+    "rawCode": "MED",
+    "timestamp": "2026-06-15T05:04:48.543880-04:00",
+    "address": "1600 Block Hill Rise Drive",
+    "extra": {
+      "incidentNumber": "31984",
+      "run_id": "31984",
+      "address": "1600 Block Hill Rise Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31984"
+    }
   }
 ]
