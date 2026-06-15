@@ -1890,5 +1890,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32044"
     }
+  },
+  {
+    "runNumber": "32045",
+    "rawCode": "FNGL",
+    "timestamp": "2026-06-15T12:21:44.023432-04:00",
+    "address": "1855 Norfolk Drive",
+    "extra": {
+      "incidentNumber": "32045",
+      "run_id": "32045",
+      "address": "1855 Norfolk Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE1,E12,E20,L02,EC13,204",
+      "units": "FIRE1,E12,E20,L02,EC13,204",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-32045"
+    }
   }
 ]
