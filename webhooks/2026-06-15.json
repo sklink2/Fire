@@ -1934,5 +1934,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32046"
     }
+  },
+  {
+    "runNumber": "32047",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-15T12:33:45.240975-04:00",
+    "address": "1589 Hill Rise Drive",
+    "extra": {
+      "incidentNumber": "32047",
+      "run_id": "32047",
+      "address": "1589 Hill Rise Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE2,E13,E14,L01,205",
+      "units": "FIRE2,E13,E14,L01,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-32047"
+    }
   }
 ]
