@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32004"
     }
+  },
+  {
+    "runNumber": "32003",
+    "rawCode": "MED",
+    "timestamp": "2026-06-15T08:09:15.035012-04:00",
+    "address": "600 Block Tower Plz",
+    "extra": {
+      "incidentNumber": "32003",
+      "run_id": "32003",
+      "address": "600 Block Tower Plz",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,EC7",
+      "units": "E04,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32003"
+    }
   }
 ]
