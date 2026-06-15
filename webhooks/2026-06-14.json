@@ -3254,5 +3254,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31937"
     }
+  },
+  {
+    "runNumber": "31938",
+    "rawCode": "FNGL",
+    "timestamp": "2026-06-14T21:19:57.665639-04:00",
+    "address": "120 E Main Street",
+    "extra": {
+      "incidentNumber": "31938",
+      "run_id": "31938",
+      "address": "120 E Main Street",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE1,E01,E06,L01,EC1,205,220",
+      "units": "FIRE1,E01,E06,L01,EC1,205,220",
+      "unitCount": "7",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-31938"
+    }
   }
 ]
