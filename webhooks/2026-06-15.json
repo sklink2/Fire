@@ -1362,5 +1362,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32021"
     }
+  },
+  {
+    "runNumber": "32022",
+    "rawCode": "FMIS",
+    "timestamp": "2026-06-15T09:57:25.077859-04:00",
+    "address": "148 Edgemoor Drive",
+    "extra": {
+      "incidentNumber": "32022",
+      "run_id": "32022",
+      "address": "148 Edgemoor Drive",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE1,E12,204",
+      "units": "FIRE1,E12,204",
+      "unitCount": "3",
+      "primaryTopic": "FMIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-32022"
+    }
   }
 ]
