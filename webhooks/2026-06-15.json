@@ -2308,5 +2308,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32063"
     }
+  },
+  {
+    "runNumber": "32062",
+    "rawCode": "MED",
+    "timestamp": "2026-06-15T14:22:01.706789-04:00",
+    "address": "200 Block W Loudon Avenue",
+    "extra": {
+      "incidentNumber": "32062",
+      "run_id": "32062",
+      "address": "200 Block W Loudon Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32062"
+    }
   }
 ]
