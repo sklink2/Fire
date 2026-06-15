@@ -2748,5 +2748,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32081"
     }
+  },
+  {
+    "runNumber": "32084",
+    "rawCode": "MED",
+    "timestamp": "2026-06-15T16:26:14.293358-04:00",
+    "address": "Versailles Road & Cisco Road",
+    "extra": {
+      "incidentNumber": "32084",
+      "run_id": "32084",
+      "address": "Versailles Road & Cisco Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC5,251",
+      "units": "EC5,251",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32084"
+    }
   }
 ]
