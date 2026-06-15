@@ -3210,5 +3210,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32102"
     }
+  },
+  {
+    "runNumber": "32103",
+    "rawCode": "FGAO",
+    "timestamp": "2026-06-15T19:06:35.049759-04:00",
+    "address": "6426 Athens Boonesboro Road",
+    "extra": {
+      "incidentNumber": "32103",
+      "run_id": "32103",
+      "address": "6426 Athens Boonesboro Road",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,E18",
+      "units": "E16,E18",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32103"
+    }
   }
 ]
