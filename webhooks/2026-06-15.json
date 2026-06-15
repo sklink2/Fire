@@ -812,5 +812,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31997"
     }
+  },
+  {
+    "runNumber": "31999",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-06-15T07:53:12.252863-04:00",
+    "address": "64 Wb / 71.0 Mm (Scott Co Line",
+    "extra": {
+      "incidentNumber": "31999",
+      "run_id": "31999",
+      "address": "64 Wb / 71.0 Mm (Scott Co Line",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE1,E19,L01,EC10,203,241,RS1",
+      "units": "FIRE1,E19,L01,EC10,203,241,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-31999"
+    }
   }
 ]
