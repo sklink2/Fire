@@ -2660,5 +2660,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32077"
     }
+  },
+  {
+    "runNumber": "32079",
+    "rawCode": "MED",
+    "timestamp": "2026-06-15T15:54:11.638402-04:00",
+    "address": "1600 Block Strader Drive",
+    "extra": {
+      "incidentNumber": "32079",
+      "run_id": "32079",
+      "address": "1600 Block Strader Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32079"
+    }
   }
 ]
