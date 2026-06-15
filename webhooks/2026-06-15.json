@@ -152,5 +152,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31967"
     }
+  },
+  {
+    "runNumber": "31968",
+    "rawCode": "MED",
+    "timestamp": "2026-06-15T01:16:22.249172-04:00",
+    "address": "2500 Block Carducci Street",
+    "extra": {
+      "incidentNumber": "31968",
+      "run_id": "31968",
+      "address": "2500 Block Carducci Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31968"
+    }
   }
 ]
