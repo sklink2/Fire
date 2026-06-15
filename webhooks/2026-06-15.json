@@ -3078,5 +3078,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32094"
     }
+  },
+  {
+    "runNumber": "32098",
+    "rawCode": "MED",
+    "timestamp": "2026-06-15T18:10:27.582797-04:00",
+    "address": "3500 Block Cephas Way",
+    "extra": {
+      "incidentNumber": "32098",
+      "run_id": "32098",
+      "address": "3500 Block Cephas Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC13",
+      "units": "E15,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32098"
+    }
   }
 ]
