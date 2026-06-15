@@ -878,5 +878,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32001"
     }
+  },
+  {
+    "runNumber": "32002",
+    "rawCode": "MED",
+    "timestamp": "2026-06-15T08:05:10.204300-04:00",
+    "address": "1000 Block E New Circle Road",
+    "extra": {
+      "incidentNumber": "32002",
+      "run_id": "32002",
+      "address": "1000 Block E New Circle Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32002"
+    }
   }
 ]
