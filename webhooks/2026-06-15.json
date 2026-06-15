@@ -1736,5 +1736,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-32037"
     }
+  },
+  {
+    "runNumber": "32038",
+    "rawCode": "MED",
+    "timestamp": "2026-06-15T11:41:36.823746-04:00",
+    "address": "300 Block Richmond Avenue",
+    "extra": {
+      "incidentNumber": "32038",
+      "run_id": "32038",
+      "address": "300 Block Richmond Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "254",
+      "units": "254",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32038"
+    }
   }
 ]
