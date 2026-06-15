@@ -2110,5 +2110,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-32054"
     }
+  },
+  {
+    "runNumber": "32054",
+    "rawCode": "MED",
+    "timestamp": "2026-06-15T13:21:50.688844-04:00",
+    "address": "500 Block Eureka Springs Drive",
+    "extra": {
+      "incidentNumber": "32054",
+      "run_id": "32054",
+      "address": "500 Block Eureka Springs Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE1,E09,EC8,CRT1",
+      "units": "FIRE1,E09,EC8,CRT1",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32054"
+    }
   }
 ]
