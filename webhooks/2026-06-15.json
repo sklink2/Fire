@@ -3144,5 +3144,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32100"
     }
+  },
+  {
+    "runNumber": "32099",
+    "rawCode": "MED",
+    "timestamp": "2026-06-15T18:18:30.959586-04:00",
+    "address": "3100 Block Mapleleaf Drive",
+    "extra": {
+      "incidentNumber": "32099",
+      "run_id": "32099",
+      "address": "3100 Block Mapleleaf Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32099"
+    }
   }
 ]
