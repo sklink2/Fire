@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32006"
     }
+  },
+  {
+    "runNumber": "32008",
+    "rawCode": "MED",
+    "timestamp": "2026-06-15T08:17:11.392659-04:00",
+    "address": "200 Block Hillcrest Avenue",
+    "extra": {
+      "incidentNumber": "32008",
+      "run_id": "32008",
+      "address": "200 Block Hillcrest Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L05,EC13",
+      "units": "L05,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32008"
+    }
   }
 ]
