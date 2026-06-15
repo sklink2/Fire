@@ -2088,5 +2088,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32052"
     }
+  },
+  {
+    "runNumber": "32054",
+    "rawCode": "FMIS",
+    "timestamp": "2026-06-15T13:13:50.798199-04:00",
+    "address": "540 Eureka Springs Drive",
+    "extra": {
+      "incidentNumber": "32054",
+      "run_id": "32054",
+      "address": "540 Eureka Springs Drive",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE1,E09,202",
+      "units": "FIRE1,E09,202",
+      "unitCount": "3",
+      "primaryTopic": "FMIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-32054"
+    }
   }
 ]
