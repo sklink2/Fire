@@ -218,5 +218,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31970"
     }
+  },
+  {
+    "runNumber": "31971",
+    "rawCode": "FSMO",
+    "timestamp": "2026-06-15T02:24:32.025001-04:00",
+    "address": "3650 Tates Creek Road",
+    "extra": {
+      "incidentNumber": "31971",
+      "run_id": "31971",
+      "address": "3650 Tates Creek Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE1,E07,E22,L07,EC4,202",
+      "units": "FIRE1,E07,E22,L07,EC4,202",
+      "unitCount": "6",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-31971"
+    }
   }
 ]
