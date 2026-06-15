@@ -856,5 +856,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32000"
     }
+  },
+  {
+    "runNumber": "32001",
+    "rawCode": "MED",
+    "timestamp": "2026-06-15T08:01:09.954314-04:00",
+    "address": "3000 Block Montavesta Road",
+    "extra": {
+      "incidentNumber": "32001",
+      "run_id": "32001",
+      "address": "3000 Block Montavesta Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32001"
+    }
   }
 ]
