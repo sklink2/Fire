@@ -1538,5 +1538,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32030"
     }
+  },
+  {
+    "runNumber": "32029",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-15T10:57:35.138291-04:00",
+    "address": "2650 Wilhite Court",
+    "extra": {
+      "incidentNumber": "32029",
+      "run_id": "32029",
+      "address": "2650 Wilhite Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE1,E07,E12,L02,204",
+      "units": "FIRE1,E07,E12,L02,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-32029"
+    }
   }
 ]
