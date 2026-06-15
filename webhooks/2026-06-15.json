@@ -3342,5 +3342,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32108"
     }
+  },
+  {
+    "runNumber": "32109",
+    "rawCode": "FMIS",
+    "timestamp": "2026-06-15T19:54:41.434125-04:00",
+    "address": "100 Codell Drive",
+    "extra": {
+      "incidentNumber": "32109",
+      "run_id": "32109",
+      "address": "100 Codell Drive",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE2,E09,201",
+      "units": "FIRE2,E09,201",
+      "unitCount": "3",
+      "primaryTopic": "FMIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-32109"
+    }
   }
 ]
