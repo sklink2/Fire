@@ -3232,5 +3232,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32103"
     }
+  },
+  {
+    "runNumber": "32104",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-15T19:18:36.904930-04:00",
+    "address": "325 Huguelet Drive",
+    "extra": {
+      "incidentNumber": "32104",
+      "run_id": "32104",
+      "address": "325 Huguelet Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE1,E05,E06,E11,L02,203",
+      "units": "FIRE1,E05,E06,E11,L02,203",
+      "unitCount": "6",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-32104"
+    }
   }
 ]
