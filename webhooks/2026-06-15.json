@@ -1252,5 +1252,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32019"
     }
+  },
+  {
+    "runNumber": "32018",
+    "rawCode": "MED",
+    "timestamp": "2026-06-15T09:37:25.280967-04:00",
+    "address": "200 Block University Avenue",
+    "extra": {
+      "incidentNumber": "32018",
+      "run_id": "32018",
+      "address": "200 Block University Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10,CRT1",
+      "units": "EC10,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32018"
+    }
   }
 ]
