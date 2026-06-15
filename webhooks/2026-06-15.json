@@ -1802,5 +1802,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32041"
     }
+  },
+  {
+    "runNumber": "32040",
+    "rawCode": "MED",
+    "timestamp": "2026-06-15T11:53:42.272558-04:00",
+    "address": "300 Block S Limestone",
+    "extra": {
+      "incidentNumber": "32040",
+      "run_id": "32040",
+      "address": "300 Block S Limestone",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06",
+      "units": "E06",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32040"
+    }
   }
 ]
