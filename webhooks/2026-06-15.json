@@ -1076,5 +1076,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32010"
     }
+  },
+  {
+    "runNumber": "32009",
+    "rawCode": "FASB",
+    "timestamp": "2026-06-15T08:21:16.889890-04:00",
+    "address": "5751 Briar Hill Road",
+    "extra": {
+      "incidentNumber": "32009",
+      "run_id": "32009",
+      "address": "5751 Briar Hill Road",
+      "rawType": "FASB",
+      "typeCode": "FASB",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E23",
+      "units": "E23",
+      "unitCount": "1",
+      "primaryTopic": "FASB",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32009"
+    }
   }
 ]
