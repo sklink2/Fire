@@ -1428,5 +1428,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32024"
     }
+  },
+  {
+    "runNumber": "32026",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-15T10:17:28.275513-04:00",
+    "address": "1591 Winchester Road",
+    "extra": {
+      "incidentNumber": "32026",
+      "run_id": "32026",
+      "address": "1591 Winchester Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE1,E08,E09,L01,201",
+      "units": "FIRE1,E08,E09,L01,201",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-32026"
+    }
   }
 ]
