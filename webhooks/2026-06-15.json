@@ -2902,5 +2902,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32088"
     }
+  },
+  {
+    "runNumber": "32089",
+    "rawCode": "MED",
+    "timestamp": "2026-06-15T17:18:21.158640-04:00",
+    "address": "500 Block Mitchell Avenue",
+    "extra": {
+      "incidentNumber": "32089",
+      "run_id": "32089",
+      "address": "500 Block Mitchell Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC9",
+      "units": "E11,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32089"
+    }
   }
 ]
