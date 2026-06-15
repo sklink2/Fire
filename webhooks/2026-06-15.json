@@ -1714,5 +1714,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-32036"
     }
+  },
+  {
+    "runNumber": "32037",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-15T11:37:37.653712-04:00",
+    "address": "617 Bellcastle Road",
+    "extra": {
+      "incidentNumber": "32037",
+      "run_id": "32037",
+      "address": "617 Bellcastle Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE3,E02,E10,L05,201",
+      "units": "FIRE3,E02,E10,L05,201",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-32037"
+    }
   }
 ]
