@@ -1670,5 +1670,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32033"
     }
+  },
+  {
+    "runNumber": "32035",
+    "rawCode": "FELS",
+    "timestamp": "2026-06-15T11:21:35.714118-04:00",
+    "address": "209 Ruccio Way",
+    "extra": {
+      "incidentNumber": "32035",
+      "run_id": "32035",
+      "address": "209 Ruccio Way",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE1,E12,L04,204",
+      "units": "FIRE1,E12,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-32035"
+    }
   }
 ]
