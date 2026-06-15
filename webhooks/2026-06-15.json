@@ -196,5 +196,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-31969"
     }
+  },
+  {
+    "runNumber": "31970",
+    "rawCode": "FINV",
+    "timestamp": "2026-06-15T02:16:30.090947-04:00",
+    "address": "289 W Loudon Avenue",
+    "extra": {
+      "incidentNumber": "31970",
+      "run_id": "31970",
+      "address": "289 W Loudon Avenue",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,L03",
+      "units": "E08,L03",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-31970"
+    }
   }
 ]
