@@ -1186,5 +1186,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-32014"
     }
+  },
+  {
+    "runNumber": "32015",
+    "rawCode": "MED",
+    "timestamp": "2026-06-15T09:09:18.053893-04:00",
+    "address": "0 Block Street Joseph Drive",
+    "extra": {
+      "incidentNumber": "32015",
+      "run_id": "32015",
+      "address": "0 Block Street Joseph Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32015"
+    }
   }
 ]
