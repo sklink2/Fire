@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32180"
     }
+  },
+  {
+    "runNumber": "32181",
+    "rawCode": "MED",
+    "timestamp": "2026-06-16T10:12:31.220187-04:00",
+    "address": "1900 Block Garden Springs Drive",
+    "extra": {
+      "incidentNumber": "32181",
+      "run_id": "32181",
+      "address": "1900 Block Garden Springs Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "CRT1",
+      "units": "CRT1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32181"
+    }
   }
 ]
