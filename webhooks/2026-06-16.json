@@ -2242,5 +2242,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32238"
     }
+  },
+  {
+    "runNumber": "32239",
+    "rawCode": "FINV",
+    "timestamp": "2026-06-16T14:45:04.452702-04:00",
+    "address": "1800 Chatsworth Drive",
+    "extra": {
+      "incidentNumber": "32239",
+      "run_id": "32239",
+      "address": "1800 Chatsworth Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L03",
+      "units": "L03",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32239"
+    }
   }
 ]
