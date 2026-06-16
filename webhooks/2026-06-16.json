@@ -2044,5 +2044,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32227"
     }
+  },
+  {
+    "runNumber": "32231",
+    "rawCode": "MED",
+    "timestamp": "2026-06-16T14:08:58.796147-04:00",
+    "address": "1600 Block Ft Sumter Drive",
+    "extra": {
+      "incidentNumber": "32231",
+      "run_id": "32231",
+      "address": "1600 Block Ft Sumter Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC3",
+      "units": "E02,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32231"
+    }
   }
 ]
