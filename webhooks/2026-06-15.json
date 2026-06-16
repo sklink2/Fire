@@ -3848,5 +3848,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32129"
     }
+  },
+  {
+    "runNumber": "32131",
+    "rawCode": "FNGL",
+    "timestamp": "2026-06-15T22:31:02.125283-04:00",
+    "address": "861 Furlong Drive",
+    "extra": {
+      "incidentNumber": "32131",
+      "run_id": "32131",
+      "address": "861 Furlong Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE2,E11,E20,L04,EC12,204",
+      "units": "FIRE2,E11,E20,L04,EC12,204",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-32131"
+    }
   }
 ]
