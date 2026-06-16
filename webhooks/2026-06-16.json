@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32168"
     }
+  },
+  {
+    "runNumber": "32169",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-16T08:04:15.038157-04:00",
+    "address": "1020 Industry Road",
+    "extra": {
+      "incidentNumber": "32169",
+      "run_id": "32169",
+      "address": "1020 Industry Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC3",
+      "units": "E02,EC3",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32169"
+    }
   }
 ]
