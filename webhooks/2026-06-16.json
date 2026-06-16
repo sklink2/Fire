@@ -1076,5 +1076,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32183"
     }
+  },
+  {
+    "runNumber": "32186",
+    "rawCode": "MED",
+    "timestamp": "2026-06-16T10:32:31.440226-04:00",
+    "address": "2200 Block Innovation Drive",
+    "extra": {
+      "incidentNumber": "32186",
+      "run_id": "32186",
+      "address": "2200 Block Innovation Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32186"
+    }
   }
 ]
