@@ -3606,5 +3606,27 @@
       "commandUnits": "241,203,204,205",
       "dedupeKey": "INCIDENT-32119"
     }
+  },
+  {
+    "runNumber": "32120",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-15T21:18:52.161309-04:00",
+    "address": "3200 Loch Ness Drive",
+    "extra": {
+      "incidentNumber": "32120",
+      "run_id": "32120",
+      "address": "3200 Loch Ness Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE2,E12,E15,L04,201",
+      "units": "FIRE2,E12,E15,L04,201",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-32120"
+    }
   }
 ]
