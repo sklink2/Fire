@@ -3562,5 +3562,27 @@
       "commandUnits": "220,202",
       "dedupeKey": "INCIDENT-32117"
     }
+  },
+  {
+    "runNumber": "32118",
+    "rawCode": "FFIA",
+    "timestamp": "2026-06-15T20:58:50.295063-04:00",
+    "address": "2359 Richmond Road",
+    "extra": {
+      "incidentNumber": "32118",
+      "run_id": "32118",
+      "address": "2359 Richmond Road",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE2,E09,E21,L06,EC2,201",
+      "units": "FIRE2,E09,E21,L06,EC2,201",
+      "unitCount": "6",
+      "primaryTopic": "FFIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-32118"
+    }
   }
 ]
