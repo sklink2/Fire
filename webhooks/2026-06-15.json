@@ -3694,5 +3694,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32123"
     }
+  },
+  {
+    "runNumber": "32124",
+    "rawCode": "MED",
+    "timestamp": "2026-06-15T21:30:53.594074-04:00",
+    "address": "400 Block Huntington Court",
+    "extra": {
+      "incidentNumber": "32124",
+      "run_id": "32124",
+      "address": "400 Block Huntington Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC2",
+      "units": "E21,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32124"
+    }
   }
 ]
