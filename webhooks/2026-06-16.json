@@ -3298,5 +3298,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32287"
     }
+  },
+  {
+    "runNumber": "32286",
+    "rawCode": "MED",
+    "timestamp": "2026-06-16T19:29:40.911995-04:00",
+    "address": "3600 Block Amick Way",
+    "extra": {
+      "incidentNumber": "32286",
+      "run_id": "32286",
+      "address": "3600 Block Amick Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32286"
+    }
   }
 ]
