@@ -152,5 +152,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32144"
     }
+  },
+  {
+    "runNumber": "32145",
+    "rawCode": "MED",
+    "timestamp": "2026-06-16T02:43:35.627204-04:00",
+    "address": "500 Block Merrimac Drive",
+    "extra": {
+      "incidentNumber": "32145",
+      "run_id": "32145",
+      "address": "500 Block Merrimac Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32145"
+    }
   }
 ]
