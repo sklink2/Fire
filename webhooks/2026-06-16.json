@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32167"
     }
+  },
+  {
+    "runNumber": "32166",
+    "rawCode": "MED",
+    "timestamp": "2026-06-16T07:36:14.393666-04:00",
+    "address": "400 Block Lindberg Drive",
+    "extra": {
+      "incidentNumber": "32166",
+      "run_id": "32166",
+      "address": "400 Block Lindberg Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32166"
+    }
   }
 ]
