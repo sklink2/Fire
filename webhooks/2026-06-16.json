@@ -196,5 +196,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32146"
     }
+  },
+  {
+    "runNumber": "32147",
+    "rawCode": "MED",
+    "timestamp": "2026-06-16T03:07:36.328588-04:00",
+    "address": "600 Block Thoroughbred Way",
+    "extra": {
+      "incidentNumber": "32147",
+      "run_id": "32147",
+      "address": "600 Block Thoroughbred Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32147"
+    }
   }
 ]
