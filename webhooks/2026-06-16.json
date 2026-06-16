@@ -2770,5 +2770,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32262"
     }
+  },
+  {
+    "runNumber": "32265",
+    "rawCode": "MED",
+    "timestamp": "2026-06-16T16:57:20.491654-04:00",
+    "address": "2600 Block Old Rosebud Road",
+    "extra": {
+      "incidentNumber": "32265",
+      "run_id": "32265",
+      "address": "2600 Block Old Rosebud Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,EC2",
+      "units": "E21,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32265"
+    }
   }
 ]
