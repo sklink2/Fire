@@ -2616,5 +2616,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32255"
     }
+  },
+  {
+    "runNumber": "32254",
+    "rawCode": "MED",
+    "timestamp": "2026-06-16T15:53:17.517731-04:00",
+    "address": "800 Block Tomahawk Trail",
+    "extra": {
+      "incidentNumber": "32254",
+      "run_id": "32254",
+      "address": "800 Block Tomahawk Trail",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32254"
+    }
   }
 ]
