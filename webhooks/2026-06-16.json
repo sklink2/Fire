@@ -1934,5 +1934,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32224"
     }
+  },
+  {
+    "runNumber": "32225",
+    "rawCode": "FMIS",
+    "timestamp": "2026-06-16T13:44:57.329060-04:00",
+    "address": "301 White Oak Trce",
+    "extra": {
+      "incidentNumber": "32225",
+      "run_id": "32225",
+      "address": "301 White Oak Trce",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E24,203",
+      "units": "FIRE1,E24,203",
+      "unitCount": "3",
+      "primaryTopic": "FMIS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-32225"
+    }
   }
 ]
