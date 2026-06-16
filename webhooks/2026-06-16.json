@@ -20,5 +20,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-32138"
     }
+  },
+  {
+    "runNumber": "32139",
+    "rawCode": "MED",
+    "timestamp": "2026-06-16T00:23:16.483598-04:00",
+    "address": "2900 Block Edinburgh Drive",
+    "extra": {
+      "incidentNumber": "32139",
+      "run_id": "32139",
+      "address": "2900 Block Edinburgh Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32139"
+    }
   }
 ]
