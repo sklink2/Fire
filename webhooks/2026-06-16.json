@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32221"
     }
+  },
+  {
+    "runNumber": "32223",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-06-16T13:32:55.284320-04:00",
+    "address": "809 Apache Trail",
+    "extra": {
+      "incidentNumber": "32223",
+      "run_id": "32223",
+      "address": "809 Apache Trail",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32223"
+    }
   }
 ]
