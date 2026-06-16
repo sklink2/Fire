@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32268"
     }
+  },
+  {
+    "runNumber": "32267",
+    "rawCode": "MED",
+    "timestamp": "2026-06-16T17:25:25.599476-04:00",
+    "address": "3300 Block Commodore Drive",
+    "extra": {
+      "incidentNumber": "32267",
+      "run_id": "32267",
+      "address": "3300 Block Commodore Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32267"
+    }
   }
 ]
