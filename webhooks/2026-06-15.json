@@ -3584,5 +3584,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-32118"
     }
+  },
+  {
+    "runNumber": "32119",
+    "rawCode": "FSTR",
+    "timestamp": "2026-06-15T21:02:52.387095-04:00",
+    "address": "4240 Victoria Way",
+    "extra": {
+      "incidentNumber": "32119",
+      "run_id": "32119",
+      "address": "4240 Victoria Way",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE3,E12,E13,E15,E22,L02,L04,EC9,203,204,205,241,RS1",
+      "units": "FIRE3,E12,E13,E15,E22,L02,L04,EC9,203,204,205,241,RS1",
+      "unitCount": "13",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,203,204,205",
+      "dedupeKey": "INCIDENT-32119"
+    }
   }
 ]
