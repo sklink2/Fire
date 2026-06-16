@@ -3958,5 +3958,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32135"
     }
+  },
+  {
+    "runNumber": "32136",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-15T23:19:07.930062-04:00",
+    "address": "230 Lexington Green Circle",
+    "extra": {
+      "incidentNumber": "32136",
+      "run_id": "32136",
+      "address": "230 Lexington Green Circle",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE1,E07,E15,L04,204",
+      "units": "FIRE1,E07,E15,L04,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-32136"
+    }
   }
 ]
