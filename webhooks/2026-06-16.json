@@ -1846,5 +1846,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32219"
     }
+  },
+  {
+    "runNumber": "32221",
+    "rawCode": "MED",
+    "timestamp": "2026-06-16T13:24:52.802730-04:00",
+    "address": "3700 Block Winthrop Drive",
+    "extra": {
+      "incidentNumber": "32221",
+      "run_id": "32221",
+      "address": "3700 Block Winthrop Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC13",
+      "units": "E15,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32221"
+    }
   }
 ]
