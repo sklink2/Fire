@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32178"
     }
+  },
+  {
+    "runNumber": "32179",
+    "rawCode": "MED",
+    "timestamp": "2026-06-16T09:36:26.300444-04:00",
+    "address": "1800 Block Plaudit Place",
+    "extra": {
+      "incidentNumber": "32179",
+      "run_id": "32179",
+      "address": "1800 Block Plaudit Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32179"
+    }
   }
 ]
