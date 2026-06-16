@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32245"
     }
+  },
+  {
+    "runNumber": "32246",
+    "rawCode": "MED",
+    "timestamp": "2026-06-16T15:21:09.086432-04:00",
+    "address": "400 Block Emerson Drive",
+    "extra": {
+      "incidentNumber": "32246",
+      "run_id": "32246",
+      "address": "400 Block Emerson Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC3,CRT1",
+      "units": "EC3,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32246"
+    }
   }
 ]
