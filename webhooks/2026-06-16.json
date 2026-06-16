@@ -2154,5 +2154,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32234"
     }
+  },
+  {
+    "runNumber": "32237",
+    "rawCode": "FSMO",
+    "timestamp": "2026-06-16T14:33:01.545653-04:00",
+    "address": "3396 Bay Springs Park",
+    "extra": {
+      "incidentNumber": "32237",
+      "run_id": "32237",
+      "address": "3396 Bay Springs Park",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E02,E17,L05,EC3,201",
+      "units": "FIRE1,E02,E17,L05,EC3,201",
+      "unitCount": "6",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-32237"
+    }
   }
 ]
