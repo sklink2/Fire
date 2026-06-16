@@ -3474,5 +3474,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32113"
     }
+  },
+  {
+    "runNumber": "32114",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-15T20:14:44.746007-04:00",
+    "address": "2001 Bryant Road",
+    "extra": {
+      "incidentNumber": "32114",
+      "run_id": "32114",
+      "address": "2001 Bryant Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE1,E02,E17,E21,L06,201",
+      "units": "FIRE1,E02,E17,E21,L06,201",
+      "unitCount": "6",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-32114"
+    }
   }
 ]
