@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32116"
     }
+  },
+  {
+    "runNumber": "32117",
+    "rawCode": "FNGL",
+    "timestamp": "2026-06-15T20:54:51.636860-04:00",
+    "address": "1317 Centre Parkway",
+    "extra": {
+      "incidentNumber": "32117",
+      "run_id": "32117",
+      "address": "1317 Centre Parkway",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE1,E07,E16,L07,EC13,202,220",
+      "units": "FIRE1,E07,E16,L07,EC13,202,220",
+      "unitCount": "7",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-32117"
+    }
   }
 ]
