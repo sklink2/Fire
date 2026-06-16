@@ -1648,5 +1648,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32210"
     }
+  },
+  {
+    "runNumber": "32212",
+    "rawCode": "FELS",
+    "timestamp": "2026-06-16T12:48:49.029563-04:00",
+    "address": "110 Transcript Avenue",
+    "extra": {
+      "incidentNumber": "32212",
+      "run_id": "32212",
+      "address": "110 Transcript Avenue",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E12,L01,204",
+      "units": "FIRE1,E12,L01,204",
+      "unitCount": "4",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-32212"
+    }
   }
 ]
