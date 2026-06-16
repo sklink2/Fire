@@ -1406,5 +1406,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-32200"
     }
+  },
+  {
+    "runNumber": "32201",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-06-16T11:40:40.154826-04:00",
+    "address": "2357 Golden Oak Drive",
+    "extra": {
+      "incidentNumber": "32201",
+      "run_id": "32201",
+      "address": "2357 Golden Oak Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22",
+      "units": "E22",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32201"
+    }
   }
 ]
