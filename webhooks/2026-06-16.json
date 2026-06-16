@@ -3210,5 +3210,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32283"
     }
+  },
+  {
+    "runNumber": "32282",
+    "rawCode": "MED",
+    "timestamp": "2026-06-16T19:05:36.985947-04:00",
+    "address": "2400 Block Lake Park Road",
+    "extra": {
+      "incidentNumber": "32282",
+      "run_id": "32282",
+      "address": "2400 Block Lake Park Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32282"
+    }
   }
 ]
