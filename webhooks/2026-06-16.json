@@ -2462,5 +2462,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-32249"
     }
+  },
+  {
+    "runNumber": "32248",
+    "rawCode": "MED",
+    "timestamp": "2026-06-16T15:33:14.883292-04:00",
+    "address": "N Martin Luther King Boulevard & E",
+    "extra": {
+      "incidentNumber": "32248",
+      "run_id": "32248",
+      "address": "N Martin Luther King Boulevard & E",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC10",
+      "units": "E01,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32248"
+    }
   }
 ]
