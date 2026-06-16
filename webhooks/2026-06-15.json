@@ -3628,5 +3628,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-32120"
     }
+  },
+  {
+    "runNumber": "32122",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-15T21:22:52.466290-04:00",
+    "address": "764 Rambling Creek Drive",
+    "extra": {
+      "incidentNumber": "32122",
+      "run_id": "32122",
+      "address": "764 Rambling Creek Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE3,E02,E21,L05,201",
+      "units": "FIRE3,E02,E21,L05,201",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-32122"
+    }
   }
 ]
