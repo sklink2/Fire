@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32199"
     }
+  },
+  {
+    "runNumber": "32200",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-16T11:36:40.740865-04:00",
+    "address": "201 Eastin Road",
+    "extra": {
+      "incidentNumber": "32200",
+      "run_id": "32200",
+      "address": "201 Eastin Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E02,E10,L05,201",
+      "units": "FIRE1,E02,E10,L05,201",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-32200"
+    }
   }
 ]
