@@ -1120,5 +1120,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-32188"
     }
+  },
+  {
+    "runNumber": "32187",
+    "rawCode": "MED",
+    "timestamp": "2026-06-16T10:36:38.503139-04:00",
+    "address": "3600 Block Remora Drive",
+    "extra": {
+      "incidentNumber": "32187",
+      "run_id": "32187",
+      "address": "3600 Block Remora Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC13",
+      "units": "EC13",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32187"
+    }
   }
 ]
