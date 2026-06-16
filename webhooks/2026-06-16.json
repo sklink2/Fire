@@ -1758,5 +1758,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32214"
     }
+  },
+  {
+    "runNumber": "32217",
+    "rawCode": "MED",
+    "timestamp": "2026-06-16T13:00:51.112935-04:00",
+    "address": "3100 Block Cottontail Lane",
+    "extra": {
+      "incidentNumber": "32217",
+      "run_id": "32217",
+      "address": "3100 Block Cottontail Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32217"
+    }
   }
 ]
