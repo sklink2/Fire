@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32213"
     }
+  },
+  {
+    "runNumber": "32216",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-16T12:56:51.432401-04:00",
+    "address": "540 E Third Street",
+    "extra": {
+      "incidentNumber": "32216",
+      "run_id": "32216",
+      "address": "540 E Third Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE2,E01,E04,L02,201",
+      "units": "FIRE2,E01,E04,L02,201",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-32216"
+    }
   }
 ]
