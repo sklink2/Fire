@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32242"
     }
+  },
+  {
+    "runNumber": "32244",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-16T15:09:06.690314-04:00",
+    "address": "3380 Paris Pike",
+    "extra": {
+      "incidentNumber": "32244",
+      "run_id": "32244",
+      "address": "3380 Paris Pike",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E02,E19,L05,201",
+      "units": "FIRE1,E02,E19,L05,201",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-32244"
+    }
   }
 ]
