@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32247"
     }
+  },
+  {
+    "runNumber": "32249",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-16T15:33:10.247158-04:00",
+    "address": "3576 Pimlico Parkway",
+    "extra": {
+      "incidentNumber": "32249",
+      "run_id": "32249",
+      "address": "3576 Pimlico Parkway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E07,E16,L07,202",
+      "units": "FIRE1,E07,E16,L07,202",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-32249"
+    }
   }
 ]
