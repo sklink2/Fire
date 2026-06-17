@@ -1142,5 +1142,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-32368"
     }
+  },
+  {
+    "runNumber": "32367",
+    "rawCode": "MED",
+    "timestamp": "2026-06-17T10:47:36.576895-04:00",
+    "address": "3900 Block Grassy Creek Drive",
+    "extra": {
+      "incidentNumber": "32367",
+      "run_id": "32367",
+      "address": "3900 Block Grassy Creek Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32367"
+    }
   }
 ]
