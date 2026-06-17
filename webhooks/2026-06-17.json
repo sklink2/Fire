@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32360"
     }
+  },
+  {
+    "runNumber": "32361",
+    "rawCode": "FFIA",
+    "timestamp": "2026-06-17T10:07:26.724889-04:00",
+    "address": "2035 Altamont Court",
+    "extra": {
+      "incidentNumber": "32361",
+      "run_id": "32361",
+      "address": "2035 Altamont Court",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE1,E09,E21,L06,EC13,201",
+      "units": "FIRE1,E09,E21,L06,EC13,201",
+      "unitCount": "6",
+      "primaryTopic": "FFIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-32361"
+    }
   }
 ]
