@@ -3738,5 +3738,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32305"
     }
+  },
+  {
+    "runNumber": "32304",
+    "rawCode": "FINV",
+    "timestamp": "2026-06-16T22:10:10.252925-04:00",
+    "address": "135 Chantilly Street",
+    "extra": {
+      "incidentNumber": "32304",
+      "run_id": "32304",
+      "address": "135 Chantilly Street",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,220",
+      "units": "E20,220",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-32304"
+    }
   }
 ]
