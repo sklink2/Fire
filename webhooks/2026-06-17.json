@@ -460,5 +460,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-32337"
     }
+  },
+  {
+    "runNumber": "32338",
+    "rawCode": "FNGL",
+    "timestamp": "2026-06-17T07:07:08.716632-04:00",
+    "address": "3541 Germann Court",
+    "extra": {
+      "incidentNumber": "32338",
+      "run_id": "32338",
+      "address": "3541 Germann Court",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE2,E15,E20,L04,EC9,202,220",
+      "units": "FIRE2,E15,E20,L04,EC9,202,220",
+      "unitCount": "7",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-32338"
+    }
   }
 ]
