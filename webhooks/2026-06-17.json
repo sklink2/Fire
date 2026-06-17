@@ -1010,5 +1010,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-32361"
     }
+  },
+  {
+    "runNumber": "32362",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-17T10:15:28.896213-04:00",
+    "address": "2109 Belmont Drive",
+    "extra": {
+      "incidentNumber": "32362",
+      "run_id": "32362",
+      "address": "2109 Belmont Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE2,E04,E08,L03,201",
+      "units": "FIRE2,E04,E08,L03,201",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-32362"
+    }
   }
 ]
