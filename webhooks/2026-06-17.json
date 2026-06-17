@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32446"
     }
+  },
+  {
+    "runNumber": "32448",
+    "rawCode": "MED",
+    "timestamp": "2026-06-17T18:16:28.154703-04:00",
+    "address": "400 Block Northridge Drive",
+    "extra": {
+      "incidentNumber": "32448",
+      "run_id": "32448",
+      "address": "400 Block Northridge Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32448"
+    }
   }
 ]
