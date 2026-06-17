@@ -2968,5 +2968,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32450"
     }
+  },
+  {
+    "runNumber": "32451",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-17T18:40:30.590865-04:00",
+    "address": "217 Owsley Avenue",
+    "extra": {
+      "incidentNumber": "32451",
+      "run_id": "32451",
+      "address": "217 Owsley Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE1,E05,E09,L02,205",
+      "units": "FIRE1,E05,E09,L02,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-32451"
+    }
   }
 ]
