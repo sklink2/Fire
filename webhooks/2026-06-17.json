@@ -2484,5 +2484,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32429"
     }
+  },
+  {
+    "runNumber": "32428",
+    "rawCode": "MED",
+    "timestamp": "2026-06-17T16:00:15.611075-04:00",
+    "address": "4600 Block Riverman Way",
+    "extra": {
+      "incidentNumber": "32428",
+      "run_id": "32428",
+      "address": "4600 Block Riverman Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC4",
+      "units": "E22,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32428"
+    }
   }
 ]
