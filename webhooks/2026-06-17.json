@@ -174,5 +174,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32324"
     }
+  },
+  {
+    "runNumber": "32325",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-06-17T02:26:34.757683-04:00",
+    "address": "S Upper Street & Bolivar Street",
+    "extra": {
+      "incidentNumber": "32325",
+      "run_id": "32325",
+      "address": "S Upper Street & Bolivar Street",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E06,L02,EC7,204,241,RS1",
+      "units": "FIRE1,E06,L02,EC7,204,241,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,204",
+      "dedupeKey": "INCIDENT-32325"
+    }
   }
 ]
