@@ -1120,5 +1120,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32366"
     }
+  },
+  {
+    "runNumber": "32368",
+    "rawCode": "FELS",
+    "timestamp": "2026-06-17T10:47:32.453909-04:00",
+    "address": "1935 Stanton Way",
+    "extra": {
+      "incidentNumber": "32368",
+      "run_id": "32368",
+      "address": "1935 Stanton Way",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE1,E08,L03,203",
+      "units": "FIRE1,E08,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FELS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-32368"
+    }
   }
 ]
