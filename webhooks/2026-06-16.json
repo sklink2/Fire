@@ -3364,5 +3364,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-32289"
     }
+  },
+  {
+    "runNumber": "32291",
+    "rawCode": "FCMS",
+    "timestamp": "2026-06-16T20:25:50.733710-04:00",
+    "address": "3939 Tates Creek Road",
+    "extra": {
+      "incidentNumber": "32291",
+      "run_id": "32291",
+      "address": "3939 Tates Creek Road",
+      "rawType": "FCMS",
+      "typeCode": "FCMS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E22,L07,EC4,202,220,241",
+      "units": "FIRE1,E22,L07,EC4,202,220,241",
+      "unitCount": "7",
+      "primaryTopic": "FCMS",
+      "commandUnits": "241,220,202",
+      "dedupeKey": "INCIDENT-32291"
+    }
   }
 ]
