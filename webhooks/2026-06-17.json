@@ -746,5 +746,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32351"
     }
+  },
+  {
+    "runNumber": "32350",
+    "rawCode": "MED",
+    "timestamp": "2026-06-17T09:23:24.451727-04:00",
+    "address": "Jersey Street & W Maxwell Street",
+    "extra": {
+      "incidentNumber": "32350",
+      "run_id": "32350",
+      "address": "Jersey Street & W Maxwell Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "RS1",
+      "units": "RS1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32350"
+    }
   }
 ]
