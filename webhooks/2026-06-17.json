@@ -2044,5 +2044,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32407"
     }
+  },
+  {
+    "runNumber": "32409",
+    "rawCode": "FNGL",
+    "timestamp": "2026-06-17T14:16:02.602742-04:00",
+    "address": "2195 Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "32409",
+      "run_id": "32409",
+      "address": "2195 Harrodsburg Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE2,E11,E20,L04,EC7,204,220",
+      "units": "FIRE2,E11,E20,L04,EC7,204,220",
+      "unitCount": "7",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-32409"
+    }
   }
 ]
