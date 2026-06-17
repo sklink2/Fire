@@ -1560,5 +1560,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32386"
     }
+  },
+  {
+    "runNumber": "32387",
+    "rawCode": "MED",
+    "timestamp": "2026-06-17T12:19:43.757030-04:00",
+    "address": "3800 Block Aria Lane",
+    "extra": {
+      "incidentNumber": "32387",
+      "run_id": "32387",
+      "address": "3800 Block Aria Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32387"
+    }
   }
 ]
