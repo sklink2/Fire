@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32376"
     }
+  },
+  {
+    "runNumber": "32377",
+    "rawCode": "FINV",
+    "timestamp": "2026-06-17T11:43:39.501161-04:00",
+    "address": "3629 Mossbridge Way",
+    "extra": {
+      "incidentNumber": "32377",
+      "run_id": "32377",
+      "address": "3629 Mossbridge Way",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22",
+      "units": "E22",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32377"
+    }
   }
 ]
