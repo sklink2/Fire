@@ -790,5 +790,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32353"
     }
+  },
+  {
+    "runNumber": "32352",
+    "rawCode": "FSIA",
+    "timestamp": "2026-06-17T09:27:24.618695-04:00",
+    "address": "210 Rosemont Garden",
+    "extra": {
+      "incidentNumber": "32352",
+      "run_id": "32352",
+      "address": "210 Rosemont Garden",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE1,E06,E20,204",
+      "units": "FIRE1,E06,E20,204",
+      "unitCount": "4",
+      "primaryTopic": "FSIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-32352"
+    }
   }
 ]
