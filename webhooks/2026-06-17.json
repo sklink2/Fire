@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32423"
     }
+  },
+  {
+    "runNumber": "32425",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-17T15:36:09.359403-04:00",
+    "address": "4270 Georgetown Road",
+    "extra": {
+      "incidentNumber": "32425",
+      "run_id": "32425",
+      "address": "4270 Georgetown Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE1,E08,E12,L01,205",
+      "units": "FIRE1,E08,E12,L01,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-32425"
+    }
   }
 ]
