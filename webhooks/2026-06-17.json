@@ -2418,5 +2418,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-32425"
     }
+  },
+  {
+    "runNumber": "32427",
+    "rawCode": "FDUM",
+    "timestamp": "2026-06-17T15:48:08.311872-04:00",
+    "address": "6411 Polo Club Lane",
+    "extra": {
+      "incidentNumber": "32427",
+      "run_id": "32427",
+      "address": "6411 Polo Club Lane",
+      "rawType": "FDUM",
+      "typeCode": "FDUM",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21",
+      "units": "E21",
+      "unitCount": "1",
+      "primaryTopic": "FDUM",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32427"
+    }
   }
 ]
