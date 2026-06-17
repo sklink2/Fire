@@ -1318,5 +1318,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-32374"
     }
+  },
+  {
+    "runNumber": "32376",
+    "rawCode": "MED",
+    "timestamp": "2026-06-17T11:27:37.755775-04:00",
+    "address": "2700 Block Jessica Lane",
+    "extra": {
+      "incidentNumber": "32376",
+      "run_id": "32376",
+      "address": "2700 Block Jessica Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32376"
+    }
   }
 ]
