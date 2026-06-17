@@ -3408,5 +3408,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32290"
     }
+  },
+  {
+    "runNumber": "32292",
+    "rawCode": "FINV",
+    "timestamp": "2026-06-16T20:29:47.674538-04:00",
+    "address": "330 Newtown Pike",
+    "extra": {
+      "incidentNumber": "32292",
+      "run_id": "32292",
+      "address": "330 Newtown Pike",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,L03",
+      "units": "E04,L03",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32292"
+    }
   }
 ]
