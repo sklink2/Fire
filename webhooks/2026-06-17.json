@@ -1296,5 +1296,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32375"
     }
+  },
+  {
+    "runNumber": "32374",
+    "rawCode": "FSMO",
+    "timestamp": "2026-06-17T11:23:41.224156-04:00",
+    "address": "744 Bellaire Avenue",
+    "extra": {
+      "incidentNumber": "32374",
+      "run_id": "32374",
+      "address": "744 Bellaire Avenue",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE1,E04,E10,L03,EC3,201",
+      "units": "FIRE1,E04,E10,L03,EC3,201",
+      "unitCount": "6",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-32374"
+    }
   }
 ]
