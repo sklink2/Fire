@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32394"
     }
+  },
+  {
+    "runNumber": "32395",
+    "rawCode": "FSTR",
+    "timestamp": "2026-06-17T13:19:55.394781-04:00",
+    "address": "400 Wilson Downing Road",
+    "extra": {
+      "incidentNumber": "32395",
+      "run_id": "32395",
+      "address": "400 Wilson Downing Road",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE1,E07,E08,E15,E22,L04,L07,EC9,202,204,220,RS1",
+      "units": "FIRE1,E07,E08,E15,E22,L04,L07,EC9,202,204,220,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "220,202,204",
+      "dedupeKey": "INCIDENT-32395"
+    }
   }
 ]
