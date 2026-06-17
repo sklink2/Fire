@@ -438,5 +438,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32336"
     }
+  },
+  {
+    "runNumber": "32337",
+    "rawCode": "FELS",
+    "timestamp": "2026-06-17T06:47:02.976694-04:00",
+    "address": "1 Street Joseph Drive",
+    "extra": {
+      "incidentNumber": "32337",
+      "run_id": "32337",
+      "address": "1 Street Joseph Drive",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE2,E12,L04,204",
+      "units": "FIRE2,E12,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-32337"
+    }
   }
 ]
