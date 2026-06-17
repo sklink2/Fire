@@ -1384,5 +1384,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-32378"
     }
+  },
+  {
+    "runNumber": "32379",
+    "rawCode": "FNGL",
+    "timestamp": "2026-06-17T11:59:44.672020-04:00",
+    "address": "3090 Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "32379",
+      "run_id": "32379",
+      "address": "3090 Harrodsburg Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE2,E11,E20,L04,EC5,204,220",
+      "units": "FIRE2,E11,E20,L04,EC5,204,220",
+      "unitCount": "7",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-32379"
+    }
   }
 ]
