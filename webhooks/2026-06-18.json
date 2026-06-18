@@ -2418,5 +2418,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32605"
     }
+  },
+  {
+    "runNumber": "32607",
+    "rawCode": "FINV",
+    "timestamp": "2026-06-18T11:34:35.040372-04:00",
+    "address": "140 Idle Hour Drive",
+    "extra": {
+      "incidentNumber": "32607",
+      "run_id": "32607",
+      "address": "140 Idle Hour Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09",
+      "units": "E09",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32607"
+    }
   }
 ]
