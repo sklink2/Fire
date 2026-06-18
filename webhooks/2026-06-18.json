@@ -1054,5 +1054,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32541"
     }
+  },
+  {
+    "runNumber": "32543",
+    "rawCode": "FWID",
+    "timestamp": "2026-06-18T06:29:58.044714-04:00",
+    "address": "721 Kirkland Drive",
+    "extra": {
+      "incidentNumber": "32543",
+      "run_id": "32543",
+      "address": "721 Kirkland Drive",
+      "rawType": "FWID",
+      "typeCode": "FWID",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15",
+      "units": "E15",
+      "unitCount": "1",
+      "primaryTopic": "FWID",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32543"
+    }
   }
 ]
