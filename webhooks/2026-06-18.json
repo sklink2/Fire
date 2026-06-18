@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32657"
     }
+  },
+  {
+    "runNumber": "32658",
+    "rawCode": "MED",
+    "timestamp": "2026-06-18T17:19:16.260914-04:00",
+    "address": "100 Block Preston Avenue",
+    "extra": {
+      "incidentNumber": "32658",
+      "run_id": "32658",
+      "address": "100 Block Preston Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32658"
+    }
   }
 ]
