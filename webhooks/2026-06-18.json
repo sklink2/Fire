@@ -3034,5 +3034,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-32642"
     }
+  },
+  {
+    "runNumber": "32641",
+    "rawCode": "MED",
+    "timestamp": "2026-06-18T15:55:13.801461-04:00",
+    "address": "N Broadway & W Loudon Avenue",
+    "extra": {
+      "incidentNumber": "32641",
+      "run_id": "32641",
+      "address": "N Broadway & W Loudon Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,EC2",
+      "units": "E04,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32641"
+    }
   }
 ]
