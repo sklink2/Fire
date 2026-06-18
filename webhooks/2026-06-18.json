@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32537"
     }
+  },
+  {
+    "runNumber": "32536",
+    "rawCode": "FWID",
+    "timestamp": "2026-06-18T06:18:04.258641-04:00",
+    "address": "430 Adair Road",
+    "extra": {
+      "incidentNumber": "32536",
+      "run_id": "32536",
+      "address": "430 Adair Road",
+      "rawType": "FWID",
+      "typeCode": "FWID",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05",
+      "units": "E05",
+      "unitCount": "1",
+      "primaryTopic": "FWID",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32536"
+    }
   }
 ]
