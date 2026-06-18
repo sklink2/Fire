@@ -3870,5 +3870,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32672"
     }
+  },
+  {
+    "runNumber": "32675",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-18T19:19:34.708150-04:00",
+    "address": "941 Mason Headley Road",
+    "extra": {
+      "incidentNumber": "32675",
+      "run_id": "32675",
+      "address": "941 Mason Headley Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE2,E11,E14,L02,203",
+      "units": "FIRE2,E11,E14,L02,203",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-32675"
+    }
   }
 ]
