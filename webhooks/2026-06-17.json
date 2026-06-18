@@ -3496,5 +3496,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32476"
     }
+  },
+  {
+    "runNumber": "32475",
+    "rawCode": "MED",
+    "timestamp": "2026-06-17T21:20:53.221390-04:00",
+    "address": "700 Block Bennett Avenue",
+    "extra": {
+      "incidentNumber": "32475",
+      "run_id": "32475",
+      "address": "700 Block Bennett Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10,RS1",
+      "units": "EC10,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32475"
+    }
   }
 ]
