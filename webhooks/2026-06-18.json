@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32525"
     }
+  },
+  {
+    "runNumber": "32542",
+    "rawCode": "MED",
+    "timestamp": "2026-06-18T06:25:58.842047-04:00",
+    "address": "1700 Block Jennifer Road",
+    "extra": {
+      "incidentNumber": "32542",
+      "run_id": "32542",
+      "address": "1700 Block Jennifer Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L05,EC2",
+      "units": "L05,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32542"
+    }
   }
 ]
