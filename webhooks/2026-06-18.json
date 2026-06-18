@@ -768,5 +768,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-32531"
     }
+  },
+  {
+    "runNumber": "32530",
+    "rawCode": "FWID",
+    "timestamp": "2026-06-18T06:06:07.425585-04:00",
+    "address": "N Broadway & W Fifth Street",
+    "extra": {
+      "incidentNumber": "32530",
+      "run_id": "32530",
+      "address": "N Broadway & W Fifth Street",
+      "rawType": "FWID",
+      "typeCode": "FWID",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "FWID",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32530"
+    }
   }
 ]
