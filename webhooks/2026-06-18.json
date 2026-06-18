@@ -548,5 +548,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-32520"
     }
+  },
+  {
+    "runNumber": "32519",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-18T05:01:58.109576-04:00",
+    "address": "1884 Barksdale Drive",
+    "extra": {
+      "incidentNumber": "32519",
+      "run_id": "32519",
+      "address": "1884 Barksdale Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE1,E08,E19,L03,201",
+      "units": "FIRE1,E08,E19,L03,201",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-32519"
+    }
   }
 ]
