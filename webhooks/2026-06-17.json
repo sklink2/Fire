@@ -3914,5 +3914,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32493"
     }
+  },
+  {
+    "runNumber": "32495",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-17T23:21:06.064104-04:00",
+    "address": "2329 Geranium Lane",
+    "extra": {
+      "incidentNumber": "32495",
+      "run_id": "32495",
+      "address": "2329 Geranium Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE1,E13,E24,L03,203",
+      "units": "FIRE1,E13,E24,L03,203",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-32495"
+    }
   }
 ]
