@@ -856,5 +856,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32535"
     }
+  },
+  {
+    "runNumber": "32534",
+    "rawCode": "FWID",
+    "timestamp": "2026-06-18T06:13:59.842860-04:00",
+    "address": "424 Park Avenue",
+    "extra": {
+      "incidentNumber": "32534",
+      "run_id": "32534",
+      "address": "424 Park Avenue",
+      "rawType": "FWID",
+      "typeCode": "FWID",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "FWID",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32534"
+    }
   }
 ]
