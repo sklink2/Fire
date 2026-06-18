@@ -1318,5 +1318,27 @@
       "commandUnits": "241,220,201,202",
       "dedupeKey": "INCIDENT-32552"
     }
+  },
+  {
+    "runNumber": "32555",
+    "rawCode": "FPLB",
+    "timestamp": "2026-06-18T07:14:03.484855-04:00",
+    "address": "1708 Jennifer Road",
+    "extra": {
+      "incidentNumber": "32555",
+      "run_id": "32555",
+      "address": "1708 Jennifer Road",
+      "rawType": "FPLB",
+      "typeCode": "FPLB",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E08",
+      "units": "E02,E08",
+      "unitCount": "2",
+      "primaryTopic": "FPLB",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32555"
+    }
   }
 ]
