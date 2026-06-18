@@ -64,5 +64,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32499"
     }
+  },
+  {
+    "runNumber": "32500",
+    "rawCode": "FINV",
+    "timestamp": "2026-06-18T00:33:14.655801-04:00",
+    "address": "1 Mentelle Park",
+    "extra": {
+      "incidentNumber": "32500",
+      "run_id": "32500",
+      "address": "1 Mentelle Park",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05",
+      "units": "E05",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32500"
+    }
   }
 ]
