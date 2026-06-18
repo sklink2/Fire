@@ -812,5 +812,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-32529"
     }
+  },
+  {
+    "runNumber": "32533",
+    "rawCode": "FINV",
+    "timestamp": "2026-06-18T06:09:57.101456-04:00",
+    "address": "721 Chiles Avenue",
+    "extra": {
+      "incidentNumber": "32533",
+      "run_id": "32533",
+      "address": "721 Chiles Avenue",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,L03",
+      "units": "E10,L03",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32533"
+    }
   }
 ]
