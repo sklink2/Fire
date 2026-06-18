@@ -152,5 +152,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32503"
     }
+  },
+  {
+    "runNumber": "32504",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-06-18T01:21:22.622700-04:00",
+    "address": "Winchester Road & Fortune Drive",
+    "extra": {
+      "incidentNumber": "32504",
+      "run_id": "32504",
+      "address": "Winchester Road & Fortune Drive",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE1,E02,L05,EC8,201,241,RS1",
+      "units": "FIRE1,E02,L05,EC8,201,241,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-32504"
+    }
   }
 ]
