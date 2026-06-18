@@ -1450,5 +1450,27 @@
       "commandUnits": "203,205",
       "dedupeKey": "INCIDENT-32560"
     }
+  },
+  {
+    "runNumber": "32561",
+    "rawCode": "FWID",
+    "timestamp": "2026-06-18T07:42:08.758369-04:00",
+    "address": "492 Bob O Link Drive",
+    "extra": {
+      "incidentNumber": "32561",
+      "run_id": "32561",
+      "address": "492 Bob O Link Drive",
+      "rawType": "FWID",
+      "typeCode": "FWID",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11",
+      "units": "E11",
+      "unitCount": "1",
+      "primaryTopic": "FWID",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32561"
+    }
   }
 ]
