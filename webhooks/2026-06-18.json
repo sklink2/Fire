@@ -4046,5 +4046,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32681"
     }
+  },
+  {
+    "runNumber": "32680",
+    "rawCode": "MED",
+    "timestamp": "2026-06-18T19:51:39.730136-04:00",
+    "address": "500 Block Pasadena Drive",
+    "extra": {
+      "incidentNumber": "32680",
+      "run_id": "32680",
+      "address": "500 Block Pasadena Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,EC12",
+      "units": "E12,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32680"
+    }
   }
 ]
