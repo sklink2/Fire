@@ -86,5 +86,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32500"
     }
+  },
+  {
+    "runNumber": "32501",
+    "rawCode": "MED",
+    "timestamp": "2026-06-18T00:37:13.762727-04:00",
+    "address": "400 Block S Ashland Avenue",
+    "extra": {
+      "incidentNumber": "32501",
+      "run_id": "32501",
+      "address": "400 Block S Ashland Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32501"
+    }
   }
 ]
