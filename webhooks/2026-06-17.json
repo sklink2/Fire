@@ -3562,5 +3562,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32480"
     }
+  },
+  {
+    "runNumber": "32479",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-17T21:24:54.277018-04:00",
+    "address": "4158 Buttermilk Road",
+    "extra": {
+      "incidentNumber": "32479",
+      "run_id": "32479",
+      "address": "4158 Buttermilk Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE1,E17,E21,L06,201",
+      "units": "FIRE1,E17,E21,L06,201",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-32479"
+    }
   }
 ]
