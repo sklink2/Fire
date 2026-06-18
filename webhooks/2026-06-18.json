@@ -2924,5 +2924,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32628"
     }
+  },
+  {
+    "runNumber": "32629",
+    "rawCode": "FGAO",
+    "timestamp": "2026-06-18T14:46:57.708335-04:00",
+    "address": "1571 Jacana Drive",
+    "extra": {
+      "incidentNumber": "32629",
+      "run_id": "32629",
+      "address": "1571 Jacana Drive",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E11",
+      "units": "E06,E11",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32629"
+    }
   }
 ]
