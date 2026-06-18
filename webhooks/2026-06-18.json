@@ -1252,5 +1252,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32551"
     }
+  },
+  {
+    "runNumber": "32554",
+    "rawCode": "FWID",
+    "timestamp": "2026-06-18T07:02:01.505234-04:00",
+    "address": "3840 Mt Horeb Pike",
+    "extra": {
+      "incidentNumber": "32554",
+      "run_id": "32554",
+      "address": "3840 Mt Horeb Pike",
+      "rawType": "FWID",
+      "typeCode": "FWID",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E19",
+      "units": "E19",
+      "unitCount": "1",
+      "primaryTopic": "FWID",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32554"
+    }
   }
 ]
