@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32540"
     }
+  },
+  {
+    "runNumber": "32525",
+    "rawCode": "MED",
+    "timestamp": "2026-06-18T06:22:00.867839-04:00",
+    "address": "2100 Block Wilkes Way",
+    "extra": {
+      "incidentNumber": "32525",
+      "run_id": "32525",
+      "address": "2100 Block Wilkes Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32525"
+    }
   }
 ]
