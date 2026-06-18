@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32527"
     }
+  },
+  {
+    "runNumber": "32526",
+    "rawCode": "MED",
+    "timestamp": "2026-06-18T05:58:01.833687-04:00",
+    "address": "1200 Block Oaklawn Park",
+    "extra": {
+      "incidentNumber": "32526",
+      "run_id": "32526",
+      "address": "1200 Block Oaklawn Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC13",
+      "units": "EC13",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32526"
+    }
   }
 ]
