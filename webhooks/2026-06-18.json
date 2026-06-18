@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32526"
     }
+  },
+  {
+    "runNumber": "32532",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-18T06:05:57.625396-04:00",
+    "address": "1520 Pine Meadow Road",
+    "extra": {
+      "incidentNumber": "32532",
+      "run_id": "32532",
+      "address": "1520 Pine Meadow Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE4,E12,E20,L04,201",
+      "units": "FIRE4,E12,E20,L04,201",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-32532"
+    }
   }
 ]
