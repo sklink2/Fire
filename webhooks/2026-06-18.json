@@ -3232,5 +3232,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32643"
     }
+  },
+  {
+    "runNumber": "32644",
+    "rawCode": "FPLB",
+    "timestamp": "2026-06-18T16:11:10.573714-04:00",
+    "address": "600 Cooper Drive",
+    "extra": {
+      "incidentNumber": "32644",
+      "run_id": "32644",
+      "address": "600 Cooper Drive",
+      "rawType": "FPLB",
+      "typeCode": "FPLB",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE2,E05,E07,L02,204",
+      "units": "FIRE2,E05,E07,L02,204",
+      "unitCount": "5",
+      "primaryTopic": "FPLB",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-32644"
+    }
   }
 ]
