@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32625"
     }
+  },
+  {
+    "runNumber": "32627",
+    "rawCode": "MED",
+    "timestamp": "2026-06-18T14:30:56.510624-04:00",
+    "address": "3200 Block Eagle View Lane",
+    "extra": {
+      "incidentNumber": "32627",
+      "run_id": "32627",
+      "address": "3200 Block Eagle View Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32627"
+    }
   }
 ]
