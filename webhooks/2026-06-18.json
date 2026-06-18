@@ -680,5 +680,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-32528"
     }
+  },
+  {
+    "runNumber": "32527",
+    "rawCode": "FWID",
+    "timestamp": "2026-06-18T05:57:59.840875-04:00",
+    "address": "263 N Broadway",
+    "extra": {
+      "incidentNumber": "32527",
+      "run_id": "32527",
+      "address": "263 N Broadway",
+      "rawType": "FWID",
+      "typeCode": "FWID",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "FWID",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32527"
+    }
   }
 ]
