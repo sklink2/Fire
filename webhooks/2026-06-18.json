@@ -3760,5 +3760,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32668"
     }
+  },
+  {
+    "runNumber": "32667",
+    "rawCode": "FVIS",
+    "timestamp": "2026-06-18T18:51:34.066583-04:00",
+    "address": "1040 Georgetown Road",
+    "extra": {
+      "incidentNumber": "32667",
+      "run_id": "32667",
+      "address": "1040 Georgetown Road",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE1,E08,E13,L03,EC3,203,RS1",
+      "units": "FIRE1,E08,E13,L03,EC3,203,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVIS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-32667"
+    }
   }
 ]
