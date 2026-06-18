@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32569"
     }
+  },
+  {
+    "runNumber": "32568",
+    "rawCode": "FWID",
+    "timestamp": "2026-06-18T08:10:13.999019-04:00",
+    "address": "610 Ivy Court",
+    "extra": {
+      "incidentNumber": "32568",
+      "run_id": "32568",
+      "address": "610 Ivy Court",
+      "rawType": "FWID",
+      "typeCode": "FWID",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "FWID",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32568"
+    }
   }
 ]
