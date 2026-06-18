@@ -1846,5 +1846,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-32580"
     }
+  },
+  {
+    "runNumber": "32579",
+    "rawCode": "MED",
+    "timestamp": "2026-06-18T09:14:22.881895-04:00",
+    "address": "75 Nb / 110.0 Mm (Winchester R",
+    "extra": {
+      "incidentNumber": "32579",
+      "run_id": "32579",
+      "address": "75 Nb / 110.0 Mm (Winchester R",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E17,EC8,CRT1",
+      "units": "E17,EC8,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32579"
+    }
   }
 ]
