@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32574"
     }
+  },
+  {
+    "runNumber": "32575",
+    "rawCode": "MED",
+    "timestamp": "2026-06-18T08:42:14.384335-04:00",
+    "address": "3000 Block Shady Knoll Rst",
+    "extra": {
+      "incidentNumber": "32575",
+      "run_id": "32575",
+      "address": "3000 Block Shady Knoll Rst",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32575"
+    }
   }
 ]
