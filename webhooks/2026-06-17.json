@@ -3386,5 +3386,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32470"
     }
+  },
+  {
+    "runNumber": "32469",
+    "rawCode": "MED",
+    "timestamp": "2026-06-17T20:48:48.686298-04:00",
+    "address": "1000 Block Greendale Road",
+    "extra": {
+      "incidentNumber": "32469",
+      "run_id": "32469",
+      "address": "1000 Block Greendale Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32469"
+    }
   }
 ]
