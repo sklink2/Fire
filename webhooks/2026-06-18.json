@@ -3716,5 +3716,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32665"
     }
+  },
+  {
+    "runNumber": "32666",
+    "rawCode": "MED",
+    "timestamp": "2026-06-18T18:47:28.669288-04:00",
+    "address": "1000 Block Newtown Pike",
+    "extra": {
+      "incidentNumber": "32666",
+      "run_id": "32666",
+      "address": "1000 Block Newtown Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32666"
+    }
   }
 ]
