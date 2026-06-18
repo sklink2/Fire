@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32600"
     }
+  },
+  {
+    "runNumber": "32599",
+    "rawCode": "MED",
+    "timestamp": "2026-06-18T11:02:34.686311-04:00",
+    "address": "2500 Block Buck Lane",
+    "extra": {
+      "incidentNumber": "32599",
+      "run_id": "32599",
+      "address": "2500 Block Buck Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32599"
+    }
   }
 ]
