@@ -1296,5 +1296,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32553"
     }
+  },
+  {
+    "runNumber": "32552",
+    "rawCode": "FSTR",
+    "timestamp": "2026-06-18T07:02:11.121020-04:00",
+    "address": "6174 Jacks Creek Pike",
+    "extra": {
+      "incidentNumber": "32552",
+      "run_id": "32552",
+      "address": "6174 Jacks Creek Pike",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE2,E09,E12,E18,E21,E22,L06,L07,T1,EC11,EC13,201,202,220,241,RS1",
+      "units": "FIRE2,E09,E12,E18,E21,E22,L06,L07,T1,EC11,EC13,201,202,220,241,RS1",
+      "unitCount": "16",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,202",
+      "dedupeKey": "INCIDENT-32552"
+    }
   }
 ]
