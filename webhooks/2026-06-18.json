@@ -526,5 +526,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32521"
     }
+  },
+  {
+    "runNumber": "32520",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-18T05:01:52.440161-04:00",
+    "address": "816 Foxcroft Court",
+    "extra": {
+      "incidentNumber": "32520",
+      "run_id": "32520",
+      "address": "816 Foxcroft Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE2,E02,E10,L05,205",
+      "units": "FIRE2,E02,E10,L05,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-32520"
+    }
   }
 ]
