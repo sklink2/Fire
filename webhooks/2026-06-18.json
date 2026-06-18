@@ -1406,5 +1406,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32556"
     }
+  },
+  {
+    "runNumber": "32559",
+    "rawCode": "FWID",
+    "timestamp": "2026-06-18T07:34:05.392358-04:00",
+    "address": "1300 Highland Park Drive",
+    "extra": {
+      "incidentNumber": "32559",
+      "run_id": "32559",
+      "address": "1300 Highland Park Drive",
+      "rawType": "FWID",
+      "typeCode": "FWID",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02",
+      "units": "E02",
+      "unitCount": "1",
+      "primaryTopic": "FWID",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32559"
+    }
   }
 ]
