@@ -3276,5 +3276,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32645"
     }
+  },
+  {
+    "runNumber": "32648",
+    "rawCode": "MED",
+    "timestamp": "2026-06-18T16:19:09.857840-04:00",
+    "address": "800 Block E Main Street",
+    "extra": {
+      "incidentNumber": "32648",
+      "run_id": "32648",
+      "address": "800 Block E Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L02",
+      "units": "L02",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32648"
+    }
   }
 ]
