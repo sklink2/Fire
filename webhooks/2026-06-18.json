@@ -2198,5 +2198,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32596"
     }
+  },
+  {
+    "runNumber": "32595",
+    "rawCode": "FELS",
+    "timestamp": "2026-06-18T10:50:35.863632-04:00",
+    "address": "1648 Mcgrathiana Parkway",
+    "extra": {
+      "incidentNumber": "32595",
+      "run_id": "32595",
+      "address": "1648 Mcgrathiana Parkway",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE1,E08,L03,203",
+      "units": "FIRE1,E08,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FELS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-32595"
+    }
   }
 ]
