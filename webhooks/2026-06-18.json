@@ -1516,5 +1516,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32563"
     }
+  },
+  {
+    "runNumber": "32564",
+    "rawCode": "MED",
+    "timestamp": "2026-06-18T08:02:10.554822-04:00",
+    "address": "100 Block Old Todds Road",
+    "extra": {
+      "incidentNumber": "32564",
+      "run_id": "32564",
+      "address": "100 Block Old Todds Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32564"
+    }
   }
 ]
