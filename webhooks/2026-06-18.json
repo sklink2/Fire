@@ -1428,5 +1428,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32559"
     }
+  },
+  {
+    "runNumber": "32560",
+    "rawCode": "FSTR",
+    "timestamp": "2026-06-18T07:38:10.421720-04:00",
+    "address": "5173 Briar Hill Road",
+    "extra": {
+      "incidentNumber": "32560",
+      "run_id": "32560",
+      "address": "5173 Briar Hill Road",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE1,E01,E04,E13,E17,E23,L03,L05,EC1,EC2,203,205",
+      "units": "FIRE1,E01,E04,E13,E17,E23,L03,L05,EC1,EC2,203,205",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "203,205",
+      "dedupeKey": "INCIDENT-32560"
+    }
   }
 ]
