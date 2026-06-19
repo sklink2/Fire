@@ -1516,5 +1516,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32780"
     }
+  },
+  {
+    "runNumber": "32783",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-19T12:09:38.244505-04:00",
+    "address": "Laurel Hill Road & Faircrest Drive",
+    "extra": {
+      "incidentNumber": "32783",
+      "run_id": "32783",
+      "address": "Laurel Hill Road & Faircrest Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,EC5",
+      "units": "E11,EC5",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32783"
+    }
   }
 ]
