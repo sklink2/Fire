@@ -1230,5 +1230,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32769"
     }
+  },
+  {
+    "runNumber": "32770",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T10:41:29.611470-04:00",
+    "address": "3400 Block Chestnut Hill Lane",
+    "extra": {
+      "incidentNumber": "32770",
+      "run_id": "32770",
+      "address": "3400 Block Chestnut Hill Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32770"
+    }
   }
 ]
