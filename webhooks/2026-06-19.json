@@ -878,5 +878,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-32753"
     }
+  },
+  {
+    "runNumber": "32754",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T08:01:11.146399-04:00",
+    "address": "1400 Block Corona Drive",
+    "extra": {
+      "incidentNumber": "32754",
+      "run_id": "32754",
+      "address": "1400 Block Corona Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC9,241",
+      "units": "E20,EC9,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-32754"
+    }
   }
 ]
