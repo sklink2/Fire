@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32825"
     }
+  },
+  {
+    "runNumber": "32826",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T15:58:09.571404-04:00",
+    "address": "500 Block Whitfield Drive",
+    "extra": {
+      "incidentNumber": "32826",
+      "run_id": "32826",
+      "address": "500 Block Whitfield Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32826"
+    }
   }
 ]
