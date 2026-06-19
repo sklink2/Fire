@@ -4552,5 +4552,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32704"
     }
+  },
+  {
+    "runNumber": "32703",
+    "rawCode": "MED",
+    "timestamp": "2026-06-18T21:59:58.102172-04:00",
+    "address": "3600 Block Winthrop Drive",
+    "extra": {
+      "incidentNumber": "32703",
+      "run_id": "32703",
+      "address": "3600 Block Winthrop Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC12",
+      "units": "E15,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32703"
+    }
   }
 ]
