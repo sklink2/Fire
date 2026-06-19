@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32792"
     }
+  },
+  {
+    "runNumber": "32794",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T13:17:48.312531-04:00",
+    "address": "600 Block Mannington Place",
+    "extra": {
+      "incidentNumber": "32794",
+      "run_id": "32794",
+      "address": "600 Block Mannington Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "255",
+      "units": "255",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32794"
+    }
   }
 ]
