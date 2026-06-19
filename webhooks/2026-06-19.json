@@ -262,5 +262,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32725"
     }
+  },
+  {
+    "runNumber": "32726",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T01:44:22.860516-04:00",
+    "address": "3400 Block Grasmere Drive",
+    "extra": {
+      "incidentNumber": "32726",
+      "run_id": "32726",
+      "address": "3400 Block Grasmere Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC9",
+      "units": "E20,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32726"
+    }
   }
 ]
