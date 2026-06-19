@@ -108,5 +108,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32719"
     }
+  },
+  {
+    "runNumber": "32718",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T00:36:16.625651-04:00",
+    "address": "3000 Block Richmond Road",
+    "extra": {
+      "incidentNumber": "32718",
+      "run_id": "32718",
+      "address": "3000 Block Richmond Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32718"
+    }
   }
 ]
