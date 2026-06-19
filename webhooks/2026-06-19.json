@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32748"
     }
+  },
+  {
+    "runNumber": "32749",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T07:33:06.586190-04:00",
+    "address": "900 Block Chas Drive",
+    "extra": {
+      "incidentNumber": "32749",
+      "run_id": "32749",
+      "address": "900 Block Chas Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32749"
+    }
   }
 ]
