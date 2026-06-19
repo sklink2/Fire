@@ -1604,5 +1604,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32787"
     }
+  },
+  {
+    "runNumber": "32786",
+    "rawCode": "FMEA",
+    "timestamp": "2026-06-19T12:21:44.718057-04:00",
+    "address": "442 Kimberly Place",
+    "extra": {
+      "incidentNumber": "32786",
+      "run_id": "32786",
+      "address": "442 Kimberly Place",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12",
+      "units": "E12",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32786"
+    }
   }
 ]
