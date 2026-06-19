@@ -1098,5 +1098,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32763"
     }
+  },
+  {
+    "runNumber": "32765",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-19T10:17:28.587332-04:00",
+    "address": "909 Firethorn Place",
+    "extra": {
+      "incidentNumber": "32765",
+      "run_id": "32765",
+      "address": "909 Firethorn Place",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E16,E22,L07,202",
+      "units": "FIRE1,E16,E22,L07,202",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-32765"
+    }
   }
 ]
