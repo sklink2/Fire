@@ -2858,5 +2858,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32843"
     }
+  },
+  {
+    "runNumber": "32845",
+    "rawCode": "FOTS",
+    "timestamp": "2026-06-19T17:30:20.891472-04:00",
+    "address": "720 Chiles Avenue",
+    "extra": {
+      "incidentNumber": "32845",
+      "run_id": "32845",
+      "address": "720 Chiles Avenue",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10",
+      "units": "E10",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32845"
+    }
   }
 ]
