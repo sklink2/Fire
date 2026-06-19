@@ -834,5 +834,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32752"
     }
+  },
+  {
+    "runNumber": "32751",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T07:45:08.709127-04:00",
+    "address": "2400 Block Ogden Way",
+    "extra": {
+      "incidentNumber": "32751",
+      "run_id": "32751",
+      "address": "2400 Block Ogden Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32751"
+    }
   }
 ]
