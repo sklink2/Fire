@@ -2154,5 +2154,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32813"
     }
+  },
+  {
+    "runNumber": "32812",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T14:50:02.972519-04:00",
+    "address": "2300 Block Paris Pike",
+    "extra": {
+      "incidentNumber": "32812",
+      "run_id": "32812",
+      "address": "2300 Block Paris Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC6",
+      "units": "E08,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32812"
+    }
   }
 ]
