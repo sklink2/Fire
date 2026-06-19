@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32820"
     }
+  },
+  {
+    "runNumber": "32821",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-19T15:38:09.306946-04:00",
+    "address": "1921 Oxford Circle",
+    "extra": {
+      "incidentNumber": "32821",
+      "run_id": "32821",
+      "address": "1921 Oxford Circle",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E11,E14,L04,204",
+      "units": "FIRE1,E11,E14,L04,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-32821"
+    }
   }
 ]
