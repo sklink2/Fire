@@ -3298,5 +3298,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-32863"
     }
+  },
+  {
+    "runNumber": "32865",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T19:34:37.381592-04:00",
+    "address": "E Fifth Street & N Martin Luther K",
+    "extra": {
+      "incidentNumber": "32865",
+      "run_id": "32865",
+      "address": "E Fifth Street & N Martin Luther K",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32865"
+    }
   }
 ]
