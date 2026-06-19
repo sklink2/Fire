@@ -328,5 +328,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32728"
     }
+  },
+  {
+    "runNumber": "32729",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T02:24:29.245434-04:00",
+    "address": "300 Block S Broadway",
+    "extra": {
+      "incidentNumber": "32729",
+      "run_id": "32729",
+      "address": "300 Block S Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "RS1",
+      "units": "RS1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32729"
+    }
   }
 ]
