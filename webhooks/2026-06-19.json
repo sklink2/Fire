@@ -2660,5 +2660,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-32835"
     }
+  },
+  {
+    "runNumber": "32836",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T16:42:16.655296-04:00",
+    "address": "500 Block Pemberton Street",
+    "extra": {
+      "incidentNumber": "32836",
+      "run_id": "32836",
+      "address": "500 Block Pemberton Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32836"
+    }
   }
 ]
