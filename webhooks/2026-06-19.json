@@ -2198,5 +2198,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32814"
     }
+  },
+  {
+    "runNumber": "32816",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T15:06:04.020800-04:00",
+    "address": "0 Block Imperial Avenue",
+    "extra": {
+      "incidentNumber": "32816",
+      "run_id": "32816",
+      "address": "0 Block Imperial Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,EC10",
+      "units": "E10,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32816"
+    }
   }
 ]
