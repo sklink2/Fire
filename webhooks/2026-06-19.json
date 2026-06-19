@@ -372,5 +372,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32731"
     }
+  },
+  {
+    "runNumber": "32730",
+    "rawCode": "FCMS",
+    "timestamp": "2026-06-19T02:28:35.465870-04:00",
+    "address": "3650 Boston Road",
+    "extra": {
+      "incidentNumber": "32730",
+      "run_id": "32730",
+      "address": "3650 Boston Road",
+      "rawType": "FCMS",
+      "typeCode": "FCMS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE1,E15,E16,L04,EC4,202,220,241",
+      "units": "FIRE1,E15,E16,L04,EC4,202,220,241",
+      "unitCount": "8",
+      "primaryTopic": "FCMS",
+      "commandUnits": "241,220,202",
+      "dedupeKey": "INCIDENT-32730"
+    }
   }
 ]
