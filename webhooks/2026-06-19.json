@@ -1978,5 +1978,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32805"
     }
+  },
+  {
+    "runNumber": "32804",
+    "rawCode": "FMIS",
+    "timestamp": "2026-06-19T14:26:01.182725-04:00",
+    "address": "2244 Ice House Way",
+    "extra": {
+      "incidentNumber": "32804",
+      "run_id": "32804",
+      "address": "2244 Ice House Way",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E21,201,CRT1",
+      "units": "FIRE1,E21,201,CRT1",
+      "unitCount": "4",
+      "primaryTopic": "FMIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-32804"
+    }
   }
 ]
