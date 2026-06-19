@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32755"
     }
+  },
+  {
+    "runNumber": "32756",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-19T08:17:11.244408-04:00",
+    "address": "Iron Works Pike & N 75 Ramp",
+    "extra": {
+      "incidentNumber": "32756",
+      "run_id": "32756",
+      "address": "Iron Works Pike & N 75 Ramp",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E19,E24,EC10",
+      "units": "FIRE1,E19,E24,EC10",
+      "unitCount": "4",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32756"
+    }
   }
 ]
