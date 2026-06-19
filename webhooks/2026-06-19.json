@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32785"
     }
+  },
+  {
+    "runNumber": "32787",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T12:21:42.403836-04:00",
+    "address": "300 Block Blueberry Road",
+    "extra": {
+      "incidentNumber": "32787",
+      "run_id": "32787",
+      "address": "300 Block Blueberry Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "251",
+      "units": "251",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32787"
+    }
   }
 ]
