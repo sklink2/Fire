@@ -394,5 +394,27 @@
       "commandUnits": "241,220,202",
       "dedupeKey": "INCIDENT-32730"
     }
+  },
+  {
+    "runNumber": "32732",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-19T03:00:33.906983-04:00",
+    "address": "1800 Dalton Court",
+    "extra": {
+      "incidentNumber": "32732",
+      "run_id": "32732",
+      "address": "1800 Dalton Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE2,E02,E08,L05,201",
+      "units": "FIRE2,E02,E08,L05,201",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-32732"
+    }
   }
 ]
