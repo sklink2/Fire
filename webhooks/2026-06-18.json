@@ -4442,5 +4442,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-32697"
     }
+  },
+  {
+    "runNumber": "32699",
+    "rawCode": "MED",
+    "timestamp": "2026-06-18T21:39:49.324176-04:00",
+    "address": "600 Block Bishop Drive",
+    "extra": {
+      "incidentNumber": "32699",
+      "run_id": "32699",
+      "address": "600 Block Bishop Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC6",
+      "units": "E08,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32699"
+    }
   }
 ]
