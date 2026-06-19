@@ -2264,5 +2264,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32818"
     }
+  },
+  {
+    "runNumber": "32817",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T15:14:06.854805-04:00",
+    "address": "1000 Block Celia Lane",
+    "extra": {
+      "incidentNumber": "32817",
+      "run_id": "32817",
+      "address": "1000 Block Celia Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32817"
+    }
   }
 ]
