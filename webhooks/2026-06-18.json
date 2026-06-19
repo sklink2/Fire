@@ -4684,5 +4684,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32709"
     }
+  },
+  {
+    "runNumber": "32711",
+    "rawCode": "MED",
+    "timestamp": "2026-06-18T23:28:01.623447-04:00",
+    "address": "300 Block Corral Street",
+    "extra": {
+      "incidentNumber": "32711",
+      "run_id": "32711",
+      "address": "300 Block Corral Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC7",
+      "units": "E01,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32711"
+    }
   }
 ]
