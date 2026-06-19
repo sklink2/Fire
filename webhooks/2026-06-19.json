@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32831"
     }
+  },
+  {
+    "runNumber": "32830",
+    "rawCode": "FOTS",
+    "timestamp": "2026-06-19T16:10:14.510155-04:00",
+    "address": "219 E Third Street",
+    "extra": {
+      "incidentNumber": "32830",
+      "run_id": "32830",
+      "address": "219 E Third Street",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "RS1",
+      "units": "RS1",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32830"
+    }
   }
 ]
