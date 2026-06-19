@@ -1010,5 +1010,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-32759"
     }
+  },
+  {
+    "runNumber": "32760",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T08:57:16.955957-04:00",
+    "address": "3800 Block Sparrow Court",
+    "extra": {
+      "incidentNumber": "32760",
+      "run_id": "32760",
+      "address": "3800 Block Sparrow Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L04,EC4",
+      "units": "L04,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32760"
+    }
   }
 ]
