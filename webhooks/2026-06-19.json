@@ -1912,5 +1912,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32801"
     }
+  },
+  {
+    "runNumber": "32802",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T14:13:55.772537-04:00",
+    "address": "600 Block Wellington Way",
+    "extra": {
+      "incidentNumber": "32802",
+      "run_id": "32802",
+      "address": "600 Block Wellington Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32802"
+    }
   }
 ]
