@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32743"
     }
+  },
+  {
+    "runNumber": "32745",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-19T07:09:02.255343-04:00",
+    "address": "Woodhill Drive & E New Circle Road",
+    "extra": {
+      "incidentNumber": "32745",
+      "run_id": "32745",
+      "address": "Woodhill Drive & E New Circle Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32745"
+    }
   }
 ]
