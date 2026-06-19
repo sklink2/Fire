@@ -1406,5 +1406,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32777"
     }
+  },
+  {
+    "runNumber": "32779",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T11:37:34.536378-04:00",
+    "address": "1700 Block Liberty Road",
+    "extra": {
+      "incidentNumber": "32779",
+      "run_id": "32779",
+      "address": "1700 Block Liberty Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L05,EC1,EC8",
+      "units": "L05,EC1,EC8",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32779"
+    }
   }
 ]
