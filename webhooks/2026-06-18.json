@@ -4266,5 +4266,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32690"
     }
+  },
+  {
+    "runNumber": "32691",
+    "rawCode": "FNGL",
+    "timestamp": "2026-06-18T20:31:43.677960-04:00",
+    "address": "662 Springhurst Drive",
+    "extra": {
+      "incidentNumber": "32691",
+      "run_id": "32691",
+      "address": "662 Springhurst Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE1,E11,E20,L04,EC11,204,220",
+      "units": "FIRE1,E11,E20,L04,EC11,204,220",
+      "unitCount": "7",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-32691"
+    }
   }
 ]
