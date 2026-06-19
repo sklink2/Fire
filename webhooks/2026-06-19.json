@@ -3386,5 +3386,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32868"
     }
+  },
+  {
+    "runNumber": "32869",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T19:50:40.320376-04:00",
+    "address": "3300 Block Hartston Drive",
+    "extra": {
+      "incidentNumber": "32869",
+      "run_id": "32869",
+      "address": "3300 Block Hartston Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32869"
+    }
   }
 ]
