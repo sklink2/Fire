@@ -1714,5 +1714,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32790"
     }
+  },
+  {
+    "runNumber": "32792",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T13:01:46.926932-04:00",
+    "address": "400 Block Fox Harbour Drive",
+    "extra": {
+      "incidentNumber": "32792",
+      "run_id": "32792",
+      "address": "400 Block Fox Harbour Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC4",
+      "units": "E22,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32792"
+    }
   }
 ]
