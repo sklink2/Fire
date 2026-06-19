@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32746"
     }
+  },
+  {
+    "runNumber": "32747",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T07:25:03.617633-04:00",
+    "address": "700 Block Fitzroy Lane",
+    "extra": {
+      "incidentNumber": "32747",
+      "run_id": "32747",
+      "address": "700 Block Fitzroy Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC12",
+      "units": "E22,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32747"
+    }
   }
 ]
