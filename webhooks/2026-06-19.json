@@ -2066,5 +2066,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32807"
     }
+  },
+  {
+    "runNumber": "32810",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T14:37:59.638373-04:00",
+    "address": "1700 Block Mccullough Drive",
+    "extra": {
+      "incidentNumber": "32810",
+      "run_id": "32810",
+      "address": "1700 Block Mccullough Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E19,EC1",
+      "units": "E19,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32810"
+    }
   }
 ]
