@@ -2946,5 +2946,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32848"
     }
+  },
+  {
+    "runNumber": "32849",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-19T18:06:27.719752-04:00",
+    "address": "431 Westerfield Way",
+    "extra": {
+      "incidentNumber": "32849",
+      "run_id": "32849",
+      "address": "431 Westerfield Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E12,E15,L04,204",
+      "units": "FIRE1,E12,E15,L04,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-32849"
+    }
   }
 ]
