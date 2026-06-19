@@ -2990,5 +2990,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-32850"
     }
+  },
+  {
+    "runNumber": "32852",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-19T18:14:28.060918-04:00",
+    "address": "Richmond Road & Lincoln Avenue",
+    "extra": {
+      "incidentNumber": "32852",
+      "run_id": "32852",
+      "address": "Richmond Road & Lincoln Avenue",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32852"
+    }
   }
 ]
