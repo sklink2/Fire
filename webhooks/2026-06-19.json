@@ -2022,5 +2022,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32806"
     }
+  },
+  {
+    "runNumber": "32808",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-19T14:34:01.623431-04:00",
+    "address": "1945 Eastland Parkway",
+    "extra": {
+      "incidentNumber": "32808",
+      "run_id": "32808",
+      "address": "1945 Eastland Parkway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE2,E08,E09,L05,205",
+      "units": "FIRE2,E08,E09,L05,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-32808"
+    }
   }
 ]
