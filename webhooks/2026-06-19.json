@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32786"
     }
+  },
+  {
+    "runNumber": "32788",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-19T12:41:43.814009-04:00",
+    "address": "1551 Aristides Boulevard",
+    "extra": {
+      "incidentNumber": "32788",
+      "run_id": "32788",
+      "address": "1551 Aristides Boulevard",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E08,E10,L03,205",
+      "units": "FIRE1,E08,E10,L03,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-32788"
+    }
   }
 ]
