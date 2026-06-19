@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32745"
     }
+  },
+  {
+    "runNumber": "32746",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T07:21:03.144903-04:00",
+    "address": "1300 Block Grafton Drive",
+    "extra": {
+      "incidentNumber": "32746",
+      "run_id": "32746",
+      "address": "1300 Block Grafton Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32746"
+    }
   }
 ]
