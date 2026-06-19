@@ -1208,5 +1208,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32767"
     }
+  },
+  {
+    "runNumber": "32769",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T10:33:28.077246-04:00",
+    "address": "600 Block Cardiff Lane",
+    "extra": {
+      "incidentNumber": "32769",
+      "run_id": "32769",
+      "address": "600 Block Cardiff Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "254",
+      "units": "254",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32769"
+    }
   }
 ]
