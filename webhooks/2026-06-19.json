@@ -2638,5 +2638,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32833"
     }
+  },
+  {
+    "runNumber": "32835",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-19T16:30:16.249252-04:00",
+    "address": "351 Meijer Way",
+    "extra": {
+      "incidentNumber": "32835",
+      "run_id": "32835",
+      "address": "351 Meijer Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E07,E15,L07,202",
+      "units": "FIRE1,E07,E15,L07,202",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-32835"
+    }
   }
 ]
