@@ -1318,5 +1318,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32773"
     }
+  },
+  {
+    "runNumber": "32774",
+    "rawCode": "FSMO",
+    "timestamp": "2026-06-19T11:13:34.560557-04:00",
+    "address": "2041 Street Michael Drive",
+    "extra": {
+      "incidentNumber": "32774",
+      "run_id": "32774",
+      "address": "2041 Street Michael Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E02,E09,L05,EC3,201",
+      "units": "FIRE1,E02,E09,L05,EC3,201",
+      "unitCount": "6",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-32774"
+    }
   }
 ]
