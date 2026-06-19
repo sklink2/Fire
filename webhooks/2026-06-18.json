@@ -4640,5 +4640,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-32708"
     }
+  },
+  {
+    "runNumber": "32710",
+    "rawCode": "MED",
+    "timestamp": "2026-06-18T22:55:58.179520-04:00",
+    "address": "200 Block Shady Lane",
+    "extra": {
+      "incidentNumber": "32710",
+      "run_id": "32710",
+      "address": "200 Block Shady Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32710"
+    }
   }
 ]
