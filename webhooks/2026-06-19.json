@@ -3056,5 +3056,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32854"
     }
+  },
+  {
+    "runNumber": "32853",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T18:18:33.247740-04:00",
+    "address": "4000 Block Iron Works Pike",
+    "extra": {
+      "incidentNumber": "32853",
+      "run_id": "32853",
+      "address": "4000 Block Iron Works Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E19,EC3,241",
+      "units": "E19,EC3,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-32853"
+    }
   }
 ]
