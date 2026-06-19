@@ -4420,5 +4420,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32698"
     }
+  },
+  {
+    "runNumber": "32697",
+    "rawCode": "MED",
+    "timestamp": "2026-06-18T21:35:53.217309-04:00",
+    "address": "100 Block Buchanan Street",
+    "extra": {
+      "incidentNumber": "32697",
+      "run_id": "32697",
+      "address": "100 Block Buchanan Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,EC10,241",
+      "units": "E04,EC10,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-32697"
+    }
   }
 ]
