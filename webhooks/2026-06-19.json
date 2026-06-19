@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32836"
     }
+  },
+  {
+    "runNumber": "32837",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-19T16:46:17.580205-04:00",
+    "address": "3101 Clays Mill Road",
+    "extra": {
+      "incidentNumber": "32837",
+      "run_id": "32837",
+      "address": "3101 Clays Mill Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E15,E20,L04,204",
+      "units": "FIRE1,E15,E20,L04,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-32837"
+    }
   }
 ]
