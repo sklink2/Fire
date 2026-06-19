@@ -4662,5 +4662,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32710"
     }
+  },
+  {
+    "runNumber": "32709",
+    "rawCode": "MED",
+    "timestamp": "2026-06-18T22:56:01.147830-04:00",
+    "address": "400 Block Hawkins Avenue",
+    "extra": {
+      "incidentNumber": "32709",
+      "run_id": "32709",
+      "address": "400 Block Hawkins Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32709"
+    }
   }
 ]
