@@ -416,5 +416,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-32732"
     }
+  },
+  {
+    "runNumber": "32733",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-19T03:56:40.304809-04:00",
+    "address": "3648 Rabbits Foot Trail",
+    "extra": {
+      "incidentNumber": "32733",
+      "run_id": "32733",
+      "address": "3648 Rabbits Foot Trail",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "FIRE2,E11,E20,L02,204",
+      "units": "FIRE2,E11,E20,L02,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-32733"
+    }
   }
 ]
