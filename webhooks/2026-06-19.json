@@ -3276,5 +3276,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32864"
     }
+  },
+  {
+    "runNumber": "32863",
+    "rawCode": "FELS",
+    "timestamp": "2026-06-19T19:18:40.140724-04:00",
+    "address": "230 W Main Street",
+    "extra": {
+      "incidentNumber": "32863",
+      "run_id": "32863",
+      "address": "230 W Main Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,L01,203,RS1",
+      "units": "FIRE1,L01,203,RS1",
+      "unitCount": "4",
+      "primaryTopic": "FELS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-32863"
+    }
   }
 ]
