@@ -1142,5 +1142,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32764"
     }
+  },
+  {
+    "runNumber": "32766",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T10:21:26.834401-04:00",
+    "address": "300 Block Jefferson Street",
+    "extra": {
+      "incidentNumber": "32766",
+      "run_id": "32766",
+      "address": "300 Block Jefferson Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32766"
+    }
   }
 ]
