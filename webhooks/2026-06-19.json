@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32757"
     }
+  },
+  {
+    "runNumber": "32758",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-19T08:41:16.077783-04:00",
+    "address": "1644 Richmond Road",
+    "extra": {
+      "incidentNumber": "32758",
+      "run_id": "32758",
+      "address": "1644 Richmond Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE2,E05,E09,205",
+      "units": "FIRE2,E05,E09,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-32758"
+    }
   }
 ]
