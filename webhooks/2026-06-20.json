@@ -834,5 +834,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32948"
     }
+  },
+  {
+    "runNumber": "32945",
+    "rawCode": "FDET",
+    "timestamp": "2026-06-20T08:16:13.034656-04:00",
+    "address": "8949 Old Richmond Road",
+    "extra": {
+      "incidentNumber": "32945",
+      "run_id": "32945",
+      "address": "8949 Old Richmond Road",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE5,E09,EC2",
+      "units": "FIRE5,E09,EC2",
+      "unitCount": "3",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32945"
+    }
   }
 ]
