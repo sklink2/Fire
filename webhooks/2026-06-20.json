@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32994"
     }
+  },
+  {
+    "runNumber": "32997",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-20T14:37:17.495185-04:00",
+    "address": "1501 Anniston Drive",
+    "extra": {
+      "incidentNumber": "32997",
+      "run_id": "32997",
+      "address": "1501 Anniston Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E09,L05,205",
+      "units": "E02,E09,L05,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-32997"
+    }
   }
 ]
