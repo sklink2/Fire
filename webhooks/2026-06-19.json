@@ -3958,5 +3958,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-32894"
     }
+  },
+  {
+    "runNumber": "32895",
+    "rawCode": "FELF",
+    "timestamp": "2026-06-19T22:27:01.160376-04:00",
+    "address": "800 Rose Street",
+    "extra": {
+      "incidentNumber": "32895",
+      "run_id": "32895",
+      "address": "800 Rose Street",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE2,E05,E06,E11,L02,EC7,204",
+      "units": "FIRE2,E05,E06,E11,L02,EC7,204",
+      "unitCount": "7",
+      "primaryTopic": "FELF",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-32895"
+    }
   }
 ]
