@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32954"
     }
+  },
+  {
+    "runNumber": "32954",
+    "rawCode": "FNGL",
+    "timestamp": "2026-06-20T09:16:21.930627-04:00",
+    "address": "496 E High Street",
+    "extra": {
+      "incidentNumber": "32954",
+      "run_id": "32954",
+      "address": "496 E High Street",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE1,E05,E06,L02,EC1,205,220",
+      "units": "FIRE1,E05,E06,L02,EC1,205,220",
+      "unitCount": "7",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-32954"
+    }
   }
 ]
