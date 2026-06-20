@@ -3936,5 +3936,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32892"
     }
+  },
+  {
+    "runNumber": "32894",
+    "rawCode": "FSIA",
+    "timestamp": "2026-06-19T22:18:59.314180-04:00",
+    "address": "Dale Drive & Red River Drive",
+    "extra": {
+      "incidentNumber": "32894",
+      "run_id": "32894",
+      "address": "Dale Drive & Red River Drive",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "FIRE1,E07,E22,202",
+      "units": "FIRE1,E07,E22,202",
+      "unitCount": "4",
+      "primaryTopic": "FSIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-32894"
+    }
   }
 ]
