@@ -2616,5 +2616,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33031"
     }
+  },
+  {
+    "runNumber": "33030",
+    "rawCode": "FSMO",
+    "timestamp": "2026-06-20T17:46:46.135155-04:00",
+    "address": "226 Mousas Way",
+    "extra": {
+      "incidentNumber": "33030",
+      "run_id": "33030",
+      "address": "226 Mousas Way",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E21,L06,EC2,201",
+      "units": "E09,E21,L06,EC2,201",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-33030"
+    }
   }
 ]
