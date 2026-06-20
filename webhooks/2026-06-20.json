@@ -2748,5 +2748,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33036"
     }
+  },
+  {
+    "runNumber": "33037",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-20T18:49:52.834338-04:00",
+    "address": "300 E Third Street",
+    "extra": {
+      "incidentNumber": "33037",
+      "run_id": "33037",
+      "address": "300 E Third Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33037"
+    }
   }
 ]
