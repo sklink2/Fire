@@ -3782,5 +3782,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32887"
     }
+  },
+  {
+    "runNumber": "32886",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-19T21:54:59.412000-04:00",
+    "address": "Winchester Road & Brown Avenue",
+    "extra": {
+      "incidentNumber": "32886",
+      "run_id": "32886",
+      "address": "Winchester Road & Brown Avenue",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC8,241",
+      "units": "E02,EC8,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-32886"
+    }
   }
 ]
