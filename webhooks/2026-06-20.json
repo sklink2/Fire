@@ -2264,5 +2264,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33016"
     }
+  },
+  {
+    "runNumber": "33015",
+    "rawCode": "FGAO",
+    "timestamp": "2026-06-20T16:08:30.459643-04:00",
+    "address": "513 E Maxwell Street",
+    "extra": {
+      "incidentNumber": "33015",
+      "run_id": "33015",
+      "address": "513 E Maxwell Street",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E06",
+      "units": "E05,E06",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33015"
+    }
   }
 ]
