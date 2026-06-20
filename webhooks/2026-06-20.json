@@ -1890,5 +1890,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-32997"
     }
+  },
+  {
+    "runNumber": "32996",
+    "rawCode": "MED",
+    "timestamp": "2026-06-20T14:37:21.164663-04:00",
+    "address": "3400 Block Westridge Circle",
+    "extra": {
+      "incidentNumber": "32996",
+      "run_id": "32996",
+      "address": "3400 Block Westridge Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,EC4",
+      "units": "E07,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32996"
+    }
   }
 ]
