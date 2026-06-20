@@ -328,5 +328,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32925"
     }
+  },
+  {
+    "runNumber": "32926",
+    "rawCode": "MED",
+    "timestamp": "2026-06-20T04:03:42.439104-04:00",
+    "address": "300 Block Madison Place",
+    "extra": {
+      "incidentNumber": "32926",
+      "run_id": "32926",
+      "address": "300 Block Madison Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32926"
+    }
   }
 ]
