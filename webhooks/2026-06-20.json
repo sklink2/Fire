@@ -1010,5 +1010,27 @@
       "commandUnits": "220,205",
       "dedupeKey": "INCIDENT-32954"
     }
+  },
+  {
+    "runNumber": "32955",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-06-20T09:24:21.855901-04:00",
+    "address": "444 S Ashland Avenue",
+    "extra": {
+      "incidentNumber": "32955",
+      "run_id": "32955",
+      "address": "444 S Ashland Avenue",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32955"
+    }
   }
 ]
