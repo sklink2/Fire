@@ -1714,5 +1714,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-32988"
     }
+  },
+  {
+    "runNumber": "32987",
+    "rawCode": "MED",
+    "timestamp": "2026-06-20T14:02:15.095802-04:00",
+    "address": "2500 Block Kearney Ridge Boulevard",
+    "extra": {
+      "incidentNumber": "32987",
+      "run_id": "32987",
+      "address": "2500 Block Kearney Ridge Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1,RS1,CRT1",
+      "units": "EC1,RS1,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32987"
+    }
   }
 ]
