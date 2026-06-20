@@ -2968,5 +2968,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33045"
     }
+  },
+  {
+    "runNumber": "33047",
+    "rawCode": "MED",
+    "timestamp": "2026-06-20T19:46:01.815442-04:00",
+    "address": "400 Block Cromwell Way",
+    "extra": {
+      "incidentNumber": "33047",
+      "run_id": "33047",
+      "address": "400 Block Cromwell Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33047"
+    }
   }
 ]
