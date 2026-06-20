@@ -1978,5 +1978,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33001"
     }
+  },
+  {
+    "runNumber": "33002",
+    "rawCode": "MED",
+    "timestamp": "2026-06-20T15:05:19.713347-04:00",
+    "address": "100 Block Louie Place",
+    "extra": {
+      "incidentNumber": "33002",
+      "run_id": "33002",
+      "address": "100 Block Louie Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,EC10",
+      "units": "E13,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33002"
+    }
   }
 ]
