@@ -790,5 +790,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32945"
     }
+  },
+  {
+    "runNumber": "32947",
+    "rawCode": "MED",
+    "timestamp": "2026-06-20T08:00:12.097426-04:00",
+    "address": "200 Block Old Georgetown Street",
+    "extra": {
+      "incidentNumber": "32947",
+      "run_id": "32947",
+      "address": "200 Block Old Georgetown Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC7,RS1,CRT1",
+      "units": "EC7,RS1,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32947"
+    }
   }
 ]
