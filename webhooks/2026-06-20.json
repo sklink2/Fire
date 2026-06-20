@@ -2374,5 +2374,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33017"
     }
+  },
+  {
+    "runNumber": "33020",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-20T16:26:04.558241-04:00",
+    "address": "301 S Broadway",
+    "extra": {
+      "incidentNumber": "33020",
+      "run_id": "33020",
+      "address": "301 S Broadway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E06,L01,205",
+      "units": "E04,E06,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-33020"
+    }
   }
 ]
