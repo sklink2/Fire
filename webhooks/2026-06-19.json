@@ -4178,5 +4178,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32903"
     }
+  },
+  {
+    "runNumber": "32906",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T23:47:09.106453-04:00",
+    "address": "100 Block Trade Street",
+    "extra": {
+      "incidentNumber": "32906",
+      "run_id": "32906",
+      "address": "100 Block Trade Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,EC1",
+      "units": "E24,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32906"
+    }
   }
 ]
