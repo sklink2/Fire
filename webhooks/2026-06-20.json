@@ -2000,5 +2000,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33002"
     }
+  },
+  {
+    "runNumber": "33003",
+    "rawCode": "FVEH",
+    "timestamp": "2026-06-20T15:19:22.733303-04:00",
+    "address": "64 Eb / 88.0 Mm",
+    "extra": {
+      "incidentNumber": "33003",
+      "run_id": "33003",
+      "address": "64 Eb / 88.0 Mm",
+      "rawType": "FVEH",
+      "typeCode": "FVEH",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,E23",
+      "units": "E17,E23",
+      "unitCount": "2",
+      "primaryTopic": "FVEH",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33003"
+    }
   }
 ]
