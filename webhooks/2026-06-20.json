@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32943"
     }
+  },
+  {
+    "runNumber": "32944",
+    "rawCode": "MED",
+    "timestamp": "2026-06-20T07:48:10.455111-04:00",
+    "address": "700 Block Halford Place",
+    "extra": {
+      "incidentNumber": "32944",
+      "run_id": "32944",
+      "address": "700 Block Halford Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC1",
+      "units": "E24,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32944"
+    }
   }
 ]
