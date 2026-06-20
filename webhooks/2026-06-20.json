@@ -2044,5 +2044,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33006"
     }
+  },
+  {
+    "runNumber": "33004",
+    "rawCode": "MED",
+    "timestamp": "2026-06-20T15:22:57.256273-04:00",
+    "address": "2500 Block Mackenzie Lane",
+    "extra": {
+      "incidentNumber": "33004",
+      "run_id": "33004",
+      "address": "2500 Block Mackenzie Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33004"
+    }
   }
 ]
