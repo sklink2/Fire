@@ -3804,5 +3804,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-32886"
     }
+  },
+  {
+    "runNumber": "32890",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T22:06:57.534365-04:00",
+    "address": "2400 Block Woodhill Drive",
+    "extra": {
+      "incidentNumber": "32890",
+      "run_id": "32890",
+      "address": "2400 Block Woodhill Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32890"
+    }
   }
 ]
