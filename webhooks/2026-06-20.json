@@ -1164,5 +1164,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32961"
     }
+  },
+  {
+    "runNumber": "32962",
+    "rawCode": "MED",
+    "timestamp": "2026-06-20T10:31:40.584873-04:00",
+    "address": "4000 Block Syringa Drive",
+    "extra": {
+      "incidentNumber": "32962",
+      "run_id": "32962",
+      "address": "4000 Block Syringa Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,EC9",
+      "units": "E20,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32962"
+    }
   }
 ]
