@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32933"
     }
+  },
+  {
+    "runNumber": "32934",
+    "rawCode": "MED",
+    "timestamp": "2026-06-20T06:15:58.734514-04:00",
+    "address": "1300 Block Trent Boulevard",
+    "extra": {
+      "incidentNumber": "32934",
+      "run_id": "32934",
+      "address": "1300 Block Trent Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32934"
+    }
   }
 ]
