@@ -3518,5 +3518,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32872"
     }
+  },
+  {
+    "runNumber": "32877",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T20:10:40.380203-04:00",
+    "address": "600 Block Portland Drive",
+    "extra": {
+      "incidentNumber": "32877",
+      "run_id": "32877",
+      "address": "600 Block Portland Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,EC5",
+      "units": "E11,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32877"
+    }
   }
 ]
