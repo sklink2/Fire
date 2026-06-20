@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32969"
     }
+  },
+  {
+    "runNumber": "32970",
+    "rawCode": "FELS",
+    "timestamp": "2026-06-20T11:59:23.069790-04:00",
+    "address": "800 Rose Street",
+    "extra": {
+      "incidentNumber": "32970",
+      "run_id": "32970",
+      "address": "800 Rose Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,L02,204",
+      "units": "E12,L02,204",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-32970"
+    }
   }
 ]
