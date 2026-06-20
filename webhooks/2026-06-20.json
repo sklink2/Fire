@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32953"
     }
+  },
+  {
+    "runNumber": "32954",
+    "rawCode": "FGAO",
+    "timestamp": "2026-06-20T09:04:20.003256-04:00",
+    "address": "496 E High Street",
+    "extra": {
+      "incidentNumber": "32954",
+      "run_id": "32954",
+      "address": "496 E High Street",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E06",
+      "units": "E05,E06",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32954"
+    }
   }
 ]
