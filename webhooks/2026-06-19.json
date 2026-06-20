@@ -4112,5 +4112,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32901"
     }
+  },
+  {
+    "runNumber": "32902",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T23:31:07.262918-04:00",
+    "address": "3400 Block Greenlawn Drive",
+    "extra": {
+      "incidentNumber": "32902",
+      "run_id": "32902",
+      "address": "3400 Block Greenlawn Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32902"
+    }
   }
 ]
