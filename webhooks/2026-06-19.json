@@ -3474,5 +3474,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-32874"
     }
+  },
+  {
+    "runNumber": "32873",
+    "rawCode": "MED",
+    "timestamp": "2026-06-19T20:06:45.740350-04:00",
+    "address": "3200 Block Loch Ness Drive",
+    "extra": {
+      "incidentNumber": "32873",
+      "run_id": "32873",
+      "address": "3200 Block Loch Ness Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32873"
+    }
   }
 ]
