@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32942"
     }
+  },
+  {
+    "runNumber": "32943",
+    "rawCode": "MED",
+    "timestamp": "2026-06-20T07:44:10.918208-04:00",
+    "address": "1300 Block Devonport Drive",
+    "extra": {
+      "incidentNumber": "32943",
+      "run_id": "32943",
+      "address": "1300 Block Devonport Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32943"
+    }
   }
 ]
