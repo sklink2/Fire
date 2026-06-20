@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32986"
     }
+  },
+  {
+    "runNumber": "32988",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-20T14:02:12.251404-04:00",
+    "address": "Winchester Road & Combs Ferry Road",
+    "extra": {
+      "incidentNumber": "32988",
+      "run_id": "32988",
+      "address": "Winchester Road & Combs Ferry Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,EC11,241",
+      "units": "E17,EC11,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-32988"
+    }
   }
 ]
