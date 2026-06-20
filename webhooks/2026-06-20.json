@@ -2110,5 +2110,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33008"
     }
+  },
+  {
+    "runNumber": "33009",
+    "rawCode": "MED",
+    "timestamp": "2026-06-20T15:43:55.584057-04:00",
+    "address": "3300 Block Montavesta Road",
+    "extra": {
+      "incidentNumber": "33009",
+      "run_id": "33009",
+      "address": "3300 Block Montavesta Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33009"
+    }
   }
 ]
