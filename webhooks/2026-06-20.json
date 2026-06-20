@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32946"
     }
+  },
+  {
+    "runNumber": "32945",
+    "rawCode": "MED",
+    "timestamp": "2026-06-20T07:52:13.677070-04:00",
+    "address": "8900 Block Old Richmond Road",
+    "extra": {
+      "incidentNumber": "32945",
+      "run_id": "32945",
+      "address": "8900 Block Old Richmond Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE5,E09,EC2",
+      "units": "FIRE5,E09,EC2",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32945"
+    }
   }
 ]
