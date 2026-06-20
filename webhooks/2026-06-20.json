@@ -306,5 +306,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32924"
     }
+  },
+  {
+    "runNumber": "32925",
+    "rawCode": "MED",
+    "timestamp": "2026-06-20T03:43:40.888243-04:00",
+    "address": "100 Block Northland Drive",
+    "extra": {
+      "incidentNumber": "32925",
+      "run_id": "32925",
+      "address": "100 Block Northland Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32925"
+    }
   }
 ]
