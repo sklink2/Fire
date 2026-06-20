@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33042"
     }
+  },
+  {
+    "runNumber": "33043",
+    "rawCode": "MED",
+    "timestamp": "2026-06-20T19:28:29.448779-04:00",
+    "address": "900 Block Marbella Lane",
+    "extra": {
+      "incidentNumber": "33043",
+      "run_id": "33043",
+      "address": "900 Block Marbella Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33043"
+    }
   }
 ]
