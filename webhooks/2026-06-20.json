@@ -900,5 +900,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32951"
     }
+  },
+  {
+    "runNumber": "32950",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-20T08:40:19.001375-04:00",
+    "address": "351 Scott Street",
+    "extra": {
+      "incidentNumber": "32950",
+      "run_id": "32950",
+      "address": "351 Scott Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "FIRE1,E01,E06,L02,204",
+      "units": "FIRE1,E01,E06,L02,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-32950"
+    }
   }
 ]
