@@ -416,5 +416,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-32929"
     }
+  },
+  {
+    "runNumber": "32930",
+    "rawCode": "MED",
+    "timestamp": "2026-06-20T05:31:53.215858-04:00",
+    "address": "3700 Block Maple Ridge Circle",
+    "extra": {
+      "incidentNumber": "32930",
+      "run_id": "32930",
+      "address": "3700 Block Maple Ridge Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-32930"
+    }
   }
 ]
