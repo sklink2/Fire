@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33159"
     }
+  },
+  {
+    "runNumber": "33160",
+    "rawCode": "MED",
+    "timestamp": "2026-06-21T11:15:52.271454-04:00",
+    "address": "2200 Block Buena Vista Road",
+    "extra": {
+      "incidentNumber": "33160",
+      "run_id": "33160",
+      "address": "2200 Block Buena Vista Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33160"
+    }
   }
 ]
