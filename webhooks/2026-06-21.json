@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33157"
     }
+  },
+  {
+    "runNumber": "33158",
+    "rawCode": "MED",
+    "timestamp": "2026-06-21T10:58:16.253657-04:00",
+    "address": "2100 Block Liberty Road",
+    "extra": {
+      "incidentNumber": "33158",
+      "run_id": "33158",
+      "address": "2100 Block Liberty Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC2",
+      "units": "E02,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33158"
+    }
   }
 ]
