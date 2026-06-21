@@ -2264,5 +2264,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33199"
     }
+  },
+  {
+    "runNumber": "33200",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-06-21T15:49:26.175460-04:00",
+    "address": "3501 King Arthur Drive",
+    "extra": {
+      "incidentNumber": "33200",
+      "run_id": "33200",
+      "address": "3501 King Arthur Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E15",
+      "units": "E07,E15",
+      "unitCount": "2",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33200"
+    }
   }
 ]
