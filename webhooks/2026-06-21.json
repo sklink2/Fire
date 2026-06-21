@@ -240,5 +240,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33103"
     }
+  },
+  {
+    "runNumber": "33105",
+    "rawCode": "MED",
+    "timestamp": "2026-06-21T01:19:22.973553-04:00",
+    "address": "2000 Block Street Michael Drive",
+    "extra": {
+      "incidentNumber": "33105",
+      "run_id": "33105",
+      "address": "2000 Block Street Michael Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33105"
+    }
   }
 ]
