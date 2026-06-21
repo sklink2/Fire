@@ -108,5 +108,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33098"
     }
+  },
+  {
+    "runNumber": "33099",
+    "rawCode": "MED",
+    "timestamp": "2026-06-21T00:33:44.172215-04:00",
+    "address": "2300 Block Woodhill Drive",
+    "extra": {
+      "incidentNumber": "33099",
+      "run_id": "33099",
+      "address": "2300 Block Woodhill Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33099"
+    }
   }
 ]
