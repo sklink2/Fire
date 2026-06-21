@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33072"
     }
+  },
+  {
+    "runNumber": "33074",
+    "rawCode": "MED",
+    "timestamp": "2026-06-20T21:41:50.189826-04:00",
+    "address": "2500 Block Larkin Road",
+    "extra": {
+      "incidentNumber": "33074",
+      "run_id": "33074",
+      "address": "2500 Block Larkin Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33074"
+    }
   }
 ]
