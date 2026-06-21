@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33114"
     }
+  },
+  {
+    "runNumber": "33115",
+    "rawCode": "MED",
+    "timestamp": "2026-06-21T02:47:04.012611-04:00",
+    "address": "3000 Block Old Todds Road",
+    "extra": {
+      "incidentNumber": "33115",
+      "run_id": "33115",
+      "address": "3000 Block Old Todds Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33115"
+    }
   }
 ]
