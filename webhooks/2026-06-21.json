@@ -2704,5 +2704,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33217"
     }
+  },
+  {
+    "runNumber": "33219",
+    "rawCode": "MED",
+    "timestamp": "2026-06-21T18:37:50.803065-04:00",
+    "address": "2100 Block Faye Circle",
+    "extra": {
+      "incidentNumber": "33219",
+      "run_id": "33219",
+      "address": "2100 Block Faye Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33219"
+    }
   }
 ]
