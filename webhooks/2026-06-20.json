@@ -3452,5 +3452,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33068"
     }
+  },
+  {
+    "runNumber": "33070",
+    "rawCode": "MED",
+    "timestamp": "2026-06-20T21:24:16.036509-04:00",
+    "address": "100 Block Delmont Drive",
+    "extra": {
+      "incidentNumber": "33070",
+      "run_id": "33070",
+      "address": "100 Block Delmont Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,EC12",
+      "units": "E13,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33070"
+    }
   }
 ]
