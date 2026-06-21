@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33127"
     }
+  },
+  {
+    "runNumber": "33128",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-21T05:28:28.213065-04:00",
+    "address": "2040 Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "33128",
+      "run_id": "33128",
+      "address": "2040 Harrodsburg Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,EC12,241",
+      "units": "E11,EC12,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-33128"
+    }
   }
 ]
