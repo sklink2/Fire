@@ -1604,5 +1604,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33169"
     }
+  },
+  {
+    "runNumber": "33171",
+    "rawCode": "MED",
+    "timestamp": "2026-06-21T12:26:01.167321-04:00",
+    "address": "1600 Block Russell Cave Road",
+    "extra": {
+      "incidentNumber": "33171",
+      "run_id": "33171",
+      "address": "1600 Block Russell Cave Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC6,203",
+      "units": "EC6,203",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-33171"
+    }
   }
 ]
