@@ -1846,5 +1846,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33179"
     }
+  },
+  {
+    "runNumber": "33180",
+    "rawCode": "MED",
+    "timestamp": "2026-06-21T13:36:08.887006-04:00",
+    "address": "1700 Block Blue Ridge Drive",
+    "extra": {
+      "incidentNumber": "33180",
+      "run_id": "33180",
+      "address": "1700 Block Blue Ridge Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33180"
+    }
   }
 ]
