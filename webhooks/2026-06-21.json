@@ -1758,5 +1758,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33175"
     }
+  },
+  {
+    "runNumber": "33176",
+    "rawCode": "MED",
+    "timestamp": "2026-06-21T13:01:05.078351-04:00",
+    "address": "300 Block W Reynolds Road",
+    "extra": {
+      "incidentNumber": "33176",
+      "run_id": "33176",
+      "address": "300 Block W Reynolds Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33176"
+    }
   }
 ]
