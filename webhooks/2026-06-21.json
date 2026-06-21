@@ -394,5 +394,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33110"
     }
+  },
+  {
+    "runNumber": "33112",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-06-21T02:04:57.385866-04:00",
+    "address": "3970 Northampton Drive",
+    "extra": {
+      "incidentNumber": "33112",
+      "run_id": "33112",
+      "address": "3970 Northampton Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15",
+      "units": "E15",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33112"
+    }
   }
 ]
