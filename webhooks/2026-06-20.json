@@ -3496,5 +3496,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33069"
     }
+  },
+  {
+    "runNumber": "33071",
+    "rawCode": "FASS",
+    "timestamp": "2026-06-20T21:31:17.831074-04:00",
+    "address": "1024 Greendale Road",
+    "extra": {
+      "incidentNumber": "33071",
+      "run_id": "33071",
+      "address": "1024 Greendale Road",
+      "rawType": "FASS",
+      "typeCode": "FASS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC3",
+      "units": "E24,EC3",
+      "unitCount": "2",
+      "primaryTopic": "FASS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33071"
+    }
   }
 ]
