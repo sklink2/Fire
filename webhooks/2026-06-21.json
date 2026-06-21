@@ -1648,5 +1648,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33170"
     }
+  },
+  {
+    "runNumber": "33172",
+    "rawCode": "MED",
+    "timestamp": "2026-06-21T12:29:30.047548-04:00",
+    "address": "100 Block W Bell Court",
+    "extra": {
+      "incidentNumber": "33172",
+      "run_id": "33172",
+      "address": "100 Block W Bell Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L02,EC11",
+      "units": "L02,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33172"
+    }
   }
 ]
