@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33137"
     }
+  },
+  {
+    "runNumber": "33139",
+    "rawCode": "MED",
+    "timestamp": "2026-06-21T08:41:28.539287-04:00",
+    "address": "3500 Block Huffman Mill Pike",
+    "extra": {
+      "incidentNumber": "33139",
+      "run_id": "33139",
+      "address": "3500 Block Huffman Mill Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E19,EC6",
+      "units": "E19,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33139"
+    }
   }
 ]
