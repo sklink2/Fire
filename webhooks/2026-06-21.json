@@ -416,5 +416,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33112"
     }
+  },
+  {
+    "runNumber": "33113",
+    "rawCode": "MED",
+    "timestamp": "2026-06-21T02:15:29.727990-04:00",
+    "address": "200 Block Willard Street",
+    "extra": {
+      "incidentNumber": "33113",
+      "run_id": "33113",
+      "address": "200 Block Willard Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10,RS1",
+      "units": "EC10,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33113"
+    }
   }
 ]
