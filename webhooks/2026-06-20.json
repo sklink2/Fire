@@ -3936,5 +3936,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33091"
     }
+  },
+  {
+    "runNumber": "33090",
+    "rawCode": "FSTR",
+    "timestamp": "2026-06-20T23:27:11.465927-04:00",
+    "address": "3768 Lady Di Lane",
+    "extra": {
+      "incidentNumber": "33090",
+      "run_id": "33090",
+      "address": "3768 Lady Di Lane",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E09,E16,E22,L04,L07,EC4,202,204,220,241,RS1",
+      "units": "E07,E09,E16,E22,L04,L07,EC4,202,204,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,202,204",
+      "dedupeKey": "INCIDENT-33090"
+    }
   }
 ]
