@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33109"
     }
+  },
+  {
+    "runNumber": "33111",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-21T02:01:28.905263-04:00",
+    "address": "1608 Versailles Road",
+    "extra": {
+      "incidentNumber": "33111",
+      "run_id": "33111",
+      "address": "1608 Versailles Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,E14,L01,203",
+      "units": "E13,E14,L01,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-33111"
+    }
   }
 ]
