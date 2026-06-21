@@ -86,5 +86,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-33097"
     }
+  },
+  {
+    "runNumber": "33098",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-21T00:30:14.032585-04:00",
+    "address": "773 Rambling Creek Drive",
+    "extra": {
+      "incidentNumber": "33098",
+      "run_id": "33098",
+      "address": "773 Rambling Creek Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC8",
+      "units": "E21,EC8",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33098"
+    }
   }
 ]
