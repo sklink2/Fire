@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33223"
     }
+  },
+  {
+    "runNumber": "33224",
+    "rawCode": "FINV",
+    "timestamp": "2026-06-21T18:58:54.179229-04:00",
+    "address": "3800 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "33224",
+      "run_id": "33224",
+      "address": "3800 Nicholasville Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,L04",
+      "units": "E07,L04",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33224"
+    }
   }
 ]
