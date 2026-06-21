@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33116"
     }
+  },
+  {
+    "runNumber": "33117",
+    "rawCode": "MED",
+    "timestamp": "2026-06-21T03:01:06.396464-04:00",
+    "address": "2100 Block Cypress Drive",
+    "extra": {
+      "incidentNumber": "33117",
+      "run_id": "33117",
+      "address": "2100 Block Cypress Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33117"
+    }
   }
 ]
