@@ -2462,5 +2462,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33208"
     }
+  },
+  {
+    "runNumber": "33209",
+    "rawCode": "MED",
+    "timestamp": "2026-06-21T16:49:07.881409-04:00",
+    "address": "W Maxwell Street & S Broadway",
+    "extra": {
+      "incidentNumber": "33209",
+      "run_id": "33209",
+      "address": "W Maxwell Street & S Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "241,RS1",
+      "units": "241,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-33209"
+    }
   }
 ]
