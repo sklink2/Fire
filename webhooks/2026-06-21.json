@@ -2836,5 +2836,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33225"
     }
+  },
+  {
+    "runNumber": "33226",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-21T19:55:02.474402-04:00",
+    "address": "150 E Main Street",
+    "extra": {
+      "incidentNumber": "33226",
+      "run_id": "33226",
+      "address": "150 E Main Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E05,E06,L01,205",
+      "units": "E01,E05,E06,L01,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-33226"
+    }
   }
 ]
