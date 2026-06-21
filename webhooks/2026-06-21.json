@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33212"
     }
+  },
+  {
+    "runNumber": "33211",
+    "rawCode": "MED",
+    "timestamp": "2026-06-21T16:59:39.194334-04:00",
+    "address": "3400 Block Captiva Court",
+    "extra": {
+      "incidentNumber": "33211",
+      "run_id": "33211",
+      "address": "3400 Block Captiva Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L06,EC2",
+      "units": "L06,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33211"
+    }
   }
 ]
