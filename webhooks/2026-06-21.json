@@ -2660,5 +2660,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33216"
     }
+  },
+  {
+    "runNumber": "33218",
+    "rawCode": "FMIS",
+    "timestamp": "2026-06-21T18:23:50.642279-04:00",
+    "address": "3365 Pepperhill Road",
+    "extra": {
+      "incidentNumber": "33218",
+      "run_id": "33218",
+      "address": "3365 Pepperhill Road",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,202",
+      "units": "E07,202",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-33218"
+    }
   }
 ]
