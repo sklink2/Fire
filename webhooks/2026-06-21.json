@@ -592,5 +592,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33121"
     }
+  },
+  {
+    "runNumber": "33120",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-21T03:50:14.224431-04:00",
+    "address": "845 Ward Drive",
+    "extra": {
+      "incidentNumber": "33120",
+      "run_id": "33120",
+      "address": "845 Ward Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33120"
+    }
   }
 ]
