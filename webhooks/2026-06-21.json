@@ -988,5 +988,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-33140"
     }
+  },
+  {
+    "runNumber": "33141",
+    "rawCode": "MED",
+    "timestamp": "2026-06-21T08:55:28.381115-04:00",
+    "address": "3600 Block Boston Road",
+    "extra": {
+      "incidentNumber": "33141",
+      "run_id": "33141",
+      "address": "3600 Block Boston Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33141"
+    }
   }
 ]
