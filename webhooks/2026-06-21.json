@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33206"
     }
+  },
+  {
+    "runNumber": "33205",
+    "rawCode": "FDUM",
+    "timestamp": "2026-06-21T16:17:33.787908-04:00",
+    "address": "2443 Sir Barton Way",
+    "extra": {
+      "incidentNumber": "33205",
+      "run_id": "33205",
+      "address": "2443 Sir Barton Way",
+      "rawType": "FDUM",
+      "typeCode": "FDUM",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02",
+      "units": "E02",
+      "unitCount": "1",
+      "primaryTopic": "FDUM",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33205"
+    }
   }
 ]
