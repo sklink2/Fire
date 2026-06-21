@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33167"
     }
+  },
+  {
+    "runNumber": "33169",
+    "rawCode": "FINV",
+    "timestamp": "2026-06-21T12:15:28.696993-04:00",
+    "address": "3705 N Cleveland Road",
+    "extra": {
+      "incidentNumber": "33169",
+      "run_id": "33169",
+      "address": "3705 N Cleveland Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E17",
+      "units": "E17",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33169"
+    }
   }
 ]
