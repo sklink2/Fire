@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33180"
     }
+  },
+  {
+    "runNumber": "33181",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-21T13:39:39.283646-04:00",
+    "address": "3414 Iron Works Pike",
+    "extra": {
+      "incidentNumber": "33181",
+      "run_id": "33181",
+      "address": "3414 Iron Works Pike",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,E19,L03,203",
+      "units": "E10,E19,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-33181"
+    }
   }
 ]
