@@ -2242,5 +2242,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33196"
     }
+  },
+  {
+    "runNumber": "33199",
+    "rawCode": "MED",
+    "timestamp": "2026-06-21T15:31:55.690176-04:00",
+    "address": "1100 Block Winbak Way",
+    "extra": {
+      "incidentNumber": "33199",
+      "run_id": "33199",
+      "address": "1100 Block Winbak Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33199"
+    }
   }
 ]
