@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33203"
     }
+  },
+  {
+    "runNumber": "33204",
+    "rawCode": "MED",
+    "timestamp": "2026-06-21T16:07:00.965963-04:00",
+    "address": "400 Block Jefferson Street",
+    "extra": {
+      "incidentNumber": "33204",
+      "run_id": "33204",
+      "address": "400 Block Jefferson Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33204"
+    }
   }
 ]
