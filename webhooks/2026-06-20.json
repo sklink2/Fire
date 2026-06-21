@@ -3078,5 +3078,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33051"
     }
+  },
+  {
+    "runNumber": "33053",
+    "rawCode": "FSIA",
+    "timestamp": "2026-06-20T20:03:35.094486-04:00",
+    "address": "1178 Colorado Road",
+    "extra": {
+      "incidentNumber": "33053",
+      "run_id": "33053",
+      "address": "1178 Colorado Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E17,201",
+      "units": "E02,E17,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-33053"
+    }
   }
 ]
