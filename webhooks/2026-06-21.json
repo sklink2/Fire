@@ -1142,5 +1142,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33147"
     }
+  },
+  {
+    "runNumber": "33149",
+    "rawCode": "MED",
+    "timestamp": "2026-06-21T09:58:38.000193-04:00",
+    "address": "1800 Block Dalna Drive",
+    "extra": {
+      "incidentNumber": "33149",
+      "run_id": "33149",
+      "address": "1800 Block Dalna Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33149"
+    }
   }
 ]
