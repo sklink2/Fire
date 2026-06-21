@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33178"
     }
+  },
+  {
+    "runNumber": "33179",
+    "rawCode": "MED",
+    "timestamp": "2026-06-21T13:29:08.273322-04:00",
+    "address": "100 Block Brown Avenue",
+    "extra": {
+      "incidentNumber": "33179",
+      "run_id": "33179",
+      "address": "100 Block Brown Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33179"
+    }
   }
 ]
