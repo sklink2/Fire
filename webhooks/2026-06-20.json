@@ -3474,5 +3474,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33070"
     }
+  },
+  {
+    "runNumber": "33069",
+    "rawCode": "MED",
+    "timestamp": "2026-06-20T21:24:18.980989-04:00",
+    "address": "2100 Block Winterberry Drive",
+    "extra": {
+      "incidentNumber": "33069",
+      "run_id": "33069",
+      "address": "2100 Block Winterberry Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,EC5",
+      "units": "E20,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33069"
+    }
   }
 ]
