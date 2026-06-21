@@ -372,5 +372,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-33111"
     }
+  },
+  {
+    "runNumber": "33110",
+    "rawCode": "MED",
+    "timestamp": "2026-06-21T02:01:32.002005-04:00",
+    "address": "800 Block N Broadway",
+    "extra": {
+      "incidentNumber": "33110",
+      "run_id": "33110",
+      "address": "800 Block N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33110"
+    }
   }
 ]
