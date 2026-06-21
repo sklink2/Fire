@@ -3364,5 +3364,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33064"
     }
+  },
+  {
+    "runNumber": "33065",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-20T20:59:43.974415-04:00",
+    "address": "212 Culpepper Road",
+    "extra": {
+      "incidentNumber": "33065",
+      "run_id": "33065",
+      "address": "212 Culpepper Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E09,L02,205",
+      "units": "E05,E09,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-33065"
+    }
   }
 ]
