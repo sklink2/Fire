@@ -3606,5 +3606,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33076"
     }
+  },
+  {
+    "runNumber": "33075",
+    "rawCode": "MED",
+    "timestamp": "2026-06-20T22:02:54.865789-04:00",
+    "address": "900 Block Maywick Drive",
+    "extra": {
+      "incidentNumber": "33075",
+      "run_id": "33075",
+      "address": "900 Block Maywick Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33075"
+    }
   }
 ]
