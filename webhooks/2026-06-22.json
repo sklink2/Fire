@@ -1802,5 +1802,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33342"
     }
+  },
+  {
+    "runNumber": "33344",
+    "rawCode": "MED",
+    "timestamp": "2026-06-22T10:46:06.392817-04:00",
+    "address": "1000 Block Valley Avenue",
+    "extra": {
+      "incidentNumber": "33344",
+      "run_id": "33344",
+      "address": "1000 Block Valley Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33344"
+    }
   }
 ]
