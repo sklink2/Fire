@@ -834,5 +834,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33298"
     }
+  },
+  {
+    "runNumber": "33299",
+    "rawCode": "FWTR",
+    "timestamp": "2026-06-22T08:43:25.531255-04:00",
+    "address": "Press Avenue & Transcript Avenue",
+    "extra": {
+      "incidentNumber": "33299",
+      "run_id": "33299",
+      "address": "Press Avenue & Transcript Avenue",
+      "rawType": "FWTR",
+      "typeCode": "FWTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E08,E12,L02,EC7,204,205,241,RS1,251",
+      "units": "E06,E08,E12,L02,EC7,204,205,241,RS1,251",
+      "unitCount": "10",
+      "primaryTopic": "FWTR",
+      "commandUnits": "241,204,205",
+      "dedupeKey": "INCIDENT-33299"
+    }
   }
 ]
