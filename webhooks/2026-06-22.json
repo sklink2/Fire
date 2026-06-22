@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33300"
     }
+  },
+  {
+    "runNumber": "33304",
+    "rawCode": "FASS",
+    "timestamp": "2026-06-22T08:50:23.619348-04:00",
+    "address": "E Second Street & Elm Tree Lane",
+    "extra": {
+      "incidentNumber": "33304",
+      "run_id": "33304",
+      "address": "E Second Street & Elm Tree Lane",
+      "rawType": "FASS",
+      "typeCode": "FASS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "202",
+      "units": "202",
+      "unitCount": "1",
+      "primaryTopic": "FASS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-33304"
+    }
   }
 ]
