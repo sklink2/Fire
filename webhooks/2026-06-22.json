@@ -2418,5 +2418,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-33374"
     }
+  },
+  {
+    "runNumber": "33373",
+    "rawCode": "FMEA",
+    "timestamp": "2026-06-22T13:17:01.105647-04:00",
+    "address": "474 Monticello Boulevard",
+    "extra": {
+      "incidentNumber": "33373",
+      "run_id": "33373",
+      "address": "474 Monticello Boulevard",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15",
+      "units": "E15",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33373"
+    }
   }
 ]
