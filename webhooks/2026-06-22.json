@@ -2506,5 +2506,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-33377"
     }
+  },
+  {
+    "runNumber": "33378",
+    "rawCode": "MED",
+    "timestamp": "2026-06-22T13:37:59.952607-04:00",
+    "address": "2200 Block Nicholasville Road",
+    "extra": {
+      "incidentNumber": "33378",
+      "run_id": "33378",
+      "address": "2200 Block Nicholasville Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,EC2",
+      "units": "E07,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33378"
+    }
   }
 ]
