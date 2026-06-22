@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33322"
     }
+  },
+  {
+    "runNumber": "33314",
+    "rawCode": "FASS",
+    "timestamp": "2026-06-22T09:21:59.313764-04:00",
+    "address": "1545 Alexandria Drive",
+    "extra": {
+      "incidentNumber": "33314",
+      "run_id": "33314",
+      "address": "1545 Alexandria Drive",
+      "rawType": "FASS",
+      "typeCode": "FASS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FASS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33314"
+    }
   }
 ]
