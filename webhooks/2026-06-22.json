@@ -1054,5 +1054,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-33308"
     }
+  },
+  {
+    "runNumber": "33312",
+    "rawCode": "FUTL",
+    "timestamp": "2026-06-22T09:04:23.439464-04:00",
+    "address": "1825 Liberty Road",
+    "extra": {
+      "incidentNumber": "33312",
+      "run_id": "33312",
+      "address": "1825 Liberty Road",
+      "rawType": "FUTL",
+      "typeCode": "FUTL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L06",
+      "units": "L06",
+      "unitCount": "1",
+      "primaryTopic": "FUTL",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33312"
+    }
   }
 ]
