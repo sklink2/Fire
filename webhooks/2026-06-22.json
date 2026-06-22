@@ -3386,5 +3386,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33420"
     }
+  },
+  {
+    "runNumber": "33423",
+    "rawCode": "FELS",
+    "timestamp": "2026-06-22T17:26:05.267912-04:00",
+    "address": "1447 Antique Drive",
+    "extra": {
+      "incidentNumber": "33423",
+      "run_id": "33423",
+      "address": "1447 Antique Drive",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,L01,203",
+      "units": "E13,L01,203",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-33423"
+    }
   }
 ]
