@@ -3584,5 +3584,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33431"
     }
+  },
+  {
+    "runNumber": "33432",
+    "rawCode": "MED",
+    "timestamp": "2026-06-22T18:04:39.465589-04:00",
+    "address": "600 Block Mt Tabor Road",
+    "extra": {
+      "incidentNumber": "33432",
+      "run_id": "33432",
+      "address": "600 Block Mt Tabor Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33432"
+    }
   }
 ]
