@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33344"
     }
+  },
+  {
+    "runNumber": "33345",
+    "rawCode": "FWTR",
+    "timestamp": "2026-06-22T11:00:12.898592-04:00",
+    "address": "4391 Old Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "33345",
+      "run_id": "33345",
+      "address": "4391 Old Harrodsburg Road",
+      "rawType": "FWTR",
+      "typeCode": "FWTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E13,E20,L04,EC9,204,205,241,RS1",
+      "units": "E09,E13,E20,L04,EC9,204,205,241,RS1",
+      "unitCount": "9",
+      "primaryTopic": "FWTR",
+      "commandUnits": "241,204,205",
+      "dedupeKey": "INCIDENT-33345"
+    }
   }
 ]
