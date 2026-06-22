@@ -1032,5 +1032,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33306"
     }
+  },
+  {
+    "runNumber": "33308",
+    "rawCode": "MED",
+    "timestamp": "2026-06-22T09:00:53.836161-04:00",
+    "address": "S Upper Street & Scott Street",
+    "extra": {
+      "incidentNumber": "33308",
+      "run_id": "33308",
+      "address": "S Upper Street & Scott Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,205",
+      "units": "E08,205",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-33308"
+    }
   }
 ]
