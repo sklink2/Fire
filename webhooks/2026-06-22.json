@@ -2638,5 +2638,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33383"
     }
+  },
+  {
+    "runNumber": "33382",
+    "rawCode": "FMIS",
+    "timestamp": "2026-06-22T14:13:11.901116-04:00",
+    "address": "1346 Ohio Terrace",
+    "extra": {
+      "incidentNumber": "33382",
+      "run_id": "33382",
+      "address": "1346 Ohio Terrace",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,205",
+      "units": "E01,205",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-33382"
+    }
   }
 ]
