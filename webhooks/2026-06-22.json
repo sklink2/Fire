@@ -2066,5 +2066,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33357"
     }
+  },
+  {
+    "runNumber": "33356",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-22T12:10:20.734340-04:00",
+    "address": "101 E High Street",
+    "extra": {
+      "incidentNumber": "33356",
+      "run_id": "33356",
+      "address": "101 E High Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33356"
+    }
   }
 ]
