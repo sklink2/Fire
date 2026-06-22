@@ -1604,5 +1604,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33334"
     }
+  },
+  {
+    "runNumber": "33336",
+    "rawCode": "FNGL",
+    "timestamp": "2026-06-22T10:18:06.132092-04:00",
+    "address": "293 Glendale Avenue",
+    "extra": {
+      "incidentNumber": "33336",
+      "run_id": "33336",
+      "address": "293 Glendale Avenue",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,E13,L03,EC5,203,220",
+      "units": "E10,E13,L03,EC5,203,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,203",
+      "dedupeKey": "INCIDENT-33336"
+    }
   }
 ]
