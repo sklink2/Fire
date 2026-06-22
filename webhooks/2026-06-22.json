@@ -1296,5 +1296,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33321"
     }
+  },
+  {
+    "runNumber": "33320",
+    "rawCode": "FINV",
+    "timestamp": "2026-06-22T09:18:29.990297-04:00",
+    "address": "1244 Barleys Pass",
+    "extra": {
+      "incidentNumber": "33320",
+      "run_id": "33320",
+      "address": "1244 Barleys Pass",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24",
+      "units": "E24",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33320"
+    }
   }
 ]
