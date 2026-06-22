@@ -3056,5 +3056,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33235"
     }
+  },
+  {
+    "runNumber": "33236",
+    "rawCode": "MED",
+    "timestamp": "2026-06-21T21:47:17.963438-04:00",
+    "address": "2400 Block Mable Lane",
+    "extra": {
+      "incidentNumber": "33236",
+      "run_id": "33236",
+      "address": "2400 Block Mable Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33236"
+    }
   }
 ]
