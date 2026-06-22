@@ -262,5 +262,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33269"
     }
+  },
+  {
+    "runNumber": "33271",
+    "rawCode": "MED",
+    "timestamp": "2026-06-22T03:27:34.985210-04:00",
+    "address": "100 Block Cantaloupe Street",
+    "extra": {
+      "incidentNumber": "33271",
+      "run_id": "33271",
+      "address": "100 Block Cantaloupe Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33271"
+    }
   }
 ]
