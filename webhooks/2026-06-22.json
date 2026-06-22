@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33331"
     }
+  },
+  {
+    "runNumber": "33334",
+    "rawCode": "MED",
+    "timestamp": "2026-06-22T10:11:03.519202-04:00",
+    "address": "400 Block Smith Street",
+    "extra": {
+      "incidentNumber": "33334",
+      "run_id": "33334",
+      "address": "400 Block Smith Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33334"
+    }
   }
 ]
