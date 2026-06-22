@@ -2814,5 +2814,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33391"
     }
+  },
+  {
+    "runNumber": "33392",
+    "rawCode": "MED",
+    "timestamp": "2026-06-22T14:55:12.464433-04:00",
+    "address": "2600 Block Gribbin Drive",
+    "extra": {
+      "incidentNumber": "33392",
+      "run_id": "33392",
+      "address": "2600 Block Gribbin Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33392"
+    }
   }
 ]
