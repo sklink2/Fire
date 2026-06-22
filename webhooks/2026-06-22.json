@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33372"
     }
+  },
+  {
+    "runNumber": "33374",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-22T13:16:57.499388-04:00",
+    "address": "1141 Red Mile Road",
+    "extra": {
+      "incidentNumber": "33374",
+      "run_id": "33374",
+      "address": "1141 Red Mile Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E11,L02,203",
+      "units": "E01,E11,L02,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-33374"
+    }
   }
 ]
