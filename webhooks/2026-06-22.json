@@ -3232,5 +3232,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33414"
     }
+  },
+  {
+    "runNumber": "33413",
+    "rawCode": "MED",
+    "timestamp": "2026-06-22T16:54:35.635352-04:00",
+    "address": "N Locust Hill Drive & Richmond Road",
+    "extra": {
+      "incidentNumber": "33413",
+      "run_id": "33413",
+      "address": "N Locust Hill Drive & Richmond Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2,202,241",
+      "units": "E09,EC2,202,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-33413"
+    }
   }
 ]
