@@ -2968,5 +2968,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33399"
     }
+  },
+  {
+    "runNumber": "33398",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-22T15:23:21.568288-04:00",
+    "address": "509 Library Drive",
+    "extra": {
+      "incidentNumber": "33398",
+      "run_id": "33398",
+      "address": "509 Library Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E11,L02,204",
+      "units": "E05,E11,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-33398"
+    }
   }
 ]
