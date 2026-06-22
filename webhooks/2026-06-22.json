@@ -812,5 +812,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-33297"
     }
+  },
+  {
+    "runNumber": "33298",
+    "rawCode": "FASS",
+    "timestamp": "2026-06-22T08:39:51.313092-04:00",
+    "address": "Versailles Road & Cisco Road",
+    "extra": {
+      "incidentNumber": "33298",
+      "run_id": "33298",
+      "address": "Versailles Road & Cisco Road",
+      "rawType": "FASS",
+      "typeCode": "FASS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13",
+      "units": "E13",
+      "unitCount": "1",
+      "primaryTopic": "FASS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33298"
+    }
   }
 ]
