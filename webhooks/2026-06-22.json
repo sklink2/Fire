@@ -1362,5 +1362,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33314"
     }
+  },
+  {
+    "runNumber": "33323",
+    "rawCode": "FASS",
+    "timestamp": "2026-06-22T09:25:26.888305-04:00",
+    "address": "Walton Avenue & National Avenue",
+    "extra": {
+      "incidentNumber": "33323",
+      "run_id": "33323",
+      "address": "Walton Avenue & National Avenue",
+      "rawType": "FASS",
+      "typeCode": "FASS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "FASS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33323"
+    }
   }
 ]
