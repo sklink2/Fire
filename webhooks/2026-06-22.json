@@ -3342,5 +3342,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33422"
     }
+  },
+  {
+    "runNumber": "33421",
+    "rawCode": "MED",
+    "timestamp": "2026-06-22T17:19:06.336479-04:00",
+    "address": "Richmond Service Road & Patchen",
+    "extra": {
+      "incidentNumber": "33421",
+      "run_id": "33421",
+      "address": "Richmond Service Road & Patchen",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33421"
+    }
   }
 ]
