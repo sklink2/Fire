@@ -900,5 +900,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33302"
     }
+  },
+  {
+    "runNumber": "33301",
+    "rawCode": "FPLB",
+    "timestamp": "2026-06-22T08:46:56.620467-04:00",
+    "address": "2601 Richmond Road",
+    "extra": {
+      "incidentNumber": "33301",
+      "run_id": "33301",
+      "address": "2601 Richmond Road",
+      "rawType": "FPLB",
+      "typeCode": "FPLB",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02",
+      "units": "E02",
+      "unitCount": "1",
+      "primaryTopic": "FPLB",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33301"
+    }
   }
 ]
