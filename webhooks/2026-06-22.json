@@ -966,5 +966,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-33304"
     }
+  },
+  {
+    "runNumber": "33305",
+    "rawCode": "FASS",
+    "timestamp": "2026-06-22T08:53:51.973870-04:00",
+    "address": "Walton Avenue & Hambrick Avenue",
+    "extra": {
+      "incidentNumber": "33305",
+      "run_id": "33305",
+      "address": "Walton Avenue & Hambrick Avenue",
+      "rawType": "FASS",
+      "typeCode": "FASS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05",
+      "units": "E05",
+      "unitCount": "1",
+      "primaryTopic": "FASS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33305"
+    }
   }
 ]
