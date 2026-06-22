@@ -3276,5 +3276,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33245"
     }
+  },
+  {
+    "runNumber": "33244",
+    "rawCode": "MED",
+    "timestamp": "2026-06-21T22:57:32.761941-04:00",
+    "address": "3300 Block Cove Lake Drive",
+    "extra": {
+      "incidentNumber": "33244",
+      "run_id": "33244",
+      "address": "3300 Block Cove Lake Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33244"
+    }
   }
 ]
