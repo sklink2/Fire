@@ -3628,5 +3628,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33433"
     }
+  },
+  {
+    "runNumber": "33434",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-22T18:29:13.198276-04:00",
+    "address": "1060 Cross Keys Road",
+    "extra": {
+      "incidentNumber": "33434",
+      "run_id": "33434",
+      "address": "1060 Cross Keys Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,E14,E20,L04,204",
+      "units": "E11,E14,E20,L04,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-33434"
+    }
   }
 ]
