@@ -1274,5 +1274,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33318"
     }
+  },
+  {
+    "runNumber": "33321",
+    "rawCode": "FASS",
+    "timestamp": "2026-06-22T09:18:26.190978-04:00",
+    "address": "2020 Liberty Road",
+    "extra": {
+      "incidentNumber": "33321",
+      "run_id": "33321",
+      "address": "2020 Liberty Road",
+      "rawType": "FASS",
+      "typeCode": "FASS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC11,EC2",
+      "units": "E09,EC11,EC2",
+      "unitCount": "3",
+      "primaryTopic": "FASS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33321"
+    }
   }
 ]
