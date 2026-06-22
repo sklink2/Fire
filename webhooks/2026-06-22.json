@@ -856,5 +856,27 @@
       "commandUnits": "241,204,205",
       "dedupeKey": "INCIDENT-33299"
     }
+  },
+  {
+    "runNumber": "33303",
+    "rawCode": "FPLB",
+    "timestamp": "2026-06-22T08:46:52.023848-04:00",
+    "address": "801 E New Circle Road",
+    "extra": {
+      "incidentNumber": "33303",
+      "run_id": "33303",
+      "address": "801 E New Circle Road",
+      "rawType": "FPLB",
+      "typeCode": "FPLB",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "FPLB",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33303"
+    }
   }
 ]
