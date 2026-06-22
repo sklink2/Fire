@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33305"
     }
+  },
+  {
+    "runNumber": "33307",
+    "rawCode": "FELF",
+    "timestamp": "2026-06-22T08:57:23.528861-04:00",
+    "address": "734 Thoroughbred Way",
+    "extra": {
+      "incidentNumber": "33307",
+      "run_id": "33307",
+      "address": "734 Thoroughbred Way",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E10,L01,EC1,201",
+      "units": "E04,E10,L01,EC1,201",
+      "unitCount": "5",
+      "primaryTopic": "FELF",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-33307"
+    }
   }
 ]
