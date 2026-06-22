@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33393"
     }
+  },
+  {
+    "runNumber": "33395",
+    "rawCode": "MED",
+    "timestamp": "2026-06-22T15:05:44.724709-04:00",
+    "address": "1700 Block Courtney Avenue",
+    "extra": {
+      "incidentNumber": "33395",
+      "run_id": "33395",
+      "address": "1700 Block Courtney Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC2",
+      "units": "E08,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33395"
+    }
   }
 ]
