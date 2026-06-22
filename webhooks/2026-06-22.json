@@ -64,5 +64,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33260"
     }
+  },
+  {
+    "runNumber": "33261",
+    "rawCode": "MED",
+    "timestamp": "2026-06-22T00:42:40.224446-04:00",
+    "address": "500 Block Seattle Drive",
+    "extra": {
+      "incidentNumber": "33261",
+      "run_id": "33261",
+      "address": "500 Block Seattle Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC9",
+      "units": "E20,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33261"
+    }
   }
 ]
