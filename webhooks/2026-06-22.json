@@ -1978,5 +1978,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33352"
     }
+  },
+  {
+    "runNumber": "33354",
+    "rawCode": "MED",
+    "timestamp": "2026-06-22T11:59:47.661885-04:00",
+    "address": "400 Block Pasadena Drive",
+    "extra": {
+      "incidentNumber": "33354",
+      "run_id": "33354",
+      "address": "400 Block Pasadena Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC9,CRT1",
+      "units": "E15,EC9,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33354"
+    }
   }
 ]
