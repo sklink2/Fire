@@ -1516,5 +1516,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33545"
     }
+  },
+  {
+    "runNumber": "33547",
+    "rawCode": "MED",
+    "timestamp": "2026-06-23T12:22:44.600846-04:00",
+    "address": "700 Block Mason Headley Road",
+    "extra": {
+      "incidentNumber": "33547",
+      "run_id": "33547",
+      "address": "700 Block Mason Headley Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33547"
+    }
   }
 ]
