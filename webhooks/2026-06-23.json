@@ -2770,5 +2770,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33603"
     }
+  },
+  {
+    "runNumber": "33604",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-06-23T16:45:58.283391-04:00",
+    "address": "Muir Station Road & Wilson Lake",
+    "extra": {
+      "incidentNumber": "33604",
+      "run_id": "33604",
+      "address": "Muir Station Road & Wilson Lake",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E23,L06,EC8,201,241",
+      "units": "E23,L06,EC8,201,241",
+      "unitCount": "5",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-33604"
+    }
   }
 ]
