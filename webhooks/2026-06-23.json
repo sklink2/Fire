@@ -3254,5 +3254,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33626"
     }
+  },
+  {
+    "runNumber": "33625",
+    "rawCode": "MED",
+    "timestamp": "2026-06-23T19:51:51.614621-04:00",
+    "address": "1200 Block Marlena Lane",
+    "extra": {
+      "incidentNumber": "33625",
+      "run_id": "33625",
+      "address": "1200 Block Marlena Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC10",
+      "units": "E24,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33625"
+    }
   }
 ]
