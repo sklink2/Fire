@@ -174,5 +174,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-33484"
     }
+  },
+  {
+    "runNumber": "33485",
+    "rawCode": "MED",
+    "timestamp": "2026-06-23T01:16:13.487415-04:00",
+    "address": "1700 Block Gerald Drive",
+    "extra": {
+      "incidentNumber": "33485",
+      "run_id": "33485",
+      "address": "1700 Block Gerald Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC3,201,241",
+      "units": "E08,EC3,201,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-33485"
+    }
   }
 ]
