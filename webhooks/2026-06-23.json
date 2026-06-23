@@ -2924,5 +2924,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33610"
     }
+  },
+  {
+    "runNumber": "33612",
+    "rawCode": "MED",
+    "timestamp": "2026-06-23T18:20:38.528946-04:00",
+    "address": "2800 Block Alumni Drive",
+    "extra": {
+      "incidentNumber": "33612",
+      "run_id": "33612",
+      "address": "2800 Block Alumni Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33612"
+    }
   }
 ]
