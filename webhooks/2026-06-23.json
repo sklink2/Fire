@@ -2638,5 +2638,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33597"
     }
+  },
+  {
+    "runNumber": "33598",
+    "rawCode": "MED",
+    "timestamp": "2026-06-23T16:07:17.607793-04:00",
+    "address": "500 Block Lucille Drive",
+    "extra": {
+      "incidentNumber": "33598",
+      "run_id": "33598",
+      "address": "500 Block Lucille Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "T1,EC10",
+      "units": "T1,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33598"
+    }
   }
 ]
