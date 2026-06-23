@@ -3100,5 +3100,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33618"
     }
+  },
+  {
+    "runNumber": "33619",
+    "rawCode": "MED",
+    "timestamp": "2026-06-23T19:16:43.523903-04:00",
+    "address": "600 Block Winter Hill Lane",
+    "extra": {
+      "incidentNumber": "33619",
+      "run_id": "33619",
+      "address": "600 Block Winter Hill Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC3",
+      "units": "E21,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33619"
+    }
   }
 ]
