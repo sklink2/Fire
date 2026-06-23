@@ -2726,5 +2726,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33602"
     }
+  },
+  {
+    "runNumber": "33601",
+    "rawCode": "MED",
+    "timestamp": "2026-06-23T16:17:53.377995-04:00",
+    "address": "100 Block Romany Road",
+    "extra": {
+      "incidentNumber": "33601",
+      "run_id": "33601",
+      "address": "100 Block Romany Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L02,EC11",
+      "units": "L02,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33601"
+    }
   }
 ]
