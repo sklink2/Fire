@@ -746,5 +746,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-33511"
     }
+  },
+  {
+    "runNumber": "33510",
+    "rawCode": "MED",
+    "timestamp": "2026-06-23T08:20:46.083849-04:00",
+    "address": "400 Block Darby Creek Road",
+    "extra": {
+      "incidentNumber": "33510",
+      "run_id": "33510",
+      "address": "400 Block Darby Creek Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC1",
+      "units": "E21,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33510"
+    }
   }
 ]
