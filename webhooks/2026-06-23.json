@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33521"
     }
+  },
+  {
+    "runNumber": "33523",
+    "rawCode": "MED",
+    "timestamp": "2026-06-23T09:30:48.868742-04:00",
+    "address": "1600 Block Leestown Road",
+    "extra": {
+      "incidentNumber": "33523",
+      "run_id": "33523",
+      "address": "1600 Block Leestown Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,EC5",
+      "units": "E13,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33523"
+    }
   }
 ]
