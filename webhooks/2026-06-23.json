@@ -614,5 +614,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33505"
     }
+  },
+  {
+    "runNumber": "33504",
+    "rawCode": "MED",
+    "timestamp": "2026-06-23T07:38:39.364382-04:00",
+    "address": "1300 Block Alexandria Drive",
+    "extra": {
+      "incidentNumber": "33504",
+      "run_id": "33504",
+      "address": "1300 Block Alexandria Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14",
+      "units": "E14",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33504"
+    }
   }
 ]
