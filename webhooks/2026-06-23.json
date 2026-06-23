@@ -130,5 +130,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33483"
     }
+  },
+  {
+    "runNumber": "33482",
+    "rawCode": "MED",
+    "timestamp": "2026-06-23T00:44:36.738017-04:00",
+    "address": "600 Block Central Avenue",
+    "extra": {
+      "incidentNumber": "33482",
+      "run_id": "33482",
+      "address": "600 Block Central Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33482"
+    }
   }
 ]
