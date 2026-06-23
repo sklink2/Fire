@@ -3298,5 +3298,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33627"
     }
+  },
+  {
+    "runNumber": "33629",
+    "rawCode": "FNGL",
+    "timestamp": "2026-06-23T19:58:54.671180-04:00",
+    "address": "2001 New Orleans Drive",
+    "extra": {
+      "incidentNumber": "33629",
+      "run_id": "33629",
+      "address": "2001 New Orleans Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E08,L05,EC8,205,220",
+      "units": "E02,E08,L05,EC8,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-33629"
+    }
   }
 ]
