@@ -4024,5 +4024,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33450"
     }
+  },
+  {
+    "runNumber": "33452",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-22T20:49:33.899593-04:00",
+    "address": "768 Andover Village Drive",
+    "extra": {
+      "incidentNumber": "33452",
+      "run_id": "33452",
+      "address": "768 Andover Village Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L06,201",
+      "units": "L06,201",
+      "unitCount": "2",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-33452"
+    }
   }
 ]
