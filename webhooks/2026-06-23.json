@@ -592,5 +592,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33503"
     }
+  },
+  {
+    "runNumber": "33505",
+    "rawCode": "MED",
+    "timestamp": "2026-06-23T07:38:36.402025-04:00",
+    "address": "3700 Block Wargrave Walk",
+    "extra": {
+      "incidentNumber": "33505",
+      "run_id": "33505",
+      "address": "3700 Block Wargrave Walk",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33505"
+    }
   }
 ]
