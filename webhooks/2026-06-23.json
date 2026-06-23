@@ -1450,5 +1450,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33543"
     }
+  },
+  {
+    "runNumber": "33542",
+    "rawCode": "MED",
+    "timestamp": "2026-06-23T12:05:15.678596-04:00",
+    "address": "200 Block Castlewood Drive",
+    "extra": {
+      "incidentNumber": "33542",
+      "run_id": "33542",
+      "address": "200 Block Castlewood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33542"
+    }
   }
 ]
