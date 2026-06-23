@@ -4200,5 +4200,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33460"
     }
+  },
+  {
+    "runNumber": "33461",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-22T21:56:13.224624-04:00",
+    "address": "1800 Mercer Road",
+    "extra": {
+      "incidentNumber": "33461",
+      "run_id": "33461",
+      "address": "1800 Mercer Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,EC6,241",
+      "units": "E10,EC6,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-33461"
+    }
   }
 ]
