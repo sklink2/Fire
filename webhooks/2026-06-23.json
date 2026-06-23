@@ -548,5 +548,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33501"
     }
+  },
+  {
+    "runNumber": "33502",
+    "rawCode": "FCAR",
+    "timestamp": "2026-06-23T06:56:28.975195-04:00",
+    "address": "4841 Chelmsbury Lane",
+    "extra": {
+      "incidentNumber": "33502",
+      "run_id": "33502",
+      "address": "4841 Chelmsbury Lane",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L07",
+      "units": "L07",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33502"
+    }
   }
 ]
