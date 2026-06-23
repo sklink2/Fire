@@ -3188,5 +3188,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33622"
     }
+  },
+  {
+    "runNumber": "33623",
+    "rawCode": "MED",
+    "timestamp": "2026-06-23T19:37:46.579567-04:00",
+    "address": "100 Block N Martin Luther King Boulevard",
+    "extra": {
+      "incidentNumber": "33623",
+      "run_id": "33623",
+      "address": "100 Block N Martin Luther King Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33623"
+    }
   }
 ]
