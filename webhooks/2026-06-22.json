@@ -3848,5 +3848,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33443"
     }
+  },
+  {
+    "runNumber": "33445",
+    "rawCode": "MED",
+    "timestamp": "2026-06-22T20:00:26.928504-04:00",
+    "address": "300 Block Kelli Rose Way",
+    "extra": {
+      "incidentNumber": "33445",
+      "run_id": "33445",
+      "address": "300 Block Kelli Rose Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC9",
+      "units": "E22,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33445"
+    }
   }
 ]
