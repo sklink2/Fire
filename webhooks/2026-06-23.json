@@ -1472,5 +1472,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33542"
     }
+  },
+  {
+    "runNumber": "33544",
+    "rawCode": "FUTL",
+    "timestamp": "2026-06-23T12:12:13.574006-04:00",
+    "address": "3225 Durango Drive",
+    "extra": {
+      "incidentNumber": "33544",
+      "run_id": "33544",
+      "address": "3225 Durango Drive",
+      "rawType": "FUTL",
+      "typeCode": "FUTL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L06",
+      "units": "L06",
+      "unitCount": "1",
+      "primaryTopic": "FUTL",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33544"
+    }
   }
 ]
