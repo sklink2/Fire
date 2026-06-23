@@ -2308,5 +2308,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33582"
     }
+  },
+  {
+    "runNumber": "33581",
+    "rawCode": "FBAS",
+    "timestamp": "2026-06-23T15:21:48.949395-04:00",
+    "address": "429 Pasadena Drive",
+    "extra": {
+      "incidentNumber": "33581",
+      "run_id": "33581",
+      "address": "429 Pasadena Drive",
+      "rawType": "FBAS",
+      "typeCode": "FBAS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,EC4,204",
+      "units": "E11,EC4,204",
+      "unitCount": "3",
+      "primaryTopic": "FBAS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-33581"
+    }
   }
 ]
