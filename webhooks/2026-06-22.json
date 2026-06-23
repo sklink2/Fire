@@ -4156,5 +4156,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-33456"
     }
+  },
+  {
+    "runNumber": "33459",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-22T21:38:39.331722-04:00",
+    "address": "184 Old Park Avenue",
+    "extra": {
+      "incidentNumber": "33459",
+      "run_id": "33459",
+      "address": "184 Old Park Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,L02,201",
+      "units": "E05,E06,L02,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-33459"
+    }
   }
 ]
