@@ -2704,5 +2704,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33599"
     }
+  },
+  {
+    "runNumber": "33602",
+    "rawCode": "MED",
+    "timestamp": "2026-06-23T16:17:50.214721-04:00",
+    "address": "1300 Block Bull Lea Road",
+    "extra": {
+      "incidentNumber": "33602",
+      "run_id": "33602",
+      "address": "1300 Block Bull Lea Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC13",
+      "units": "E24,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33602"
+    }
   }
 ]
