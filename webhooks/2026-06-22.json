@@ -4046,5 +4046,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-33452"
     }
+  },
+  {
+    "runNumber": "33453",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-22T20:56:35.712784-04:00",
+    "address": "917 The Curtilage",
+    "extra": {
+      "incidentNumber": "33453",
+      "run_id": "33453",
+      "address": "917 The Curtilage",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E07,L02,203",
+      "units": "E05,E07,L02,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-33453"
+    }
   }
 ]
