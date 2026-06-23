@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33554"
     }
+  },
+  {
+    "runNumber": "33556",
+    "rawCode": "FFIA",
+    "timestamp": "2026-06-23T12:57:51.442775-04:00",
+    "address": "1333 Centre Parkway",
+    "extra": {
+      "incidentNumber": "33556",
+      "run_id": "33556",
+      "address": "1333 Centre Parkway",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E16,L04,EC4,204",
+      "units": "E07,E16,L04,EC4,204",
+      "unitCount": "5",
+      "primaryTopic": "FFIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-33556"
+    }
   }
 ]
