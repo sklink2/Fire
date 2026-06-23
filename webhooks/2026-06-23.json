@@ -1296,5 +1296,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33533"
     }
+  },
+  {
+    "runNumber": "33537",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-23T10:58:35.086641-04:00",
+    "address": "224 S Ashland Avenue",
+    "extra": {
+      "incidentNumber": "33537",
+      "run_id": "33537",
+      "address": "224 S Ashland Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E09,L01,202",
+      "units": "E05,E09,L01,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-33537"
+    }
   }
 ]
