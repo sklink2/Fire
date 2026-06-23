@@ -2814,5 +2814,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33605"
     }
+  },
+  {
+    "runNumber": "33606",
+    "rawCode": "FINV",
+    "timestamp": "2026-06-23T16:59:56.117994-04:00",
+    "address": "2141 Ft Harrods Drive",
+    "extra": {
+      "incidentNumber": "33606",
+      "run_id": "33606",
+      "address": "2141 Ft Harrods Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L04",
+      "units": "L04",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33606"
+    }
   }
 ]
