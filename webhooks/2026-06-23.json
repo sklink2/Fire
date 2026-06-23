@@ -2330,5 +2330,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-33581"
     }
+  },
+  {
+    "runNumber": "33585",
+    "rawCode": "FVIS",
+    "timestamp": "2026-06-23T15:28:44.378635-04:00",
+    "address": "950 Winchester Road",
+    "extra": {
+      "incidentNumber": "33585",
+      "run_id": "33585",
+      "address": "950 Winchester Road",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E08,L05,EC1,203,RS1",
+      "units": "E02,E08,L05,EC1,203,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-33585"
+    }
   }
 ]
