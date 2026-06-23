@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33519"
     }
+  },
+  {
+    "runNumber": "33520",
+    "rawCode": "MED",
+    "timestamp": "2026-06-23T09:23:48.893718-04:00",
+    "address": "2200 Block Dinsmore Drive",
+    "extra": {
+      "incidentNumber": "33520",
+      "run_id": "33520",
+      "address": "2200 Block Dinsmore Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33520"
+    }
   }
 ]
