@@ -1164,5 +1164,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33529"
     }
+  },
+  {
+    "runNumber": "33531",
+    "rawCode": "FSTR",
+    "timestamp": "2026-06-23T10:34:03.213850-04:00",
+    "address": "152 E Lowry Lane",
+    "extra": {
+      "incidentNumber": "33531",
+      "run_id": "33531",
+      "address": "152 E Lowry Lane",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E12,E13,E20,L02,L07,EC7,202,204,220,RS1",
+      "units": "E06,E12,E13,E20,L02,L07,EC7,202,204,220,RS1",
+      "unitCount": "11",
+      "primaryTopic": "FSTR",
+      "commandUnits": "220,202,204",
+      "dedupeKey": "INCIDENT-33531"
+    }
   }
 ]
