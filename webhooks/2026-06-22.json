@@ -3870,5 +3870,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33445"
     }
+  },
+  {
+    "runNumber": "33444",
+    "rawCode": "FNGL",
+    "timestamp": "2026-06-22T20:00:33.170638-04:00",
+    "address": "3232 Tudor Drive",
+    "extra": {
+      "incidentNumber": "33444",
+      "run_id": "33444",
+      "address": "3232 Tudor Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,E20,L04,EC12,202,220",
+      "units": "E11,E20,L04,EC12,202,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-33444"
+    }
   }
 ]
