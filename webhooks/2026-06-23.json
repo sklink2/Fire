@@ -2198,5 +2198,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-33578"
     }
+  },
+  {
+    "runNumber": "33577",
+    "rawCode": "MED",
+    "timestamp": "2026-06-23T14:46:40.943424-04:00",
+    "address": "3500 Block Honey Jay Court",
+    "extra": {
+      "incidentNumber": "33577",
+      "run_id": "33577",
+      "address": "3500 Block Honey Jay Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33577"
+    }
   }
 ]
