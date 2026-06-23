@@ -1846,5 +1846,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33561"
     }
+  },
+  {
+    "runNumber": "33560",
+    "rawCode": "MED",
+    "timestamp": "2026-06-23T13:22:25.431499-04:00",
+    "address": "300 Block Whitfield Drive",
+    "extra": {
+      "incidentNumber": "33560",
+      "run_id": "33560",
+      "address": "300 Block Whitfield Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC4",
+      "units": "E22,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33560"
+    }
   }
 ]
