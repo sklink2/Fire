@@ -1714,5 +1714,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33555"
     }
+  },
+  {
+    "runNumber": "33554",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-23T12:50:51.761768-04:00",
+    "address": "351 S Cleveland Road",
+    "extra": {
+      "incidentNumber": "33554",
+      "run_id": "33554",
+      "address": "351 S Cleveland Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E18,EC11",
+      "units": "E18,EC11",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33554"
+    }
   }
 ]
