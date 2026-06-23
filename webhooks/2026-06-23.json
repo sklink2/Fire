@@ -3144,5 +3144,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33621"
     }
+  },
+  {
+    "runNumber": "33620",
+    "rawCode": "FINV",
+    "timestamp": "2026-06-23T19:27:18.421694-04:00",
+    "address": "2921 Easthills Drive",
+    "extra": {
+      "incidentNumber": "33620",
+      "run_id": "33620",
+      "address": "2921 Easthills Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16",
+      "units": "E16",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33620"
+    }
   }
 ]
