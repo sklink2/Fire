@@ -4222,5 +4222,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-33461"
     }
+  },
+  {
+    "runNumber": "33462",
+    "rawCode": "MED",
+    "timestamp": "2026-06-22T21:59:42.487378-04:00",
+    "address": "1100 Block Kelsey Court",
+    "extra": {
+      "incidentNumber": "33462",
+      "run_id": "33462",
+      "address": "1100 Block Kelsey Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33462"
+    }
   }
 ]
