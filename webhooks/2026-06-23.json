@@ -1758,5 +1758,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-33556"
     }
+  },
+  {
+    "runNumber": "33557",
+    "rawCode": "MED",
+    "timestamp": "2026-06-23T13:01:20.909631-04:00",
+    "address": "100 Block Lexington Green Circle",
+    "extra": {
+      "incidentNumber": "33557",
+      "run_id": "33557",
+      "address": "100 Block Lexington Green Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,EC5",
+      "units": "E06,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33557"
+    }
   }
 ]
