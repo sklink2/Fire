@@ -1032,5 +1032,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33701"
     }
+  },
+  {
+    "runNumber": "33705",
+    "rawCode": "MED",
+    "timestamp": "2026-06-24T09:08:09.228789-04:00",
+    "address": "3600 Block Mossbridge Way",
+    "extra": {
+      "incidentNumber": "33705",
+      "run_id": "33705",
+      "address": "3600 Block Mossbridge Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "255",
+      "units": "255",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33705"
+    }
   }
 ]
