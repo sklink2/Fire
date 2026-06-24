@@ -2660,5 +2660,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33775"
     }
+  },
+  {
+    "runNumber": "33777",
+    "rawCode": "MED",
+    "timestamp": "2026-06-24T15:06:00.373132-04:00",
+    "address": "600 Block Vonbryan Trce",
+    "extra": {
+      "incidentNumber": "33777",
+      "run_id": "33777",
+      "address": "600 Block Vonbryan Trce",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC13",
+      "units": "E21,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33777"
+    }
   }
 ]
