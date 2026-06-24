@@ -3826,5 +3826,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33830"
     }
+  },
+  {
+    "runNumber": "33832",
+    "rawCode": "MED",
+    "timestamp": "2026-06-24T19:53:36.465196-04:00",
+    "address": "500 Block Elk Lake Drive",
+    "extra": {
+      "incidentNumber": "33832",
+      "run_id": "33832",
+      "address": "500 Block Elk Lake Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33832"
+    }
   }
 ]
