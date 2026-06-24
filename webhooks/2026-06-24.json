@@ -3562,5 +3562,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33819"
     }
+  },
+  {
+    "runNumber": "33820",
+    "rawCode": "MED",
+    "timestamp": "2026-06-24T18:11:55.366570-04:00",
+    "address": "4000 Block Finn Way",
+    "extra": {
+      "incidentNumber": "33820",
+      "run_id": "33820",
+      "address": "4000 Block Finn Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33820"
+    }
   }
 ]
