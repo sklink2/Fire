@@ -1714,5 +1714,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33733"
     }
+  },
+  {
+    "runNumber": "33735",
+    "rawCode": "MED",
+    "timestamp": "2026-06-24T12:00:03.761810-04:00",
+    "address": "300 Block Woodland Avenue",
+    "extra": {
+      "incidentNumber": "33735",
+      "run_id": "33735",
+      "address": "300 Block Woodland Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC22",
+      "units": "EC22",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33735"
+    }
   }
 ]
