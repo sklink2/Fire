@@ -2088,5 +2088,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33749"
     }
+  },
+  {
+    "runNumber": "33752",
+    "rawCode": "MED",
+    "timestamp": "2026-06-24T13:13:43.805778-04:00",
+    "address": "4000 Block Nichols Park Drive",
+    "extra": {
+      "incidentNumber": "33752",
+      "run_id": "33752",
+      "address": "4000 Block Nichols Park Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33752"
+    }
   }
 ]
