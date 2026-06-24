@@ -3672,5 +3672,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33823"
     }
+  },
+  {
+    "runNumber": "33826",
+    "rawCode": "MED",
+    "timestamp": "2026-06-24T18:53:58.985834-04:00",
+    "address": "900 Block Spring Run Road",
+    "extra": {
+      "incidentNumber": "33826",
+      "run_id": "33826",
+      "address": "900 Block Spring Run Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC13",
+      "units": "E15,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33826"
+    }
   }
 ]
