@@ -1912,5 +1912,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33743"
     }
+  },
+  {
+    "runNumber": "33742",
+    "rawCode": "MED",
+    "timestamp": "2026-06-24T12:45:43.291415-04:00",
+    "address": "100 Block Deweese Street",
+    "extra": {
+      "incidentNumber": "33742",
+      "run_id": "33742",
+      "address": "100 Block Deweese Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "CRT1",
+      "units": "CRT1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33742"
+    }
   }
 ]
