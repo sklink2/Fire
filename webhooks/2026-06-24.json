@@ -2616,5 +2616,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33774"
     }
+  },
+  {
+    "runNumber": "33776",
+    "rawCode": "MED",
+    "timestamp": "2026-06-24T15:02:29.437055-04:00",
+    "address": "100 Block Hazel Avenue",
+    "extra": {
+      "incidentNumber": "33776",
+      "run_id": "33776",
+      "address": "100 Block Hazel Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33776"
+    }
   }
 ]
