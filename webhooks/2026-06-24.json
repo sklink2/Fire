@@ -2440,5 +2440,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-33766"
     }
+  },
+  {
+    "runNumber": "33768",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-06-24T14:20:23.943725-04:00",
+    "address": "2021 Alexandria Drive",
+    "extra": {
+      "incidentNumber": "33768",
+      "run_id": "33768",
+      "address": "2021 Alexandria Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L04",
+      "units": "L04",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33768"
+    }
   }
 ]
