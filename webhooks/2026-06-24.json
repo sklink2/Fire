@@ -3166,5 +3166,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33800"
     }
+  },
+  {
+    "runNumber": "33799",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-24T16:26:45.552045-04:00",
+    "address": "Versailles Road & Oxford Circle",
+    "extra": {
+      "incidentNumber": "33799",
+      "run_id": "33799",
+      "address": "Versailles Road & Oxford Circle",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,241",
+      "units": "E14,241",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-33799"
+    }
   }
 ]
