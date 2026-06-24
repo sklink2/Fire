@@ -1934,5 +1934,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33742"
     }
+  },
+  {
+    "runNumber": "33745",
+    "rawCode": "MED",
+    "timestamp": "2026-06-24T12:49:10.885363-04:00",
+    "address": "2300 Block Regency Road",
+    "extra": {
+      "incidentNumber": "33745",
+      "run_id": "33745",
+      "address": "2300 Block Regency Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,EC4",
+      "units": "E12,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33745"
+    }
   }
 ]
