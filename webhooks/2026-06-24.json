@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33762"
     }
+  },
+  {
+    "runNumber": "33764",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-24T13:55:50.697237-04:00",
+    "address": "S Upper Street & W Vine Street",
+    "extra": {
+      "incidentNumber": "33764",
+      "run_id": "33764",
+      "address": "S Upper Street & W Vine Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L01,EC4,241",
+      "units": "L01,EC4,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-33764"
+    }
   }
 ]
