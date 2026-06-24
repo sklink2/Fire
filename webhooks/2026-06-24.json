@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33702"
     }
+  },
+  {
+    "runNumber": "33701",
+    "rawCode": "MED",
+    "timestamp": "2026-06-24T09:04:41.502235-04:00",
+    "address": "700 Block Lynn Road",
+    "extra": {
+      "incidentNumber": "33701",
+      "run_id": "33701",
+      "address": "700 Block Lynn Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33701"
+    }
   }
 ]
