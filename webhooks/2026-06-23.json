@@ -3408,5 +3408,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33633"
     }
+  },
+  {
+    "runNumber": "33634",
+    "rawCode": "FNGL",
+    "timestamp": "2026-06-23T20:47:58.349402-04:00",
+    "address": "765 Dakota Street",
+    "extra": {
+      "incidentNumber": "33634",
+      "run_id": "33634",
+      "address": "765 Dakota Street",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E10,L01,EC3,201",
+      "units": "E08,E10,L01,EC3,201",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-33634"
+    }
   }
 ]
