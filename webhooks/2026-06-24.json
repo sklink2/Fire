@@ -746,5 +746,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33689"
     }
+  },
+  {
+    "runNumber": "33690",
+    "rawCode": "MED",
+    "timestamp": "2026-06-24T07:40:28.240516-04:00",
+    "address": "2100 Block Jasmine Drive",
+    "extra": {
+      "incidentNumber": "33690",
+      "run_id": "33690",
+      "address": "2100 Block Jasmine Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33690"
+    }
   }
 ]
