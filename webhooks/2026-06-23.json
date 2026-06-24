@@ -3760,5 +3760,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-33649"
     }
+  },
+  {
+    "runNumber": "33651",
+    "rawCode": "MED",
+    "timestamp": "2026-06-23T23:15:19.136985-04:00",
+    "address": "3400 Block Featherston Drive",
+    "extra": {
+      "incidentNumber": "33651",
+      "run_id": "33651",
+      "address": "3400 Block Featherston Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13,241",
+      "units": "E16,EC13,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-33651"
+    }
   }
 ]
