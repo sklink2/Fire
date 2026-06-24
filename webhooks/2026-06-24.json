@@ -482,5 +482,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33676"
     }
+  },
+  {
+    "runNumber": "33678",
+    "rawCode": "MED",
+    "timestamp": "2026-06-24T05:16:37.662753-04:00",
+    "address": "2600 Block Flying Ebony Drive",
+    "extra": {
+      "incidentNumber": "33678",
+      "run_id": "33678",
+      "address": "2600 Block Flying Ebony Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33678"
+    }
   }
 ]
