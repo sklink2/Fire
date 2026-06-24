@@ -3452,5 +3452,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33814"
     }
+  },
+  {
+    "runNumber": "33815",
+    "rawCode": "MED",
+    "timestamp": "2026-06-24T17:50:51.770513-04:00",
+    "address": "500 Block Rogers Road",
+    "extra": {
+      "incidentNumber": "33815",
+      "run_id": "33815",
+      "address": "500 Block Rogers Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC6",
+      "units": "E08,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33815"
+    }
   }
 ]
