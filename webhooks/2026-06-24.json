@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33777"
     }
+  },
+  {
+    "runNumber": "33778",
+    "rawCode": "MED",
+    "timestamp": "2026-06-24T15:23:30.544095-04:00",
+    "address": "400 Block Ash Street",
+    "extra": {
+      "incidentNumber": "33778",
+      "run_id": "33778",
+      "address": "400 Block Ash Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33778"
+    }
   }
 ]
