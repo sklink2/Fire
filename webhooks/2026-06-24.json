@@ -174,5 +174,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33663"
     }
+  },
+  {
+    "runNumber": "33665",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-24T02:28:16.475433-04:00",
+    "address": "1631 Alexandria Drive",
+    "extra": {
+      "incidentNumber": "33665",
+      "run_id": "33665",
+      "address": "1631 Alexandria Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,E14,L04,204",
+      "units": "E12,E14,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-33665"
+    }
   }
 ]
