@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33697"
     }
+  },
+  {
+    "runNumber": "33700",
+    "rawCode": "MED",
+    "timestamp": "2026-06-24T08:54:07.553129-04:00",
+    "address": "300 Block Larkwood Drive",
+    "extra": {
+      "incidentNumber": "33700",
+      "run_id": "33700",
+      "address": "300 Block Larkwood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC13",
+      "units": "E21,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33700"
+    }
   }
 ]
