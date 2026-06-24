@@ -592,5 +592,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33682"
     }
+  },
+  {
+    "runNumber": "33683",
+    "rawCode": "FNGL",
+    "timestamp": "2026-06-24T06:37:22.588944-04:00",
+    "address": "100 Codell Drive",
+    "extra": {
+      "incidentNumber": "33683",
+      "run_id": "33683",
+      "address": "100 Codell Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E09,L06,EC2,201,220",
+      "units": "E02,E09,L06,EC2,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-33683"
+    }
   }
 ]
