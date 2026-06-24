@@ -3738,5 +3738,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33648"
     }
+  },
+  {
+    "runNumber": "33649",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-23T23:11:49.541415-04:00",
+    "address": "180 E New Circle Road",
+    "extra": {
+      "incidentNumber": "33649",
+      "run_id": "33649",
+      "address": "180 E New Circle Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E08,L03,201",
+      "units": "E02,E08,L03,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-33649"
+    }
   }
 ]
