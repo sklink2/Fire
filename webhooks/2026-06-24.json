@@ -878,5 +878,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33695"
     }
+  },
+  {
+    "runNumber": "33696",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-24T08:47:06.784529-04:00",
+    "address": "381 S Upper Street",
+    "extra": {
+      "incidentNumber": "33696",
+      "run_id": "33696",
+      "address": "381 S Upper Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,EC7",
+      "units": "E06,EC7",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33696"
+    }
   }
 ]
