@@ -3342,5 +3342,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33809"
     }
+  },
+  {
+    "runNumber": "33810",
+    "rawCode": "MED",
+    "timestamp": "2026-06-24T17:12:16.350408-04:00",
+    "address": "1200 Block Brick House Lane",
+    "extra": {
+      "incidentNumber": "33810",
+      "run_id": "33810",
+      "address": "1200 Block Brick House Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33810"
+    }
   }
 ]
