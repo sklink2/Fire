@@ -548,5 +548,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33680"
     }
+  },
+  {
+    "runNumber": "33681",
+    "rawCode": "MED",
+    "timestamp": "2026-06-24T06:23:17.831399-04:00",
+    "address": "600 Block Rogers Road",
+    "extra": {
+      "incidentNumber": "33681",
+      "run_id": "33681",
+      "address": "600 Block Rogers Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33681"
+    }
   }
 ]
