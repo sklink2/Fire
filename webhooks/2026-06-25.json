@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33985"
     }
+  },
+  {
+    "runNumber": "33984",
+    "rawCode": "MED",
+    "timestamp": "2026-06-25T14:43:19.386861-04:00",
+    "address": "2400 Block Fortune Drive",
+    "extra": {
+      "incidentNumber": "33984",
+      "run_id": "33984",
+      "address": "2400 Block Fortune Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC22",
+      "units": "EC22",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33984"
+    }
   }
 ]
