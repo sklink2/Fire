@@ -4684,5 +4684,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33871"
     }
+  },
+  {
+    "runNumber": "33870",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-06-24T23:45:16.886058-04:00",
+    "address": "Overbrook Drive & Malabu Drive",
+    "extra": {
+      "incidentNumber": "33870",
+      "run_id": "33870",
+      "address": "Overbrook Drive & Malabu Drive",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,L07,EC4,202,241,RS1",
+      "units": "E07,L07,EC4,202,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-33870"
+    }
   }
 ]
