@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34003"
     }
+  },
+  {
+    "runNumber": "34005",
+    "rawCode": "MED",
+    "timestamp": "2026-06-25T15:53:25.323976-04:00",
+    "address": "1200 Block Red Mile Road",
+    "extra": {
+      "incidentNumber": "34005",
+      "run_id": "34005",
+      "address": "1200 Block Red Mile Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34005"
+    }
   }
 ]
