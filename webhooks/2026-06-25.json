@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33935"
     }
+  },
+  {
+    "runNumber": "33934",
+    "rawCode": "MED",
+    "timestamp": "2026-06-25T10:51:49.654488-04:00",
+    "address": "400 Block Bainbridge Court",
+    "extra": {
+      "incidentNumber": "33934",
+      "run_id": "33934",
+      "address": "400 Block Bainbridge Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L06,EC13",
+      "units": "L06,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33934"
+    }
   }
 ]
