@@ -2836,5 +2836,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34000"
     }
+  },
+  {
+    "runNumber": "34004",
+    "rawCode": "MED",
+    "timestamp": "2026-06-25T15:49:53.657732-04:00",
+    "address": "Versailles Road & Porter Place",
+    "extra": {
+      "incidentNumber": "34004",
+      "run_id": "34004",
+      "address": "Versailles Road & Porter Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1,RS1",
+      "units": "EC1,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34004"
+    }
   }
 ]
