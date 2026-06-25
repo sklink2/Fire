@@ -2814,5 +2814,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-34001"
     }
+  },
+  {
+    "runNumber": "34000",
+    "rawCode": "MED",
+    "timestamp": "2026-06-25T15:46:32.842026-04:00",
+    "address": "3800 Block Fountainblue Lane",
+    "extra": {
+      "incidentNumber": "34000",
+      "run_id": "34000",
+      "address": "3800 Block Fountainblue Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC5",
+      "units": "E20,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34000"
+    }
   }
 ]
