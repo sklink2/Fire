@@ -1604,5 +1604,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33946"
     }
+  },
+  {
+    "runNumber": "33948",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-25T11:51:20.658930-04:00",
+    "address": "1300 E New Circle Road",
+    "extra": {
+      "incidentNumber": "33948",
+      "run_id": "33948",
+      "address": "1300 E New Circle Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E21,L05,201",
+      "units": "E08,E21,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-33948"
+    }
   }
 ]
