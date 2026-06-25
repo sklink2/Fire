@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33989"
     }
+  },
+  {
+    "runNumber": "33990",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-25T15:00:50.078403-04:00",
+    "address": "2049 Bryant Road",
+    "extra": {
+      "incidentNumber": "33990",
+      "run_id": "33990",
+      "address": "2049 Bryant Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17,E21,L05,201",
+      "units": "E17,E21,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-33990"
+    }
   }
 ]
