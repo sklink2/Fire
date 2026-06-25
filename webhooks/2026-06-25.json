@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33906"
     }
+  },
+  {
+    "runNumber": "33909",
+    "rawCode": "FGAO",
+    "timestamp": "2026-06-25T08:52:25.675219-04:00",
+    "address": "126 Street Phillip Drive",
+    "extra": {
+      "incidentNumber": "33909",
+      "run_id": "33909",
+      "address": "126 Street Phillip Drive",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E05",
+      "units": "E02,E05",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33909"
+    }
   }
 ]
