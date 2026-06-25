@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33964"
     }
+  },
+  {
+    "runNumber": "33963",
+    "rawCode": "MED",
+    "timestamp": "2026-06-25T13:22:35.838456-04:00",
+    "address": "1100 Block Merewood Drive",
+    "extra": {
+      "incidentNumber": "33963",
+      "run_id": "33963",
+      "address": "1100 Block Merewood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33963"
+    }
   }
 ]
