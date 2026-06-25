@@ -20,5 +20,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33875"
     }
+  },
+  {
+    "runNumber": "33877",
+    "rawCode": "FSIA",
+    "timestamp": "2026-06-25T00:13:15.059048-04:00",
+    "address": "Versailles Road & Red Mile Road",
+    "extra": {
+      "incidentNumber": "33877",
+      "run_id": "33877",
+      "address": "Versailles Road & Red Mile Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E13,203",
+      "units": "E04,E13,203",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-33877"
+    }
   }
 ]
