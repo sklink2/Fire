@@ -2968,5 +2968,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34008"
     }
+  },
+  {
+    "runNumber": "34010",
+    "rawCode": "MED",
+    "timestamp": "2026-06-25T16:10:55.286598-04:00",
+    "address": "W Short Street & N Mill Street",
+    "extra": {
+      "incidentNumber": "34010",
+      "run_id": "34010",
+      "address": "W Short Street & N Mill Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,EC22,EC3",
+      "units": "E06,EC22,EC3",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34010"
+    }
   }
 ]
