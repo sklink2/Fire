@@ -1032,5 +1032,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33920"
     }
+  },
+  {
+    "runNumber": "33919",
+    "rawCode": "MED",
+    "timestamp": "2026-06-25T09:27:34.823691-04:00",
+    "address": "1600 Block Donelwal Drive",
+    "extra": {
+      "incidentNumber": "33919",
+      "run_id": "33919",
+      "address": "1600 Block Donelwal Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L03,EC1",
+      "units": "L03,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33919"
+    }
   }
 ]
