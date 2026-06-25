@@ -3452,5 +3452,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34032"
     }
+  },
+  {
+    "runNumber": "34031",
+    "rawCode": "MED",
+    "timestamp": "2026-06-25T17:59:45.534940-04:00",
+    "address": "800 Block Della Drive",
+    "extra": {
+      "incidentNumber": "34031",
+      "run_id": "34031",
+      "address": "800 Block Della Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34031"
+    }
   }
 ]
