@@ -3980,5 +3980,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34055"
     }
+  },
+  {
+    "runNumber": "34052",
+    "rawCode": "FSTRW",
+    "timestamp": "2026-06-25T19:59:02.616921-04:00",
+    "address": "1107 Winchester Road",
+    "extra": {
+      "incidentNumber": "34052",
+      "run_id": "34052",
+      "address": "1107 Winchester Road",
+      "rawType": "FSTRW",
+      "typeCode": "FSTRW",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E08,L05,EC8,201,205,430",
+      "units": "E02,E08,L05,EC8,201,205,430",
+      "unitCount": "7",
+      "primaryTopic": "FSTRW",
+      "commandUnits": "201,205",
+      "dedupeKey": "INCIDENT-34052"
+    }
   }
 ]
