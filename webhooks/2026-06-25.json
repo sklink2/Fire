@@ -2110,5 +2110,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33967"
     }
+  },
+  {
+    "runNumber": "33970",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-06-25T13:47:11.046391-04:00",
+    "address": "5650 Russell Cave Road",
+    "extra": {
+      "incidentNumber": "33970",
+      "run_id": "33970",
+      "address": "5650 Russell Cave Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E19,L03,EC3,203,241,RS1",
+      "units": "E19,L03,EC3,203,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-33970"
+    }
   }
 ]
