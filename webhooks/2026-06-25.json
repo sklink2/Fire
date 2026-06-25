@@ -3496,5 +3496,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34033"
     }
+  },
+  {
+    "runNumber": "34034",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-06-25T18:17:17.597073-04:00",
+    "address": "2467 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "34034",
+      "run_id": "34034",
+      "address": "2467 Nicholasville Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,L04,L07,EC9,204,241,RS1",
+      "units": "E15,L04,L07,EC9,204,241,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,204",
+      "dedupeKey": "INCIDENT-34034"
+    }
   }
 ]
