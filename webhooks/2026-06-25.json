@@ -2308,5 +2308,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33976"
     }
+  },
+  {
+    "runNumber": "33979",
+    "rawCode": "MED",
+    "timestamp": "2026-06-25T14:18:41.204535-04:00",
+    "address": "1100 Block Winchester Road",
+    "extra": {
+      "incidentNumber": "33979",
+      "run_id": "33979",
+      "address": "1100 Block Winchester Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC2",
+      "units": "E02,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33979"
+    }
   }
 ]
