@@ -812,5 +812,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33910"
     }
+  },
+  {
+    "runNumber": "33912",
+    "rawCode": "MED",
+    "timestamp": "2026-06-25T09:06:29.166544-04:00",
+    "address": "3800 Block Pine Ridge Way",
+    "extra": {
+      "incidentNumber": "33912",
+      "run_id": "33912",
+      "address": "3800 Block Pine Ridge Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33912"
+    }
   }
 ]
