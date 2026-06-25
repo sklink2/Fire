@@ -834,5 +834,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33912"
     }
+  },
+  {
+    "runNumber": "33911",
+    "rawCode": "MED",
+    "timestamp": "2026-06-25T09:06:31.858917-04:00",
+    "address": "1400 Block Coleman Court",
+    "extra": {
+      "incidentNumber": "33911",
+      "run_id": "33911",
+      "address": "1400 Block Coleman Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,EC3",
+      "units": "E10,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33911"
+    }
   }
 ]
