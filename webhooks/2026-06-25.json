@@ -2132,5 +2132,27 @@
       "commandUnits": "241,203",
       "dedupeKey": "INCIDENT-33970"
     }
+  },
+  {
+    "runNumber": "33971",
+    "rawCode": "FMIS",
+    "timestamp": "2026-06-25T13:50:39.087345-04:00",
+    "address": "417 Meadow Valley Road",
+    "extra": {
+      "incidentNumber": "33971",
+      "run_id": "33971",
+      "address": "417 Meadow Valley Road",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "205",
+      "units": "205",
+      "unitCount": "1",
+      "primaryTopic": "FMIS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-33971"
+    }
   }
 ]
