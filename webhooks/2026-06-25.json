@@ -196,5 +196,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33883"
     }
+  },
+  {
+    "runNumber": "33884",
+    "rawCode": "FNGL",
+    "timestamp": "2026-06-25T02:51:08.783405-04:00",
+    "address": "701 Portland Drive",
+    "extra": {
+      "incidentNumber": "33884",
+      "run_id": "33884",
+      "address": "701 Portland Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E20,L04,EC12,204,220",
+      "units": "E11,E20,L04,EC12,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-33884"
+    }
   }
 ]
