@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33936"
     }
+  },
+  {
+    "runNumber": "33938",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-25T10:59:06.185976-04:00",
+    "address": "1165 Monarch Street",
+    "extra": {
+      "incidentNumber": "33938",
+      "run_id": "33938",
+      "address": "1165 Monarch Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,E20,L04,204",
+      "units": "E15,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-33938"
+    }
   }
 ]
