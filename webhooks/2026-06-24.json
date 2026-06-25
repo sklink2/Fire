@@ -4420,5 +4420,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33858"
     }
+  },
+  {
+    "runNumber": "33859",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-24T22:35:02.819338-04:00",
+    "address": "1511 Astaire Drive",
+    "extra": {
+      "incidentNumber": "33859",
+      "run_id": "33859",
+      "address": "1511 Astaire Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E10,L03,201",
+      "units": "E08,E10,L03,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-33859"
+    }
   }
 ]
