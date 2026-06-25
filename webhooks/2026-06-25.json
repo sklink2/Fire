@@ -240,5 +240,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33885"
     }
+  },
+  {
+    "runNumber": "33886",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-25T03:26:12.178478-04:00",
+    "address": "337 Lindenhurst Drive",
+    "extra": {
+      "incidentNumber": "33886",
+      "run_id": "33886",
+      "address": "337 Lindenhurst Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E21,L06,202",
+      "units": "E09,E21,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-33886"
+    }
   }
 ]
