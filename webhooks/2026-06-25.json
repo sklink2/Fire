@@ -328,5 +328,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33888"
     }
+  },
+  {
+    "runNumber": "33890",
+    "rawCode": "FSMO",
+    "timestamp": "2026-06-25T04:18:49.191410-04:00",
+    "address": "2400 Woodhill Drive",
+    "extra": {
+      "incidentNumber": "33890",
+      "run_id": "33890",
+      "address": "2400 Woodhill Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E09,L05,EC2,201",
+      "units": "E02,E09,L05,EC2,201",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-33890"
+    }
   }
 ]
