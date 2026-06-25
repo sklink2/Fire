@@ -2792,5 +2792,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-34002"
     }
+  },
+  {
+    "runNumber": "34001",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-25T15:46:29.045455-04:00",
+    "address": "599 Lima Drive",
+    "extra": {
+      "incidentNumber": "34001",
+      "run_id": "34001",
+      "address": "599 Lima Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E10,L03,203",
+      "units": "E04,E10,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-34001"
+    }
   }
 ]
