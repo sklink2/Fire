@@ -218,5 +218,27 @@
       "commandUnits": "220,204",
       "dedupeKey": "INCIDENT-33884"
     }
+  },
+  {
+    "runNumber": "33885",
+    "rawCode": "MED",
+    "timestamp": "2026-06-25T02:58:07.885888-04:00",
+    "address": "2000 Block Cummins Court",
+    "extra": {
+      "incidentNumber": "33885",
+      "run_id": "33885",
+      "address": "2000 Block Cummins Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-33885"
+    }
   }
 ]
