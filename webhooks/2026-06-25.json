@@ -86,5 +86,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-33878"
     }
+  },
+  {
+    "runNumber": "33879",
+    "rawCode": "MED",
+    "timestamp": "2026-06-25T01:58:34.363410-04:00",
+    "address": "S Upper Street & Scott Street",
+    "extra": {
+      "incidentNumber": "33879",
+      "run_id": "33879",
+      "address": "S Upper Street & Scott Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,EC7,204,241",
+      "units": "E06,EC7,204,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,204",
+      "dedupeKey": "INCIDENT-33879"
+    }
   }
 ]
