@@ -2924,5 +2924,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34216"
     }
+  },
+  {
+    "runNumber": "34215",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-26T16:48:09.108163-04:00",
+    "address": "364 Aylesford Place",
+    "extra": {
+      "incidentNumber": "34215",
+      "run_id": "34215",
+      "address": "364 Aylesford Place",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E06,L02,205",
+      "units": "E05,E06,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-34215"
+    }
   }
 ]
