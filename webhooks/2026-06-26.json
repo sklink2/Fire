@@ -834,5 +834,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34120"
     }
+  },
+  {
+    "runNumber": "34121",
+    "rawCode": "FINV",
+    "timestamp": "2026-06-26T07:05:39.412403-04:00",
+    "address": "64 Eb / 89.4 Mm (Clark Co Line",
+    "extra": {
+      "incidentNumber": "34121",
+      "run_id": "34121",
+      "address": "64 Eb / 89.4 Mm (Clark Co Line",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09",
+      "units": "E09",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34121"
+    }
   }
 ]
