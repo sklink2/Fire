@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34125"
     }
+  },
+  {
+    "runNumber": "34126",
+    "rawCode": "FCAR",
+    "timestamp": "2026-06-26T08:01:49.093038-04:00",
+    "address": "134 Ransom Avenue",
+    "extra": {
+      "incidentNumber": "34126",
+      "run_id": "34126",
+      "address": "134 Ransom Avenue",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L02",
+      "units": "L02",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34126"
+    }
   }
 ]
