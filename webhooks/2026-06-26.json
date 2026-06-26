@@ -900,5 +900,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34124"
     }
+  },
+  {
+    "runNumber": "34123",
+    "rawCode": "MED",
+    "timestamp": "2026-06-26T07:37:16.975215-04:00",
+    "address": "1100 Block Accord Drive",
+    "extra": {
+      "incidentNumber": "34123",
+      "run_id": "34123",
+      "address": "1100 Block Accord Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34123"
+    }
   }
 ]
