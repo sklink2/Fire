@@ -482,5 +482,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34106"
     }
+  },
+  {
+    "runNumber": "34105",
+    "rawCode": "MED",
+    "timestamp": "2026-06-26T03:49:13.336648-04:00",
+    "address": "100 Block Tartan Drive",
+    "extra": {
+      "incidentNumber": "34105",
+      "run_id": "34105",
+      "address": "100 Block Tartan Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34105"
+    }
   }
 ]
