@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34213"
     }
+  },
+  {
+    "runNumber": "34214",
+    "rawCode": "FFIA",
+    "timestamp": "2026-06-26T16:37:34.607508-04:00",
+    "address": "551 W Sixth Street",
+    "extra": {
+      "incidentNumber": "34214",
+      "run_id": "34214",
+      "address": "551 W Sixth Street",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E04,L01,EC6,205",
+      "units": "E01,E04,L01,EC6,205",
+      "unitCount": "5",
+      "primaryTopic": "FFIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-34214"
+    }
   }
 ]
