@@ -4530,5 +4530,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34079"
     }
+  },
+  {
+    "runNumber": "34080",
+    "rawCode": "MED",
+    "timestamp": "2026-06-25T23:33:00.908207-04:00",
+    "address": "900 Block Taborlake Court",
+    "extra": {
+      "incidentNumber": "34080",
+      "run_id": "34080",
+      "address": "900 Block Taborlake Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34080"
+    }
   }
 ]
