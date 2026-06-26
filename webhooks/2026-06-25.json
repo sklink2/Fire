@@ -4486,5 +4486,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34077"
     }
+  },
+  {
+    "runNumber": "34078",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-06-25T22:40:26.915173-04:00",
+    "address": "Man O War Boulevard & Belleau Wood",
+    "extra": {
+      "incidentNumber": "34078",
+      "run_id": "34078",
+      "address": "Man O War Boulevard & Belleau Wood",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,L04,L07,EC4,202,241,RS1",
+      "units": "E22,L04,L07,EC4,202,241,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-34078"
+    }
   }
 ]
