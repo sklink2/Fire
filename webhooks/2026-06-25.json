@@ -4574,5 +4574,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-34081"
     }
+  },
+  {
+    "runNumber": "34082",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-06-25T23:54:03.386901-04:00",
+    "address": "2550 Walnut Grove Lane",
+    "extra": {
+      "incidentNumber": "34082",
+      "run_id": "34082",
+      "address": "2550 Walnut Grove Lane",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17",
+      "units": "E17",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34082"
+    }
   }
 ]
