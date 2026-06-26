@@ -1406,5 +1406,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34144"
     }
+  },
+  {
+    "runNumber": "34146",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-26T09:54:06.060883-04:00",
+    "address": "249 Fairgrounds Drive",
+    "extra": {
+      "incidentNumber": "34146",
+      "run_id": "34146",
+      "address": "249 Fairgrounds Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E08,L05,201",
+      "units": "E02,E08,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-34146"
+    }
   }
 ]
