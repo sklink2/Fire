@@ -1098,5 +1098,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34132"
     }
+  },
+  {
+    "runNumber": "34134",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-26T09:01:28.288071-04:00",
+    "address": "184 Simpson Avenue",
+    "extra": {
+      "incidentNumber": "34134",
+      "run_id": "34134",
+      "address": "184 Simpson Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E05,E06,L02,204",
+      "units": "E04,E05,E06,L02,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-34134"
+    }
   }
 ]
