@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34126"
     }
+  },
+  {
+    "runNumber": "34127",
+    "rawCode": "FSMO",
+    "timestamp": "2026-06-26T08:12:20.647314-04:00",
+    "address": "1720 Fitzgerald Court",
+    "extra": {
+      "incidentNumber": "34127",
+      "run_id": "34127",
+      "address": "1720 Fitzgerald Court",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,E21,L05,EC8,201",
+      "units": "E17,E21,L05,EC8,201",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-34127"
+    }
   }
 ]
