@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34187"
     }
+  },
+  {
+    "runNumber": "34190",
+    "rawCode": "FINV",
+    "timestamp": "2026-06-26T13:59:40.810973-04:00",
+    "address": "222 Bolivar Street",
+    "extra": {
+      "incidentNumber": "34190",
+      "run_id": "34190",
+      "address": "222 Bolivar Street",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01",
+      "units": "L01",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34190"
+    }
   }
 ]
