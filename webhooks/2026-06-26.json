@@ -526,5 +526,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34104"
     }
+  },
+  {
+    "runNumber": "34107",
+    "rawCode": "FSTR",
+    "timestamp": "2026-06-26T03:52:44.700822-04:00",
+    "address": "704 Euclid Avenue",
+    "extra": {
+      "incidentNumber": "34107",
+      "run_id": "34107",
+      "address": "704 Euclid Avenue",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E05,E06,E09,L01,L02,EC10,204,205,220,241,RS1",
+      "units": "E01,E05,E06,E09,L01,L02,EC10,204,205,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,204,205",
+      "dedupeKey": "INCIDENT-34107"
+    }
   }
 ]
