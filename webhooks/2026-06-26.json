@@ -1274,5 +1274,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-34141"
     }
+  },
+  {
+    "runNumber": "34140",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-06-26T09:29:34.650762-04:00",
+    "address": "1630 Alexandria Drive",
+    "extra": {
+      "incidentNumber": "34140",
+      "run_id": "34140",
+      "address": "1630 Alexandria Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13",
+      "units": "E13",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34140"
+    }
   }
 ]
