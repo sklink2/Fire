@@ -3166,5 +3166,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34226"
     }
+  },
+  {
+    "runNumber": "34227",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-26T18:01:48.266309-04:00",
+    "address": "Greenwood Avenue & Georgetown Street",
+    "extra": {
+      "incidentNumber": "34227",
+      "run_id": "34227",
+      "address": "Greenwood Avenue & Georgetown Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,EC10,241",
+      "units": "E04,EC10,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-34227"
+    }
   }
 ]
