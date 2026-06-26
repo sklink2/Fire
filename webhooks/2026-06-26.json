@@ -240,5 +240,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34093"
     }
+  },
+  {
+    "runNumber": "34094",
+    "rawCode": "FINV",
+    "timestamp": "2026-06-26T02:03:54.723759-04:00",
+    "address": "158 Louie Place",
+    "extra": {
+      "incidentNumber": "34094",
+      "run_id": "34094",
+      "address": "158 Louie Place",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13",
+      "units": "E13",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34094"
+    }
   }
 ]
