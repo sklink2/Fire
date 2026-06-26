@@ -3518,5 +3518,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34242"
     }
+  },
+  {
+    "runNumber": "34243",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-26T19:47:04.132496-04:00",
+    "address": "2117 Shelton Road",
+    "extra": {
+      "incidentNumber": "34243",
+      "run_id": "34243",
+      "address": "2117 Shelton Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E22,L07,202",
+      "units": "E16,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-34243"
+    }
   }
 ]
