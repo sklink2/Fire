@@ -196,5 +196,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34092"
     }
+  },
+  {
+    "runNumber": "34091",
+    "rawCode": "MED",
+    "timestamp": "2026-06-26T01:39:23.168000-04:00",
+    "address": "200 Block Old Woolen Mill Lane",
+    "extra": {
+      "incidentNumber": "34091",
+      "run_id": "34091",
+      "address": "200 Block Old Woolen Mill Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,EC5",
+      "units": "E24,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34091"
+    }
   }
 ]
