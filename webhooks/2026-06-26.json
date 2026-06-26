@@ -2374,5 +2374,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-34189"
     }
+  },
+  {
+    "runNumber": "34188",
+    "rawCode": "MED",
+    "timestamp": "2026-06-26T13:59:47.123460-04:00",
+    "address": "2000 Block Call Drive",
+    "extra": {
+      "incidentNumber": "34188",
+      "run_id": "34188",
+      "address": "2000 Block Call Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,EC11",
+      "units": "E17,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34188"
+    }
   }
 ]
