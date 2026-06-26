@@ -4552,5 +4552,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34080"
     }
+  },
+  {
+    "runNumber": "34081",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-25T23:40:04.262959-04:00",
+    "address": "905 Lakewood Drive",
+    "extra": {
+      "incidentNumber": "34081",
+      "run_id": "34081",
+      "address": "905 Lakewood Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E07,L02,204",
+      "units": "E05,E07,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-34081"
+    }
   }
 ]
