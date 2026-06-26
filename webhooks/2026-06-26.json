@@ -1054,5 +1054,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34130"
     }
+  },
+  {
+    "runNumber": "34131",
+    "rawCode": "MED",
+    "timestamp": "2026-06-26T08:36:54.047570-04:00",
+    "address": "1900 Block Alice Drive",
+    "extra": {
+      "incidentNumber": "34131",
+      "run_id": "34131",
+      "address": "1900 Block Alice Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34131"
+    }
   }
 ]
