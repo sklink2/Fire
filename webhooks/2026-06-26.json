@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34218"
     }
+  },
+  {
+    "runNumber": "34219",
+    "rawCode": "MED",
+    "timestamp": "2026-06-26T17:05:38.832066-04:00",
+    "address": "1400 Block Dale Drive",
+    "extra": {
+      "incidentNumber": "34219",
+      "run_id": "34219",
+      "address": "1400 Block Dale Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34219"
+    }
   }
 ]
