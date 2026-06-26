@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34198"
     }
+  },
+  {
+    "runNumber": "34199",
+    "rawCode": "MED",
+    "timestamp": "2026-06-26T14:45:17.875541-04:00",
+    "address": "1600 Block Margate Drive",
+    "extra": {
+      "incidentNumber": "34199",
+      "run_id": "34199",
+      "address": "1600 Block Margate Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,EC6,CRT1",
+      "units": "E17,EC6,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34199"
+    }
   }
 ]
