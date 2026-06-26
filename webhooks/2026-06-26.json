@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34190"
     }
+  },
+  {
+    "runNumber": "34189",
+    "rawCode": "FELS",
+    "timestamp": "2026-06-26T13:59:44.060174-04:00",
+    "address": "1500 Leestown Road",
+    "extra": {
+      "incidentNumber": "34189",
+      "run_id": "34189",
+      "address": "1500 Leestown Road",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,L03,205",
+      "units": "E13,L03,205",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-34189"
+    }
   }
 ]
