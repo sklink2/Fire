@@ -1252,5 +1252,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34139"
     }
+  },
+  {
+    "runNumber": "34141",
+    "rawCode": "FELS",
+    "timestamp": "2026-06-26T09:29:31.624993-04:00",
+    "address": "1349 Centre Parkway",
+    "extra": {
+      "incidentNumber": "34141",
+      "run_id": "34141",
+      "address": "1349 Centre Parkway",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,L07,202",
+      "units": "E09,L07,202",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-34141"
+    }
   }
 ]
