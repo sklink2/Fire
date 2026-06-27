@@ -2154,5 +2154,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34375"
     }
+  },
+  {
+    "runNumber": "34376",
+    "rawCode": "FFIA",
+    "timestamp": "2026-06-27T14:08:38.614275-04:00",
+    "address": "2559 Kearney Ridge Boulevard",
+    "extra": {
+      "incidentNumber": "34376",
+      "run_id": "34376",
+      "address": "2559 Kearney Ridge Boulevard",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,E24,L03,EC6,203",
+      "units": "E10,E24,L03,EC6,203",
+      "unitCount": "5",
+      "primaryTopic": "FFIA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-34376"
+    }
   }
 ]
