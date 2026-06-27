@@ -3848,5 +3848,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34256"
     }
+  },
+  {
+    "runNumber": "34258",
+    "rawCode": "MED",
+    "timestamp": "2026-06-26T21:28:48.382991-04:00",
+    "address": "3000 Block Helmsdale Place",
+    "extra": {
+      "incidentNumber": "34258",
+      "run_id": "34258",
+      "address": "3000 Block Helmsdale Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC13",
+      "units": "E21,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34258"
+    }
   }
 ]
