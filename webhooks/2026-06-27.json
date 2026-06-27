@@ -1494,5 +1494,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34347"
     }
+  },
+  {
+    "runNumber": "34348",
+    "rawCode": "MED",
+    "timestamp": "2026-06-27T11:02:43.089083-04:00",
+    "address": "3600 Block Allante Brook Court",
+    "extra": {
+      "incidentNumber": "34348",
+      "run_id": "34348",
+      "address": "3600 Block Allante Brook Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L07,EC12",
+      "units": "L07,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34348"
+    }
   }
 ]
