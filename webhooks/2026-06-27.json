@@ -1472,5 +1472,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34346"
     }
+  },
+  {
+    "runNumber": "34347",
+    "rawCode": "MED",
+    "timestamp": "2026-06-27T10:48:40.235082-04:00",
+    "address": "200 Block W Fifth Street",
+    "extra": {
+      "incidentNumber": "34347",
+      "run_id": "34347",
+      "address": "200 Block W Fifth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34347"
+    }
   }
 ]
