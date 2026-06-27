@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34359"
     }
+  },
+  {
+    "runNumber": "34361",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-27T12:30:25.789887-04:00",
+    "address": "Clays Mill Road & Keithshire Way",
+    "extra": {
+      "incidentNumber": "34361",
+      "run_id": "34361",
+      "address": "Clays Mill Road & Keithshire Way",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,L04,EC12,204,241",
+      "units": "E20,L04,EC12,204,241",
+      "unitCount": "5",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241,204",
+      "dedupeKey": "INCIDENT-34361"
+    }
   }
 ]
