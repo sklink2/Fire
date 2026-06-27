@@ -1120,5 +1120,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34330"
     }
+  },
+  {
+    "runNumber": "34332",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-27T09:14:00.003156-04:00",
+    "address": "3120 Mapleleaf Sq",
+    "extra": {
+      "incidentNumber": "34332",
+      "run_id": "34332",
+      "address": "3120 Mapleleaf Sq",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E21,L06,201",
+      "units": "E09,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-34332"
+    }
   }
 ]
