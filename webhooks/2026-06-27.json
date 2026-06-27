@@ -86,5 +86,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34282"
     }
+  },
+  {
+    "runNumber": "34283",
+    "rawCode": "MED",
+    "timestamp": "2026-06-27T02:02:28.205329-04:00",
+    "address": "600 Block Newtown Pike",
+    "extra": {
+      "incidentNumber": "34283",
+      "run_id": "34283",
+      "address": "600 Block Newtown Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34283"
+    }
   }
 ]
