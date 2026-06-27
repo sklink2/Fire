@@ -2462,5 +2462,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34388"
     }
+  },
+  {
+    "runNumber": "34391",
+    "rawCode": "MED",
+    "timestamp": "2026-06-27T15:39:53.147172-04:00",
+    "address": "3800 Block Nadia Lane",
+    "extra": {
+      "incidentNumber": "34391",
+      "run_id": "34391",
+      "address": "3800 Block Nadia Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC9,CRT1",
+      "units": "E15,EC9,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34391"
+    }
   }
 ]
