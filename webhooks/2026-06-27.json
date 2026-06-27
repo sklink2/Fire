@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34320"
     }
+  },
+  {
+    "runNumber": "34321",
+    "rawCode": "MED",
+    "timestamp": "2026-06-27T08:03:47.176937-04:00",
+    "address": "100 Block Malabu Drive",
+    "extra": {
+      "incidentNumber": "34321",
+      "run_id": "34321",
+      "address": "100 Block Malabu Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34321"
+    }
   }
 ]
