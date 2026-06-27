@@ -3870,5 +3870,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34258"
     }
+  },
+  {
+    "runNumber": "34259",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-26T21:42:51.022557-04:00",
+    "address": "500 Marblerock Way",
+    "extra": {
+      "incidentNumber": "34259",
+      "run_id": "34259",
+      "address": "500 Marblerock Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,E20,L04,204",
+      "units": "E15,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-34259"
+    }
   }
 ]
