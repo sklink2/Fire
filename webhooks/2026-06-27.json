@@ -2836,5 +2836,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34406"
     }
+  },
+  {
+    "runNumber": "34407",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-27T17:49:42.020073-04:00",
+    "address": "2312 Allen Drive",
+    "extra": {
+      "incidentNumber": "34407",
+      "run_id": "34407",
+      "address": "2312 Allen Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E19,L03,201",
+      "units": "E02,E19,L03,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-34407"
+    }
   }
 ]
