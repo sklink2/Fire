@@ -3914,5 +3914,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-34260"
     }
+  },
+  {
+    "runNumber": "34261",
+    "rawCode": "FMIS",
+    "timestamp": "2026-06-26T22:00:23.975767-04:00",
+    "address": "1061 Chasewood Way",
+    "extra": {
+      "incidentNumber": "34261",
+      "run_id": "34261",
+      "address": "1061 Chasewood Way",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,204",
+      "units": "E20,204",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-34261"
+    }
   }
 ]
