@@ -1714,5 +1714,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34355"
     }
+  },
+  {
+    "runNumber": "34357",
+    "rawCode": "MED",
+    "timestamp": "2026-06-27T11:55:22.244200-04:00",
+    "address": "1200 Block Wyndham Hills Drive",
+    "extra": {
+      "incidentNumber": "34357",
+      "run_id": "34357",
+      "address": "1200 Block Wyndham Hills Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC12,241",
+      "units": "E20,EC12,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-34357"
+    }
   }
 ]
