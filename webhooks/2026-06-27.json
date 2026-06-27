@@ -306,5 +306,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-34292"
     }
+  },
+  {
+    "runNumber": "34293",
+    "rawCode": "MED",
+    "timestamp": "2026-06-27T03:44:11.058756-04:00",
+    "address": "1400 Block Sugar Maple Lane",
+    "extra": {
+      "incidentNumber": "34293",
+      "run_id": "34293",
+      "address": "1400 Block Sugar Maple Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34293"
+    }
   }
 ]
