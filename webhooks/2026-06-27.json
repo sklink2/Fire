@@ -2242,5 +2242,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34379"
     }
+  },
+  {
+    "runNumber": "34381",
+    "rawCode": "FELS",
+    "timestamp": "2026-06-27T14:57:47.295653-04:00",
+    "address": "2050 Garden Springs Drive",
+    "extra": {
+      "incidentNumber": "34381",
+      "run_id": "34381",
+      "address": "2050 Garden Springs Drive",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,L04,204",
+      "units": "E12,L04,204",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-34381"
+    }
   }
 ]
