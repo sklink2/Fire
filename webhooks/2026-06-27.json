@@ -3056,5 +3056,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34416"
     }
+  },
+  {
+    "runNumber": "34418",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-27T19:13:54.577221-04:00",
+    "address": "112 Ashley Woods Road",
+    "extra": {
+      "incidentNumber": "34418",
+      "run_id": "34418",
+      "address": "112 Ashley Woods Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E18,E21,L06,202",
+      "units": "E18,E21,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-34418"
+    }
   }
 ]
