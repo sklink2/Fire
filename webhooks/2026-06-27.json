@@ -1142,5 +1142,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-34332"
     }
+  },
+  {
+    "runNumber": "34331",
+    "rawCode": "FNGL",
+    "timestamp": "2026-06-27T09:14:06.572056-04:00",
+    "address": "2204 Carolina Lane",
+    "extra": {
+      "incidentNumber": "34331",
+      "run_id": "34331",
+      "address": "2204 Carolina Lane",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E20,L04,EC12,204,220",
+      "units": "E11,E20,L04,EC12,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-34331"
+    }
   }
 ]
