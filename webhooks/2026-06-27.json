@@ -2264,5 +2264,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-34381"
     }
+  },
+  {
+    "runNumber": "34380",
+    "rawCode": "MED",
+    "timestamp": "2026-06-27T14:57:50.440229-04:00",
+    "address": "1400 Block Alexandria Drive",
+    "extra": {
+      "incidentNumber": "34380",
+      "run_id": "34380",
+      "address": "1400 Block Alexandria Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34380"
+    }
   }
 ]
