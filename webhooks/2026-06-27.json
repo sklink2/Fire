@@ -2748,5 +2748,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-34402"
     }
+  },
+  {
+    "runNumber": "34403",
+    "rawCode": "MED",
+    "timestamp": "2026-06-27T17:28:39.568662-04:00",
+    "address": "2000 Block Armstrong Mill Road",
+    "extra": {
+      "incidentNumber": "34403",
+      "run_id": "34403",
+      "address": "2000 Block Armstrong Mill Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC4",
+      "units": "E16,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34403"
+    }
   }
 ]
