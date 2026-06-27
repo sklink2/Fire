@@ -2022,5 +2022,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-34369"
     }
+  },
+  {
+    "runNumber": "34370",
+    "rawCode": "FINV",
+    "timestamp": "2026-06-27T13:47:37.174131-04:00",
+    "address": "167 W Main Street",
+    "extra": {
+      "incidentNumber": "34370",
+      "run_id": "34370",
+      "address": "167 W Main Street",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "205",
+      "units": "205",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-34370"
+    }
   }
 ]
