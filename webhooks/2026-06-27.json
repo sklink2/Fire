@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34404"
     }
+  },
+  {
+    "runNumber": "34405",
+    "rawCode": "FGAO",
+    "timestamp": "2026-06-27T17:35:39.419480-04:00",
+    "address": "124 Greenway Lane",
+    "extra": {
+      "incidentNumber": "34405",
+      "run_id": "34405",
+      "address": "124 Greenway Lane",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,E24",
+      "units": "E10,E24",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34405"
+    }
   }
 ]
