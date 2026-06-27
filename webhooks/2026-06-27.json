@@ -2858,5 +2858,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-34407"
     }
+  },
+  {
+    "runNumber": "34408",
+    "rawCode": "MED",
+    "timestamp": "2026-06-27T17:53:12.117219-04:00",
+    "address": "Salem Street & Morris Aly",
+    "extra": {
+      "incidentNumber": "34408",
+      "run_id": "34408",
+      "address": "Salem Street & Morris Aly",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L01",
+      "units": "L01",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34408"
+    }
   }
 ]
