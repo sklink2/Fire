@@ -834,5 +834,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34490"
     }
+  },
+  {
+    "runNumber": "34489",
+    "rawCode": "FSCU",
+    "timestamp": "2026-06-28T07:34:12.260124-04:00",
+    "address": "Citation Boulevard & Buck Lane",
+    "extra": {
+      "incidentNumber": "34489",
+      "run_id": "34489",
+      "address": "Citation Boulevard & Buck Lane",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,203",
+      "units": "E24,203",
+      "unitCount": "2",
+      "primaryTopic": "FSCU",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-34489"
+    }
   }
 ]
