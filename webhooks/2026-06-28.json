@@ -2044,5 +2044,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34543"
     }
+  },
+  {
+    "runNumber": "34546",
+    "rawCode": "FSCU",
+    "timestamp": "2026-06-28T13:46:02.829983-04:00",
+    "address": "716 N Broadway",
+    "extra": {
+      "incidentNumber": "34546",
+      "run_id": "34546",
+      "address": "716 N Broadway",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E04",
+      "units": "E02,E04",
+      "unitCount": "2",
+      "primaryTopic": "FSCU",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34546"
+    }
   }
 ]
