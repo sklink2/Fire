@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34529"
     }
+  },
+  {
+    "runNumber": "34528",
+    "rawCode": "MED",
+    "timestamp": "2026-06-28T12:28:54.705879-04:00",
+    "address": "1000 Block Claridge Court",
+    "extra": {
+      "incidentNumber": "34528",
+      "run_id": "34528",
+      "address": "1000 Block Claridge Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,E14,EC10",
+      "units": "E11,E14,EC10",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34528"
+    }
   }
 ]
