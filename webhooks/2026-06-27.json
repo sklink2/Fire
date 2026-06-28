@@ -3254,5 +3254,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34425"
     }
+  },
+  {
+    "runNumber": "34426",
+    "rawCode": "MED",
+    "timestamp": "2026-06-27T20:13:30.859457-04:00",
+    "address": "2600 Block Trailwood Lane",
+    "extra": {
+      "incidentNumber": "34426",
+      "run_id": "34426",
+      "address": "2600 Block Trailwood Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC1",
+      "units": "E24,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34426"
+    }
   }
 ]
