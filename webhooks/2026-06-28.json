@@ -2594,5 +2594,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34570"
     }
+  },
+  {
+    "runNumber": "34569",
+    "rawCode": "FMIS",
+    "timestamp": "2026-06-28T15:55:54.428867-04:00",
+    "address": "E Seventh Street & Shropshire Avenue",
+    "extra": {
+      "incidentNumber": "34569",
+      "run_id": "34569",
+      "address": "E Seventh Street & Shropshire Avenue",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,201",
+      "units": "E02,201",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-34569"
+    }
   }
 ]
