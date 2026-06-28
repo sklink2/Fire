@@ -3364,5 +3364,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-34605"
     }
+  },
+  {
+    "runNumber": "34607",
+    "rawCode": "FINV",
+    "timestamp": "2026-06-28T19:57:57.108094-04:00",
+    "address": "990 Stonewall Road",
+    "extra": {
+      "incidentNumber": "34607",
+      "run_id": "34607",
+      "address": "990 Stonewall Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14",
+      "units": "E14",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34607"
+    }
   }
 ]
