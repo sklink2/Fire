@@ -1340,5 +1340,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-34511"
     }
+  },
+  {
+    "runNumber": "34513",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-06-28T10:15:35.655622-04:00",
+    "address": "2701 Magnolia Springs Drive",
+    "extra": {
+      "incidentNumber": "34513",
+      "run_id": "34513",
+      "address": "2701 Magnolia Springs Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24",
+      "units": "E24",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34513"
+    }
   }
 ]
