@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34438"
     }
+  },
+  {
+    "runNumber": "34439",
+    "rawCode": "FMIS",
+    "timestamp": "2026-06-27T21:58:48.952017-04:00",
+    "address": "4044 Palmetto Drive",
+    "extra": {
+      "incidentNumber": "34439",
+      "run_id": "34439",
+      "address": "4044 Palmetto Drive",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,204",
+      "units": "E20,204",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-34439"
+    }
   }
 ]
