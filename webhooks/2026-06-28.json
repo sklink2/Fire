@@ -790,5 +790,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34488"
     }
+  },
+  {
+    "runNumber": "34489",
+    "rawCode": "FASS",
+    "timestamp": "2026-06-28T07:30:41.886612-04:00",
+    "address": "Citation Boulevard & Buck Lane",
+    "extra": {
+      "incidentNumber": "34489",
+      "run_id": "34489",
+      "address": "Citation Boulevard & Buck Lane",
+      "rawType": "FASS",
+      "typeCode": "FASS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "203",
+      "units": "203",
+      "unitCount": "1",
+      "primaryTopic": "FASS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-34489"
+    }
   }
 ]
