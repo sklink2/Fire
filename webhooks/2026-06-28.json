@@ -3188,5 +3188,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34596"
     }
+  },
+  {
+    "runNumber": "34598",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-28T19:01:50.127535-04:00",
+    "address": "135 Graham Avenue",
+    "extra": {
+      "incidentNumber": "34598",
+      "run_id": "34598",
+      "address": "135 Graham Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E11,L02,204",
+      "units": "E06,E11,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-34598"
+    }
   }
 ]
