@@ -878,5 +878,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34491"
     }
+  },
+  {
+    "runNumber": "34493",
+    "rawCode": "FNGL",
+    "timestamp": "2026-06-28T08:09:16.983191-04:00",
+    "address": "208 Lakeshore Drive",
+    "extra": {
+      "incidentNumber": "34493",
+      "run_id": "34493",
+      "address": "208 Lakeshore Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E09,L02,EC8,201,220",
+      "units": "E02,E09,L02,EC8,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-34493"
+    }
   }
 ]
