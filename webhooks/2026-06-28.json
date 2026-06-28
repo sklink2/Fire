@@ -1120,5 +1120,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34502"
     }
+  },
+  {
+    "runNumber": "34504",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-28T08:58:24.244155-04:00",
+    "address": "745 Rose Street",
+    "extra": {
+      "incidentNumber": "34504",
+      "run_id": "34504",
+      "address": "745 Rose Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E06,L02,204",
+      "units": "E04,E06,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-34504"
+    }
   }
 ]
