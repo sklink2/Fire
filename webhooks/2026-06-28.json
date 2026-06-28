@@ -2726,5 +2726,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34575"
     }
+  },
+  {
+    "runNumber": "34576",
+    "rawCode": "MED",
+    "timestamp": "2026-06-28T16:59:00.122974-04:00",
+    "address": "200 Block Patchen Drive",
+    "extra": {
+      "incidentNumber": "34576",
+      "run_id": "34576",
+      "address": "200 Block Patchen Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34576"
+    }
   }
 ]
