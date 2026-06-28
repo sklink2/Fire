@@ -3562,5 +3562,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-34439"
     }
+  },
+  {
+    "runNumber": "34440",
+    "rawCode": "FMEA",
+    "timestamp": "2026-06-27T22:02:19.193533-04:00",
+    "address": "1511 Versailles Road",
+    "extra": {
+      "incidentNumber": "34440",
+      "run_id": "34440",
+      "address": "1511 Versailles Road",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14",
+      "units": "E14",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34440"
+    }
   }
 ]
