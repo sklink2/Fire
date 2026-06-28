@@ -1978,5 +1978,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34542"
     }
+  },
+  {
+    "runNumber": "34541",
+    "rawCode": "MED",
+    "timestamp": "2026-06-28T13:39:04.679273-04:00",
+    "address": "4700 Block Hartland Parkway",
+    "extra": {
+      "incidentNumber": "34541",
+      "run_id": "34541",
+      "address": "4700 Block Hartland Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC2",
+      "units": "E22,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34541"
+    }
   }
 ]
