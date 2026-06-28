@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34496"
     }
+  },
+  {
+    "runNumber": "34498",
+    "rawCode": "FINV",
+    "timestamp": "2026-06-28T08:30:19.688575-04:00",
+    "address": "511 Michigan Street",
+    "extra": {
+      "incidentNumber": "34498",
+      "run_id": "34498",
+      "address": "511 Michigan Street",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,L03",
+      "units": "E10,L03",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34498"
+    }
   }
 ]
