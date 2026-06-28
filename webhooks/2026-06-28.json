@@ -966,5 +966,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-34495"
     }
+  },
+  {
+    "runNumber": "34497",
+    "rawCode": "MED",
+    "timestamp": "2026-06-28T08:19:47.106692-04:00",
+    "address": "3500 Block Gloucester Drive",
+    "extra": {
+      "incidentNumber": "34497",
+      "run_id": "34497",
+      "address": "3500 Block Gloucester Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34497"
+    }
   }
 ]
