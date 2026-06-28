@@ -2748,5 +2748,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34576"
     }
+  },
+  {
+    "runNumber": "34578",
+    "rawCode": "MED",
+    "timestamp": "2026-06-28T17:02:31.022817-04:00",
+    "address": "1800 Block Newtown Pike",
+    "extra": {
+      "incidentNumber": "34578",
+      "run_id": "34578",
+      "address": "1800 Block Newtown Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34578"
+    }
   }
 ]
