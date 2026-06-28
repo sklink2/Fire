@@ -3408,5 +3408,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34433"
     }
+  },
+  {
+    "runNumber": "34432",
+    "rawCode": "MED",
+    "timestamp": "2026-06-27T20:55:40.807344-04:00",
+    "address": "200 Block Stallion Run",
+    "extra": {
+      "incidentNumber": "34432",
+      "run_id": "34432",
+      "address": "200 Block Stallion Run",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "T1,EC10",
+      "units": "T1,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34432"
+    }
   }
 ]
