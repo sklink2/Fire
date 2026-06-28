@@ -1230,5 +1230,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34508"
     }
+  },
+  {
+    "runNumber": "34507",
+    "rawCode": "MED",
+    "timestamp": "2026-06-28T09:30:00.465847-04:00",
+    "address": "4800 Block Dresden Way",
+    "extra": {
+      "incidentNumber": "34507",
+      "run_id": "34507",
+      "address": "4800 Block Dresden Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34507"
+    }
   }
 ]
