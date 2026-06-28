@@ -1758,5 +1758,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34531"
     }
+  },
+  {
+    "runNumber": "34532",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-28T12:56:56.314616-04:00",
+    "address": "1174 Brock Mcvey Drive",
+    "extra": {
+      "incidentNumber": "34532",
+      "run_id": "34532",
+      "address": "1174 Brock Mcvey Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E09,L05,201",
+      "units": "E02,E09,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-34532"
+    }
   }
 ]
