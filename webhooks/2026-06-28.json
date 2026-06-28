@@ -2770,5 +2770,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34578"
     }
+  },
+  {
+    "runNumber": "34580",
+    "rawCode": "FELS",
+    "timestamp": "2026-06-28T17:06:02.884810-04:00",
+    "address": "4174 Rowan",
+    "extra": {
+      "incidentNumber": "34580",
+      "run_id": "34580",
+      "address": "4174 Rowan",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,L07,204",
+      "units": "E12,L07,204",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-34580"
+    }
   }
 ]
