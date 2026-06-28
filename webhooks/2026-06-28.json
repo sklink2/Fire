@@ -1494,5 +1494,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34519"
     }
+  },
+  {
+    "runNumber": "34520",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-28T10:57:41.880393-04:00",
+    "address": "553 E Sixth Street",
+    "extra": {
+      "incidentNumber": "34520",
+      "run_id": "34520",
+      "address": "553 E Sixth Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E05,L01,205",
+      "units": "E01,E05,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-34520"
+    }
   }
 ]
