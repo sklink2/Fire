@@ -1780,5 +1780,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-34532"
     }
+  },
+  {
+    "runNumber": "34534",
+    "rawCode": "MED",
+    "timestamp": "2026-06-28T13:14:28.390905-04:00",
+    "address": "2800 Block Kearney Creek Lane",
+    "extra": {
+      "incidentNumber": "34534",
+      "run_id": "34534",
+      "address": "2800 Block Kearney Creek Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,EC1",
+      "units": "E24,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34534"
+    }
   }
 ]
