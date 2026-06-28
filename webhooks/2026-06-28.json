@@ -218,5 +218,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34461"
     }
+  },
+  {
+    "runNumber": "34462",
+    "rawCode": "MED",
+    "timestamp": "2026-06-28T01:29:19.637919-04:00",
+    "address": "2300 Block Palumbo Drive",
+    "extra": {
+      "incidentNumber": "34462",
+      "run_id": "34462",
+      "address": "2300 Block Palumbo Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC2,201,241",
+      "units": "E09,EC2,201,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-34462"
+    }
   }
 ]
