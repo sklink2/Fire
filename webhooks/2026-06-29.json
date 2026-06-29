@@ -1252,5 +1252,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34696"
     }
+  },
+  {
+    "runNumber": "34695",
+    "rawCode": "MED",
+    "timestamp": "2026-06-29T10:07:04.028088-04:00",
+    "address": "3100 Block Custer Drive",
+    "extra": {
+      "incidentNumber": "34695",
+      "run_id": "34695",
+      "address": "3100 Block Custer Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34695"
+    }
   }
 ]
