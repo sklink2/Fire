@@ -834,5 +834,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34676"
     }
+  },
+  {
+    "runNumber": "34677",
+    "rawCode": "MED",
+    "timestamp": "2026-06-29T07:50:15.076368-04:00",
+    "address": "Innovation Drive & Jaggie Fox Way",
+    "extra": {
+      "incidentNumber": "34677",
+      "run_id": "34677",
+      "address": "Innovation Drive & Jaggie Fox Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC6,CRT1",
+      "units": "E24,EC6,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34677"
+    }
   }
 ]
