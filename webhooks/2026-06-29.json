@@ -2814,5 +2814,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34764"
     }
+  },
+  {
+    "runNumber": "34766",
+    "rawCode": "MED",
+    "timestamp": "2026-06-29T16:08:23.488124-04:00",
+    "address": "200 Block Waller Avenue",
+    "extra": {
+      "incidentNumber": "34766",
+      "run_id": "34766",
+      "address": "200 Block Waller Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,EC12,CRT1",
+      "units": "E11,EC12,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34766"
+    }
   }
 ]
