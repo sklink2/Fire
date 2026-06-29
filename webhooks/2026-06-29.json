@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34711"
     }
+  },
+  {
+    "runNumber": "34715",
+    "rawCode": "MED",
+    "timestamp": "2026-06-29T11:17:10.377887-04:00",
+    "address": "900 Block Byars Avenue",
+    "extra": {
+      "incidentNumber": "34715",
+      "run_id": "34715",
+      "address": "900 Block Byars Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC10",
+      "units": "E02,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34715"
+    }
   }
 ]
