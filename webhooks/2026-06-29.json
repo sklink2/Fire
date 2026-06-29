@@ -3496,5 +3496,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34796"
     }
+  },
+  {
+    "runNumber": "34795",
+    "rawCode": "MED",
+    "timestamp": "2026-06-29T19:07:28.543674-04:00",
+    "address": "4000 Block Nicholasville Road",
+    "extra": {
+      "incidentNumber": "34795",
+      "run_id": "34795",
+      "address": "4000 Block Nicholasville Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC9,202,241",
+      "units": "E15,EC9,202,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-34795"
+    }
   }
 ]
