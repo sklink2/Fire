@@ -3408,5 +3408,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34606"
     }
+  },
+  {
+    "runNumber": "34608",
+    "rawCode": "MED",
+    "timestamp": "2026-06-28T20:08:27.634008-04:00",
+    "address": "500 Block Gibson Avenue",
+    "extra": {
+      "incidentNumber": "34608",
+      "run_id": "34608",
+      "address": "500 Block Gibson Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34608"
+    }
   }
 ]
