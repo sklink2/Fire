@@ -2022,5 +2022,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34729"
     }
+  },
+  {
+    "runNumber": "34728",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-29T12:34:28.291992-04:00",
+    "address": "1916 Tidewater Flt",
+    "extra": {
+      "incidentNumber": "34728",
+      "run_id": "34728",
+      "address": "1916 Tidewater Flt",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E17,L05,205",
+      "units": "E02,E17,L05,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-34728"
+    }
   }
 ]
