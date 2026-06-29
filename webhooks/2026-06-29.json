@@ -2462,5 +2462,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34748"
     }
+  },
+  {
+    "runNumber": "34749",
+    "rawCode": "MED",
+    "timestamp": "2026-06-29T15:05:15.315911-04:00",
+    "address": "300 Block Greenbriar Road",
+    "extra": {
+      "incidentNumber": "34749",
+      "run_id": "34749",
+      "address": "300 Block Greenbriar Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC4,241",
+      "units": "EC4,241",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-34749"
+    }
   }
 ]
