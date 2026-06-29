@@ -2704,5 +2704,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-34762"
     }
+  },
+  {
+    "runNumber": "34761",
+    "rawCode": "MED",
+    "timestamp": "2026-06-29T15:54:25.702522-04:00",
+    "address": "800 Block Harp Innis Road",
+    "extra": {
+      "incidentNumber": "34761",
+      "run_id": "34761",
+      "address": "800 Block Harp Innis Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E19,EC6",
+      "units": "E19,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34761"
+    }
   }
 ]
