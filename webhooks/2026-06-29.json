@@ -3100,5 +3100,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34777"
     }
+  },
+  {
+    "runNumber": "34778",
+    "rawCode": "MED",
+    "timestamp": "2026-06-29T17:04:32.741938-04:00",
+    "address": "600 Block Eden Road",
+    "extra": {
+      "incidentNumber": "34778",
+      "run_id": "34778",
+      "address": "600 Block Eden Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E19,EC10",
+      "units": "E19,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34778"
+    }
   }
 ]
