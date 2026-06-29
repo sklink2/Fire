@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34709"
     }
+  },
+  {
+    "runNumber": "34712",
+    "rawCode": "FELF",
+    "timestamp": "2026-06-29T11:10:11.676221-04:00",
+    "address": "1190 Atiya Place",
+    "extra": {
+      "incidentNumber": "34712",
+      "run_id": "34712",
+      "address": "1190 Atiya Place",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E05,L01,EC8,205",
+      "units": "E01,E05,L01,EC8,205",
+      "unitCount": "5",
+      "primaryTopic": "FELF",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-34712"
+    }
   }
 ]
