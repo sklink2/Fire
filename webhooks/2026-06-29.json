@@ -1714,5 +1714,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-34716"
     }
+  },
+  {
+    "runNumber": "34718",
+    "rawCode": "MED",
+    "timestamp": "2026-06-29T11:24:10.940889-04:00",
+    "address": "N Limestone & Devonia Avenue",
+    "extra": {
+      "incidentNumber": "34718",
+      "run_id": "34718",
+      "address": "N Limestone & Devonia Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,EC3",
+      "units": "E04,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34718"
+    }
   }
 ]
