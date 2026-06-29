@@ -900,5 +900,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34679"
     }
+  },
+  {
+    "runNumber": "34680",
+    "rawCode": "MED",
+    "timestamp": "2026-06-29T08:04:15.012748-04:00",
+    "address": "2600 Block Clays Mill Road",
+    "extra": {
+      "incidentNumber": "34680",
+      "run_id": "34680",
+      "address": "2600 Block Clays Mill Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34680"
+    }
   }
 ]
