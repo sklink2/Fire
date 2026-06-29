@@ -1934,5 +1934,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34726"
     }
+  },
+  {
+    "runNumber": "34722",
+    "rawCode": "FMIS",
+    "timestamp": "2026-06-29T12:20:20.624278-04:00",
+    "address": "1840 Mccullough Drive",
+    "extra": {
+      "incidentNumber": "34722",
+      "run_id": "34722",
+      "address": "1840 Mccullough Drive",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC3,203,CRT1",
+      "units": "E10,EC3,203,CRT1",
+      "unitCount": "4",
+      "primaryTopic": "FMIS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-34722"
+    }
   }
 ]
