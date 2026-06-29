@@ -130,5 +130,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34646"
     }
+  },
+  {
+    "runNumber": "34645",
+    "rawCode": "FVIS",
+    "timestamp": "2026-06-29T00:45:44.428671-04:00",
+    "address": "2972 Winter Garden",
+    "extra": {
+      "incidentNumber": "34645",
+      "run_id": "34645",
+      "address": "2972 Winter Garden",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E12,L07,EC4,202,RS1",
+      "units": "E09,E12,L07,EC4,202,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-34645"
+    }
   }
 ]
