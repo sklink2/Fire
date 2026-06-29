@@ -1208,5 +1208,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34691"
     }
+  },
+  {
+    "runNumber": "34694",
+    "rawCode": "MED",
+    "timestamp": "2026-06-29T09:59:59.248906-04:00",
+    "address": "3200 Block Blenheim Way",
+    "extra": {
+      "incidentNumber": "34694",
+      "run_id": "34694",
+      "address": "3200 Block Blenheim Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L04,EC12",
+      "units": "L04,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34694"
+    }
   }
 ]
