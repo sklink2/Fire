@@ -2858,5 +2858,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34765"
     }
+  },
+  {
+    "runNumber": "34768",
+    "rawCode": "MED",
+    "timestamp": "2026-06-29T16:15:26.900868-04:00",
+    "address": "Pasadena Drive & Clearview Drive",
+    "extra": {
+      "incidentNumber": "34768",
+      "run_id": "34768",
+      "address": "Pasadena Drive & Clearview Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,EC4,204,241",
+      "units": "E12,EC4,204,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,204",
+      "dedupeKey": "INCIDENT-34768"
+    }
   }
 ]
