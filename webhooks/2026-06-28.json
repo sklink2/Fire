@@ -3584,5 +3584,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34615"
     }
+  },
+  {
+    "runNumber": "34616",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-28T21:22:08.789196-04:00",
+    "address": "271 Hedgewood Court",
+    "extra": {
+      "incidentNumber": "34616",
+      "run_id": "34616",
+      "address": "271 Hedgewood Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E21,L06,201",
+      "units": "E09,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-34616"
+    }
   }
 ]
