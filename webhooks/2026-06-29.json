@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34758"
     }
+  },
+  {
+    "runNumber": "34762",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-29T15:54:22.097626-04:00",
+    "address": "1364 Devonport Drive",
+    "extra": {
+      "incidentNumber": "34762",
+      "run_id": "34762",
+      "address": "1364 Devonport Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E14,L04,204",
+      "units": "E11,E14,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-34762"
+    }
   }
 ]
