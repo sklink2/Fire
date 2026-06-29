@@ -856,5 +856,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34677"
     }
+  },
+  {
+    "runNumber": "34678",
+    "rawCode": "FSMO",
+    "timestamp": "2026-06-29T07:53:44.987874-04:00",
+    "address": "1177 Harry Sykes Way",
+    "extra": {
+      "incidentNumber": "34678",
+      "run_id": "34678",
+      "address": "1177 Harry Sykes Way",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E13,L07,EC10,203",
+      "units": "E11,E13,L07,EC10,203",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-34678"
+    }
   }
 ]
