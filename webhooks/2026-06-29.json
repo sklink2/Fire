@@ -196,5 +196,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34647"
     }
+  },
+  {
+    "runNumber": "34649",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-29T01:31:17.154378-04:00",
+    "address": "305 Lindenhurst Drive",
+    "extra": {
+      "incidentNumber": "34649",
+      "run_id": "34649",
+      "address": "305 Lindenhurst Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E21,L06,201",
+      "units": "E02,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-34649"
+    }
   }
 ]
