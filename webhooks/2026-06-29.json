@@ -3188,5 +3188,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34781"
     }
+  },
+  {
+    "runNumber": "34782",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-29T17:29:06.896295-04:00",
+    "address": "1749 Liberty Road",
+    "extra": {
+      "incidentNumber": "34782",
+      "run_id": "34782",
+      "address": "1749 Liberty Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC2",
+      "units": "E02,EC2",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34782"
+    }
   }
 ]
