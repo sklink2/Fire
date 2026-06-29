@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34681"
     }
+  },
+  {
+    "runNumber": "34682",
+    "rawCode": "FVEA",
+    "timestamp": "2026-06-29T08:14:46.824786-04:00",
+    "address": "75 Sb / 115.0 Mm (Newtown Pike",
+    "extra": {
+      "incidentNumber": "34682",
+      "run_id": "34682",
+      "address": "75 Sb / 115.0 Mm (Newtown Pike",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E10,EC6",
+      "units": "E04,E10,EC6",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34682"
+    }
   }
 ]
