@@ -64,5 +64,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34641"
     }
+  },
+  {
+    "runNumber": "34642",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-29T00:38:38.976700-04:00",
+    "address": "1951 Pleasant Ridge Drive",
+    "extra": {
+      "incidentNumber": "34642",
+      "run_id": "34642",
+      "address": "1951 Pleasant Ridge Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17,E21,L06,201",
+      "units": "E17,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-34642"
+    }
   }
 ]
