@@ -3342,5 +3342,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34788"
     }
+  },
+  {
+    "runNumber": "34789",
+    "rawCode": "MED",
+    "timestamp": "2026-06-29T18:14:43.731485-04:00",
+    "address": "1500 Block Martha Court",
+    "extra": {
+      "incidentNumber": "34789",
+      "run_id": "34789",
+      "address": "1500 Block Martha Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34789"
+    }
   }
 ]
