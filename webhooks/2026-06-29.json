@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34751"
     }
+  },
+  {
+    "runNumber": "34752",
+    "rawCode": "MED",
+    "timestamp": "2026-06-29T15:19:16.779042-04:00",
+    "address": "200 Block Medlock Road",
+    "extra": {
+      "incidentNumber": "34752",
+      "run_id": "34752",
+      "address": "200 Block Medlock Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC2",
+      "units": "E15,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34752"
+    }
   }
 ]
