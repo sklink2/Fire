@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34724"
     }
+  },
+  {
+    "runNumber": "34723",
+    "rawCode": "MED",
+    "timestamp": "2026-06-29T12:09:51.403089-04:00",
+    "address": "3700 Block Stolen Horse Trce",
+    "extra": {
+      "incidentNumber": "34723",
+      "run_id": "34723",
+      "address": "3700 Block Stolen Horse Trce",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,EC11",
+      "units": "E17,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34723"
+    }
   }
 ]
