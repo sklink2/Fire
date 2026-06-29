@@ -1494,5 +1494,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34705"
     }
+  },
+  {
+    "runNumber": "34708",
+    "rawCode": "FVIS",
+    "timestamp": "2026-06-29T10:56:09.129092-04:00",
+    "address": "1148 Industry Road",
+    "extra": {
+      "incidentNumber": "34708",
+      "run_id": "34708",
+      "address": "1148 Industry Road",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E13,L05,EC11,201,RS1",
+      "units": "E02,E13,L05,EC11,201,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-34708"
+    }
   }
 ]
