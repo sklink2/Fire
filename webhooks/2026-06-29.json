@@ -2726,5 +2726,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34761"
     }
+  },
+  {
+    "runNumber": "34760",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-29T15:54:29.595913-04:00",
+    "address": "521 Cane Run Road",
+    "extra": {
+      "incidentNumber": "34760",
+      "run_id": "34760",
+      "address": "521 Cane Run Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E10,L03,201",
+      "units": "E02,E10,L03,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-34760"
+    }
   }
 ]
