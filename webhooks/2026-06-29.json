@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34713"
     }
+  },
+  {
+    "runNumber": "34716",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-29T11:20:41.995497-04:00",
+    "address": "746 Allendale Drive",
+    "extra": {
+      "incidentNumber": "34716",
+      "run_id": "34716",
+      "address": "746 Allendale Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E20,L04,204",
+      "units": "E06,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-34716"
+    }
   }
 ]
