@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34957"
     }
+  },
+  {
+    "runNumber": "34960",
+    "rawCode": "FSTR",
+    "timestamp": "2026-06-30T15:17:41.688315-04:00",
+    "address": "5075 Paris Pike",
+    "extra": {
+      "incidentNumber": "34960",
+      "run_id": "34960",
+      "address": "5075 Paris Pike",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,E13,E17,E19,E23,L03,L05,T1,EC11,EC8,201,203,220,241,RS1",
+      "units": "E10,E13,E17,E19,E23,L03,L05,T1,EC11,EC8,201,203,220,241,RS1",
+      "unitCount": "15",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,203",
+      "dedupeKey": "INCIDENT-34960"
+    }
   }
 ]
