@@ -2374,5 +2374,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34944"
     }
+  },
+  {
+    "runNumber": "34943",
+    "rawCode": "FMIS",
+    "timestamp": "2026-06-30T14:04:00.660055-04:00",
+    "address": "431 Rogers Road",
+    "extra": {
+      "incidentNumber": "34943",
+      "run_id": "34943",
+      "address": "431 Rogers Road",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,201",
+      "units": "E10,201",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-34943"
+    }
   }
 ]
