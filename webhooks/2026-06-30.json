@@ -20,5 +20,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34837"
     }
+  },
+  {
+    "runNumber": "34839",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-30T00:12:33.652118-04:00",
+    "address": "145 Malabu Drive",
+    "extra": {
+      "incidentNumber": "34839",
+      "run_id": "34839",
+      "address": "145 Malabu Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,E15,L04,204",
+      "units": "E12,E15,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-34839"
+    }
   }
 ]
