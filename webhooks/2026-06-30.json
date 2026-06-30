@@ -1054,5 +1054,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34883"
     }
+  },
+  {
+    "runNumber": "34885",
+    "rawCode": "MED",
+    "timestamp": "2026-06-30T08:48:12.666104-04:00",
+    "address": "3200 Block Blazer Parkway",
+    "extra": {
+      "incidentNumber": "34885",
+      "run_id": "34885",
+      "address": "3200 Block Blazer Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC13",
+      "units": "E21,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34885"
+    }
   }
 ]
