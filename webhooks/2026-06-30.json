@@ -3474,5 +3474,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34993"
     }
+  },
+  {
+    "runNumber": "34995",
+    "rawCode": "FINV",
+    "timestamp": "2026-06-30T19:30:10.705109-04:00",
+    "address": "333 Northwood Drive",
+    "extra": {
+      "incidentNumber": "34995",
+      "run_id": "34995",
+      "address": "333 Northwood Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02",
+      "units": "E02",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34995"
+    }
   }
 ]
