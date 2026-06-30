@@ -3650,5 +3650,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34802"
     }
+  },
+  {
+    "runNumber": "34803",
+    "rawCode": "FVIS",
+    "timestamp": "2026-06-29T20:07:01.297584-04:00",
+    "address": "273 E New Circle Road",
+    "extra": {
+      "incidentNumber": "34803",
+      "run_id": "34803",
+      "address": "273 E New Circle Road",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E13,L05,EC3,201,RS1",
+      "units": "E08,E13,L05,EC3,201,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-34803"
+    }
   }
 ]
