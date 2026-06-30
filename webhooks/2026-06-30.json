@@ -1824,5 +1824,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-34922"
     }
+  },
+  {
+    "runNumber": "34921",
+    "rawCode": "MED",
+    "timestamp": "2026-06-30T12:15:16.882637-04:00",
+    "address": "400 Block Park Place",
+    "extra": {
+      "incidentNumber": "34921",
+      "run_id": "34921",
+      "address": "400 Block Park Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34921"
+    }
   }
 ]
