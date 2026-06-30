@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34997"
     }
+  },
+  {
+    "runNumber": "34999",
+    "rawCode": "FINV",
+    "timestamp": "2026-06-30T19:47:43.400233-04:00",
+    "address": "381 Elaine Drive",
+    "extra": {
+      "incidentNumber": "34999",
+      "run_id": "34999",
+      "address": "381 Elaine Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11",
+      "units": "E11",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34999"
+    }
   }
 ]
