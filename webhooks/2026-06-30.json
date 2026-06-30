@@ -1758,5 +1758,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34917"
     }
+  },
+  {
+    "runNumber": "34916",
+    "rawCode": "MED",
+    "timestamp": "2026-06-30T12:01:10.966926-04:00",
+    "address": "200 Block Toronto Road",
+    "extra": {
+      "incidentNumber": "34916",
+      "run_id": "34916",
+      "address": "200 Block Toronto Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC13",
+      "units": "E15,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34916"
+    }
   }
 ]
