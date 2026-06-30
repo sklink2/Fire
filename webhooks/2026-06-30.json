@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34923"
     }
+  },
+  {
+    "runNumber": "34926",
+    "rawCode": "MED",
+    "timestamp": "2026-06-30T12:32:42.696781-04:00",
+    "address": "700 Block Ellison Court",
+    "extra": {
+      "incidentNumber": "34926",
+      "run_id": "34926",
+      "address": "700 Block Ellison Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC2",
+      "units": "E02,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34926"
+    }
   }
 ]
