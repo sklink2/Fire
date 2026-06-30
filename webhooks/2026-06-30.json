@@ -3298,5 +3298,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34986"
     }
+  },
+  {
+    "runNumber": "34987",
+    "rawCode": "MED",
+    "timestamp": "2026-06-30T18:30:33.803096-04:00",
+    "address": "2900 Block Mahala Lane",
+    "extra": {
+      "incidentNumber": "34987",
+      "run_id": "34987",
+      "address": "2900 Block Mahala Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E17,EC13,CRT1",
+      "units": "E17,EC13,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34987"
+    }
   }
 ]
