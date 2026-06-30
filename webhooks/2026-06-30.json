@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34882"
     }
+  },
+  {
+    "runNumber": "34884",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-30T08:37:42.317213-04:00",
+    "address": "414 Kenilworth Court",
+    "extra": {
+      "incidentNumber": "34884",
+      "run_id": "34884",
+      "address": "414 Kenilworth Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E14,L01,201",
+      "units": "E04,E14,L01,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-34884"
+    }
   }
 ]
