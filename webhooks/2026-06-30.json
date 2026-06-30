@@ -3056,5 +3056,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34976"
     }
+  },
+  {
+    "runNumber": "34975",
+    "rawCode": "MED",
+    "timestamp": "2026-06-30T16:41:53.078108-04:00",
+    "address": "3600 Block Beechwood Circle",
+    "extra": {
+      "incidentNumber": "34975",
+      "run_id": "34975",
+      "address": "3600 Block Beechwood Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC4",
+      "units": "E15,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34975"
+    }
   }
 ]
