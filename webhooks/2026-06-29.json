@@ -3782,5 +3782,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34808"
     }
+  },
+  {
+    "runNumber": "34809",
+    "rawCode": "MED",
+    "timestamp": "2026-06-29T20:35:05.457893-04:00",
+    "address": "100 Block W Second Street",
+    "extra": {
+      "incidentNumber": "34809",
+      "run_id": "34809",
+      "address": "100 Block W Second Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC1,241",
+      "units": "E01,EC1,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-34809"
+    }
   }
 ]
