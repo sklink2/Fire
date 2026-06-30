@@ -1802,5 +1802,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34918"
     }
+  },
+  {
+    "runNumber": "34922",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-30T12:15:13.680712-04:00",
+    "address": "1228 Manchester Street",
+    "extra": {
+      "incidentNumber": "34922",
+      "run_id": "34922",
+      "address": "1228 Manchester Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E13,L01,203",
+      "units": "E04,E13,L01,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-34922"
+    }
   }
 ]
