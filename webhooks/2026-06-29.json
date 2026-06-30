@@ -4046,5 +4046,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34820"
     }
+  },
+  {
+    "runNumber": "34821",
+    "rawCode": "MED",
+    "timestamp": "2026-06-29T22:37:50.880947-04:00",
+    "address": "1100 Block Aldridge Way",
+    "extra": {
+      "incidentNumber": "34821",
+      "run_id": "34821",
+      "address": "1100 Block Aldridge Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC13",
+      "units": "E22,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34821"
+    }
   }
 ]
