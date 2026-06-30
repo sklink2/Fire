@@ -3408,5 +3408,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34991"
     }
+  },
+  {
+    "runNumber": "34992",
+    "rawCode": "FFIA",
+    "timestamp": "2026-06-30T19:19:41.726122-04:00",
+    "address": "1045 Pennebaker Drive",
+    "extra": {
+      "incidentNumber": "34992",
+      "run_id": "34992",
+      "address": "1045 Pennebaker Drive",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E19,L03,EC3,201",
+      "units": "E08,E19,L03,EC3,201",
+      "unitCount": "5",
+      "primaryTopic": "FFIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-34992"
+    }
   }
 ]
