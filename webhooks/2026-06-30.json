@@ -856,5 +856,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34875"
     }
+  },
+  {
+    "runNumber": "34876",
+    "rawCode": "MED",
+    "timestamp": "2026-06-30T07:48:34.180973-04:00",
+    "address": "500 Block Pleasant Pointe Court",
+    "extra": {
+      "incidentNumber": "34876",
+      "run_id": "34876",
+      "address": "500 Block Pleasant Pointe Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC1",
+      "units": "E21,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34876"
+    }
   }
 ]
