@@ -4134,5 +4134,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-34825"
     }
+  },
+  {
+    "runNumber": "34824",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-29T22:51:59.467911-04:00",
+    "address": "208 Waller Avenue",
+    "extra": {
+      "incidentNumber": "34824",
+      "run_id": "34824",
+      "address": "208 Waller Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E11,L02,204",
+      "units": "E06,E11,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-34824"
+    }
   }
 ]
