@@ -2550,5 +2550,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-34951"
     }
+  },
+  {
+    "runNumber": "34952",
+    "rawCode": "FPRT",
+    "timestamp": "2026-06-30T14:53:05.502079-04:00",
+    "address": "2285 Versailles Road",
+    "extra": {
+      "incidentNumber": "34952",
+      "run_id": "34952",
+      "address": "2285 Versailles Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,E14,L03,203",
+      "units": "E13,E14,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-34952"
+    }
   }
 ]
