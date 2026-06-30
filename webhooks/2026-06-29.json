@@ -4156,5 +4156,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-34824"
     }
+  },
+  {
+    "runNumber": "34826",
+    "rawCode": "FNGL",
+    "timestamp": "2026-06-29T22:55:26.549331-04:00",
+    "address": "613 Baldwin Avenue",
+    "extra": {
+      "incidentNumber": "34826",
+      "run_id": "34826",
+      "address": "613 Baldwin Avenue",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E05,L01,EC1,EC2,205,220",
+      "units": "E02,E05,L01,EC1,EC2,205,220",
+      "unitCount": "7",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-34826"
+    }
   }
 ]
