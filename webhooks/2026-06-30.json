@@ -1230,5 +1230,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-34892"
     }
+  },
+  {
+    "runNumber": "34893",
+    "rawCode": "FSIA",
+    "timestamp": "2026-06-30T09:47:51.288109-04:00",
+    "address": "Liberty Road & Woodward Lane",
+    "extra": {
+      "incidentNumber": "34893",
+      "run_id": "34893",
+      "address": "Liberty Road & Woodward Lane",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E21,201",
+      "units": "E02,E21,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-34893"
+    }
   }
 ]
