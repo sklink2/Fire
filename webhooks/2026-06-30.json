@@ -1032,5 +1032,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-34884"
     }
+  },
+  {
+    "runNumber": "34883",
+    "rawCode": "MED",
+    "timestamp": "2026-06-30T08:37:45.732366-04:00",
+    "address": "2900 Block Polo Club Boulevard",
+    "extra": {
+      "incidentNumber": "34883",
+      "run_id": "34883",
+      "address": "2900 Block Polo Club Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34883"
+    }
   }
 ]
