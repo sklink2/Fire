@@ -3672,5 +3672,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-34803"
     }
+  },
+  {
+    "runNumber": "34804",
+    "rawCode": "MED",
+    "timestamp": "2026-06-29T20:14:00.443232-04:00",
+    "address": "200 Block Twin Shores Court",
+    "extra": {
+      "incidentNumber": "34804",
+      "run_id": "34804",
+      "address": "200 Block Twin Shores Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC11",
+      "units": "E09,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-34804"
+    }
   }
 ]
