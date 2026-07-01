@@ -1230,5 +1230,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35087"
     }
+  },
+  {
+    "runNumber": "35088",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-01T09:46:16.858253-04:00",
+    "address": "745 W New Circle Road",
+    "extra": {
+      "incidentNumber": "35088",
+      "run_id": "35088",
+      "address": "745 W New Circle Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E10,L03,201",
+      "units": "E08,E10,L03,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-35088"
+    }
   }
 ]
