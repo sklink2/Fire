@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35052"
     }
+  },
+  {
+    "runNumber": "35053",
+    "rawCode": "FDUM",
+    "timestamp": "2026-07-01T03:34:21.032165-04:00",
+    "address": "234 E New Circle Road",
+    "extra": {
+      "incidentNumber": "35053",
+      "run_id": "35053",
+      "address": "234 E New Circle Road",
+      "rawType": "FDUM",
+      "typeCode": "FDUM",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "FDUM",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35053"
+    }
   }
 ]
