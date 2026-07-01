@@ -86,5 +86,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35035"
     }
+  },
+  {
+    "runNumber": "35036",
+    "rawCode": "MED",
+    "timestamp": "2026-07-01T00:31:52.362278-04:00",
+    "address": "300 Block E Second Street",
+    "extra": {
+      "incidentNumber": "35036",
+      "run_id": "35036",
+      "address": "300 Block E Second Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35036"
+    }
   }
 ]
