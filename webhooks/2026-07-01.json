@@ -592,5 +592,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35058"
     }
+  },
+  {
+    "runNumber": "35059",
+    "rawCode": "MED",
+    "timestamp": "2026-07-01T04:48:04.748400-04:00",
+    "address": "0 Block Richmond Avenue",
+    "extra": {
+      "incidentNumber": "35059",
+      "run_id": "35059",
+      "address": "0 Block Richmond Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35059"
+    }
   }
 ]
