@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35065"
     }
+  },
+  {
+    "runNumber": "35067",
+    "rawCode": "MED",
+    "timestamp": "2026-07-01T06:54:21.948000-04:00",
+    "address": "200 Block Ferndale Pass",
+    "extra": {
+      "incidentNumber": "35067",
+      "run_id": "35067",
+      "address": "200 Block Ferndale Pass",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "T1,EC10",
+      "units": "T1,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35067"
+    }
   }
 ]
