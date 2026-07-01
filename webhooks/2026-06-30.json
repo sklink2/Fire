@@ -4090,5 +4090,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35024"
     }
+  },
+  {
+    "runNumber": "35025",
+    "rawCode": "FFIA",
+    "timestamp": "2026-06-30T22:57:09.361438-04:00",
+    "address": "3524 Camelot Drive",
+    "extra": {
+      "incidentNumber": "35025",
+      "run_id": "35025",
+      "address": "3524 Camelot Drive",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E22,L07,EC4,202",
+      "units": "E07,E22,L07,EC4,202",
+      "unitCount": "5",
+      "primaryTopic": "FFIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-35025"
+    }
   }
 ]
