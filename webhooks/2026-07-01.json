@@ -196,5 +196,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-35040"
     }
+  },
+  {
+    "runNumber": "35041",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-01T01:17:30.667520-04:00",
+    "address": "1123 Centre Parkway",
+    "extra": {
+      "incidentNumber": "35041",
+      "run_id": "35041",
+      "address": "1123 Centre Parkway",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,L07",
+      "units": "E16,L07",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35041"
+    }
   }
 ]
