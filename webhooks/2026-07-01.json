@@ -3562,5 +3562,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-35194"
     }
+  },
+  {
+    "runNumber": "35195",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-07-01T17:39:57.047644-04:00",
+    "address": "219 E New Circle Road",
+    "extra": {
+      "incidentNumber": "35195",
+      "run_id": "35195",
+      "address": "219 E New Circle Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,L03,EC3,203,241,RS1",
+      "units": "E08,L03,EC3,203,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-35195"
+    }
   }
 ]
