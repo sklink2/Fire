@@ -1846,5 +1846,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35115"
     }
+  },
+  {
+    "runNumber": "35116",
+    "rawCode": "MED",
+    "timestamp": "2026-07-01T11:59:36.502659-04:00",
+    "address": "1600 Block Crossen Way",
+    "extra": {
+      "incidentNumber": "35116",
+      "run_id": "35116",
+      "address": "1600 Block Crossen Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35116"
+    }
   }
 ]
