@@ -174,5 +174,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35039"
     }
+  },
+  {
+    "runNumber": "35040",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-01T01:06:58.562906-04:00",
+    "address": "1360 Sequoia Drive",
+    "extra": {
+      "incidentNumber": "35040",
+      "run_id": "35040",
+      "address": "1360 Sequoia Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,E22,L07,202",
+      "units": "E16,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-35040"
+    }
   }
 ]
