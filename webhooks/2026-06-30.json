@@ -3694,5 +3694,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35005"
     }
+  },
+  {
+    "runNumber": "35006",
+    "rawCode": "MED",
+    "timestamp": "2026-06-30T20:50:52.225563-04:00",
+    "address": "500 Block Green Valley Drive",
+    "extra": {
+      "incidentNumber": "35006",
+      "run_id": "35006",
+      "address": "500 Block Green Valley Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC5",
+      "units": "E24,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35006"
+    }
   }
 ]
