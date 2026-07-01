@@ -20,5 +20,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-35033"
     }
+  },
+  {
+    "runNumber": "35032",
+    "rawCode": "MED",
+    "timestamp": "2026-07-01T00:00:21.565296-04:00",
+    "address": "200 Block W High Street",
+    "extra": {
+      "incidentNumber": "35032",
+      "run_id": "35032",
+      "address": "200 Block W High Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10,RS1",
+      "units": "EC10,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35032"
+    }
   }
 ]
