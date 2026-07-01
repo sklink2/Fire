@@ -1076,5 +1076,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35080"
     }
+  },
+  {
+    "runNumber": "35082",
+    "rawCode": "MED",
+    "timestamp": "2026-07-01T08:57:10.787797-04:00",
+    "address": "3400 Block Tates Creek Lane",
+    "extra": {
+      "incidentNumber": "35082",
+      "run_id": "35082",
+      "address": "3400 Block Tates Creek Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L07,EC13",
+      "units": "L07,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35082"
+    }
   }
 ]
