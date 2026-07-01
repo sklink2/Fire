@@ -3892,5 +3892,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35014"
     }
+  },
+  {
+    "runNumber": "35016",
+    "rawCode": "MED",
+    "timestamp": "2026-06-30T21:46:58.965645-04:00",
+    "address": "3400 Block Buckhorn Drive",
+    "extra": {
+      "incidentNumber": "35016",
+      "run_id": "35016",
+      "address": "3400 Block Buckhorn Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35016"
+    }
   }
 ]
