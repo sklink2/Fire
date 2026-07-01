@@ -4178,5 +4178,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35028"
     }
+  },
+  {
+    "runNumber": "35029",
+    "rawCode": "FNGL",
+    "timestamp": "2026-06-30T23:35:46.661943-04:00",
+    "address": "175 Hedgewood Court",
+    "extra": {
+      "incidentNumber": "35029",
+      "run_id": "35029",
+      "address": "175 Hedgewood Court",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E09,L06,EC8,201,220",
+      "units": "E02,E09,L06,EC8,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-35029"
+    }
   }
 ]
