@@ -3716,5 +3716,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-35202"
     }
+  },
+  {
+    "runNumber": "35201",
+    "rawCode": "MED",
+    "timestamp": "2026-07-01T18:04:33.015812-04:00",
+    "address": "700 Block E Seventh Street",
+    "extra": {
+      "incidentNumber": "35201",
+      "run_id": "35201",
+      "address": "700 Block E Seventh Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35201"
+    }
   }
 ]
