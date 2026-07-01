@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35092"
     }
+  },
+  {
+    "runNumber": "35098",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-01T10:21:25.258229-04:00",
+    "address": "740 S Limestone",
+    "extra": {
+      "incidentNumber": "35098",
+      "run_id": "35098",
+      "address": "740 S Limestone",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E11,L02,EC3,205,220",
+      "units": "E06,E11,L02,EC3,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-35098"
+    }
   }
 ]
