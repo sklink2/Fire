@@ -4090,5 +4090,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35221"
     }
+  },
+  {
+    "runNumber": "35220",
+    "rawCode": "MED",
+    "timestamp": "2026-07-01T19:56:49.623404-04:00",
+    "address": "100 Block Lakeshore Drive",
+    "extra": {
+      "incidentNumber": "35220",
+      "run_id": "35220",
+      "address": "100 Block Lakeshore Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2,201,241,RS1",
+      "units": "E09,EC2,201,241,RS1",
+      "unitCount": "5",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-35220"
+    }
   }
 ]
