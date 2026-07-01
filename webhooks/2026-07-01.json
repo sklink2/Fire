@@ -1648,5 +1648,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35107"
     }
+  },
+  {
+    "runNumber": "35106",
+    "rawCode": "MED",
+    "timestamp": "2026-07-01T10:56:35.030510-04:00",
+    "address": "700 Block Newtown Springs Drive",
+    "extra": {
+      "incidentNumber": "35106",
+      "run_id": "35106",
+      "address": "700 Block Newtown Springs Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,EC1",
+      "units": "E10,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35106"
+    }
   }
 ]
