@@ -2066,5 +2066,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35124"
     }
+  },
+  {
+    "runNumber": "35127",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-01T12:55:47.666213-04:00",
+    "address": "801 E New Circle Road",
+    "extra": {
+      "incidentNumber": "35127",
+      "run_id": "35127",
+      "address": "801 E New Circle Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E08,L05,201",
+      "units": "E02,E08,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-35127"
+    }
   }
 ]
