@@ -3782,5 +3782,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35008"
     }
+  },
+  {
+    "runNumber": "35011",
+    "rawCode": "MED",
+    "timestamp": "2026-06-30T21:01:24.123284-04:00",
+    "address": "700 Block Aurora Avenue",
+    "extra": {
+      "incidentNumber": "35011",
+      "run_id": "35011",
+      "address": "700 Block Aurora Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35011"
+    }
   }
 ]
