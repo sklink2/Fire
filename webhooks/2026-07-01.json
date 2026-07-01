@@ -3254,5 +3254,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35180"
     }
+  },
+  {
+    "runNumber": "35179",
+    "rawCode": "MED",
+    "timestamp": "2026-07-01T16:36:56.652107-04:00",
+    "address": "2000 Block Mercer Road",
+    "extra": {
+      "incidentNumber": "35179",
+      "run_id": "35179",
+      "address": "2000 Block Mercer Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,EC6",
+      "units": "E13,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35179"
+    }
   }
 ]
