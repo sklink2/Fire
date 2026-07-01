@@ -284,5 +284,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35044"
     }
+  },
+  {
+    "runNumber": "35045",
+    "rawCode": "FDET",
+    "timestamp": "2026-07-01T01:56:05.771114-04:00",
+    "address": "5075 Paris Pike",
+    "extra": {
+      "incidentNumber": "35045",
+      "run_id": "35045",
+      "address": "5075 Paris Pike",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15",
+      "units": "E15",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35045"
+    }
   }
 ]
