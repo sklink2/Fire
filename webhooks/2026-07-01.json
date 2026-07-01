@@ -2242,5 +2242,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-35133"
     }
+  },
+  {
+    "runNumber": "35134",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-01T13:30:51.586866-04:00",
+    "address": "450 Cooper Drive",
+    "extra": {
+      "incidentNumber": "35134",
+      "run_id": "35134",
+      "address": "450 Cooper Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,L02,204",
+      "units": "E05,E06,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-35134"
+    }
   }
 ]
