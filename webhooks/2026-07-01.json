@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35075"
     }
+  },
+  {
+    "runNumber": "35076",
+    "rawCode": "MED",
+    "timestamp": "2026-07-01T07:54:00.612447-04:00",
+    "address": "400 Block Shropshire Avenue",
+    "extra": {
+      "incidentNumber": "35076",
+      "run_id": "35076",
+      "address": "400 Block Shropshire Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35076"
+    }
   }
 ]
