@@ -878,5 +878,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35071"
     }
+  },
+  {
+    "runNumber": "35072",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-01T07:29:26.901573-04:00",
+    "address": "4218 Reserve Road",
+    "extra": {
+      "incidentNumber": "35072",
+      "run_id": "35072",
+      "address": "4218 Reserve Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35072"
+    }
   }
 ]
