@@ -3166,5 +3166,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-35177"
     }
+  },
+  {
+    "runNumber": "35176",
+    "rawCode": "MED",
+    "timestamp": "2026-07-01T16:15:50.846734-04:00",
+    "address": "Nicholasville Road & W New Circl",
+    "extra": {
+      "incidentNumber": "35176",
+      "run_id": "35176",
+      "address": "Nicholasville Road & W New Circl",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,EC13",
+      "units": "E11,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35176"
+    }
   }
 ]
