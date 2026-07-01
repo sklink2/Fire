@@ -900,5 +900,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35072"
     }
+  },
+  {
+    "runNumber": "35073",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-01T07:36:29.651798-04:00",
+    "address": "550 W Fourth Street",
+    "extra": {
+      "incidentNumber": "35073",
+      "run_id": "35073",
+      "address": "550 W Fourth Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E10,L01,205",
+      "units": "E01,E10,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-35073"
+    }
   }
 ]
