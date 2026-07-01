@@ -3144,5 +3144,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35174"
     }
+  },
+  {
+    "runNumber": "35177",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-01T16:15:46.208390-04:00",
+    "address": "2795 Polo Club Boulevard",
+    "extra": {
+      "incidentNumber": "35177",
+      "run_id": "35177",
+      "address": "2795 Polo Club Boulevard",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E17,E21,L06,201",
+      "units": "E02,E17,E21,L06,201",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-35177"
+    }
   }
 ]
