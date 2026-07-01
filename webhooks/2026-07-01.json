@@ -1802,5 +1802,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-35113"
     }
+  },
+  {
+    "runNumber": "35114",
+    "rawCode": "MED",
+    "timestamp": "2026-07-01T11:49:06.481145-04:00",
+    "address": "200 Block W Third Street",
+    "extra": {
+      "incidentNumber": "35114",
+      "run_id": "35114",
+      "address": "200 Block W Third Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35114"
+    }
   }
 ]
