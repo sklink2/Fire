@@ -4112,5 +4112,27 @@
       "commandUnits": "241,201",
       "dedupeKey": "INCIDENT-35220"
     }
+  },
+  {
+    "runNumber": "35219",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-01T19:56:54.071349-04:00",
+    "address": "3540 Cornwall Drive",
+    "extra": {
+      "incidentNumber": "35219",
+      "run_id": "35219",
+      "address": "3540 Cornwall Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,E20,L07,EC12,204",
+      "units": "E11,E20,L07,EC12,204",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-35219"
+    }
   }
 ]
