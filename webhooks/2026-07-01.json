@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35076"
     }
+  },
+  {
+    "runNumber": "35077",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-01T08:08:04.165010-04:00",
+    "address": "298 W Loudon Avenue",
+    "extra": {
+      "incidentNumber": "35077",
+      "run_id": "35077",
+      "address": "298 W Loudon Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E10,L03,202",
+      "units": "E04,E10,L03,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-35077"
+    }
   }
 ]
