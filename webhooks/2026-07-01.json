@@ -2506,5 +2506,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-35146"
     }
+  },
+  {
+    "runNumber": "35145",
+    "rawCode": "MED",
+    "timestamp": "2026-07-01T13:58:58.311567-04:00",
+    "address": "1000 Block Carneal Road",
+    "extra": {
+      "incidentNumber": "35145",
+      "run_id": "35145",
+      "address": "1000 Block Carneal Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC3",
+      "units": "E02,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35145"
+    }
   }
 ]
