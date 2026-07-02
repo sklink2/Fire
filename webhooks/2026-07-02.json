@@ -702,5 +702,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-35289"
     }
+  },
+  {
+    "runNumber": "35290",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-02T09:13:08.594912-04:00",
+    "address": "Paris Pike & Iron Works Pike",
+    "extra": {
+      "incidentNumber": "35290",
+      "run_id": "35290",
+      "address": "Paris Pike & Iron Works Pike",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E19,EC3",
+      "units": "E19,EC3",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35290"
+    }
   }
 ]
