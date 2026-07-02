@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35303"
     }
+  },
+  {
+    "runNumber": "35302",
+    "rawCode": "MED",
+    "timestamp": "2026-07-02T09:58:48.710393-04:00",
+    "address": "2100 Block Cornerstone Drive",
+    "extra": {
+      "incidentNumber": "35302",
+      "run_id": "35302",
+      "address": "2100 Block Cornerstone Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35302"
+    }
   }
 ]
