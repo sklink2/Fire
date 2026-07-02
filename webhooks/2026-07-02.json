@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35286"
     }
+  },
+  {
+    "runNumber": "35288",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-07-02T08:48:34.060604-04:00",
+    "address": "456 Speigle Street",
+    "extra": {
+      "incidentNumber": "35288",
+      "run_id": "35288",
+      "address": "456 Speigle Street",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "RS1",
+      "units": "RS1",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35288"
+    }
   }
 ]
