@@ -3166,5 +3166,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35399"
     }
+  },
+  {
+    "runNumber": "35402",
+    "rawCode": "FSTR",
+    "timestamp": "2026-07-02T17:59:29.387780-04:00",
+    "address": "3716 Forest Green Drive",
+    "extra": {
+      "incidentNumber": "35402",
+      "run_id": "35402",
+      "address": "3716 Forest Green Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E09,E16,E22,L04,L07,EC7,202,204,220,241,RS1",
+      "units": "E07,E09,E16,E22,L04,L07,EC7,202,204,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,202,204",
+      "dedupeKey": "INCIDENT-35402"
+    }
   }
 ]
