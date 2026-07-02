@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35293"
     }
+  },
+  {
+    "runNumber": "35292",
+    "rawCode": "MED",
+    "timestamp": "2026-07-02T09:23:41.024615-04:00",
+    "address": "2300 Block Sterlington Road",
+    "extra": {
+      "incidentNumber": "35292",
+      "run_id": "35292",
+      "address": "2300 Block Sterlington Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2,CRT1",
+      "units": "EC2,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35292"
+    }
   }
 ]
