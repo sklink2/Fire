@@ -2132,5 +2132,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35354"
     }
+  },
+  {
+    "runNumber": "35355",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-02T15:14:31.960801-04:00",
+    "address": "2112 Carolina Lane",
+    "extra": {
+      "incidentNumber": "35355",
+      "run_id": "35355",
+      "address": "2112 Carolina Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E20,L04,204",
+      "units": "E11,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-35355"
+    }
   }
 ]
