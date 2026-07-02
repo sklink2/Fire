@@ -4464,5 +4464,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35235"
     }
+  },
+  {
+    "runNumber": "35236",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-01T21:03:23.621595-04:00",
+    "address": "1801 Newtown Pike",
+    "extra": {
+      "incidentNumber": "35236",
+      "run_id": "35236",
+      "address": "1801 Newtown Pike",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E08,E10,L05,202",
+      "units": "E04,E08,E10,L05,202",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-35236"
+    }
   }
 ]
