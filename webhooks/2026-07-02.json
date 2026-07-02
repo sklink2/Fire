@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35379"
     }
+  },
+  {
+    "runNumber": "35381",
+    "rawCode": "FMIS",
+    "timestamp": "2026-07-02T16:56:17.133081-04:00",
+    "address": "1205 Berrywood Drive",
+    "extra": {
+      "incidentNumber": "35381",
+      "run_id": "35381",
+      "address": "1205 Berrywood Drive",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,202",
+      "units": "E22,202",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-35381"
+    }
   }
 ]
