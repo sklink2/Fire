@@ -4596,5 +4596,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-35242"
     }
+  },
+  {
+    "runNumber": "35243",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-01T21:59:31.377659-04:00",
+    "address": "Versailles Road & Delmont Drive",
+    "extra": {
+      "incidentNumber": "35243",
+      "run_id": "35243",
+      "address": "Versailles Road & Delmont Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,EC5,241",
+      "units": "E13,EC5,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-35243"
+    }
   }
 ]
