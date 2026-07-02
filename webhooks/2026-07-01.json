@@ -4728,5 +4728,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35249"
     }
+  },
+  {
+    "runNumber": "35248",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-07-01T22:31:09.175532-04:00",
+    "address": "75 Nb / 104.0 Mm (Athens Boone",
+    "extra": {
+      "incidentNumber": "35248",
+      "run_id": "35248",
+      "address": "75 Nb / 104.0 Mm (Athens Boone",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E18,L06,EC11,202,RS1",
+      "units": "E18,L06,EC11,202,RS1",
+      "unitCount": "5",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-35248"
+    }
   }
 ]
