@@ -4244,5 +4244,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-35225"
     }
+  },
+  {
+    "runNumber": "35227",
+    "rawCode": "FBGL",
+    "timestamp": "2026-07-01T20:24:48.084087-04:00",
+    "address": "75 Sb / 111.0 Mm",
+    "extra": {
+      "incidentNumber": "35227",
+      "run_id": "35227",
+      "address": "75 Sb / 111.0 Mm",
+      "rawType": "FBGL",
+      "typeCode": "FBGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E04",
+      "units": "E02,E04",
+      "unitCount": "2",
+      "primaryTopic": "FBGL",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35227"
+    }
   }
 ]
