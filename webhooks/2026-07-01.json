@@ -4222,5 +4222,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35224"
     }
+  },
+  {
+    "runNumber": "35225",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-01T20:21:18.907520-04:00",
+    "address": "845 Red Mile Road",
+    "extra": {
+      "incidentNumber": "35225",
+      "run_id": "35225",
+      "address": "845 Red Mile Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E13,L02,EC10,204",
+      "units": "E06,E13,L02,EC10,204",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-35225"
+    }
   }
 ]
