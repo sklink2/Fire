@@ -2704,5 +2704,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-35381"
     }
+  },
+  {
+    "runNumber": "35380",
+    "rawCode": "MED",
+    "timestamp": "2026-07-02T16:56:19.465668-04:00",
+    "address": "1300 Block Prather Road",
+    "extra": {
+      "incidentNumber": "35380",
+      "run_id": "35380",
+      "address": "1300 Block Prather Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC6",
+      "units": "E09,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35380"
+    }
   }
 ]
