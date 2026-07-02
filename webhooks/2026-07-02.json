@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35382"
     }
+  },
+  {
+    "runNumber": "35385",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-02T17:03:18.356015-04:00",
+    "address": "2320 The Woods Lane",
+    "extra": {
+      "incidentNumber": "35385",
+      "run_id": "35385",
+      "address": "2320 The Woods Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E21,L06,202",
+      "units": "E16,E21,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-35385"
+    }
   }
 ]
