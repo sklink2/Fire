@@ -3210,5 +3210,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35406"
     }
+  },
+  {
+    "runNumber": "35405",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-07-02T18:06:31.206473-04:00",
+    "address": "Georgetown Road & Citation Boulevard",
+    "extra": {
+      "incidentNumber": "35405",
+      "run_id": "35405",
+      "address": "Georgetown Road & Citation Boulevard",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,L03,EC6,203,241,RS1",
+      "units": "E24,L03,EC6,203,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-35405"
+    }
   }
 ]
