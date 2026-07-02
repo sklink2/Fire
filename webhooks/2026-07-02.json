@@ -812,5 +812,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35294"
     }
+  },
+  {
+    "runNumber": "35295",
+    "rawCode": "MED",
+    "timestamp": "2026-07-02T09:30:41.347042-04:00",
+    "address": "2400 Block Mulundy Way",
+    "extra": {
+      "incidentNumber": "35295",
+      "run_id": "35295",
+      "address": "2400 Block Mulundy Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,T1,EC12",
+      "units": "E10,T1,EC12",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35295"
+    }
   }
 ]
