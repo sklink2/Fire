@@ -4420,5 +4420,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35232"
     }
+  },
+  {
+    "runNumber": "35234",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-07-01T20:56:23.742380-04:00",
+    "address": "2770 Spurr Road",
+    "extra": {
+      "incidentNumber": "35234",
+      "run_id": "35234",
+      "address": "2770 Spurr Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,L03,EC10,203,241,RS1",
+      "units": "E24,L03,EC10,203,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-35234"
+    }
   }
 ]
