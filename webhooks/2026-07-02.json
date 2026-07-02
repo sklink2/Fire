@@ -3518,5 +3518,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35417"
     }
+  },
+  {
+    "runNumber": "35418",
+    "rawCode": "MED",
+    "timestamp": "2026-07-02T19:06:04.185749-04:00",
+    "address": "1300 Block Cordele Lane",
+    "extra": {
+      "incidentNumber": "35418",
+      "run_id": "35418",
+      "address": "1300 Block Cordele Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,EC12,204",
+      "units": "E20,EC12,204",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-35418"
+    }
   }
 ]
