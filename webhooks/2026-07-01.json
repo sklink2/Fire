@@ -4442,5 +4442,27 @@
       "commandUnits": "241,203",
       "dedupeKey": "INCIDENT-35234"
     }
+  },
+  {
+    "runNumber": "35235",
+    "rawCode": "MED",
+    "timestamp": "2026-07-01T20:59:50.722160-04:00",
+    "address": "4100 Block Katherine Place",
+    "extra": {
+      "incidentNumber": "35235",
+      "run_id": "35235",
+      "address": "4100 Block Katherine Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC7",
+      "units": "E22,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35235"
+    }
   }
 ]
