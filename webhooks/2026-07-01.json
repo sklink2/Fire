@@ -4574,5 +4574,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35240"
     }
+  },
+  {
+    "runNumber": "35242",
+    "rawCode": "FMIS",
+    "timestamp": "2026-07-01T21:56:00.844236-04:00",
+    "address": "833 Meadow Lane",
+    "extra": {
+      "incidentNumber": "35242",
+      "run_id": "35242",
+      "address": "833 Meadow Lane",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,205",
+      "units": "E01,205",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-35242"
+    }
   }
 ]
