@@ -746,5 +746,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-35291"
     }
+  },
+  {
+    "runNumber": "35293",
+    "rawCode": "MED",
+    "timestamp": "2026-07-02T09:23:38.808560-04:00",
+    "address": "500 Block Hollow Creek Court",
+    "extra": {
+      "incidentNumber": "35293",
+      "run_id": "35293",
+      "address": "500 Block Hollow Creek Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35293"
+    }
   }
 ]
