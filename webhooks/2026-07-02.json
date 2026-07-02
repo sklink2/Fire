@@ -1032,5 +1032,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-35305"
     }
+  },
+  {
+    "runNumber": "35304",
+    "rawCode": "FMEA",
+    "timestamp": "2026-07-02T10:02:21.137092-04:00",
+    "address": "2202 Furlani Court",
+    "extra": {
+      "incidentNumber": "35304",
+      "run_id": "35304",
+      "address": "2202 Furlani Court",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35304"
+    }
   }
 ]
