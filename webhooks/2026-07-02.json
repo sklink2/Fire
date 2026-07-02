@@ -2374,5 +2374,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35365"
     }
+  },
+  {
+    "runNumber": "35367",
+    "rawCode": "MED",
+    "timestamp": "2026-07-02T15:53:10.876003-04:00",
+    "address": "2200 Block Versailles Road",
+    "extra": {
+      "incidentNumber": "35367",
+      "run_id": "35367",
+      "address": "2200 Block Versailles Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,EC5,203,241",
+      "units": "E14,EC5,203,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-35367"
+    }
   }
 ]
