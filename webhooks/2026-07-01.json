@@ -4332,5 +4332,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35229"
     }
+  },
+  {
+    "runNumber": "35230",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-01T20:42:21.318766-04:00",
+    "address": "5432 Haley Downs Drive",
+    "extra": {
+      "incidentNumber": "35230",
+      "run_id": "35230",
+      "address": "5432 Haley Downs Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E17,E23,L05,205",
+      "units": "E02,E17,E23,L05,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-35230"
+    }
   }
 ]
