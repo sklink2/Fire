@@ -4640,5 +4640,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35246"
     }
+  },
+  {
+    "runNumber": "35245",
+    "rawCode": "FCMS",
+    "timestamp": "2026-07-01T22:06:37.476980-04:00",
+    "address": "251 Simpson Avenue",
+    "extra": {
+      "incidentNumber": "35245",
+      "run_id": "35245",
+      "address": "251 Simpson Avenue",
+      "rawType": "FCMS",
+      "typeCode": "FCMS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,L02,EC12,204,220",
+      "units": "E11,L02,EC12,204,220",
+      "unitCount": "5",
+      "primaryTopic": "FCMS",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-35245"
+    }
   }
 ]
