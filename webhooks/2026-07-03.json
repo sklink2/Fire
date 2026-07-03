@@ -394,5 +394,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35487"
     }
+  },
+  {
+    "runNumber": "35488",
+    "rawCode": "MED",
+    "timestamp": "2026-07-03T04:09:49.416560-04:00",
+    "address": "2000 Block Spring Station Drive",
+    "extra": {
+      "incidentNumber": "35488",
+      "run_id": "35488",
+      "address": "2000 Block Spring Station Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35488"
+    }
   }
 ]
