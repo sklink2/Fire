@@ -1208,5 +1208,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35523"
     }
+  },
+  {
+    "runNumber": "35524",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-03T09:22:05.901327-04:00",
+    "address": "2121 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "35524",
+      "run_id": "35524",
+      "address": "2121 Nicholasville Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E12,E15,L04,204",
+      "units": "E07,E12,E15,L04,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-35524"
+    }
   }
 ]
