@@ -1978,5 +1978,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35557"
     }
+  },
+  {
+    "runNumber": "35559",
+    "rawCode": "FVIS",
+    "timestamp": "2026-07-03T13:10:09.607486-04:00",
+    "address": "647 W Main Street",
+    "extra": {
+      "incidentNumber": "35559",
+      "run_id": "35559",
+      "address": "647 W Main Street",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E13,L01,EC10,203,RS1",
+      "units": "E04,E13,L01,EC10,203,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-35559"
+    }
   }
 ]
