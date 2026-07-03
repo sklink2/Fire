@@ -1230,5 +1230,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-35524"
     }
+  },
+  {
+    "runNumber": "35525",
+    "rawCode": "FDET",
+    "timestamp": "2026-07-03T09:29:04.801737-04:00",
+    "address": "3816 Russell Cave Road",
+    "extra": {
+      "incidentNumber": "35525",
+      "run_id": "35525",
+      "address": "3816 Russell Cave Road",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E19",
+      "units": "E19",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35525"
+    }
   }
 ]
