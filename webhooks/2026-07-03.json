@@ -922,5 +922,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-35511"
     }
+  },
+  {
+    "runNumber": "35512",
+    "rawCode": "FELS",
+    "timestamp": "2026-07-03T08:25:55.345255-04:00",
+    "address": "2073 Bryant Road",
+    "extra": {
+      "incidentNumber": "35512",
+      "run_id": "35512",
+      "address": "2073 Bryant Road",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L06,202,RS1",
+      "units": "L06,202,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-35512"
+    }
   }
 ]
