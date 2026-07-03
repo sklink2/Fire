@@ -570,5 +570,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35495"
     }
+  },
+  {
+    "runNumber": "35496",
+    "rawCode": "MED",
+    "timestamp": "2026-07-03T06:37:09.190018-04:00",
+    "address": "900 Block Old Todds Road",
+    "extra": {
+      "incidentNumber": "35496",
+      "run_id": "35496",
+      "address": "900 Block Old Todds Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35496"
+    }
   }
 ]
