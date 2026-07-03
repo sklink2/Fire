@@ -3694,5 +3694,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35637"
     }
+  },
+  {
+    "runNumber": "35640",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-03T19:46:36.701980-04:00",
+    "address": "370 Rose Street",
+    "extra": {
+      "incidentNumber": "35640",
+      "run_id": "35640",
+      "address": "370 Rose Street",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05",
+      "units": "E05",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35640"
+    }
   }
 ]
