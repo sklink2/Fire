@@ -1406,5 +1406,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-35532"
     }
+  },
+  {
+    "runNumber": "35533",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-03T10:42:47.816212-04:00",
+    "address": "4371 Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "35533",
+      "run_id": "35533",
+      "address": "4371 Harrodsburg Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E16,L07,EC9,203",
+      "units": "E11,E16,L07,EC9,203",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-35533"
+    }
   }
 ]
