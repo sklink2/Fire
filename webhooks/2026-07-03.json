@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35501"
     }
+  },
+  {
+    "runNumber": "35502",
+    "rawCode": "MED",
+    "timestamp": "2026-07-03T07:36:47.906584-04:00",
+    "address": "700 Block Golfview Drive",
+    "extra": {
+      "incidentNumber": "35502",
+      "run_id": "35502",
+      "address": "700 Block Golfview Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35502"
+    }
   }
 ]
