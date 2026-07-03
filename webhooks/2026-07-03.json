@@ -614,5 +614,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35497"
     }
+  },
+  {
+    "runNumber": "35498",
+    "rawCode": "MED",
+    "timestamp": "2026-07-03T06:47:41.429692-04:00",
+    "address": "1600 Block Chandler Lane",
+    "extra": {
+      "incidentNumber": "35498",
+      "run_id": "35498",
+      "address": "1600 Block Chandler Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35498"
+    }
   }
 ]
