@@ -1318,5 +1318,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35527"
     }
+  },
+  {
+    "runNumber": "35529",
+    "rawCode": "MED",
+    "timestamp": "2026-07-03T10:00:38.384320-04:00",
+    "address": "400 Block Davidson Court",
+    "extra": {
+      "incidentNumber": "35529",
+      "run_id": "35529",
+      "address": "400 Block Davidson Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35529"
+    }
   }
 ]
