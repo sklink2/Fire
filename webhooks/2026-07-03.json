@@ -1538,5 +1538,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35538"
     }
+  },
+  {
+    "runNumber": "35539",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-07-03T11:03:52.643032-04:00",
+    "address": "Russell Cave Road & Iron Works P",
+    "extra": {
+      "incidentNumber": "35539",
+      "run_id": "35539",
+      "address": "Russell Cave Road & Iron Works P",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,L03,EC8,201,241,RS1",
+      "units": "E02,L03,EC8,201,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-35539"
+    }
   }
 ]
