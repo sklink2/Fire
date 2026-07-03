@@ -3320,5 +3320,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-35620"
     }
+  },
+  {
+    "runNumber": "35624",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-03T18:32:58.689663-04:00",
+    "address": "633 Maxwelton Court",
+    "extra": {
+      "incidentNumber": "35624",
+      "run_id": "35624",
+      "address": "633 Maxwelton Court",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,L02,EC7,204,220",
+      "units": "E05,E06,L02,EC7,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-35624"
+    }
   }
 ]
