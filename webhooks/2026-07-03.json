@@ -2924,5 +2924,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-35603"
     }
+  },
+  {
+    "runNumber": "35602",
+    "rawCode": "MED",
+    "timestamp": "2026-07-03T16:47:46.627943-04:00",
+    "address": "100 Block Blue Grass Avenue",
+    "extra": {
+      "incidentNumber": "35602",
+      "run_id": "35602",
+      "address": "100 Block Blue Grass Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC12",
+      "units": "E01,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35602"
+    }
   }
 ]
