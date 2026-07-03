@@ -1428,5 +1428,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-35533"
     }
+  },
+  {
+    "runNumber": "35534",
+    "rawCode": "MED",
+    "timestamp": "2026-07-03T10:46:16.300490-04:00",
+    "address": "100 Block Carlisle Avenue",
+    "extra": {
+      "incidentNumber": "35534",
+      "run_id": "35534",
+      "address": "100 Block Carlisle Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35534"
+    }
   }
 ]
