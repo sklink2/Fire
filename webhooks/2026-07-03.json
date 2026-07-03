@@ -2792,5 +2792,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-35596"
     }
+  },
+  {
+    "runNumber": "35597",
+    "rawCode": "MED",
+    "timestamp": "2026-07-03T16:30:08.954938-04:00",
+    "address": "1200 Block N Broadway",
+    "extra": {
+      "incidentNumber": "35597",
+      "run_id": "35597",
+      "address": "1200 Block N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35597"
+    }
   }
 ]
