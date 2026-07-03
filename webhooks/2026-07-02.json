@@ -4354,5 +4354,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35456"
     }
+  },
+  {
+    "runNumber": "35455",
+    "rawCode": "MED",
+    "timestamp": "2026-07-02T23:01:10.600779-04:00",
+    "address": "2000 Block Liberty Road",
+    "extra": {
+      "incidentNumber": "35455",
+      "run_id": "35455",
+      "address": "2000 Block Liberty Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35455"
+    }
   }
 ]
