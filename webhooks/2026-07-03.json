@@ -2770,5 +2770,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35595"
     }
+  },
+  {
+    "runNumber": "35596",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-03T16:23:09.567918-04:00",
+    "address": "289 W Loudon Avenue",
+    "extra": {
+      "incidentNumber": "35596",
+      "run_id": "35596",
+      "address": "289 W Loudon Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E10,L03,205",
+      "units": "E01,E10,L03,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-35596"
+    }
   }
 ]
