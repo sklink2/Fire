@@ -3276,5 +3276,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35618"
     }
+  },
+  {
+    "runNumber": "35619",
+    "rawCode": "MED",
+    "timestamp": "2026-07-03T18:22:24.842282-04:00",
+    "address": "3300 Block Snaffle Road",
+    "extra": {
+      "incidentNumber": "35619",
+      "run_id": "35619",
+      "address": "3300 Block Snaffle Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L04,EC12",
+      "units": "L04,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35619"
+    }
   }
 ]
