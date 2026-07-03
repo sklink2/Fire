@@ -130,5 +130,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35474"
     }
+  },
+  {
+    "runNumber": "35476",
+    "rawCode": "MED",
+    "timestamp": "2026-07-03T02:00:03.856218-04:00",
+    "address": "200 Block E Main Street",
+    "extra": {
+      "incidentNumber": "35476",
+      "run_id": "35476",
+      "address": "200 Block E Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35476"
+    }
   }
 ]
