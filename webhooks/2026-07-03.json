@@ -3100,5 +3100,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35610"
     }
+  },
+  {
+    "runNumber": "35612",
+    "rawCode": "FSIA",
+    "timestamp": "2026-07-03T17:47:20.240210-04:00",
+    "address": "3533 Mcnair Way",
+    "extra": {
+      "incidentNumber": "35612",
+      "run_id": "35612",
+      "address": "3533 Mcnair Way",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E15,204",
+      "units": "E11,E15,204",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-35612"
+    }
   }
 ]
