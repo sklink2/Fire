@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35529"
     }
+  },
+  {
+    "runNumber": "35530",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-03T10:18:14.303559-04:00",
+    "address": "2213 Pokeberry Park",
+    "extra": {
+      "incidentNumber": "35530",
+      "run_id": "35530",
+      "address": "2213 Pokeberry Park",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E17,E21,L06,201",
+      "units": "E17,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-35530"
+    }
   }
 ]
