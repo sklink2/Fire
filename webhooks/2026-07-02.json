@@ -3782,5 +3782,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35429"
     }
+  },
+  {
+    "runNumber": "35428",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-02T20:05:49.676255-04:00",
+    "address": "292 Masterson Station Drive",
+    "extra": {
+      "incidentNumber": "35428",
+      "run_id": "35428",
+      "address": "292 Masterson Station Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,E13,L03,EC3,203",
+      "units": "E10,E13,L03,EC3,203",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-35428"
+    }
   }
 ]
