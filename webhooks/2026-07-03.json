@@ -2858,5 +2858,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35599"
     }
+  },
+  {
+    "runNumber": "35601",
+    "rawCode": "MED",
+    "timestamp": "2026-07-03T16:44:11.944469-04:00",
+    "address": "1500 Block Astaire Drive",
+    "extra": {
+      "incidentNumber": "35601",
+      "run_id": "35601",
+      "address": "1500 Block Astaire Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC11",
+      "units": "E08,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35601"
+    }
   }
 ]
