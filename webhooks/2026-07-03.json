@@ -1846,5 +1846,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35551"
     }
+  },
+  {
+    "runNumber": "35553",
+    "rawCode": "MED",
+    "timestamp": "2026-07-03T12:28:02.610719-04:00",
+    "address": "2700 Block Gateway Park Lane",
+    "extra": {
+      "incidentNumber": "35553",
+      "run_id": "35553",
+      "address": "2700 Block Gateway Park Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35553"
+    }
   }
 ]
