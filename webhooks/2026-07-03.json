@@ -3012,5 +3012,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35606"
     }
+  },
+  {
+    "runNumber": "35607",
+    "rawCode": "FDET",
+    "timestamp": "2026-07-03T17:15:45.007126-04:00",
+    "address": "W Third Street & N Upper Street",
+    "extra": {
+      "incidentNumber": "35607",
+      "run_id": "35607",
+      "address": "W Third Street & N Upper Street",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35607"
+    }
   }
 ]
