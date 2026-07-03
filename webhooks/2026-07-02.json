@@ -4024,5 +4024,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35441"
     }
+  },
+  {
+    "runNumber": "35440",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-02T21:12:30.048218-04:00",
+    "address": "1749 Liberty Road",
+    "extra": {
+      "incidentNumber": "35440",
+      "run_id": "35440",
+      "address": "1749 Liberty Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E09,L07,EC3,201,220",
+      "units": "E02,E09,L07,EC3,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-35440"
+    }
   }
 ]
