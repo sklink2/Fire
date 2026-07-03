@@ -3892,5 +3892,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35435"
     }
+  },
+  {
+    "runNumber": "35434",
+    "rawCode": "FSTR",
+    "timestamp": "2026-07-02T20:40:54.915457-04:00",
+    "address": "630 Dreamland Drive",
+    "extra": {
+      "incidentNumber": "35434",
+      "run_id": "35434",
+      "address": "630 Dreamland Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E08,E10,E13,L03,L05,EC3,201,203,205,RS1",
+      "units": "E02,E08,E10,E13,L03,L05,EC3,201,203,205,RS1",
+      "unitCount": "11",
+      "primaryTopic": "FSTR",
+      "commandUnits": "201,203,205",
+      "dedupeKey": "INCIDENT-35434"
+    }
   }
 ]
