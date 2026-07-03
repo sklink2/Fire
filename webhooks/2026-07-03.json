@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35558"
     }
+  },
+  {
+    "runNumber": "35557",
+    "rawCode": "MED",
+    "timestamp": "2026-07-03T13:06:39.733702-04:00",
+    "address": "3500 Block Galahad Drive",
+    "extra": {
+      "incidentNumber": "35557",
+      "run_id": "35557",
+      "address": "3500 Block Galahad Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35557"
+    }
   }
 ]
