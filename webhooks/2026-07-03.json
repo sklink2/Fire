@@ -2968,5 +2968,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35604"
     }
+  },
+  {
+    "runNumber": "35605",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-03T16:54:42.860910-04:00",
+    "address": "481 W New Circle Road",
+    "extra": {
+      "incidentNumber": "35605",
+      "run_id": "35605",
+      "address": "481 W New Circle Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,E19,L03,EC12,201",
+      "units": "E13,E19,L03,EC12,201",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-35605"
+    }
   }
 ]
