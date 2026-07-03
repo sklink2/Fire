@@ -3210,5 +3210,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-35615"
     }
+  },
+  {
+    "runNumber": "35616",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-03T17:57:51.501448-04:00",
+    "address": "Regency Road & Pasadena Drive",
+    "extra": {
+      "incidentNumber": "35616",
+      "run_id": "35616",
+      "address": "Regency Road & Pasadena Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,EC9",
+      "units": "E12,EC9",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35616"
+    }
   }
 ]
