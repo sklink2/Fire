@@ -4068,5 +4068,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35442"
     }
+  },
+  {
+    "runNumber": "35444",
+    "rawCode": "MED",
+    "timestamp": "2026-07-02T21:19:24.182911-04:00",
+    "address": "2000 Block Stonewood Lane",
+    "extra": {
+      "incidentNumber": "35444",
+      "run_id": "35444",
+      "address": "2000 Block Stonewood Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L06,EC21",
+      "units": "L06,EC21",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35444"
+    }
   }
 ]
