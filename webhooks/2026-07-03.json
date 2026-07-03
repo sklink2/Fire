@@ -812,5 +812,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35506"
     }
+  },
+  {
+    "runNumber": "35507",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-03T08:08:23.423778-04:00",
+    "address": "249 E Short Street",
+    "extra": {
+      "incidentNumber": "35507",
+      "run_id": "35507",
+      "address": "249 E Short Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E05,E13,L01,205",
+      "units": "E04,E05,E13,L01,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-35507"
+    }
   }
 ]
