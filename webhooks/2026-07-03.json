@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35531"
     }
+  },
+  {
+    "runNumber": "35532",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-03T10:35:46.687573-04:00",
+    "address": "2331 Fortune Drive",
+    "extra": {
+      "incidentNumber": "35532",
+      "run_id": "35532",
+      "address": "2331 Fortune Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E08,L01,EC8,205",
+      "units": "E02,E08,L01,EC8,205",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-35532"
+    }
   }
 ]
