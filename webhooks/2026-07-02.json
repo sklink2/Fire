@@ -4376,5 +4376,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35455"
     }
+  },
+  {
+    "runNumber": "35457",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-02T23:08:13.030462-04:00",
+    "address": "2400 Woodhill Drive",
+    "extra": {
+      "incidentNumber": "35457",
+      "run_id": "35457",
+      "address": "2400 Woodhill Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E09,L05,EC8,201,220",
+      "units": "E02,E09,L05,EC8,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-35457"
+    }
   }
 ]
