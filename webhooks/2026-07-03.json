@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35549"
     }
+  },
+  {
+    "runNumber": "35550",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-03T12:06:59.950214-04:00",
+    "address": "3945 N Cleveland Road",
+    "extra": {
+      "incidentNumber": "35550",
+      "run_id": "35550",
+      "address": "3945 N Cleveland Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E17,E23,L06,203",
+      "units": "E17,E23,L06,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-35550"
+    }
   }
 ]
