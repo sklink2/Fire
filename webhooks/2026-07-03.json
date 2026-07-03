@@ -2132,5 +2132,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35565"
     }
+  },
+  {
+    "runNumber": "35567",
+    "rawCode": "MED",
+    "timestamp": "2026-07-03T13:55:48.484517-04:00",
+    "address": "Leaning Tree Lane & Yellowstone",
+    "extra": {
+      "incidentNumber": "35567",
+      "run_id": "35567",
+      "address": "Leaning Tree Lane & Yellowstone",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC3,202,241",
+      "units": "E16,EC3,202,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-35567"
+    }
   }
 ]
