@@ -2748,5 +2748,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35800"
     }
+  },
+  {
+    "runNumber": "35801",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-04T15:42:53.507542-04:00",
+    "address": "128 Londonderry Drive",
+    "extra": {
+      "incidentNumber": "35801",
+      "run_id": "35801",
+      "address": "128 Londonderry Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14",
+      "units": "E14",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35801"
+    }
   }
 ]
