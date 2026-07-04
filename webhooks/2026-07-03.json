@@ -4244,5 +4244,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35663"
     }
+  },
+  {
+    "runNumber": "35662",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-03T22:24:35.356687-04:00",
+    "address": "750 Ward Drive",
+    "extra": {
+      "incidentNumber": "35662",
+      "run_id": "35662",
+      "address": "750 Ward Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E19,L03,EC3,201",
+      "units": "E08,E19,L03,EC3,201",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-35662"
+    }
   }
 ]
