@@ -1186,5 +1186,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-35727"
     }
+  },
+  {
+    "runNumber": "35731",
+    "rawCode": "MED",
+    "timestamp": "2026-07-04T09:52:03.271171-04:00",
+    "address": "800 Block Surrey Lane",
+    "extra": {
+      "incidentNumber": "35731",
+      "run_id": "35731",
+      "address": "800 Block Surrey Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35731"
+    }
   }
 ]
