@@ -2682,5 +2682,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-35797"
     }
+  },
+  {
+    "runNumber": "35799",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-04T15:35:53.390259-04:00",
+    "address": "Easthills Drive & Man O War Boulevard",
+    "extra": {
+      "incidentNumber": "35799",
+      "run_id": "35799",
+      "address": "Easthills Drive & Man O War Boulevard",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC13",
+      "units": "E09,EC13",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35799"
+    }
   }
 ]
