@@ -1736,5 +1736,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-35755"
     }
+  },
+  {
+    "runNumber": "35757",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-04T12:19:27.107207-04:00",
+    "address": "551 W Sixth Street",
+    "extra": {
+      "incidentNumber": "35757",
+      "run_id": "35757",
+      "address": "551 W Sixth Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E08,L01,202",
+      "units": "E01,E08,L01,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-35757"
+    }
   }
 ]
