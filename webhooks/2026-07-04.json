@@ -570,5 +570,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35702"
     }
+  },
+  {
+    "runNumber": "35703",
+    "rawCode": "FELS",
+    "timestamp": "2026-07-04T05:11:27.033405-04:00",
+    "address": "2001 Bryant Road",
+    "extra": {
+      "incidentNumber": "35703",
+      "run_id": "35703",
+      "address": "2001 Bryant Road",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,L06,201",
+      "units": "E09,L06,201",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-35703"
+    }
   }
 ]
