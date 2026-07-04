@@ -86,5 +86,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35680"
     }
+  },
+  {
+    "runNumber": "35681",
+    "rawCode": "FSIA",
+    "timestamp": "2026-07-04T01:12:54.276645-04:00",
+    "address": "625 Hill N Dale Road",
+    "extra": {
+      "incidentNumber": "35681",
+      "run_id": "35681",
+      "address": "625 Hill N Dale Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,E20,204",
+      "units": "E12,E20,204",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-35681"
+    }
   }
 ]
