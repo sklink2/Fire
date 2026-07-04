@@ -592,5 +592,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-35703"
     }
+  },
+  {
+    "runNumber": "35704",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-04T05:14:58.005121-04:00",
+    "address": "2701 Magnolia Springs Drive",
+    "extra": {
+      "incidentNumber": "35704",
+      "run_id": "35704",
+      "address": "2701 Magnolia Springs Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,E24,L03,203",
+      "units": "E10,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-35704"
+    }
   }
 ]
