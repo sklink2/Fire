@@ -3958,5 +3958,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35649"
     }
+  },
+  {
+    "runNumber": "35650",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-03T20:42:44.521708-04:00",
+    "address": "Central Avenue & S Ashland Avenue",
+    "extra": {
+      "incidentNumber": "35650",
+      "run_id": "35650",
+      "address": "Central Avenue & S Ashland Avenue",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,EC8,241",
+      "units": "E05,EC8,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-35650"
+    }
   }
 ]
