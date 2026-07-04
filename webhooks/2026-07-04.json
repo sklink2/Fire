@@ -2484,5 +2484,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35788"
     }
+  },
+  {
+    "runNumber": "35789",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-04T15:00:50.941089-04:00",
+    "address": "184 Sherman Avenue",
+    "extra": {
+      "incidentNumber": "35789",
+      "run_id": "35789",
+      "address": "184 Sherman Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E09,L02,202",
+      "units": "E05,E09,L02,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-35789"
+    }
   }
 ]
