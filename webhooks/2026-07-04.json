@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35791"
     }
+  },
+  {
+    "runNumber": "35790",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-04T15:07:55.693427-04:00",
+    "address": "2420 Maplewood Drive",
+    "extra": {
+      "incidentNumber": "35790",
+      "run_id": "35790",
+      "address": "2420 Maplewood Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,E20,L04,EC12,204,220",
+      "units": "E12,E20,L04,EC12,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-35790"
+    }
   }
 ]
