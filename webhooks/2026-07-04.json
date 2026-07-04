@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35707"
     }
+  },
+  {
+    "runNumber": "35708",
+    "rawCode": "FDET",
+    "timestamp": "2026-07-04T05:53:33.758934-04:00",
+    "address": "E Main Street & N Limestone",
+    "extra": {
+      "incidentNumber": "35708",
+      "run_id": "35708",
+      "address": "E Main Street & N Limestone",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "203",
+      "units": "203",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-35708"
+    }
   }
 ]
