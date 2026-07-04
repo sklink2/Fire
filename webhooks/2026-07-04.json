@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35782"
     }
+  },
+  {
+    "runNumber": "35783",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-04T14:43:16.109650-04:00",
+    "address": "145 Malabu Drive",
+    "extra": {
+      "incidentNumber": "35783",
+      "run_id": "35783",
+      "address": "145 Malabu Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,L04",
+      "units": "E15,L04",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35783"
+    }
   }
 ]
