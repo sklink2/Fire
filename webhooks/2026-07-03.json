@@ -4068,5 +4068,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-35654"
     }
+  },
+  {
+    "runNumber": "35655",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-03T21:07:19.736808-04:00",
+    "address": "169 Deweese Street",
+    "extra": {
+      "incidentNumber": "35655",
+      "run_id": "35655",
+      "address": "169 Deweese Street",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,L02,EC13,205",
+      "units": "E05,E06,L02,EC13,205",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-35655"
+    }
   }
 ]
