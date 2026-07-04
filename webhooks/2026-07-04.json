@@ -218,5 +218,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35685"
     }
+  },
+  {
+    "runNumber": "35687",
+    "rawCode": "MED",
+    "timestamp": "2026-07-04T02:40:39.262485-04:00",
+    "address": "3800 Block Blue Bonnet Drive",
+    "extra": {
+      "incidentNumber": "35687",
+      "run_id": "35687",
+      "address": "3800 Block Blue Bonnet Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC4,202,241",
+      "units": "E15,EC4,202,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-35687"
+    }
   }
 ]
