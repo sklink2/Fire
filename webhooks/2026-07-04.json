@@ -1648,5 +1648,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35751"
     }
+  },
+  {
+    "runNumber": "35752",
+    "rawCode": "MED",
+    "timestamp": "2026-07-04T11:33:49.257125-04:00",
+    "address": "400 Block Chestnut Street",
+    "extra": {
+      "incidentNumber": "35752",
+      "run_id": "35752",
+      "address": "400 Block Chestnut Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35752"
+    }
   }
 ]
