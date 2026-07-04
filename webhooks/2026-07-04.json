@@ -746,5 +746,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-35710"
     }
+  },
+  {
+    "runNumber": "35711",
+    "rawCode": "MED",
+    "timestamp": "2026-07-04T06:39:08.315888-04:00",
+    "address": "800 Block Celia Lane",
+    "extra": {
+      "incidentNumber": "35711",
+      "run_id": "35711",
+      "address": "800 Block Celia Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35711"
+    }
   }
 ]
