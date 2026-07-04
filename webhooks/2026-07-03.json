@@ -4046,5 +4046,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35652"
     }
+  },
+  {
+    "runNumber": "35654",
+    "rawCode": "MED",
+    "timestamp": "2026-07-03T20:56:47.328247-04:00",
+    "address": "500 Block W Fifth Street",
+    "extra": {
+      "incidentNumber": "35654",
+      "run_id": "35654",
+      "address": "500 Block W Fifth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L01,EC5,203",
+      "units": "L01,EC5,203",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-35654"
+    }
   }
 ]
