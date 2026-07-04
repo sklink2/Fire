@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35709"
     }
+  },
+  {
+    "runNumber": "35710",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-04T06:35:40.020676-04:00",
+    "address": "1088 Nandino Boulevard",
+    "extra": {
+      "incidentNumber": "35710",
+      "run_id": "35710",
+      "address": "1088 Nandino Boulevard",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E08,L03,205",
+      "units": "E04,E08,L03,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-35710"
+    }
   }
 ]
