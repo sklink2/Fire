@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35760"
     }
+  },
+  {
+    "runNumber": "35759",
+    "rawCode": "MED",
+    "timestamp": "2026-07-04T12:30:01.283215-04:00",
+    "address": "2600 Block Wigginton Pt",
+    "extra": {
+      "incidentNumber": "35759",
+      "run_id": "35759",
+      "address": "2600 Block Wigginton Pt",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35759"
+    }
   }
 ]
