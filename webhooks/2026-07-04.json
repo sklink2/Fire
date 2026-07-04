@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35719"
     }
+  },
+  {
+    "runNumber": "35720",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-04T08:52:29.270893-04:00",
+    "address": "4400 Whitfield Circle",
+    "extra": {
+      "incidentNumber": "35720",
+      "run_id": "35720",
+      "address": "4400 Whitfield Circle",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,E16,L07,202",
+      "units": "E15,E16,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-35720"
+    }
   }
 ]
