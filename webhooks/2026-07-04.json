@@ -20,5 +20,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35677"
     }
+  },
+  {
+    "runNumber": "35678",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-04T00:23:46.034505-04:00",
+    "address": "E Main Street & Midland Avenue",
+    "extra": {
+      "incidentNumber": "35678",
+      "run_id": "35678",
+      "address": "E Main Street & Midland Avenue",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,EC1,241",
+      "units": "E05,EC1,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-35678"
+    }
   }
 ]
