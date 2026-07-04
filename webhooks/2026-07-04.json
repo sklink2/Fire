@@ -1494,5 +1494,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35744"
     }
+  },
+  {
+    "runNumber": "35745",
+    "rawCode": "MED",
+    "timestamp": "2026-07-04T10:44:42.116625-04:00",
+    "address": "2000 Block Fairmont Court",
+    "extra": {
+      "incidentNumber": "35745",
+      "run_id": "35745",
+      "address": "2000 Block Fairmont Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35745"
+    }
   }
 ]
