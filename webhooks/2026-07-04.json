@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35787"
     }
+  },
+  {
+    "runNumber": "35786",
+    "rawCode": "FMEA",
+    "timestamp": "2026-07-04T14:53:48.895954-04:00",
+    "address": "866 Georgetown Street",
+    "extra": {
+      "incidentNumber": "35786",
+      "run_id": "35786",
+      "address": "866 Georgetown Street",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,EC3",
+      "units": "E10,EC3",
+      "unitCount": "2",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35786"
+    }
   }
 ]
