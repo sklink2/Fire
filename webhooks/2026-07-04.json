@@ -3914,5 +3914,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35852"
     }
+  },
+  {
+    "runNumber": "35853",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-04T21:05:40.081214-04:00",
+    "address": "1825 Liberty Road",
+    "extra": {
+      "incidentNumber": "35853",
+      "run_id": "35853",
+      "address": "1825 Liberty Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E09,L05,201",
+      "units": "E02,E09,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-35853"
+    }
   }
 ]
