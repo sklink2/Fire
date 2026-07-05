@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36010"
     }
+  },
+  {
+    "runNumber": "36009",
+    "rawCode": "MED",
+    "timestamp": "2026-07-05T15:27:17.095564-04:00",
+    "address": "3200 Block Commodore Drive",
+    "extra": {
+      "incidentNumber": "36009",
+      "run_id": "36009",
+      "address": "3200 Block Commodore Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36009"
+    }
   }
 ]
