@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36026"
     }
+  },
+  {
+    "runNumber": "36029",
+    "rawCode": "MED",
+    "timestamp": "2026-07-05T17:51:03.090621-04:00",
+    "address": "100 Block Simpson Avenue",
+    "extra": {
+      "incidentNumber": "36029",
+      "run_id": "36029",
+      "address": "100 Block Simpson Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36029"
+    }
   }
 ]
