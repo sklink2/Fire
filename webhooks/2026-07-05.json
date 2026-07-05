@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35924"
     }
+  },
+  {
+    "runNumber": "35909",
+    "rawCode": "FSTRW",
+    "timestamp": "2026-07-05T02:03:50.151009-04:00",
+    "address": "3504 Robinhill Way",
+    "extra": {
+      "incidentNumber": "35909",
+      "run_id": "35909",
+      "address": "3504 Robinhill Way",
+      "rawType": "FSTRW",
+      "typeCode": "FSTRW",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,E12,E20,L02,L04,EC12,EC5,203,204",
+      "units": "E11,E12,E20,L02,L04,EC12,EC5,203,204",
+      "unitCount": "9",
+      "primaryTopic": "FSTRW",
+      "commandUnits": "203,204",
+      "dedupeKey": "INCIDENT-35909"
+    }
   }
 ]
