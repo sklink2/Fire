@@ -746,5 +746,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35934"
     }
+  },
+  {
+    "runNumber": "35935",
+    "rawCode": "FDET",
+    "timestamp": "2026-07-05T03:35:03.547231-04:00",
+    "address": "811 Charles Avenue",
+    "extra": {
+      "incidentNumber": "35935",
+      "run_id": "35935",
+      "address": "811 Charles Avenue",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E18",
+      "units": "E18",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35935"
+    }
   }
 ]
