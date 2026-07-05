@@ -2814,5 +2814,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36029"
     }
+  },
+  {
+    "runNumber": "36028",
+    "rawCode": "MED",
+    "timestamp": "2026-07-05T17:51:05.393843-04:00",
+    "address": "2300 Block Lonan Court",
+    "extra": {
+      "incidentNumber": "36028",
+      "run_id": "36028",
+      "address": "2300 Block Lonan Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36028"
+    }
   }
 ]
