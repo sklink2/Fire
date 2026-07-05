@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35846"
     }
+  },
+  {
+    "runNumber": "35851",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-04T20:51:37.154244-04:00",
+    "address": "261 Simpson Avenue",
+    "extra": {
+      "incidentNumber": "35851",
+      "run_id": "35851",
+      "address": "261 Simpson Avenue",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11",
+      "units": "E11",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35851"
+    }
   }
 ]
