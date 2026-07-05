@@ -4002,5 +4002,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35856"
     }
+  },
+  {
+    "runNumber": "35857",
+    "rawCode": "FSTR",
+    "timestamp": "2026-07-04T21:33:47.333032-04:00",
+    "address": "621 Winchester Road",
+    "extra": {
+      "incidentNumber": "35857",
+      "run_id": "35857",
+      "address": "621 Winchester Road",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E02,E05,E09,L01,L05,EC1,201,205,220,241,RS1",
+      "units": "E01,E02,E05,E09,L01,L05,EC1,201,205,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,205",
+      "dedupeKey": "INCIDENT-35857"
+    }
   }
 ]
