@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35923"
     }
+  },
+  {
+    "runNumber": "35922",
+    "rawCode": "MED",
+    "timestamp": "2026-07-05T01:49:52.597900-04:00",
+    "address": "2800 Block Ashby Glen Place",
+    "extra": {
+      "incidentNumber": "35922",
+      "run_id": "35922",
+      "address": "2800 Block Ashby Glen Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35922"
+    }
   }
 ]
