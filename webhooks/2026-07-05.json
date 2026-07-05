@@ -1648,5 +1648,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35972"
     }
+  },
+  {
+    "runNumber": "35976",
+    "rawCode": "MED",
+    "timestamp": "2026-07-05T12:00:15.999519-04:00",
+    "address": "200 Block Ellemoor Lane",
+    "extra": {
+      "incidentNumber": "35976",
+      "run_id": "35976",
+      "address": "200 Block Ellemoor Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35976"
+    }
   }
 ]
