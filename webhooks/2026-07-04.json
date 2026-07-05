@@ -4090,5 +4090,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-35859"
     }
+  },
+  {
+    "runNumber": "35861",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-04T22:01:46.934539-04:00",
+    "address": "3298 Commodore Drive",
+    "extra": {
+      "incidentNumber": "35861",
+      "run_id": "35861",
+      "address": "3298 Commodore Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07",
+      "units": "E07",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35861"
+    }
   }
 ]
