@@ -1186,5 +1186,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35954"
     }
+  },
+  {
+    "runNumber": "35955",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-05T08:26:14.766095-04:00",
+    "address": "1300 Cooper Drive",
+    "extra": {
+      "incidentNumber": "35955",
+      "run_id": "35955",
+      "address": "1300 Cooper Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E09,L02,205",
+      "units": "E05,E09,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-35955"
+    }
   }
 ]
