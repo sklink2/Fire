@@ -4068,5 +4068,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35860"
     }
+  },
+  {
+    "runNumber": "35859",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-04T21:47:47.206978-04:00",
+    "address": "350 Henry Clay Boulevard",
+    "extra": {
+      "incidentNumber": "35859",
+      "run_id": "35859",
+      "address": "350 Henry Clay Boulevard",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E08,L06,202",
+      "units": "E06,E08,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-35859"
+    }
   }
 ]
