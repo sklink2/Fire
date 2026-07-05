@@ -790,5 +790,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-35936"
     }
+  },
+  {
+    "runNumber": "35937",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-05T03:49:04.260551-04:00",
+    "address": "3211 Muir Station Road",
+    "extra": {
+      "incidentNumber": "35937",
+      "run_id": "35937",
+      "address": "3211 Muir Station Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E23,EC3",
+      "units": "E23,EC3",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35937"
+    }
   }
 ]
