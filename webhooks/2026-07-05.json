@@ -1208,5 +1208,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-35955"
     }
+  },
+  {
+    "runNumber": "35956",
+    "rawCode": "MED",
+    "timestamp": "2026-07-05T08:47:16.996281-04:00",
+    "address": "3000 Block N Cleveland Road",
+    "extra": {
+      "incidentNumber": "35956",
+      "run_id": "35956",
+      "address": "3000 Block N Cleveland Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35956"
+    }
   }
 ]
