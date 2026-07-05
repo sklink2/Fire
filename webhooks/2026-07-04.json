@@ -4728,5 +4728,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-35888"
     }
+  },
+  {
+    "runNumber": "35892",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-07-04T23:36:29.815300-04:00",
+    "address": "701 Liberty Ridge Lane",
+    "extra": {
+      "incidentNumber": "35892",
+      "run_id": "35892",
+      "address": "701 Liberty Ridge Lane",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L06",
+      "units": "L06",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35892"
+    }
   }
 ]
