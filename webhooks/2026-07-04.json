@@ -3738,5 +3738,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35842"
     }
+  },
+  {
+    "runNumber": "35845",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-04T20:44:36.789619-04:00",
+    "address": "604 Havana Court",
+    "extra": {
+      "incidentNumber": "35845",
+      "run_id": "35845",
+      "address": "604 Havana Court",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24",
+      "units": "E24",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35845"
+    }
   }
 ]
