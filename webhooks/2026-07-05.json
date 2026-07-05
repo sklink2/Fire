@@ -1428,5 +1428,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-35966"
     }
+  },
+  {
+    "runNumber": "35965",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-05T10:53:41.562146-04:00",
+    "address": "405 Cochran Road",
+    "extra": {
+      "incidentNumber": "35965",
+      "run_id": "35965",
+      "address": "405 Cochran Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05",
+      "units": "E05",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35965"
+    }
   }
 ]
