@@ -394,5 +394,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35919"
     }
+  },
+  {
+    "runNumber": "35920",
+    "rawCode": "MED",
+    "timestamp": "2026-07-05T01:39:17.100602-04:00",
+    "address": "3400 Block Windyknoll Drive",
+    "extra": {
+      "incidentNumber": "35920",
+      "run_id": "35920",
+      "address": "3400 Block Windyknoll Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,E22,EC13",
+      "units": "E16,E22,EC13",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35920"
+    }
   }
 ]
