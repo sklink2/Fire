@@ -570,5 +570,27 @@
       "commandUnits": "241,220,201,203,205",
       "dedupeKey": "INCIDENT-35925"
     }
+  },
+  {
+    "runNumber": "35927",
+    "rawCode": "FDET",
+    "timestamp": "2026-07-05T02:14:22.108941-04:00",
+    "address": "3504 Robinhill Way",
+    "extra": {
+      "incidentNumber": "35927",
+      "run_id": "35927",
+      "address": "3504 Robinhill Way",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17",
+      "units": "E17",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35927"
+    }
   }
 ]
