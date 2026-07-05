@@ -306,5 +306,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35915"
     }
+  },
+  {
+    "runNumber": "35916",
+    "rawCode": "MED",
+    "timestamp": "2026-07-05T01:14:43.663607-04:00",
+    "address": "500 Block Asbury Lane",
+    "extra": {
+      "incidentNumber": "35916",
+      "run_id": "35916",
+      "address": "500 Block Asbury Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35916"
+    }
   }
 ]
