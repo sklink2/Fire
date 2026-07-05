@@ -1472,5 +1472,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35967"
     }
+  },
+  {
+    "runNumber": "35968",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-05T11:11:09.087786-04:00",
+    "address": "4641 Spring Creek Drive",
+    "extra": {
+      "incidentNumber": "35968",
+      "run_id": "35968",
+      "address": "4641 Spring Creek Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E22,L07,202",
+      "units": "E16,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-35968"
+    }
   }
 ]
