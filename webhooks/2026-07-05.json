@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35985"
     }
+  },
+  {
+    "runNumber": "35986",
+    "rawCode": "MED",
+    "timestamp": "2026-07-05T13:31:28.817663-04:00",
+    "address": "3600 Block Laredo Drive",
+    "extra": {
+      "incidentNumber": "35986",
+      "run_id": "35986",
+      "address": "3600 Block Laredo Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC13",
+      "units": "E22,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35986"
+    }
   }
 ]
