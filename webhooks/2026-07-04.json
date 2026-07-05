@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35835"
     }
+  },
+  {
+    "runNumber": "35836",
+    "rawCode": "MED",
+    "timestamp": "2026-07-04T20:13:02.420471-04:00",
+    "address": "400 Block Lenney Court",
+    "extra": {
+      "incidentNumber": "35836",
+      "run_id": "35836",
+      "address": "400 Block Lenney Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L07,EC2",
+      "units": "L07,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-35836"
+    }
   }
 ]
