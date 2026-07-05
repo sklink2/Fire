@@ -548,5 +548,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35926"
     }
+  },
+  {
+    "runNumber": "35925",
+    "rawCode": "FSTRW",
+    "timestamp": "2026-07-05T02:11:00.483074-04:00",
+    "address": "811 Charles Avenue",
+    "extra": {
+      "incidentNumber": "35925",
+      "run_id": "35925",
+      "address": "811 Charles Avenue",
+      "rawType": "FSTRW",
+      "typeCode": "FSTRW",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E04,E10,E13,L01,L03,EC10,EC6,201,203,205,220,241,RS1",
+      "units": "E01,E04,E10,E13,L01,L03,EC10,EC6,201,203,205,220,241,RS1",
+      "unitCount": "14",
+      "primaryTopic": "FSTRW",
+      "commandUnits": "241,220,201,203,205",
+      "dedupeKey": "INCIDENT-35925"
+    }
   }
 ]
