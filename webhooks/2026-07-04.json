@@ -4706,5 +4706,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-35889"
     }
+  },
+  {
+    "runNumber": "35888",
+    "rawCode": "FVNS",
+    "timestamp": "2026-07-04T23:33:03.617959-04:00",
+    "address": "3366 Winthrop Drive",
+    "extra": {
+      "incidentNumber": "35888",
+      "run_id": "35888",
+      "address": "3366 Winthrop Drive",
+      "rawType": "FVNS",
+      "typeCode": "FVNS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,E20,L04,EC9,204",
+      "units": "E15,E20,L04,EC9,204",
+      "unitCount": "5",
+      "primaryTopic": "FVNS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-35888"
+    }
   }
 ]
