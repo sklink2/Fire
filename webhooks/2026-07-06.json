@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36100"
     }
+  },
+  {
+    "runNumber": "36104",
+    "rawCode": "MED",
+    "timestamp": "2026-07-06T07:28:30.433097-04:00",
+    "address": "2100 Block Maura Trce",
+    "extra": {
+      "incidentNumber": "36104",
+      "run_id": "36104",
+      "address": "2100 Block Maura Trce",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36104"
+    }
   }
 ]
