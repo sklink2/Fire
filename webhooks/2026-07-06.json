@@ -1560,5 +1560,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36142"
     }
+  },
+  {
+    "runNumber": "36144",
+    "rawCode": "FVIS",
+    "timestamp": "2026-07-06T11:30:36.510329-04:00",
+    "address": "115 W Loudon Avenue",
+    "extra": {
+      "incidentNumber": "36144",
+      "run_id": "36144",
+      "address": "115 W Loudon Avenue",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E13,L01,EC3,205,RS1",
+      "units": "E01,E13,L01,EC3,205,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-36144"
+    }
   }
 ]
