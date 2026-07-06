@@ -152,5 +152,27 @@
       "commandUnits": "220",
       "dedupeKey": "INCIDENT-36078"
     }
+  },
+  {
+    "runNumber": "36079",
+    "rawCode": "FELS",
+    "timestamp": "2026-07-06T02:12:46.356898-04:00",
+    "address": "330 Newtown Pike",
+    "extra": {
+      "incidentNumber": "36079",
+      "run_id": "36079",
+      "address": "330 Newtown Pike",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L03,205,RS1",
+      "units": "L03,205,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-36079"
+    }
   }
 ]
