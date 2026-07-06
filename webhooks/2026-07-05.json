@@ -3298,5 +3298,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-36050"
     }
+  },
+  {
+    "runNumber": "36049",
+    "rawCode": "MED",
+    "timestamp": "2026-07-05T20:36:02.553997-04:00",
+    "address": "100 Block Greenway Lane",
+    "extra": {
+      "incidentNumber": "36049",
+      "run_id": "36049",
+      "address": "100 Block Greenway Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36049"
+    }
   }
 ]
