@@ -746,5 +746,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36105"
     }
+  },
+  {
+    "runNumber": "36106",
+    "rawCode": "MED",
+    "timestamp": "2026-07-06T07:49:38.448175-04:00",
+    "address": "1200 Block Eastland Drive",
+    "extra": {
+      "incidentNumber": "36106",
+      "run_id": "36106",
+      "address": "1200 Block Eastland Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC8,201,241",
+      "units": "E02,EC8,201,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-36106"
+    }
   }
 ]
