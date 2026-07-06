@@ -636,5 +636,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36102"
     }
+  },
+  {
+    "runNumber": "36101",
+    "rawCode": "MED",
+    "timestamp": "2026-07-06T07:25:03.026121-04:00",
+    "address": "400 Block Lucille Drive",
+    "extra": {
+      "incidentNumber": "36101",
+      "run_id": "36101",
+      "address": "400 Block Lucille Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36101"
+    }
   }
 ]
