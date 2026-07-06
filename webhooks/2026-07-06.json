@@ -2660,5 +2660,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36193"
     }
+  },
+  {
+    "runNumber": "36190",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-06T15:50:14.759023-04:00",
+    "address": "809 Tomahawk Trail",
+    "extra": {
+      "incidentNumber": "36190",
+      "run_id": "36190",
+      "address": "809 Tomahawk Trail",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,204",
+      "units": "E20,204",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-36190"
+    }
   }
 ]
