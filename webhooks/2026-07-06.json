@@ -2462,5 +2462,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36185"
     }
+  },
+  {
+    "runNumber": "36184",
+    "rawCode": "MED",
+    "timestamp": "2026-07-06T15:01:08.755971-04:00",
+    "address": "300 Block Wilson Street",
+    "extra": {
+      "incidentNumber": "36184",
+      "run_id": "36184",
+      "address": "300 Block Wilson Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L01,EC7",
+      "units": "L01,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36184"
+    }
   }
 ]
