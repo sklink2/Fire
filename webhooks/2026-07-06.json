@@ -2616,5 +2616,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36191"
     }
+  },
+  {
+    "runNumber": "36190",
+    "rawCode": "FOTS",
+    "timestamp": "2026-07-06T15:46:48.875606-04:00",
+    "address": "809 Tomahawk Trail",
+    "extra": {
+      "incidentNumber": "36190",
+      "run_id": "36190",
+      "address": "809 Tomahawk Trail",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "204",
+      "units": "204",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-36190"
+    }
   }
 ]
