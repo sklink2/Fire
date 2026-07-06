@@ -130,5 +130,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36077"
     }
+  },
+  {
+    "runNumber": "36078",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-06T01:58:46.774340-04:00",
+    "address": "3969 Hillside Drive",
+    "extra": {
+      "incidentNumber": "36078",
+      "run_id": "36078",
+      "address": "3969 Hillside Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,220",
+      "units": "E20,220",
+      "unitCount": "2",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-36078"
+    }
   }
 ]
