@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36179"
     }
+  },
+  {
+    "runNumber": "36178",
+    "rawCode": "MED",
+    "timestamp": "2026-07-06T14:43:34.586440-04:00",
+    "address": "100 Block Marne Avenue",
+    "extra": {
+      "incidentNumber": "36178",
+      "run_id": "36178",
+      "address": "100 Block Marne Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12,CRT1",
+      "units": "EC12,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36178"
+    }
   }
 ]
