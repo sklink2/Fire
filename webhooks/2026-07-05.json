@@ -3210,5 +3210,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36045"
     }
+  },
+  {
+    "runNumber": "36046",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-05T20:14:55.196618-04:00",
+    "address": "222 Chinoe Road",
+    "extra": {
+      "incidentNumber": "36046",
+      "run_id": "36046",
+      "address": "222 Chinoe Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E09,L02,205",
+      "units": "E05,E09,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-36046"
+    }
   }
 ]
