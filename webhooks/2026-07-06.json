@@ -2924,5 +2924,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36203"
     }
+  },
+  {
+    "runNumber": "36205",
+    "rawCode": "MED",
+    "timestamp": "2026-07-06T16:35:47.313728-04:00",
+    "address": "100 Block Eddie Street",
+    "extra": {
+      "incidentNumber": "36205",
+      "run_id": "36205",
+      "address": "100 Block Eddie Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L01,EC2",
+      "units": "L01,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36205"
+    }
   }
 ]
