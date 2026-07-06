@@ -306,5 +306,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-36085"
     }
+  },
+  {
+    "runNumber": "36086",
+    "rawCode": "FCAR",
+    "timestamp": "2026-07-06T04:36:36.351410-04:00",
+    "address": "131 Clyde Street",
+    "extra": {
+      "incidentNumber": "36086",
+      "run_id": "36086",
+      "address": "131 Clyde Street",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L03",
+      "units": "L03",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36086"
+    }
   }
 ]
