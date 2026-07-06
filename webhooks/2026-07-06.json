@@ -262,5 +262,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36083"
     }
+  },
+  {
+    "runNumber": "36084",
+    "rawCode": "MED",
+    "timestamp": "2026-07-06T04:12:06.681404-04:00",
+    "address": "400 Block Sandersville Court",
+    "extra": {
+      "incidentNumber": "36084",
+      "run_id": "36084",
+      "address": "400 Block Sandersville Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC6,203,241",
+      "units": "E24,EC6,203,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-36084"
+    }
   }
 ]
