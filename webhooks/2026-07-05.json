@@ -3518,5 +3518,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36059"
     }
+  },
+  {
+    "runNumber": "36060",
+    "rawCode": "MED",
+    "timestamp": "2026-07-05T21:56:42.467261-04:00",
+    "address": "700 Block Georgetown Street",
+    "extra": {
+      "incidentNumber": "36060",
+      "run_id": "36060",
+      "address": "700 Block Georgetown Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC6,203,241",
+      "units": "E10,EC6,203,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-36060"
+    }
   }
 ]
