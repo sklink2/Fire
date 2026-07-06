@@ -3628,5 +3628,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36064"
     }
+  },
+  {
+    "runNumber": "36065",
+    "rawCode": "FBAS",
+    "timestamp": "2026-07-05T22:38:47.071893-04:00",
+    "address": "1122 Oakwood Drive",
+    "extra": {
+      "incidentNumber": "36065",
+      "run_id": "36065",
+      "address": "1122 Oakwood Drive",
+      "rawType": "FBAS",
+      "typeCode": "FBAS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC3,205",
+      "units": "E10,EC3,205",
+      "unitCount": "3",
+      "primaryTopic": "FBAS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-36065"
+    }
   }
 ]
