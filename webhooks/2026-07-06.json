@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36145"
     }
+  },
+  {
+    "runNumber": "36147",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-06T11:44:39.679401-04:00",
+    "address": "1140 Floyd Drive",
+    "extra": {
+      "incidentNumber": "36147",
+      "run_id": "36147",
+      "address": "1140 Floyd Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E10,L05,EC1,201,220",
+      "units": "E05,E10,L05,EC1,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-36147"
+    }
   }
 ]
