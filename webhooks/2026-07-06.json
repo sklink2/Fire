@@ -196,5 +196,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36080"
     }
+  },
+  {
+    "runNumber": "36081",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-06T02:30:19.809465-04:00",
+    "address": "2033 Bryant Road",
+    "extra": {
+      "incidentNumber": "36081",
+      "run_id": "36081",
+      "address": "2033 Bryant Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E17,E21,L06,201",
+      "units": "E02,E17,E21,L06,201",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-36081"
+    }
   }
 ]
