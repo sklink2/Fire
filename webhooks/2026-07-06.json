@@ -416,5 +416,27 @@
       "commandUnits": "241,201",
       "dedupeKey": "INCIDENT-36090"
     }
+  },
+  {
+    "runNumber": "36091",
+    "rawCode": "MED",
+    "timestamp": "2026-07-06T05:36:15.372910-04:00",
+    "address": "800 Block Red Mile Road",
+    "extra": {
+      "incidentNumber": "36091",
+      "run_id": "36091",
+      "address": "800 Block Red Mile Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36091"
+    }
   }
 ]
