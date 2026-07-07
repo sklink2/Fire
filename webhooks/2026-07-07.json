@@ -812,5 +812,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36305"
     }
+  },
+  {
+    "runNumber": "36306",
+    "rawCode": "MED",
+    "timestamp": "2026-07-07T07:26:54.233736-04:00",
+    "address": "2600 Block Lucca Place",
+    "extra": {
+      "incidentNumber": "36306",
+      "run_id": "36306",
+      "address": "2600 Block Lucca Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L05,EC3",
+      "units": "L05,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36306"
+    }
   }
 ]
