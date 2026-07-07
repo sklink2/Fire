@@ -2462,5 +2462,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36380"
     }
+  },
+  {
+    "runNumber": "36382",
+    "rawCode": "FELS",
+    "timestamp": "2026-07-07T14:06:52.325118-04:00",
+    "address": "310 S Limestone",
+    "extra": {
+      "incidentNumber": "36382",
+      "run_id": "36382",
+      "address": "310 S Limestone",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,L01,203",
+      "units": "E13,L01,203",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-36382"
+    }
   }
 ]
