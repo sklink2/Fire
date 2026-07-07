@@ -3012,5 +3012,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36407"
     }
+  },
+  {
+    "runNumber": "36406",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-07-07T16:02:42.161944-04:00",
+    "address": "Darby Creek Road & Palumbo Drive",
+    "extra": {
+      "incidentNumber": "36406",
+      "run_id": "36406",
+      "address": "Darby Creek Road & Palumbo Drive",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,L06,EC11,EC2,202,241,RS1",
+      "units": "E21,L06,EC11,EC2,202,241,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-36406"
+    }
   }
 ]
