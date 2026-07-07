@@ -746,5 +746,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36302"
     }
+  },
+  {
+    "runNumber": "36303",
+    "rawCode": "MED",
+    "timestamp": "2026-07-07T06:58:49.718636-04:00",
+    "address": "1000 Block Cross Keys Road",
+    "extra": {
+      "incidentNumber": "36303",
+      "run_id": "36303",
+      "address": "1000 Block Cross Keys Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36303"
+    }
   }
 ]
