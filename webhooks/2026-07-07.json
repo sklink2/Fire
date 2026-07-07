@@ -1670,5 +1670,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36343"
     }
+  },
+  {
+    "runNumber": "36346",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-07T11:28:59.984103-04:00",
+    "address": "W Main Street & Jefferson Street",
+    "extra": {
+      "incidentNumber": "36346",
+      "run_id": "36346",
+      "address": "W Main Street & Jefferson Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,EC10,500",
+      "units": "E13,EC10,500",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36346"
+    }
   }
 ]
