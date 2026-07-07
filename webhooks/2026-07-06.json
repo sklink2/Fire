@@ -3694,5 +3694,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-36239"
     }
+  },
+  {
+    "runNumber": "36240",
+    "rawCode": "MED",
+    "timestamp": "2026-07-06T20:34:20.436519-04:00",
+    "address": "100 Block Rojay Drive",
+    "extra": {
+      "incidentNumber": "36240",
+      "run_id": "36240",
+      "address": "100 Block Rojay Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36240"
+    }
   }
 ]
