@@ -306,5 +306,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36282"
     }
+  },
+  {
+    "runNumber": "36283",
+    "rawCode": "MED",
+    "timestamp": "2026-07-07T03:00:13.824706-04:00",
+    "address": "1000 Block Armstrong Mill Road",
+    "extra": {
+      "incidentNumber": "36283",
+      "run_id": "36283",
+      "address": "1000 Block Armstrong Mill Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36283"
+    }
   }
 ]
