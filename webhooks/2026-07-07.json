@@ -1912,5 +1912,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36355"
     }
+  },
+  {
+    "runNumber": "36356",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-07T12:04:08.687090-04:00",
+    "address": "1201 Bel Mar Lane",
+    "extra": {
+      "incidentNumber": "36356",
+      "run_id": "36356",
+      "address": "1201 Bel Mar Lane",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,E22,L07,EC9,204,220",
+      "units": "E16,E22,L07,EC9,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-36356"
+    }
   }
 ]
