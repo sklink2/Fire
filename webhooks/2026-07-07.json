@@ -196,5 +196,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36277"
     }
+  },
+  {
+    "runNumber": "36276",
+    "rawCode": "FSIA",
+    "timestamp": "2026-07-07T01:18:40.029063-04:00",
+    "address": "305 Lindenhurst Drive",
+    "extra": {
+      "incidentNumber": "36276",
+      "run_id": "36276",
+      "address": "305 Lindenhurst Drive",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E21,202",
+      "units": "E09,E21,202",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-36276"
+    }
   }
 ]
