@@ -2154,5 +2154,27 @@
       "commandUnits": "241,205",
       "dedupeKey": "INCIDENT-36366"
     }
+  },
+  {
+    "runNumber": "36368",
+    "rawCode": "MED",
+    "timestamp": "2026-07-07T13:28:16.661779-04:00",
+    "address": "300 Block Blue Grass Avenue",
+    "extra": {
+      "incidentNumber": "36368",
+      "run_id": "36368",
+      "address": "300 Block Blue Grass Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC8,CRT1",
+      "units": "EC8,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36368"
+    }
   }
 ]
