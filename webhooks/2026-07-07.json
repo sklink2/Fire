@@ -3518,5 +3518,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36429"
     }
+  },
+  {
+    "runNumber": "36430",
+    "rawCode": "MED",
+    "timestamp": "2026-07-07T18:05:22.522675-04:00",
+    "address": "1700 Block Hawthorne Lane",
+    "extra": {
+      "incidentNumber": "36430",
+      "run_id": "36430",
+      "address": "1700 Block Hawthorne Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC3,CRT1",
+      "units": "E08,EC3,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36430"
+    }
   }
 ]
