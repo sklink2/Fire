@@ -2044,5 +2044,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36361"
     }
+  },
+  {
+    "runNumber": "36362",
+    "rawCode": "FVLA",
+    "timestamp": "2026-07-07T12:35:41.523534-04:00",
+    "address": "75 Sb / 110.0 Mm (Winchester R",
+    "extra": {
+      "incidentNumber": "36362",
+      "run_id": "36362",
+      "address": "75 Sb / 110.0 Mm (Winchester R",
+      "rawType": "FVLA",
+      "typeCode": "FVLA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E08,L03,T1,201",
+      "units": "E02,E08,L03,T1,201",
+      "unitCount": "5",
+      "primaryTopic": "FVLA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-36362"
+    }
   }
 ]
