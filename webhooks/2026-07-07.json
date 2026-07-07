@@ -2484,5 +2484,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-36382"
     }
+  },
+  {
+    "runNumber": "36384",
+    "rawCode": "MED",
+    "timestamp": "2026-07-07T14:13:52.958549-04:00",
+    "address": "800 Block Corporate Drive",
+    "extra": {
+      "incidentNumber": "36384",
+      "run_id": "36384",
+      "address": "800 Block Corporate Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36384"
+    }
   }
 ]
