@@ -2132,5 +2132,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36365"
     }
+  },
+  {
+    "runNumber": "36366",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-07-07T13:03:45.294506-04:00",
+    "address": "Muir Station Road & Walnut Stati",
+    "extra": {
+      "incidentNumber": "36366",
+      "run_id": "36366",
+      "address": "Muir Station Road & Walnut Stati",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17,L05,EC3,205,241,RS1",
+      "units": "E17,L05,EC3,205,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,205",
+      "dedupeKey": "INCIDENT-36366"
+    }
   }
 ]
