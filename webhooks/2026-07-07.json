@@ -1934,5 +1934,27 @@
       "commandUnits": "220,204",
       "dedupeKey": "INCIDENT-36356"
     }
+  },
+  {
+    "runNumber": "36357",
+    "rawCode": "MED",
+    "timestamp": "2026-07-07T12:07:36.716469-04:00",
+    "address": "3100 Block Spurr Road",
+    "extra": {
+      "incidentNumber": "36357",
+      "run_id": "36357",
+      "address": "3100 Block Spurr Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,EC12",
+      "units": "E24,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36357"
+    }
   }
 ]
