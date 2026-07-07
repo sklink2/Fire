@@ -372,5 +372,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36285"
     }
+  },
+  {
+    "runNumber": "36286",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-07T03:59:54.407343-04:00",
+    "address": "562 Haskins Drive",
+    "extra": {
+      "incidentNumber": "36286",
+      "run_id": "36286",
+      "address": "562 Haskins Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E10,L03,EC6,205,220",
+      "units": "E04,E10,L03,EC6,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-36286"
+    }
   }
 ]
