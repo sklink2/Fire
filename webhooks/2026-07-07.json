@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36309"
     }
+  },
+  {
+    "runNumber": "36311",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-07T08:08:58.995703-04:00",
+    "address": "508 Wellington Way",
+    "extra": {
+      "incidentNumber": "36311",
+      "run_id": "36311",
+      "address": "508 Wellington Way",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15",
+      "units": "E15",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36311"
+    }
   }
 ]
