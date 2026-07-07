@@ -218,5 +218,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-36276"
     }
+  },
+  {
+    "runNumber": "36279",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-07T01:25:33.526402-04:00",
+    "address": "3772 Sunflower Street",
+    "extra": {
+      "incidentNumber": "36279",
+      "run_id": "36279",
+      "address": "3772 Sunflower Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E17,L06,201",
+      "units": "E02,E17,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-36279"
+    }
   }
 ]
