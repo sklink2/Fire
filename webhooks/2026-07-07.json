@@ -2198,5 +2198,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36370"
     }
+  },
+  {
+    "runNumber": "36369",
+    "rawCode": "MED",
+    "timestamp": "2026-07-07T13:31:49.489274-04:00",
+    "address": "1300 Block W Main Street",
+    "extra": {
+      "incidentNumber": "36369",
+      "run_id": "36369",
+      "address": "1300 Block W Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,EC10",
+      "units": "E04,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36369"
+    }
   }
 ]
