@@ -262,5 +262,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36280"
     }
+  },
+  {
+    "runNumber": "36281",
+    "rawCode": "MED",
+    "timestamp": "2026-07-07T02:25:09.803836-04:00",
+    "address": "2200 Block Dunhill Lane",
+    "extra": {
+      "incidentNumber": "36281",
+      "run_id": "36281",
+      "address": "2200 Block Dunhill Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36281"
+    }
   }
 ]
