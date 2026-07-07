@@ -526,5 +526,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36292"
     }
+  },
+  {
+    "runNumber": "36294",
+    "rawCode": "FELS",
+    "timestamp": "2026-07-07T05:45:11.354857-04:00",
+    "address": "137 Rose Street",
+    "extra": {
+      "incidentNumber": "36294",
+      "run_id": "36294",
+      "address": "137 Rose Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L01,205,RS1",
+      "units": "L01,205,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-36294"
+    }
   }
 ]
