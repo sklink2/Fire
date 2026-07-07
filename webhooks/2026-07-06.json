@@ -3672,5 +3672,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36238"
     }
+  },
+  {
+    "runNumber": "36239",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-06T20:16:48.705119-04:00",
+    "address": "Nicholasville Road & Waveland Mu",
+    "extra": {
+      "incidentNumber": "36239",
+      "run_id": "36239",
+      "address": "Nicholasville Road & Waveland Mu",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC4,EC9,241",
+      "units": "E15,EC4,EC9,241",
+      "unitCount": "4",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-36239"
+    }
   }
 ]
