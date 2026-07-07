@@ -1318,5 +1318,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36328"
     }
+  },
+  {
+    "runNumber": "36329",
+    "rawCode": "MED",
+    "timestamp": "2026-07-07T09:43:44.560732-04:00",
+    "address": "75 Nb / 102.0 Mm",
+    "extra": {
+      "incidentNumber": "36329",
+      "run_id": "36329",
+      "address": "75 Nb / 102.0 Mm",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E18,EC13",
+      "units": "E18,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36329"
+    }
   }
 ]
