@@ -548,5 +548,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-36294"
     }
+  },
+  {
+    "runNumber": "36293",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-07-07T05:45:14.135505-04:00",
+    "address": "3977 Barnard Drive",
+    "extra": {
+      "incidentNumber": "36293",
+      "run_id": "36293",
+      "address": "3977 Barnard Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21",
+      "units": "E21",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36293"
+    }
   }
 ]
