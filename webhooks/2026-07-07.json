@@ -1296,5 +1296,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36327"
     }
+  },
+  {
+    "runNumber": "36328",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-07T09:40:12.630629-04:00",
+    "address": "688 Shasta Circle",
+    "extra": {
+      "incidentNumber": "36328",
+      "run_id": "36328",
+      "address": "688 Shasta Circle",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36328"
+    }
   }
 ]
