@@ -3364,5 +3364,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36422"
     }
+  },
+  {
+    "runNumber": "36423",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-07T17:16:16.334214-04:00",
+    "address": "249 E Main Street",
+    "extra": {
+      "incidentNumber": "36423",
+      "run_id": "36423",
+      "address": "249 E Main Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E05,L01,205",
+      "units": "E01,E05,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-36423"
+    }
   }
 ]
