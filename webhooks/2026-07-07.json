@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36299"
     }
+  },
+  {
+    "runNumber": "36300",
+    "rawCode": "MED",
+    "timestamp": "2026-07-07T06:34:18.111261-04:00",
+    "address": "3000 Block Dartmouth Drive",
+    "extra": {
+      "incidentNumber": "36300",
+      "run_id": "36300",
+      "address": "3000 Block Dartmouth Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36300"
+    }
   }
 ]
