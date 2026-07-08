@@ -3584,5 +3584,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36636"
     }
+  },
+  {
+    "runNumber": "36635",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-08T18:28:22.774463-04:00",
+    "address": "151 S Locust Hill Drive",
+    "extra": {
+      "incidentNumber": "36635",
+      "run_id": "36635",
+      "address": "151 S Locust Hill Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E21,L05,EC2,202",
+      "units": "E09,E21,L05,EC2,202",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-36635"
+    }
   }
 ]
