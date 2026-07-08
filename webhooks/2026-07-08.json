@@ -1208,5 +1208,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-36526"
     }
+  },
+  {
+    "runNumber": "36525",
+    "rawCode": "MED",
+    "timestamp": "2026-07-08T09:03:36.705512-04:00",
+    "address": "200 Block N Martin Luther King Boulevard",
+    "extra": {
+      "incidentNumber": "36525",
+      "run_id": "36525",
+      "address": "200 Block N Martin Luther King Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36525"
+    }
   }
 ]
