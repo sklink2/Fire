@@ -2858,5 +2858,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36601"
     }
+  },
+  {
+    "runNumber": "36603",
+    "rawCode": "MED",
+    "timestamp": "2026-07-08T15:29:24.161022-04:00",
+    "address": "N Broadway & W Second Street",
+    "extra": {
+      "incidentNumber": "36603",
+      "run_id": "36603",
+      "address": "N Broadway & W Second Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC7,RS1",
+      "units": "EC7,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36603"
+    }
   }
 ]
