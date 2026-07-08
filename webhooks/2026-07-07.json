@@ -4266,5 +4266,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-36463"
     }
+  },
+  {
+    "runNumber": "36464",
+    "rawCode": "MED",
+    "timestamp": "2026-07-07T22:32:00.015233-04:00",
+    "address": "900 Block Dayton Avenue",
+    "extra": {
+      "incidentNumber": "36464",
+      "run_id": "36464",
+      "address": "900 Block Dayton Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC8",
+      "units": "E01,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36464"
+    }
   }
 ]
