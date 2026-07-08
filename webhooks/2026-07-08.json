@@ -2418,5 +2418,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36580"
     }
+  },
+  {
+    "runNumber": "36582",
+    "rawCode": "MED",
+    "timestamp": "2026-07-08T13:33:39.316325-04:00",
+    "address": "400 Block Windfield Place",
+    "extra": {
+      "incidentNumber": "36582",
+      "run_id": "36582",
+      "address": "400 Block Windfield Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36582"
+    }
   }
 ]
