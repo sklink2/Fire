@@ -1384,5 +1384,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-36534"
     }
+  },
+  {
+    "runNumber": "36533",
+    "rawCode": "MED",
+    "timestamp": "2026-07-08T10:03:14.683431-04:00",
+    "address": "800 Block Lane Allen Road",
+    "extra": {
+      "incidentNumber": "36533",
+      "run_id": "36533",
+      "address": "800 Block Lane Allen Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36533"
+    }
   }
 ]
