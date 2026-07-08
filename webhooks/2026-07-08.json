@@ -64,5 +64,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36474"
     }
+  },
+  {
+    "runNumber": "36473",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-08T00:24:20.527942-04:00",
+    "address": "330 Newtown Pike",
+    "extra": {
+      "incidentNumber": "36473",
+      "run_id": "36473",
+      "address": "330 Newtown Pike",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E10,L03,EC10,EC6,205",
+      "units": "E04,E10,L03,EC10,EC6,205",
+      "unitCount": "6",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-36473"
+    }
   }
 ]
