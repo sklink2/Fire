@@ -1318,5 +1318,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36530"
     }
+  },
+  {
+    "runNumber": "36529",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-08T09:17:37.911362-04:00",
+    "address": "618 Maple Avenue",
+    "extra": {
+      "incidentNumber": "36529",
+      "run_id": "36529",
+      "address": "618 Maple Avenue",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01",
+      "units": "L01",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36529"
+    }
   }
 ]
