@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36599"
     }
+  },
+  {
+    "runNumber": "36600",
+    "rawCode": "MED",
+    "timestamp": "2026-07-08T15:22:22.339921-04:00",
+    "address": "2600 Block Jacquelyn Lane",
+    "extra": {
+      "incidentNumber": "36600",
+      "run_id": "36600",
+      "address": "2600 Block Jacquelyn Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36600"
+    }
   }
 ]
