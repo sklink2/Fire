@@ -1296,5 +1296,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36531"
     }
+  },
+  {
+    "runNumber": "36530",
+    "rawCode": "MED",
+    "timestamp": "2026-07-08T09:17:34.869397-04:00",
+    "address": "2100 Block Ft Harrods Drive",
+    "extra": {
+      "incidentNumber": "36530",
+      "run_id": "36530",
+      "address": "2100 Block Ft Harrods Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36530"
+    }
   }
 ]
