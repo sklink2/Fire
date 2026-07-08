@@ -2814,5 +2814,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36600"
     }
+  },
+  {
+    "runNumber": "36602",
+    "rawCode": "MED",
+    "timestamp": "2026-07-08T15:25:52.959960-04:00",
+    "address": "Georgetown / Scott Co Line",
+    "extra": {
+      "incidentNumber": "36602",
+      "run_id": "36602",
+      "address": "Georgetown / Scott Co Line",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "CRT1",
+      "units": "CRT1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36602"
+    }
   }
 ]
