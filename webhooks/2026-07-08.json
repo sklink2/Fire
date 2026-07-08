@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36548"
     }
+  },
+  {
+    "runNumber": "36550",
+    "rawCode": "MED",
+    "timestamp": "2026-07-08T11:16:52.066120-04:00",
+    "address": "400 Block E Fourth Street",
+    "extra": {
+      "incidentNumber": "36550",
+      "run_id": "36550",
+      "address": "400 Block E Fourth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "CRT1",
+      "units": "CRT1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36550"
+    }
   }
 ]
