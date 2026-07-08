@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36608"
     }
+  },
+  {
+    "runNumber": "36610",
+    "rawCode": "MED",
+    "timestamp": "2026-07-08T16:11:29.436940-04:00",
+    "address": "700 Block Howard Street",
+    "extra": {
+      "incidentNumber": "36610",
+      "run_id": "36610",
+      "address": "700 Block Howard Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC3",
+      "units": "E10,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36610"
+    }
   }
 ]
