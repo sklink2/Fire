@@ -3430,5 +3430,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36628"
     }
+  },
+  {
+    "runNumber": "36629",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-08T17:56:45.853092-04:00",
+    "address": "Sandersville Road & Georgetown R",
+    "extra": {
+      "incidentNumber": "36629",
+      "run_id": "36629",
+      "address": "Sandersville Road & Georgetown R",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC6,EC7,203,241",
+      "units": "E10,EC6,EC7,203,241",
+      "unitCount": "5",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-36629"
+    }
   }
 ]
