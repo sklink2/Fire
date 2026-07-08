@@ -2462,5 +2462,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-36584"
     }
+  },
+  {
+    "runNumber": "36583",
+    "rawCode": "MED",
+    "timestamp": "2026-07-08T13:37:14.192879-04:00",
+    "address": "4100 Block Tates Creek Centre Drive",
+    "extra": {
+      "incidentNumber": "36583",
+      "run_id": "36583",
+      "address": "4100 Block Tates Creek Centre Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC5,CRT1",
+      "units": "EC5,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36583"
+    }
   }
 ]
