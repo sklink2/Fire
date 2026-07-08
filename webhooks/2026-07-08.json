@@ -3452,5 +3452,27 @@
       "commandUnits": "241,203",
       "dedupeKey": "INCIDENT-36629"
     }
+  },
+  {
+    "runNumber": "36632",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-08T18:00:14.167401-04:00",
+    "address": "1306 Versailles Road",
+    "extra": {
+      "incidentNumber": "36632",
+      "run_id": "36632",
+      "address": "1306 Versailles Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E13,L01,204",
+      "units": "E04,E13,L01,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-36632"
+    }
   }
 ]
