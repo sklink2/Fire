@@ -3650,5 +3650,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36638"
     }
+  },
+  {
+    "runNumber": "36639",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-07-08T18:52:53.697765-04:00",
+    "address": "Man O War Boulevard & Parkers Mill",
+    "extra": {
+      "incidentNumber": "36639",
+      "run_id": "36639",
+      "address": "Man O War Boulevard & Parkers Mill",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,E20,L04,EC12,EC5,203,241,RS1",
+      "units": "E14,E20,L04,EC12,EC5,203,241,RS1",
+      "unitCount": "8",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-36639"
+    }
   }
 ]
