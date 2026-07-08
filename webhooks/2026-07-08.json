@@ -922,5 +922,27 @@
       "commandUnits": "220,204",
       "dedupeKey": "INCIDENT-36512"
     }
+  },
+  {
+    "runNumber": "36513",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-07-08T07:35:47.747053-04:00",
+    "address": "1165 Monarch Street",
+    "extra": {
+      "incidentNumber": "36513",
+      "run_id": "36513",
+      "address": "1165 Monarch Street",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11",
+      "units": "E11",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36513"
+    }
   }
 ]
