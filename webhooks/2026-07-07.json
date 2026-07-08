@@ -4244,5 +4244,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36462"
     }
+  },
+  {
+    "runNumber": "36463",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-07T22:28:30.957773-04:00",
+    "address": "1274 Village Drive",
+    "extra": {
+      "incidentNumber": "36463",
+      "run_id": "36463",
+      "address": "1274 Village Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,E13,L04,204",
+      "units": "E11,E13,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-36463"
+    }
   }
 ]
