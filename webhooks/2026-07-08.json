@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36576"
     }
+  },
+  {
+    "runNumber": "36575",
+    "rawCode": "MED",
+    "timestamp": "2026-07-08T13:16:09.948859-04:00",
+    "address": "2500 Block Millbrook Drive",
+    "extra": {
+      "incidentNumber": "36575",
+      "run_id": "36575",
+      "address": "2500 Block Millbrook Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,EC9",
+      "units": "E12,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36575"
+    }
   }
 ]
