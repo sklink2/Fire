@@ -4200,5 +4200,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36461"
     }
+  },
+  {
+    "runNumber": "36460",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-07T22:14:32.069858-04:00",
+    "address": "3801 Brier East Road",
+    "extra": {
+      "incidentNumber": "36460",
+      "run_id": "36460",
+      "address": "3801 Brier East Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E17,L05,201",
+      "units": "E02,E17,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-36460"
+    }
   }
 ]
