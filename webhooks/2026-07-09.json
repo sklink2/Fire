@@ -2814,5 +2814,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36807"
     }
+  },
+  {
+    "runNumber": "36806",
+    "rawCode": "MED",
+    "timestamp": "2026-07-09T14:03:42.254991-04:00",
+    "address": "500 Block Greenfield Drive",
+    "extra": {
+      "incidentNumber": "36806",
+      "run_id": "36806",
+      "address": "500 Block Greenfield Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L07,EC2",
+      "units": "L07,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36806"
+    }
   }
 ]
