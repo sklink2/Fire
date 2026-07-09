@@ -2594,5 +2594,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36795"
     }
+  },
+  {
+    "runNumber": "36800",
+    "rawCode": "MED",
+    "timestamp": "2026-07-09T13:25:04.607313-04:00",
+    "address": "1500 Block College Way",
+    "extra": {
+      "incidentNumber": "36800",
+      "run_id": "36800",
+      "address": "1500 Block College Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36800"
+    }
   }
 ]
