@@ -1340,5 +1340,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-36741"
     }
+  },
+  {
+    "runNumber": "36742",
+    "rawCode": "MED",
+    "timestamp": "2026-07-09T09:08:57.383876-04:00",
+    "address": "1100 Block Ashford Lane",
+    "extra": {
+      "incidentNumber": "36742",
+      "run_id": "36742",
+      "address": "1100 Block Ashford Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E22",
+      "units": "E22",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36742"
+    }
   }
 ]
