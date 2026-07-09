@@ -3826,5 +3826,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36854"
     }
+  },
+  {
+    "runNumber": "36853",
+    "rawCode": "MED",
+    "timestamp": "2026-07-09T18:12:55.330054-04:00",
+    "address": "1700 Block Alexandria Drive",
+    "extra": {
+      "incidentNumber": "36853",
+      "run_id": "36853",
+      "address": "1700 Block Alexandria Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E14,EC5,EC7",
+      "units": "E11,E14,EC5,EC7",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36853"
+    }
   }
 ]
