@@ -1758,5 +1758,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36758"
     }
+  },
+  {
+    "runNumber": "36760",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-09T10:47:15.073055-04:00",
+    "address": "Nicholasville Road & W Tiverton",
+    "extra": {
+      "incidentNumber": "36760",
+      "run_id": "36760",
+      "address": "Nicholasville Road & W Tiverton",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC2,241",
+      "units": "E15,EC2,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-36760"
+    }
   }
 ]
