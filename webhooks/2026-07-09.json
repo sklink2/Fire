@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36753"
     }
+  },
+  {
+    "runNumber": "36754",
+    "rawCode": "MED",
+    "timestamp": "2026-07-09T10:15:38.166913-04:00",
+    "address": "500 Block Southpoint Drive",
+    "extra": {
+      "incidentNumber": "36754",
+      "run_id": "36754",
+      "address": "500 Block Southpoint Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L07,EC12",
+      "units": "L07,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36754"
+    }
   }
 ]
