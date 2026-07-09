@@ -1230,5 +1230,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-36736"
     }
+  },
+  {
+    "runNumber": "36738",
+    "rawCode": "MED",
+    "timestamp": "2026-07-09T08:37:23.899781-04:00",
+    "address": "200 Block Locust Farm Road",
+    "extra": {
+      "incidentNumber": "36738",
+      "run_id": "36738",
+      "address": "200 Block Locust Farm Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36738"
+    }
   }
 ]
