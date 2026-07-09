@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36723"
     }
+  },
+  {
+    "runNumber": "36724",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-09T07:16:46.216788-04:00",
+    "address": "171 W Lowry Lane",
+    "extra": {
+      "incidentNumber": "36724",
+      "run_id": "36724",
+      "address": "171 W Lowry Lane",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,E20,L04,EC9,204,220",
+      "units": "E12,E20,L04,EC9,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-36724"
+    }
   }
 ]
