@@ -1296,5 +1296,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36739"
     }
+  },
+  {
+    "runNumber": "36740",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-09T08:58:27.053799-04:00",
+    "address": "251 W Loudon Avenue",
+    "extra": {
+      "incidentNumber": "36740",
+      "run_id": "36740",
+      "address": "251 W Loudon Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E13,L03,205",
+      "units": "E08,E13,L03,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-36740"
+    }
   }
 ]
