@@ -1582,5 +1582,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-36751"
     }
+  },
+  {
+    "runNumber": "36752",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-09T10:05:05.315916-04:00",
+    "address": "E New Circle Road & E New Circle",
+    "extra": {
+      "incidentNumber": "36752",
+      "run_id": "36752",
+      "address": "E New Circle Road & E New Circle",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36752"
+    }
   }
 ]
