@@ -240,5 +240,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36691"
     }
+  },
+  {
+    "runNumber": "36692",
+    "rawCode": "MED",
+    "timestamp": "2026-07-09T02:00:53.884000-04:00",
+    "address": "1300 Block Devonport Drive",
+    "extra": {
+      "incidentNumber": "36692",
+      "run_id": "36692",
+      "address": "1300 Block Devonport Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36692"
+    }
   }
 ]
