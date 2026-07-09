@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36701"
     }
+  },
+  {
+    "runNumber": "36702",
+    "rawCode": "FBERTR",
+    "timestamp": "2026-07-09T04:14:14.835904-04:00",
+    "address": "Winchester / Clark Co Line",
+    "extra": {
+      "incidentNumber": "36702",
+      "run_id": "36702",
+      "address": "Winchester / Clark Co Line",
+      "rawType": "FBERTR",
+      "typeCode": "FBERTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,L05,201",
+      "units": "E21,L05,201",
+      "unitCount": "3",
+      "primaryTopic": "FBERTR",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-36702"
+    }
   }
 ]
