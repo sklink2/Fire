@@ -1208,5 +1208,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36735"
     }
+  },
+  {
+    "runNumber": "36736",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-09T08:33:55.056692-04:00",
+    "address": "556 Rosemont Garden",
+    "extra": {
+      "incidentNumber": "36736",
+      "run_id": "36736",
+      "address": "556 Rosemont Garden",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E12,L02,204",
+      "units": "E11,E12,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-36736"
+    }
   }
 ]
