@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36715"
     }
+  },
+  {
+    "runNumber": "36716",
+    "rawCode": "MED",
+    "timestamp": "2026-07-09T06:06:33.236518-04:00",
+    "address": "2100 Block Carolina Lane",
+    "extra": {
+      "incidentNumber": "36716",
+      "run_id": "36716",
+      "address": "2100 Block Carolina Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36716"
+    }
   }
 ]
