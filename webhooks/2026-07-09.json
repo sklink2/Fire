@@ -2902,5 +2902,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36810"
     }
+  },
+  {
+    "runNumber": "36812",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-09T14:31:43.659242-04:00",
+    "address": "1555 E New Circle Road",
+    "extra": {
+      "incidentNumber": "36812",
+      "run_id": "36812",
+      "address": "1555 E New Circle Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E09,L06,202",
+      "units": "E02,E09,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-36812"
+    }
   }
 ]
