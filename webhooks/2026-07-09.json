@@ -3782,5 +3782,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-36850"
     }
+  },
+  {
+    "runNumber": "36851",
+    "rawCode": "MED",
+    "timestamp": "2026-07-09T18:05:45.746621-04:00",
+    "address": "1800 Block Alexandria Drive",
+    "extra": {
+      "incidentNumber": "36851",
+      "run_id": "36851",
+      "address": "1800 Block Alexandria Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36851"
+    }
   }
 ]
