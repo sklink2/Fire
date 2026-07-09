@@ -4200,5 +4200,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36869"
     }
+  },
+  {
+    "runNumber": "36872",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-09T19:22:55.668183-04:00",
+    "address": "247 Glendover Road",
+    "extra": {
+      "incidentNumber": "36872",
+      "run_id": "36872",
+      "address": "247 Glendover Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E12,L02,204",
+      "units": "E06,E12,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-36872"
+    }
   }
 ]
