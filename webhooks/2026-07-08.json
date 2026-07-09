@@ -4200,5 +4200,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36664"
     }
+  },
+  {
+    "runNumber": "36665",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-08T22:05:48.481614-04:00",
+    "address": "3711 Combs Ferry Road",
+    "extra": {
+      "incidentNumber": "36665",
+      "run_id": "36665",
+      "address": "3711 Combs Ferry Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,E23,L05,201",
+      "units": "E17,E23,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-36665"
+    }
   }
 ]
