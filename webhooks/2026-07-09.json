@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36797"
     }
+  },
+  {
+    "runNumber": "36802",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-09T13:32:04.657279-04:00",
+    "address": "704 Spring Meadows Drive",
+    "extra": {
+      "incidentNumber": "36802",
+      "run_id": "36802",
+      "address": "704 Spring Meadows Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E12,L04,204",
+      "units": "E11,E12,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-36802"
+    }
   }
 ]
