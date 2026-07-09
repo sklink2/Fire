@@ -2924,5 +2924,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-36812"
     }
+  },
+  {
+    "runNumber": "36811",
+    "rawCode": "MED",
+    "timestamp": "2026-07-09T14:31:47.563233-04:00",
+    "address": "300 Block Chestnut Street",
+    "extra": {
+      "incidentNumber": "36811",
+      "run_id": "36811",
+      "address": "300 Block Chestnut Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC11",
+      "units": "E01,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36811"
+    }
   }
 ]
