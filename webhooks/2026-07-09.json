@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36809"
     }
+  },
+  {
+    "runNumber": "36810",
+    "rawCode": "MED",
+    "timestamp": "2026-07-09T14:21:11.731840-04:00",
+    "address": "3400 Block Wallingford Drive",
+    "extra": {
+      "incidentNumber": "36810",
+      "run_id": "36810",
+      "address": "3400 Block Wallingford Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC12,CRT1",
+      "units": "E20,EC12,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36810"
+    }
   }
 ]
