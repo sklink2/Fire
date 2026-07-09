@@ -2748,5 +2748,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36803"
     }
+  },
+  {
+    "runNumber": "36804",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-09T13:53:08.853969-04:00",
+    "address": "1450 N Broadway",
+    "extra": {
+      "incidentNumber": "36804",
+      "run_id": "36804",
+      "address": "1450 N Broadway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E10,L05,201",
+      "units": "E08,E10,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-36804"
+    }
   }
 ]
