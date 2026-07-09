@@ -1560,5 +1560,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36749"
     }
+  },
+  {
+    "runNumber": "36751",
+    "rawCode": "MED",
+    "timestamp": "2026-07-09T09:58:06.511903-04:00",
+    "address": "1000 Block Tempur Way",
+    "extra": {
+      "incidentNumber": "36751",
+      "run_id": "36751",
+      "address": "1000 Block Tempur Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC6,241",
+      "units": "E24,EC6,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-36751"
+    }
   }
 ]
