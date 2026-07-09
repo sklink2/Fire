@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36838"
     }
+  },
+  {
+    "runNumber": "36841",
+    "rawCode": "MED",
+    "timestamp": "2026-07-09T17:06:06.901733-04:00",
+    "address": "4000 Block Brookwater Court",
+    "extra": {
+      "incidentNumber": "36841",
+      "run_id": "36841",
+      "address": "4000 Block Brookwater Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E18,EC2",
+      "units": "E18,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36841"
+    }
   }
 ]
