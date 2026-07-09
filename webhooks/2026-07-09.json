@@ -3188,5 +3188,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36824"
     }
+  },
+  {
+    "runNumber": "36823",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-09T15:45:27.701352-04:00",
+    "address": "Versailles / Woodford Co Line",
+    "extra": {
+      "incidentNumber": "36823",
+      "run_id": "36823",
+      "address": "Versailles / Woodford Co Line",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "432,436",
+      "units": "432,436",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36823"
+    }
   }
 ]
