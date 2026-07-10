@@ -4442,5 +4442,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-36880"
     }
+  },
+  {
+    "runNumber": "36882",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-09T20:05:04.648374-04:00",
+    "address": "1317 Centre Parkway",
+    "extra": {
+      "incidentNumber": "36882",
+      "run_id": "36882",
+      "address": "1317 Centre Parkway",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E18,E22,L07,EC2,202,241",
+      "units": "E18,E22,L07,EC2,202,241",
+      "unitCount": "6",
+      "primaryTopic": "FSMO",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-36882"
+    }
   }
 ]
