@@ -1472,5 +1472,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-36986"
     }
+  },
+  {
+    "runNumber": "36987",
+    "rawCode": "MED",
+    "timestamp": "2026-07-10T11:59:14.723468-04:00",
+    "address": "2500 Block Old Rosebud Road",
+    "extra": {
+      "incidentNumber": "36987",
+      "run_id": "36987",
+      "address": "2500 Block Old Rosebud Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36987"
+    }
   }
 ]
