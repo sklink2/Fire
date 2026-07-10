@@ -416,5 +416,27 @@
       "commandUnits": "241,203",
       "dedupeKey": "INCIDENT-36933"
     }
+  },
+  {
+    "runNumber": "36936",
+    "rawCode": "MED",
+    "timestamp": "2026-07-10T06:18:56.330981-04:00",
+    "address": "800 Block Darley Drive",
+    "extra": {
+      "incidentNumber": "36936",
+      "run_id": "36936",
+      "address": "800 Block Darley Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36936"
+    }
   }
 ]
