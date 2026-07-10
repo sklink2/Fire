@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36998"
     }
+  },
+  {
+    "runNumber": "37000",
+    "rawCode": "MED",
+    "timestamp": "2026-07-10T12:51:52.705375-04:00",
+    "address": "800 Block Willow Oak Circle",
+    "extra": {
+      "incidentNumber": "37000",
+      "run_id": "37000",
+      "address": "800 Block Willow Oak Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L04,EC7",
+      "units": "L04,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37000"
+    }
   }
 ]
