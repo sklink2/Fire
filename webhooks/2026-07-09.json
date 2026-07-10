@@ -4508,5 +4508,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36884"
     }
+  },
+  {
+    "runNumber": "36885",
+    "rawCode": "FOTS",
+    "timestamp": "2026-07-09T20:29:35.940035-04:00",
+    "address": "1825 Liberty Road",
+    "extra": {
+      "incidentNumber": "36885",
+      "run_id": "36885",
+      "address": "1825 Liberty Road",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36885"
+    }
   }
 ]
