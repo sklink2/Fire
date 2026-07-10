@@ -3276,5 +3276,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37073"
     }
+  },
+  {
+    "runNumber": "37072",
+    "rawCode": "FELS",
+    "timestamp": "2026-07-10T19:21:21.325254-04:00",
+    "address": "3100 Tates Creek Road",
+    "extra": {
+      "incidentNumber": "37072",
+      "run_id": "37072",
+      "address": "3100 Tates Creek Road",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,L07,202",
+      "units": "E09,L07,202",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-37072"
+    }
   }
 ]
