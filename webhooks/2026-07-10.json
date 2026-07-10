@@ -2594,5 +2594,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37039"
     }
+  },
+  {
+    "runNumber": "37040",
+    "rawCode": "MED",
+    "timestamp": "2026-07-10T16:18:52.660337-04:00",
+    "address": "500 Block Chestnut Street",
+    "extra": {
+      "incidentNumber": "37040",
+      "run_id": "37040",
+      "address": "500 Block Chestnut Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC10",
+      "units": "E01,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37040"
+    }
   }
 ]
