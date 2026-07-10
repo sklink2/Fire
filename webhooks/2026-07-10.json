@@ -570,5 +570,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36941"
     }
+  },
+  {
+    "runNumber": "36942",
+    "rawCode": "MED",
+    "timestamp": "2026-07-10T07:18:35.384839-04:00",
+    "address": "500 Block Toner Street",
+    "extra": {
+      "incidentNumber": "36942",
+      "run_id": "36942",
+      "address": "500 Block Toner Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,EC1,CRT1",
+      "units": "E04,EC1,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36942"
+    }
   }
 ]
