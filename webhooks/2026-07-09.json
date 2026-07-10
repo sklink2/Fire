@@ -5168,5 +5168,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-36914"
     }
+  },
+  {
+    "runNumber": "36915",
+    "rawCode": "MED",
+    "timestamp": "2026-07-09T23:14:28.182983-04:00",
+    "address": "1400 Block Mt Rainier Drive",
+    "extra": {
+      "incidentNumber": "36915",
+      "run_id": "36915",
+      "address": "1400 Block Mt Rainier Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC2",
+      "units": "E16,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36915"
+    }
   }
 ]
