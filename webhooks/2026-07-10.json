@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36961"
     }
+  },
+  {
+    "runNumber": "36962",
+    "rawCode": "MED",
+    "timestamp": "2026-07-10T09:52:57.465610-04:00",
+    "address": "100 Block E Main Street",
+    "extra": {
+      "incidentNumber": "36962",
+      "run_id": "36962",
+      "address": "100 Block E Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1,CRT1",
+      "units": "EC1,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36962"
+    }
   }
 ]
