@@ -1494,5 +1494,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36987"
     }
+  },
+  {
+    "runNumber": "36989",
+    "rawCode": "MED",
+    "timestamp": "2026-07-10T12:09:49.416590-04:00",
+    "address": "300 Block Duke Road",
+    "extra": {
+      "incidentNumber": "36989",
+      "run_id": "36989",
+      "address": "300 Block Duke Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,EC4,CRT1",
+      "units": "E06,EC4,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36989"
+    }
   }
 ]
