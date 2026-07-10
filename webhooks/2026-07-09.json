@@ -4728,5 +4728,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36894"
     }
+  },
+  {
+    "runNumber": "36895",
+    "rawCode": "FFIA",
+    "timestamp": "2026-07-09T21:11:39.859474-04:00",
+    "address": "1604 Oak Hill Drive",
+    "extra": {
+      "incidentNumber": "36895",
+      "run_id": "36895",
+      "address": "1604 Oak Hill Drive",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E02,E08,L05,EC1,205",
+      "units": "E01,E02,E08,L05,EC1,205",
+      "unitCount": "6",
+      "primaryTopic": "FFIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-36895"
+    }
   }
 ]
