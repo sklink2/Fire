@@ -4398,5 +4398,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36878"
     }
+  },
+  {
+    "runNumber": "36881",
+    "rawCode": "FSIA",
+    "timestamp": "2026-07-09T20:01:32.486018-04:00",
+    "address": "Lisa Drive & Mimi Court",
+    "extra": {
+      "incidentNumber": "36881",
+      "run_id": "36881",
+      "address": "Lisa Drive & Mimi Court",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E19,205",
+      "units": "E08,E19,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-36881"
+    }
   }
 ]
