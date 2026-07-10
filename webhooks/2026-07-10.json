@@ -2198,5 +2198,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-37019"
     }
+  },
+  {
+    "runNumber": "37022",
+    "rawCode": "FDET",
+    "timestamp": "2026-07-10T14:19:35.936854-04:00",
+    "address": "219 E Third Street",
+    "extra": {
+      "incidentNumber": "37022",
+      "run_id": "37022",
+      "address": "219 E Third Street",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "231",
+      "units": "231",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37022"
+    }
   }
 ]
