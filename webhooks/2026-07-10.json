@@ -2264,5 +2264,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-37024"
     }
+  },
+  {
+    "runNumber": "37026",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-10T14:54:40.642375-04:00",
+    "address": "607 Halifax Drive",
+    "extra": {
+      "incidentNumber": "37026",
+      "run_id": "37026",
+      "address": "607 Halifax Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15",
+      "units": "E15",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37026"
+    }
   }
 ]
