@@ -856,5 +856,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36957"
     }
+  },
+  {
+    "runNumber": "36959",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-10T09:28:24.615023-04:00",
+    "address": "3904 Castlebridge Lane",
+    "extra": {
+      "incidentNumber": "36959",
+      "run_id": "36959",
+      "address": "3904 Castlebridge Lane",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21",
+      "units": "E21",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36959"
+    }
   }
 ]
