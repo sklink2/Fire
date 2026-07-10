@@ -1758,5 +1758,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37000"
     }
+  },
+  {
+    "runNumber": "37002",
+    "rawCode": "FMEA",
+    "timestamp": "2026-07-10T12:55:23.615094-04:00",
+    "address": "457 Lenney Drive",
+    "extra": {
+      "incidentNumber": "37002",
+      "run_id": "37002",
+      "address": "457 Lenney Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L07",
+      "units": "L07",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37002"
+    }
   }
 ]
