@@ -4464,5 +4464,27 @@
       "commandUnits": "241,202",
       "dedupeKey": "INCIDENT-36882"
     }
+  },
+  {
+    "runNumber": "36883",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-09T20:12:03.195338-04:00",
+    "address": "1101 Centre Parkway",
+    "extra": {
+      "incidentNumber": "36883",
+      "run_id": "36883",
+      "address": "1101 Centre Parkway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,E18,L04,202",
+      "units": "E15,E18,L04,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-36883"
+    }
   }
 ]
