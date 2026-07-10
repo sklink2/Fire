@@ -4772,5 +4772,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36898"
     }
+  },
+  {
+    "runNumber": "36897",
+    "rawCode": "MED",
+    "timestamp": "2026-07-09T21:15:15.015763-04:00",
+    "address": "7400 Block Athens Boonesboro Road",
+    "extra": {
+      "incidentNumber": "36897",
+      "run_id": "36897",
+      "address": "7400 Block Athens Boonesboro Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E18,EC11,241",
+      "units": "E18,EC11,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-36897"
+    }
   }
 ]
