@@ -4640,5 +4640,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36888"
     }
+  },
+  {
+    "runNumber": "36891",
+    "rawCode": "MED",
+    "timestamp": "2026-07-09T20:43:35.545615-04:00",
+    "address": "100 Block Street Ann Drive",
+    "extra": {
+      "incidentNumber": "36891",
+      "run_id": "36891",
+      "address": "100 Block Street Ann Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36891"
+    }
   }
 ]
