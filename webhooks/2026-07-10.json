@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36946"
     }
+  },
+  {
+    "runNumber": "36945",
+    "rawCode": "MED",
+    "timestamp": "2026-07-10T08:00:52.496827-04:00",
+    "address": "1000 Block Valley Farm Drive",
+    "extra": {
+      "incidentNumber": "36945",
+      "run_id": "36945",
+      "address": "1000 Block Valley Farm Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E19,EC6,201,241,CRT1",
+      "units": "E19,EC6,201,241,CRT1",
+      "unitCount": "5",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-36945"
+    }
   }
 ]
