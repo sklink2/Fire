@@ -4486,5 +4486,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-36883"
     }
+  },
+  {
+    "runNumber": "36884",
+    "rawCode": "MED",
+    "timestamp": "2026-07-09T20:19:03.208896-04:00",
+    "address": "1000 Block S Broadway",
+    "extra": {
+      "incidentNumber": "36884",
+      "run_id": "36884",
+      "address": "1000 Block S Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-36884"
+    }
   }
 ]
