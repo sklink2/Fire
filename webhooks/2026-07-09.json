@@ -5146,5 +5146,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-36912"
     }
+  },
+  {
+    "runNumber": "36914",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-09T23:10:58.290405-04:00",
+    "address": "105 Burley Avenue",
+    "extra": {
+      "incidentNumber": "36914",
+      "run_id": "36914",
+      "address": "105 Burley Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E11,L02,204",
+      "units": "E06,E11,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-36914"
+    }
   }
 ]
