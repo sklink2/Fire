@@ -2484,5 +2484,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37035"
     }
+  },
+  {
+    "runNumber": "37034",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-10T16:01:25.637217-04:00",
+    "address": "2420 Woodhill Drive",
+    "extra": {
+      "incidentNumber": "37034",
+      "run_id": "37034",
+      "address": "2420 Woodhill Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2,202,241",
+      "units": "E09,EC2,202,241",
+      "unitCount": "4",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-37034"
+    }
   }
 ]
