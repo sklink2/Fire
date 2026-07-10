@@ -1846,5 +1846,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37006"
     }
+  },
+  {
+    "runNumber": "37005",
+    "rawCode": "MED",
+    "timestamp": "2026-07-10T13:12:58.858420-04:00",
+    "address": "100 Block Barr Street",
+    "extra": {
+      "incidentNumber": "37005",
+      "run_id": "37005",
+      "address": "100 Block Barr Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37005"
+    }
   }
 ]
