@@ -4420,5 +4420,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-36881"
     }
+  },
+  {
+    "runNumber": "36880",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-09T20:01:36.880088-04:00",
+    "address": "1825 Liberty Road",
+    "extra": {
+      "incidentNumber": "36880",
+      "run_id": "36880",
+      "address": "1825 Liberty Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E02,L05,EC1,201",
+      "units": "E01,E02,L05,EC1,201",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-36880"
+    }
   }
 ]
