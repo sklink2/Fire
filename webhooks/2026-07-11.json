@@ -2264,5 +2264,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37207"
     }
+  },
+  {
+    "runNumber": "37208",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-11T13:32:26.495611-04:00",
+    "address": "3910 Cigar Lane",
+    "extra": {
+      "incidentNumber": "37208",
+      "run_id": "37208",
+      "address": "3910 Cigar Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E19,E24,L03,205",
+      "units": "E19,E24,L03,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-37208"
+    }
   }
 ]
