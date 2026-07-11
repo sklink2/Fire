@@ -2660,5 +2660,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37225"
     }
+  },
+  {
+    "runNumber": "37226",
+    "rawCode": "MED",
+    "timestamp": "2026-07-11T15:03:38.500398-04:00",
+    "address": "4000 Block Iron Works Parkway",
+    "extra": {
+      "incidentNumber": "37226",
+      "run_id": "37226",
+      "address": "4000 Block Iron Works Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E19,EC6",
+      "units": "E19,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37226"
+    }
   }
 ]
