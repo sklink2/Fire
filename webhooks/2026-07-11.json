@@ -3672,5 +3672,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37273"
     }
+  },
+  {
+    "runNumber": "37274",
+    "rawCode": "MED",
+    "timestamp": "2026-07-11T19:16:14.175697-04:00",
+    "address": "3600 Block Sundart Drive",
+    "extra": {
+      "incidentNumber": "37274",
+      "run_id": "37274",
+      "address": "3600 Block Sundart Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37274"
+    }
   }
 ]
