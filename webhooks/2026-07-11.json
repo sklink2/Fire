@@ -3056,5 +3056,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37244"
     }
+  },
+  {
+    "runNumber": "37245",
+    "rawCode": "FELS",
+    "timestamp": "2026-07-11T16:31:20.037676-04:00",
+    "address": "1953 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "37245",
+      "run_id": "37245",
+      "address": "1953 Nicholasville Road",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,L02,204",
+      "units": "E12,L02,204",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-37245"
+    }
   }
 ]
