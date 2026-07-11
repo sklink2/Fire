@@ -3452,5 +3452,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-37261"
     }
+  },
+  {
+    "runNumber": "37264",
+    "rawCode": "MED",
+    "timestamp": "2026-07-11T18:09:34.161267-04:00",
+    "address": "Centre Parkway & Canonero Drive",
+    "extra": {
+      "incidentNumber": "37264",
+      "run_id": "37264",
+      "address": "Centre Parkway & Canonero Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC13,CRT1",
+      "units": "EC13,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37264"
+    }
   }
 ]
