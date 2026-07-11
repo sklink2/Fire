@@ -1032,5 +1032,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37150"
     }
+  },
+  {
+    "runNumber": "37152",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-11T05:52:48.772011-04:00",
+    "address": "W High Street & S Broadway",
+    "extra": {
+      "incidentNumber": "37152",
+      "run_id": "37152",
+      "address": "W High Street & S Broadway",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC7,RS1",
+      "units": "EC7,RS1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37152"
+    }
   }
 ]
