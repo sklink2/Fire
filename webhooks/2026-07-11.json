@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37167"
     }
+  },
+  {
+    "runNumber": "37168",
+    "rawCode": "FSTR",
+    "timestamp": "2026-07-11T08:06:10.334236-04:00",
+    "address": "2504 Larkin Road",
+    "extra": {
+      "incidentNumber": "37168",
+      "run_id": "37168",
+      "address": "2504 Larkin Road",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E12,E15,E20,L04,L07,EC9,202,204,220,241,RS1",
+      "units": "E07,E12,E15,E20,L04,L07,EC9,202,204,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,202,204",
+      "dedupeKey": "INCIDENT-37168"
+    }
   }
 ]
