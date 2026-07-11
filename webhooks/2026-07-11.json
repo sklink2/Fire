@@ -1472,5 +1472,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37170"
     }
+  },
+  {
+    "runNumber": "37172",
+    "rawCode": "MED",
+    "timestamp": "2026-07-11T08:41:11.792074-04:00",
+    "address": "400 Block Ohio Street",
+    "extra": {
+      "incidentNumber": "37172",
+      "run_id": "37172",
+      "address": "400 Block Ohio Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37172"
+    }
   }
 ]
