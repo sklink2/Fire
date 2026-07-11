@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37193"
     }
+  },
+  {
+    "runNumber": "37194",
+    "rawCode": "FFIA",
+    "timestamp": "2026-07-11T11:19:05.179158-04:00",
+    "address": "2181 Cypress Drive",
+    "extra": {
+      "incidentNumber": "37194",
+      "run_id": "37194",
+      "address": "2181 Cypress Drive",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E20,L04,EC12,204",
+      "units": "E11,E20,L04,EC12,204",
+      "unitCount": "5",
+      "primaryTopic": "FFIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-37194"
+    }
   }
 ]
