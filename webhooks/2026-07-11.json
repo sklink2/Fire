@@ -416,5 +416,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37123"
     }
+  },
+  {
+    "runNumber": "37125",
+    "rawCode": "FELF",
+    "timestamp": "2026-07-11T01:57:45.230712-04:00",
+    "address": "231 Osage Court",
+    "extra": {
+      "incidentNumber": "37125",
+      "run_id": "37125",
+      "address": "231 Osage Court",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E21,L06,EC2,202",
+      "units": "E09,E21,L06,EC2,202",
+      "unitCount": "5",
+      "primaryTopic": "FELF",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-37125"
+    }
   }
 ]
