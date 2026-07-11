@@ -3298,5 +3298,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37255"
     }
+  },
+  {
+    "runNumber": "37256",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-11T17:48:32.287896-04:00",
+    "address": "National Avenue & Walton Avenue",
+    "extra": {
+      "incidentNumber": "37256",
+      "run_id": "37256",
+      "address": "National Avenue & Walton Avenue",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC1,241",
+      "units": "E01,EC1,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-37256"
+    }
   }
 ]
