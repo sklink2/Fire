@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37135"
     }
+  },
+  {
+    "runNumber": "37136",
+    "rawCode": "MED",
+    "timestamp": "2026-07-11T03:35:56.620264-04:00",
+    "address": "200 Block Vanderbilt Drive",
+    "extra": {
+      "incidentNumber": "37136",
+      "run_id": "37136",
+      "address": "200 Block Vanderbilt Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37136"
+    }
   }
 ]
