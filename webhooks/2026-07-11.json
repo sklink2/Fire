@@ -3166,5 +3166,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37250"
     }
+  },
+  {
+    "runNumber": "37249",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-11T17:24:00.533311-04:00",
+    "address": "3121 Prichard Drive",
+    "extra": {
+      "incidentNumber": "37249",
+      "run_id": "37249",
+      "address": "3121 Prichard Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "220",
+      "units": "220",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-37249"
+    }
   }
 ]
