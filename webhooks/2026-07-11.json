@@ -3584,5 +3584,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37268"
     }
+  },
+  {
+    "runNumber": "37270",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-11T18:41:09.453128-04:00",
+    "address": "201 Kelburn Court",
+    "extra": {
+      "incidentNumber": "37270",
+      "run_id": "37270",
+      "address": "201 Kelburn Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E21,L06,202",
+      "units": "E09,E21,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-37270"
+    }
   }
 ]
