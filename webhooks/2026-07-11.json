@@ -2902,5 +2902,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37235"
     }
+  },
+  {
+    "runNumber": "37237",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-11T15:52:46.832429-04:00",
+    "address": "2021 Dorset Drive",
+    "extra": {
+      "incidentNumber": "37237",
+      "run_id": "37237",
+      "address": "2021 Dorset Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E14,L04,EC7,204,220",
+      "units": "E06,E14,L04,EC7,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-37237"
+    }
   }
 ]
