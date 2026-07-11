@@ -2176,5 +2176,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37201"
     }
+  },
+  {
+    "runNumber": "37204",
+    "rawCode": "MED",
+    "timestamp": "2026-07-11T12:57:19.323307-04:00",
+    "address": "2000 Block Twain Ridge Drive",
+    "extra": {
+      "incidentNumber": "37204",
+      "run_id": "37204",
+      "address": "2000 Block Twain Ridge Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37204"
+    }
   }
 ]
