@@ -3694,5 +3694,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37093"
     }
+  },
+  {
+    "runNumber": "37092",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-10T21:59:15.024695-04:00",
+    "address": "551 W Sixth Street",
+    "extra": {
+      "incidentNumber": "37092",
+      "run_id": "37092",
+      "address": "551 W Sixth Street",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E04,L01,EC1,205",
+      "units": "E01,E04,L01,EC1,205",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-37092"
+    }
   }
 ]
