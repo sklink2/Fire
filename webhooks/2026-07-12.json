@@ -2990,5 +2990,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-37446"
     }
+  },
+  {
+    "runNumber": "37447",
+    "rawCode": "MED",
+    "timestamp": "2026-07-12T17:53:41.076036-04:00",
+    "address": "300 Block Ohio Street",
+    "extra": {
+      "incidentNumber": "37447",
+      "run_id": "37447",
+      "address": "300 Block Ohio Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37447"
+    }
   }
 ]
