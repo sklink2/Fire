@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37420"
     }
+  },
+  {
+    "runNumber": "37423",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-07-12T15:29:56.133471-04:00",
+    "address": "W New Circle Road & W New Circle",
+    "extra": {
+      "incidentNumber": "37423",
+      "run_id": "37423",
+      "address": "W New Circle Road & W New Circle",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,L04,EC9,204,241,RS1",
+      "units": "E20,L04,EC9,204,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,204",
+      "dedupeKey": "INCIDENT-37423"
+    }
   }
 ]
