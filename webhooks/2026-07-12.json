@@ -372,5 +372,27 @@
       "commandUnits": "241,201",
       "dedupeKey": "INCIDENT-37325"
     }
+  },
+  {
+    "runNumber": "37326",
+    "rawCode": "FDUM",
+    "timestamp": "2026-07-12T03:02:43.379621-04:00",
+    "address": "2032 Daniel Court",
+    "extra": {
+      "incidentNumber": "37326",
+      "run_id": "37326",
+      "address": "2032 Daniel Court",
+      "rawType": "FDUM",
+      "typeCode": "FDUM",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14",
+      "units": "E14",
+      "unitCount": "1",
+      "primaryTopic": "FDUM",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37326"
+    }
   }
 ]
