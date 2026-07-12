@@ -834,5 +834,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37347"
     }
+  },
+  {
+    "runNumber": "37348",
+    "rawCode": "FELF",
+    "timestamp": "2026-07-12T07:43:22.110822-04:00",
+    "address": "399 S Eagle Creek Drive",
+    "extra": {
+      "incidentNumber": "37348",
+      "run_id": "37348",
+      "address": "399 S Eagle Creek Drive",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E16,L06,EC2,202",
+      "units": "E09,E16,L06,EC2,202",
+      "unitCount": "5",
+      "primaryTopic": "FELF",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-37348"
+    }
   }
 ]
