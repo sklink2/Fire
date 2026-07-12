@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37324"
     }
+  },
+  {
+    "runNumber": "37325",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-07-12T02:55:45.308021-04:00",
+    "address": "75 Nb / 99.0 Mm (Old Richmond",
+    "extra": {
+      "incidentNumber": "37325",
+      "run_id": "37325",
+      "address": "75 Nb / 99.0 Mm (Old Richmond",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E18,L06,EC11,201,241,RS1",
+      "units": "E18,L06,EC11,201,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-37325"
+    }
   }
 ]
