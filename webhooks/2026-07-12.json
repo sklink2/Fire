@@ -636,5 +636,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37337"
     }
+  },
+  {
+    "runNumber": "37338",
+    "rawCode": "MED",
+    "timestamp": "2026-07-12T05:08:59.675675-04:00",
+    "address": "4800 Block Faulkirk Lane",
+    "extra": {
+      "incidentNumber": "37338",
+      "run_id": "37338",
+      "address": "4800 Block Faulkirk Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37338"
+    }
   }
 ]
