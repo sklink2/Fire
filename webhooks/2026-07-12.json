@@ -2308,5 +2308,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37413"
     }
+  },
+  {
+    "runNumber": "37415",
+    "rawCode": "MED",
+    "timestamp": "2026-07-12T14:58:17.703824-04:00",
+    "address": "E Fifth Street & Nelson Avenue",
+    "extra": {
+      "incidentNumber": "37415",
+      "run_id": "37415",
+      "address": "E Fifth Street & Nelson Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37415"
+    }
   }
 ]
