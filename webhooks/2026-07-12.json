@@ -2814,5 +2814,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37438"
     }
+  },
+  {
+    "runNumber": "37437",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-12T16:36:34.583788-04:00",
+    "address": "765 Halford Place",
+    "extra": {
+      "incidentNumber": "37437",
+      "run_id": "37437",
+      "address": "765 Halford Place",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,E24,L03,203",
+      "units": "E10,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-37437"
+    }
   }
 ]
