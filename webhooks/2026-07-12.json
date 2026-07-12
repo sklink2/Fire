@@ -2704,5 +2704,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37434"
     }
+  },
+  {
+    "runNumber": "37433",
+    "rawCode": "MED",
+    "timestamp": "2026-07-12T15:54:29.641392-04:00",
+    "address": "600 Block Greenleaf Court",
+    "extra": {
+      "incidentNumber": "37433",
+      "run_id": "37433",
+      "address": "600 Block Greenleaf Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC20",
+      "units": "E02,EC20",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37433"
+    }
   }
 ]
