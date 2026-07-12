@@ -2088,5 +2088,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-37404"
     }
+  },
+  {
+    "runNumber": "37406",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-12T14:09:12.785306-04:00",
+    "address": "1650 Bryan Station Road",
+    "extra": {
+      "incidentNumber": "37406",
+      "run_id": "37406",
+      "address": "1650 Bryan Station Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC8,241",
+      "units": "E02,EC8,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-37406"
+    }
   }
 ]
