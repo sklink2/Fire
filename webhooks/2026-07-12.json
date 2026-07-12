@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37416"
     }
+  },
+  {
+    "runNumber": "37417",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-12T15:05:19.042231-04:00",
+    "address": "137 Locust Avenue",
+    "extra": {
+      "incidentNumber": "37417",
+      "run_id": "37417",
+      "address": "137 Locust Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E08,L05,205",
+      "units": "E02,E08,L05,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-37417"
+    }
   }
 ]
