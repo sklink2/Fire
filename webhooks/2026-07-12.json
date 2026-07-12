@@ -1098,5 +1098,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37358"
     }
+  },
+  {
+    "runNumber": "37360",
+    "rawCode": "MED",
+    "timestamp": "2026-07-12T09:11:02.263487-04:00",
+    "address": "1800 Block Liberty Road",
+    "extra": {
+      "incidentNumber": "37360",
+      "run_id": "37360",
+      "address": "1800 Block Liberty Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37360"
+    }
   }
 ]
