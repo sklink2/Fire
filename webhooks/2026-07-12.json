@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37425"
     }
+  },
+  {
+    "runNumber": "37424",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-12T15:33:29.954765-04:00",
+    "address": "212 Catalpa Road",
+    "extra": {
+      "incidentNumber": "37424",
+      "run_id": "37424",
+      "address": "212 Catalpa Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,L02,EC7,205,220",
+      "units": "E05,E06,L02,EC7,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-37424"
+    }
   }
 ]
