@@ -2594,5 +2594,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-37427"
     }
+  },
+  {
+    "runNumber": "37431",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-12T15:50:57.929332-04:00",
+    "address": "115 Huguelet Drive",
+    "extra": {
+      "incidentNumber": "37431",
+      "run_id": "37431",
+      "address": "115 Huguelet Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E12,L02,203",
+      "units": "E11,E12,L02,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-37431"
+    }
   }
 ]
