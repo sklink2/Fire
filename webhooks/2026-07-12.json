@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37344"
     }
+  },
+  {
+    "runNumber": "37345",
+    "rawCode": "MED",
+    "timestamp": "2026-07-12T07:01:15.035889-04:00",
+    "address": "2200 Block Frankfort Court",
+    "extra": {
+      "incidentNumber": "37345",
+      "run_id": "37345",
+      "address": "2200 Block Frankfort Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,EC6",
+      "units": "E13,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37345"
+    }
   }
 ]
