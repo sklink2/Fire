@@ -2462,5 +2462,27 @@
       "commandUnits": "241,204",
       "dedupeKey": "INCIDENT-37423"
     }
+  },
+  {
+    "runNumber": "37422",
+    "rawCode": "MED",
+    "timestamp": "2026-07-12T15:30:00.762596-04:00",
+    "address": "100 Block E Tiverton Way",
+    "extra": {
+      "incidentNumber": "37422",
+      "run_id": "37422",
+      "address": "100 Block E Tiverton Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC12",
+      "units": "E15,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37422"
+    }
   }
 ]
