@@ -900,5 +900,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37350"
     }
+  },
+  {
+    "runNumber": "37351",
+    "rawCode": "FSTR",
+    "timestamp": "2026-07-12T08:07:58.545839-04:00",
+    "address": "730 Lane Allen Road",
+    "extra": {
+      "incidentNumber": "37351",
+      "run_id": "37351",
+      "address": "730 Lane Allen Road",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E12,E13,E20,L02,L04,EC12,204,205,220,241,RS1",
+      "units": "E11,E12,E13,E20,L02,L04,EC12,204,205,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,204,205",
+      "dedupeKey": "INCIDENT-37351"
+    }
   }
 ]
