@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37372"
     }
+  },
+  {
+    "runNumber": "37373",
+    "rawCode": "FLAR",
+    "timestamp": "2026-07-12T10:45:47.036484-04:00",
+    "address": "4089 Iron Works Parkway",
+    "extra": {
+      "incidentNumber": "37373",
+      "run_id": "37373",
+      "address": "4089 Iron Works Parkway",
+      "rawType": "FLAR",
+      "typeCode": "FLAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,E19,201,RS1",
+      "units": "E13,E19,201,RS1",
+      "unitCount": "4",
+      "primaryTopic": "FLAR",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-37373"
+    }
   }
 ]
