@@ -1472,5 +1472,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37376"
     }
+  },
+  {
+    "runNumber": "37377",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-07-12T11:10:22.037816-04:00",
+    "address": "3375 Briar Hill Road",
+    "extra": {
+      "incidentNumber": "37377",
+      "run_id": "37377",
+      "address": "3375 Briar Hill Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E17,L05,L06,EC6,201,241",
+      "units": "E17,L05,L06,EC6,201,241",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-37377"
+    }
   }
 ]
