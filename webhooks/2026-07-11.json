@@ -4024,5 +4024,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37291"
     }
+  },
+  {
+    "runNumber": "37290",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-11T21:22:32.035166-04:00",
+    "address": "137 Malabu Drive",
+    "extra": {
+      "incidentNumber": "37290",
+      "run_id": "37290",
+      "address": "137 Malabu Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,E15,L04,EC9,204",
+      "units": "E12,E15,L04,EC9,204",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-37290"
+    }
   }
 ]
