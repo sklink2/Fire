@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37370"
     }
+  },
+  {
+    "runNumber": "37371",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-12T10:35:14.679413-04:00",
+    "address": "100 Blue Sky Parkway",
+    "extra": {
+      "incidentNumber": "37371",
+      "run_id": "37371",
+      "address": "100 Blue Sky Parkway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E18,L06,202",
+      "units": "E09,E18,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-37371"
+    }
   }
 ]
