@@ -86,5 +86,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37313"
     }
+  },
+  {
+    "runNumber": "37312",
+    "rawCode": "MED",
+    "timestamp": "2026-07-12T00:59:59.110262-04:00",
+    "address": "2100 Block Street Teresa Drive",
+    "extra": {
+      "incidentNumber": "37312",
+      "run_id": "37312",
+      "address": "2100 Block Street Teresa Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37312"
+    }
   }
 ]
