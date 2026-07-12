@@ -2198,5 +2198,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37408"
     }
+  },
+  {
+    "runNumber": "37410",
+    "rawCode": "MED",
+    "timestamp": "2026-07-12T14:33:43.991525-04:00",
+    "address": "3800 Block Camelot Drive",
+    "extra": {
+      "incidentNumber": "37410",
+      "run_id": "37410",
+      "address": "3800 Block Camelot Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E22,EC9",
+      "units": "E22,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37410"
+    }
   }
 ]
