@@ -1802,5 +1802,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37391"
     }
+  },
+  {
+    "runNumber": "37392",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-12T12:52:01.819878-04:00",
+    "address": "2044 Georgian Way",
+    "extra": {
+      "incidentNumber": "37392",
+      "run_id": "37392",
+      "address": "2044 Georgian Way",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E20,L04,EC12,204",
+      "units": "E11,E20,L04,EC12,204",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-37392"
+    }
   }
 ]
