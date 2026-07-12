@@ -2572,5 +2572,27 @@
       "commandUnits": "220,205",
       "dedupeKey": "INCIDENT-37424"
     }
+  },
+  {
+    "runNumber": "37427",
+    "rawCode": "MED",
+    "timestamp": "2026-07-12T15:47:26.682697-04:00",
+    "address": "1200 Block Centre Parkway",
+    "extra": {
+      "incidentNumber": "37427",
+      "run_id": "37427",
+      "address": "1200 Block Centre Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,EC7,202",
+      "units": "E07,EC7,202",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-37427"
+    }
   }
 ]
