@@ -482,5 +482,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-37330"
     }
+  },
+  {
+    "runNumber": "37332",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-12T03:27:15.927502-04:00",
+    "address": "Virginia Avenue & S Limestone",
+    "extra": {
+      "incidentNumber": "37332",
+      "run_id": "37332",
+      "address": "Virginia Avenue & S Limestone",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC7,RS1",
+      "units": "EC7,RS1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37332"
+    }
   }
 ]
