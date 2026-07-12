@@ -2968,5 +2968,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37445"
     }
+  },
+  {
+    "runNumber": "37446",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-12T17:32:40.260981-04:00",
+    "address": "963 Forest Lake Drive",
+    "extra": {
+      "incidentNumber": "37446",
+      "run_id": "37446",
+      "address": "963 Forest Lake Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E22,L07,202",
+      "units": "E07,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-37446"
+    }
   }
 ]
