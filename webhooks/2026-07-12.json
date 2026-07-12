@@ -3188,5 +3188,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37454"
     }
+  },
+  {
+    "runNumber": "37456",
+    "rawCode": "MED",
+    "timestamp": "2026-07-12T18:32:17.467165-04:00",
+    "address": "900 Block Liberty Road",
+    "extra": {
+      "incidentNumber": "37456",
+      "run_id": "37456",
+      "address": "900 Block Liberty Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC13",
+      "units": "EC13",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37456"
+    }
   }
 ]
