@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37472"
     }
+  },
+  {
+    "runNumber": "37471",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-12T19:53:00.894310-04:00",
+    "address": "9079 Old Richmond Road",
+    "extra": {
+      "incidentNumber": "37471",
+      "run_id": "37471",
+      "address": "9079 Old Richmond Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E18,L06,EC11,241",
+      "units": "E18,L06,EC11,241",
+      "unitCount": "4",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-37471"
+    }
   }
 ]
