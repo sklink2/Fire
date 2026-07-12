@@ -1714,5 +1714,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37387"
     }
+  },
+  {
+    "runNumber": "37388",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-12T12:34:29.229238-04:00",
+    "address": "760 Press Avenue",
+    "extra": {
+      "incidentNumber": "37388",
+      "run_id": "37388",
+      "address": "760 Press Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,E12,L02,204",
+      "units": "E05,E06,E12,L02,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-37388"
+    }
   }
 ]
