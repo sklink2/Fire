@@ -3342,5 +3342,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37462"
     }
+  },
+  {
+    "runNumber": "37461",
+    "rawCode": "MED",
+    "timestamp": "2026-07-12T18:49:55.346184-04:00",
+    "address": "Beaumont Centre Circle & Majestic",
+    "extra": {
+      "incidentNumber": "37461",
+      "run_id": "37461",
+      "address": "Beaumont Centre Circle & Majestic",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC5,220",
+      "units": "EC5,220",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-37461"
+    }
   }
 ]
