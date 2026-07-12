@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37328"
     }
+  },
+  {
+    "runNumber": "37330",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-12T03:23:46.864460-04:00",
+    "address": "1375 S Broadway",
+    "extra": {
+      "incidentNumber": "37330",
+      "run_id": "37330",
+      "address": "1375 S Broadway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E11,E12,L02,204",
+      "units": "E06,E11,E12,L02,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-37330"
+    }
   }
 ]
