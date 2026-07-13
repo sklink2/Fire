@@ -3474,5 +3474,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37667"
     }
+  },
+  {
+    "runNumber": "37668",
+    "rawCode": "MED",
+    "timestamp": "2026-07-13T19:30:13.386216-04:00",
+    "address": "900 Block Meadow Lane",
+    "extra": {
+      "incidentNumber": "37668",
+      "run_id": "37668",
+      "address": "900 Block Meadow Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37668"
+    }
   }
 ]
