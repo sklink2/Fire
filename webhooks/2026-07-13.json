@@ -790,5 +790,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37542"
     }
+  },
+  {
+    "runNumber": "37543",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-13T08:13:10.704977-04:00",
+    "address": "100 Blue Sky Parkway",
+    "extra": {
+      "incidentNumber": "37543",
+      "run_id": "37543",
+      "address": "100 Blue Sky Parkway",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E18",
+      "units": "E18",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37543"
+    }
   }
 ]
