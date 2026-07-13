@@ -3980,5 +3980,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37490"
     }
+  },
+  {
+    "runNumber": "37492",
+    "rawCode": "MED",
+    "timestamp": "2026-07-12T22:09:46.312499-04:00",
+    "address": "400 Block Dominican Drive",
+    "extra": {
+      "incidentNumber": "37492",
+      "run_id": "37492",
+      "address": "400 Block Dominican Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L03,EC1",
+      "units": "L03,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37492"
+    }
   }
 ]
