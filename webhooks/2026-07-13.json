@@ -1406,5 +1406,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37570"
     }
+  },
+  {
+    "runNumber": "37571",
+    "rawCode": "FMIS",
+    "timestamp": "2026-07-13T10:58:04.624940-04:00",
+    "address": "650 Southpoint Drive",
+    "extra": {
+      "incidentNumber": "37571",
+      "run_id": "37571",
+      "address": "650 Southpoint Drive",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,204",
+      "units": "E22,204",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-37571"
+    }
   }
 ]
