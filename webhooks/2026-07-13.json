@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37578"
     }
+  },
+  {
+    "runNumber": "37579",
+    "rawCode": "MED",
+    "timestamp": "2026-07-13T11:36:40.076916-04:00",
+    "address": "400 Block Roosevelt Boulevard",
+    "extra": {
+      "incidentNumber": "37579",
+      "run_id": "37579",
+      "address": "400 Block Roosevelt Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L03,EC7,241",
+      "units": "L03,EC7,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-37579"
+    }
   }
 ]
