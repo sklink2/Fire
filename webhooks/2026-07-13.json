@@ -1318,5 +1318,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37567"
     }
+  },
+  {
+    "runNumber": "37566",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-13T10:40:39.492626-04:00",
+    "address": "908 Tearose Drive",
+    "extra": {
+      "incidentNumber": "37566",
+      "run_id": "37566",
+      "address": "908 Tearose Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14",
+      "units": "E14",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37566"
+    }
   }
 ]
