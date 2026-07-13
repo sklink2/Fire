@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37547"
     }
+  },
+  {
+    "runNumber": "37549",
+    "rawCode": "MED",
+    "timestamp": "2026-07-13T08:51:46.751742-04:00",
+    "address": "800 Block Fister Way",
+    "extra": {
+      "incidentNumber": "37549",
+      "run_id": "37549",
+      "address": "800 Block Fister Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37549"
+    }
   }
 ]
