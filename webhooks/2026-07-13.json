@@ -1648,5 +1648,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37581"
     }
+  },
+  {
+    "runNumber": "37582",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-07-13T11:50:46.531212-04:00",
+    "address": "Man O War Boulevard & Tates Creek R",
+    "extra": {
+      "incidentNumber": "37582",
+      "run_id": "37582",
+      "address": "Man O War Boulevard & Tates Creek R",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,L07,EC9,202,241,RS1",
+      "units": "E16,L07,EC9,202,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-37582"
+    }
   }
 ]
