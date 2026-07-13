@@ -3584,5 +3584,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37473"
     }
+  },
+  {
+    "runNumber": "37474",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-12T20:06:59.555993-04:00",
+    "address": "234 Rand Avenue",
+    "extra": {
+      "incidentNumber": "37474",
+      "run_id": "37474",
+      "address": "234 Rand Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,205",
+      "units": "E01,205",
+      "unitCount": "2",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-37474"
+    }
   }
 ]
