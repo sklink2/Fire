@@ -3188,5 +3188,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37653"
     }
+  },
+  {
+    "runNumber": "37655",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-07-13T17:52:00.376725-04:00",
+    "address": "Citation Boulevard & Newtown Pike",
+    "extra": {
+      "incidentNumber": "37655",
+      "run_id": "37655",
+      "address": "Citation Boulevard & Newtown Pike",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,L01,EC10,205,241,RS1",
+      "units": "E04,L01,EC10,205,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,205",
+      "dedupeKey": "INCIDENT-37655"
+    }
   }
 ]
