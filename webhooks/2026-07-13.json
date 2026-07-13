@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37586"
     }
+  },
+  {
+    "runNumber": "37589",
+    "rawCode": "MED",
+    "timestamp": "2026-07-13T12:15:16.433807-04:00",
+    "address": "200 Block E Second Street",
+    "extra": {
+      "incidentNumber": "37589",
+      "run_id": "37589",
+      "address": "200 Block E Second Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "CRT1",
+      "units": "CRT1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37589"
+    }
   }
 ]
