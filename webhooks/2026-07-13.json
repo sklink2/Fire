@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37584"
     }
+  },
+  {
+    "runNumber": "37585",
+    "rawCode": "FELS",
+    "timestamp": "2026-07-13T12:04:43.951513-04:00",
+    "address": "259 W Short Street",
+    "extra": {
+      "incidentNumber": "37585",
+      "run_id": "37585",
+      "address": "259 W Short Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,L01,205",
+      "units": "E13,L01,205",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-37585"
+    }
   }
 ]
