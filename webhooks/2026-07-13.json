@@ -504,5 +504,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-37529"
     }
+  },
+  {
+    "runNumber": "37530",
+    "rawCode": "MED",
+    "timestamp": "2026-07-13T06:24:27.390045-04:00",
+    "address": "900 Block Chas Drive",
+    "extra": {
+      "incidentNumber": "37530",
+      "run_id": "37530",
+      "address": "900 Block Chas Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L07,EC13",
+      "units": "L07,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37530"
+    }
   }
 ]
