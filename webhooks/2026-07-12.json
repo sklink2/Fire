@@ -4024,5 +4024,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37491"
     }
+  },
+  {
+    "runNumber": "37494",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-12T22:20:18.942949-04:00",
+    "address": "3353 Mt Foraker Drive",
+    "extra": {
+      "incidentNumber": "37494",
+      "run_id": "37494",
+      "address": "3353 Mt Foraker Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,L07",
+      "units": "E16,L07",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37494"
+    }
   }
 ]
