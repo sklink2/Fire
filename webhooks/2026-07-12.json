@@ -4222,5 +4222,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37503"
     }
+  },
+  {
+    "runNumber": "37502",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-12T23:16:31.933569-04:00",
+    "address": "106 Hagerman Court",
+    "extra": {
+      "incidentNumber": "37502",
+      "run_id": "37502",
+      "address": "106 Hagerman Court",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,L02,EC7,205,220",
+      "units": "E05,E06,L02,EC7,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-37502"
+    }
   }
 ]
