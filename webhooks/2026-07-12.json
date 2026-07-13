@@ -3826,5 +3826,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37484"
     }
+  },
+  {
+    "runNumber": "37481",
+    "rawCode": "MED",
+    "timestamp": "2026-07-12T21:06:36.973440-04:00",
+    "address": "1300 Block Beulah Park",
+    "extra": {
+      "incidentNumber": "37481",
+      "run_id": "37481",
+      "address": "1300 Block Beulah Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E22,EC13",
+      "units": "E22,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37481"
+    }
   }
 ]
