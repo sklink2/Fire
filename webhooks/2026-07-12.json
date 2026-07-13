@@ -3892,5 +3892,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37486"
     }
+  },
+  {
+    "runNumber": "37487",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-12T21:34:42.843419-04:00",
+    "address": "1245 Centre Parkway",
+    "extra": {
+      "incidentNumber": "37487",
+      "run_id": "37487",
+      "address": "1245 Centre Parkway",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,E22,L07,EC4,202",
+      "units": "E16,E22,L07,EC4,202",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-37487"
+    }
   }
 ]
