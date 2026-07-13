@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37550"
     }
+  },
+  {
+    "runNumber": "37551",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-13T09:02:21.987915-04:00",
+    "address": "630 Waxwing Way",
+    "extra": {
+      "incidentNumber": "37551",
+      "run_id": "37551",
+      "address": "630 Waxwing Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,E22,L07,204",
+      "units": "E16,E22,L07,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-37551"
+    }
   }
 ]
