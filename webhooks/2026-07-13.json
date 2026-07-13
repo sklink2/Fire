@@ -1186,5 +1186,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37560"
     }
+  },
+  {
+    "runNumber": "37559",
+    "rawCode": "FFIA",
+    "timestamp": "2026-07-13T10:19:39.677835-04:00",
+    "address": "845 Red Mile Road",
+    "extra": {
+      "incidentNumber": "37559",
+      "run_id": "37559",
+      "address": "845 Red Mile Road",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E13,L02,EC7,204",
+      "units": "E04,E13,L02,EC7,204",
+      "unitCount": "5",
+      "primaryTopic": "FFIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-37559"
+    }
   }
 ]
