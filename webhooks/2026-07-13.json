@@ -1538,5 +1538,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37577"
     }
+  },
+  {
+    "runNumber": "37576",
+    "rawCode": "MED",
+    "timestamp": "2026-07-13T11:22:42.441328-04:00",
+    "address": "100 Block Clyde Street",
+    "extra": {
+      "incidentNumber": "37576",
+      "run_id": "37576",
+      "address": "100 Block Clyde Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37576"
+    }
   }
 ]
