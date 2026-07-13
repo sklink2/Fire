@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37611"
     }
+  },
+  {
+    "runNumber": "37613",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-13T13:32:26.764917-04:00",
+    "address": "1916 Justice Drive",
+    "extra": {
+      "incidentNumber": "37613",
+      "run_id": "37613",
+      "address": "1916 Justice Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E21,L06,EC20,201,220",
+      "units": "E02,E21,L06,EC20,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-37613"
+    }
   }
 ]
