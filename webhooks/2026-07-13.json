@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37539"
     }
+  },
+  {
+    "runNumber": "37540",
+    "rawCode": "MED",
+    "timestamp": "2026-07-13T07:55:40.879080-04:00",
+    "address": "3600 Block Park Pointe Drive",
+    "extra": {
+      "incidentNumber": "37540",
+      "run_id": "37540",
+      "address": "3600 Block Park Pointe Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37540"
+    }
   }
 ]
