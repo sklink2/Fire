@@ -548,5 +548,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37531"
     }
+  },
+  {
+    "runNumber": "37532",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-13T06:56:03.597643-04:00",
+    "address": "1315 Castle Rock Way",
+    "extra": {
+      "incidentNumber": "37532",
+      "run_id": "37532",
+      "address": "1315 Castle Rock Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E08,L05,201",
+      "units": "E02,E08,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-37532"
+    }
   }
 ]
