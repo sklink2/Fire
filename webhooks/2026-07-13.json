@@ -4244,5 +4244,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37701"
     }
+  },
+  {
+    "runNumber": "37703",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-13T22:50:15.331286-04:00",
+    "address": "137 Malabu Drive",
+    "extra": {
+      "incidentNumber": "37703",
+      "run_id": "37703",
+      "address": "137 Malabu Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,E20,L04,EC9,204,220",
+      "units": "E15,E20,L04,EC9,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-37703"
+    }
   }
 ]
