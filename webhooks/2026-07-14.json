@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37793"
     }
+  },
+  {
+    "runNumber": "37792",
+    "rawCode": "MED",
+    "timestamp": "2026-07-14T11:28:02.302813-04:00",
+    "address": "800 Block Malabu Drive",
+    "extra": {
+      "incidentNumber": "37792",
+      "run_id": "37792",
+      "address": "800 Block Malabu Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "255",
+      "units": "255",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37792"
+    }
   }
 ]
