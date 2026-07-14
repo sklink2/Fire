@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37773"
     }
+  },
+  {
+    "runNumber": "37772",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-14T09:56:49.914576-04:00",
+    "address": "3349 Tates Creek Road",
+    "extra": {
+      "incidentNumber": "37772",
+      "run_id": "37772",
+      "address": "3349 Tates Creek Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E15,L07,EC13,202",
+      "units": "E07,E15,L07,EC13,202",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-37772"
+    }
   }
 ]
