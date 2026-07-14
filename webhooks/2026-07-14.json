@@ -1186,5 +1186,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37766"
     }
+  },
+  {
+    "runNumber": "37765",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-14T09:14:43.346672-04:00",
+    "address": "3060 Lakecrest Circle",
+    "extra": {
+      "incidentNumber": "37765",
+      "run_id": "37765",
+      "address": "3060 Lakecrest Circle",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E20,L04,204",
+      "units": "E11,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-37765"
+    }
   }
 ]
