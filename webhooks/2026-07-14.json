@@ -3078,5 +3078,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37851"
     }
+  },
+  {
+    "runNumber": "37852",
+    "rawCode": "MED",
+    "timestamp": "2026-07-14T16:12:10.012285-04:00",
+    "address": "2100 Block Carnation Drive",
+    "extra": {
+      "incidentNumber": "37852",
+      "run_id": "37852",
+      "address": "2100 Block Carnation Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC6,CRT1",
+      "units": "E24,EC6,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37852"
+    }
   }
 ]
