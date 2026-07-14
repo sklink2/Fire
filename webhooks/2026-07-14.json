@@ -2132,5 +2132,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37808"
     }
+  },
+  {
+    "runNumber": "37807",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-14T12:31:15.517304-04:00",
+    "address": "160 Constitution Street",
+    "extra": {
+      "incidentNumber": "37807",
+      "run_id": "37807",
+      "address": "160 Constitution Street",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E06,L01,EC1,205",
+      "units": "E01,E06,L01,EC1,205",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-37807"
+    }
   }
 ]
