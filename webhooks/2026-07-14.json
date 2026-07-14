@@ -3012,5 +3012,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-37848"
     }
+  },
+  {
+    "runNumber": "37850",
+    "rawCode": "MED",
+    "timestamp": "2026-07-14T15:58:07.547135-04:00",
+    "address": "1100 Block Industry Road",
+    "extra": {
+      "incidentNumber": "37850",
+      "run_id": "37850",
+      "address": "1100 Block Industry Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC3",
+      "units": "E02,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37850"
+    }
   }
 ]
