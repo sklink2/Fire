@@ -2462,5 +2462,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37823"
     }
+  },
+  {
+    "runNumber": "37824",
+    "rawCode": "MED",
+    "timestamp": "2026-07-14T13:27:15.285283-04:00",
+    "address": "1500 Block Colesbury Circle",
+    "extra": {
+      "incidentNumber": "37824",
+      "run_id": "37824",
+      "address": "1500 Block Colesbury Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "RS1",
+      "units": "RS1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37824"
+    }
   }
 ]
