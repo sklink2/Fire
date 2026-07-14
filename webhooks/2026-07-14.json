@@ -3254,5 +3254,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-37858"
     }
+  },
+  {
+    "runNumber": "37860",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-14T16:54:19.628647-04:00",
+    "address": "2935 Rio Dosa Drive",
+    "extra": {
+      "incidentNumber": "37860",
+      "run_id": "37860",
+      "address": "2935 Rio Dosa Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E16,L06,EC11,201,220",
+      "units": "E09,E16,L06,EC11,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-37860"
+    }
   }
 ]
