@@ -4178,5 +4178,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37902"
     }
+  },
+  {
+    "runNumber": "37901",
+    "rawCode": "MED",
+    "timestamp": "2026-07-14T19:46:11.692171-04:00",
+    "address": "1100 Block Tatesbrook Drive",
+    "extra": {
+      "incidentNumber": "37901",
+      "run_id": "37901",
+      "address": "1100 Block Tatesbrook Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC2",
+      "units": "E22,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37901"
+    }
   }
 ]
