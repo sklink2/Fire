@@ -702,5 +702,27 @@
       "commandUnits": "220,205",
       "dedupeKey": "INCIDENT-37742"
     }
+  },
+  {
+    "runNumber": "37744",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-07-14T07:04:51.194430-04:00",
+    "address": "650 Tower Plz",
+    "extra": {
+      "incidentNumber": "37744",
+      "run_id": "37744",
+      "address": "650 Tower Plz",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37744"
+    }
   }
 ]
