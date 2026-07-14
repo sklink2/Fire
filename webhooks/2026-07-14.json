@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37774"
     }
+  },
+  {
+    "runNumber": "37776",
+    "rawCode": "MED",
+    "timestamp": "2026-07-14T10:10:48.120510-04:00",
+    "address": "4400 Block Briar Hill Road",
+    "extra": {
+      "incidentNumber": "37776",
+      "run_id": "37776",
+      "address": "4400 Block Briar Hill Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,EC6",
+      "units": "E17,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37776"
+    }
   }
 ]
