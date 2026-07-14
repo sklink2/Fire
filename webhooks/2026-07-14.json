@@ -2022,5 +2022,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-37804"
     }
+  },
+  {
+    "runNumber": "37803",
+    "rawCode": "FCAR",
+    "timestamp": "2026-07-14T12:06:40.992545-04:00",
+    "address": "2233 Abbeywood Road",
+    "extra": {
+      "incidentNumber": "37803",
+      "run_id": "37803",
+      "address": "2233 Abbeywood Road",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L07",
+      "units": "L07",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37803"
+    }
   }
 ]
