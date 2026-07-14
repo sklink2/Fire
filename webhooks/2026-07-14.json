@@ -1692,5 +1692,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-37787"
     }
+  },
+  {
+    "runNumber": "37790",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-14T11:10:28.865163-04:00",
+    "address": "1575 Mcgrathiana Parkway",
+    "extra": {
+      "incidentNumber": "37790",
+      "run_id": "37790",
+      "address": "1575 Mcgrathiana Parkway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,E24,L02,203",
+      "units": "E13,E24,L02,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-37790"
+    }
   }
 ]
