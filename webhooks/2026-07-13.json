@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37682"
     }
+  },
+  {
+    "runNumber": "37683",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-13T20:36:55.841783-04:00",
+    "address": "800 Winchester Road",
+    "extra": {
+      "incidentNumber": "37683",
+      "run_id": "37683",
+      "address": "800 Winchester Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E02,L05,201",
+      "units": "E01,E02,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-37683"
+    }
   }
 ]
