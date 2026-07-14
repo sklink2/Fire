@@ -3034,5 +3034,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37850"
     }
+  },
+  {
+    "runNumber": "37849",
+    "rawCode": "FELS",
+    "timestamp": "2026-07-14T15:58:12.429885-04:00",
+    "address": "650 Tower Plz",
+    "extra": {
+      "incidentNumber": "37849",
+      "run_id": "37849",
+      "address": "650 Tower Plz",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01,205,RS1",
+      "units": "L01,205,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-37849"
+    }
   }
 ]
