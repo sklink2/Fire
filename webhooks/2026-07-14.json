@@ -306,5 +306,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37725"
     }
+  },
+  {
+    "runNumber": "37726",
+    "rawCode": "MED",
+    "timestamp": "2026-07-14T02:20:42.024298-04:00",
+    "address": "200 Block Catera Trce",
+    "extra": {
+      "incidentNumber": "37726",
+      "run_id": "37726",
+      "address": "200 Block Catera Trce",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37726"
+    }
   }
 ]
