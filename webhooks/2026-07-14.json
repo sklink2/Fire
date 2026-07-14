@@ -1296,5 +1296,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37770"
     }
+  },
+  {
+    "runNumber": "37771",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-14T09:49:46.615084-04:00",
+    "address": "644 Maxwelton Court",
+    "extra": {
+      "incidentNumber": "37771",
+      "run_id": "37771",
+      "address": "644 Maxwelton Court",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E10,L02,EC7,204,220",
+      "units": "E05,E10,L02,EC7,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-37771"
+    }
   }
 ]
