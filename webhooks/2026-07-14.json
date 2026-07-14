@@ -4244,5 +4244,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-37903"
     }
+  },
+  {
+    "runNumber": "37905",
+    "rawCode": "FMIS",
+    "timestamp": "2026-07-14T19:56:41.188043-04:00",
+    "address": "455 Park Place",
+    "extra": {
+      "incidentNumber": "37905",
+      "run_id": "37905",
+      "address": "455 Park Place",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,201",
+      "units": "E08,201",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-37905"
+    }
   }
 ]
