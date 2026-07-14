@@ -856,5 +856,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37749"
     }
+  },
+  {
+    "runNumber": "37750",
+    "rawCode": "MED",
+    "timestamp": "2026-07-14T07:50:27.854196-04:00",
+    "address": "1500 Block Bryan Avenue",
+    "extra": {
+      "incidentNumber": "37750",
+      "run_id": "37750",
+      "address": "1500 Block Bryan Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02",
+      "units": "E02",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37750"
+    }
   }
 ]
