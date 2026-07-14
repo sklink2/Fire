@@ -1208,5 +1208,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-37765"
     }
+  },
+  {
+    "runNumber": "37767",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-14T09:18:10.644073-04:00",
+    "address": "1801 Bon Air Drive",
+    "extra": {
+      "incidentNumber": "37767",
+      "run_id": "37767",
+      "address": "1801 Bon Air Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02",
+      "units": "E02",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37767"
+    }
   }
 ]
