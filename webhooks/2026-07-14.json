@@ -2770,5 +2770,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37837"
     }
+  },
+  {
+    "runNumber": "37838",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-14T14:54:58.457058-04:00",
+    "address": "2024 Buck Lane",
+    "extra": {
+      "incidentNumber": "37838",
+      "run_id": "37838",
+      "address": "2024 Buck Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,E13,L03,203",
+      "units": "E10,E13,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-37838"
+    }
   }
 ]
