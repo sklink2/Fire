@@ -2154,5 +2154,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-37807"
     }
+  },
+  {
+    "runNumber": "37811",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-07-14T12:38:10.384508-04:00",
+    "address": "2865 Belle Haven Place",
+    "extra": {
+      "incidentNumber": "37811",
+      "run_id": "37811",
+      "address": "2865 Belle Haven Place",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24",
+      "units": "E24",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37811"
+    }
   }
 ]
