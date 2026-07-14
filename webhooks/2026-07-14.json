@@ -2792,5 +2792,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-37838"
     }
+  },
+  {
+    "runNumber": "37840",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-07-14T14:58:27.626276-04:00",
+    "address": "249 E Short Street",
+    "extra": {
+      "incidentNumber": "37840",
+      "run_id": "37840",
+      "address": "249 E Short Street",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37840"
+    }
   }
 ]
