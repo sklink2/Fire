@@ -3496,5 +3496,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37867"
     }
+  },
+  {
+    "runNumber": "37871",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-14T17:29:21.745694-04:00",
+    "address": "416 Gibson Avenue",
+    "extra": {
+      "incidentNumber": "37871",
+      "run_id": "37871",
+      "address": "416 Gibson Avenue",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,L03",
+      "units": "E11,L03",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37871"
+    }
   }
 ]
