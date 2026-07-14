@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37841"
     }
+  },
+  {
+    "runNumber": "37843",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-14T15:05:33.143730-04:00",
+    "address": "493 Barkley Drive",
+    "extra": {
+      "incidentNumber": "37843",
+      "run_id": "37843",
+      "address": "493 Barkley Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,E20,L04,EC12,204,220",
+      "units": "E12,E20,L04,EC12,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-37843"
+    }
   }
 ]
