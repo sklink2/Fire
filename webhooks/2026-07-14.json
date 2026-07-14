@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37817"
     }
+  },
+  {
+    "runNumber": "37816",
+    "rawCode": "MED",
+    "timestamp": "2026-07-14T12:55:42.513750-04:00",
+    "address": "1600 Block Bryan Station Road",
+    "extra": {
+      "incidentNumber": "37816",
+      "run_id": "37816",
+      "address": "1600 Block Bryan Station Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37816"
+    }
   }
 ]
