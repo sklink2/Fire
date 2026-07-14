@@ -2638,5 +2638,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37831"
     }
+  },
+  {
+    "runNumber": "37832",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-14T14:19:53.453434-04:00",
+    "address": "401 Hollow Creek Road",
+    "extra": {
+      "incidentNumber": "37832",
+      "run_id": "37832",
+      "address": "401 Hollow Creek Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E10,L03,205",
+      "units": "E08,E10,L03,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-37832"
+    }
   }
 ]
