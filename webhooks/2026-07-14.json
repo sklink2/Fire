@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37847"
     }
+  },
+  {
+    "runNumber": "37848",
+    "rawCode": "FELS",
+    "timestamp": "2026-07-14T15:51:09.083492-04:00",
+    "address": "1648 Mcgrathiana Parkway",
+    "extra": {
+      "incidentNumber": "37848",
+      "run_id": "37848",
+      "address": "1648 Mcgrathiana Parkway",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L03,203",
+      "units": "L03,203",
+      "unitCount": "2",
+      "primaryTopic": "FELS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-37848"
+    }
   }
 ]
