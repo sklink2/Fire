@@ -2704,5 +2704,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37834"
     }
+  },
+  {
+    "runNumber": "37835",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-14T14:37:28.432125-04:00",
+    "address": "4033 Iron Works Parkway",
+    "extra": {
+      "incidentNumber": "37835",
+      "run_id": "37835",
+      "address": "4033 Iron Works Parkway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E19,E24,L03,203",
+      "units": "E19,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-37835"
+    }
   }
 ]
