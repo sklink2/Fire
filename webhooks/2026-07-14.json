@@ -1604,5 +1604,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37785"
     }
+  },
+  {
+    "runNumber": "37784",
+    "rawCode": "MED",
+    "timestamp": "2026-07-14T10:49:25.725399-04:00",
+    "address": "2100 Block Island Drive",
+    "extra": {
+      "incidentNumber": "37784",
+      "run_id": "37784",
+      "address": "2100 Block Island Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37784"
+    }
   }
 ]
