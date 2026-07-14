@@ -3870,5 +3870,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37685"
     }
+  },
+  {
+    "runNumber": "37687",
+    "rawCode": "FVIS",
+    "timestamp": "2026-07-13T20:57:58.127234-04:00",
+    "address": "508 Rosemont Garden",
+    "extra": {
+      "incidentNumber": "37687",
+      "run_id": "37687",
+      "address": "508 Rosemont Garden",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,E13,L04,EC12,204,RS1",
+      "units": "E12,E13,L04,EC12,204,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-37687"
+    }
   }
 ]
