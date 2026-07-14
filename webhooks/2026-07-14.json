@@ -1450,5 +1450,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37777"
     }
+  },
+  {
+    "runNumber": "37778",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-14T10:24:50.257388-04:00",
+    "address": "5017 Ivybridge Drive",
+    "extra": {
+      "incidentNumber": "37778",
+      "run_id": "37778",
+      "address": "5017 Ivybridge Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E20,L04,204",
+      "units": "E16,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-37778"
+    }
   }
 ]
