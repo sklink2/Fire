@@ -3716,5 +3716,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37881"
     }
+  },
+  {
+    "runNumber": "37880",
+    "rawCode": "MED",
+    "timestamp": "2026-07-14T18:25:32.504100-04:00",
+    "address": "300 Block Harvard Drive",
+    "extra": {
+      "incidentNumber": "37880",
+      "run_id": "37880",
+      "address": "300 Block Harvard Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC13",
+      "units": "EC13",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37880"
+    }
   }
 ]
