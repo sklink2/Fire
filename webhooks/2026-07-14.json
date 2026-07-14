@@ -2088,5 +2088,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37806"
     }
+  },
+  {
+    "runNumber": "37809",
+    "rawCode": "FELF",
+    "timestamp": "2026-07-14T12:31:08.047053-04:00",
+    "address": "1869 Plaudit Place",
+    "extra": {
+      "incidentNumber": "37809",
+      "run_id": "37809",
+      "address": "1869 Plaudit Place",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E18,E21,L06,EC11,202",
+      "units": "E18,E21,L06,EC11,202",
+      "unitCount": "5",
+      "primaryTopic": "FELF",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-37809"
+    }
   }
 ]
