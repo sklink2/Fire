@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37821"
     }
+  },
+  {
+    "runNumber": "37823",
+    "rawCode": "MED",
+    "timestamp": "2026-07-14T13:23:45.880208-04:00",
+    "address": "4400 Block Gumbert Road",
+    "extra": {
+      "incidentNumber": "37823",
+      "run_id": "37823",
+      "address": "4400 Block Gumbert Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,EC6",
+      "units": "E14,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37823"
+    }
   }
 ]
