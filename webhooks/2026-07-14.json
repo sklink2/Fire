@@ -4200,5 +4200,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37901"
     }
+  },
+  {
+    "runNumber": "37904",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-14T19:53:10.877179-04:00",
+    "address": "1532 Lakewood Drive",
+    "extra": {
+      "incidentNumber": "37904",
+      "run_id": "37904",
+      "address": "1532 Lakewood Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E07,L02,205",
+      "units": "E05,E07,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-37904"
+    }
   }
 ]
