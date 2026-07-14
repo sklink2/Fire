@@ -2484,5 +2484,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37824"
     }
+  },
+  {
+    "runNumber": "37826",
+    "rawCode": "MED",
+    "timestamp": "2026-07-14T13:30:45.822012-04:00",
+    "address": "1200 Block Winburn Drive",
+    "extra": {
+      "incidentNumber": "37826",
+      "run_id": "37826",
+      "address": "1200 Block Winburn Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC10",
+      "units": "E08,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37826"
+    }
   }
 ]
