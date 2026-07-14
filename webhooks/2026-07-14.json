@@ -3276,5 +3276,27 @@
       "commandUnits": "220,201",
       "dedupeKey": "INCIDENT-37860"
     }
+  },
+  {
+    "runNumber": "37861",
+    "rawCode": "MED",
+    "timestamp": "2026-07-14T16:57:46.556784-04:00",
+    "address": "2600 Block Wilhite Court",
+    "extra": {
+      "incidentNumber": "37861",
+      "run_id": "37861",
+      "address": "2600 Block Wilhite Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37861"
+    }
   }
 ]
