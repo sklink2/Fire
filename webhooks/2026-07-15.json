@@ -438,5 +438,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37962"
     }
+  },
+  {
+    "runNumber": "37963",
+    "rawCode": "MED",
+    "timestamp": "2026-07-15T03:08:11.054600-04:00",
+    "address": "500 Block Maryland Avenue",
+    "extra": {
+      "incidentNumber": "37963",
+      "run_id": "37963",
+      "address": "500 Block Maryland Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,EC1",
+      "units": "E04,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37963"
+    }
   }
 ]
