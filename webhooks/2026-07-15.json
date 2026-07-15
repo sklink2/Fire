@@ -2462,5 +2462,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38051"
     }
+  },
+  {
+    "runNumber": "38053",
+    "rawCode": "MED",
+    "timestamp": "2026-07-15T13:43:08.582623-04:00",
+    "address": "900 Block Street Martins Avenue",
+    "extra": {
+      "incidentNumber": "38053",
+      "run_id": "38053",
+      "address": "900 Block Street Martins Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC3",
+      "units": "E10,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38053"
+    }
   }
 ]
