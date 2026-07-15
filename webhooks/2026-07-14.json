@@ -5146,5 +5146,27 @@
       "commandUnits": "203,205",
       "dedupeKey": "INCIDENT-37929"
     }
+  },
+  {
+    "runNumber": "37944",
+    "rawCode": "MED",
+    "timestamp": "2026-07-14T23:58:43.962864-04:00",
+    "address": "100 Block N Locust Hill Drive",
+    "extra": {
+      "incidentNumber": "37944",
+      "run_id": "37944",
+      "address": "100 Block N Locust Hill Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37944"
+    }
   }
 ]
