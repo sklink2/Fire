@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37998"
     }
+  },
+  {
+    "runNumber": "38000",
+    "rawCode": "MED",
+    "timestamp": "2026-07-15T09:34:04.572798-04:00",
+    "address": "400 Block Tibbs Lane",
+    "extra": {
+      "incidentNumber": "38000",
+      "run_id": "38000",
+      "address": "400 Block Tibbs Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC10",
+      "units": "E10,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38000"
+    }
   }
 ]
