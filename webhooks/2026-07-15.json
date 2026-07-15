@@ -2660,5 +2660,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38059"
     }
+  },
+  {
+    "runNumber": "38058",
+    "rawCode": "MED",
+    "timestamp": "2026-07-15T14:04:19.286279-04:00",
+    "address": "600 Block Kenova Trce",
+    "extra": {
+      "incidentNumber": "38058",
+      "run_id": "38058",
+      "address": "600 Block Kenova Trce",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "T1,EC5",
+      "units": "T1,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38058"
+    }
   }
 ]
