@@ -3408,5 +3408,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38094"
     }
+  },
+  {
+    "runNumber": "38095",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-15T16:17:30.683428-04:00",
+    "address": "1501 Mercer Road",
+    "extra": {
+      "incidentNumber": "38095",
+      "run_id": "38095",
+      "address": "1501 Mercer Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC11",
+      "units": "E10,EC11",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38095"
+    }
   }
 ]
