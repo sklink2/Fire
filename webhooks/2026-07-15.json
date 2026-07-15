@@ -1186,5 +1186,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37992"
     }
+  },
+  {
+    "runNumber": "37993",
+    "rawCode": "FVLA",
+    "timestamp": "2026-07-15T08:20:24.945900-04:00",
+    "address": "75 Sb / 115.0 Mm (Newtown Pike",
+    "extra": {
+      "incidentNumber": "37993",
+      "run_id": "37993",
+      "address": "75 Sb / 115.0 Mm (Newtown Pike",
+      "rawType": "FVLA",
+      "typeCode": "FVLA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E10,L03,T1,203",
+      "units": "E02,E10,L03,T1,203",
+      "unitCount": "5",
+      "primaryTopic": "FVLA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-37993"
+    }
   }
 ]
