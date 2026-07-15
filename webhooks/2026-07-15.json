@@ -3386,5 +3386,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38093"
     }
+  },
+  {
+    "runNumber": "38094",
+    "rawCode": "MED",
+    "timestamp": "2026-07-15T16:13:59.333392-04:00",
+    "address": "2400 Block Crescenzio Way",
+    "extra": {
+      "incidentNumber": "38094",
+      "run_id": "38094",
+      "address": "2400 Block Crescenzio Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC7",
+      "units": "E24,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38094"
+    }
   }
 ]
