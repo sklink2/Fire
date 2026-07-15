@@ -5124,5 +5124,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37939"
     }
+  },
+  {
+    "runNumber": "37929",
+    "rawCode": "FSTRW",
+    "timestamp": "2026-07-14T23:41:12.427195-04:00",
+    "address": "707 Brooks Avenue",
+    "extra": {
+      "incidentNumber": "37929",
+      "run_id": "37929",
+      "address": "707 Brooks Avenue",
+      "rawType": "FSTRW",
+      "typeCode": "FSTRW",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E06,E10,E13,L01,L03,EC10,203,205,432",
+      "units": "E04,E06,E10,E13,L01,L03,EC10,203,205,432",
+      "unitCount": "10",
+      "primaryTopic": "FSTRW",
+      "commandUnits": "203,205",
+      "dedupeKey": "INCIDENT-37929"
+    }
   }
 ]
