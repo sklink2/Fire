@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37971"
     }
+  },
+  {
+    "runNumber": "37973",
+    "rawCode": "MED",
+    "timestamp": "2026-07-15T04:42:54.405030-04:00",
+    "address": "100 Block Elam Park",
+    "extra": {
+      "incidentNumber": "37973",
+      "run_id": "37973",
+      "address": "100 Block Elam Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37973"
+    }
   }
 ]
