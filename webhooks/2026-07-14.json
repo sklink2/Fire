@@ -4970,5 +4970,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-37937"
     }
+  },
+  {
+    "runNumber": "37938",
+    "rawCode": "FOTS",
+    "timestamp": "2026-07-14T22:59:04.933701-04:00",
+    "address": "707 Brooks Avenue",
+    "extra": {
+      "incidentNumber": "37938",
+      "run_id": "37938",
+      "address": "707 Brooks Avenue",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37938"
+    }
   }
 ]
