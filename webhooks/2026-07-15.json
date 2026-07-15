@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38054"
     }
+  },
+  {
+    "runNumber": "38057",
+    "rawCode": "MED",
+    "timestamp": "2026-07-15T14:00:41.073927-04:00",
+    "address": "200 Block W Main Street",
+    "extra": {
+      "incidentNumber": "38057",
+      "run_id": "38057",
+      "address": "200 Block W Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38057"
+    }
   }
 ]
