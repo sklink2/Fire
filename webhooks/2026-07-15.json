@@ -3694,5 +3694,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38107"
     }
+  },
+  {
+    "runNumber": "38109",
+    "rawCode": "MED",
+    "timestamp": "2026-07-15T17:13:37.896308-04:00",
+    "address": "200 Block Meadow Valley Road",
+    "extra": {
+      "incidentNumber": "38109",
+      "run_id": "38109",
+      "address": "200 Block Meadow Valley Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "T1,EC12",
+      "units": "T1,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38109"
+    }
   }
 ]
