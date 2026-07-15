@@ -174,5 +174,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37951"
     }
+  },
+  {
+    "runNumber": "37952",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-15T01:08:53.628716-04:00",
+    "address": "319 Duke Road",
+    "extra": {
+      "incidentNumber": "37952",
+      "run_id": "37952",
+      "address": "319 Duke Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E07,L02,205",
+      "units": "E05,E07,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-37952"
+    }
   }
 ]
