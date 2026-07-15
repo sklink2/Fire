@@ -4772,5 +4772,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-37928"
     }
+  },
+  {
+    "runNumber": "37929",
+    "rawCode": "FSTR",
+    "timestamp": "2026-07-14T22:03:03.972349-04:00",
+    "address": "436 Lindberg Drive",
+    "extra": {
+      "incidentNumber": "37929",
+      "run_id": "37929",
+      "address": "436 Lindberg Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E06,E10,E13,L01,L03,EC10,EC6,202,203,205,241,RS1",
+      "units": "E04,E06,E10,E13,L01,L03,EC10,EC6,202,203,205,241,RS1",
+      "unitCount": "13",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,202,203,205",
+      "dedupeKey": "INCIDENT-37929"
+    }
   }
 ]
