@@ -3100,5 +3100,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38080"
     }
+  },
+  {
+    "runNumber": "38081",
+    "rawCode": "MED",
+    "timestamp": "2026-07-15T15:28:23.939303-04:00",
+    "address": "900 Block Manchester Street",
+    "extra": {
+      "incidentNumber": "38081",
+      "run_id": "38081",
+      "address": "900 Block Manchester Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "RS1",
+      "units": "RS1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38081"
+    }
   }
 ]
