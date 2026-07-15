@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38021"
     }
+  },
+  {
+    "runNumber": "38023",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-15T11:26:20.946621-04:00",
+    "address": "700 S Limestone",
+    "extra": {
+      "incidentNumber": "38023",
+      "run_id": "38023",
+      "address": "700 S Limestone",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E11,L02,EC4,202",
+      "units": "E06,E11,L02,EC4,202",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-38023"
+    }
   }
 ]
