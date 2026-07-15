@@ -4640,5 +4640,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37921"
     }
+  },
+  {
+    "runNumber": "37923",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-14T21:31:25.143564-04:00",
+    "address": "5700 Winchester Road",
+    "extra": {
+      "incidentNumber": "37923",
+      "run_id": "37923",
+      "address": "5700 Winchester Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E23,L05,EC13,201,220",
+      "units": "E02,E23,L05,EC13,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-37923"
+    }
   }
 ]
