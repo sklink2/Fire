@@ -3672,5 +3672,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38106"
     }
+  },
+  {
+    "runNumber": "38107",
+    "rawCode": "FOTS",
+    "timestamp": "2026-07-15T17:06:37.385220-04:00",
+    "address": "200 Shives Drive",
+    "extra": {
+      "incidentNumber": "38107",
+      "run_id": "38107",
+      "address": "200 Shives Drive",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC33",
+      "units": "EC33",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38107"
+    }
   }
 ]
