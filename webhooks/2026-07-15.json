@@ -2110,5 +2110,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38034"
     }
+  },
+  {
+    "runNumber": "38037",
+    "rawCode": "MED",
+    "timestamp": "2026-07-15T12:01:24.360542-04:00",
+    "address": "400 Block E Seventh Street",
+    "extra": {
+      "incidentNumber": "38037",
+      "run_id": "38037",
+      "address": "400 Block E Seventh Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L05,EC22",
+      "units": "L05,EC22",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38037"
+    }
   }
 ]
