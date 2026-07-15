@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38001"
     }
+  },
+  {
+    "runNumber": "38003",
+    "rawCode": "MED",
+    "timestamp": "2026-07-15T09:48:05.503787-04:00",
+    "address": "2000 Block Spring Station Drive",
+    "extra": {
+      "incidentNumber": "38003",
+      "run_id": "38003",
+      "address": "2000 Block Spring Station Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38003"
+    }
   }
 ]
