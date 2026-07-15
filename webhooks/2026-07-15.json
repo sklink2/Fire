@@ -1252,5 +1252,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37995"
     }
+  },
+  {
+    "runNumber": "37996",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-15T09:13:02.653381-04:00",
+    "address": "1165 Centre Parkway",
+    "extra": {
+      "incidentNumber": "37996",
+      "run_id": "37996",
+      "address": "1165 Centre Parkway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E16,L07,202",
+      "units": "E07,E16,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-37996"
+    }
   }
 ]
