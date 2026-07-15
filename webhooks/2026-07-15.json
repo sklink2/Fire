@@ -3584,5 +3584,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38101"
     }
+  },
+  {
+    "runNumber": "38104",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-15T16:45:34.368744-04:00",
+    "address": "193 Eddie Street",
+    "extra": {
+      "incidentNumber": "38104",
+      "run_id": "38104",
+      "address": "193 Eddie Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L01,EC20",
+      "units": "L01,EC20",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38104"
+    }
   }
 ]
