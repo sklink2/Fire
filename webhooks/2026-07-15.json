@@ -4222,5 +4222,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38107"
     }
+  },
+  {
+    "runNumber": "38132",
+    "rawCode": "MED",
+    "timestamp": "2026-07-15T19:16:25.137699-04:00",
+    "address": "4000 Block Castlebridge Lane",
+    "extra": {
+      "incidentNumber": "38132",
+      "run_id": "38132",
+      "address": "4000 Block Castlebridge Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38132"
+    }
   }
 ]
