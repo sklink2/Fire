@@ -1670,5 +1670,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38016"
     }
+  },
+  {
+    "runNumber": "38015",
+    "rawCode": "FSTR",
+    "timestamp": "2026-07-15T11:12:25.141261-04:00",
+    "address": "2637 Whiteberry Drive",
+    "extra": {
+      "incidentNumber": "38015",
+      "run_id": "38015",
+      "address": "2637 Whiteberry Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E10,E13,E24,L01,L03,EC5,EC6,203,204,220,241,RS1",
+      "units": "E09,E10,E13,E24,L01,L03,EC5,EC6,203,204,220,241,RS1",
+      "unitCount": "13",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,203,204",
+      "dedupeKey": "INCIDENT-38015"
+    }
   }
 ]
