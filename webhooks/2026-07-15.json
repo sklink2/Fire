@@ -1406,5 +1406,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38003"
     }
+  },
+  {
+    "runNumber": "38002",
+    "rawCode": "MED",
+    "timestamp": "2026-07-15T09:48:07.851298-04:00",
+    "address": "3100 Block Sandersville Road",
+    "extra": {
+      "incidentNumber": "38002",
+      "run_id": "38002",
+      "address": "3100 Block Sandersville Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38002"
+    }
   }
 ]
