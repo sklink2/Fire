@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38013"
     }
+  },
+  {
+    "runNumber": "38014",
+    "rawCode": "MED",
+    "timestamp": "2026-07-15T11:08:47.967256-04:00",
+    "address": "500 Block E Main Street",
+    "extra": {
+      "incidentNumber": "38014",
+      "run_id": "38014",
+      "address": "500 Block E Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,EC2",
+      "units": "E05,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38014"
+    }
   }
 ]
