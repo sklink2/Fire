@@ -3452,5 +3452,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38097"
     }
+  },
+  {
+    "runNumber": "38096",
+    "rawCode": "MED",
+    "timestamp": "2026-07-15T16:21:06.017991-04:00",
+    "address": "3400 Block Nicholasville Road",
+    "extra": {
+      "incidentNumber": "38096",
+      "run_id": "38096",
+      "address": "3400 Block Nicholasville Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC9,241",
+      "units": "E15,EC9,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-38096"
+    }
   }
 ]
