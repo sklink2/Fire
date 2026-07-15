@@ -4354,5 +4354,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38137"
     }
+  },
+  {
+    "runNumber": "38136",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-15T19:51:33.019411-04:00",
+    "address": "200 W Main Street",
+    "extra": {
+      "incidentNumber": "38136",
+      "run_id": "38136",
+      "address": "200 W Main Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E04,L01,205",
+      "units": "E01,E04,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-38136"
+    }
   }
 ]
