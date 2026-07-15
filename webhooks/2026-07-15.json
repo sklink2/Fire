@@ -2616,5 +2616,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38061"
     }
+  },
+  {
+    "runNumber": "38060",
+    "rawCode": "MED",
+    "timestamp": "2026-07-15T14:04:14.578577-04:00",
+    "address": "1300 Block Stephen Foster Drive",
+    "extra": {
+      "incidentNumber": "38060",
+      "run_id": "38060",
+      "address": "1300 Block Stephen Foster Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38060"
+    }
   }
 ]
