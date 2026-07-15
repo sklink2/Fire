@@ -2484,5 +2484,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38053"
     }
+  },
+  {
+    "runNumber": "38052",
+    "rawCode": "MED",
+    "timestamp": "2026-07-15T13:43:11.842102-04:00",
+    "address": "100 Block W Bell Court",
+    "extra": {
+      "incidentNumber": "38052",
+      "run_id": "38052",
+      "address": "100 Block W Bell Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38052"
+    }
   }
 ]
