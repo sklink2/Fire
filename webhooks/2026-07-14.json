@@ -4706,5 +4706,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-37924"
     }
+  },
+  {
+    "runNumber": "37927",
+    "rawCode": "MED",
+    "timestamp": "2026-07-14T21:52:26.556572-04:00",
+    "address": "S Limestone & E Maxwell Street",
+    "extra": {
+      "incidentNumber": "37927",
+      "run_id": "37927",
+      "address": "S Limestone & E Maxwell Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,EC11,RS1",
+      "units": "E06,EC11,RS1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-37927"
+    }
   }
 ]
