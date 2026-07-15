@@ -2506,5 +2506,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38052"
     }
+  },
+  {
+    "runNumber": "38054",
+    "rawCode": "MED",
+    "timestamp": "2026-07-15T13:50:11.120509-04:00",
+    "address": "4000 Block Hillside Drive",
+    "extra": {
+      "incidentNumber": "38054",
+      "run_id": "38054",
+      "address": "4000 Block Hillside Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC12,CRT1",
+      "units": "E20,EC12,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38054"
+    }
   }
 ]
