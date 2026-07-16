@@ -1846,5 +1846,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-38248"
     }
+  },
+  {
+    "runNumber": "38249",
+    "rawCode": "MED",
+    "timestamp": "2026-07-16T10:28:37.579221-04:00",
+    "address": "200 Block Shadow Wood Place",
+    "extra": {
+      "incidentNumber": "38249",
+      "run_id": "38249",
+      "address": "200 Block Shadow Wood Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,EC2",
+      "units": "E21,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38249"
+    }
   }
 ]
