@@ -3474,5 +3474,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38323"
     }
+  },
+  {
+    "runNumber": "38322",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-16T16:54:39.564031-04:00",
+    "address": "1716 Prairie Circle",
+    "extra": {
+      "incidentNumber": "38322",
+      "run_id": "38322",
+      "address": "1716 Prairie Circle",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L07,202",
+      "units": "L07,202",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-38322"
+    }
   }
 ]
