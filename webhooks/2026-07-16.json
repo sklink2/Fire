@@ -2374,5 +2374,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-38272"
     }
+  },
+  {
+    "runNumber": "38273",
+    "rawCode": "MED",
+    "timestamp": "2026-07-16T13:13:29.652023-04:00",
+    "address": "3200 Block Bay Springs Park",
+    "extra": {
+      "incidentNumber": "38273",
+      "run_id": "38273",
+      "address": "3200 Block Bay Springs Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L06,EC11",
+      "units": "L06,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38273"
+    }
   }
 ]
