@@ -3056,5 +3056,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38302"
     }
+  },
+  {
+    "runNumber": "38304",
+    "rawCode": "MED",
+    "timestamp": "2026-07-16T15:19:48.859791-04:00",
+    "address": "1800 Block Plaudit Place",
+    "extra": {
+      "incidentNumber": "38304",
+      "run_id": "38304",
+      "address": "1800 Block Plaudit Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,EC2",
+      "units": "E21,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38304"
+    }
   }
 ]
