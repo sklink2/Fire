@@ -1186,5 +1186,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38219"
     }
+  },
+  {
+    "runNumber": "38218",
+    "rawCode": "MED",
+    "timestamp": "2026-07-16T08:22:20.329546-04:00",
+    "address": "300 Block Thompson Road",
+    "extra": {
+      "incidentNumber": "38218",
+      "run_id": "38218",
+      "address": "300 Block Thompson Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10,RS1",
+      "units": "EC10,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38218"
+    }
   }
 ]
