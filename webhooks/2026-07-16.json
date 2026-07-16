@@ -2022,5 +2022,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38255"
     }
+  },
+  {
+    "runNumber": "38257",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-16T11:35:19.640019-04:00",
+    "address": "3500 Old Frankfort Pike",
+    "extra": {
+      "incidentNumber": "38257",
+      "run_id": "38257",
+      "address": "3500 Old Frankfort Pike",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,E24,L03,203,220",
+      "units": "E10,E24,L03,203,220",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,203",
+      "dedupeKey": "INCIDENT-38257"
+    }
   }
 ]
