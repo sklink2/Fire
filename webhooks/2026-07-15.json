@@ -4640,5 +4640,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38149"
     }
+  },
+  {
+    "runNumber": "38150",
+    "rawCode": "FELS",
+    "timestamp": "2026-07-15T20:47:41.142420-04:00",
+    "address": "1734 Eastland Court",
+    "extra": {
+      "incidentNumber": "38150",
+      "run_id": "38150",
+      "address": "1734 Eastland Court",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,L05,201",
+      "units": "E09,L05,201",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-38150"
+    }
   }
 ]
