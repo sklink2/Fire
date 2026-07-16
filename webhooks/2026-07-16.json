@@ -240,5 +240,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38173"
     }
+  },
+  {
+    "runNumber": "38177",
+    "rawCode": "MED",
+    "timestamp": "2026-07-16T01:52:52.667877-04:00",
+    "address": "400 Block Waller Avenue",
+    "extra": {
+      "incidentNumber": "38177",
+      "run_id": "38177",
+      "address": "400 Block Waller Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38177"
+    }
   }
 ]
