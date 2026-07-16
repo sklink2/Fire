@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38240"
     }
+  },
+  {
+    "runNumber": "38243",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-16T10:00:32.338547-04:00",
+    "address": "3125 Dorchester Place",
+    "extra": {
+      "incidentNumber": "38243",
+      "run_id": "38243",
+      "address": "3125 Dorchester Place",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,E13,L02,202",
+      "units": "E11,E13,L02,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-38243"
+    }
   }
 ]
