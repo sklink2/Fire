@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38300"
     }
+  },
+  {
+    "runNumber": "38301",
+    "rawCode": "MED",
+    "timestamp": "2026-07-16T15:05:48.021994-04:00",
+    "address": "1600 Block Maywick View Lane",
+    "extra": {
+      "incidentNumber": "38301",
+      "run_id": "38301",
+      "address": "1600 Block Maywick View Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,EC12,EC5",
+      "units": "E14,EC12,EC5",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38301"
+    }
   }
 ]
