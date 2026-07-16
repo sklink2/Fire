@@ -1538,5 +1538,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38234"
     }
+  },
+  {
+    "runNumber": "38235",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-16T09:39:32.457660-04:00",
+    "address": "1988 Cambridge Drive",
+    "extra": {
+      "incidentNumber": "38235",
+      "run_id": "38235",
+      "address": "1988 Cambridge Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,E20,L04,EC5,203,220",
+      "units": "E14,E20,L04,EC5,203,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,203",
+      "dedupeKey": "INCIDENT-38235"
+    }
   }
 ]
