@@ -856,5 +856,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38202"
     }
+  },
+  {
+    "runNumber": "38203",
+    "rawCode": "MED",
+    "timestamp": "2026-07-16T06:54:35.919799-04:00",
+    "address": "600 Block Harr Circle",
+    "extra": {
+      "incidentNumber": "38203",
+      "run_id": "38203",
+      "address": "600 Block Harr Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38203"
+    }
   }
 ]
