@@ -1560,5 +1560,27 @@
       "commandUnits": "220,203",
       "dedupeKey": "INCIDENT-38235"
     }
+  },
+  {
+    "runNumber": "38236",
+    "rawCode": "FSCU",
+    "timestamp": "2026-07-16T09:43:00.422213-04:00",
+    "address": "627 Warrington Drive",
+    "extra": {
+      "incidentNumber": "38236",
+      "run_id": "38236",
+      "address": "627 Warrington Drive",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "FSCU",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38236"
+    }
   }
 ]
