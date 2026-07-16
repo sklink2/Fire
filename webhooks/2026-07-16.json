@@ -1758,5 +1758,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38244"
     }
+  },
+  {
+    "runNumber": "38246",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-16T10:11:04.316221-04:00",
+    "address": "3217 Pontchartrain Court",
+    "extra": {
+      "incidentNumber": "38246",
+      "run_id": "38246",
+      "address": "3217 Pontchartrain Court",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L06",
+      "units": "L06",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38246"
+    }
   }
 ]
