@@ -1098,5 +1098,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38214"
     }
+  },
+  {
+    "runNumber": "38215",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-16T07:57:46.514022-04:00",
+    "address": "2116 Carnation Drive",
+    "extra": {
+      "incidentNumber": "38215",
+      "run_id": "38215",
+      "address": "2116 Carnation Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,E24,L03,203",
+      "units": "E10,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-38215"
+    }
   }
 ]
