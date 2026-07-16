@@ -548,5 +548,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38186"
     }
+  },
+  {
+    "runNumber": "38189",
+    "rawCode": "FCAR",
+    "timestamp": "2026-07-16T04:09:42.719475-04:00",
+    "address": "785 Graftons Mill Lane",
+    "extra": {
+      "incidentNumber": "38189",
+      "run_id": "38189",
+      "address": "785 Graftons Mill Lane",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L06",
+      "units": "L06",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38189"
+    }
   }
 ]
