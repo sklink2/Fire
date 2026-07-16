@@ -1648,5 +1648,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38239"
     }
+  },
+  {
+    "runNumber": "38241",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-16T09:57:02.592275-04:00",
+    "address": "432 S Broadway",
+    "extra": {
+      "incidentNumber": "38241",
+      "run_id": "38241",
+      "address": "432 S Broadway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E05,L01,205",
+      "units": "E04,E05,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-38241"
+    }
   }
 ]
