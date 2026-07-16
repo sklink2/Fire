@@ -2308,5 +2308,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-38269"
     }
+  },
+  {
+    "runNumber": "38270",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-16T12:59:31.190199-04:00",
+    "address": "3412 Fox Drive",
+    "extra": {
+      "incidentNumber": "38270",
+      "run_id": "38270",
+      "address": "3412 Fox Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E16,L06,202",
+      "units": "E09,E16,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-38270"
+    }
   }
 ]
