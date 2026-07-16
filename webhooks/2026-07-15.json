@@ -4816,5 +4816,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38157"
     }
+  },
+  {
+    "runNumber": "38158",
+    "rawCode": "FSIA",
+    "timestamp": "2026-07-15T22:43:26.700336-04:00",
+    "address": "N Limestone & Carlisle Avenue",
+    "extra": {
+      "incidentNumber": "38158",
+      "run_id": "38158",
+      "address": "N Limestone & Carlisle Avenue",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E08,201",
+      "units": "E04,E08,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-38158"
+    }
   }
 ]
