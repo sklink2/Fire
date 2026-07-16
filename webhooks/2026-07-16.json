@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38249"
     }
+  },
+  {
+    "runNumber": "38250",
+    "rawCode": "MED",
+    "timestamp": "2026-07-16T10:46:10.845313-04:00",
+    "address": "1200 Block Aspen Street",
+    "extra": {
+      "incidentNumber": "38250",
+      "run_id": "38250",
+      "address": "1200 Block Aspen Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38250"
+    }
   }
 ]
