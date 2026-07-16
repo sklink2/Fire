@@ -1120,5 +1120,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-38215"
     }
+  },
+  {
+    "runNumber": "38216",
+    "rawCode": "FVIS",
+    "timestamp": "2026-07-16T08:01:16.425275-04:00",
+    "address": "1740 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "38216",
+      "run_id": "38216",
+      "address": "1740 Nicholasville Road",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,E13,L02,EC5,204,RS1",
+      "units": "E12,E13,L02,EC5,204,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-38216"
+    }
   }
 ]
