@@ -1978,5 +1978,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38254"
     }
+  },
+  {
+    "runNumber": "38256",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-16T11:24:46.478916-04:00",
+    "address": "1301 Winchester Road",
+    "extra": {
+      "incidentNumber": "38256",
+      "run_id": "38256",
+      "address": "1301 Winchester Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,L05",
+      "units": "E08,L05",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38256"
+    }
   }
 ]
