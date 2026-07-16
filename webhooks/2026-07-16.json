@@ -878,5 +878,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38203"
     }
+  },
+  {
+    "runNumber": "38205",
+    "rawCode": "FMEA",
+    "timestamp": "2026-07-16T07:12:09.440959-04:00",
+    "address": "3425 Chestnut Hill Lane",
+    "extra": {
+      "incidentNumber": "38205",
+      "run_id": "38205",
+      "address": "3425 Chestnut Hill Lane",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21",
+      "units": "E21",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38205"
+    }
   }
 ]
