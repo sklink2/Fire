@@ -3100,5 +3100,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-38306"
     }
+  },
+  {
+    "runNumber": "38305",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-16T15:23:26.719399-04:00",
+    "address": "239 Lexington Avenue",
+    "extra": {
+      "incidentNumber": "38305",
+      "run_id": "38305",
+      "address": "239 Lexington Avenue",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,L02,EC7,204,220",
+      "units": "E05,E06,L02,EC7,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-38305"
+    }
   }
 ]
