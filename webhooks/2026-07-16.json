@@ -812,5 +812,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38200"
     }
+  },
+  {
+    "runNumber": "38201",
+    "rawCode": "FGAO",
+    "timestamp": "2026-07-16T06:37:06.201980-04:00",
+    "address": "1551 Aristides Boulevard",
+    "extra": {
+      "incidentNumber": "38201",
+      "run_id": "38201",
+      "address": "1551 Aristides Boulevard",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E10",
+      "units": "E08,E10",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38201"
+    }
   }
 ]
