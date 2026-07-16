@@ -3892,5 +3892,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38342"
     }
+  },
+  {
+    "runNumber": "38343",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-16T18:43:18.794151-04:00",
+    "address": "829 Eagles Lane",
+    "extra": {
+      "incidentNumber": "38343",
+      "run_id": "38343",
+      "address": "829 Eagles Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E18,E21,L06,202",
+      "units": "E18,E21,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-38343"
+    }
   }
 ]
