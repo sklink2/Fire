@@ -790,5 +790,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38198"
     }
+  },
+  {
+    "runNumber": "38200",
+    "rawCode": "MED",
+    "timestamp": "2026-07-16T06:30:05.197899-04:00",
+    "address": "3400 Block Lyon Drive",
+    "extra": {
+      "incidentNumber": "38200",
+      "run_id": "38200",
+      "address": "3400 Block Lyon Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38200"
+    }
   }
 ]
