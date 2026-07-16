@@ -3914,5 +3914,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-38343"
     }
+  },
+  {
+    "runNumber": "38344",
+    "rawCode": "MED",
+    "timestamp": "2026-07-16T18:53:48.241470-04:00",
+    "address": "1300 Block Centre Parkway",
+    "extra": {
+      "incidentNumber": "38344",
+      "run_id": "38344",
+      "address": "1300 Block Centre Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38344"
+    }
   }
 ]
