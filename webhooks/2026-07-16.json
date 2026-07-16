@@ -3738,5 +3738,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38335"
     }
+  },
+  {
+    "runNumber": "38336",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-16T18:22:14.536881-04:00",
+    "address": "1500 Evanoff Court",
+    "extra": {
+      "incidentNumber": "38336",
+      "run_id": "38336",
+      "address": "1500 Evanoff Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,E22,L07,202",
+      "units": "E16,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-38336"
+    }
   }
 ]
