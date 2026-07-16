@@ -174,5 +174,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38171"
     }
+  },
+  {
+    "runNumber": "38172",
+    "rawCode": "MED",
+    "timestamp": "2026-07-16T01:31:50.335755-04:00",
+    "address": "3100 Block Glenridge Circle",
+    "extra": {
+      "incidentNumber": "38172",
+      "run_id": "38172",
+      "address": "3100 Block Glenridge Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38172"
+    }
   }
 ]
