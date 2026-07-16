@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38268"
     }
+  },
+  {
+    "runNumber": "38269",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-16T12:56:00.784485-04:00",
+    "address": "110 Summit At Fritz Farm",
+    "extra": {
+      "incidentNumber": "38269",
+      "run_id": "38269",
+      "address": "110 Summit At Fritz Farm",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,E15,L07,204",
+      "units": "E07,E15,L07,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-38269"
+    }
   }
 ]
