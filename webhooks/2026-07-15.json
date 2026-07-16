@@ -4464,5 +4464,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-38140"
     }
+  },
+  {
+    "runNumber": "38144",
+    "rawCode": "MED",
+    "timestamp": "2026-07-15T20:23:04.966833-04:00",
+    "address": "300 Block W Loudon Avenue",
+    "extra": {
+      "incidentNumber": "38144",
+      "run_id": "38144",
+      "address": "300 Block W Loudon Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,EC7",
+      "units": "E04,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38144"
+    }
   }
 ]
