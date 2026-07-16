@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38247"
     }
+  },
+  {
+    "runNumber": "38248",
+    "rawCode": "FELS",
+    "timestamp": "2026-07-16T10:21:37.292217-04:00",
+    "address": "1800 Newtown Pike",
+    "extra": {
+      "incidentNumber": "38248",
+      "run_id": "38248",
+      "address": "1800 Newtown Pike",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L03,204,RS1",
+      "units": "L03,204,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-38248"
+    }
   }
 ]
