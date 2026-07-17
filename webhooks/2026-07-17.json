@@ -1802,5 +1802,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38487"
     }
+  },
+  {
+    "runNumber": "38488",
+    "rawCode": "MED",
+    "timestamp": "2026-07-17T12:50:49.055922-04:00",
+    "address": "2500 Block Richmond Road",
+    "extra": {
+      "incidentNumber": "38488",
+      "run_id": "38488",
+      "address": "2500 Block Richmond Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC11",
+      "units": "E09,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38488"
+    }
   }
 ]
