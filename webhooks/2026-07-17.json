@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38448"
     }
+  },
+  {
+    "runNumber": "38450",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-17T08:48:44.254874-04:00",
+    "address": "2356 Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "38450",
+      "run_id": "38450",
+      "address": "2356 Harrodsburg Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E12,L04,205",
+      "units": "E11,E12,L04,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-38450"
+    }
   }
 ]
