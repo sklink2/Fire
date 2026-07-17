@@ -4442,5 +4442,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38368"
     }
+  },
+  {
+    "runNumber": "38367",
+    "rawCode": "FSIA",
+    "timestamp": "2026-07-16T20:14:32.785027-04:00",
+    "address": "2172 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "38367",
+      "run_id": "38367",
+      "address": "2172 Nicholasville Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,E15,205",
+      "units": "E12,E15,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-38367"
+    }
   }
 ]
