@@ -1516,5 +1516,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38475"
     }
+  },
+  {
+    "runNumber": "38474",
+    "rawCode": "MED",
+    "timestamp": "2026-07-17T12:08:43.914055-04:00",
+    "address": "3700 Block Camelot Drive",
+    "extra": {
+      "incidentNumber": "38474",
+      "run_id": "38474",
+      "address": "3700 Block Camelot Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC9",
+      "units": "E22,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38474"
+    }
   }
 ]
