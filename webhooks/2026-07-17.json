@@ -218,5 +218,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38415"
     }
+  },
+  {
+    "runNumber": "38416",
+    "rawCode": "FELS",
+    "timestamp": "2026-07-17T02:22:47.295026-04:00",
+    "address": "369 W Vine Street",
+    "extra": {
+      "incidentNumber": "38416",
+      "run_id": "38416",
+      "address": "369 W Vine Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L01,205,RS1",
+      "units": "L01,205,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-38416"
+    }
   }
 ]
