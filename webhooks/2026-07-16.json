@@ -4772,5 +4772,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38382"
     }
+  },
+  {
+    "runNumber": "38383",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-16T21:31:39.518063-04:00",
+    "address": "365 Preston Avenue",
+    "extra": {
+      "incidentNumber": "38383",
+      "run_id": "38383",
+      "address": "365 Preston Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E09,L02,205",
+      "units": "E05,E09,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-38383"
+    }
   }
 ]
