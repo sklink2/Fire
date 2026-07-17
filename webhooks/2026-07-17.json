@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38466"
     }
+  },
+  {
+    "runNumber": "38467",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-17T11:02:04.747650-04:00",
+    "address": "192 Somersly Place",
+    "extra": {
+      "incidentNumber": "38467",
+      "run_id": "38467",
+      "address": "192 Somersly Place",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E21,L06,202",
+      "units": "E09,E21,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-38467"
+    }
   }
 ]
