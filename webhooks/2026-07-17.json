@@ -1846,5 +1846,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38489"
     }
+  },
+  {
+    "runNumber": "38490",
+    "rawCode": "MED",
+    "timestamp": "2026-07-17T13:01:18.795225-04:00",
+    "address": "100 Block Dennis Drive",
+    "extra": {
+      "incidentNumber": "38490",
+      "run_id": "38490",
+      "address": "100 Block Dennis Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38490"
+    }
   }
 ]
