@@ -3166,5 +3166,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38549"
     }
+  },
+  {
+    "runNumber": "38552",
+    "rawCode": "MED",
+    "timestamp": "2026-07-17T19:58:50.847306-04:00",
+    "address": "200 Block Derby Drive",
+    "extra": {
+      "incidentNumber": "38552",
+      "run_id": "38552",
+      "address": "200 Block Derby Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38552"
+    }
   }
 ]
