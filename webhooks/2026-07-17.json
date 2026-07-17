@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38486"
     }
+  },
+  {
+    "runNumber": "38487",
+    "rawCode": "MED",
+    "timestamp": "2026-07-17T12:40:16.798235-04:00",
+    "address": "100 Block Leestown Center Way",
+    "extra": {
+      "incidentNumber": "38487",
+      "run_id": "38487",
+      "address": "100 Block Leestown Center Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "T1,EC9",
+      "units": "T1,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38487"
+    }
   }
 ]
