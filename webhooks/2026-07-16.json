@@ -4266,5 +4266,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38359"
     }
+  },
+  {
+    "runNumber": "38360",
+    "rawCode": "MED",
+    "timestamp": "2026-07-16T20:00:27.409017-04:00",
+    "address": "100 Block Market Street",
+    "extra": {
+      "incidentNumber": "38360",
+      "run_id": "38360",
+      "address": "100 Block Market Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38360"
+    }
   }
 ]
