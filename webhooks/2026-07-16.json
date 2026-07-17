@@ -4288,5 +4288,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38360"
     }
+  },
+  {
+    "runNumber": "38362",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-16T20:04:00.234713-04:00",
+    "address": "1937 Cambridge Drive",
+    "extra": {
+      "incidentNumber": "38362",
+      "run_id": "38362",
+      "address": "1937 Cambridge Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E14,L04,EC5,204,220",
+      "units": "E06,E14,L04,EC5,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-38362"
+    }
   }
 ]
