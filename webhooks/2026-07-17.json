@@ -900,5 +900,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38446"
     }
+  },
+  {
+    "runNumber": "38447",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-17T08:41:42.646428-04:00",
+    "address": "3120 Pimlico Parkway",
+    "extra": {
+      "incidentNumber": "38447",
+      "run_id": "38447",
+      "address": "3120 Pimlico Parkway",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16",
+      "units": "E16",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38447"
+    }
   }
 ]
