@@ -1186,5 +1186,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-38459"
     }
+  },
+  {
+    "runNumber": "38460",
+    "rawCode": "MED",
+    "timestamp": "2026-07-17T10:30:27.452978-04:00",
+    "address": "4000 Block Iron Works Parkway",
+    "extra": {
+      "incidentNumber": "38460",
+      "run_id": "38460",
+      "address": "4000 Block Iron Works Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38460"
+    }
   }
 ]
