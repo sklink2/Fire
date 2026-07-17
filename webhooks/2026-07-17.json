@@ -988,5 +988,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-38450"
     }
+  },
+  {
+    "runNumber": "38451",
+    "rawCode": "MED",
+    "timestamp": "2026-07-17T09:16:47.188684-04:00",
+    "address": "700 Block Cheryl Lane",
+    "extra": {
+      "incidentNumber": "38451",
+      "run_id": "38451",
+      "address": "700 Block Cheryl Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38451"
+    }
   }
 ]
