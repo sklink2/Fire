@@ -4640,5 +4640,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38376"
     }
+  },
+  {
+    "runNumber": "38379",
+    "rawCode": "FSIA",
+    "timestamp": "2026-07-16T21:10:36.448646-04:00",
+    "address": "1646 Mcgrathiana Parkway",
+    "extra": {
+      "incidentNumber": "38379",
+      "run_id": "38379",
+      "address": "1646 Mcgrathiana Parkway",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E10,203",
+      "units": "E08,E10,203",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-38379"
+    }
   }
 ]
