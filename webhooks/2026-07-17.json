@@ -1032,5 +1032,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38453"
     }
+  },
+  {
+    "runNumber": "38452",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-17T09:23:49.510856-04:00",
+    "address": "1641 Magna Oak Drive",
+    "extra": {
+      "incidentNumber": "38452",
+      "run_id": "38452",
+      "address": "1641 Magna Oak Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,L07",
+      "units": "E16,L07",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38452"
+    }
   }
 ]
