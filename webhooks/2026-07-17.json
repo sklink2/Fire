@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38521"
     }
+  },
+  {
+    "runNumber": "38522",
+    "rawCode": "FMIS",
+    "timestamp": "2026-07-17T16:38:54.400637-04:00",
+    "address": "2101 Fontaine Road",
+    "extra": {
+      "incidentNumber": "38522",
+      "run_id": "38522",
+      "address": "2101 Fontaine Road",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,202,CRT1",
+      "units": "E09,202,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "FMIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-38522"
+    }
   }
 ]
