@@ -636,5 +636,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38433"
     }
+  },
+  {
+    "runNumber": "38436",
+    "rawCode": "MED",
+    "timestamp": "2026-07-17T07:10:28.682652-04:00",
+    "address": "600 Block Central Avenue",
+    "extra": {
+      "incidentNumber": "38436",
+      "run_id": "38436",
+      "address": "600 Block Central Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L02,EC1",
+      "units": "L02,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38436"
+    }
   }
 ]
