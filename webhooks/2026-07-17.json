@@ -460,5 +460,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-38426"
     }
+  },
+  {
+    "runNumber": "38427",
+    "rawCode": "MED",
+    "timestamp": "2026-07-17T05:25:15.230106-04:00",
+    "address": "300 Block Long Branch Lane",
+    "extra": {
+      "incidentNumber": "38427",
+      "run_id": "38427",
+      "address": "300 Block Long Branch Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38427"
+    }
   }
 ]
