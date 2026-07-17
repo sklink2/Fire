@@ -5102,5 +5102,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38397"
     }
+  },
+  {
+    "runNumber": "38398",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-16T23:06:21.338583-04:00",
+    "address": "392 Lancelot Lane",
+    "extra": {
+      "incidentNumber": "38398",
+      "run_id": "38398",
+      "address": "392 Lancelot Lane",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,E16,L07,EC9,202,220",
+      "units": "E15,E16,L07,EC9,202,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-38398"
+    }
   }
 ]
