@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38533"
     }
+  },
+  {
+    "runNumber": "38535",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-17T18:27:37.212062-04:00",
+    "address": "500 S Upper Street",
+    "extra": {
+      "incidentNumber": "38535",
+      "run_id": "38535",
+      "address": "500 S Upper Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E06,L02,204",
+      "units": "E05,E06,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-38535"
+    }
   }
 ]
