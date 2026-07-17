@@ -438,5 +438,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38425"
     }
+  },
+  {
+    "runNumber": "38426",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-17T05:07:42.769645-04:00",
+    "address": "1029 Summer Wind Lane",
+    "extra": {
+      "incidentNumber": "38426",
+      "run_id": "38426",
+      "address": "1029 Summer Wind Lane",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,E16,L07,EC4,202",
+      "units": "E07,E16,L07,EC4,202",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-38426"
+    }
   }
 ]
