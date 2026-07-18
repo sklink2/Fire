@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38624"
     }
+  },
+  {
+    "runNumber": "38625",
+    "rawCode": "MED",
+    "timestamp": "2026-07-18T07:15:54.178106-04:00",
+    "address": "200 Block Pindell Court",
+    "extra": {
+      "incidentNumber": "38625",
+      "run_id": "38625",
+      "address": "200 Block Pindell Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38625"
+    }
   }
 ]
