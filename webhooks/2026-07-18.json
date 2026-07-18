@@ -1648,5 +1648,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38665"
     }
+  },
+  {
+    "runNumber": "38664",
+    "rawCode": "FBOT",
+    "timestamp": "2026-07-18T13:03:17.455487-04:00",
+    "address": "150 E Main Street",
+    "extra": {
+      "incidentNumber": "38664",
+      "run_id": "38664",
+      "address": "150 E Main Street",
+      "rawType": "FBOT",
+      "typeCode": "FBOT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,205,436",
+      "units": "E01,205,436",
+      "unitCount": "3",
+      "primaryTopic": "FBOT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-38664"
+    }
   }
 ]
