@@ -2022,5 +2022,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38681"
     }
+  },
+  {
+    "runNumber": "38680",
+    "rawCode": "MED",
+    "timestamp": "2026-07-18T14:52:04.479473-04:00",
+    "address": "2400 Block Palumbo Drive",
+    "extra": {
+      "incidentNumber": "38680",
+      "run_id": "38680",
+      "address": "2400 Block Palumbo Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC13",
+      "units": "E09,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38680"
+    }
   }
 ]
