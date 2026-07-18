@@ -482,5 +482,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38611"
     }
+  },
+  {
+    "runNumber": "38613",
+    "rawCode": "MED",
+    "timestamp": "2026-07-18T04:20:28.845211-04:00",
+    "address": "1900 Block Haggard Court",
+    "extra": {
+      "incidentNumber": "38613",
+      "run_id": "38613",
+      "address": "1900 Block Haggard Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC10",
+      "units": "E10,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38613"
+    }
   }
 ]
