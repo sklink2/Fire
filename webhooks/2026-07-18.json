@@ -2726,5 +2726,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38711"
     }
+  },
+  {
+    "runNumber": "38715",
+    "rawCode": "MED",
+    "timestamp": "2026-07-18T17:19:22.235251-04:00",
+    "address": "1500 Block Roanoke Road",
+    "extra": {
+      "incidentNumber": "38715",
+      "run_id": "38715",
+      "address": "1500 Block Roanoke Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC1",
+      "units": "E14,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38715"
+    }
   }
 ]
