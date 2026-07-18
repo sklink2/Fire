@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38613"
     }
+  },
+  {
+    "runNumber": "38612",
+    "rawCode": "MED",
+    "timestamp": "2026-07-18T04:20:32.198955-04:00",
+    "address": "100 Block Northwood Drive",
+    "extra": {
+      "incidentNumber": "38612",
+      "run_id": "38612",
+      "address": "100 Block Northwood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC6",
+      "units": "E08,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38612"
+    }
   }
 ]
