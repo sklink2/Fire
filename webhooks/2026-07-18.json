@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38633"
     }
+  },
+  {
+    "runNumber": "38635",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-18T09:25:43.445695-04:00",
+    "address": "W Main Street & Newtown Pike",
+    "extra": {
+      "incidentNumber": "38635",
+      "run_id": "38635",
+      "address": "W Main Street & Newtown Pike",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,EC10",
+      "units": "E04,EC10",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38635"
+    }
   }
 ]
