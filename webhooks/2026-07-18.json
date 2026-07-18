@@ -1714,5 +1714,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38668"
     }
+  },
+  {
+    "runNumber": "38667",
+    "rawCode": "MED",
+    "timestamp": "2026-07-18T13:13:49.488609-04:00",
+    "address": "4000 Block Buttermilk Road",
+    "extra": {
+      "incidentNumber": "38667",
+      "run_id": "38667",
+      "address": "4000 Block Buttermilk Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38667"
+    }
   }
 ]
