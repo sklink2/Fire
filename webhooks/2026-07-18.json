@@ -2066,5 +2066,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38683"
     }
+  },
+  {
+    "runNumber": "38685",
+    "rawCode": "FSTR",
+    "timestamp": "2026-07-18T15:02:35.866175-04:00",
+    "address": "1205 Centre Parkway",
+    "extra": {
+      "incidentNumber": "38685",
+      "run_id": "38685",
+      "address": "1205 Centre Parkway",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E09,E12,E16,E22,L04,L07,EC12,EC4,202,204,220,RS1",
+      "units": "E07,E09,E12,E16,E22,L04,L07,EC12,EC4,202,204,220,RS1",
+      "unitCount": "13",
+      "primaryTopic": "FSTR",
+      "commandUnits": "220,202,204",
+      "dedupeKey": "INCIDENT-38685"
+    }
   }
 ]
