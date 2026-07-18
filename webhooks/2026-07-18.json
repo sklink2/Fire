@@ -3144,5 +3144,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38731"
     }
+  },
+  {
+    "runNumber": "38732",
+    "rawCode": "MED",
+    "timestamp": "2026-07-18T19:15:07.971127-04:00",
+    "address": "400 Block E Fifth Street",
+    "extra": {
+      "incidentNumber": "38732",
+      "run_id": "38732",
+      "address": "400 Block E Fifth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38732"
+    }
   }
 ]
