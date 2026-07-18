@@ -196,5 +196,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38598"
     }
+  },
+  {
+    "runNumber": "38599",
+    "rawCode": "MED",
+    "timestamp": "2026-07-18T00:57:02.888838-04:00",
+    "address": "500 Block Angliana Avenue",
+    "extra": {
+      "incidentNumber": "38599",
+      "run_id": "38599",
+      "address": "500 Block Angliana Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC5,RS1",
+      "units": "EC5,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38599"
+    }
   }
 ]
