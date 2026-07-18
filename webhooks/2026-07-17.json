@@ -3650,5 +3650,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38573"
     }
+  },
+  {
+    "runNumber": "38574",
+    "rawCode": "MED",
+    "timestamp": "2026-07-17T22:05:11.074605-04:00",
+    "address": "400 Block Bourbon Avenue",
+    "extra": {
+      "incidentNumber": "38574",
+      "run_id": "38574",
+      "address": "400 Block Bourbon Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,EC10,205",
+      "units": "E04,EC10,205",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-38574"
+    }
   }
 ]
