@@ -3848,5 +3848,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-38581"
     }
+  },
+  {
+    "runNumber": "38583",
+    "rawCode": "MED",
+    "timestamp": "2026-07-17T22:47:14.090227-04:00",
+    "address": "200 Block W Vista Street",
+    "extra": {
+      "incidentNumber": "38583",
+      "run_id": "38583",
+      "address": "200 Block W Vista Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38583"
+    }
   }
 ]
