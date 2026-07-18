@@ -3826,5 +3826,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38582"
     }
+  },
+  {
+    "runNumber": "38581",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-17T22:40:18.247513-04:00",
+    "address": "175 Sioux Road",
+    "extra": {
+      "incidentNumber": "38581",
+      "run_id": "38581",
+      "address": "175 Sioux Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E12,L02,204",
+      "units": "E06,E12,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-38581"
+    }
   }
 ]
