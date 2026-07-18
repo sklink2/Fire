@@ -2088,5 +2088,27 @@
       "commandUnits": "220,202,204",
       "dedupeKey": "INCIDENT-38685"
     }
+  },
+  {
+    "runNumber": "38684",
+    "rawCode": "MED",
+    "timestamp": "2026-07-18T15:02:43.316217-04:00",
+    "address": "2600 Block Richmond Road",
+    "extra": {
+      "incidentNumber": "38684",
+      "run_id": "38684",
+      "address": "2600 Block Richmond Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38684"
+    }
   }
 ]
