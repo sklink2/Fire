@@ -3276,5 +3276,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38738"
     }
+  },
+  {
+    "runNumber": "38737",
+    "rawCode": "MED",
+    "timestamp": "2026-07-18T19:46:45.466362-04:00",
+    "address": "3000 Block Rio Dosa Drive",
+    "extra": {
+      "incidentNumber": "38737",
+      "run_id": "38737",
+      "address": "3000 Block Rio Dosa Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC11,CRT1",
+      "units": "EC11,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38737"
+    }
   }
 ]
