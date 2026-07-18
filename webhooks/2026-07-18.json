@@ -2858,5 +2858,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38718"
     }
+  },
+  {
+    "runNumber": "38720",
+    "rawCode": "MED",
+    "timestamp": "2026-07-18T17:54:26.260835-04:00",
+    "address": "600 Block Gingermill Lane",
+    "extra": {
+      "incidentNumber": "38720",
+      "run_id": "38720",
+      "address": "600 Block Gingermill Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC13",
+      "units": "E21,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38720"
+    }
   }
 ]
