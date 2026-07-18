@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38724"
     }
+  },
+  {
+    "runNumber": "38725",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-18T18:22:30.256433-04:00",
+    "address": "3341 Featherston Drive",
+    "extra": {
+      "incidentNumber": "38725",
+      "run_id": "38725",
+      "address": "3341 Featherston Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L07",
+      "units": "L07",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38725"
+    }
   }
 ]
