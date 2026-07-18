@@ -42,5 +42,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38591"
     }
+  },
+  {
+    "runNumber": "38592",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-07-18T00:11:27.678917-04:00",
+    "address": "Southland Drive & Rosemont Garden",
+    "extra": {
+      "incidentNumber": "38592",
+      "run_id": "38592",
+      "address": "Southland Drive & Rosemont Garden",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,L04,EC12,EC5,204,RS1",
+      "units": "E12,L04,EC12,EC5,204,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-38592"
+    }
   }
 ]
