@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38891"
     }
+  },
+  {
+    "runNumber": "38890",
+    "rawCode": "MED",
+    "timestamp": "2026-07-19T16:21:41.920459-04:00",
+    "address": "300 Block Mariemont Drive",
+    "extra": {
+      "incidentNumber": "38890",
+      "run_id": "38890",
+      "address": "300 Block Mariemont Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38890"
+    }
   }
 ]
