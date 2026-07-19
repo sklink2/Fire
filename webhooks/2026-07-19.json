@@ -2066,5 +2066,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-38862"
     }
+  },
+  {
+    "runNumber": "38863",
+    "rawCode": "FVLA",
+    "timestamp": "2026-07-19T14:18:53.530508-04:00",
+    "address": "2448 Mackinwood Drive",
+    "extra": {
+      "incidentNumber": "38863",
+      "run_id": "38863",
+      "address": "2448 Mackinwood Drive",
+      "rawType": "FVLA",
+      "typeCode": "FVLA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,E24,L03,203",
+      "units": "E13,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FVLA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-38863"
+    }
   }
 ]
