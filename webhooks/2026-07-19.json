@@ -3210,5 +3210,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38914"
     }
+  },
+  {
+    "runNumber": "38915",
+    "rawCode": "FCAR",
+    "timestamp": "2026-07-19T19:27:38.897632-04:00",
+    "address": "3660 Boston Road",
+    "extra": {
+      "incidentNumber": "38915",
+      "run_id": "38915",
+      "address": "3660 Boston Road",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L04,220",
+      "units": "L04,220",
+      "unitCount": "2",
+      "primaryTopic": "FCAR",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-38915"
+    }
   }
 ]
