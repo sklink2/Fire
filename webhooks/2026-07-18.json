@@ -3672,5 +3672,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38755"
     }
+  },
+  {
+    "runNumber": "38756",
+    "rawCode": "FSCU",
+    "timestamp": "2026-07-18T22:35:06.359578-04:00",
+    "address": "251 W Main Street",
+    "extra": {
+      "incidentNumber": "38756",
+      "run_id": "38756",
+      "address": "251 W Main Street",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "FSCU",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38756"
+    }
   }
 ]
