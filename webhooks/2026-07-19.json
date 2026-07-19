@@ -218,5 +218,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-38778"
     }
+  },
+  {
+    "runNumber": "38779",
+    "rawCode": "MED",
+    "timestamp": "2026-07-19T01:26:59.965710-04:00",
+    "address": "3000 Block Drexel Pass",
+    "extra": {
+      "incidentNumber": "38779",
+      "run_id": "38779",
+      "address": "3000 Block Drexel Pass",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E17,EC11",
+      "units": "E17,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38779"
+    }
   }
 ]
