@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38798"
     }
+  },
+  {
+    "runNumber": "38800",
+    "rawCode": "MED",
+    "timestamp": "2026-07-19T05:57:08.028246-04:00",
+    "address": "3500 Block Brookewind Way",
+    "extra": {
+      "incidentNumber": "38800",
+      "run_id": "38800",
+      "address": "3500 Block Brookewind Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38800"
+    }
   }
 ]
