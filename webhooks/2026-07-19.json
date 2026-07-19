@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38899"
     }
+  },
+  {
+    "runNumber": "38901",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-19T17:07:17.090634-04:00",
+    "address": "Walnut Hill Road & Shelby Lane",
+    "extra": {
+      "incidentNumber": "38901",
+      "run_id": "38901",
+      "address": "Walnut Hill Road & Shelby Lane",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E18",
+      "units": "E18",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38901"
+    }
   }
 ]
