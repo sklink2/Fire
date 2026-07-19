@@ -856,5 +856,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38807"
     }
+  },
+  {
+    "runNumber": "38808",
+    "rawCode": "MED",
+    "timestamp": "2026-07-19T08:06:57.739644-04:00",
+    "address": "1100 Block Marlena Lane",
+    "extra": {
+      "incidentNumber": "38808",
+      "run_id": "38808",
+      "address": "1100 Block Marlena Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "T1,EC10,241",
+      "units": "T1,EC10,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-38808"
+    }
   }
 ]
