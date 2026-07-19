@@ -3408,5 +3408,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38743"
     }
+  },
+  {
+    "runNumber": "38744",
+    "rawCode": "MED",
+    "timestamp": "2026-07-18T20:28:48.615189-04:00",
+    "address": "800 Block Manchester Street",
+    "extra": {
+      "incidentNumber": "38744",
+      "run_id": "38744",
+      "address": "800 Block Manchester Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,EC10",
+      "units": "E04,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38744"
+    }
   }
 ]
