@@ -2616,5 +2616,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38885"
     }
+  },
+  {
+    "runNumber": "38888",
+    "rawCode": "MED",
+    "timestamp": "2026-07-19T16:07:39.051114-04:00",
+    "address": "100 Block W Vine Street",
+    "extra": {
+      "incidentNumber": "38888",
+      "run_id": "38888",
+      "address": "100 Block W Vine Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10,EC5,RS1",
+      "units": "EC10,EC5,RS1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38888"
+    }
   }
 ]
