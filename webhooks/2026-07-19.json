@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38814"
     }
+  },
+  {
+    "runNumber": "38815",
+    "rawCode": "FMIS",
+    "timestamp": "2026-07-19T09:55:43.893437-04:00",
+    "address": "3276 Nantucket Drive",
+    "extra": {
+      "incidentNumber": "38815",
+      "run_id": "38815",
+      "address": "3276 Nantucket Drive",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,204",
+      "units": "E07,204",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-38815"
+    }
   }
 ]
