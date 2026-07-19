@@ -2748,5 +2748,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38895"
     }
+  },
+  {
+    "runNumber": "38894",
+    "rawCode": "FELF",
+    "timestamp": "2026-07-19T16:32:16.798795-04:00",
+    "address": "3447 Pimlico Parkway",
+    "extra": {
+      "incidentNumber": "38894",
+      "run_id": "38894",
+      "address": "3447 Pimlico Parkway",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E16,L07,EC13,202",
+      "units": "E09,E16,L07,EC13,202",
+      "unitCount": "5",
+      "primaryTopic": "FELF",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-38894"
+    }
   }
 ]
