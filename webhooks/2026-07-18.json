@@ -3694,5 +3694,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38756"
     }
+  },
+  {
+    "runNumber": "38757",
+    "rawCode": "MED",
+    "timestamp": "2026-07-18T22:49:08.302586-04:00",
+    "address": "600 Block Ohio Street",
+    "extra": {
+      "incidentNumber": "38757",
+      "run_id": "38757",
+      "address": "600 Block Ohio Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC1,241",
+      "units": "E01,EC1,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-38757"
+    }
   }
 ]
