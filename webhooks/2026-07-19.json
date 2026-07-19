@@ -108,5 +108,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-38773"
     }
+  },
+  {
+    "runNumber": "38775",
+    "rawCode": "FMEA",
+    "timestamp": "2026-07-19T00:48:24.750626-04:00",
+    "address": "3141 Dale Hollow Drive",
+    "extra": {
+      "incidentNumber": "38775",
+      "run_id": "38775",
+      "address": "3141 Dale Hollow Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16",
+      "units": "E16",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38775"
+    }
   }
 ]
