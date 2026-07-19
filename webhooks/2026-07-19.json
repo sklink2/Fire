@@ -86,5 +86,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38772"
     }
+  },
+  {
+    "runNumber": "38773",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-19T00:37:53.117892-04:00",
+    "address": "180 E New Circle Road",
+    "extra": {
+      "incidentNumber": "38773",
+      "run_id": "38773",
+      "address": "180 E New Circle Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,201",
+      "units": "E08,201",
+      "unitCount": "2",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-38773"
+    }
   }
 ]
