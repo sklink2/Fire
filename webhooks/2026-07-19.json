@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38791"
     }
+  },
+  {
+    "runNumber": "38792",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-19T03:08:44.414464-04:00",
+    "address": "840 Malabu Drive",
+    "extra": {
+      "incidentNumber": "38792",
+      "run_id": "38792",
+      "address": "840 Malabu Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,L07",
+      "units": "E07,L07",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38792"
+    }
   }
 ]
