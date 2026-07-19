@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38783"
     }
+  },
+  {
+    "runNumber": "38785",
+    "rawCode": "MED",
+    "timestamp": "2026-07-19T01:55:04.195561-04:00",
+    "address": "300 Block S Limestone",
+    "extra": {
+      "incidentNumber": "38785",
+      "run_id": "38785",
+      "address": "300 Block S Limestone",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC7,RS1",
+      "units": "EC7,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38785"
+    }
   }
 ]
