@@ -262,5 +262,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38780"
     }
+  },
+  {
+    "runNumber": "38782",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-19T01:41:01.098069-04:00",
+    "address": "180 E New Circle Road",
+    "extra": {
+      "incidentNumber": "38782",
+      "run_id": "38782",
+      "address": "180 E New Circle Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38782"
+    }
   }
 ]
