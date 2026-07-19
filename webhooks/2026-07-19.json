@@ -2506,5 +2506,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38882"
     }
+  },
+  {
+    "runNumber": "38884",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-19T15:46:36.364748-04:00",
+    "address": "2101 Cornerstone Drive",
+    "extra": {
+      "incidentNumber": "38884",
+      "run_id": "38884",
+      "address": "2101 Cornerstone Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E09,L05,EC1,201",
+      "units": "E02,E09,L05,EC1,201",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-38884"
+    }
   }
 ]
