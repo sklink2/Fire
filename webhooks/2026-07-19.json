@@ -2968,5 +2968,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38904"
     }
+  },
+  {
+    "runNumber": "38903",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-19T17:42:24.991361-04:00",
+    "address": "3880 Sugar Creek Drive",
+    "extra": {
+      "incidentNumber": "38903",
+      "run_id": "38903",
+      "address": "3880 Sugar Creek Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22",
+      "units": "E22",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38903"
+    }
   }
 ]
