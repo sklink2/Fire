@@ -2220,5 +2220,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38870"
     }
+  },
+  {
+    "runNumber": "38869",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-19T14:43:32.545113-04:00",
+    "address": "S Broadway & Pine Street",
+    "extra": {
+      "incidentNumber": "38869",
+      "run_id": "38869",
+      "address": "S Broadway & Pine Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10,RS1",
+      "units": "EC10,RS1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38869"
+    }
   }
 ]
