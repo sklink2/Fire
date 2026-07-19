@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38903"
     }
+  },
+  {
+    "runNumber": "38905",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-19T17:59:57.026851-04:00",
+    "address": "305 Lindenhurst Drive",
+    "extra": {
+      "incidentNumber": "38905",
+      "run_id": "38905",
+      "address": "305 Lindenhurst Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09",
+      "units": "E09",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38905"
+    }
   }
 ]
