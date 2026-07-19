@@ -570,5 +570,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38795"
     }
+  },
+  {
+    "runNumber": "38794",
+    "rawCode": "MED",
+    "timestamp": "2026-07-19T03:36:50.750332-04:00",
+    "address": "900 Block Aurora Avenue",
+    "extra": {
+      "incidentNumber": "38794",
+      "run_id": "38794",
+      "address": "900 Block Aurora Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38794"
+    }
   }
 ]
