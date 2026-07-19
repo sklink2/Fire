@@ -1120,5 +1120,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38817"
     }
+  },
+  {
+    "runNumber": "38820",
+    "rawCode": "MED",
+    "timestamp": "2026-07-19T10:13:14.226952-04:00",
+    "address": "1800 Block Rittenhouse Court",
+    "extra": {
+      "incidentNumber": "38820",
+      "run_id": "38820",
+      "address": "1800 Block Rittenhouse Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,EC8",
+      "units": "E10,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38820"
+    }
   }
 ]
