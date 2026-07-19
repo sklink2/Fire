@@ -1648,5 +1648,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38843"
     }
+  },
+  {
+    "runNumber": "38844",
+    "rawCode": "FBOT",
+    "timestamp": "2026-07-19T12:26:35.639993-04:00",
+    "address": "1740 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "38844",
+      "run_id": "38844",
+      "address": "1740 Nicholasville Road",
+      "rawType": "FBOT",
+      "typeCode": "FBOT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,204,432",
+      "units": "E12,204,432",
+      "unitCount": "3",
+      "primaryTopic": "FBOT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-38844"
+    }
   }
 ]
