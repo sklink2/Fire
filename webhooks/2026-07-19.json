@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38829"
     }
+  },
+  {
+    "runNumber": "38831",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-19T11:37:27.600878-04:00",
+    "address": "2047 Von List Court",
+    "extra": {
+      "incidentNumber": "38831",
+      "run_id": "38831",
+      "address": "2047 Von List Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E09,L02,202",
+      "units": "E05,E09,L02,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-38831"
+    }
   }
 ]
