@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38851"
     }
+  },
+  {
+    "runNumber": "38852",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-19T13:15:47.152028-04:00",
+    "address": "1079 Duncan Avenue",
+    "extra": {
+      "incidentNumber": "38852",
+      "run_id": "38852",
+      "address": "1079 Duncan Avenue",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E11,L02,EC7,204,220",
+      "units": "E06,E11,L02,EC7,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-38852"
+    }
   }
 ]
