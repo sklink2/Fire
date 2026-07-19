@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38761"
     }
+  },
+  {
+    "runNumber": "38764",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-18T23:38:15.060524-04:00",
+    "address": "1349 Centre Parkway",
+    "extra": {
+      "incidentNumber": "38764",
+      "run_id": "38764",
+      "address": "1349 Centre Parkway",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E16,L07,EC13,202",
+      "units": "E07,E16,L07,EC13,202",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-38764"
+    }
   }
 ]
