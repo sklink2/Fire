@@ -1186,5 +1186,27 @@
       "commandUnits": "220,201",
       "dedupeKey": "INCIDENT-38822"
     }
+  },
+  {
+    "runNumber": "38823",
+    "rawCode": "MED",
+    "timestamp": "2026-07-19T10:51:51.927790-04:00",
+    "address": "700 Block Newtown Court",
+    "extra": {
+      "incidentNumber": "38823",
+      "run_id": "38823",
+      "address": "700 Block Newtown Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,EC10",
+      "units": "E10,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38823"
+    }
   }
 ]
