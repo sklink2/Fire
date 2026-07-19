@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38799"
     }
+  },
+  {
+    "runNumber": "38801",
+    "rawCode": "MED",
+    "timestamp": "2026-07-19T06:28:43.487577-04:00",
+    "address": "500 Block Bright Avenue",
+    "extra": {
+      "incidentNumber": "38801",
+      "run_id": "38801",
+      "address": "500 Block Bright Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,EC6",
+      "units": "E04,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38801"
+    }
   }
 ]
