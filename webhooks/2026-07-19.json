@@ -1670,5 +1670,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-38844"
     }
+  },
+  {
+    "runNumber": "38845",
+    "rawCode": "MED",
+    "timestamp": "2026-07-19T12:33:35.543268-04:00",
+    "address": "2200 Block Thunderstick Drive",
+    "extra": {
+      "incidentNumber": "38845",
+      "run_id": "38845",
+      "address": "2200 Block Thunderstick Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L05,EC8",
+      "units": "L05,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38845"
+    }
   }
 ]
