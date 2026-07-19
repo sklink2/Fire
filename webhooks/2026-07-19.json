@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38875"
     }
+  },
+  {
+    "runNumber": "38876",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-19T15:08:00.441196-04:00",
+    "address": "707 Howard Street",
+    "extra": {
+      "incidentNumber": "38876",
+      "run_id": "38876",
+      "address": "707 Howard Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,EC13",
+      "units": "E10,EC13",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38876"
+    }
   }
 ]
