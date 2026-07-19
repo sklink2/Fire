@@ -3584,5 +3584,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38751"
     }
+  },
+  {
+    "runNumber": "38752",
+    "rawCode": "FSTR",
+    "timestamp": "2026-07-18T21:56:34.337293-04:00",
+    "address": "3501 Laredo Drive",
+    "extra": {
+      "incidentNumber": "38752",
+      "run_id": "38752",
+      "address": "3501 Laredo Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,E15,E16,E22,L04,L07,EC9,202,204,220,241,RS1",
+      "units": "E12,E15,E16,E22,L04,L07,EC9,202,204,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,202,204",
+      "dedupeKey": "INCIDENT-38752"
+    }
   }
 ]
