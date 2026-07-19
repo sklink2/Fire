@@ -1604,5 +1604,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-38840"
     }
+  },
+  {
+    "runNumber": "38842",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-19T12:19:37.537943-04:00",
+    "address": "100 Mcdowell Road",
+    "extra": {
+      "incidentNumber": "38842",
+      "run_id": "38842",
+      "address": "100 Mcdowell Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E05,L01,EC1,205,220",
+      "units": "E02,E05,L01,EC1,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-38842"
+    }
   }
 ]
