@@ -1560,5 +1560,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38838"
     }
+  },
+  {
+    "runNumber": "38841",
+    "rawCode": "MED",
+    "timestamp": "2026-07-19T12:16:05.337930-04:00",
+    "address": "500 Block Asbury Lane",
+    "extra": {
+      "incidentNumber": "38841",
+      "run_id": "38841",
+      "address": "500 Block Asbury Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38841"
+    }
   }
 ]
