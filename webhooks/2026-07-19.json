@@ -2088,5 +2088,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-38863"
     }
+  },
+  {
+    "runNumber": "38865",
+    "rawCode": "FBOT",
+    "timestamp": "2026-07-19T14:22:24.170787-04:00",
+    "address": "1 Street Joseph Drive",
+    "extra": {
+      "incidentNumber": "38865",
+      "run_id": "38865",
+      "address": "1 Street Joseph Drive",
+      "rawType": "FBOT",
+      "typeCode": "FBOT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,204,433",
+      "units": "E11,204,433",
+      "unitCount": "3",
+      "primaryTopic": "FBOT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-38865"
+    }
   }
 ]
