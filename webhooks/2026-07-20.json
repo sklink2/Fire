@@ -4068,5 +4068,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39140"
     }
+  },
+  {
+    "runNumber": "39143",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-20T18:08:53.896327-04:00",
+    "address": "1232 Speculator Court",
+    "extra": {
+      "incidentNumber": "39143",
+      "run_id": "39143",
+      "address": "1232 Speculator Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,E20,L04,204",
+      "units": "E15,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-39143"
+    }
   }
 ]
