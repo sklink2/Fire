@@ -1054,5 +1054,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39002"
     }
+  },
+  {
+    "runNumber": "39003",
+    "rawCode": "MED",
+    "timestamp": "2026-07-20T08:08:57.068714-04:00",
+    "address": "3300 Block Wood Valley Court",
+    "extra": {
+      "incidentNumber": "39003",
+      "run_id": "39003",
+      "address": "3300 Block Wood Valley Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39003"
+    }
   }
 ]
