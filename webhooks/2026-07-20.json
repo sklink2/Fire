@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38998"
     }
+  },
+  {
+    "runNumber": "38997",
+    "rawCode": "MED",
+    "timestamp": "2026-07-20T07:44:26.873988-04:00",
+    "address": "3300 Block Otter Creek Drive",
+    "extra": {
+      "incidentNumber": "38997",
+      "run_id": "38997",
+      "address": "3300 Block Otter Creek Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38997"
+    }
   }
 ]
