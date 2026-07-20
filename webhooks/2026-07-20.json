@@ -1472,5 +1472,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39023"
     }
+  },
+  {
+    "runNumber": "39022",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-20T09:50:43.767205-04:00",
+    "address": "4405 Whitfield Circle",
+    "extra": {
+      "incidentNumber": "39022",
+      "run_id": "39022",
+      "address": "4405 Whitfield Circle",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15",
+      "units": "E15",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39022"
+    }
   }
 ]
