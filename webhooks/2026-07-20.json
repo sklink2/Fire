@@ -3694,5 +3694,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39125"
     }
+  },
+  {
+    "runNumber": "39124",
+    "rawCode": "MED",
+    "timestamp": "2026-07-20T16:44:43.964655-04:00",
+    "address": "2400 Block Gooseberry Circle",
+    "extra": {
+      "incidentNumber": "39124",
+      "run_id": "39124",
+      "address": "2400 Block Gooseberry Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,EC2",
+      "units": "E17,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39124"
+    }
   }
 ]
