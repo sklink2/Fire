@@ -3078,5 +3078,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-39096"
     }
+  },
+  {
+    "runNumber": "39095",
+    "rawCode": "MED",
+    "timestamp": "2026-07-20T14:56:02.889958-04:00",
+    "address": "2300 Block Walcot Way",
+    "extra": {
+      "incidentNumber": "39095",
+      "run_id": "39095",
+      "address": "2300 Block Walcot Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "T1,EC9",
+      "units": "T1,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39095"
+    }
   }
 ]
