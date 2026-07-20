@@ -3056,5 +3056,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39094"
     }
+  },
+  {
+    "runNumber": "39096",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-07-20T14:55:56.017335-04:00",
+    "address": "Versailles Road & Delmont Drive",
+    "extra": {
+      "incidentNumber": "39096",
+      "run_id": "39096",
+      "address": "Versailles Road & Delmont Drive",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,L04,EC5,205,RS1",
+      "units": "E14,L04,EC5,205,RS1",
+      "unitCount": "5",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-39096"
+    }
   }
 ]
