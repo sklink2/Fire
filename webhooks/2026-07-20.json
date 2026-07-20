@@ -1076,5 +1076,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39003"
     }
+  },
+  {
+    "runNumber": "39004",
+    "rawCode": "FASS",
+    "timestamp": "2026-07-20T08:12:29.531722-04:00",
+    "address": "Spring Run Road & Pine Ridge Way",
+    "extra": {
+      "incidentNumber": "39004",
+      "run_id": "39004",
+      "address": "Spring Run Road & Pine Ridge Way",
+      "rawType": "FASS",
+      "typeCode": "FASS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "204",
+      "units": "204",
+      "unitCount": "1",
+      "primaryTopic": "FASS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-39004"
+    }
   }
 ]
