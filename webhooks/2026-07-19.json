@@ -3716,5 +3716,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-38948"
     }
+  },
+  {
+    "runNumber": "38950",
+    "rawCode": "MED",
+    "timestamp": "2026-07-19T23:15:41.394741-04:00",
+    "address": "4400 Block Banyan Park",
+    "extra": {
+      "incidentNumber": "38950",
+      "run_id": "38950",
+      "address": "4400 Block Banyan Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38950"
+    }
   }
 ]
