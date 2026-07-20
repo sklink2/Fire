@@ -1208,5 +1208,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-39009"
     }
+  },
+  {
+    "runNumber": "39010",
+    "rawCode": "FGAO",
+    "timestamp": "2026-07-20T08:40:32.534409-04:00",
+    "address": "3849 Wyndsong Trail",
+    "extra": {
+      "incidentNumber": "39010",
+      "run_id": "39010",
+      "address": "3849 Wyndsong Trail",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,E16",
+      "units": "E15,E16",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39010"
+    }
   }
 ]
