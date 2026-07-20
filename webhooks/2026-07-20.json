@@ -2682,5 +2682,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-39077"
     }
+  },
+  {
+    "runNumber": "39080",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-07-20T14:03:17.551325-04:00",
+    "address": "262 S Ashland Avenue",
+    "extra": {
+      "incidentNumber": "39080",
+      "run_id": "39080",
+      "address": "262 S Ashland Avenue",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L02",
+      "units": "L02",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39080"
+    }
   }
 ]
