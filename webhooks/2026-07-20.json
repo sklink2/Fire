@@ -3562,5 +3562,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39117"
     }
+  },
+  {
+    "runNumber": "39120",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-20T16:23:39.598782-04:00",
+    "address": "2469 Crescenzio Way",
+    "extra": {
+      "incidentNumber": "39120",
+      "run_id": "39120",
+      "address": "2469 Crescenzio Way",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,E13,L03,EC22,203,220",
+      "units": "E10,E13,L03,EC22,203,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,203",
+      "dedupeKey": "INCIDENT-39120"
+    }
   }
 ]
