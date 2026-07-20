@@ -834,5 +834,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38992"
     }
+  },
+  {
+    "runNumber": "38991",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-20T07:02:22.631751-04:00",
+    "address": "805 Chinoe Road",
+    "extra": {
+      "incidentNumber": "38991",
+      "run_id": "38991",
+      "address": "805 Chinoe Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E16,L02,EC2,202,220",
+      "units": "E07,E16,L02,EC2,202,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-38991"
+    }
   }
 ]
