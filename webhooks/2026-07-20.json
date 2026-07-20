@@ -1780,5 +1780,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-39037"
     }
+  },
+  {
+    "runNumber": "39039",
+    "rawCode": "MED",
+    "timestamp": "2026-07-20T11:21:55.793032-04:00",
+    "address": "1800 Block Georgetown Road",
+    "extra": {
+      "incidentNumber": "39039",
+      "run_id": "39039",
+      "address": "1800 Block Georgetown Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39039"
+    }
   }
 ]
