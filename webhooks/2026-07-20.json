@@ -1978,5 +1978,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-39046"
     }
+  },
+  {
+    "runNumber": "39045",
+    "rawCode": "MED",
+    "timestamp": "2026-07-20T12:04:07.973234-04:00",
+    "address": "1500 Block Fitzgerald Court",
+    "extra": {
+      "incidentNumber": "39045",
+      "run_id": "39045",
+      "address": "1500 Block Fitzgerald Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC2",
+      "units": "E02,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39045"
+    }
   }
 ]
