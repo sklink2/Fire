@@ -4244,5 +4244,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39149"
     }
+  },
+  {
+    "runNumber": "39150",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-20T19:01:32.612103-04:00",
+    "address": "1589 Hill View Place",
+    "extra": {
+      "incidentNumber": "39150",
+      "run_id": "39150",
+      "address": "1589 Hill View Place",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,E14,L01,EC6,204",
+      "units": "E13,E14,L01,EC6,204",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-39150"
+    }
   }
 ]
