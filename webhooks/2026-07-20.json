@@ -1252,5 +1252,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39011"
     }
+  },
+  {
+    "runNumber": "39013",
+    "rawCode": "MED",
+    "timestamp": "2026-07-20T08:58:02.806883-04:00",
+    "address": "1400 Block Bryan Avenue",
+    "extra": {
+      "incidentNumber": "39013",
+      "run_id": "39013",
+      "address": "1400 Block Bryan Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39013"
+    }
   }
 ]
