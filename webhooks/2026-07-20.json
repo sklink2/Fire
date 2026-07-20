@@ -4266,5 +4266,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-39150"
     }
+  },
+  {
+    "runNumber": "39151",
+    "rawCode": "FSTR",
+    "timestamp": "2026-07-20T19:12:09.029072-04:00",
+    "address": "231 Osage Court",
+    "extra": {
+      "incidentNumber": "39151",
+      "run_id": "39151",
+      "address": "231 Osage Court",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E08,E09,E21,L05,L06,EC11,202,205,220,241,RS1",
+      "units": "E02,E08,E09,E21,L05,L06,EC11,202,205,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,202,205",
+      "dedupeKey": "INCIDENT-39151"
+    }
   }
 ]
