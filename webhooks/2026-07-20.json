@@ -2022,5 +2022,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39047"
     }
+  },
+  {
+    "runNumber": "39049",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-20T12:18:02.602170-04:00",
+    "address": "2300 Sir Barton Way",
+    "extra": {
+      "incidentNumber": "39049",
+      "run_id": "39049",
+      "address": "2300 Sir Barton Way",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L06,EC2",
+      "units": "L06,EC2",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39049"
+    }
   }
 ]
