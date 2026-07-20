@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39043"
     }
+  },
+  {
+    "runNumber": "39046",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-20T12:04:03.210264-04:00",
+    "address": "1540 University Drive",
+    "extra": {
+      "incidentNumber": "39046",
+      "run_id": "39046",
+      "address": "1540 University Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E06,E07,L02,204",
+      "units": "E05,E06,E07,L02,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-39046"
+    }
   }
 ]
