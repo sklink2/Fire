@@ -3474,5 +3474,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38937"
     }
+  },
+  {
+    "runNumber": "38938",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-19T21:58:31.432960-04:00",
+    "address": "1325 Gray Hawk Road",
+    "extra": {
+      "incidentNumber": "38938",
+      "run_id": "38938",
+      "address": "1325 Gray Hawk Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,E09,L02,202",
+      "units": "E07,E09,L02,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-38938"
+    }
   }
 ]
