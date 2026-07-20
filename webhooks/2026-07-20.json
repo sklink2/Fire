@@ -4090,5 +4090,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-39143"
     }
+  },
+  {
+    "runNumber": "39142",
+    "rawCode": "FSIA",
+    "timestamp": "2026-07-20T18:08:58.458966-04:00",
+    "address": "2509 Kittens Joy Circle",
+    "extra": {
+      "incidentNumber": "39142",
+      "run_id": "39142",
+      "address": "2509 Kittens Joy Circle",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,E24,201",
+      "units": "E10,E24,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-39142"
+    }
   }
 ]
