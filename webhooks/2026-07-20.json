@@ -108,5 +108,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38958"
     }
+  },
+  {
+    "runNumber": "38959",
+    "rawCode": "MED",
+    "timestamp": "2026-07-20T01:43:01.039002-04:00",
+    "address": "2000 Block Huckleberry Circle",
+    "extra": {
+      "incidentNumber": "38959",
+      "run_id": "38959",
+      "address": "2000 Block Huckleberry Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC9",
+      "units": "E20,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38959"
+    }
   }
 ]
