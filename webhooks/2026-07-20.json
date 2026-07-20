@@ -570,5 +570,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38979"
     }
+  },
+  {
+    "runNumber": "38980",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-20T05:10:02.194095-04:00",
+    "address": "475 Angliana Avenue",
+    "extra": {
+      "incidentNumber": "38980",
+      "run_id": "38980",
+      "address": "475 Angliana Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E11,L01,204",
+      "units": "E06,E11,L01,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-38980"
+    }
   }
 ]
