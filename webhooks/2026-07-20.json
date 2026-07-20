@@ -3518,5 +3518,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39116"
     }
+  },
+  {
+    "runNumber": "39118",
+    "rawCode": "MED",
+    "timestamp": "2026-07-20T16:20:07.391519-04:00",
+    "address": "2000 Block Versailles Road",
+    "extra": {
+      "incidentNumber": "39118",
+      "run_id": "39118",
+      "address": "2000 Block Versailles Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,EC2",
+      "units": "E14,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39118"
+    }
   }
 ]
