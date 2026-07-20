@@ -3694,5 +3694,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38947"
     }
+  },
+  {
+    "runNumber": "38948",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-19T23:08:41.629792-04:00",
+    "address": "2040 Street Stephens Green",
+    "extra": {
+      "incidentNumber": "38948",
+      "run_id": "38948",
+      "address": "2040 Street Stephens Green",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,E20,204",
+      "units": "E15,E20,204",
+      "unitCount": "3",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-38948"
+    }
   }
 ]
