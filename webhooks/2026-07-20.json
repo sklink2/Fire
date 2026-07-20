@@ -1186,5 +1186,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39008"
     }
+  },
+  {
+    "runNumber": "39009",
+    "rawCode": "FVEH",
+    "timestamp": "2026-07-20T08:30:00.574768-04:00",
+    "address": "3490 Richmond Road",
+    "extra": {
+      "incidentNumber": "39009",
+      "run_id": "39009",
+      "address": "3490 Richmond Road",
+      "rawType": "FVEH",
+      "typeCode": "FVEH",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,202",
+      "units": "E09,202",
+      "unitCount": "2",
+      "primaryTopic": "FVEH",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-39009"
+    }
   }
 ]
