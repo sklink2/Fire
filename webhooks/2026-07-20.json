@@ -1758,5 +1758,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39034"
     }
+  },
+  {
+    "runNumber": "39037",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-20T11:18:25.202552-04:00",
+    "address": "740 Enterprise Drive",
+    "extra": {
+      "incidentNumber": "39037",
+      "run_id": "39037",
+      "address": "740 Enterprise Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E13,L01,203",
+      "units": "E01,E13,L01,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-39037"
+    }
   }
 ]
