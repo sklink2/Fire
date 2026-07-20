@@ -856,5 +856,27 @@
       "commandUnits": "220,202",
       "dedupeKey": "INCIDENT-38991"
     }
+  },
+  {
+    "runNumber": "38993",
+    "rawCode": "MED",
+    "timestamp": "2026-07-20T07:12:48.960150-04:00",
+    "address": "5700 Block Briar Hill Road",
+    "extra": {
+      "incidentNumber": "38993",
+      "run_id": "38993",
+      "address": "5700 Block Briar Hill Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,EC3",
+      "units": "E17,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38993"
+    }
   }
 ]
