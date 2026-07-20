@@ -482,5 +482,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-38975"
     }
+  },
+  {
+    "runNumber": "38976",
+    "rawCode": "MED",
+    "timestamp": "2026-07-20T04:03:21.639872-04:00",
+    "address": "3600 Block Keystone Court",
+    "extra": {
+      "incidentNumber": "38976",
+      "run_id": "38976",
+      "address": "3600 Block Keystone Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-38976"
+    }
   }
 ]
