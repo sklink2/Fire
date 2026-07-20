@@ -3166,5 +3166,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-39099"
     }
+  },
+  {
+    "runNumber": "39100",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-07-20T15:13:28.643354-04:00",
+    "address": "1107 Winchester Road",
+    "extra": {
+      "incidentNumber": "39100",
+      "run_id": "39100",
+      "address": "1107 Winchester Road",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02",
+      "units": "E02",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39100"
+    }
   }
 ]
