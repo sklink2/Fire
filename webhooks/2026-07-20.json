@@ -1098,5 +1098,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-39004"
     }
+  },
+  {
+    "runNumber": "39007",
+    "rawCode": "MED",
+    "timestamp": "2026-07-20T08:15:58.331958-04:00",
+    "address": "4500 Block Thornbridge Lane",
+    "extra": {
+      "incidentNumber": "39007",
+      "run_id": "39007",
+      "address": "4500 Block Thornbridge Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L07,EC4",
+      "units": "L07,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39007"
+    }
   }
 ]
