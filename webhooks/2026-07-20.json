@@ -4354,5 +4354,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39154"
     }
+  },
+  {
+    "runNumber": "39155",
+    "rawCode": "MED",
+    "timestamp": "2026-07-20T19:36:40.309696-04:00",
+    "address": "100 Block Cochran Road",
+    "extra": {
+      "incidentNumber": "39155",
+      "run_id": "39155",
+      "address": "100 Block Cochran Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,EC4,205,241",
+      "units": "E07,EC4,205,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,205",
+      "dedupeKey": "INCIDENT-39155"
+    }
   }
 ]
