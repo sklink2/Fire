@@ -1032,5 +1032,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39001"
     }
+  },
+  {
+    "runNumber": "39002",
+    "rawCode": "MED",
+    "timestamp": "2026-07-20T08:05:27.151057-04:00",
+    "address": "S Broadway & Angliana Avenue",
+    "extra": {
+      "incidentNumber": "39002",
+      "run_id": "39002",
+      "address": "S Broadway & Angliana Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "RS1",
+      "units": "RS1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39002"
+    }
   }
 ]
