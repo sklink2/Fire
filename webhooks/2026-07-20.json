@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39058"
     }
+  },
+  {
+    "runNumber": "39060",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-20T12:49:38.462629-04:00",
+    "address": "561 S Broadway",
+    "extra": {
+      "incidentNumber": "39060",
+      "run_id": "39060",
+      "address": "561 S Broadway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,L01",
+      "units": "E06,L01",
+      "unitCount": "2",
+      "primaryTopic": "FPRT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39060"
+    }
   }
 ]
