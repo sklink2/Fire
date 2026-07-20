@@ -3650,5 +3650,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39123"
     }
+  },
+  {
+    "runNumber": "39122",
+    "rawCode": "MED",
+    "timestamp": "2026-07-20T16:37:42.887956-04:00",
+    "address": "1600 Block Versailles Road",
+    "extra": {
+      "incidentNumber": "39122",
+      "run_id": "39122",
+      "address": "1600 Block Versailles Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39122"
+    }
   }
 ]
