@@ -108,5 +108,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39203"
     }
+  },
+  {
+    "runNumber": "39204",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-21T01:34:31.459698-04:00",
+    "address": "117 Westhampton Drive",
+    "extra": {
+      "incidentNumber": "39204",
+      "run_id": "39204",
+      "address": "117 Westhampton Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,E24,L03,203",
+      "units": "E13,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-39204"
+    }
   }
 ]
