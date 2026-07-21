@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39244"
     }
+  },
+  {
+    "runNumber": "39245",
+    "rawCode": "MED",
+    "timestamp": "2026-07-21T08:31:59.463303-04:00",
+    "address": "600 Block Headley Avenue",
+    "extra": {
+      "incidentNumber": "39245",
+      "run_id": "39245",
+      "address": "600 Block Headley Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39245"
+    }
   }
 ]
