@@ -1538,5 +1538,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39268"
     }
+  },
+  {
+    "runNumber": "39267",
+    "rawCode": "MED",
+    "timestamp": "2026-07-21T10:52:26.632985-04:00",
+    "address": "1400 Block Audubon Avenue",
+    "extra": {
+      "incidentNumber": "39267",
+      "run_id": "39267",
+      "address": "1400 Block Audubon Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC4,241",
+      "units": "E11,EC4,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-39267"
+    }
   }
 ]
