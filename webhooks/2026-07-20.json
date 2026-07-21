@@ -4860,5 +4860,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39175"
     }
+  },
+  {
+    "runNumber": "39178",
+    "rawCode": "MED",
+    "timestamp": "2026-07-20T21:46:27.869568-04:00",
+    "address": "1000 Block Horsemans Lane",
+    "extra": {
+      "incidentNumber": "39178",
+      "run_id": "39178",
+      "address": "1000 Block Horsemans Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39178"
+    }
   }
 ]
