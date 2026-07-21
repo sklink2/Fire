@@ -2110,5 +2110,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39293"
     }
+  },
+  {
+    "runNumber": "39295",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-21T12:41:07.039873-04:00",
+    "address": "343 Waller Avenue",
+    "extra": {
+      "incidentNumber": "39295",
+      "run_id": "39295",
+      "address": "343 Waller Avenue",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,L02,EC7,205",
+      "units": "E05,E06,L02,EC7,205",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-39295"
+    }
   }
 ]
