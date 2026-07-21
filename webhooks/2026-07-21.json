@@ -2880,5 +2880,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-39330"
     }
+  },
+  {
+    "runNumber": "39329",
+    "rawCode": "MED",
+    "timestamp": "2026-07-21T16:01:09.557583-04:00",
+    "address": "500 Block Douglas Avenue",
+    "extra": {
+      "incidentNumber": "39329",
+      "run_id": "39329",
+      "address": "500 Block Douglas Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39329"
+    }
   }
 ]
