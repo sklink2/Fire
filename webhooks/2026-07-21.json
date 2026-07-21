@@ -1868,5 +1868,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-39283"
     }
+  },
+  {
+    "runNumber": "39284",
+    "rawCode": "FVIS",
+    "timestamp": "2026-07-21T11:55:28.894963-04:00",
+    "address": "2320 Versailles Road",
+    "extra": {
+      "incidentNumber": "39284",
+      "run_id": "39284",
+      "address": "2320 Versailles Road",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,E14,L04,EC7,204,RS1",
+      "units": "E13,E14,L04,EC7,204,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-39284"
+    }
   }
 ]
