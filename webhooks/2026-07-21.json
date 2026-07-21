@@ -3012,5 +3012,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39335"
     }
+  },
+  {
+    "runNumber": "39336",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-21T16:32:38.888014-04:00",
+    "address": "641 Maxwelton Court",
+    "extra": {
+      "incidentNumber": "39336",
+      "run_id": "39336",
+      "address": "641 Maxwelton Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E11,L02,204",
+      "units": "E06,E11,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-39336"
+    }
   }
 ]
