@@ -3694,5 +3694,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39367"
     }
+  },
+  {
+    "runNumber": "39366",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-21T18:38:59.879111-04:00",
+    "address": "150 W Lowry Lane",
+    "extra": {
+      "incidentNumber": "39366",
+      "run_id": "39366",
+      "address": "150 W Lowry Lane",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "432",
+      "units": "432",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39366"
+    }
   }
 ]
