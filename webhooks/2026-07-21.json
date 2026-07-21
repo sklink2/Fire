@@ -306,5 +306,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39212"
     }
+  },
+  {
+    "runNumber": "39213",
+    "rawCode": "MED",
+    "timestamp": "2026-07-21T02:55:13.872903-04:00",
+    "address": "400 Block W High Street",
+    "extra": {
+      "incidentNumber": "39213",
+      "run_id": "39213",
+      "address": "400 Block W High Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC7,RS1",
+      "units": "EC7,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39213"
+    }
   }
 ]
