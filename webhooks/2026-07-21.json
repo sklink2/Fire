@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39359"
     }
+  },
+  {
+    "runNumber": "39358",
+    "rawCode": "FSIA",
+    "timestamp": "2026-07-21T18:10:56.951111-04:00",
+    "address": "Armstrong Mill Road & River Park",
+    "extra": {
+      "incidentNumber": "39358",
+      "run_id": "39358",
+      "address": "Armstrong Mill Road & River Park",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E16,202",
+      "units": "E07,E16,202",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-39358"
+    }
   }
 ]
