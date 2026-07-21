@@ -3078,5 +3078,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39337"
     }
+  },
+  {
+    "runNumber": "39339",
+    "rawCode": "FSTR",
+    "timestamp": "2026-07-21T16:39:42.802826-04:00",
+    "address": "2401 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "39339",
+      "run_id": "39339",
+      "address": "2401 Nicholasville Road",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E09,E12,E15,E20,L04,L07,EC6,EC9,202,205,220,241,RS1",
+      "units": "E07,E09,E12,E15,E20,L04,L07,EC6,EC9,202,205,220,241,RS1",
+      "unitCount": "14",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,202,205",
+      "dedupeKey": "INCIDENT-39339"
+    }
   }
 ]
