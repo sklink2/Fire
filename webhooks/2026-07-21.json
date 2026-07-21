@@ -2264,5 +2264,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39300"
     }
+  },
+  {
+    "runNumber": "39302",
+    "rawCode": "MED",
+    "timestamp": "2026-07-21T13:37:13.478336-04:00",
+    "address": "900 Block Valley Avenue",
+    "extra": {
+      "incidentNumber": "39302",
+      "run_id": "39302",
+      "address": "900 Block Valley Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,EC10",
+      "units": "E04,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39302"
+    }
   }
 ]
