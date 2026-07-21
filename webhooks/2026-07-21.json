@@ -2726,5 +2726,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-39322"
     }
+  },
+  {
+    "runNumber": "39324",
+    "rawCode": "MED",
+    "timestamp": "2026-07-21T15:32:59.623151-04:00",
+    "address": "600 Block Tundra Court",
+    "extra": {
+      "incidentNumber": "39324",
+      "run_id": "39324",
+      "address": "600 Block Tundra Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC13",
+      "units": "EC13",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39324"
+    }
   }
 ]
