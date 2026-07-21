@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39319"
     }
+  },
+  {
+    "runNumber": "39321",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-21T15:15:28.393810-04:00",
+    "address": "1900 Garden Springs Drive",
+    "extra": {
+      "incidentNumber": "39321",
+      "run_id": "39321",
+      "address": "1900 Garden Springs Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E12,L04,203",
+      "units": "E11,E12,L04,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-39321"
+    }
   }
 ]
