@@ -526,5 +526,27 @@
       "commandUnits": "241,203",
       "dedupeKey": "INCIDENT-39221"
     }
+  },
+  {
+    "runNumber": "39224",
+    "rawCode": "MED",
+    "timestamp": "2026-07-21T05:19:02.644874-04:00",
+    "address": "900 Block Woodshire Way",
+    "extra": {
+      "incidentNumber": "39224",
+      "run_id": "39224",
+      "address": "900 Block Woodshire Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC13",
+      "units": "EC13",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39224"
+    }
   }
 ]
