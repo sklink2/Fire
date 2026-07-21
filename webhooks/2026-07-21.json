@@ -1978,5 +1978,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-39288"
     }
+  },
+  {
+    "runNumber": "39289",
+    "rawCode": "MED",
+    "timestamp": "2026-07-21T12:16:31.234087-04:00",
+    "address": "900 Block Deer Crossing Way",
+    "extra": {
+      "incidentNumber": "39289",
+      "run_id": "39289",
+      "address": "900 Block Deer Crossing Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39289"
+    }
   }
 ]
