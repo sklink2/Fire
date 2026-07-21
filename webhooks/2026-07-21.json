@@ -2066,5 +2066,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39291"
     }
+  },
+  {
+    "runNumber": "39294",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-21T12:30:36.336828-04:00",
+    "address": "Clays Mill Road & Stratford Drive",
+    "extra": {
+      "incidentNumber": "39294",
+      "run_id": "39294",
+      "address": "Clays Mill Road & Stratford Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC7,220,241",
+      "units": "E11,EC7,220,241",
+      "unitCount": "4",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241,220",
+      "dedupeKey": "INCIDENT-39294"
+    }
   }
 ]
