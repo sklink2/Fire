@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39222"
     }
+  },
+  {
+    "runNumber": "39221",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-07-21T05:08:35.699431-04:00",
+    "address": "3117 Sandersville Road",
+    "extra": {
+      "incidentNumber": "39221",
+      "run_id": "39221",
+      "address": "3117 Sandersville Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,L03,EC6,203,241,RS1",
+      "units": "E24,L03,EC6,203,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-39221"
+    }
   }
 ]
