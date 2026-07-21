@@ -1252,5 +1252,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39255"
     }
+  },
+  {
+    "runNumber": "39256",
+    "rawCode": "MED",
+    "timestamp": "2026-07-21T09:49:10.519458-04:00",
+    "address": "1500 Block Versailles Road",
+    "extra": {
+      "incidentNumber": "39256",
+      "run_id": "39256",
+      "address": "1500 Block Versailles Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC1",
+      "units": "E14,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39256"
+    }
   }
 ]
