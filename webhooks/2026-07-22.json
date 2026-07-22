@@ -3012,5 +3012,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39552"
     }
+  },
+  {
+    "runNumber": "39553",
+    "rawCode": "FDET",
+    "timestamp": "2026-07-22T17:16:43.544574-04:00",
+    "address": "200 Shives Drive",
+    "extra": {
+      "incidentNumber": "39553",
+      "run_id": "39553",
+      "address": "200 Shives Drive",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC20",
+      "units": "EC20",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39553"
+    }
   }
 ]
