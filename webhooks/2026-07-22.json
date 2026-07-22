@@ -2110,5 +2110,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39511"
     }
+  },
+  {
+    "runNumber": "39510",
+    "rawCode": "MED",
+    "timestamp": "2026-07-22T13:32:15.818214-04:00",
+    "address": "600 Block Twin Pines Way",
+    "extra": {
+      "incidentNumber": "39510",
+      "run_id": "39510",
+      "address": "600 Block Twin Pines Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC9,CRT1",
+      "units": "E15,EC9,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39510"
+    }
   }
 ]
