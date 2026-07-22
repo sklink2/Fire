@@ -3254,5 +3254,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39563"
     }
+  },
+  {
+    "runNumber": "39564",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-22T17:58:51.575438-04:00",
+    "address": "521 S Broadway",
+    "extra": {
+      "incidentNumber": "39564",
+      "run_id": "39564",
+      "address": "521 S Broadway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "205",
+      "units": "205",
+      "unitCount": "1",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-39564"
+    }
   }
 ]
