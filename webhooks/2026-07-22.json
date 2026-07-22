@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39445"
     }
+  },
+  {
+    "runNumber": "39447",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-22T07:58:56.040351-04:00",
+    "address": "901 Journal Avenue",
+    "extra": {
+      "incidentNumber": "39447",
+      "run_id": "39447",
+      "address": "901 Journal Avenue",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E12,L02,EC7,204,220",
+      "units": "E06,E12,L02,EC7,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-39447"
+    }
   }
 ]
