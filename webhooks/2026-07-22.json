@@ -1560,5 +1560,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39487"
     }
+  },
+  {
+    "runNumber": "39486",
+    "rawCode": "FELS",
+    "timestamp": "2026-07-22T11:18:57.731644-04:00",
+    "address": "740 S Limestone",
+    "extra": {
+      "incidentNumber": "39486",
+      "run_id": "39486",
+      "address": "740 S Limestone",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L02,204,RS1",
+      "units": "L02,204,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-39486"
+    }
   }
 ]
