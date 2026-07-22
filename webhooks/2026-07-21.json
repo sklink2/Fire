@@ -4156,5 +4156,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-39387"
     }
+  },
+  {
+    "runNumber": "39386",
+    "rawCode": "FVIS",
+    "timestamp": "2026-07-21T20:55:52.951220-04:00",
+    "address": "1825 Liberty Road",
+    "extra": {
+      "incidentNumber": "39386",
+      "run_id": "39386",
+      "address": "1825 Liberty Road",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E09,L05,EC8,201,RS1",
+      "units": "E02,E09,L05,EC8,201,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-39386"
+    }
   }
 ]
