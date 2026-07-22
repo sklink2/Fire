@@ -1318,5 +1318,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39473"
     }
+  },
+  {
+    "runNumber": "39476",
+    "rawCode": "MED",
+    "timestamp": "2026-07-22T10:33:14.869730-04:00",
+    "address": "2000 Block Cambridge Drive",
+    "extra": {
+      "incidentNumber": "39476",
+      "run_id": "39476",
+      "address": "2000 Block Cambridge Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13",
+      "units": "E13",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39476"
+    }
   }
 ]
