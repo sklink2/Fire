@@ -4178,5 +4178,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-39386"
     }
+  },
+  {
+    "runNumber": "39385",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-21T20:56:00.998049-04:00",
+    "address": "195 Huguelet Drive",
+    "extra": {
+      "incidentNumber": "39385",
+      "run_id": "39385",
+      "address": "195 Huguelet Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,220",
+      "units": "E06,220",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-39385"
+    }
   }
 ]
