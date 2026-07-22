@@ -1670,5 +1670,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39490"
     }
+  },
+  {
+    "runNumber": "39488",
+    "rawCode": "MED",
+    "timestamp": "2026-07-22T11:39:58.425086-04:00",
+    "address": "1100 Block Boxwood Drive",
+    "extra": {
+      "incidentNumber": "39488",
+      "run_id": "39488",
+      "address": "1100 Block Boxwood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39488"
+    }
   }
 ]
