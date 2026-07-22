@@ -4728,5 +4728,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39411"
     }
+  },
+  {
+    "runNumber": "39412",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-21T23:51:11.589080-04:00",
+    "address": "307 E Maxwell Street",
+    "extra": {
+      "incidentNumber": "39412",
+      "run_id": "39412",
+      "address": "307 E Maxwell Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E05,L02,205",
+      "units": "E01,E05,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-39412"
+    }
   }
 ]
