@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39505"
     }
+  },
+  {
+    "runNumber": "39504",
+    "rawCode": "MED",
+    "timestamp": "2026-07-22T12:43:10.418307-04:00",
+    "address": "1500 Block Cantrill Drive",
+    "extra": {
+      "incidentNumber": "39504",
+      "run_id": "39504",
+      "address": "1500 Block Cantrill Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39504"
+    }
   }
 ]
