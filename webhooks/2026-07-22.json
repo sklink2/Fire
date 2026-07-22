@@ -1890,5 +1890,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-39501"
     }
+  },
+  {
+    "runNumber": "39502",
+    "rawCode": "MED",
+    "timestamp": "2026-07-22T12:39:33.321867-04:00",
+    "address": "100 Block Woodland Avenue",
+    "extra": {
+      "incidentNumber": "39502",
+      "run_id": "39502",
+      "address": "100 Block Woodland Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39502"
+    }
   }
 ]
