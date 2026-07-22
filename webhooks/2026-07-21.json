@@ -4310,5 +4310,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39392"
     }
+  },
+  {
+    "runNumber": "39393",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-21T21:41:22.367622-04:00",
+    "address": "160 N Eagle Creek Drive",
+    "extra": {
+      "incidentNumber": "39393",
+      "run_id": "39393",
+      "address": "160 N Eagle Creek Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E16,E21,L06,202",
+      "units": "E07,E16,E21,L06,202",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-39393"
+    }
   }
 ]
