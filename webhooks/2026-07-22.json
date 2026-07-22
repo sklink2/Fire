@@ -2308,5 +2308,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39521"
     }
+  },
+  {
+    "runNumber": "39520",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-07-22T14:10:54.610641-04:00",
+    "address": "1404 Menifee Avenue",
+    "extra": {
+      "incidentNumber": "39520",
+      "run_id": "39520",
+      "address": "1404 Menifee Avenue",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,L02,EC8,205,241,RS1",
+      "units": "E05,L02,EC8,205,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,205",
+      "dedupeKey": "INCIDENT-39520"
+    }
   }
 ]
