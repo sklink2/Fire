@@ -3980,5 +3980,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-39378"
     }
+  },
+  {
+    "runNumber": "39377",
+    "rawCode": "FWID",
+    "timestamp": "2026-07-21T20:13:45.346224-04:00",
+    "address": "3809 Walhampton Drive",
+    "extra": {
+      "incidentNumber": "39377",
+      "run_id": "39377",
+      "address": "3809 Walhampton Drive",
+      "rawType": "FWID",
+      "typeCode": "FWID",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15",
+      "units": "E15",
+      "unitCount": "1",
+      "primaryTopic": "FWID",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39377"
+    }
   }
 ]
