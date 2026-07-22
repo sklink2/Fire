@@ -834,5 +834,27 @@
       "commandUnits": "241,203",
       "dedupeKey": "INCIDENT-39452"
     }
+  },
+  {
+    "runNumber": "39453",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-22T08:16:24.864864-04:00",
+    "address": "1003 N Limestone",
+    "extra": {
+      "incidentNumber": "39453",
+      "run_id": "39453",
+      "address": "1003 N Limestone",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E16,L01,EC1,201",
+      "units": "E08,E16,L01,EC1,201",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-39453"
+    }
   }
 ]
