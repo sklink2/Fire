@@ -1032,5 +1032,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39462"
     }
+  },
+  {
+    "runNumber": "39466",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-22T09:26:36.355277-04:00",
+    "address": "167 W Main Street",
+    "extra": {
+      "incidentNumber": "39466",
+      "run_id": "39466",
+      "address": "167 W Main Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E08,E13,L01,205",
+      "units": "E06,E08,E13,L01,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-39466"
+    }
   }
 ]
