@@ -4750,5 +4750,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-39412"
     }
+  },
+  {
+    "runNumber": "39413",
+    "rawCode": "MED",
+    "timestamp": "2026-07-21T23:58:11.510694-04:00",
+    "address": "300 Block Lafayette Parkway",
+    "extra": {
+      "incidentNumber": "39413",
+      "run_id": "39413",
+      "address": "300 Block Lafayette Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11",
+      "units": "E11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39413"
+    }
   }
 ]
