@@ -2968,5 +2968,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-39551"
     }
+  },
+  {
+    "runNumber": "39550",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-22T16:59:17.590759-04:00",
+    "address": "Sir Barton Way & Meeting Street",
+    "extra": {
+      "incidentNumber": "39550",
+      "run_id": "39550",
+      "address": "Sir Barton Way & Meeting Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L05,EC10",
+      "units": "L05,EC10",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39550"
+    }
   }
 ]
