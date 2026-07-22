@@ -3276,5 +3276,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-39564"
     }
+  },
+  {
+    "runNumber": "39565",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-22T18:12:54.842507-04:00",
+    "address": "1619 Duntreath Drive",
+    "extra": {
+      "incidentNumber": "39565",
+      "run_id": "39565",
+      "address": "1619 Duntreath Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,E20,L04,EC5,203,220",
+      "units": "E14,E20,L04,EC5,203,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,203",
+      "dedupeKey": "INCIDENT-39565"
+    }
   }
 ]
