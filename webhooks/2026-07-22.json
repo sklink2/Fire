@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39444"
     }
+  },
+  {
+    "runNumber": "39445",
+    "rawCode": "MED",
+    "timestamp": "2026-07-22T07:13:15.526880-04:00",
+    "address": "3300 Block Big Bend Court",
+    "extra": {
+      "incidentNumber": "39445",
+      "run_id": "39445",
+      "address": "3300 Block Big Bend Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39445"
+    }
   }
 ]
