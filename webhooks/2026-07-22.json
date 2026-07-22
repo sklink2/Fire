@@ -2132,5 +2132,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39510"
     }
+  },
+  {
+    "runNumber": "39513",
+    "rawCode": "MED",
+    "timestamp": "2026-07-22T13:46:13.359016-04:00",
+    "address": "500 Block W Main Street",
+    "extra": {
+      "incidentNumber": "39513",
+      "run_id": "39513",
+      "address": "500 Block W Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,EC10",
+      "units": "E04,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39513"
+    }
   }
 ]
