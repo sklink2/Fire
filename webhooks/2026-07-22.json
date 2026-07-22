@@ -1164,5 +1164,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39468"
     }
+  },
+  {
+    "runNumber": "39469",
+    "rawCode": "MED",
+    "timestamp": "2026-07-22T09:51:08.741208-04:00",
+    "address": "100 Block N Broadway",
+    "extra": {
+      "incidentNumber": "39469",
+      "run_id": "39469",
+      "address": "100 Block N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10,CRT1",
+      "units": "EC10,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39469"
+    }
   }
 ]
