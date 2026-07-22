@@ -2264,5 +2264,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39518"
     }
+  },
+  {
+    "runNumber": "39519",
+    "rawCode": "MED",
+    "timestamp": "2026-07-22T14:07:17.333776-04:00",
+    "address": "1900 Block Fontaine Road",
+    "extra": {
+      "incidentNumber": "39519",
+      "run_id": "39519",
+      "address": "1900 Block Fontaine Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39519"
+    }
   }
 ]
