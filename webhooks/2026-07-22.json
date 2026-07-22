@@ -1934,5 +1934,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39506"
     }
+  },
+  {
+    "runNumber": "39505",
+    "rawCode": "MED",
+    "timestamp": "2026-07-22T12:43:07.696961-04:00",
+    "address": "1600 Block Alexandria Drive",
+    "extra": {
+      "incidentNumber": "39505",
+      "run_id": "39505",
+      "address": "1600 Block Alexandria Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39505"
+    }
   }
 ]
