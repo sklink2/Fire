@@ -2330,5 +2330,27 @@
       "commandUnits": "241,205",
       "dedupeKey": "INCIDENT-39520"
     }
+  },
+  {
+    "runNumber": "39522",
+    "rawCode": "FVEH",
+    "timestamp": "2026-07-22T14:14:17.487267-04:00",
+    "address": "507 Reed Lane",
+    "extra": {
+      "incidentNumber": "39522",
+      "run_id": "39522",
+      "address": "507 Reed Lane",
+      "rawType": "FVEH",
+      "typeCode": "FVEH",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11",
+      "units": "E11",
+      "unitCount": "1",
+      "primaryTopic": "FVEH",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39522"
+    }
   }
 ]
