@@ -1670,5 +1670,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39689"
     }
+  },
+  {
+    "runNumber": "39692",
+    "rawCode": "MED",
+    "timestamp": "2026-07-23T12:20:28.383108-04:00",
+    "address": "800 Block Euclid Avenue",
+    "extra": {
+      "incidentNumber": "39692",
+      "run_id": "39692",
+      "address": "800 Block Euclid Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC10",
+      "units": "E05,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39692"
+    }
   }
 ]
