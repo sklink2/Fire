@@ -3012,5 +3012,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39752"
     }
+  },
+  {
+    "runNumber": "39751",
+    "rawCode": "MED",
+    "timestamp": "2026-07-23T16:22:37.766691-04:00",
+    "address": "800 Block E Loudon Avenue",
+    "extra": {
+      "incidentNumber": "39751",
+      "run_id": "39751",
+      "address": "800 Block E Loudon Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC1",
+      "units": "E02,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39751"
+    }
   }
 ]
