@@ -2462,5 +2462,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39725"
     }
+  },
+  {
+    "runNumber": "39727",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-07-23T14:37:22.693610-04:00",
+    "address": "1971 N Broadway",
+    "extra": {
+      "incidentNumber": "39727",
+      "run_id": "39727",
+      "address": "1971 N Broadway",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,L03,EC3,205,241,RS1",
+      "units": "E08,L03,EC3,205,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,205",
+      "dedupeKey": "INCIDENT-39727"
+    }
   }
 ]
