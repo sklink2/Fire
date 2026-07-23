@@ -3386,5 +3386,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39767"
     }
+  },
+  {
+    "runNumber": "39769",
+    "rawCode": "MED",
+    "timestamp": "2026-07-23T18:18:22.044462-04:00",
+    "address": "300 Block N Limestone",
+    "extra": {
+      "incidentNumber": "39769",
+      "run_id": "39769",
+      "address": "300 Block N Limestone",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39769"
+    }
   }
 ]
