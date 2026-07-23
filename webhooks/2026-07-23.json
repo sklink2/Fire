@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39726"
     }
+  },
+  {
+    "runNumber": "39725",
+    "rawCode": "MED",
+    "timestamp": "2026-07-23T14:30:21.898904-04:00",
+    "address": "300 Block Virginia Avenue",
+    "extra": {
+      "incidentNumber": "39725",
+      "run_id": "39725",
+      "address": "300 Block Virginia Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,EC6",
+      "units": "E11,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39725"
+    }
   }
 ]
