@@ -2242,5 +2242,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-39716"
     }
+  },
+  {
+    "runNumber": "39718",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-23T13:48:14.086575-04:00",
+    "address": "3205 Honeyhill Lane",
+    "extra": {
+      "incidentNumber": "39718",
+      "run_id": "39718",
+      "address": "3205 Honeyhill Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E21,L02,202",
+      "units": "E16,E21,L02,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-39718"
+    }
   }
 ]
