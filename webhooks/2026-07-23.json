@@ -1076,5 +1076,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-39662"
     }
+  },
+  {
+    "runNumber": "39663",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-23T08:53:31.670848-04:00",
+    "address": "350 W Short Street",
+    "extra": {
+      "incidentNumber": "39663",
+      "run_id": "39663",
+      "address": "350 W Short Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E04,E06,L02,203",
+      "units": "E01,E04,E06,L02,203",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-39663"
+    }
   }
 ]
