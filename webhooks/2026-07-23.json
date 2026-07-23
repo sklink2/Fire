@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39703"
     }
+  },
+  {
+    "runNumber": "39704",
+    "rawCode": "MED",
+    "timestamp": "2026-07-23T13:13:07.144770-04:00",
+    "address": "4400 Block Newtown Pike",
+    "extra": {
+      "incidentNumber": "39704",
+      "run_id": "39704",
+      "address": "4400 Block Newtown Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E19,EC1",
+      "units": "E19,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39704"
+    }
   }
 ]
