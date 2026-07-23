@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39735"
     }
+  },
+  {
+    "runNumber": "39737",
+    "rawCode": "FELS",
+    "timestamp": "2026-07-23T15:08:54.074679-04:00",
+    "address": "175 E Main Street",
+    "extra": {
+      "incidentNumber": "39737",
+      "run_id": "39737",
+      "address": "175 E Main Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,L01,205",
+      "units": "E13,L01,205",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-39737"
+    }
   }
 ]
