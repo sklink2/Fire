@@ -2506,5 +2506,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39728"
     }
+  },
+  {
+    "runNumber": "39729",
+    "rawCode": "MED",
+    "timestamp": "2026-07-23T14:44:22.036905-04:00",
+    "address": "700 Block Jaeduke Drive",
+    "extra": {
+      "incidentNumber": "39729",
+      "run_id": "39729",
+      "address": "700 Block Jaeduke Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L07,EC13,CRT1",
+      "units": "L07,EC13,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39729"
+    }
   }
 ]
