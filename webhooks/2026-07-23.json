@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39696"
     }
+  },
+  {
+    "runNumber": "39698",
+    "rawCode": "MED",
+    "timestamp": "2026-07-23T12:48:33.326487-04:00",
+    "address": "300 Block E New Circle Road",
+    "extra": {
+      "incidentNumber": "39698",
+      "run_id": "39698",
+      "address": "300 Block E New Circle Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC12",
+      "units": "E02,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39698"
+    }
   }
 ]
