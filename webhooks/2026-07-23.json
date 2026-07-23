@@ -1450,5 +1450,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39680"
     }
+  },
+  {
+    "runNumber": "39681",
+    "rawCode": "MED",
+    "timestamp": "2026-07-23T11:10:19.588473-04:00",
+    "address": "2000 Block Daniel Court",
+    "extra": {
+      "incidentNumber": "39681",
+      "run_id": "39681",
+      "address": "2000 Block Daniel Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,EC7",
+      "units": "E14,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39681"
+    }
   }
 ]
