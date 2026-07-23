@@ -1494,5 +1494,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39682"
     }
+  },
+  {
+    "runNumber": "39683",
+    "rawCode": "MED",
+    "timestamp": "2026-07-23T11:31:22.786118-04:00",
+    "address": "100 Block Conn Terrace",
+    "extra": {
+      "incidentNumber": "39683",
+      "run_id": "39683",
+      "address": "100 Block Conn Terrace",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC1",
+      "units": "E05,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39683"
+    }
   }
 ]
