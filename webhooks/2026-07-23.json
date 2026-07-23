@@ -746,5 +746,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39648"
     }
+  },
+  {
+    "runNumber": "39647",
+    "rawCode": "MED",
+    "timestamp": "2026-07-23T07:18:48.483450-04:00",
+    "address": "700 Block Enterprise Drive",
+    "extra": {
+      "incidentNumber": "39647",
+      "run_id": "39647",
+      "address": "700 Block Enterprise Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39647"
+    }
   }
 ]
