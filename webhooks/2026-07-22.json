@@ -4046,5 +4046,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39598"
     }
+  },
+  {
+    "runNumber": "39600",
+    "rawCode": "MED",
+    "timestamp": "2026-07-22T23:00:35.072447-04:00",
+    "address": "500 Block Euclid Avenue",
+    "extra": {
+      "incidentNumber": "39600",
+      "run_id": "39600",
+      "address": "500 Block Euclid Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,EC7",
+      "units": "E05,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39600"
+    }
   }
 ]
