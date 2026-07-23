@@ -3430,5 +3430,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39770"
     }
+  },
+  {
+    "runNumber": "39771",
+    "rawCode": "FVIS",
+    "timestamp": "2026-07-23T18:46:27.318763-04:00",
+    "address": "157 Madison River Road",
+    "extra": {
+      "incidentNumber": "39771",
+      "run_id": "39771",
+      "address": "157 Madison River Road",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,E24,L03,EC3,203,RS1",
+      "units": "E13,E24,L03,EC3,203,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-39771"
+    }
   }
 ]
