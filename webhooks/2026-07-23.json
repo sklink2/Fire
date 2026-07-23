@@ -240,5 +240,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39625"
     }
+  },
+  {
+    "runNumber": "39624",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-23T02:48:42.744478-04:00",
+    "address": "2629 Bourbon Walk",
+    "extra": {
+      "incidentNumber": "39624",
+      "run_id": "39624",
+      "address": "2629 Bourbon Walk",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,E24,L03,203",
+      "units": "E13,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-39624"
+    }
   }
 ]
