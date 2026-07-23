@@ -1978,5 +1978,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39704"
     }
+  },
+  {
+    "runNumber": "39707",
+    "rawCode": "MED",
+    "timestamp": "2026-07-23T13:20:08.600113-04:00",
+    "address": "100 Block Idle Hour Drive",
+    "extra": {
+      "incidentNumber": "39707",
+      "run_id": "39707",
+      "address": "100 Block Idle Hour Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L02,EC21",
+      "units": "L02,EC21",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39707"
+    }
   }
 ]
