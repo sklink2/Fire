@@ -4332,5 +4332,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39612"
     }
+  },
+  {
+    "runNumber": "39613",
+    "rawCode": "FSTR",
+    "timestamp": "2026-07-22T23:56:45.654113-04:00",
+    "address": "2547 Richmond Road",
+    "extra": {
+      "incidentNumber": "39613",
+      "run_id": "39613",
+      "address": "2547 Richmond Road",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E07,E09,E12,E16,L05,L06,EC8,201,202,220,241,RS1",
+      "units": "E02,E07,E09,E12,E16,L05,L06,EC8,201,202,220,241,RS1",
+      "unitCount": "13",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,202",
+      "dedupeKey": "INCIDENT-39613"
+    }
   }
 ]
