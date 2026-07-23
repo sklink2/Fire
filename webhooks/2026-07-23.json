@@ -3166,5 +3166,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39758"
     }
+  },
+  {
+    "runNumber": "39759",
+    "rawCode": "MED",
+    "timestamp": "2026-07-23T17:08:15.342534-04:00",
+    "address": "N Martin Luther King Boulevard & E",
+    "extra": {
+      "incidentNumber": "39759",
+      "run_id": "39759",
+      "address": "N Martin Luther King Boulevard & E",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC10,EC2,205,241",
+      "units": "E01,EC10,EC2,205,241",
+      "unitCount": "5",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,205",
+      "dedupeKey": "INCIDENT-39759"
+    }
   }
 ]
