@@ -3738,5 +3738,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39585"
     }
+  },
+  {
+    "runNumber": "39586",
+    "rawCode": "MED",
+    "timestamp": "2026-07-22T21:01:16.122607-04:00",
+    "address": "1100 Block Mt Rushmore Way",
+    "extra": {
+      "incidentNumber": "39586",
+      "run_id": "39586",
+      "address": "1100 Block Mt Rushmore Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39586"
+    }
   }
 ]
