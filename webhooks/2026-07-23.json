@@ -2154,5 +2154,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-39712"
     }
+  },
+  {
+    "runNumber": "39715",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-23T13:37:42.270492-04:00",
+    "address": "610 S Limestone",
+    "extra": {
+      "incidentNumber": "39715",
+      "run_id": "39715",
+      "address": "610 S Limestone",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E11,L02,205",
+      "units": "E06,E11,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-39715"
+    }
   }
 ]
