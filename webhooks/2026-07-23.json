@@ -1362,5 +1362,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39677"
     }
+  },
+  {
+    "runNumber": "39676",
+    "rawCode": "FELS",
+    "timestamp": "2026-07-23T10:35:18.137112-04:00",
+    "address": "326 S Martin Luther King Boulevard",
+    "extra": {
+      "incidentNumber": "39676",
+      "run_id": "39676",
+      "address": "326 S Martin Luther King Boulevard",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,L01,205",
+      "units": "E13,L01,205",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-39676"
+    }
   }
 ]
