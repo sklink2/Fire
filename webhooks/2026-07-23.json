@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39654"
     }
+  },
+  {
+    "runNumber": "39656",
+    "rawCode": "MED",
+    "timestamp": "2026-07-23T08:04:23.070712-04:00",
+    "address": "2700 Block Ruby River Drive",
+    "extra": {
+      "incidentNumber": "39656",
+      "run_id": "39656",
+      "address": "2700 Block Ruby River Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC3",
+      "units": "E24,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39656"
+    }
   }
 ]
