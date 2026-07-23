@@ -2220,5 +2220,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39713"
     }
+  },
+  {
+    "runNumber": "39716",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-23T13:41:12.266078-04:00",
+    "address": "1350 Bull Lea Road",
+    "extra": {
+      "incidentNumber": "39716",
+      "run_id": "39716",
+      "address": "1350 Bull Lea Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E19,L03,203",
+      "units": "E04,E19,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-39716"
+    }
   }
 ]
