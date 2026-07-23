@@ -1318,5 +1318,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39674"
     }
+  },
+  {
+    "runNumber": "39675",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-23T10:31:44.613058-04:00",
+    "address": "4400 Briar Hill Road",
+    "extra": {
+      "incidentNumber": "39675",
+      "run_id": "39675",
+      "address": "4400 Briar Hill Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E17,L05,201",
+      "units": "E08,E17,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-39675"
+    }
   }
 ]
