@@ -2484,5 +2484,27 @@
       "commandUnits": "241,205",
       "dedupeKey": "INCIDENT-39727"
     }
+  },
+  {
+    "runNumber": "39728",
+    "rawCode": "MED",
+    "timestamp": "2026-07-23T14:40:50.003974-04:00",
+    "address": "2100 Block Rollingdale Road",
+    "extra": {
+      "incidentNumber": "39728",
+      "run_id": "39728",
+      "address": "2100 Block Rollingdale Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L04,EC4",
+      "units": "L04,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39728"
+    }
   }
 ]
