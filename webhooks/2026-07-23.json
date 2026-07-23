@@ -3034,5 +3034,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39751"
     }
+  },
+  {
+    "runNumber": "39753",
+    "rawCode": "MED",
+    "timestamp": "2026-07-23T16:29:36.532161-04:00",
+    "address": "400 Block Hollow Creek Road",
+    "extra": {
+      "incidentNumber": "39753",
+      "run_id": "39753",
+      "address": "400 Block Hollow Creek Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC7,241",
+      "units": "E08,EC7,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-39753"
+    }
   }
 ]
