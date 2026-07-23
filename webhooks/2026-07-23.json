@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39656"
     }
+  },
+  {
+    "runNumber": "39657",
+    "rawCode": "MED",
+    "timestamp": "2026-07-23T08:07:52.159608-04:00",
+    "address": "700 Block Sorrento Lane",
+    "extra": {
+      "incidentNumber": "39657",
+      "run_id": "39657",
+      "address": "700 Block Sorrento Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,L07,EC4",
+      "units": "E22,L07,EC4",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39657"
+    }
   }
 ]
