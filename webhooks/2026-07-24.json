@@ -2132,5 +2132,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39917"
     }
+  },
+  {
+    "runNumber": "39918",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-24T12:54:03.225531-04:00",
+    "address": "W High Street & S Upper Street",
+    "extra": {
+      "incidentNumber": "39918",
+      "run_id": "39918",
+      "address": "W High Street & S Upper Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,EC6",
+      "units": "E05,EC6",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39918"
+    }
   }
 ]
