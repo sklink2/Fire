@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39957"
     }
+  },
+  {
+    "runNumber": "39956",
+    "rawCode": "MED",
+    "timestamp": "2026-07-24T15:42:30.670824-04:00",
+    "address": "3500 Block Boston Road",
+    "extra": {
+      "incidentNumber": "39956",
+      "run_id": "39956",
+      "address": "3500 Block Boston Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC4",
+      "units": "E15,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39956"
+    }
   }
 ]
