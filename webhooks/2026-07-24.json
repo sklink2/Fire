@@ -4134,5 +4134,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40006"
     }
+  },
+  {
+    "runNumber": "40007",
+    "rawCode": "MED",
+    "timestamp": "2026-07-24T19:16:27.835230-04:00",
+    "address": "300 Block Ross Avenue",
+    "extra": {
+      "incidentNumber": "40007",
+      "run_id": "40007",
+      "address": "300 Block Ross Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40007"
+    }
   }
 ]
