@@ -1296,5 +1296,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-39879"
     }
+  },
+  {
+    "runNumber": "39880",
+    "rawCode": "MED",
+    "timestamp": "2026-07-24T09:06:00.486365-04:00",
+    "address": "3300 Block Paris Pike",
+    "extra": {
+      "incidentNumber": "39880",
+      "run_id": "39880",
+      "address": "3300 Block Paris Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E19,EC12",
+      "units": "E19,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39880"
+    }
   }
 ]
