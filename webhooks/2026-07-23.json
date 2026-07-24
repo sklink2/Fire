@@ -3958,5 +3958,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39794"
     }
+  },
+  {
+    "runNumber": "39795",
+    "rawCode": "MED",
+    "timestamp": "2026-07-23T20:35:12.078603-04:00",
+    "address": "3100 Block Prichard Drive",
+    "extra": {
+      "incidentNumber": "39795",
+      "run_id": "39795",
+      "address": "3100 Block Prichard Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC5",
+      "units": "E10,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39795"
+    }
   }
 ]
