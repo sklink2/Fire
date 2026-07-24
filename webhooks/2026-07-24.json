@@ -3254,5 +3254,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39967"
     }
+  },
+  {
+    "runNumber": "39970",
+    "rawCode": "MED",
+    "timestamp": "2026-07-24T16:38:35.470992-04:00",
+    "address": "100 Block W Zandale Drive",
+    "extra": {
+      "incidentNumber": "39970",
+      "run_id": "39970",
+      "address": "100 Block W Zandale Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12,CRT1",
+      "units": "EC12,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39970"
+    }
   }
 ]
