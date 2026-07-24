@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39883"
     }
+  },
+  {
+    "runNumber": "39885",
+    "rawCode": "MED",
+    "timestamp": "2026-07-24T09:37:35.644582-04:00",
+    "address": "500 Block Ohio Street",
+    "extra": {
+      "incidentNumber": "39885",
+      "run_id": "39885",
+      "address": "500 Block Ohio Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39885"
+    }
   }
 ]
