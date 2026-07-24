@@ -3694,5 +3694,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39782"
     }
+  },
+  {
+    "runNumber": "39783",
+    "rawCode": "MED",
+    "timestamp": "2026-07-23T20:00:07.927606-04:00",
+    "address": "3100 Block Pimlico Parkway",
+    "extra": {
+      "incidentNumber": "39783",
+      "run_id": "39783",
+      "address": "3100 Block Pimlico Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC8",
+      "units": "E16,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39783"
+    }
   }
 ]
