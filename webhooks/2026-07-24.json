@@ -20,5 +20,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39821"
     }
+  },
+  {
+    "runNumber": "39822",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-24T00:12:45.063837-04:00",
+    "address": "149 Old Towne Walk",
+    "extra": {
+      "incidentNumber": "39822",
+      "run_id": "39822",
+      "address": "149 Old Towne Walk",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,E13,L03,203",
+      "units": "E10,E13,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-39822"
+    }
   }
 ]
