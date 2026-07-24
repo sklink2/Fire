@@ -42,5 +42,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-39822"
     }
+  },
+  {
+    "runNumber": "39823",
+    "rawCode": "MED",
+    "timestamp": "2026-07-24T00:26:45.908753-04:00",
+    "address": "3100 Block Mapleleaf Sq",
+    "extra": {
+      "incidentNumber": "39823",
+      "run_id": "39823",
+      "address": "3100 Block Mapleleaf Sq",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39823"
+    }
   }
 ]
