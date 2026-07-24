@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39892"
     }
+  },
+  {
+    "runNumber": "39893",
+    "rawCode": "MED",
+    "timestamp": "2026-07-24T10:58:16.075657-04:00",
+    "address": "900 Block Dayton Avenue",
+    "extra": {
+      "incidentNumber": "39893",
+      "run_id": "39893",
+      "address": "900 Block Dayton Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39893"
+    }
   }
 ]
