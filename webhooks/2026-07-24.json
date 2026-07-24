@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39855"
     }
+  },
+  {
+    "runNumber": "39856",
+    "rawCode": "FHMC",
+    "timestamp": "2026-07-24T05:53:07.330842-04:00",
+    "address": "3525 Lansdowne Drive",
+    "extra": {
+      "incidentNumber": "39856",
+      "run_id": "39856",
+      "address": "3525 Lansdowne Drive",
+      "rawType": "FHMC",
+      "typeCode": "FHMC",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,E20,EC9,204,205,220",
+      "units": "E15,E20,EC9,204,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FHMC",
+      "commandUnits": "220,204,205",
+      "dedupeKey": "INCIDENT-39856"
+    }
   }
 ]
