@@ -4002,5 +4002,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39796"
     }
+  },
+  {
+    "runNumber": "39797",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-23T21:10:17.735221-04:00",
+    "address": "736 W Main Street",
+    "extra": {
+      "incidentNumber": "39797",
+      "run_id": "39797",
+      "address": "736 W Main Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E13,L01,203",
+      "units": "E04,E13,L01,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-39797"
+    }
   }
 ]
