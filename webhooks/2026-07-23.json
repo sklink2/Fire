@@ -4156,5 +4156,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-39803"
     }
+  },
+  {
+    "runNumber": "39804",
+    "rawCode": "FVEH",
+    "timestamp": "2026-07-23T21:45:21.696033-04:00",
+    "address": "2312 Remington Way",
+    "extra": {
+      "incidentNumber": "39804",
+      "run_id": "39804",
+      "address": "2312 Remington Way",
+      "rawType": "FVEH",
+      "typeCode": "FVEH",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24",
+      "units": "E24",
+      "unitCount": "1",
+      "primaryTopic": "FVEH",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39804"
+    }
   }
 ]
