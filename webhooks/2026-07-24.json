@@ -240,5 +240,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-39832"
     }
+  },
+  {
+    "runNumber": "39831",
+    "rawCode": "MED",
+    "timestamp": "2026-07-24T01:44:02.357988-04:00",
+    "address": "Harrods Pointe Trce & Agape Drive",
+    "extra": {
+      "incidentNumber": "39831",
+      "run_id": "39831",
+      "address": "Harrods Pointe Trce & Agape Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39831"
+    }
   }
 ]
