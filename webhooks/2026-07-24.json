@@ -1846,5 +1846,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39903"
     }
+  },
+  {
+    "runNumber": "39905",
+    "rawCode": "MED",
+    "timestamp": "2026-07-24T11:43:55.398793-04:00",
+    "address": "Corral Street & N Martin Luther Ki",
+    "extra": {
+      "incidentNumber": "39905",
+      "run_id": "39905",
+      "address": "Corral Street & N Martin Luther Ki",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10,241,CRT1",
+      "units": "EC10,241,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-39905"
+    }
   }
 ]
