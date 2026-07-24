@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39843"
     }
+  },
+  {
+    "runNumber": "39844",
+    "rawCode": "MED",
+    "timestamp": "2026-07-24T02:50:36.979872-04:00",
+    "address": "600 Block Sherard Circle",
+    "extra": {
+      "incidentNumber": "39844",
+      "run_id": "39844",
+      "address": "600 Block Sherard Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC4",
+      "units": "E22,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39844"
+    }
   }
 ]
