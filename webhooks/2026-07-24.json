@@ -1274,5 +1274,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39877"
     }
+  },
+  {
+    "runNumber": "39879",
+    "rawCode": "FMIS",
+    "timestamp": "2026-07-24T09:02:31.506636-04:00",
+    "address": "609 Vincent Way",
+    "extra": {
+      "incidentNumber": "39879",
+      "run_id": "39879",
+      "address": "609 Vincent Way",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,204",
+      "units": "E11,204",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-39879"
+    }
   }
 ]
