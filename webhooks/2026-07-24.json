@@ -856,5 +856,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39858"
     }
+  },
+  {
+    "runNumber": "39860",
+    "rawCode": "FOTF",
+    "timestamp": "2026-07-24T06:35:11.595480-04:00",
+    "address": "1555 Samara Glen Way",
+    "extra": {
+      "incidentNumber": "39860",
+      "run_id": "39860",
+      "address": "1555 Samara Glen Way",
+      "rawType": "FOTF",
+      "typeCode": "FOTF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13,202",
+      "units": "E16,EC13,202",
+      "unitCount": "3",
+      "primaryTopic": "FOTF",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-39860"
+    }
   }
 ]
