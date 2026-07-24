@@ -4090,5 +4090,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39800"
     }
+  },
+  {
+    "runNumber": "39802",
+    "rawCode": "MED",
+    "timestamp": "2026-07-23T21:38:20.127822-04:00",
+    "address": "400 Block Race Street",
+    "extra": {
+      "incidentNumber": "39802",
+      "run_id": "39802",
+      "address": "400 Block Race Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39802"
+    }
   }
 ]
