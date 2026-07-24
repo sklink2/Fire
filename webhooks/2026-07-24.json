@@ -1186,5 +1186,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39874"
     }
+  },
+  {
+    "runNumber": "39875",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-24T08:41:28.467734-04:00",
+    "address": "545 S Broadway",
+    "extra": {
+      "incidentNumber": "39875",
+      "run_id": "39875",
+      "address": "545 S Broadway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E05,L03,205",
+      "units": "E01,E05,L03,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-39875"
+    }
   }
 ]
