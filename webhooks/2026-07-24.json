@@ -4200,5 +4200,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40009"
     }
+  },
+  {
+    "runNumber": "40011",
+    "rawCode": "MED",
+    "timestamp": "2026-07-24T19:37:30.448502-04:00",
+    "address": "800 Block Hidden Stream Drive",
+    "extra": {
+      "incidentNumber": "40011",
+      "run_id": "40011",
+      "address": "800 Block Hidden Stream Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40011"
+    }
   }
 ]
