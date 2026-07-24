@@ -4046,5 +4046,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40004"
     }
+  },
+  {
+    "runNumber": "40003",
+    "rawCode": "FOTS",
+    "timestamp": "2026-07-24T18:51:56.475465-04:00",
+    "address": "1 Street Joseph Drive",
+    "extra": {
+      "incidentNumber": "40003",
+      "run_id": "40003",
+      "address": "1 Street Joseph Drive",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40003"
+    }
   }
 ]
