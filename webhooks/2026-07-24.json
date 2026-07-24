@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39927"
     }
+  },
+  {
+    "runNumber": "39921",
+    "rawCode": "MED",
+    "timestamp": "2026-07-24T13:29:09.329467-04:00",
+    "address": "2000 Block Dogwood Drive",
+    "extra": {
+      "incidentNumber": "39921",
+      "run_id": "39921",
+      "address": "2000 Block Dogwood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1,RS1",
+      "units": "EC1,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39921"
+    }
   }
 ]
