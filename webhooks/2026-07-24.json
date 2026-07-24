@@ -1802,5 +1802,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-39902"
     }
+  },
+  {
+    "runNumber": "39904",
+    "rawCode": "FSCU",
+    "timestamp": "2026-07-24T11:36:54.218589-04:00",
+    "address": "5522 Athens Boonesboro Road",
+    "extra": {
+      "incidentNumber": "39904",
+      "run_id": "39904",
+      "address": "5522 Athens Boonesboro Road",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E18",
+      "units": "E18",
+      "unitCount": "1",
+      "primaryTopic": "FSCU",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39904"
+    }
   }
 ]
