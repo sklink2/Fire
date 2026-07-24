@@ -3100,5 +3100,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39961"
     }
+  },
+  {
+    "runNumber": "39962",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-07-24T16:07:04.650254-04:00",
+    "address": "Russell Cave Road & Ferguson Road",
+    "extra": {
+      "incidentNumber": "39962",
+      "run_id": "39962",
+      "address": "Russell Cave Road & Ferguson Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E19,L03,EC6,201,241,RS1",
+      "units": "E19,L03,EC6,201,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-39962"
+    }
   }
 ]
