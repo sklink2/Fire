@@ -152,5 +152,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39827"
     }
+  },
+  {
+    "runNumber": "39828",
+    "rawCode": "FGAO",
+    "timestamp": "2026-07-24T01:15:53.288970-04:00",
+    "address": "1000 S Limestone",
+    "extra": {
+      "incidentNumber": "39828",
+      "run_id": "39828",
+      "address": "1000 S Limestone",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E11",
+      "units": "E06,E11",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39828"
+    }
   }
 ]
