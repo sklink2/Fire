@@ -1758,5 +1758,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39900"
     }
+  },
+  {
+    "runNumber": "39899",
+    "rawCode": "MED",
+    "timestamp": "2026-07-24T11:26:26.675594-04:00",
+    "address": "1900 Block Arbor Station Way",
+    "extra": {
+      "incidentNumber": "39899",
+      "run_id": "39899",
+      "address": "1900 Block Arbor Station Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L03,EC6",
+      "units": "L03,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39899"
+    }
   }
 ]
