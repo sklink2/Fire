@@ -3562,5 +3562,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39983"
     }
+  },
+  {
+    "runNumber": "39982",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-24T17:24:17.618902-04:00",
+    "address": "Richmond Road & Man O War Boulevard",
+    "extra": {
+      "incidentNumber": "39982",
+      "run_id": "39982",
+      "address": "Richmond Road & Man O War Boulevard",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC2,202",
+      "units": "E09,EC2,202",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-39982"
+    }
   }
 ]
