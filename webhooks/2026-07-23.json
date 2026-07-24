@@ -4442,5 +4442,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39816"
     }
+  },
+  {
+    "runNumber": "39817",
+    "rawCode": "MED",
+    "timestamp": "2026-07-23T23:34:06.260201-04:00",
+    "address": "100 Block W Second Street",
+    "extra": {
+      "incidentNumber": "39817",
+      "run_id": "39817",
+      "address": "100 Block W Second Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39817"
+    }
   }
 ]
