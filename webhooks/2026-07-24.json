@@ -3452,5 +3452,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39977"
     }
+  },
+  {
+    "runNumber": "39979",
+    "rawCode": "MED",
+    "timestamp": "2026-07-24T17:17:12.376634-04:00",
+    "address": "100 Block W Main Street",
+    "extra": {
+      "incidentNumber": "39979",
+      "run_id": "39979",
+      "address": "100 Block W Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC12",
+      "units": "E01,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39979"
+    }
   }
 ]
