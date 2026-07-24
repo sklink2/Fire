@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39950"
     }
+  },
+  {
+    "runNumber": "39953",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-24T15:24:56.891573-04:00",
+    "address": "382 Sheridan Drive",
+    "extra": {
+      "incidentNumber": "39953",
+      "run_id": "39953",
+      "address": "382 Sheridan Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12",
+      "units": "E12",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39953"
+    }
   }
 ]
