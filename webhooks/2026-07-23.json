@@ -4376,5 +4376,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-39815"
     }
+  },
+  {
+    "runNumber": "39814",
+    "rawCode": "MED",
+    "timestamp": "2026-07-23T23:16:38.960979-04:00",
+    "address": "1100 Block Deer Haven Lane",
+    "extra": {
+      "incidentNumber": "39814",
+      "run_id": "39814",
+      "address": "1100 Block Deer Haven Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC2",
+      "units": "E21,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-39814"
+    }
   }
 ]
