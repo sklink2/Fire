@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40088"
     }
+  },
+  {
+    "runNumber": "40089",
+    "rawCode": "FDET",
+    "timestamp": "2026-07-25T06:26:37.563237-04:00",
+    "address": "Horsepark",
+    "extra": {
+      "incidentNumber": "40089",
+      "run_id": "40089",
+      "address": "Horsepark",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC35",
+      "units": "EC35",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40089"
+    }
   }
 ]
