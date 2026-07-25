@@ -2506,5 +2506,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40160"
     }
+  },
+  {
+    "runNumber": "40161",
+    "rawCode": "FELF",
+    "timestamp": "2026-07-25T13:24:08.685958-04:00",
+    "address": "2357 Huguenard Drive",
+    "extra": {
+      "incidentNumber": "40161",
+      "run_id": "40161",
+      "address": "2357 Huguenard Drive",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,E20,L04,EC12,204",
+      "units": "E12,E20,L04,EC12,204",
+      "unitCount": "5",
+      "primaryTopic": "FELF",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-40161"
+    }
   }
 ]
