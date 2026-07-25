@@ -746,5 +746,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40079"
     }
+  },
+  {
+    "runNumber": "40080",
+    "rawCode": "MED",
+    "timestamp": "2026-07-25T04:48:21.257171-04:00",
+    "address": "100 Block Southpoint Drive",
+    "extra": {
+      "incidentNumber": "40080",
+      "run_id": "40080",
+      "address": "100 Block Southpoint Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC4",
+      "units": "E15,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40080"
+    }
   }
 ]
