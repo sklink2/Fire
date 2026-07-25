@@ -1208,5 +1208,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40100"
     }
+  },
+  {
+    "runNumber": "40103",
+    "rawCode": "FSIA",
+    "timestamp": "2026-07-25T08:25:56.283064-04:00",
+    "address": "1650 Bryan Station Road",
+    "extra": {
+      "incidentNumber": "40103",
+      "run_id": "40103",
+      "address": "1650 Bryan Station Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E08,201",
+      "units": "E02,E08,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-40103"
+    }
   }
 ]
