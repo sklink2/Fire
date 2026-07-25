@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40077"
     }
+  },
+  {
+    "runNumber": "40078",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-25T04:37:51.996867-04:00",
+    "address": "280 E High Street",
+    "extra": {
+      "incidentNumber": "40078",
+      "run_id": "40078",
+      "address": "280 E High Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E05,L02,205",
+      "units": "E01,E05,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-40078"
+    }
   }
 ]
