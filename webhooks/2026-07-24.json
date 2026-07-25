@@ -4508,5 +4508,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40023"
     }
+  },
+  {
+    "runNumber": "40025",
+    "rawCode": "MED",
+    "timestamp": "2026-07-24T20:51:11.886154-04:00",
+    "address": "500 Block Murphys Run",
+    "extra": {
+      "incidentNumber": "40025",
+      "run_id": "40025",
+      "address": "500 Block Murphys Run",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40025"
+    }
   }
 ]
