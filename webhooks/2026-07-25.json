@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40060"
     }
+  },
+  {
+    "runNumber": "40062",
+    "rawCode": "MED",
+    "timestamp": "2026-07-25T02:38:32.894514-04:00",
+    "address": "1100 Block E New Circle Road",
+    "extra": {
+      "incidentNumber": "40062",
+      "run_id": "40062",
+      "address": "1100 Block E New Circle Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L05,EC2",
+      "units": "L05,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40062"
+    }
   }
 ]
