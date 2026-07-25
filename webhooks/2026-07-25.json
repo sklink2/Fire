@@ -3518,5 +3518,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40205"
     }
+  },
+  {
+    "runNumber": "40207",
+    "rawCode": "MED",
+    "timestamp": "2026-07-25T17:36:48.268775-04:00",
+    "address": "64 Wb / 71.0 Mm (Scott Co Line",
+    "extra": {
+      "incidentNumber": "40207",
+      "run_id": "40207",
+      "address": "64 Wb / 71.0 Mm (Scott Co Line",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,L03,EC1,205",
+      "units": "E24,L03,EC1,205",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-40207"
+    }
   }
 ]
