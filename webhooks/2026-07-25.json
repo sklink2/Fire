@@ -1450,5 +1450,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40112"
     }
+  },
+  {
+    "runNumber": "40115",
+    "rawCode": "MED",
+    "timestamp": "2026-07-25T09:18:33.515995-04:00",
+    "address": "400 Block Dover Road",
+    "extra": {
+      "incidentNumber": "40115",
+      "run_id": "40115",
+      "address": "400 Block Dover Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40115"
+    }
   }
 ]
