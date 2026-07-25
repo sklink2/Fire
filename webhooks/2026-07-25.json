@@ -3958,5 +3958,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40226"
     }
+  },
+  {
+    "runNumber": "40227",
+    "rawCode": "MED",
+    "timestamp": "2026-07-25T18:50:24.556419-04:00",
+    "address": "N Upper Street & W Third Street",
+    "extra": {
+      "incidentNumber": "40227",
+      "run_id": "40227",
+      "address": "N Upper Street & W Third Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L01,EC12",
+      "units": "L01,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40227"
+    }
   }
 ]
