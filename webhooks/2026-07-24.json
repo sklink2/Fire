@@ -4398,5 +4398,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40018"
     }
+  },
+  {
+    "runNumber": "40021",
+    "rawCode": "MED",
+    "timestamp": "2026-07-24T20:40:43.798834-04:00",
+    "address": "2900 Block Winter Garden",
+    "extra": {
+      "incidentNumber": "40021",
+      "run_id": "40021",
+      "address": "2900 Block Winter Garden",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC11,EC13,202,241",
+      "units": "E16,EC11,EC13,202,241",
+      "unitCount": "5",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-40021"
+    }
   }
 ]
