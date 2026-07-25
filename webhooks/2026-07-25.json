@@ -4112,5 +4112,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40233"
     }
+  },
+  {
+    "runNumber": "40235",
+    "rawCode": "MED",
+    "timestamp": "2026-07-25T19:25:29.705557-04:00",
+    "address": "200 Block E Short Street",
+    "extra": {
+      "incidentNumber": "40235",
+      "run_id": "40235",
+      "address": "200 Block E Short Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC4",
+      "units": "E01,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40235"
+    }
   }
 ]
