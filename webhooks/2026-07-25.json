@@ -2132,5 +2132,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40144"
     }
+  },
+  {
+    "runNumber": "40146",
+    "rawCode": "MED",
+    "timestamp": "2026-07-25T12:13:58.910845-04:00",
+    "address": "800 Block Bennett Avenue",
+    "extra": {
+      "incidentNumber": "40146",
+      "run_id": "40146",
+      "address": "800 Block Bennett Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC10",
+      "units": "E08,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40146"
+    }
   }
 ]
