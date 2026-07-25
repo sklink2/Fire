@@ -2154,5 +2154,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40146"
     }
+  },
+  {
+    "runNumber": "40145",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-25T12:14:02.011116-04:00",
+    "address": "500 Weston Park",
+    "extra": {
+      "incidentNumber": "40145",
+      "run_id": "40145",
+      "address": "500 Weston Park",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21",
+      "units": "E21",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40145"
+    }
   }
 ]
