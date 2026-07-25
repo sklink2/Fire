@@ -4706,5 +4706,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40030"
     }
+  },
+  {
+    "runNumber": "40032",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-24T21:47:20.529269-04:00",
+    "address": "1512 Lindy Lane",
+    "extra": {
+      "incidentNumber": "40032",
+      "run_id": "40032",
+      "address": "1512 Lindy Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E02,L05,201",
+      "units": "E01,E02,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-40032"
+    }
   }
 ]
