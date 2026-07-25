@@ -2660,5 +2660,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40169"
     }
+  },
+  {
+    "runNumber": "40168",
+    "rawCode": "MED",
+    "timestamp": "2026-07-25T13:55:45.321435-04:00",
+    "address": "2000 Block Spring Station Drive",
+    "extra": {
+      "incidentNumber": "40168",
+      "run_id": "40168",
+      "address": "2000 Block Spring Station Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC6",
+      "units": "E08,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40168"
+    }
   }
 ]
