@@ -4596,5 +4596,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-40026"
     }
+  },
+  {
+    "runNumber": "40028",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-07-24T21:29:50.815032-04:00",
+    "address": "4809 Leestown Road",
+    "extra": {
+      "incidentNumber": "40028",
+      "run_id": "40028",
+      "address": "4809 Leestown Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,L03,EC6,203,241,RS1",
+      "units": "E24,L03,EC6,203,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-40028"
+    }
   }
 ]
