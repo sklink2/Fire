@@ -4464,5 +4464,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40019"
     }
+  },
+  {
+    "runNumber": "40022",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-24T20:44:10.075607-04:00",
+    "address": "3526 Creekwood Drive",
+    "extra": {
+      "incidentNumber": "40022",
+      "run_id": "40022",
+      "address": "3526 Creekwood Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07",
+      "units": "E07",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40022"
+    }
   }
 ]
