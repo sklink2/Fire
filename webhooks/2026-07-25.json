@@ -834,5 +834,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-40083"
     }
+  },
+  {
+    "runNumber": "40084",
+    "rawCode": "MED",
+    "timestamp": "2026-07-25T05:55:01.318263-04:00",
+    "address": "600 Block Old Frankfort Circle",
+    "extra": {
+      "incidentNumber": "40084",
+      "run_id": "40084",
+      "address": "600 Block Old Frankfort Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40084"
+    }
   }
 ]
