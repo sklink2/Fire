@@ -2616,5 +2616,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40164"
     }
+  },
+  {
+    "runNumber": "40166",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-25T13:41:42.056538-04:00",
+    "address": "3708 Lytleton Way",
+    "extra": {
+      "incidentNumber": "40166",
+      "run_id": "40166",
+      "address": "3708 Lytleton Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E12,L07,204",
+      "units": "E09,E12,L07,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-40166"
+    }
   }
 ]
