@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40119"
     }
+  },
+  {
+    "runNumber": "40120",
+    "rawCode": "FVIS",
+    "timestamp": "2026-07-25T09:50:09.419209-04:00",
+    "address": "3751 Appian Way",
+    "extra": {
+      "incidentNumber": "40120",
+      "run_id": "40120",
+      "address": "3751 Appian Way",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,E16,L07,EC4,202,RS1",
+      "units": "E12,E16,L07,EC4,202,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-40120"
+    }
   }
 ]
