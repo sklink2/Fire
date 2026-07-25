@@ -3672,5 +3672,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-40213"
     }
+  },
+  {
+    "runNumber": "40214",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-25T18:01:18.540951-04:00",
+    "address": "1272 Angus Trail",
+    "extra": {
+      "incidentNumber": "40214",
+      "run_id": "40214",
+      "address": "1272 Angus Trail",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21",
+      "units": "E21",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40214"
+    }
   }
 ]
