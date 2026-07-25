@@ -2088,5 +2088,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40143"
     }
+  },
+  {
+    "runNumber": "40142",
+    "rawCode": "MED",
+    "timestamp": "2026-07-25T11:59:58.025983-04:00",
+    "address": "3200 Block Sutherland Drive",
+    "extra": {
+      "incidentNumber": "40142",
+      "run_id": "40142",
+      "address": "3200 Block Sutherland Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,EC8",
+      "units": "E16,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40142"
+    }
   }
 ]
