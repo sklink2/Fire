@@ -1252,5 +1252,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40104"
     }
+  },
+  {
+    "runNumber": "40105",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-25T08:32:53.892433-04:00",
+    "address": "417 Asbury Lane",
+    "extra": {
+      "incidentNumber": "40105",
+      "run_id": "40105",
+      "address": "417 Asbury Lane",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L03",
+      "units": "L03",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40105"
+    }
   }
 ]
