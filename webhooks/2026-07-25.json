@@ -3342,5 +3342,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40198"
     }
+  },
+  {
+    "runNumber": "40199",
+    "rawCode": "MED",
+    "timestamp": "2026-07-25T16:33:35.622200-04:00",
+    "address": "3800 Block Habersham Drive",
+    "extra": {
+      "incidentNumber": "40199",
+      "run_id": "40199",
+      "address": "3800 Block Habersham Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC12",
+      "units": "E15,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40199"
+    }
   }
 ]
