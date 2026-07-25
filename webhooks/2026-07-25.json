@@ -790,5 +790,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40081"
     }
+  },
+  {
+    "runNumber": "40082",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-25T05:19:56.018106-04:00",
+    "address": "3645 Appian Way",
+    "extra": {
+      "incidentNumber": "40082",
+      "run_id": "40082",
+      "address": "3645 Appian Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,E22,L07,202",
+      "units": "E16,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-40082"
+    }
   }
 ]
