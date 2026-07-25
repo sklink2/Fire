@@ -4530,5 +4530,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40025"
     }
+  },
+  {
+    "runNumber": "40024",
+    "rawCode": "MED",
+    "timestamp": "2026-07-24T20:51:14.422304-04:00",
+    "address": "2400 Block Windwood Court",
+    "extra": {
+      "incidentNumber": "40024",
+      "run_id": "40024",
+      "address": "2400 Block Windwood Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40024"
+    }
   }
 ]
