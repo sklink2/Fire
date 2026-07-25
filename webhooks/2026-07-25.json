@@ -306,5 +306,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40059"
     }
+  },
+  {
+    "runNumber": "40061",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-25T02:35:01.145848-04:00",
+    "address": "1169 Lane Allen Road",
+    "extra": {
+      "incidentNumber": "40061",
+      "run_id": "40061",
+      "address": "1169 Lane Allen Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC12",
+      "units": "E14,EC12",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40061"
+    }
   }
 ]
