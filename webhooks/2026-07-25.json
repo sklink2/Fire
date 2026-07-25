@@ -3474,5 +3474,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-40204"
     }
+  },
+  {
+    "runNumber": "40206",
+    "rawCode": "MED",
+    "timestamp": "2026-07-25T17:29:43.513963-04:00",
+    "address": "100 Block Street Phillip Drive",
+    "extra": {
+      "incidentNumber": "40206",
+      "run_id": "40206",
+      "address": "100 Block Street Phillip Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40206"
+    }
   }
 ]
