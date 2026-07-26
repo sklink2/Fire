@@ -2396,5 +2396,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-40404"
     }
+  },
+  {
+    "runNumber": "40407",
+    "rawCode": "MED",
+    "timestamp": "2026-07-26T16:17:58.206727-04:00",
+    "address": "4000 Block Finn Way",
+    "extra": {
+      "incidentNumber": "40407",
+      "run_id": "40407",
+      "address": "4000 Block Finn Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40407"
+    }
   }
 ]
