@@ -592,5 +592,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40322"
     }
+  },
+  {
+    "runNumber": "40324",
+    "rawCode": "MED",
+    "timestamp": "2026-07-26T06:39:05.975816-04:00",
+    "address": "3600 Block Appian Way",
+    "extra": {
+      "incidentNumber": "40324",
+      "run_id": "40324",
+      "address": "3600 Block Appian Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,EC4",
+      "units": "E16,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40324"
+    }
   }
 ]
