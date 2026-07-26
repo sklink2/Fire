@@ -2264,5 +2264,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40400"
     }
+  },
+  {
+    "runNumber": "40399",
+    "rawCode": "MED",
+    "timestamp": "2026-07-26T15:07:52.432329-04:00",
+    "address": "2000 Block Garden Springs Drive",
+    "extra": {
+      "incidentNumber": "40399",
+      "run_id": "40399",
+      "address": "2000 Block Garden Springs Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40399"
+    }
   }
 ]
