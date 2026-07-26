@@ -2418,5 +2418,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40407"
     }
+  },
+  {
+    "runNumber": "40406",
+    "rawCode": "MED",
+    "timestamp": "2026-07-26T16:18:00.549700-04:00",
+    "address": "200 Block E High Street",
+    "extra": {
+      "incidentNumber": "40406",
+      "run_id": "40406",
+      "address": "200 Block E High Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC7",
+      "units": "E05,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40406"
+    }
   }
 ]
