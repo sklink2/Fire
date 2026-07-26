@@ -1692,5 +1692,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-40373"
     }
+  },
+  {
+    "runNumber": "40374",
+    "rawCode": "MED",
+    "timestamp": "2026-07-26T13:04:57.217084-04:00",
+    "address": "Strader Drive & Henry Clay Boulevard",
+    "extra": {
+      "incidentNumber": "40374",
+      "run_id": "40374",
+      "address": "Strader Drive & Henry Clay Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40374"
+    }
   }
 ]
