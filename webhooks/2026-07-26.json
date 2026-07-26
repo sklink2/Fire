@@ -196,5 +196,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40304"
     }
+  },
+  {
+    "runNumber": "40305",
+    "rawCode": "MED",
+    "timestamp": "2026-07-26T02:16:02.969067-04:00",
+    "address": "1900 Block Oxford Circle",
+    "extra": {
+      "incidentNumber": "40305",
+      "run_id": "40305",
+      "address": "1900 Block Oxford Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,EC5,204,241",
+      "units": "E14,EC5,204,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,204",
+      "dedupeKey": "INCIDENT-40305"
+    }
   }
 ]
