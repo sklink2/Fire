@@ -5190,5 +5190,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40282"
     }
+  },
+  {
+    "runNumber": "40281",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-25T22:35:03.834646-04:00",
+    "address": "100 W Main Street",
+    "extra": {
+      "incidentNumber": "40281",
+      "run_id": "40281",
+      "address": "100 W Main Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,E13,L01,205",
+      "units": "E05,E06,E13,L01,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-40281"
+    }
   }
 ]
