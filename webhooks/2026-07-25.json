@@ -4948,5 +4948,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40271"
     }
+  },
+  {
+    "runNumber": "40272",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-25T21:56:25.221930-04:00",
+    "address": "3500 Laredo Drive",
+    "extra": {
+      "incidentNumber": "40272",
+      "run_id": "40272",
+      "address": "3500 Laredo Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,E16,L07,EC12,202,220",
+      "units": "E07,E16,L07,EC12,202,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-40272"
+    }
   }
 ]
