@@ -2374,5 +2374,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40405"
     }
+  },
+  {
+    "runNumber": "40404",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-26T15:49:56.866084-04:00",
+    "address": "366 E Third Street",
+    "extra": {
+      "incidentNumber": "40404",
+      "run_id": "40404",
+      "address": "366 E Third Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC1,241",
+      "units": "E01,EC1,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-40404"
+    }
   }
 ]
