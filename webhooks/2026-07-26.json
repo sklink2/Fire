@@ -2748,5 +2748,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40421"
     }
+  },
+  {
+    "runNumber": "40423",
+    "rawCode": "MED",
+    "timestamp": "2026-07-26T18:06:43.343420-04:00",
+    "address": "900 Block Winchester Road",
+    "extra": {
+      "incidentNumber": "40423",
+      "run_id": "40423",
+      "address": "900 Block Winchester Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC3",
+      "units": "E02,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40423"
+    }
   }
 ]
