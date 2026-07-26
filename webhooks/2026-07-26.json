@@ -2946,5 +2946,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40433"
     }
+  },
+  {
+    "runNumber": "40432",
+    "rawCode": "FOTS",
+    "timestamp": "2026-07-26T19:34:29.149912-04:00",
+    "address": "3308 Shillito Park Road",
+    "extra": {
+      "incidentNumber": "40432",
+      "run_id": "40432",
+      "address": "3308 Shillito Park Road",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC9,241",
+      "units": "E15,EC9,241",
+      "unitCount": "3",
+      "primaryTopic": "FOTS",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-40432"
+    }
   }
 ]
