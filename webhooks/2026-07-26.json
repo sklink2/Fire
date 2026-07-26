@@ -2660,5 +2660,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-40417"
     }
+  },
+  {
+    "runNumber": "40418",
+    "rawCode": "MED",
+    "timestamp": "2026-07-26T17:38:39.255531-04:00",
+    "address": "3500 Block Nicholasville Road",
+    "extra": {
+      "incidentNumber": "40418",
+      "run_id": "40418",
+      "address": "3500 Block Nicholasville Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC13",
+      "units": "E15,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40418"
+    }
   }
 ]
