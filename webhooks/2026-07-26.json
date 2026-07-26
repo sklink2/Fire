@@ -1318,5 +1318,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40356"
     }
+  },
+  {
+    "runNumber": "40358",
+    "rawCode": "MED",
+    "timestamp": "2026-07-26T11:33:44.909462-04:00",
+    "address": "1800 Block Arbor Station Way",
+    "extra": {
+      "incidentNumber": "40358",
+      "run_id": "40358",
+      "address": "1800 Block Arbor Station Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40358"
+    }
   }
 ]
