@@ -5234,5 +5234,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40284"
     }
+  },
+  {
+    "runNumber": "40285",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-25T22:56:01.104964-04:00",
+    "address": "2416 San Milano Place",
+    "extra": {
+      "incidentNumber": "40285",
+      "run_id": "40285",
+      "address": "2416 San Milano Place",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L05",
+      "units": "L05",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40285"
+    }
   }
 ]
