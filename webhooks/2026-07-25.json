@@ -4750,5 +4750,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40263"
     }
+  },
+  {
+    "runNumber": "40262",
+    "rawCode": "FFIA",
+    "timestamp": "2026-07-25T21:31:54.565680-04:00",
+    "address": "330 Newtown Pike",
+    "extra": {
+      "incidentNumber": "40262",
+      "run_id": "40262",
+      "address": "330 Newtown Pike",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E10,L03,EC11,203",
+      "units": "E04,E10,L03,EC11,203",
+      "unitCount": "5",
+      "primaryTopic": "FFIA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-40262"
+    }
   }
 ]
