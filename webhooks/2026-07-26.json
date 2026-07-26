@@ -1824,5 +1824,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-40379"
     }
+  },
+  {
+    "runNumber": "40378",
+    "rawCode": "MED",
+    "timestamp": "2026-07-26T13:19:09.590221-04:00",
+    "address": "800 Block Winchester Road",
+    "extra": {
+      "incidentNumber": "40378",
+      "run_id": "40378",
+      "address": "800 Block Winchester Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC1",
+      "units": "E02,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40378"
+    }
   }
 ]
