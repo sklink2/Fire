@@ -4662,5 +4662,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40255"
     }
+  },
+  {
+    "runNumber": "40259",
+    "rawCode": "MED",
+    "timestamp": "2026-07-25T21:21:15.243330-04:00",
+    "address": "2900 Block Four Pines Drive",
+    "extra": {
+      "incidentNumber": "40259",
+      "run_id": "40259",
+      "address": "2900 Block Four Pines Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,EC10",
+      "units": "E07,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40259"
+    }
   }
 ]
