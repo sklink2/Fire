@@ -350,5 +350,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-40311"
     }
+  },
+  {
+    "runNumber": "40312",
+    "rawCode": "MED",
+    "timestamp": "2026-07-26T03:33:09.714622-04:00",
+    "address": "2500 Block Kearney Ridge Boulevard",
+    "extra": {
+      "incidentNumber": "40312",
+      "run_id": "40312",
+      "address": "2500 Block Kearney Ridge Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40312"
+    }
   }
 ]
