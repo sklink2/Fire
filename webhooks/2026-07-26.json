@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40328"
     }
+  },
+  {
+    "runNumber": "40329",
+    "rawCode": "FMIS",
+    "timestamp": "2026-07-26T08:34:53.013130-04:00",
+    "address": "2697 Paddock Court",
+    "extra": {
+      "incidentNumber": "40329",
+      "run_id": "40329",
+      "address": "2697 Paddock Court",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,202",
+      "units": "E09,202",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-40329"
+    }
   }
 ]
