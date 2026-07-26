@@ -130,5 +130,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40299"
     }
+  },
+  {
+    "runNumber": "40302",
+    "rawCode": "MED",
+    "timestamp": "2026-07-26T01:30:22.693334-04:00",
+    "address": "200 Block Toronto Road",
+    "extra": {
+      "incidentNumber": "40302",
+      "run_id": "40302",
+      "address": "200 Block Toronto Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40302"
+    }
   }
 ]
