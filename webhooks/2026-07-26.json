@@ -636,5 +636,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40323"
     }
+  },
+  {
+    "runNumber": "40325",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-26T06:49:37.334843-04:00",
+    "address": "2200 Innovation Drive",
+    "extra": {
+      "incidentNumber": "40325",
+      "run_id": "40325",
+      "address": "2200 Innovation Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,E24,L03,203",
+      "units": "E10,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-40325"
+    }
   }
 ]
