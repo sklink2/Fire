@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40360"
     }
+  },
+  {
+    "runNumber": "40359",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-26T11:44:18.296465-04:00",
+    "address": "307 W Short Street",
+    "extra": {
+      "incidentNumber": "40359",
+      "run_id": "40359",
+      "address": "307 W Short Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10,RS1",
+      "units": "EC10,RS1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40359"
+    }
   }
 ]
