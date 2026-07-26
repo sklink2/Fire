@@ -328,5 +328,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40310"
     }
+  },
+  {
+    "runNumber": "40311",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-26T03:22:39.711909-04:00",
+    "address": "319 Columbia Terrace",
+    "extra": {
+      "incidentNumber": "40311",
+      "run_id": "40311",
+      "address": "319 Columbia Terrace",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,L02,205",
+      "units": "E05,E06,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-40311"
+    }
   }
 ]
