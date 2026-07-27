@@ -130,5 +130,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40481"
     }
+  },
+  {
+    "runNumber": "40482",
+    "rawCode": "MED",
+    "timestamp": "2026-07-27T01:35:49.240916-04:00",
+    "address": "300 Block Southpoint Drive",
+    "extra": {
+      "incidentNumber": "40482",
+      "run_id": "40482",
+      "address": "300 Block Southpoint Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC12,EC13",
+      "units": "EC12,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40482"
+    }
   }
 ]
