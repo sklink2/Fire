@@ -1318,5 +1318,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40534"
     }
+  },
+  {
+    "runNumber": "40533",
+    "rawCode": "MED",
+    "timestamp": "2026-07-27T10:43:15.475149-04:00",
+    "address": "Red Clover Lane & Lucille Drive",
+    "extra": {
+      "incidentNumber": "40533",
+      "run_id": "40533",
+      "address": "Red Clover Lane & Lucille Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC6,241",
+      "units": "E24,EC6,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-40533"
+    }
   }
 ]
