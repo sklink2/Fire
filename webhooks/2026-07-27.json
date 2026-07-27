@@ -1890,5 +1890,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40559"
     }
+  },
+  {
+    "runNumber": "40561",
+    "rawCode": "MED",
+    "timestamp": "2026-07-27T13:20:59.997830-04:00",
+    "address": "200 Block Gauley Lane",
+    "extra": {
+      "incidentNumber": "40561",
+      "run_id": "40561",
+      "address": "200 Block Gauley Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40561"
+    }
   }
 ]
