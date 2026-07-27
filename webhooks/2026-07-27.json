@@ -2726,5 +2726,27 @@
       "commandUnits": "241,220,201,205",
       "dedupeKey": "INCIDENT-40598"
     }
+  },
+  {
+    "runNumber": "40599",
+    "rawCode": "MED",
+    "timestamp": "2026-07-27T16:55:00.720535-04:00",
+    "address": "500 Block Arcadia Park",
+    "extra": {
+      "incidentNumber": "40599",
+      "run_id": "40599",
+      "address": "500 Block Arcadia Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40599"
+    }
   }
 ]
