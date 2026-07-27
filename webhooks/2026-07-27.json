@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40551"
     }
+  },
+  {
+    "runNumber": "40552",
+    "rawCode": "MED",
+    "timestamp": "2026-07-27T12:24:51.439843-04:00",
+    "address": "1200 Block Kennecott Way",
+    "extra": {
+      "incidentNumber": "40552",
+      "run_id": "40552",
+      "address": "1200 Block Kennecott Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40552"
+    }
   }
 ]
