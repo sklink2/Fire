@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40491"
     }
+  },
+  {
+    "runNumber": "40492",
+    "rawCode": "MED",
+    "timestamp": "2026-07-27T03:31:35.819367-04:00",
+    "address": "2300 Block Lake Park Road",
+    "extra": {
+      "incidentNumber": "40492",
+      "run_id": "40492",
+      "address": "2300 Block Lake Park Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40492"
+    }
   }
 ]
