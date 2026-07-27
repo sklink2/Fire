@@ -3122,5 +3122,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-40432"
     }
+  },
+  {
+    "runNumber": "40439",
+    "rawCode": "FGAO",
+    "timestamp": "2026-07-26T20:02:29.870898-04:00",
+    "address": "3906 Northampton Drive",
+    "extra": {
+      "incidentNumber": "40439",
+      "run_id": "40439",
+      "address": "3906 Northampton Drive",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E22",
+      "units": "E16,E22",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40439"
+    }
   }
 ]
