@@ -1120,5 +1120,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40526"
     }
+  },
+  {
+    "runNumber": "40525",
+    "rawCode": "MED",
+    "timestamp": "2026-07-27T09:54:03.766779-04:00",
+    "address": "2200 Block Pierson Drive",
+    "extra": {
+      "incidentNumber": "40525",
+      "run_id": "40525",
+      "address": "2200 Block Pierson Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC6,CRT1",
+      "units": "EC6,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40525"
+    }
   }
 ]
