@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40601"
     }
+  },
+  {
+    "runNumber": "40603",
+    "rawCode": "FMIS",
+    "timestamp": "2026-07-27T17:09:04.060111-04:00",
+    "address": "3841 Everetts Dale",
+    "extra": {
+      "incidentNumber": "40603",
+      "run_id": "40603",
+      "address": "3841 Everetts Dale",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,202",
+      "units": "E15,202",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-40603"
+    }
   }
 ]
