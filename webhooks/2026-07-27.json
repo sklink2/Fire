@@ -2154,5 +2154,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40571"
     }
+  },
+  {
+    "runNumber": "40575",
+    "rawCode": "FOTS",
+    "timestamp": "2026-07-27T14:24:10.025162-04:00",
+    "address": "219 E Third Street",
+    "extra": {
+      "incidentNumber": "40575",
+      "run_id": "40575",
+      "address": "219 E Third Street",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L01",
+      "units": "L01",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40575"
+    }
   }
 ]
