@@ -3056,5 +3056,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40614"
     }
+  },
+  {
+    "runNumber": "40615",
+    "rawCode": "FSIA",
+    "timestamp": "2026-07-27T18:19:13.389234-04:00",
+    "address": "75 Nb / 118.0 Mm (North Split",
+    "extra": {
+      "incidentNumber": "40615",
+      "run_id": "40615",
+      "address": "75 Nb / 118.0 Mm (North Split",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E08,203",
+      "units": "E04,E08,203",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-40615"
+    }
   }
 ]
