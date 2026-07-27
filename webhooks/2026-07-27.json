@@ -2748,5 +2748,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40599"
     }
+  },
+  {
+    "runNumber": "40600",
+    "rawCode": "MED",
+    "timestamp": "2026-07-27T16:58:29.921448-04:00",
+    "address": "2900 Block Eastbrook Court",
+    "extra": {
+      "incidentNumber": "40600",
+      "run_id": "40600",
+      "address": "2900 Block Eastbrook Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,EC4",
+      "units": "E07,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40600"
+    }
   }
 ]
