@@ -2814,5 +2814,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-40603"
     }
+  },
+  {
+    "runNumber": "40602",
+    "rawCode": "MED",
+    "timestamp": "2026-07-27T17:09:07.046551-04:00",
+    "address": "Newtown Pike & Aristides Boulevard",
+    "extra": {
+      "incidentNumber": "40602",
+      "run_id": "40602",
+      "address": "Newtown Pike & Aristides Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14",
+      "units": "E14",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40602"
+    }
   }
 ]
