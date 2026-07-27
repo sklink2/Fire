@@ -878,5 +878,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40515"
     }
+  },
+  {
+    "runNumber": "40516",
+    "rawCode": "MED",
+    "timestamp": "2026-07-27T08:47:21.244327-04:00",
+    "address": "700 Block Vicki Way",
+    "extra": {
+      "incidentNumber": "40516",
+      "run_id": "40516",
+      "address": "700 Block Vicki Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L06,EC2",
+      "units": "L06,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40516"
+    }
   }
 ]
