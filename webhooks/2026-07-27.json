@@ -2022,5 +2022,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40566"
     }
+  },
+  {
+    "runNumber": "40570",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-27T13:49:03.333252-04:00",
+    "address": "Old Frankfort Pike & S Forbes",
+    "extra": {
+      "incidentNumber": "40570",
+      "run_id": "40570",
+      "address": "Old Frankfort Pike & S Forbes",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L03",
+      "units": "L03",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40570"
+    }
   }
 ]
