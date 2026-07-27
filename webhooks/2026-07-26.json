@@ -3606,5 +3606,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40460"
     }
+  },
+  {
+    "runNumber": "40461",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-26T22:22:50.145675-04:00",
+    "address": "246 Jefferson Street",
+    "extra": {
+      "incidentNumber": "40461",
+      "run_id": "40461",
+      "address": "246 Jefferson Street",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40461"
+    }
   }
 ]
