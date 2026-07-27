@@ -2242,5 +2242,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-40578"
     }
+  },
+  {
+    "runNumber": "40577",
+    "rawCode": "MED",
+    "timestamp": "2026-07-27T14:31:14.999354-04:00",
+    "address": "3100 Block Rio Dosa Drive",
+    "extra": {
+      "incidentNumber": "40577",
+      "run_id": "40577",
+      "address": "3100 Block Rio Dosa Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40577"
+    }
   }
 ]
