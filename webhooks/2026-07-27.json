@@ -1604,5 +1604,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40547"
     }
+  },
+  {
+    "runNumber": "40550",
+    "rawCode": "MED",
+    "timestamp": "2026-07-27T12:07:19.824795-04:00",
+    "address": "600 Block Murphys Run",
+    "extra": {
+      "incidentNumber": "40550",
+      "run_id": "40550",
+      "address": "600 Block Murphys Run",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC5",
+      "units": "E02,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40550"
+    }
   }
 ]
