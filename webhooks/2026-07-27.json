@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40589"
     }
+  },
+  {
+    "runNumber": "40592",
+    "rawCode": "MED",
+    "timestamp": "2026-07-27T16:05:52.137135-04:00",
+    "address": "1900 Block Parallel Road",
+    "extra": {
+      "incidentNumber": "40592",
+      "run_id": "40592",
+      "address": "1900 Block Parallel Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC10,EC6",
+      "units": "E10,EC10,EC6",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40592"
+    }
   }
 ]
