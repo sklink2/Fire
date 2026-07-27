@@ -1362,5 +1362,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40539"
     }
+  },
+  {
+    "runNumber": "40538",
+    "rawCode": "MED",
+    "timestamp": "2026-07-27T10:50:12.141013-04:00",
+    "address": "4100 Block Sperling Drive",
+    "extra": {
+      "incidentNumber": "40538",
+      "run_id": "40538",
+      "address": "4100 Block Sperling Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC13",
+      "units": "E21,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40538"
+    }
   }
 ]
