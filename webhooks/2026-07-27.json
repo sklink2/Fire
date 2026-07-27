@@ -1142,5 +1142,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40525"
     }
+  },
+  {
+    "runNumber": "40527",
+    "rawCode": "MED",
+    "timestamp": "2026-07-27T10:08:02.762854-04:00",
+    "address": "1600 Block Auburn Drive",
+    "extra": {
+      "incidentNumber": "40527",
+      "run_id": "40527",
+      "address": "1600 Block Auburn Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40527"
+    }
   }
 ]
