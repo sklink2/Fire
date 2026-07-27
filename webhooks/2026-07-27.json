@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40580"
     }
+  },
+  {
+    "runNumber": "40581",
+    "rawCode": "FSIA",
+    "timestamp": "2026-07-27T14:59:15.171144-04:00",
+    "address": "Hidden River Drive & Old Lemons M",
+    "extra": {
+      "incidentNumber": "40581",
+      "run_id": "40581",
+      "address": "Hidden River Drive & Old Lemons M",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,E19,203",
+      "units": "E10,E19,203",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-40581"
+    }
   }
 ]
