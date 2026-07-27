@@ -1098,5 +1098,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40523"
     }
+  },
+  {
+    "runNumber": "40526",
+    "rawCode": "MED",
+    "timestamp": "2026-07-27T09:54:01.103592-04:00",
+    "address": "1400 Block Anniston Drive",
+    "extra": {
+      "incidentNumber": "40526",
+      "run_id": "40526",
+      "address": "1400 Block Anniston Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40526"
+    }
   }
 ]
