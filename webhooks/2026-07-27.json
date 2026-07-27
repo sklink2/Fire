@@ -2572,5 +2572,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40592"
     }
+  },
+  {
+    "runNumber": "40591",
+    "rawCode": "MED",
+    "timestamp": "2026-07-27T16:05:56.351535-04:00",
+    "address": "3500 Block Brookview Drive",
+    "extra": {
+      "incidentNumber": "40591",
+      "run_id": "40591",
+      "address": "3500 Block Brookview Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC4",
+      "units": "E15,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40591"
+    }
   }
 ]
