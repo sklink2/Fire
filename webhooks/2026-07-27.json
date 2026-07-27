@@ -2704,5 +2704,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40596"
     }
+  },
+  {
+    "runNumber": "40598",
+    "rawCode": "FSTR",
+    "timestamp": "2026-07-27T16:44:34.269653-04:00",
+    "address": "127 Glenn Place",
+    "extra": {
+      "incidentNumber": "40598",
+      "run_id": "40598",
+      "address": "127 Glenn Place",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E02,E04,E08,E09,L01,L05,EC3,201,205,220,241,RS1",
+      "units": "E01,E02,E04,E08,E09,L01,L05,EC3,201,205,220,241,RS1",
+      "unitCount": "13",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,205",
+      "dedupeKey": "INCIDENT-40598"
+    }
   }
 ]
