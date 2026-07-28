@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40780"
     }
+  },
+  {
+    "runNumber": "40782",
+    "rawCode": "MED",
+    "timestamp": "2026-07-28T12:05:45.647610-04:00",
+    "address": "300 Block E Fifth Street",
+    "extra": {
+      "incidentNumber": "40782",
+      "run_id": "40782",
+      "address": "300 Block E Fifth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC21",
+      "units": "E02,EC21",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40782"
+    }
   }
 ]
