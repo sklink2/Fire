@@ -4332,5 +4332,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-40668"
     }
+  },
+  {
+    "runNumber": "40673",
+    "rawCode": "FWID",
+    "timestamp": "2026-07-27T22:03:44.859915-04:00",
+    "address": "Park Avenue & Euclid Avenue",
+    "extra": {
+      "incidentNumber": "40673",
+      "run_id": "40673",
+      "address": "Park Avenue & Euclid Avenue",
+      "rawType": "FWID",
+      "typeCode": "FWID",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06",
+      "units": "E06",
+      "unitCount": "1",
+      "primaryTopic": "FWID",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40673"
+    }
   }
 ]
