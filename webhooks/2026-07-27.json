@@ -4310,5 +4310,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40669"
     }
+  },
+  {
+    "runNumber": "40668",
+    "rawCode": "FSIA",
+    "timestamp": "2026-07-27T22:00:24.222952-04:00",
+    "address": "Tamarack Drive & Tearose Drive",
+    "extra": {
+      "incidentNumber": "40668",
+      "run_id": "40668",
+      "address": "Tamarack Drive & Tearose Drive",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E14,204",
+      "units": "E11,E14,204",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-40668"
+    }
   }
 ]
