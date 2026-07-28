@@ -1714,5 +1714,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40775"
     }
+  },
+  {
+    "runNumber": "40777",
+    "rawCode": "MED",
+    "timestamp": "2026-07-28T11:48:12.643914-04:00",
+    "address": "4000 Block Georgetown Road",
+    "extra": {
+      "incidentNumber": "40777",
+      "run_id": "40777",
+      "address": "4000 Block Georgetown Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "T1,EC13",
+      "units": "T1,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40777"
+    }
   }
 ]
