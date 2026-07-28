@@ -4684,5 +4684,27 @@
       "commandUnits": "220,203",
       "dedupeKey": "INCIDENT-40688"
     }
+  },
+  {
+    "runNumber": "40687",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-27T22:52:59.218147-04:00",
+    "address": "4535 Todds Road",
+    "extra": {
+      "incidentNumber": "40687",
+      "run_id": "40687",
+      "address": "4535 Todds Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L06",
+      "units": "L06",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40687"
+    }
   }
 ]
