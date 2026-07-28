@@ -4662,5 +4662,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40685"
     }
+  },
+  {
+    "runNumber": "40688",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-27T22:52:54.870522-04:00",
+    "address": "2877 Majestic View Walk",
+    "extra": {
+      "incidentNumber": "40688",
+      "run_id": "40688",
+      "address": "2877 Majestic View Walk",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E24,L03,EC3,203,220",
+      "units": "E02,E24,L03,EC3,203,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,203",
+      "dedupeKey": "INCIDENT-40688"
+    }
   }
 ]
