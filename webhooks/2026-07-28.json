@@ -2572,5 +2572,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40813"
     }
+  },
+  {
+    "runNumber": "40816",
+    "rawCode": "MED",
+    "timestamp": "2026-07-28T15:04:39.273989-04:00",
+    "address": "0 Block Queen Avenue",
+    "extra": {
+      "incidentNumber": "40816",
+      "run_id": "40816",
+      "address": "0 Block Queen Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40816"
+    }
   }
 ]
