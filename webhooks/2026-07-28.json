@@ -438,5 +438,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40718"
     }
+  },
+  {
+    "runNumber": "40719",
+    "rawCode": "MED",
+    "timestamp": "2026-07-28T05:29:16.910206-04:00",
+    "address": "2000 Block Heather Way",
+    "extra": {
+      "incidentNumber": "40719",
+      "run_id": "40719",
+      "address": "2000 Block Heather Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40719"
+    }
   }
 ]
