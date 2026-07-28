@@ -262,5 +262,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40710"
     }
+  },
+  {
+    "runNumber": "40711",
+    "rawCode": "FVIS",
+    "timestamp": "2026-07-28T01:51:49.372642-04:00",
+    "address": "3525 Buckhorn Drive",
+    "extra": {
+      "incidentNumber": "40711",
+      "run_id": "40711",
+      "address": "3525 Buckhorn Drive",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E16,L07,EC13,202,RS1",
+      "units": "E09,E16,L07,EC13,202,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-40711"
+    }
   }
 ]
