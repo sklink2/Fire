@@ -988,5 +988,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-40742"
     }
+  },
+  {
+    "runNumber": "40744",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-28T09:13:48.017273-04:00",
+    "address": "1094 Griffin Gate Drive",
+    "extra": {
+      "incidentNumber": "40744",
+      "run_id": "40744",
+      "address": "1094 Griffin Gate Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E10,L03,EC8,203",
+      "units": "E02,E10,L03,EC8,203",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-40744"
+    }
   }
 ]
