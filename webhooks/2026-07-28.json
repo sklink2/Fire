@@ -1758,5 +1758,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40779"
     }
+  },
+  {
+    "runNumber": "40778",
+    "rawCode": "MED",
+    "timestamp": "2026-07-28T11:51:45.208090-04:00",
+    "address": "800 Block Cheryl Lane",
+    "extra": {
+      "incidentNumber": "40778",
+      "run_id": "40778",
+      "address": "800 Block Cheryl Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,EC9",
+      "units": "E14,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40778"
+    }
   }
 ]
