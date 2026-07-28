@@ -3782,5 +3782,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40645"
     }
+  },
+  {
+    "runNumber": "40649",
+    "rawCode": "MED",
+    "timestamp": "2026-07-27T20:32:32.401153-04:00",
+    "address": "1600 Block Gerald Drive",
+    "extra": {
+      "incidentNumber": "40649",
+      "run_id": "40649",
+      "address": "1600 Block Gerald Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40649"
+    }
   }
 ]
