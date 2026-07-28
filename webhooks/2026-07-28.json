@@ -416,5 +416,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40717"
     }
+  },
+  {
+    "runNumber": "40718",
+    "rawCode": "MED",
+    "timestamp": "2026-07-28T04:22:38.813171-04:00",
+    "address": "200 Block Patchen Drive",
+    "extra": {
+      "incidentNumber": "40718",
+      "run_id": "40718",
+      "address": "200 Block Patchen Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40718"
+    }
   }
 ]
