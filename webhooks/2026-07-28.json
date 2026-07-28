@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40769"
     }
+  },
+  {
+    "runNumber": "40771",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-28T11:30:39.765678-04:00",
+    "address": "4393 Clearwater Way",
+    "extra": {
+      "incidentNumber": "40771",
+      "run_id": "40771",
+      "address": "4393 Clearwater Way",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,E22,L07,220",
+      "units": "E16,E22,L07,220",
+      "unitCount": "4",
+      "primaryTopic": "FINV",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-40771"
+    }
   }
 ]
