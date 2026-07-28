@@ -3826,5 +3826,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-40872"
     }
+  },
+  {
+    "runNumber": "40873",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-28T19:24:18.530411-04:00",
+    "address": "1701 Auburn Circle",
+    "extra": {
+      "incidentNumber": "40873",
+      "run_id": "40873",
+      "address": "1701 Auburn Circle",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E08,L05,EC3,205",
+      "units": "E02,E08,L05,EC3,205",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-40873"
+    }
   }
 ]
