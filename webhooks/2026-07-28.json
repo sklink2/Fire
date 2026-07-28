@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40719"
     }
+  },
+  {
+    "runNumber": "40720",
+    "rawCode": "MED",
+    "timestamp": "2026-07-28T05:50:20.083365-04:00",
+    "address": "1100 Block Kees Road",
+    "extra": {
+      "incidentNumber": "40720",
+      "run_id": "40720",
+      "address": "1100 Block Kees Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40720"
+    }
   }
 ]
