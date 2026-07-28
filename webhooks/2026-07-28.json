@@ -3386,5 +3386,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40852"
     }
+  },
+  {
+    "runNumber": "40853",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-28T18:14:08.472212-04:00",
+    "address": "1076 Armstrong Mill Road",
+    "extra": {
+      "incidentNumber": "40853",
+      "run_id": "40853",
+      "address": "1076 Armstrong Mill Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,E22,L07,202",
+      "units": "E16,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-40853"
+    }
   }
 ]
