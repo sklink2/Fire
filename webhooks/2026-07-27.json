@@ -4552,5 +4552,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-40681"
     }
+  },
+  {
+    "runNumber": "40680",
+    "rawCode": "FPLB",
+    "timestamp": "2026-07-27T22:28:27.014354-04:00",
+    "address": "6300 Cedarcreek Lane",
+    "extra": {
+      "incidentNumber": "40680",
+      "run_id": "40680",
+      "address": "6300 Cedarcreek Lane",
+      "rawType": "FPLB",
+      "typeCode": "FPLB",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E18",
+      "units": "E18",
+      "unitCount": "1",
+      "primaryTopic": "FPLB",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40680"
+    }
   }
 ]
