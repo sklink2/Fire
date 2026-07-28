@@ -196,5 +196,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40706"
     }
+  },
+  {
+    "runNumber": "40707",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-28T01:20:14.583578-04:00",
+    "address": "944 Dayton Avenue",
+    "extra": {
+      "incidentNumber": "40707",
+      "run_id": "40707",
+      "address": "944 Dayton Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E02,L05,201",
+      "units": "E01,E02,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-40707"
+    }
   }
 ]
