@@ -592,5 +592,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40726"
     }
+  },
+  {
+    "runNumber": "40727",
+    "rawCode": "MED",
+    "timestamp": "2026-07-28T07:14:31.124705-04:00",
+    "address": "2700 Block Ashbrooke Drive",
+    "extra": {
+      "incidentNumber": "40727",
+      "run_id": "40727",
+      "address": "2700 Block Ashbrooke Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40727"
+    }
   }
 ]
