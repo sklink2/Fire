@@ -2088,5 +2088,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40793"
     }
+  },
+  {
+    "runNumber": "40794",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-28T13:15:55.169921-04:00",
+    "address": "129 Preakness Drive",
+    "extra": {
+      "incidentNumber": "40794",
+      "run_id": "40794",
+      "address": "129 Preakness Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E10,L03,201",
+      "units": "E01,E10,L03,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-40794"
+    }
   }
 ]
