@@ -1648,5 +1648,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40773"
     }
+  },
+  {
+    "runNumber": "40772",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-28T11:41:17.847490-04:00",
+    "address": "1713 Hazelmoor Place",
+    "extra": {
+      "incidentNumber": "40772",
+      "run_id": "40772",
+      "address": "1713 Hazelmoor Place",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,E15,L02,203",
+      "units": "E12,E15,L02,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-40772"
+    }
   }
 ]
