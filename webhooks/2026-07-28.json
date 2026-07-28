@@ -922,5 +922,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-40741"
     }
+  },
+  {
+    "runNumber": "40738",
+    "rawCode": "MED",
+    "timestamp": "2026-07-28T09:06:52.255145-04:00",
+    "address": "500 Block Goldon Trophy Trail",
+    "extra": {
+      "incidentNumber": "40738",
+      "run_id": "40738",
+      "address": "500 Block Goldon Trophy Trail",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC12",
+      "units": "E15,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40738"
+    }
   }
 ]
