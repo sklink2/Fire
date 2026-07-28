@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40803"
     }
+  },
+  {
+    "runNumber": "40802",
+    "rawCode": "MED",
+    "timestamp": "2026-07-28T14:08:38.854570-04:00",
+    "address": "1100 Block Millcreek Drive",
+    "extra": {
+      "incidentNumber": "40802",
+      "run_id": "40802",
+      "address": "1100 Block Millcreek Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,EC4",
+      "units": "E16,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40802"
+    }
   }
 ]
