@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40743"
     }
+  },
+  {
+    "runNumber": "40742",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-28T09:10:21.197443-04:00",
+    "address": "121 Cherrybark Drive",
+    "extra": {
+      "incidentNumber": "40742",
+      "run_id": "40742",
+      "address": "121 Cherrybark Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,E20,L04,EC5,204",
+      "units": "E12,E20,L04,EC5,204",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-40742"
+    }
   }
 ]
