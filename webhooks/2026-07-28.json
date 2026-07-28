@@ -2154,5 +2154,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40796"
     }
+  },
+  {
+    "runNumber": "40797",
+    "rawCode": "FSTR",
+    "timestamp": "2026-07-28T13:40:32.309920-04:00",
+    "address": "1 Street Joseph Drive",
+    "extra": {
+      "incidentNumber": "40797",
+      "run_id": "40797",
+      "address": "1 Street Joseph Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E09,E11,E12,E20,L02,L04,EC5,EC7,EC8,204,205,220,RS1",
+      "units": "E06,E09,E11,E12,E20,L02,L04,EC5,EC7,EC8,204,205,220,RS1",
+      "unitCount": "14",
+      "primaryTopic": "FSTR",
+      "commandUnits": "220,204,205",
+      "dedupeKey": "INCIDENT-40797"
+    }
   }
 ]
