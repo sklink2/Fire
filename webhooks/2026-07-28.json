@@ -1164,5 +1164,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40751"
     }
+  },
+  {
+    "runNumber": "40753",
+    "rawCode": "MED",
+    "timestamp": "2026-07-28T10:06:26.149992-04:00",
+    "address": "1700 Block Alysheba Way",
+    "extra": {
+      "incidentNumber": "40753",
+      "run_id": "40753",
+      "address": "1700 Block Alysheba Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40753"
+    }
   }
 ]
