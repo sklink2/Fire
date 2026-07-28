@@ -1120,5 +1120,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40750"
     }
+  },
+  {
+    "runNumber": "40749",
+    "rawCode": "MED",
+    "timestamp": "2026-07-28T09:55:58.557422-04:00",
+    "address": "700 Block Calista Flt",
+    "extra": {
+      "incidentNumber": "40749",
+      "run_id": "40749",
+      "address": "700 Block Calista Flt",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,EC5",
+      "units": "E24,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40749"
+    }
   }
 ]
