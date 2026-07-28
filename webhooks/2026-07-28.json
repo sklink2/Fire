@@ -2594,5 +2594,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40816"
     }
+  },
+  {
+    "runNumber": "40818",
+    "rawCode": "MED",
+    "timestamp": "2026-07-28T15:08:09.410434-04:00",
+    "address": "1200 Block University Drive",
+    "extra": {
+      "incidentNumber": "40818",
+      "run_id": "40818",
+      "address": "1200 Block University Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40818"
+    }
   }
 ]
