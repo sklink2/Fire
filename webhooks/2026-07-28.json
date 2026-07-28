@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40787"
     }
+  },
+  {
+    "runNumber": "40789",
+    "rawCode": "MED",
+    "timestamp": "2026-07-28T12:44:20.334033-04:00",
+    "address": "1900 Block Laclede Court",
+    "extra": {
+      "incidentNumber": "40789",
+      "run_id": "40789",
+      "address": "1900 Block Laclede Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L05,EC8",
+      "units": "L05,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40789"
+    }
   }
 ]
