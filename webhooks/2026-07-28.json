@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40734"
     }
+  },
+  {
+    "runNumber": "40735",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-28T08:28:13.267959-04:00",
+    "address": "2323 Versailles Road",
+    "extra": {
+      "incidentNumber": "40735",
+      "run_id": "40735",
+      "address": "2323 Versailles Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,L04",
+      "units": "E14,L04",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40735"
+    }
   }
 ]
