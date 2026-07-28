@@ -2264,5 +2264,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-40804"
     }
+  },
+  {
+    "runNumber": "40803",
+    "rawCode": "MED",
+    "timestamp": "2026-07-28T14:08:36.363108-04:00",
+    "address": "600 Block Vincent Way",
+    "extra": {
+      "incidentNumber": "40803",
+      "run_id": "40803",
+      "address": "600 Block Vincent Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40803"
+    }
   }
 ]
