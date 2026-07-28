@@ -1208,5 +1208,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40752"
     }
+  },
+  {
+    "runNumber": "40754",
+    "rawCode": "MED",
+    "timestamp": "2026-07-28T10:20:29.936741-04:00",
+    "address": "1000 Block Pine Bloom Drive",
+    "extra": {
+      "incidentNumber": "40754",
+      "run_id": "40754",
+      "address": "1000 Block Pine Bloom Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40754"
+    }
   }
 ]
