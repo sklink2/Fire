@@ -4244,5 +4244,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-40666"
     }
+  },
+  {
+    "runNumber": "40671",
+    "rawCode": "FWID",
+    "timestamp": "2026-07-27T22:00:14.776719-04:00",
+    "address": "886 Johnsdale Drive",
+    "extra": {
+      "incidentNumber": "40671",
+      "run_id": "40671",
+      "address": "886 Johnsdale Drive",
+      "rawType": "FWID",
+      "typeCode": "FWID",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "FWID",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40671"
+    }
   }
 ]
