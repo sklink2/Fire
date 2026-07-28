@@ -2638,5 +2638,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-40817"
     }
+  },
+  {
+    "runNumber": "40819",
+    "rawCode": "MED",
+    "timestamp": "2026-07-28T15:18:43.920927-04:00",
+    "address": "2300 Block Nicholasville Road",
+    "extra": {
+      "incidentNumber": "40819",
+      "run_id": "40819",
+      "address": "2300 Block Nicholasville Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12",
+      "units": "E12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40819"
+    }
   }
 ]
