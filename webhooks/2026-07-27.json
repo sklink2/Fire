@@ -4002,5 +4002,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40657"
     }
+  },
+  {
+    "runNumber": "40658",
+    "rawCode": "FOTS",
+    "timestamp": "2026-07-27T21:18:07.975859-04:00",
+    "address": "Winchester Road / Elkhorn Road",
+    "extra": {
+      "incidentNumber": "40658",
+      "run_id": "40658",
+      "address": "Winchester Road / Elkhorn Road",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40658"
+    }
   }
 ]
