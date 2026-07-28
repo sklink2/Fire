@@ -3628,5 +3628,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-40863"
     }
+  },
+  {
+    "runNumber": "40865",
+    "rawCode": "FSTR",
+    "timestamp": "2026-07-28T18:56:17.467942-04:00",
+    "address": "2800 Alumni Drive",
+    "extra": {
+      "incidentNumber": "40865",
+      "run_id": "40865",
+      "address": "2800 Alumni Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E16,E21,E22,L06,L07,EC2,201,202,220,241,RS1",
+      "units": "E08,E16,E21,E22,L06,L07,EC2,201,202,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,202",
+      "dedupeKey": "INCIDENT-40865"
+    }
   }
 ]
