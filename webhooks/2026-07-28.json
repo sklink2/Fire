@@ -3210,5 +3210,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-40845"
     }
+  },
+  {
+    "runNumber": "40844",
+    "rawCode": "FELF",
+    "timestamp": "2026-07-28T17:14:35.055853-04:00",
+    "address": "1020 N Limestone",
+    "extra": {
+      "incidentNumber": "40844",
+      "run_id": "40844",
+      "address": "1020 N Limestone",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E08,L01,EC6,205",
+      "units": "E04,E08,L01,EC6,205",
+      "unitCount": "5",
+      "primaryTopic": "FELF",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-40844"
+    }
   }
 ]
