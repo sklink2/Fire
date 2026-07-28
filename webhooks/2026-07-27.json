@@ -4530,5 +4530,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40682"
     }
+  },
+  {
+    "runNumber": "40681",
+    "rawCode": "FELF",
+    "timestamp": "2026-07-27T22:28:22.316880-04:00",
+    "address": "4389 Josiah Way",
+    "extra": {
+      "incidentNumber": "40681",
+      "run_id": "40681",
+      "address": "4389 Josiah Way",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E22,L07,EC13,204",
+      "units": "E07,E22,L07,EC13,204",
+      "unitCount": "5",
+      "primaryTopic": "FELF",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-40681"
+    }
   }
 ]
