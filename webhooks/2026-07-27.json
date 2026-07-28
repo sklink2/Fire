@@ -4068,5 +4068,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40658"
     }
+  },
+  {
+    "runNumber": "40660",
+    "rawCode": "FELF",
+    "timestamp": "2026-07-27T21:46:12.761923-04:00",
+    "address": "796 Lochmere Place",
+    "extra": {
+      "incidentNumber": "40660",
+      "run_id": "40660",
+      "address": "796 Lochmere Place",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E21,L06,EC11,202",
+      "units": "E09,E21,L06,EC11,202",
+      "unitCount": "5",
+      "primaryTopic": "FELF",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-40660"
+    }
   }
 ]
