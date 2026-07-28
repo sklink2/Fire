@@ -3672,5 +3672,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40642"
     }
+  },
+  {
+    "runNumber": "40641",
+    "rawCode": "MED",
+    "timestamp": "2026-07-27T20:18:34.152351-04:00",
+    "address": "100 Block Patchen Drive",
+    "extra": {
+      "incidentNumber": "40641",
+      "run_id": "40641",
+      "address": "100 Block Patchen Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40641"
+    }
   }
 ]
