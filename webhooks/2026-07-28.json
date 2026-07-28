@@ -3650,5 +3650,27 @@
       "commandUnits": "241,220,201,202",
       "dedupeKey": "INCIDENT-40865"
     }
+  },
+  {
+    "runNumber": "40864",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-07-28T18:56:24.440392-04:00",
+    "address": "3141 Blenheim Way",
+    "extra": {
+      "incidentNumber": "40864",
+      "run_id": "40864",
+      "address": "3141 Blenheim Way",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40864"
+    }
   }
 ]
