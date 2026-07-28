@@ -4112,5 +4112,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-40663"
     }
+  },
+  {
+    "runNumber": "40662",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-27T21:49:46.869073-04:00",
+    "address": "1712 Leith Court",
+    "extra": {
+      "incidentNumber": "40662",
+      "run_id": "40662",
+      "address": "1712 Leith Court",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40662"
+    }
   }
 ]
