@@ -2132,5 +2132,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-40795"
     }
+  },
+  {
+    "runNumber": "40796",
+    "rawCode": "MED",
+    "timestamp": "2026-07-28T13:22:56.051644-04:00",
+    "address": "400 Block Kilpatrick Court",
+    "extra": {
+      "incidentNumber": "40796",
+      "run_id": "40796",
+      "address": "400 Block Kilpatrick Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40796"
+    }
   }
 ]
