@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40805"
     }
+  },
+  {
+    "runNumber": "40806",
+    "rawCode": "MED",
+    "timestamp": "2026-07-28T14:29:36.305352-04:00",
+    "address": "100 Block W Loudon Avenue",
+    "extra": {
+      "incidentNumber": "40806",
+      "run_id": "40806",
+      "address": "100 Block W Loudon Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40806"
+    }
   }
 ]
