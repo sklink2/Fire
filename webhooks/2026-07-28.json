@@ -4596,5 +4596,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40907"
     }
+  },
+  {
+    "runNumber": "40910",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-28T23:22:50.631594-04:00",
+    "address": "1712 Buckner Court",
+    "extra": {
+      "incidentNumber": "40910",
+      "run_id": "40910",
+      "address": "1712 Buckner Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,E12,L04,204",
+      "units": "E11,E12,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-40910"
+    }
   }
 ]
