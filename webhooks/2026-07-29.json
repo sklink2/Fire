@@ -3694,5 +3694,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41082"
     }
+  },
+  {
+    "runNumber": "41083",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-29T19:22:44.562310-04:00",
+    "address": "Winchester Road & E Loudon Avenue",
+    "extra": {
+      "incidentNumber": "41083",
+      "run_id": "41083",
+      "address": "Winchester Road & E Loudon Avenue",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC8,241",
+      "units": "E02,EC8,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-41083"
+    }
   }
 ]
