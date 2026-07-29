@@ -4442,5 +4442,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40901"
     }
+  },
+  {
+    "runNumber": "40902",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-28T22:51:16.034299-04:00",
+    "address": "546 Halifax Drive",
+    "extra": {
+      "incidentNumber": "40902",
+      "run_id": "40902",
+      "address": "546 Halifax Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L04",
+      "units": "L04",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40902"
+    }
   }
 ]
