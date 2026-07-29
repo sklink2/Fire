@@ -1472,5 +1472,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40981"
     }
+  },
+  {
+    "runNumber": "40980",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-29T09:43:52.564966-04:00",
+    "address": "125 Louie Place",
+    "extra": {
+      "incidentNumber": "40980",
+      "run_id": "40980",
+      "address": "125 Louie Place",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,E13,E24,L03,203",
+      "units": "E10,E13,E24,L03,203",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-40980"
+    }
   }
 ]
