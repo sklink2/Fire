@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40955"
     }
+  },
+  {
+    "runNumber": "40956",
+    "rawCode": "FWID",
+    "timestamp": "2026-07-29T07:33:59.957674-04:00",
+    "address": "Shady Lane & Mcdonald Avenue",
+    "extra": {
+      "incidentNumber": "40956",
+      "run_id": "40956",
+      "address": "Shady Lane & Mcdonald Avenue",
+      "rawType": "FWID",
+      "typeCode": "FWID",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12",
+      "units": "E12",
+      "unitCount": "1",
+      "primaryTopic": "FWID",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40956"
+    }
   }
 ]
