@@ -3782,5 +3782,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41086"
     }
+  },
+  {
+    "runNumber": "41087",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-29T19:47:18.346655-04:00",
+    "address": "1639 Donelwal Drive",
+    "extra": {
+      "incidentNumber": "41087",
+      "run_id": "41087",
+      "address": "1639 Donelwal Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,E24,L03,201",
+      "units": "E10,E24,L03,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-41087"
+    }
   }
 ]
