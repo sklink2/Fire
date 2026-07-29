@@ -1032,5 +1032,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40959"
     }
+  },
+  {
+    "runNumber": "40961",
+    "rawCode": "FMEA",
+    "timestamp": "2026-07-29T07:55:02.936030-04:00",
+    "address": "192 Elmwood Drive",
+    "extra": {
+      "incidentNumber": "40961",
+      "run_id": "40961",
+      "address": "192 Elmwood Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40961"
+    }
   }
 ]
