@@ -2264,5 +2264,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41015"
     }
+  },
+  {
+    "runNumber": "41017",
+    "rawCode": "FELF",
+    "timestamp": "2026-07-29T12:39:15.707403-04:00",
+    "address": "3141 Beaumont Centre Circle",
+    "extra": {
+      "incidentNumber": "41017",
+      "run_id": "41017",
+      "address": "3141 Beaumont Centre Circle",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E20,L04,EC9,201",
+      "units": "E11,E20,L04,EC9,201",
+      "unitCount": "5",
+      "primaryTopic": "FELF",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-41017"
+    }
   }
 ]
