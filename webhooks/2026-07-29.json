@@ -1890,5 +1890,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40999"
     }
+  },
+  {
+    "runNumber": "41001",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-29T11:18:33.653332-04:00",
+    "address": "1917 Cambridge Drive",
+    "extra": {
+      "incidentNumber": "41001",
+      "run_id": "41001",
+      "address": "1917 Cambridge Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,E13,L02,203",
+      "units": "E12,E13,L02,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-41001"
+    }
   }
 ]
