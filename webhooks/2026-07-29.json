@@ -1912,5 +1912,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-41001"
     }
+  },
+  {
+    "runNumber": "41000",
+    "rawCode": "MED",
+    "timestamp": "2026-07-29T11:18:37.559561-04:00",
+    "address": "1000 Block Summer Wind Lane",
+    "extra": {
+      "incidentNumber": "41000",
+      "run_id": "41000",
+      "address": "1000 Block Summer Wind Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41000"
+    }
   }
 ]
