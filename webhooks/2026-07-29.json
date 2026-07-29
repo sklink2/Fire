@@ -2924,5 +2924,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41043"
     }
+  },
+  {
+    "runNumber": "41042",
+    "rawCode": "MED",
+    "timestamp": "2026-07-29T14:50:20.500352-04:00",
+    "address": "300 Block E High Street",
+    "extra": {
+      "incidentNumber": "41042",
+      "run_id": "41042",
+      "address": "300 Block E High Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41042"
+    }
   }
 ]
