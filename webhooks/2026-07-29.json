@@ -2594,5 +2594,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41031"
     }
+  },
+  {
+    "runNumber": "41032",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-29T13:38:53.536604-04:00",
+    "address": "101 Mercer Court",
+    "extra": {
+      "incidentNumber": "41032",
+      "run_id": "41032",
+      "address": "101 Mercer Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E13,L01,201",
+      "units": "E04,E13,L01,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-41032"
+    }
   }
 ]
