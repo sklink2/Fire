@@ -2220,5 +2220,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41012"
     }
+  },
+  {
+    "runNumber": "41016",
+    "rawCode": "MED",
+    "timestamp": "2026-07-29T12:21:40.517301-04:00",
+    "address": "2200 Block Thunderstick Drive",
+    "extra": {
+      "incidentNumber": "41016",
+      "run_id": "41016",
+      "address": "2200 Block Thunderstick Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L05,EC10",
+      "units": "L05,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41016"
+    }
   }
 ]
