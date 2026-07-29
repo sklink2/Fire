@@ -416,5 +416,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40932"
     }
+  },
+  {
+    "runNumber": "40933",
+    "rawCode": "MED",
+    "timestamp": "2026-07-29T03:24:53.072703-04:00",
+    "address": "700 Block Cheryl Lane",
+    "extra": {
+      "incidentNumber": "40933",
+      "run_id": "40933",
+      "address": "700 Block Cheryl Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40933"
+    }
   }
 ]
