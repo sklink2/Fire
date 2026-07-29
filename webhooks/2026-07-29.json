@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40929"
     }
+  },
+  {
+    "runNumber": "40930",
+    "rawCode": "FELS",
+    "timestamp": "2026-07-29T02:21:46.781944-04:00",
+    "address": "521 S Broadway",
+    "extra": {
+      "incidentNumber": "40930",
+      "run_id": "40930",
+      "address": "521 S Broadway",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L01,204,RS1",
+      "units": "L01,204,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-40930"
+    }
   }
 ]
