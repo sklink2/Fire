@@ -372,5 +372,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-40930"
     }
+  },
+  {
+    "runNumber": "40931",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-29T03:14:21.788498-04:00",
+    "address": "1236 Kenesaw Village Drive",
+    "extra": {
+      "incidentNumber": "40931",
+      "run_id": "40931",
+      "address": "1236 Kenesaw Village Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,L07",
+      "units": "E22,L07",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-40931"
+    }
   }
 ]
