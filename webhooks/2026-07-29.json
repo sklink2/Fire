@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40976"
     }
+  },
+  {
+    "runNumber": "40979",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-29T09:36:47.143378-04:00",
+    "address": "2321 Sir Barton Way",
+    "extra": {
+      "incidentNumber": "40979",
+      "run_id": "40979",
+      "address": "2321 Sir Barton Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E21,L06,201",
+      "units": "E02,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-40979"
+    }
   }
 ]
