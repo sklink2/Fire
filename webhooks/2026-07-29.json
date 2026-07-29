@@ -592,5 +592,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-40940"
     }
+  },
+  {
+    "runNumber": "40942",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-29T05:59:17.899990-04:00",
+    "address": "701 Liberty Ridge Lane",
+    "extra": {
+      "incidentNumber": "40942",
+      "run_id": "40942",
+      "address": "701 Liberty Ridge Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E21,L06,201",
+      "units": "E02,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-40942"
+    }
   }
 ]
