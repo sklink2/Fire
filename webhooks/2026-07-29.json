@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40987"
     }
+  },
+  {
+    "runNumber": "40990",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-07-29T10:22:27.505652-04:00",
+    "address": "Polo Club Boulevard & Market Garden",
+    "extra": {
+      "incidentNumber": "40990",
+      "run_id": "40990",
+      "address": "Polo Club Boulevard & Market Garden",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,L06,EC3,202,241,RS1",
+      "units": "E17,L06,EC3,202,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-40990"
+    }
   }
 ]
