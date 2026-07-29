@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41029"
     }
+  },
+  {
+    "runNumber": "41028",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-29T13:21:25.189036-04:00",
+    "address": "1077 Patricia Lane",
+    "extra": {
+      "incidentNumber": "41028",
+      "run_id": "41028",
+      "address": "1077 Patricia Lane",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E10,L03,EC10,203",
+      "units": "E08,E10,L03,EC10,203",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-41028"
+    }
   }
 ]
