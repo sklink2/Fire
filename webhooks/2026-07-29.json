@@ -3628,5 +3628,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41079"
     }
+  },
+  {
+    "runNumber": "41080",
+    "rawCode": "MED",
+    "timestamp": "2026-07-29T18:58:10.460255-04:00",
+    "address": "100 Block Kentucky Avenue",
+    "extra": {
+      "incidentNumber": "41080",
+      "run_id": "41080",
+      "address": "100 Block Kentucky Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC1",
+      "units": "E05,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41080"
+    }
   }
 ]
