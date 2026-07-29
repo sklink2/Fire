@@ -3716,5 +3716,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-41083"
     }
+  },
+  {
+    "runNumber": "41084",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-29T19:26:16.962437-04:00",
+    "address": "3821 Winchester Road",
+    "extra": {
+      "incidentNumber": "41084",
+      "run_id": "41084",
+      "address": "3821 Winchester Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E17,L05,EC3,201,220",
+      "units": "E02,E17,L05,EC3,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-41084"
+    }
   }
 ]
