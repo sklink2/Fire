@@ -570,5 +570,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-40939"
     }
+  },
+  {
+    "runNumber": "40940",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-29T05:27:42.873959-04:00",
+    "address": "4097 Cigar Lane",
+    "extra": {
+      "incidentNumber": "40940",
+      "run_id": "40940",
+      "address": "4097 Cigar Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E19,E24,L03,203",
+      "units": "E19,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-40940"
+    }
   }
 ]
