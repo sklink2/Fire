@@ -2462,5 +2462,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41024"
     }
+  },
+  {
+    "runNumber": "41026",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-29T13:10:52.266510-04:00",
+    "address": "1109 Lantern Creek Court",
+    "extra": {
+      "incidentNumber": "41026",
+      "run_id": "41026",
+      "address": "1109 Lantern Creek Court",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E16,L02,EC5,205,220",
+      "units": "E05,E16,L02,EC5,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-41026"
+    }
   }
 ]
