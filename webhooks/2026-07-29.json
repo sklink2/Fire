@@ -2506,5 +2506,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41027"
     }
+  },
+  {
+    "runNumber": "41029",
+    "rawCode": "MED",
+    "timestamp": "2026-07-29T13:21:20.203325-04:00",
+    "address": "2000 Block Jeffrey Court",
+    "extra": {
+      "incidentNumber": "41029",
+      "run_id": "41029",
+      "address": "2000 Block Jeffrey Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,EC7,CRT1",
+      "units": "E14,EC7,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41029"
+    }
   }
 ]
