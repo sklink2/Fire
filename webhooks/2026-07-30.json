@@ -1978,5 +1978,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41205"
     }
+  },
+  {
+    "runNumber": "41204",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-30T12:27:18.252261-04:00",
+    "address": "3479 Buckhorn Drive",
+    "extra": {
+      "incidentNumber": "41204",
+      "run_id": "41204",
+      "address": "3479 Buckhorn Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E21,L06,202",
+      "units": "E09,E21,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-41204"
+    }
   }
 ]
