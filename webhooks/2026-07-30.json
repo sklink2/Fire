@@ -64,5 +64,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41119"
     }
+  },
+  {
+    "runNumber": "41120",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-30T00:56:02.684835-04:00",
+    "address": "1409 Lakewood Drive",
+    "extra": {
+      "incidentNumber": "41120",
+      "run_id": "41120",
+      "address": "1409 Lakewood Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E16,L02,EC2,202,220",
+      "units": "E09,E16,L02,EC2,202,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-41120"
+    }
   }
 ]
