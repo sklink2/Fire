@@ -592,5 +592,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41140"
     }
+  },
+  {
+    "runNumber": "41142",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-30T05:54:15.371844-04:00",
+    "address": "3116 Richmond Road",
+    "extra": {
+      "incidentNumber": "41142",
+      "run_id": "41142",
+      "address": "3116 Richmond Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E21,L06,202",
+      "units": "E09,E21,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-41142"
+    }
   }
 ]
