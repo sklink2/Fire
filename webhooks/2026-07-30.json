@@ -2616,5 +2616,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-41235"
     }
+  },
+  {
+    "runNumber": "41234",
+    "rawCode": "MED",
+    "timestamp": "2026-07-30T14:54:40.804529-04:00",
+    "address": "200 Block Devonia Avenue",
+    "extra": {
+      "incidentNumber": "41234",
+      "run_id": "41234",
+      "address": "200 Block Devonia Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC3,RS1",
+      "units": "EC3,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41234"
+    }
   }
 ]
