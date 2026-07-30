@@ -3078,5 +3078,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41255"
     }
+  },
+  {
+    "runNumber": "41254",
+    "rawCode": "FVIS",
+    "timestamp": "2026-07-30T16:43:24.289986-04:00",
+    "address": "355 Romany Road",
+    "extra": {
+      "incidentNumber": "41254",
+      "run_id": "41254",
+      "address": "355 Romany Road",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E12,L02,EC4,201,RS1",
+      "units": "E05,E12,L02,EC4,201,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-41254"
+    }
   }
 ]
