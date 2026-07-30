@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41199"
     }
+  },
+  {
+    "runNumber": "41202",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-30T12:16:41.637823-04:00",
+    "address": "4092 Kenesaw Drive",
+    "extra": {
+      "incidentNumber": "41202",
+      "run_id": "41202",
+      "address": "4092 Kenesaw Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E15,L07,202",
+      "units": "E07,E15,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-41202"
+    }
   }
 ]
