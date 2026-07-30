@@ -2594,5 +2594,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41232"
     }
+  },
+  {
+    "runNumber": "41235",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-30T14:54:36.435898-04:00",
+    "address": "111 Avenue Of Champions",
+    "extra": {
+      "incidentNumber": "41235",
+      "run_id": "41235",
+      "address": "111 Avenue Of Champions",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E05,E06,L02,205",
+      "units": "E04,E05,E06,L02,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-41235"
+    }
   }
 ]
