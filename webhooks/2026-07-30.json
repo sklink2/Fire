@@ -3518,5 +3518,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41273"
     }
+  },
+  {
+    "runNumber": "41275",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-30T18:21:36.537855-04:00",
+    "address": "1736 Liberty Road",
+    "extra": {
+      "incidentNumber": "41275",
+      "run_id": "41275",
+      "address": "1736 Liberty Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02",
+      "units": "E02",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41275"
+    }
   }
 ]
