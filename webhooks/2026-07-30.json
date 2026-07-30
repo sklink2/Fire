@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41224"
     }
+  },
+  {
+    "runNumber": "41227",
+    "rawCode": "MED",
+    "timestamp": "2026-07-30T13:47:55.067200-04:00",
+    "address": "1300 Block Old Frankfort Pike",
+    "extra": {
+      "incidentNumber": "41227",
+      "run_id": "41227",
+      "address": "1300 Block Old Frankfort Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,EC10",
+      "units": "E13,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41227"
+    }
   }
 ]
