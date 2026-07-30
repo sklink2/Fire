@@ -526,5 +526,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41138"
     }
+  },
+  {
+    "runNumber": "41139",
+    "rawCode": "MED",
+    "timestamp": "2026-07-30T05:36:40.862101-04:00",
+    "address": "400 Block W Fourth Street",
+    "extra": {
+      "incidentNumber": "41139",
+      "run_id": "41139",
+      "address": "400 Block W Fourth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41139"
+    }
   }
 ]
