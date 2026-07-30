@@ -4178,5 +4178,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41103"
     }
+  },
+  {
+    "runNumber": "41105",
+    "rawCode": "FSIA",
+    "timestamp": "2026-07-29T21:11:31.104467-04:00",
+    "address": "325 Wilgus Avenue",
+    "extra": {
+      "incidentNumber": "41105",
+      "run_id": "41105",
+      "address": "325 Wilgus Avenue",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E06,201,241",
+      "units": "E02,E06,201,241",
+      "unitCount": "4",
+      "primaryTopic": "FSIA",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-41105"
+    }
   }
 ]
