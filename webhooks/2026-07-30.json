@@ -86,5 +86,27 @@
       "commandUnits": "220,202",
       "dedupeKey": "INCIDENT-41120"
     }
+  },
+  {
+    "runNumber": "41122",
+    "rawCode": "MED",
+    "timestamp": "2026-07-30T01:21:19.079706-04:00",
+    "address": "N Broadway & W Sixth Street",
+    "extra": {
+      "incidentNumber": "41122",
+      "run_id": "41122",
+      "address": "N Broadway & W Sixth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41122"
+    }
   }
 ]
