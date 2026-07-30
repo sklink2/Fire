@@ -3056,5 +3056,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41253"
     }
+  },
+  {
+    "runNumber": "41255",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-30T16:43:20.786707-04:00",
+    "address": "125 Wittland Lane",
+    "extra": {
+      "incidentNumber": "41255",
+      "run_id": "41255",
+      "address": "125 Wittland Lane",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41255"
+    }
   }
 ]
