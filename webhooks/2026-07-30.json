@@ -3342,5 +3342,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41266"
     }
+  },
+  {
+    "runNumber": "41268",
+    "rawCode": "FSIA",
+    "timestamp": "2026-07-30T17:46:30.516138-04:00",
+    "address": "W New Circle Road & W New Circle",
+    "extra": {
+      "incidentNumber": "41268",
+      "run_id": "41268",
+      "address": "W New Circle Road & W New Circle",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,E20,204",
+      "units": "E14,E20,204",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-41268"
+    }
   }
 ]
