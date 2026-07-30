@@ -4200,5 +4200,27 @@
       "commandUnits": "241,201",
       "dedupeKey": "INCIDENT-41105"
     }
+  },
+  {
+    "runNumber": "41088",
+    "rawCode": "FSTRW",
+    "timestamp": "2026-07-29T21:14:59.423840-04:00",
+    "address": "178 Old Park Avenue",
+    "extra": {
+      "incidentNumber": "41088",
+      "run_id": "41088",
+      "address": "178 Old Park Avenue",
+      "rawType": "FSTRW",
+      "typeCode": "FSTRW",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E05,L01,L02,EC1,EC2,205,220,433",
+      "units": "E01,E05,L01,L02,EC1,EC2,205,220,433",
+      "unitCount": "9",
+      "primaryTopic": "FSTRW",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-41088"
+    }
   }
 ]
