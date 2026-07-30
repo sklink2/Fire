@@ -1538,5 +1538,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41184"
     }
+  },
+  {
+    "runNumber": "41185",
+    "rawCode": "MED",
+    "timestamp": "2026-07-30T10:52:26.982661-04:00",
+    "address": "200 Block Lee Street",
+    "extra": {
+      "incidentNumber": "41185",
+      "run_id": "41185",
+      "address": "200 Block Lee Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC5,CRT1",
+      "units": "EC5,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41185"
+    }
   }
 ]
