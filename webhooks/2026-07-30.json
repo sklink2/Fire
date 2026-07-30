@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41230"
     }
+  },
+  {
+    "runNumber": "41231",
+    "rawCode": "MED",
+    "timestamp": "2026-07-30T14:37:01.868334-04:00",
+    "address": "200 Block Alsab Court",
+    "extra": {
+      "incidentNumber": "41231",
+      "run_id": "41231",
+      "address": "200 Block Alsab Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41231"
+    }
   }
 ]
