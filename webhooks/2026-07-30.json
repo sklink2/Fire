@@ -3628,5 +3628,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41279"
     }
+  },
+  {
+    "runNumber": "41281",
+    "rawCode": "FVEA",
+    "timestamp": "2026-07-30T18:46:12.583491-04:00",
+    "address": "Russell Cave Road & Faulkner Avenue",
+    "extra": {
+      "incidentNumber": "41281",
+      "run_id": "41281",
+      "address": "Russell Cave Road & Faulkner Avenue",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E19,EC3,203,241",
+      "units": "E19,EC3,203,241",
+      "unitCount": "4",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-41281"
+    }
   }
 ]
