@@ -2660,5 +2660,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-41233"
     }
+  },
+  {
+    "runNumber": "41237",
+    "rawCode": "MED",
+    "timestamp": "2026-07-30T15:08:36.546215-04:00",
+    "address": "1600 Block Liberty Road",
+    "extra": {
+      "incidentNumber": "41237",
+      "run_id": "41237",
+      "address": "1600 Block Liberty Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L05,CRT1",
+      "units": "L05,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41237"
+    }
   }
 ]
