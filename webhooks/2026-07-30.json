@@ -2770,5 +2770,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41238"
     }
+  },
+  {
+    "runNumber": "41241",
+    "rawCode": "MED",
+    "timestamp": "2026-07-30T15:33:09.758435-04:00",
+    "address": "200 Block Osage Court",
+    "extra": {
+      "incidentNumber": "41241",
+      "run_id": "41241",
+      "address": "200 Block Osage Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41241"
+    }
   }
 ]
