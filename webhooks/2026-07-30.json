@@ -1912,5 +1912,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41201"
     }
+  },
+  {
+    "runNumber": "41200",
+    "rawCode": "MED",
+    "timestamp": "2026-07-30T12:16:48.575039-04:00",
+    "address": "4100 Block Georgetown Road",
+    "extra": {
+      "incidentNumber": "41200",
+      "run_id": "41200",
+      "address": "4100 Block Georgetown Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41200"
+    }
   }
 ]
