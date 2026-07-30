@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41135"
     }
+  },
+  {
+    "runNumber": "41136",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-30T04:26:32.765412-04:00",
+    "address": "1302 Village Drive",
+    "extra": {
+      "incidentNumber": "41136",
+      "run_id": "41136",
+      "address": "1302 Village Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14",
+      "units": "E14",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41136"
+    }
   }
 ]
