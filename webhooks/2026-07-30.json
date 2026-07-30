@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41146"
     }
+  },
+  {
+    "runNumber": "41145",
+    "rawCode": "MED",
+    "timestamp": "2026-07-30T06:43:22.454222-04:00",
+    "address": "2700 Block Meadowsweet Lane",
+    "extra": {
+      "incidentNumber": "41145",
+      "run_id": "41145",
+      "address": "2700 Block Meadowsweet Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41145"
+    }
   }
 ]
