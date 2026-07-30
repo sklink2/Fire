@@ -416,5 +416,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41133"
     }
+  },
+  {
+    "runNumber": "41134",
+    "rawCode": "MED",
+    "timestamp": "2026-07-30T04:12:29.110091-04:00",
+    "address": "2000 Block Fontaine Road",
+    "extra": {
+      "incidentNumber": "41134",
+      "run_id": "41134",
+      "address": "2000 Block Fontaine Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41134"
+    }
   }
 ]
