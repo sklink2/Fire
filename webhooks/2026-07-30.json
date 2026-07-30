@@ -1362,5 +1362,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41177"
     }
+  },
+  {
+    "runNumber": "41176",
+    "rawCode": "MED",
+    "timestamp": "2026-07-30T09:59:55.793530-04:00",
+    "address": "3200 Block Paris Pike",
+    "extra": {
+      "incidentNumber": "41176",
+      "run_id": "41176",
+      "address": "3200 Block Paris Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41176"
+    }
   }
 ]
