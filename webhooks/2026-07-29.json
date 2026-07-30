@@ -4332,5 +4332,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41109"
     }
+  },
+  {
+    "runNumber": "41111",
+    "rawCode": "FFIA",
+    "timestamp": "2026-07-29T22:07:37.938652-04:00",
+    "address": "1376 Sequoia Drive",
+    "extra": {
+      "incidentNumber": "41111",
+      "run_id": "41111",
+      "address": "1376 Sequoia Drive",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E22,L06,EC13,202",
+      "units": "E16,E22,L06,EC13,202",
+      "unitCount": "5",
+      "primaryTopic": "FFIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-41111"
+    }
   }
 ]
