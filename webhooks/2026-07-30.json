@@ -372,5 +372,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-41132"
     }
+  },
+  {
+    "runNumber": "41131",
+    "rawCode": "MED",
+    "timestamp": "2026-07-30T02:58:48.433476-04:00",
+    "address": "2900 Block Neal Drive",
+    "extra": {
+      "incidentNumber": "41131",
+      "run_id": "41131",
+      "address": "2900 Block Neal Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41131"
+    }
   }
 ]
