@@ -1164,5 +1164,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41167"
     }
+  },
+  {
+    "runNumber": "41169",
+    "rawCode": "MED",
+    "timestamp": "2026-07-30T09:10:42.366128-04:00",
+    "address": "600 Block Mason Headley Road",
+    "extra": {
+      "incidentNumber": "41169",
+      "run_id": "41169",
+      "address": "600 Block Mason Headley Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41169"
+    }
   }
 ]
