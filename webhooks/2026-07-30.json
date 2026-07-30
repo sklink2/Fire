@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41241"
     }
+  },
+  {
+    "runNumber": "41242",
+    "rawCode": "MED",
+    "timestamp": "2026-07-30T15:36:40.510863-04:00",
+    "address": "3200 Block Mantilla Drive",
+    "extra": {
+      "incidentNumber": "41242",
+      "run_id": "41242",
+      "address": "3200 Block Mantilla Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC5,CRT1",
+      "units": "E20,EC5,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41242"
+    }
   }
 ]
