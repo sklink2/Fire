@@ -1890,5 +1890,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-41202"
     }
+  },
+  {
+    "runNumber": "41201",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-30T12:16:45.934975-04:00",
+    "address": "1409 Dale Drive",
+    "extra": {
+      "incidentNumber": "41201",
+      "run_id": "41201",
+      "address": "1409 Dale Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16",
+      "units": "E16",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41201"
+    }
   }
 ]
