@@ -3100,5 +3100,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-41254"
     }
+  },
+  {
+    "runNumber": "41258",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-30T16:53:55.304577-04:00",
+    "address": "820 Lane Allen Road",
+    "extra": {
+      "incidentNumber": "41258",
+      "run_id": "41258",
+      "address": "820 Lane Allen Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E20,L04,EC12,204,220",
+      "units": "E11,E20,L04,EC12,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-41258"
+    }
   }
 ]
