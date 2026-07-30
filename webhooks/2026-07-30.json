@@ -1428,5 +1428,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41180"
     }
+  },
+  {
+    "runNumber": "41179",
+    "rawCode": "MED",
+    "timestamp": "2026-07-30T10:10:25.132910-04:00",
+    "address": "200 Block Elm Tree Lane",
+    "extra": {
+      "incidentNumber": "41179",
+      "run_id": "41179",
+      "address": "200 Block Elm Tree Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41179"
+    }
   }
 ]
