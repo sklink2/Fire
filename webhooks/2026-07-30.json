@@ -834,5 +834,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41152"
     }
+  },
+  {
+    "runNumber": "41154",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-30T08:18:06.341572-04:00",
+    "address": "524 W New Circle Road",
+    "extra": {
+      "incidentNumber": "41154",
+      "run_id": "41154",
+      "address": "524 W New Circle Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E10,L03,201",
+      "units": "E08,E10,L03,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-41154"
+    }
   }
 ]
