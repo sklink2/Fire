@@ -2198,5 +2198,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41212"
     }
+  },
+  {
+    "runNumber": "41215",
+    "rawCode": "MED",
+    "timestamp": "2026-07-30T12:55:17.500150-04:00",
+    "address": "900 Block Fister Way",
+    "extra": {
+      "incidentNumber": "41215",
+      "run_id": "41215",
+      "address": "900 Block Fister Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC3",
+      "units": "E10,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41215"
+    }
   }
 ]
