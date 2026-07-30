@@ -4046,5 +4046,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41097"
     }
+  },
+  {
+    "runNumber": "41099",
+    "rawCode": "MED",
+    "timestamp": "2026-07-29T20:39:52.278718-04:00",
+    "address": "3000 Block Bonanza Drive",
+    "extra": {
+      "incidentNumber": "41099",
+      "run_id": "41099",
+      "address": "3000 Block Bonanza Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC8",
+      "units": "E21,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41099"
+    }
   }
 ]
