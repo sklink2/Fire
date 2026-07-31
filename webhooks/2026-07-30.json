@@ -4574,5 +4574,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41323"
     }
+  },
+  {
+    "runNumber": "41324",
+    "rawCode": "FSIA",
+    "timestamp": "2026-07-30T23:37:19.276608-04:00",
+    "address": "Sundart Drive & Kittiwake Drive",
+    "extra": {
+      "incidentNumber": "41324",
+      "run_id": "41324",
+      "address": "Sundart Drive & Kittiwake Drive",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,E22,202",
+      "units": "E16,E22,202",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-41324"
+    }
   }
 ]
