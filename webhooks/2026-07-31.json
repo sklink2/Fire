@@ -1142,5 +1142,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41376"
     }
+  },
+  {
+    "runNumber": "41378",
+    "rawCode": "FDET",
+    "timestamp": "2026-07-31T08:51:39.940283-04:00",
+    "address": "Nicholasville Road / Jess Co Lin",
+    "extra": {
+      "incidentNumber": "41378",
+      "run_id": "41378",
+      "address": "Nicholasville Road / Jess Co Lin",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10,204",
+      "units": "EC10,204",
+      "unitCount": "2",
+      "primaryTopic": "FDET",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-41378"
+    }
   }
 ]
