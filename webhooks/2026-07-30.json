@@ -4134,5 +4134,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41303"
     }
+  },
+  {
+    "runNumber": "41304",
+    "rawCode": "FSIA",
+    "timestamp": "2026-07-30T20:52:28.203438-04:00",
+    "address": "249 Old Woolen Mill Lane",
+    "extra": {
+      "incidentNumber": "41304",
+      "run_id": "41304",
+      "address": "249 Old Woolen Mill Lane",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,E24,203",
+      "units": "E13,E24,203",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-41304"
+    }
   }
 ]
