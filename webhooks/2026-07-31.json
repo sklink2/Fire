@@ -3100,5 +3100,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41468"
     }
+  },
+  {
+    "runNumber": "41467",
+    "rawCode": "MED",
+    "timestamp": "2026-07-31T15:31:39.728086-04:00",
+    "address": "300 Block E Sixth Street",
+    "extra": {
+      "incidentNumber": "41467",
+      "run_id": "41467",
+      "address": "300 Block E Sixth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41467"
+    }
   }
 ]
