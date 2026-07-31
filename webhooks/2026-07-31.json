@@ -3232,5 +3232,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41473"
     }
+  },
+  {
+    "runNumber": "41475",
+    "rawCode": "MED",
+    "timestamp": "2026-07-31T15:59:40.800980-04:00",
+    "address": "400 Block Old Vine Street",
+    "extra": {
+      "incidentNumber": "41475",
+      "run_id": "41475",
+      "address": "400 Block Old Vine Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,EC11",
+      "units": "E05,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41475"
+    }
   }
 ]
