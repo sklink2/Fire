@@ -262,5 +262,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41336"
     }
+  },
+  {
+    "runNumber": "41340",
+    "rawCode": "FSTR",
+    "timestamp": "2026-07-31T02:43:22.490135-04:00",
+    "address": "243 Perry Street",
+    "extra": {
+      "incidentNumber": "41340",
+      "run_id": "41340",
+      "address": "243 Perry Street",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E06,E12,E13,L01,L03,EC10,203,205,220,241,RS1",
+      "units": "E04,E06,E12,E13,L01,L03,EC10,203,205,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,203,205",
+      "dedupeKey": "INCIDENT-41340"
+    }
   }
 ]
