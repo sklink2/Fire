@@ -130,5 +130,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41331"
     }
+  },
+  {
+    "runNumber": "41330",
+    "rawCode": "MED",
+    "timestamp": "2026-07-31T01:08:36.705731-04:00",
+    "address": "200 Block W Main Street",
+    "extra": {
+      "incidentNumber": "41330",
+      "run_id": "41330",
+      "address": "200 Block W Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10,EC7",
+      "units": "EC10,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41330"
+    }
   }
 ]
