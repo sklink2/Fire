@@ -1648,5 +1648,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41400"
     }
+  },
+  {
+    "runNumber": "41402",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-31T11:08:28.447864-04:00",
+    "address": "1582 Pine Needles Lane",
+    "extra": {
+      "incidentNumber": "41402",
+      "run_id": "41402",
+      "address": "1582 Pine Needles Lane",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41402"
+    }
   }
 ]
