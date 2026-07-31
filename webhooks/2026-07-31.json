@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41356"
     }
+  },
+  {
+    "runNumber": "41358",
+    "rawCode": "MED",
+    "timestamp": "2026-07-31T06:59:22.637909-04:00",
+    "address": "300 Block Lincoln Avenue",
+    "extra": {
+      "incidentNumber": "41358",
+      "run_id": "41358",
+      "address": "300 Block Lincoln Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC1",
+      "units": "E09,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41358"
+    }
   }
 ]
