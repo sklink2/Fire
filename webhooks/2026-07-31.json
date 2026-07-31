@@ -834,5 +834,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41364"
     }
+  },
+  {
+    "runNumber": "41363",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-07-31T07:31:02.992628-04:00",
+    "address": "N Mt Tabor Road & Richmond Servi",
+    "extra": {
+      "incidentNumber": "41363",
+      "run_id": "41363",
+      "address": "N Mt Tabor Road & Richmond Servi",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,L06,202,241,RS1",
+      "units": "E09,L06,202,241,RS1",
+      "unitCount": "5",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-41363"
+    }
   }
 ]
