@@ -1318,5 +1318,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41386"
     }
+  },
+  {
+    "runNumber": "41385",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-31T09:16:15.358103-04:00",
+    "address": "149 Washington Avenue",
+    "extra": {
+      "incidentNumber": "41385",
+      "run_id": "41385",
+      "address": "149 Washington Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E11,L02,202",
+      "units": "E05,E11,L02,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-41385"
+    }
   }
 ]
