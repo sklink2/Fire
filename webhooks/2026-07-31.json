@@ -2946,5 +2946,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-41460"
     }
+  },
+  {
+    "runNumber": "41459",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-31T15:07:10.991639-04:00",
+    "address": "W New Circle Road & N Broadway",
+    "extra": {
+      "incidentNumber": "41459",
+      "run_id": "41459",
+      "address": "W New Circle Road & N Broadway",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41459"
+    }
   }
 ]
