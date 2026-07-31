@@ -4134,5 +4134,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41514"
     }
+  },
+  {
+    "runNumber": "41515",
+    "rawCode": "FSIA",
+    "timestamp": "2026-07-31T19:58:17.418567-04:00",
+    "address": "E Seventh Street & N Limestone",
+    "extra": {
+      "incidentNumber": "41515",
+      "run_id": "41515",
+      "address": "E Seventh Street & N Limestone",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E04,205",
+      "units": "E01,E04,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-41515"
+    }
   }
 ]
