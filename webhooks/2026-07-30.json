@@ -4046,5 +4046,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41298"
     }
+  },
+  {
+    "runNumber": "41300",
+    "rawCode": "MED",
+    "timestamp": "2026-07-30T20:34:55.516217-04:00",
+    "address": "3700 Block Winthrop Drive",
+    "extra": {
+      "incidentNumber": "41300",
+      "run_id": "41300",
+      "address": "3700 Block Winthrop Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC12,241",
+      "units": "E15,EC12,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-41300"
+    }
   }
 ]
