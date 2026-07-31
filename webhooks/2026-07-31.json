@@ -3936,5 +3936,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41505"
     }
+  },
+  {
+    "runNumber": "41506",
+    "rawCode": "FMEA",
+    "timestamp": "2026-07-31T18:41:04.135160-04:00",
+    "address": "337 Memory Lane",
+    "extra": {
+      "incidentNumber": "41506",
+      "run_id": "41506",
+      "address": "337 Memory Lane",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41506"
+    }
   }
 ]
