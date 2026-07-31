@@ -2418,5 +2418,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41437"
     }
+  },
+  {
+    "runNumber": "41436",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-31T13:14:49.863348-04:00",
+    "address": "Huntsville Drive & Marietta Drive",
+    "extra": {
+      "incidentNumber": "41436",
+      "run_id": "41436",
+      "address": "Huntsville Drive & Marietta Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,L05",
+      "units": "E02,L05",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41436"
+    }
   }
 ]
