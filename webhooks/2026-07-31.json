@@ -1098,5 +1098,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-41375"
     }
+  },
+  {
+    "runNumber": "41377",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-07-31T08:41:07.226832-04:00",
+    "address": "1344 Strawberry Lane",
+    "extra": {
+      "incidentNumber": "41377",
+      "run_id": "41377",
+      "address": "1344 Strawberry Lane",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07",
+      "units": "E07",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41377"
+    }
   }
 ]
