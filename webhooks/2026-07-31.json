@@ -1978,5 +1978,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41414"
     }
+  },
+  {
+    "runNumber": "41417",
+    "rawCode": "MED",
+    "timestamp": "2026-07-31T12:11:37.364270-04:00",
+    "address": "100 Block E Maxwell Street",
+    "extra": {
+      "incidentNumber": "41417",
+      "run_id": "41417",
+      "address": "100 Block E Maxwell Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,EC6",
+      "units": "E06,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41417"
+    }
   }
 ]
