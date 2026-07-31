@@ -1604,5 +1604,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41398"
     }
+  },
+  {
+    "runNumber": "41401",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-07-31T10:57:57.936630-04:00",
+    "address": "458 Ohio Street",
+    "extra": {
+      "incidentNumber": "41401",
+      "run_id": "41401",
+      "address": "458 Ohio Street",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41401"
+    }
   }
 ]
