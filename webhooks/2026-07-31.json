@@ -1516,5 +1516,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41396"
     }
+  },
+  {
+    "runNumber": "41395",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-31T10:29:57.303264-04:00",
+    "address": "2024 Eastland Parkway",
+    "extra": {
+      "incidentNumber": "41395",
+      "run_id": "41395",
+      "address": "2024 Eastland Parkway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E08,L01,201",
+      "units": "E02,E08,L01,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-41395"
+    }
   }
 ]
