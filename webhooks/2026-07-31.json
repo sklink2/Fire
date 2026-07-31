@@ -86,5 +86,27 @@
       "commandUnits": "241,204",
       "dedupeKey": "INCIDENT-41329"
     }
+  },
+  {
+    "runNumber": "41332",
+    "rawCode": "MED",
+    "timestamp": "2026-07-31T01:08:32.160205-04:00",
+    "address": "9000 Block Old Richmond Road",
+    "extra": {
+      "incidentNumber": "41332",
+      "run_id": "41332",
+      "address": "9000 Block Old Richmond Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E18,EC11",
+      "units": "E18,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41332"
+    }
   }
 ]
