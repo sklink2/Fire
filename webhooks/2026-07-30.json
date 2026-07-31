@@ -4244,5 +4244,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41308"
     }
+  },
+  {
+    "runNumber": "41309",
+    "rawCode": "FMIS",
+    "timestamp": "2026-07-30T21:31:03.052710-04:00",
+    "address": "1792 Augusta Court",
+    "extra": {
+      "incidentNumber": "41309",
+      "run_id": "41309",
+      "address": "1792 Augusta Court",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,201",
+      "units": "E02,201",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-41309"
+    }
   }
 ]
