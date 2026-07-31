@@ -1076,5 +1076,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41374"
     }
+  },
+  {
+    "runNumber": "41375",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-31T08:27:07.083167-04:00",
+    "address": "2348 Hartland Parkside Drive",
+    "extra": {
+      "incidentNumber": "41375",
+      "run_id": "41375",
+      "address": "2348 Hartland Parkside Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,E22,L07,201",
+      "units": "E16,E22,L07,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-41375"
+    }
   }
 ]
