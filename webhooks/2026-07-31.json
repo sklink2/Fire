@@ -2132,5 +2132,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41421"
     }
+  },
+  {
+    "runNumber": "41426",
+    "rawCode": "FINV",
+    "timestamp": "2026-07-31T12:25:41.318862-04:00",
+    "address": "134 Eastin Road",
+    "extra": {
+      "incidentNumber": "41426",
+      "run_id": "41426",
+      "address": "134 Eastin Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10",
+      "units": "E10",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41426"
+    }
   }
 ]
