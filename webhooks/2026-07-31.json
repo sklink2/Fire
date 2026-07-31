@@ -1538,5 +1538,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-41395"
     }
+  },
+  {
+    "runNumber": "41397",
+    "rawCode": "FDUM",
+    "timestamp": "2026-07-31T10:33:24.479702-04:00",
+    "address": "3172 Mapleleaf Sq",
+    "extra": {
+      "incidentNumber": "41397",
+      "run_id": "41397",
+      "address": "3172 Mapleleaf Sq",
+      "rawType": "FDUM",
+      "typeCode": "FDUM",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21",
+      "units": "E21",
+      "unitCount": "1",
+      "primaryTopic": "FDUM",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41397"
+    }
   }
 ]
