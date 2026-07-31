@@ -3430,5 +3430,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41482"
     }
+  },
+  {
+    "runNumber": "41483",
+    "rawCode": "FSIA",
+    "timestamp": "2026-07-31T16:38:17.113295-04:00",
+    "address": "335 Chestnut Street",
+    "extra": {
+      "incidentNumber": "41483",
+      "run_id": "41483",
+      "address": "335 Chestnut Street",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E05,205",
+      "units": "E01,E05,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-41483"
+    }
   }
 ]
