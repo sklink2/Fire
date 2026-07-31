@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41366"
     }
+  },
+  {
+    "runNumber": "41368",
+    "rawCode": "MED",
+    "timestamp": "2026-07-31T07:44:59.128328-04:00",
+    "address": "100 Block Street James Drive",
+    "extra": {
+      "incidentNumber": "41368",
+      "run_id": "41368",
+      "address": "100 Block Street James Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,EC2",
+      "units": "E05,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41368"
+    }
   }
 ]
