@@ -64,5 +64,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41327"
     }
+  },
+  {
+    "runNumber": "41329",
+    "rawCode": "MED",
+    "timestamp": "2026-07-31T01:01:34.805692-04:00",
+    "address": "1600 Block Tazewell Drive",
+    "extra": {
+      "incidentNumber": "41329",
+      "run_id": "41329",
+      "address": "1600 Block Tazewell Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC5,204,241",
+      "units": "E14,EC5,204,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,204",
+      "dedupeKey": "INCIDENT-41329"
+    }
   }
 ]
