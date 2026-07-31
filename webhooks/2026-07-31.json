@@ -2110,5 +2110,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41422"
     }
+  },
+  {
+    "runNumber": "41421",
+    "rawCode": "MED",
+    "timestamp": "2026-07-31T12:22:16.552780-04:00",
+    "address": "700 Block Bob O Link Drive",
+    "extra": {
+      "incidentNumber": "41421",
+      "run_id": "41421",
+      "address": "700 Block Bob O Link Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC13",
+      "units": "EC13",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41421"
+    }
   }
 ]
