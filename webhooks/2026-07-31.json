@@ -1252,5 +1252,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41382"
     }
+  },
+  {
+    "runNumber": "41384",
+    "rawCode": "FPRT",
+    "timestamp": "2026-07-31T09:12:42.580284-04:00",
+    "address": "426 S Broadway",
+    "extra": {
+      "incidentNumber": "41384",
+      "run_id": "41384",
+      "address": "426 S Broadway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E06,L01,205",
+      "units": "E01,E06,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-41384"
+    }
   }
 ]
