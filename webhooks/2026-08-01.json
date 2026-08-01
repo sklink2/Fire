@@ -240,5 +240,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41553"
     }
+  },
+  {
+    "runNumber": "41554",
+    "rawCode": "FSMO",
+    "timestamp": "2026-08-01T01:56:08.639661-04:00",
+    "address": "685 S Limestone",
+    "extra": {
+      "incidentNumber": "41554",
+      "run_id": "41554",
+      "address": "685 S Limestone",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E11,L02,EC7,204",
+      "units": "E06,E11,L02,EC7,204",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-41554"
+    }
   }
 ]
