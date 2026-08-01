@@ -4640,5 +4640,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41537"
     }
+  },
+  {
+    "runNumber": "41538",
+    "rawCode": "FMIS",
+    "timestamp": "2026-07-31T23:07:45.067149-04:00",
+    "address": "2032 Nashville Court",
+    "extra": {
+      "incidentNumber": "41538",
+      "run_id": "41538",
+      "address": "2032 Nashville Court",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,201",
+      "units": "E02,201",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-41538"
+    }
   }
 ]
