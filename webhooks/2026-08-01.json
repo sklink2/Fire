@@ -3188,5 +3188,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41687"
     }
+  },
+  {
+    "runNumber": "41689",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-01T19:14:37.324263-04:00",
+    "address": "4770 Old Richmond Road",
+    "extra": {
+      "incidentNumber": "41689",
+      "run_id": "41689",
+      "address": "4770 Old Richmond Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E18,L06,202",
+      "units": "E09,E18,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-41689"
+    }
   }
 ]
