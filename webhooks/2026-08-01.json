@@ -1252,5 +1252,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-41599"
     }
+  },
+  {
+    "runNumber": "41600",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-01T10:42:23.914219-04:00",
+    "address": "Winchester Road & Eastland Parkway",
+    "extra": {
+      "incidentNumber": "41600",
+      "run_id": "41600",
+      "address": "Winchester Road & Eastland Parkway",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,L05,EC8,201,241,RS1",
+      "units": "E02,L05,EC8,201,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-41600"
+    }
   }
 ]
