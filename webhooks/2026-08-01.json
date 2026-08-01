@@ -614,5 +614,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41570"
     }
+  },
+  {
+    "runNumber": "41572",
+    "rawCode": "MED",
+    "timestamp": "2026-08-01T05:40:42.850018-04:00",
+    "address": "Alexandria Drive & Devonport Drive",
+    "extra": {
+      "incidentNumber": "41572",
+      "run_id": "41572",
+      "address": "Alexandria Drive & Devonport Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,EC5,204,241,RS1",
+      "units": "E14,EC5,204,241,RS1",
+      "unitCount": "5",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,204",
+      "dedupeKey": "INCIDENT-41572"
+    }
   }
 ]
