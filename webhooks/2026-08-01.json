@@ -878,5 +878,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41582"
     }
+  },
+  {
+    "runNumber": "41583",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-01T07:47:01.416741-04:00",
+    "address": "1369 Angus Trail",
+    "extra": {
+      "incidentNumber": "41583",
+      "run_id": "41583",
+      "address": "1369 Angus Trail",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E21,L06,EC2,201,220",
+      "units": "E02,E21,L06,EC2,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-41583"
+    }
   }
 ]
