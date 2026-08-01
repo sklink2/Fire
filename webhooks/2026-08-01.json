@@ -2616,5 +2616,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41661"
     }
+  },
+  {
+    "runNumber": "41663",
+    "rawCode": "MED",
+    "timestamp": "2026-08-01T15:54:36.285649-04:00",
+    "address": "2700 Block Wilhite Drive",
+    "extra": {
+      "incidentNumber": "41663",
+      "run_id": "41663",
+      "address": "2700 Block Wilhite Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC4",
+      "units": "E15,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41663"
+    }
   }
 ]
