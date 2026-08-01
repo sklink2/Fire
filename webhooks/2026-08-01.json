@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41631"
     }
+  },
+  {
+    "runNumber": "41633",
+    "rawCode": "FMIS",
+    "timestamp": "2026-08-01T13:13:15.196481-04:00",
+    "address": "3020 Dartmouth Drive",
+    "extra": {
+      "incidentNumber": "41633",
+      "run_id": "41633",
+      "address": "3020 Dartmouth Drive",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,204",
+      "units": "E07,204",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-41633"
+    }
   }
 ]
