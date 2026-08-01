@@ -4596,5 +4596,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41535"
     }
+  },
+  {
+    "runNumber": "41536",
+    "rawCode": "FSMO",
+    "timestamp": "2026-07-31T22:57:12.518735-04:00",
+    "address": "1024 Greendale Road",
+    "extra": {
+      "incidentNumber": "41536",
+      "run_id": "41536",
+      "address": "1024 Greendale Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,E24,L03,EC5,203",
+      "units": "E13,E24,L03,EC5,203",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-41536"
+    }
   }
 ]
