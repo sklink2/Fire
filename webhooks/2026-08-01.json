@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41588"
     }
+  },
+  {
+    "runNumber": "41589",
+    "rawCode": "MED",
+    "timestamp": "2026-08-01T08:50:06.195773-04:00",
+    "address": "3500 Block Forest Cove Lane",
+    "extra": {
+      "incidentNumber": "41589",
+      "run_id": "41589",
+      "address": "3500 Block Forest Cove Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L06,EC11",
+      "units": "L06,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41589"
+    }
   }
 ]
