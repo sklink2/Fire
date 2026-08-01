@@ -1560,5 +1560,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41612"
     }
+  },
+  {
+    "runNumber": "41614",
+    "rawCode": "MED",
+    "timestamp": "2026-08-01T12:06:34.807472-04:00",
+    "address": "3400 Block Oakbrook Drive",
+    "extra": {
+      "incidentNumber": "41614",
+      "run_id": "41614",
+      "address": "3400 Block Oakbrook Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13,CRT1",
+      "units": "E16,EC13,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41614"
+    }
   }
 ]
