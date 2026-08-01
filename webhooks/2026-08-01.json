@@ -3056,5 +3056,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41682"
     }
+  },
+  {
+    "runNumber": "41683",
+    "rawCode": "MED",
+    "timestamp": "2026-08-01T18:53:33.134704-04:00",
+    "address": "200 Block Clinton Road",
+    "extra": {
+      "incidentNumber": "41683",
+      "run_id": "41683",
+      "address": "200 Block Clinton Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41683"
+    }
   }
 ]
