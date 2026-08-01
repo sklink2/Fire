@@ -2308,5 +2308,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41648"
     }
+  },
+  {
+    "runNumber": "41649",
+    "rawCode": "MED",
+    "timestamp": "2026-08-01T14:33:55.607531-04:00",
+    "address": "300 Block Bob O Link Drive",
+    "extra": {
+      "incidentNumber": "41649",
+      "run_id": "41649",
+      "address": "300 Block Bob O Link Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41649"
+    }
   }
 ]
