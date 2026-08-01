@@ -4178,5 +4178,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41516"
     }
+  },
+  {
+    "runNumber": "41517",
+    "rawCode": "FNGL",
+    "timestamp": "2026-07-31T21:04:58.503811-04:00",
+    "address": "1165 Bay Meadows Drive",
+    "extra": {
+      "incidentNumber": "41517",
+      "run_id": "41517",
+      "address": "1165 Bay Meadows Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,E20,L04,EC9,204,220",
+      "units": "E15,E20,L04,EC9,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-41517"
+    }
   }
 ]
