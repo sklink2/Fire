@@ -328,5 +328,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41557"
     }
+  },
+  {
+    "runNumber": "41558",
+    "rawCode": "MED",
+    "timestamp": "2026-08-01T02:41:43.455807-04:00",
+    "address": "2700 Block Palumbo Drive",
+    "extra": {
+      "incidentNumber": "41558",
+      "run_id": "41558",
+      "address": "2700 Block Palumbo Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41558"
+    }
   }
 ]
