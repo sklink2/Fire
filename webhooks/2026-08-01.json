@@ -2374,5 +2374,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41651"
     }
+  },
+  {
+    "runNumber": "41652",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-01T14:51:28.399329-04:00",
+    "address": "370 Merino Street",
+    "extra": {
+      "incidentNumber": "41652",
+      "run_id": "41652",
+      "address": "370 Merino Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10,RS1",
+      "units": "EC10,RS1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41652"
+    }
   }
 ]
