@@ -636,5 +636,27 @@
       "commandUnits": "241,204",
       "dedupeKey": "INCIDENT-41572"
     }
+  },
+  {
+    "runNumber": "41571",
+    "rawCode": "MED",
+    "timestamp": "2026-08-01T05:40:46.362168-04:00",
+    "address": "2200 Block Cornerstone Drive",
+    "extra": {
+      "incidentNumber": "41571",
+      "run_id": "41571",
+      "address": "2200 Block Cornerstone Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41571"
+    }
   }
 ]
