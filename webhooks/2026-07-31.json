@@ -4662,5 +4662,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-41538"
     }
+  },
+  {
+    "runNumber": "41539",
+    "rawCode": "MED",
+    "timestamp": "2026-07-31T23:11:15.031446-04:00",
+    "address": "1000 Block Moylan Lane",
+    "extra": {
+      "incidentNumber": "41539",
+      "run_id": "41539",
+      "address": "1000 Block Moylan Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC9",
+      "units": "E20,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41539"
+    }
   }
 ]
