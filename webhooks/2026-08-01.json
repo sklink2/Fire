@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41575"
     }
+  },
+  {
+    "runNumber": "41576",
+    "rawCode": "MED",
+    "timestamp": "2026-08-01T06:47:19.958165-04:00",
+    "address": "2100 Block Fortune Hill Lane",
+    "extra": {
+      "incidentNumber": "41576",
+      "run_id": "41576",
+      "address": "2100 Block Fortune Hill Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41576"
+    }
   }
 ]
