@@ -4354,5 +4354,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41522"
     }
+  },
+  {
+    "runNumber": "41525",
+    "rawCode": "MED",
+    "timestamp": "2026-07-31T22:01:04.517738-04:00",
+    "address": "400 Block W Main Street",
+    "extra": {
+      "incidentNumber": "41525",
+      "run_id": "41525",
+      "address": "400 Block W Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10,RS1",
+      "units": "EC10,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41525"
+    }
   }
 ]
