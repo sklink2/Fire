@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41800"
     }
+  },
+  {
+    "runNumber": "41801",
+    "rawCode": "FMEA",
+    "timestamp": "2026-08-02T10:54:55.684963-04:00",
+    "address": "571 W Short Street",
+    "extra": {
+      "incidentNumber": "41801",
+      "run_id": "41801",
+      "address": "571 W Short Street",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41801"
+    }
   }
 ]
