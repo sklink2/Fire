@@ -3430,5 +3430,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41700"
     }
+  },
+  {
+    "runNumber": "41701",
+    "rawCode": "FSMO",
+    "timestamp": "2026-08-01T20:38:49.834102-04:00",
+    "address": "112 Somersly Place",
+    "extra": {
+      "incidentNumber": "41701",
+      "run_id": "41701",
+      "address": "112 Somersly Place",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E21,L06,EC13,202",
+      "units": "E16,E21,L06,EC13,202",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-41701"
+    }
   }
 ]
