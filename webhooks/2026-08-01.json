@@ -3452,5 +3452,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-41701"
     }
+  },
+  {
+    "runNumber": "41702",
+    "rawCode": "FMEA",
+    "timestamp": "2026-08-01T20:42:20.172558-04:00",
+    "address": "3119 Lansdowne Drive",
+    "extra": {
+      "incidentNumber": "41702",
+      "run_id": "41702",
+      "address": "3119 Lansdowne Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07",
+      "units": "E07",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41702"
+    }
   }
 ]
