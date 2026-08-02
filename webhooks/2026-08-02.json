@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41812"
     }
+  },
+  {
+    "runNumber": "41814",
+    "rawCode": "MED",
+    "timestamp": "2026-08-02T12:26:09.890161-04:00",
+    "address": "400 Block Moss Drive",
+    "extra": {
+      "incidentNumber": "41814",
+      "run_id": "41814",
+      "address": "400 Block Moss Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC3",
+      "units": "E02,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41814"
+    }
   }
 ]
