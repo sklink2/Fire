@@ -548,5 +548,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41763"
     }
+  },
+  {
+    "runNumber": "41764",
+    "rawCode": "MED",
+    "timestamp": "2026-08-02T05:42:42.223144-04:00",
+    "address": "Stonewood Lane & Kingsbury Road",
+    "extra": {
+      "incidentNumber": "41764",
+      "run_id": "41764",
+      "address": "Stonewood Lane & Kingsbury Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41764"
+    }
   }
 ]
