@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41824"
     }
+  },
+  {
+    "runNumber": "41825",
+    "rawCode": "MED",
+    "timestamp": "2026-08-02T14:00:52.817211-04:00",
+    "address": "1800 Block Charleston Drive",
+    "extra": {
+      "incidentNumber": "41825",
+      "run_id": "41825",
+      "address": "1800 Block Charleston Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41825"
+    }
   }
 ]
