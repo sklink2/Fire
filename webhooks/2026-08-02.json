@@ -1076,5 +1076,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41787"
     }
+  },
+  {
+    "runNumber": "41790",
+    "rawCode": "MED",
+    "timestamp": "2026-08-02T09:44:46.025605-04:00",
+    "address": "300 Block Arcadia Park",
+    "extra": {
+      "incidentNumber": "41790",
+      "run_id": "41790",
+      "address": "300 Block Arcadia Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,EC7",
+      "units": "E12,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41790"
+    }
   }
 ]
