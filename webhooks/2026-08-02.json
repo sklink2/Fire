@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41781"
     }
+  },
+  {
+    "runNumber": "41782",
+    "rawCode": "MED",
+    "timestamp": "2026-08-02T08:45:07.180602-04:00",
+    "address": "2100 Block Lansill Road",
+    "extra": {
+      "incidentNumber": "41782",
+      "run_id": "41782",
+      "address": "2100 Block Lansill Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41782"
+    }
   }
 ]
