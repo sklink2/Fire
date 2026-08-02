@@ -4134,5 +4134,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41731"
     }
+  },
+  {
+    "runNumber": "41734",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-01T23:16:43.798910-04:00",
+    "address": "863 S Broadway",
+    "extra": {
+      "incidentNumber": "41734",
+      "run_id": "41734",
+      "address": "863 S Broadway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E11,E12,L02,204",
+      "units": "E06,E11,E12,L02,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-41734"
+    }
   }
 ]
