@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41717"
     }
+  },
+  {
+    "runNumber": "41716",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-01T21:45:33.876059-04:00",
+    "address": "3209 Hobcaw Lane",
+    "extra": {
+      "incidentNumber": "41716",
+      "run_id": "41716",
+      "address": "3209 Hobcaw Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,E16,L07,202",
+      "units": "E15,E16,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-41716"
+    }
   }
 ]
