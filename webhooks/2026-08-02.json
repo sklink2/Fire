@@ -878,5 +878,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41779"
     }
+  },
+  {
+    "runNumber": "41780",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-02T08:24:04.315554-04:00",
+    "address": "1140 Winchester Road",
+    "extra": {
+      "incidentNumber": "41780",
+      "run_id": "41780",
+      "address": "1140 Winchester Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E08,L05,201",
+      "units": "E01,E08,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-41780"
+    }
   }
 ]
