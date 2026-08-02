@@ -3980,5 +3980,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41723"
     }
+  },
+  {
+    "runNumber": "41725",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-01T22:27:38.719618-04:00",
+    "address": "313 Romany Road",
+    "extra": {
+      "incidentNumber": "41725",
+      "run_id": "41725",
+      "address": "313 Romany Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E09,L02,EC8,205,241,RS1",
+      "units": "E05,E09,L02,EC8,205,241,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,205",
+      "dedupeKey": "INCIDENT-41725"
+    }
   }
 ]
