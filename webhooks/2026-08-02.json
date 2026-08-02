@@ -834,5 +834,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41777"
     }
+  },
+  {
+    "runNumber": "41778",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-02T08:06:31.079749-04:00",
+    "address": "Rosemont Garden & Lafayette Pk",
+    "extra": {
+      "incidentNumber": "41778",
+      "run_id": "41778",
+      "address": "Rosemont Garden & Lafayette Pk",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41778"
+    }
   }
 ]
