@@ -1252,5 +1252,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41796"
     }
+  },
+  {
+    "runNumber": "41797",
+    "rawCode": "MED",
+    "timestamp": "2026-08-02T10:26:52.054738-04:00",
+    "address": "Newtown Pike & N 75 Ramp",
+    "extra": {
+      "incidentNumber": "41797",
+      "run_id": "41797",
+      "address": "Newtown Pike & N 75 Ramp",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E10,EC2",
+      "units": "E04,E10,EC2",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41797"
+    }
   }
 ]
