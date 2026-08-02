@@ -812,5 +812,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-41776"
     }
+  },
+  {
+    "runNumber": "41777",
+    "rawCode": "MED",
+    "timestamp": "2026-08-02T07:59:28.467158-04:00",
+    "address": "3200 Block Buckhorn Drive",
+    "extra": {
+      "incidentNumber": "41777",
+      "run_id": "41777",
+      "address": "3200 Block Buckhorn Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC2",
+      "units": "E16,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41777"
+    }
   }
 ]
