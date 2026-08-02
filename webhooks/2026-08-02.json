@@ -2990,5 +2990,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-41875"
     }
+  },
+  {
+    "runNumber": "41876",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-02T18:55:37.823247-04:00",
+    "address": "1953 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "41876",
+      "run_id": "41876",
+      "address": "1953 Nicholasville Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E12,E15,L02,204",
+      "units": "E11,E12,E15,L02,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-41876"
+    }
   }
 ]
