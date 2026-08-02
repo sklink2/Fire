@@ -1604,5 +1604,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41813"
     }
+  },
+  {
+    "runNumber": "41812",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-02T12:15:38.702670-04:00",
+    "address": "2856 Hanna Place",
+    "extra": {
+      "incidentNumber": "41812",
+      "run_id": "41812",
+      "address": "2856 Hanna Place",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L06",
+      "units": "L06",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41812"
+    }
   }
 ]
