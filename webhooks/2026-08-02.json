@@ -2946,5 +2946,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41874"
     }
+  },
+  {
+    "runNumber": "41873",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-02T18:38:07.718178-04:00",
+    "address": "2594 Carducci Street",
+    "extra": {
+      "incidentNumber": "41873",
+      "run_id": "41873",
+      "address": "2594 Carducci Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E17,201",
+      "units": "E02,E17,201",
+      "unitCount": "3",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-41873"
+    }
   }
 ]
