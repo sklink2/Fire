@@ -2176,5 +2176,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-41838"
     }
+  },
+  {
+    "runNumber": "41839",
+    "rawCode": "MED",
+    "timestamp": "2026-08-02T15:25:06.289678-04:00",
+    "address": "300 Block Owsley Avenue",
+    "extra": {
+      "incidentNumber": "41839",
+      "run_id": "41839",
+      "address": "300 Block Owsley Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC2",
+      "units": "E01,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41839"
+    }
   }
 ]
