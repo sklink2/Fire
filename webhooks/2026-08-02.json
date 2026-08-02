@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41844"
     }
+  },
+  {
+    "runNumber": "41843",
+    "rawCode": "MED",
+    "timestamp": "2026-08-02T15:49:42.307483-04:00",
+    "address": "E New Circle Road & E New Circle",
+    "extra": {
+      "incidentNumber": "41843",
+      "run_id": "41843",
+      "address": "E New Circle Road & E New Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,EC4,202",
+      "units": "E07,EC4,202",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-41843"
+    }
   }
 ]
