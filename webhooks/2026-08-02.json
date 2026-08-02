@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41848"
     }
+  },
+  {
+    "runNumber": "41849",
+    "rawCode": "FSTR",
+    "timestamp": "2026-08-02T16:17:46.128639-04:00",
+    "address": "4500 Brookglen Place",
+    "extra": {
+      "incidentNumber": "41849",
+      "run_id": "41849",
+      "address": "4500 Brookglen Place",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E09,E16,E22,L04,L07,EC13,202,204,220,RS1",
+      "units": "E07,E09,E16,E22,L04,L07,EC13,202,204,220,RS1",
+      "unitCount": "11",
+      "primaryTopic": "FSTR",
+      "commandUnits": "220,202,204",
+      "dedupeKey": "INCIDENT-41849"
+    }
   }
 ]
