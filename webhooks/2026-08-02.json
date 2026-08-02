@@ -1780,5 +1780,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-41820"
     }
+  },
+  {
+    "runNumber": "41821",
+    "rawCode": "MED",
+    "timestamp": "2026-08-02T13:08:13.735075-04:00",
+    "address": "E Short Street & N Martin Luther K",
+    "extra": {
+      "incidentNumber": "41821",
+      "run_id": "41821",
+      "address": "E Short Street & N Martin Luther K",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41821"
+    }
   }
 ]
