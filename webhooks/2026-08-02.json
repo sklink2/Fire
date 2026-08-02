@@ -1362,5 +1362,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41801"
     }
+  },
+  {
+    "runNumber": "41802",
+    "rawCode": "FSMO",
+    "timestamp": "2026-08-02T11:01:58.114983-04:00",
+    "address": "179 Market Street",
+    "extra": {
+      "incidentNumber": "41802",
+      "run_id": "41802",
+      "address": "179 Market Street",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E21,L01,EC12,205",
+      "units": "E01,E21,L01,EC12,205",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-41802"
+    }
   }
 ]
