@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41772"
     }
+  },
+  {
+    "runNumber": "41773",
+    "rawCode": "FCAR",
+    "timestamp": "2026-08-02T07:45:27.646145-04:00",
+    "address": "2222 Circle Drive",
+    "extra": {
+      "incidentNumber": "41773",
+      "run_id": "41773",
+      "address": "2222 Circle Drive",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L03",
+      "units": "L03",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41773"
+    }
   }
 ]
