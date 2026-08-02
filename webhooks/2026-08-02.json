@@ -2836,5 +2836,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41868"
     }
+  },
+  {
+    "runNumber": "41867",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-02T18:10:07.304048-04:00",
+    "address": "1937 Cambridge Drive",
+    "extra": {
+      "incidentNumber": "41867",
+      "run_id": "41867",
+      "address": "1937 Cambridge Drive",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,L04,EC5,203,241,RS1",
+      "units": "E14,L04,EC5,203,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-41867"
+    }
   }
 ]
