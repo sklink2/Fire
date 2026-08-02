@@ -3364,5 +3364,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41698"
     }
+  },
+  {
+    "runNumber": "41697",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-01T20:21:19.797969-04:00",
+    "address": "5532 Athens Boonesboro Road",
+    "extra": {
+      "incidentNumber": "41697",
+      "run_id": "41697",
+      "address": "5532 Athens Boonesboro Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E18,EC11,241",
+      "units": "E18,EC11,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-41697"
+    }
   }
 ]
