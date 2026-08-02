@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41827"
     }
+  },
+  {
+    "runNumber": "41829",
+    "rawCode": "MED",
+    "timestamp": "2026-08-02T14:39:28.086456-04:00",
+    "address": "0 Block Lindenwood Lane",
+    "extra": {
+      "incidentNumber": "41829",
+      "run_id": "41829",
+      "address": "0 Block Lindenwood Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC6",
+      "units": "E08,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41829"
+    }
   }
 ]
