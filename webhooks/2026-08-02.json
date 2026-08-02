@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41850"
     }
+  },
+  {
+    "runNumber": "41851",
+    "rawCode": "MED",
+    "timestamp": "2026-08-02T16:28:15.067663-04:00",
+    "address": "4200 Block Mooncoin Way",
+    "extra": {
+      "incidentNumber": "41851",
+      "run_id": "41851",
+      "address": "4200 Block Mooncoin Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC2",
+      "units": "E15,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41851"
+    }
   }
 ]
