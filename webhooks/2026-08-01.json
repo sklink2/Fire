@@ -3716,5 +3716,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41712"
     }
+  },
+  {
+    "runNumber": "41713",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-01T21:31:29.164660-04:00",
+    "address": "840 Hays Boulevard",
+    "extra": {
+      "incidentNumber": "41713",
+      "run_id": "41713",
+      "address": "840 Hays Boulevard",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E17,L05,201",
+      "units": "E09,E17,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-41713"
+    }
   }
 ]
