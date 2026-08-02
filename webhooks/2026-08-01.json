@@ -4200,5 +4200,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41732"
     }
+  },
+  {
+    "runNumber": "41735",
+    "rawCode": "MED",
+    "timestamp": "2026-08-01T23:23:43.178922-04:00",
+    "address": "1100 Block Morning Side Drive",
+    "extra": {
+      "incidentNumber": "41735",
+      "run_id": "41735",
+      "address": "1100 Block Morning Side Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC2",
+      "units": "E21,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41735"
+    }
   }
 ]
