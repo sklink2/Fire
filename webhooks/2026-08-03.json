@@ -856,5 +856,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-41949"
     }
+  },
+  {
+    "runNumber": "41951",
+    "rawCode": "MED",
+    "timestamp": "2026-08-03T08:12:01.023756-04:00",
+    "address": "500 Block Shaftsbury Road",
+    "extra": {
+      "incidentNumber": "41951",
+      "run_id": "41951",
+      "address": "500 Block Shaftsbury Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC3",
+      "units": "E02,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41951"
+    }
   }
 ]
