@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41945"
     }
+  },
+  {
+    "runNumber": "41944",
+    "rawCode": "FELS",
+    "timestamp": "2026-08-03T07:08:54.379892-04:00",
+    "address": "771 Corporate Drive",
+    "extra": {
+      "incidentNumber": "41944",
+      "run_id": "41944",
+      "address": "771 Corporate Drive",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,L04,204",
+      "units": "E12,L04,204",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-41944"
+    }
   }
 ]
