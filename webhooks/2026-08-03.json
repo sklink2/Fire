@@ -812,5 +812,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41948"
     }
+  },
+  {
+    "runNumber": "41950",
+    "rawCode": "FSTR",
+    "timestamp": "2026-08-03T08:08:34.713393-04:00",
+    "address": "2559 Kearney Ridge Boulevard",
+    "extra": {
+      "incidentNumber": "41950",
+      "run_id": "41950",
+      "address": "2559 Kearney Ridge Boulevard",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E09,E10,E24,L01,L03,EC6,201,205,220,241,RS1",
+      "units": "E04,E09,E10,E24,L01,L03,EC6,201,205,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,205",
+      "dedupeKey": "INCIDENT-41950"
+    }
   }
 ]
