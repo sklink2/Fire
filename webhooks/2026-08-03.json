@@ -2044,5 +2044,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42004"
     }
+  },
+  {
+    "runNumber": "42006",
+    "rawCode": "FSCU",
+    "timestamp": "2026-08-03T13:31:17.834507-04:00",
+    "address": "491 Bob O Link Drive",
+    "extra": {
+      "incidentNumber": "42006",
+      "run_id": "42006",
+      "address": "491 Bob O Link Drive",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12",
+      "units": "E12",
+      "unitCount": "1",
+      "primaryTopic": "FSCU",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42006"
+    }
   }
 ]
