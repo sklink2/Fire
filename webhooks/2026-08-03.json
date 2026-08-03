@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42050"
     }
+  },
+  {
+    "runNumber": "42051",
+    "rawCode": "MED",
+    "timestamp": "2026-08-03T17:08:47.253232-04:00",
+    "address": "3200 Block Blackford Parkway",
+    "extra": {
+      "incidentNumber": "42051",
+      "run_id": "42051",
+      "address": "3200 Block Blackford Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2,CRT1",
+      "units": "EC2,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42051"
+    }
   }
 ]
