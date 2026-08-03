@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41991"
     }
+  },
+  {
+    "runNumber": "41993",
+    "rawCode": "MED",
+    "timestamp": "2026-08-03T12:38:38.768971-04:00",
+    "address": "800 Block Montclair Drive",
+    "extra": {
+      "incidentNumber": "41993",
+      "run_id": "41993",
+      "address": "800 Block Montclair Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,EC4",
+      "units": "E11,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41993"
+    }
   }
 ]
