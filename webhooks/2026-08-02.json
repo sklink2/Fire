@@ -3320,5 +3320,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41889"
     }
+  },
+  {
+    "runNumber": "41891",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-02T21:05:24.650363-04:00",
+    "address": "3017 Locust Blossom Cv",
+    "extra": {
+      "incidentNumber": "41891",
+      "run_id": "41891",
+      "address": "3017 Locust Blossom Cv",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,E24,L03,203",
+      "units": "E10,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-41891"
+    }
   }
 ]
