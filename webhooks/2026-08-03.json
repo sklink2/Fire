@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41943"
     }
+  },
+  {
+    "runNumber": "41945",
+    "rawCode": "MED",
+    "timestamp": "2026-08-03T07:08:51.176983-04:00",
+    "address": "2200 Block Reserve Court",
+    "extra": {
+      "incidentNumber": "41945",
+      "run_id": "41945",
+      "address": "2200 Block Reserve Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41945"
+    }
   }
 ]
