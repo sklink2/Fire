@@ -3584,5 +3584,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42077"
     }
+  },
+  {
+    "runNumber": "42078",
+    "rawCode": "FSMO",
+    "timestamp": "2026-08-03T19:22:07.180840-04:00",
+    "address": "884 Iron Works Pike",
+    "extra": {
+      "incidentNumber": "42078",
+      "run_id": "42078",
+      "address": "884 Iron Works Pike",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E19,L03,EC6,EC8,201",
+      "units": "E08,E19,L03,EC6,EC8,201",
+      "unitCount": "6",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-42078"
+    }
   }
 ]
