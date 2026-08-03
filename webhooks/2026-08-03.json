@@ -2132,5 +2132,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42009"
     }
+  },
+  {
+    "runNumber": "42010",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-03T13:59:21.436953-04:00",
+    "address": "650 Tower Plz",
+    "extra": {
+      "incidentNumber": "42010",
+      "run_id": "42010",
+      "address": "650 Tower Plz",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E04,E06,L01,205",
+      "units": "E01,E04,E06,L01,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-42010"
+    }
   }
 ]
