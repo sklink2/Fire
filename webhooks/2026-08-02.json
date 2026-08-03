@@ -3188,5 +3188,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-41884"
     }
+  },
+  {
+    "runNumber": "41886",
+    "rawCode": "FUTL",
+    "timestamp": "2026-08-02T20:40:49.391388-04:00",
+    "address": "2051 Cummins Court",
+    "extra": {
+      "incidentNumber": "41886",
+      "run_id": "41886",
+      "address": "2051 Cummins Court",
+      "rawType": "FUTL",
+      "typeCode": "FUTL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L04",
+      "units": "L04",
+      "unitCount": "1",
+      "primaryTopic": "FUTL",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41886"
+    }
   }
 ]
