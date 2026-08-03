@@ -3342,5 +3342,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-41891"
     }
+  },
+  {
+    "runNumber": "41892",
+    "rawCode": "MED",
+    "timestamp": "2026-08-02T21:15:56.144480-04:00",
+    "address": "1200 Block Bordeaux Drive",
+    "extra": {
+      "incidentNumber": "41892",
+      "run_id": "41892",
+      "address": "1200 Block Bordeaux Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41892"
+    }
   }
 ]
