@@ -2462,5 +2462,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42024"
     }
+  },
+  {
+    "runNumber": "42025",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-03T15:23:33.438213-04:00",
+    "address": "2652 Crystal Falls Road",
+    "extra": {
+      "incidentNumber": "42025",
+      "run_id": "42025",
+      "address": "2652 Crystal Falls Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E21,202",
+      "units": "E09,E21,202",
+      "unitCount": "3",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-42025"
+    }
   }
 ]
