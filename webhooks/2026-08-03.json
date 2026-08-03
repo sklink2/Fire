@@ -2066,5 +2066,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42006"
     }
+  },
+  {
+    "runNumber": "42008",
+    "rawCode": "MED",
+    "timestamp": "2026-08-03T13:45:20.061286-04:00",
+    "address": "1100 Block Alexandria Drive",
+    "extra": {
+      "incidentNumber": "42008",
+      "run_id": "42008",
+      "address": "1100 Block Alexandria Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42008"
+    }
   }
 ]
