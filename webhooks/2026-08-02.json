@@ -3254,5 +3254,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41887"
     }
+  },
+  {
+    "runNumber": "41888",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-02T20:47:52.565905-04:00",
+    "address": "530 E High Street",
+    "extra": {
+      "incidentNumber": "41888",
+      "run_id": "41888",
+      "address": "530 E High Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E05,L02,205",
+      "units": "E01,E05,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-41888"
+    }
   }
 ]
