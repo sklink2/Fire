@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42001"
     }
+  },
+  {
+    "runNumber": "42002",
+    "rawCode": "MED",
+    "timestamp": "2026-08-03T13:06:43.432457-04:00",
+    "address": "200 Block Legends Lane",
+    "extra": {
+      "incidentNumber": "42002",
+      "run_id": "42002",
+      "address": "200 Block Legends Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42002"
+    }
   }
 ]
