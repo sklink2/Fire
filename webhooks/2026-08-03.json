@@ -1934,5 +1934,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42000"
     }
+  },
+  {
+    "runNumber": "42001",
+    "rawCode": "MED",
+    "timestamp": "2026-08-03T13:03:12.388456-04:00",
+    "address": "1700 Block Lakewood Lane",
+    "extra": {
+      "incidentNumber": "42001",
+      "run_id": "42001",
+      "address": "1700 Block Lakewood Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42001"
+    }
   }
 ]
