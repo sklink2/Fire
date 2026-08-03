@@ -174,5 +174,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41919"
     }
+  },
+  {
+    "runNumber": "41920",
+    "rawCode": "FSMO",
+    "timestamp": "2026-08-03T01:53:06.366280-04:00",
+    "address": "601 E Seventh Street",
+    "extra": {
+      "incidentNumber": "41920",
+      "run_id": "41920",
+      "address": "601 E Seventh Street",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E02,L01,EC1,205",
+      "units": "E01,E02,L01,EC1,205",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-41920"
+    }
   }
 ]
