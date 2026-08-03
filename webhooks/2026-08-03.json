@@ -2176,5 +2176,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42012"
     }
+  },
+  {
+    "runNumber": "42011",
+    "rawCode": "MED",
+    "timestamp": "2026-08-03T14:02:52.566467-04:00",
+    "address": "100 Block Pasadena Drive",
+    "extra": {
+      "incidentNumber": "42011",
+      "run_id": "42011",
+      "address": "100 Block Pasadena Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,EC7",
+      "units": "E12,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42011"
+    }
   }
 ]
