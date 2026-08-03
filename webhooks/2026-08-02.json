@@ -3166,5 +3166,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41883"
     }
+  },
+  {
+    "runNumber": "41884",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-02T20:26:50.484163-04:00",
+    "address": "440 Squires Road",
+    "extra": {
+      "incidentNumber": "41884",
+      "run_id": "41884",
+      "address": "440 Squires Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E16,L06,202",
+      "units": "E09,E16,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-41884"
+    }
   }
 ]
