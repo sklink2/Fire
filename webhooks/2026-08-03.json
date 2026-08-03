@@ -3518,5 +3518,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42074"
     }
+  },
+  {
+    "runNumber": "42075",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-03T19:01:03.518140-04:00",
+    "address": "Simpson Avenue & Export Street",
+    "extra": {
+      "incidentNumber": "42075",
+      "run_id": "42075",
+      "address": "Simpson Avenue & Export Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42075"
+    }
   }
 ]
