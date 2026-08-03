@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42035"
     }
+  },
+  {
+    "runNumber": "42037",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-03T16:09:10.279644-04:00",
+    "address": "1950 Newtown Pike",
+    "extra": {
+      "incidentNumber": "42037",
+      "run_id": "42037",
+      "address": "1950 Newtown Pike",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E10,L03,203",
+      "units": "E04,E10,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-42037"
+    }
   }
 ]
