@@ -3276,5 +3276,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-41888"
     }
+  },
+  {
+    "runNumber": "41890",
+    "rawCode": "MED",
+    "timestamp": "2026-08-02T20:51:22.871687-04:00",
+    "address": "1200 Block N Broadway",
+    "extra": {
+      "incidentNumber": "41890",
+      "run_id": "41890",
+      "address": "1200 Block N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41890"
+    }
   }
 ]
