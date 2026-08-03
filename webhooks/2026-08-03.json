@@ -2484,5 +2484,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-42025"
     }
+  },
+  {
+    "runNumber": "42026",
+    "rawCode": "FOTS",
+    "timestamp": "2026-08-03T15:27:03.332382-04:00",
+    "address": "Mapleleaf Drive & Man O War Boulevard",
+    "extra": {
+      "incidentNumber": "42026",
+      "run_id": "42026",
+      "address": "Mapleleaf Drive & Man O War Boulevard",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L06,201",
+      "units": "L06,201",
+      "unitCount": "2",
+      "primaryTopic": "FOTS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-42026"
+    }
   }
 ]
