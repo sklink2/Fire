@@ -2220,5 +2220,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42013"
     }
+  },
+  {
+    "runNumber": "42014",
+    "rawCode": "MED",
+    "timestamp": "2026-08-03T14:13:24.553732-04:00",
+    "address": "3300 Block Commodore Drive",
+    "extra": {
+      "incidentNumber": "42014",
+      "run_id": "42014",
+      "address": "3300 Block Commodore Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC13",
+      "units": "E22,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42014"
+    }
   }
 ]
