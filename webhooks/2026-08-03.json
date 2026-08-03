@@ -3606,5 +3606,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-42078"
     }
+  },
+  {
+    "runNumber": "42079",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-03T19:25:36.066429-04:00",
+    "address": "Man O War Boulevard & Mapleleaf Drive",
+    "extra": {
+      "incidentNumber": "42079",
+      "run_id": "42079",
+      "address": "Man O War Boulevard & Mapleleaf Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42079"
+    }
   }
 ]
