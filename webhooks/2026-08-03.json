@@ -438,5 +438,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41931"
     }
+  },
+  {
+    "runNumber": "41932",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-03T04:09:56.230163-04:00",
+    "address": "650 Tower Plz",
+    "extra": {
+      "incidentNumber": "41932",
+      "run_id": "41932",
+      "address": "650 Tower Plz",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41932"
+    }
   }
 ]
