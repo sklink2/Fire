@@ -2616,5 +2616,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42031"
     }
+  },
+  {
+    "runNumber": "42033",
+    "rawCode": "MED",
+    "timestamp": "2026-08-03T15:48:05.294472-04:00",
+    "address": "300 Block W Reynolds Road",
+    "extra": {
+      "incidentNumber": "42033",
+      "run_id": "42033",
+      "address": "300 Block W Reynolds Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42033"
+    }
   }
 ]
