@@ -1406,5 +1406,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41976"
     }
+  },
+  {
+    "runNumber": "41975",
+    "rawCode": "MED",
+    "timestamp": "2026-08-03T10:32:25.543147-04:00",
+    "address": "500 Block W Main Street",
+    "extra": {
+      "incidentNumber": "41975",
+      "run_id": "41975",
+      "address": "500 Block W Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-41975"
+    }
   }
 ]
