@@ -3056,5 +3056,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42052"
     }
+  },
+  {
+    "runNumber": "42055",
+    "rawCode": "MED",
+    "timestamp": "2026-08-03T17:15:49.030935-04:00",
+    "address": "1300 Block Prather Road",
+    "extra": {
+      "incidentNumber": "42055",
+      "run_id": "42055",
+      "address": "1300 Block Prather Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC3",
+      "units": "E09,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42055"
+    }
   }
 ]
