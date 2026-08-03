@@ -2814,5 +2814,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42045"
     }
+  },
+  {
+    "runNumber": "42044",
+    "rawCode": "MED",
+    "timestamp": "2026-08-03T16:33:46.966152-04:00",
+    "address": "1200 Block Todds Station",
+    "extra": {
+      "incidentNumber": "42044",
+      "run_id": "42044",
+      "address": "1200 Block Todds Station",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17,EC13",
+      "units": "E17,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42044"
+    }
   }
 ]
