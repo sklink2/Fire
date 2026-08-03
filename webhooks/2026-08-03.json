@@ -3144,5 +3144,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42057"
     }
+  },
+  {
+    "runNumber": "42056",
+    "rawCode": "FASS",
+    "timestamp": "2026-08-03T17:22:57.619748-04:00",
+    "address": "2050 Versailles Road",
+    "extra": {
+      "incidentNumber": "42056",
+      "run_id": "42056",
+      "address": "2050 Versailles Road",
+      "rawType": "FASS",
+      "typeCode": "FASS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC7,204",
+      "units": "EC7,204",
+      "unitCount": "2",
+      "primaryTopic": "FASS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-42056"
+    }
   }
 ]
