@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42041"
     }
+  },
+  {
+    "runNumber": "42045",
+    "rawCode": "MED",
+    "timestamp": "2026-08-03T16:33:43.800883-04:00",
+    "address": "2100 Block Versailles Road",
+    "extra": {
+      "incidentNumber": "42045",
+      "run_id": "42045",
+      "address": "2100 Block Versailles Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC4,CRT1",
+      "units": "EC4,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42045"
+    }
   }
 ]
