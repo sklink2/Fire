@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42075"
     }
+  },
+  {
+    "runNumber": "42076",
+    "rawCode": "MED",
+    "timestamp": "2026-08-03T19:08:04.488851-04:00",
+    "address": "1100 Block Manchester Street",
+    "extra": {
+      "incidentNumber": "42076",
+      "run_id": "42076",
+      "address": "1100 Block Manchester Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42076"
+    }
   }
 ]
