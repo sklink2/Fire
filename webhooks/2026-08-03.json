@@ -1142,5 +1142,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41963"
     }
+  },
+  {
+    "runNumber": "41965",
+    "rawCode": "FSMO",
+    "timestamp": "2026-08-03T09:32:42.686578-04:00",
+    "address": "2353 Alexandria Drive",
+    "extra": {
+      "incidentNumber": "41965",
+      "run_id": "41965",
+      "address": "2353 Alexandria Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,E20,L04,EC9,204",
+      "units": "E15,E20,L04,EC9,204",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-41965"
+    }
   }
 ]
