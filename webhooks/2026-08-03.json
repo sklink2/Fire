@@ -1450,5 +1450,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41977"
     }
+  },
+  {
+    "runNumber": "41978",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-03T10:39:23.500215-04:00",
+    "address": "505 S Mill Street",
+    "extra": {
+      "incidentNumber": "41978",
+      "run_id": "41978",
+      "address": "505 S Mill Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E06,L02,204",
+      "units": "E04,E06,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-41978"
+    }
   }
 ]
