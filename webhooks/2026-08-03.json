@@ -1318,5 +1318,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-41971"
     }
+  },
+  {
+    "runNumber": "41972",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-03T10:14:50.669812-04:00",
+    "address": "251 Price Road",
+    "extra": {
+      "incidentNumber": "41972",
+      "run_id": "41972",
+      "address": "251 Price Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E12,L02,203",
+      "units": "E09,E12,L02,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-41972"
+    }
   }
 ]
