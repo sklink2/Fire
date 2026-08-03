@@ -2022,5 +2022,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-42005"
     }
+  },
+  {
+    "runNumber": "42004",
+    "rawCode": "MED",
+    "timestamp": "2026-08-03T13:24:21.151860-04:00",
+    "address": "800 Block Nandino Boulevard",
+    "extra": {
+      "incidentNumber": "42004",
+      "run_id": "42004",
+      "address": "800 Block Nandino Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42004"
+    }
   }
 ]
