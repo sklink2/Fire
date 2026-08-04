@@ -1230,5 +1230,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-42180"
     }
+  },
+  {
+    "runNumber": "42182",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-08-04T09:59:11.574479-04:00",
+    "address": "475 S Ashland Avenue",
+    "extra": {
+      "incidentNumber": "42182",
+      "run_id": "42182",
+      "address": "475 S Ashland Avenue",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42182"
+    }
   }
 ]
