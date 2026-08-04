@@ -240,5 +240,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42134"
     }
+  },
+  {
+    "runNumber": "42136",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T02:02:05.139786-04:00",
+    "address": "2400 Block Nicholasville Road",
+    "extra": {
+      "incidentNumber": "42136",
+      "run_id": "42136",
+      "address": "2400 Block Nicholasville Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42136"
+    }
   }
 ]
