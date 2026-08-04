@@ -218,5 +218,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42135"
     }
+  },
+  {
+    "runNumber": "42134",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T01:27:00.894431-04:00",
+    "address": "1900 Block Stanton Way",
+    "extra": {
+      "incidentNumber": "42134",
+      "run_id": "42134",
+      "address": "1900 Block Stanton Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42134"
+    }
   }
 ]
