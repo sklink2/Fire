@@ -2506,5 +2506,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42240"
     }
+  },
+  {
+    "runNumber": "42241",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T13:50:43.478342-04:00",
+    "address": "3800 Block Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "42241",
+      "run_id": "42241",
+      "address": "3800 Block Harrodsburg Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L04,EC2",
+      "units": "L04,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42241"
+    }
   }
 ]
