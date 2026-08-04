@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42257"
     }
+  },
+  {
+    "runNumber": "42258",
+    "rawCode": "FSCU",
+    "timestamp": "2026-08-04T15:11:27.529830-04:00",
+    "address": "307 E New Circle Road",
+    "extra": {
+      "incidentNumber": "42258",
+      "run_id": "42258",
+      "address": "307 E New Circle Road",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02",
+      "units": "E02",
+      "unitCount": "1",
+      "primaryTopic": "FSCU",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42258"
+    }
   }
 ]
