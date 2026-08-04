@@ -4332,5 +4332,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42111"
     }
+  },
+  {
+    "runNumber": "42112",
+    "rawCode": "MED",
+    "timestamp": "2026-08-03T22:03:29.884102-04:00",
+    "address": "1800 Block Hisle Way",
+    "extra": {
+      "incidentNumber": "42112",
+      "run_id": "42112",
+      "address": "1800 Block Hisle Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42112"
+    }
   }
 ]
