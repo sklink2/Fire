@@ -1054,5 +1054,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42173"
     }
+  },
+  {
+    "runNumber": "42174",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T09:31:06.041754-04:00",
+    "address": "E Main Street & Quality Street",
+    "extra": {
+      "incidentNumber": "42174",
+      "run_id": "42174",
+      "address": "E Main Street & Quality Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC9",
+      "units": "E01,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42174"
+    }
   }
 ]
