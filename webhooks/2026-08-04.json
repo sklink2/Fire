@@ -1494,5 +1494,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42194"
     }
+  },
+  {
+    "runNumber": "42193",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T10:51:56.582664-04:00",
+    "address": "900 Block Ridgebrook Road",
+    "extra": {
+      "incidentNumber": "42193",
+      "run_id": "42193",
+      "address": "900 Block Ridgebrook Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42193"
+    }
   }
 ]
