@@ -1274,5 +1274,27 @@
       "commandUnits": "220",
       "dedupeKey": "INCIDENT-42184"
     }
+  },
+  {
+    "runNumber": "42185",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-04T10:06:12.740958-04:00",
+    "address": "2250 Clays Mill Road",
+    "extra": {
+      "incidentNumber": "42185",
+      "run_id": "42185",
+      "address": "2250 Clays Mill Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E12,L04,204",
+      "units": "E11,E12,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-42185"
+    }
   }
 ]
