@@ -4112,5 +4112,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42101"
     }
+  },
+  {
+    "runNumber": "42104",
+    "rawCode": "FMEA",
+    "timestamp": "2026-08-03T20:56:50.811513-04:00",
+    "address": "1608 Thames Drive",
+    "extra": {
+      "incidentNumber": "42104",
+      "run_id": "42104",
+      "address": "1608 Thames Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16",
+      "units": "E16",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42104"
+    }
   }
 ]
