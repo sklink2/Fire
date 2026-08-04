@@ -1252,5 +1252,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42182"
     }
+  },
+  {
+    "runNumber": "42184",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-04T10:02:43.561975-04:00",
+    "address": "1753 Headley Green",
+    "extra": {
+      "incidentNumber": "42184",
+      "run_id": "42184",
+      "address": "1753 Headley Green",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "220",
+      "units": "220",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-42184"
+    }
   }
 ]
