@@ -2374,5 +2374,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42234"
     }
+  },
+  {
+    "runNumber": "42236",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T13:33:11.935043-04:00",
+    "address": "200 Block Owsley Avenue",
+    "extra": {
+      "incidentNumber": "42236",
+      "run_id": "42236",
+      "address": "200 Block Owsley Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC5",
+      "units": "E05,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42236"
+    }
   }
 ]
