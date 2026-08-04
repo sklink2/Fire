@@ -4574,5 +4574,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42122"
     }
+  },
+  {
+    "runNumber": "42123",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-03T23:52:16.267508-04:00",
+    "address": "Harrodsburg Road & Fountainblue",
+    "extra": {
+      "incidentNumber": "42123",
+      "run_id": "42123",
+      "address": "Harrodsburg Road & Fountainblue",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42123"
+    }
   }
 ]
