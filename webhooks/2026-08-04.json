@@ -2066,5 +2066,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42221"
     }
+  },
+  {
+    "runNumber": "42220",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T12:47:40.803171-04:00",
+    "address": "3300 Block Royal Troon Road",
+    "extra": {
+      "incidentNumber": "42220",
+      "run_id": "42220",
+      "address": "3300 Block Royal Troon Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42220"
+    }
   }
 ]
