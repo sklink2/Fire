@@ -4090,5 +4090,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42100"
     }
+  },
+  {
+    "runNumber": "42101",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-03T20:49:50.235943-04:00",
+    "address": "1263 Trent Boulevard",
+    "extra": {
+      "incidentNumber": "42101",
+      "run_id": "42101",
+      "address": "1263 Trent Boulevard",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16",
+      "units": "E16",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42101"
+    }
   }
 ]
