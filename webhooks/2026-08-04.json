@@ -20,5 +20,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-42125"
     }
+  },
+  {
+    "runNumber": "42126",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T00:27:20.201833-04:00",
+    "address": "500 Block Hollow Creek Road",
+    "extra": {
+      "incidentNumber": "42126",
+      "run_id": "42126",
+      "address": "500 Block Hollow Creek Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42126"
+    }
   }
 ]
