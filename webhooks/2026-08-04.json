@@ -1956,5 +1956,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-42216"
     }
+  },
+  {
+    "runNumber": "42218",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T12:40:34.059645-04:00",
+    "address": "100 Block W Maxwell Street",
+    "extra": {
+      "incidentNumber": "42218",
+      "run_id": "42218",
+      "address": "100 Block W Maxwell Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,EC4",
+      "units": "E06,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42218"
+    }
   }
 ]
