@@ -614,5 +614,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42152"
     }
+  },
+  {
+    "runNumber": "42154",
+    "rawCode": "FDET",
+    "timestamp": "2026-08-04T06:49:44.564838-04:00",
+    "address": "4089 Iron Works Pike",
+    "extra": {
+      "incidentNumber": "42154",
+      "run_id": "42154",
+      "address": "4089 Iron Works Pike",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC30,EC35",
+      "units": "EC30,EC35",
+      "unitCount": "2",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42154"
+    }
   }
 ]
