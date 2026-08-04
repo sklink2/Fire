@@ -2726,5 +2726,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42250"
     }
+  },
+  {
+    "runNumber": "42251",
+    "rawCode": "FELF",
+    "timestamp": "2026-08-04T14:32:51.046934-04:00",
+    "address": "1917 Cambridge Drive",
+    "extra": {
+      "incidentNumber": "42251",
+      "run_id": "42251",
+      "address": "1917 Cambridge Drive",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E13,L02,EC12,203",
+      "units": "E11,E13,L02,EC12,203",
+      "unitCount": "5",
+      "primaryTopic": "FELF",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-42251"
+    }
   }
 ]
