@@ -4376,5 +4376,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42113"
     }
+  },
+  {
+    "runNumber": "42114",
+    "rawCode": "MED",
+    "timestamp": "2026-08-03T22:21:04.435942-04:00",
+    "address": "200 Block Zandale Drive",
+    "extra": {
+      "incidentNumber": "42114",
+      "run_id": "42114",
+      "address": "200 Block Zandale Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,EC4,204",
+      "units": "E07,EC4,204",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-42114"
+    }
   }
 ]
