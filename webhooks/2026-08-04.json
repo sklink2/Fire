@@ -1164,5 +1164,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42177"
     }
+  },
+  {
+    "runNumber": "42179",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-04T09:45:09.353290-04:00",
+    "address": "350 E Short Street",
+    "extra": {
+      "incidentNumber": "42179",
+      "run_id": "42179",
+      "address": "350 E Short Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E05,L02,205",
+      "units": "E02,E05,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-42179"
+    }
   }
 ]
