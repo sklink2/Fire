@@ -1516,5 +1516,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42193"
     }
+  },
+  {
+    "runNumber": "42197",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-08-04T10:58:50.207282-04:00",
+    "address": "501 Green Valley Drive",
+    "extra": {
+      "incidentNumber": "42197",
+      "run_id": "42197",
+      "address": "501 Green Valley Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L03",
+      "units": "L03",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42197"
+    }
   }
 ]
