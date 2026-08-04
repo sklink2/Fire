@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42139"
     }
+  },
+  {
+    "runNumber": "42142",
+    "rawCode": "FMEA",
+    "timestamp": "2026-08-04T03:19:13.757201-04:00",
+    "address": "1890 Alexandria Drive",
+    "extra": {
+      "incidentNumber": "42142",
+      "run_id": "42142",
+      "address": "1890 Alexandria Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14",
+      "units": "E14",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42142"
+    }
   }
 ]
