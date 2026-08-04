@@ -3188,5 +3188,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42272"
     }
+  },
+  {
+    "runNumber": "42271",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T17:49:21.928494-04:00",
+    "address": "N Broadway & W Main Street",
+    "extra": {
+      "incidentNumber": "42271",
+      "run_id": "42271",
+      "address": "N Broadway & W Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10,RS1",
+      "units": "EC10,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42271"
+    }
   }
 ]
