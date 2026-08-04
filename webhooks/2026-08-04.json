@@ -2418,5 +2418,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42235"
     }
+  },
+  {
+    "runNumber": "42238",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T13:36:40.813521-04:00",
+    "address": "2000 Block Parkers Mill Road",
+    "extra": {
+      "incidentNumber": "42238",
+      "run_id": "42238",
+      "address": "2000 Block Parkers Mill Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,EC5",
+      "units": "E20,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42238"
+    }
   }
 ]
