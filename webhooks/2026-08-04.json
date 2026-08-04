@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42238"
     }
+  },
+  {
+    "runNumber": "42237",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T13:36:44.086724-04:00",
+    "address": "700 Block Bryan Avenue",
+    "extra": {
+      "incidentNumber": "42237",
+      "run_id": "42237",
+      "address": "700 Block Bryan Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42237"
+    }
   }
 ]
