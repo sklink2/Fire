@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42199"
     }
+  },
+  {
+    "runNumber": "42198",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-04T11:02:25.432915-04:00",
+    "address": "600 Old Frankfort Circle",
+    "extra": {
+      "incidentNumber": "42198",
+      "run_id": "42198",
+      "address": "600 Old Frankfort Circle",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,E24,203",
+      "units": "E13,E24,203",
+      "unitCount": "3",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-42198"
+    }
   }
 ]
