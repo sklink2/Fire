@@ -4530,5 +4530,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42120"
     }
+  },
+  {
+    "runNumber": "42121",
+    "rawCode": "FCAR",
+    "timestamp": "2026-08-03T23:24:11.526264-04:00",
+    "address": "1204 Moon Rise Way",
+    "extra": {
+      "incidentNumber": "42121",
+      "run_id": "42121",
+      "address": "1204 Moon Rise Way",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L06",
+      "units": "L06",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42121"
+    }
   }
 ]
