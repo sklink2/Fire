@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42236"
     }
+  },
+  {
+    "runNumber": "42235",
+    "rawCode": "FMEA",
+    "timestamp": "2026-08-04T13:33:14.928398-04:00",
+    "address": "1182 Kelsey Drive",
+    "extra": {
+      "incidentNumber": "42235",
+      "run_id": "42235",
+      "address": "1182 Kelsey Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42235"
+    }
   }
 ]
