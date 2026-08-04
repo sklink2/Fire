@@ -3034,5 +3034,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42264"
     }
+  },
+  {
+    "runNumber": "42265",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T16:53:10.578117-04:00",
+    "address": "2300 Block Sandersville Road",
+    "extra": {
+      "incidentNumber": "42265",
+      "run_id": "42265",
+      "address": "2300 Block Sandersville Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42265"
+    }
   }
 ]
