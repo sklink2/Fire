@@ -3232,5 +3232,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42273"
     }
+  },
+  {
+    "runNumber": "42274",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T18:03:21.698695-04:00",
+    "address": "400 Block Squires Road",
+    "extra": {
+      "incidentNumber": "42274",
+      "run_id": "42274",
+      "address": "400 Block Squires Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42274"
+    }
   }
 ]
