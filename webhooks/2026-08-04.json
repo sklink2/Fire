@@ -3342,5 +3342,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42277"
     }
+  },
+  {
+    "runNumber": "42279",
+    "rawCode": "FMEA",
+    "timestamp": "2026-08-04T18:34:57.302748-04:00",
+    "address": "1013 Pennebaker Drive",
+    "extra": {
+      "incidentNumber": "42279",
+      "run_id": "42279",
+      "address": "1013 Pennebaker Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42279"
+    }
   }
 ]
