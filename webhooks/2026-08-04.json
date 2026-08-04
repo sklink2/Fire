@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42241"
     }
+  },
+  {
+    "runNumber": "42242",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T13:57:45.441008-04:00",
+    "address": "500 Block Darby Creek Road",
+    "extra": {
+      "incidentNumber": "42242",
+      "run_id": "42242",
+      "address": "500 Block Darby Creek Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42242"
+    }
   }
 ]
