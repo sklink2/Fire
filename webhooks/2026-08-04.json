@@ -2770,5 +2770,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42252"
     }
+  },
+  {
+    "runNumber": "42253",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T14:39:50.810268-04:00",
+    "address": "100 Block Louie Place",
+    "extra": {
+      "incidentNumber": "42253",
+      "run_id": "42253",
+      "address": "100 Block Louie Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC10",
+      "units": "E10,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42253"
+    }
   }
 ]
