@@ -790,5 +790,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42161"
     }
+  },
+  {
+    "runNumber": "42163",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-04T08:03:23.602376-04:00",
+    "address": "152 W Tiverton Way",
+    "extra": {
+      "incidentNumber": "42163",
+      "run_id": "42163",
+      "address": "152 W Tiverton Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E22,L07,204",
+      "units": "E07,E22,L07,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-42163"
+    }
   }
 ]
