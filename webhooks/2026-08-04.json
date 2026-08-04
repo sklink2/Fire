@@ -1120,5 +1120,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42176"
     }
+  },
+  {
+    "runNumber": "42178",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T09:41:37.922241-04:00",
+    "address": "600 Block Shiretown Road",
+    "extra": {
+      "incidentNumber": "42178",
+      "run_id": "42178",
+      "address": "600 Block Shiretown Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L03,EC1",
+      "units": "L03,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42178"
+    }
   }
 ]
