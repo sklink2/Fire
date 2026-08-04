@@ -2902,5 +2902,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42258"
     }
+  },
+  {
+    "runNumber": "42259",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-04T15:21:58.396710-04:00",
+    "address": "163 E Main Street",
+    "extra": {
+      "incidentNumber": "42259",
+      "run_id": "42259",
+      "address": "163 E Main Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E05,E06,L01,205",
+      "units": "E01,E05,E06,L01,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-42259"
+    }
   }
 ]
