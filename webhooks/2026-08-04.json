@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42231"
     }
+  },
+  {
+    "runNumber": "42233",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-04T13:19:10.966165-04:00",
+    "address": "Nicholasville Road & E New Circl",
+    "extra": {
+      "incidentNumber": "42233",
+      "run_id": "42233",
+      "address": "Nicholasville Road & E New Circl",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E15,L04,EC9,202,220,241,RS1",
+      "units": "E07,E15,L04,EC9,202,220,241,RS1",
+      "unitCount": "8",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,220,202",
+      "dedupeKey": "INCIDENT-42233"
+    }
   }
 ]
