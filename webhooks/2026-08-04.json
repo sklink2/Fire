@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42242"
     }
+  },
+  {
+    "runNumber": "42243",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T14:04:44.932700-04:00",
+    "address": "1800 Block Winchester Road",
+    "extra": {
+      "incidentNumber": "42243",
+      "run_id": "42243",
+      "address": "1800 Block Winchester Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42243"
+    }
   }
 ]
