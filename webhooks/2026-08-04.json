@@ -3474,5 +3474,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42284"
     }
+  },
+  {
+    "runNumber": "42286",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T19:27:34.055743-04:00",
+    "address": "100 Block Chestnut Ridge Drive",
+    "extra": {
+      "incidentNumber": "42286",
+      "run_id": "42286",
+      "address": "100 Block Chestnut Ridge Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "T1,EC10",
+      "units": "T1,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42286"
+    }
   }
 ]
