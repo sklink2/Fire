@@ -2946,5 +2946,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42260"
     }
+  },
+  {
+    "runNumber": "42261",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T16:14:37.001050-04:00",
+    "address": "3800 Block Lee Adams Lane",
+    "extra": {
+      "incidentNumber": "42261",
+      "run_id": "42261",
+      "address": "3800 Block Lee Adams Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42261"
+    }
   }
 ]
