@@ -900,5 +900,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42166"
     }
+  },
+  {
+    "runNumber": "42167",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T08:38:28.608342-04:00",
+    "address": "500 Block Gingermill Lane",
+    "extra": {
+      "incidentNumber": "42167",
+      "run_id": "42167",
+      "address": "500 Block Gingermill Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42167"
+    }
   }
 ]
