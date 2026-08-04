@@ -1978,5 +1978,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42218"
     }
+  },
+  {
+    "runNumber": "42217",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T12:40:37.681576-04:00",
+    "address": "500 Block Albany Road",
+    "extra": {
+      "incidentNumber": "42217",
+      "run_id": "42217",
+      "address": "500 Block Albany Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42217"
+    }
   }
 ]
