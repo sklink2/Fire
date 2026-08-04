@@ -1208,5 +1208,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42181"
     }
+  },
+  {
+    "runNumber": "42180",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-04T09:55:44.109461-04:00",
+    "address": "721 Sports Center Drive",
+    "extra": {
+      "incidentNumber": "42180",
+      "run_id": "42180",
+      "address": "721 Sports Center Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E06,L05,204",
+      "units": "E05,E06,L05,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-42180"
+    }
   }
 ]
