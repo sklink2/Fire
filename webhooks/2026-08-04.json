@@ -1406,5 +1406,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42190"
     }
+  },
+  {
+    "runNumber": "42191",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T10:44:47.210274-04:00",
+    "address": "700 Block Pasadena Drive",
+    "extra": {
+      "incidentNumber": "42191",
+      "run_id": "42191",
+      "address": "700 Block Pasadena Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42191"
+    }
   }
 ]
