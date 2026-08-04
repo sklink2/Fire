@@ -3364,5 +3364,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42279"
     }
+  },
+  {
+    "runNumber": "42280",
+    "rawCode": "FVIS",
+    "timestamp": "2026-08-04T18:52:29.677950-04:00",
+    "address": "1212 N Limestone",
+    "extra": {
+      "incidentNumber": "42280",
+      "run_id": "42280",
+      "address": "1212 N Limestone",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E13,L05,EC3,201,RS1",
+      "units": "E08,E13,L05,EC3,201,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-42280"
+    }
   }
 ]
