@@ -2858,5 +2858,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42256"
     }
+  },
+  {
+    "runNumber": "42257",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T15:00:53.084873-04:00",
+    "address": "4900 Block Athens Boonesboro Road",
+    "extra": {
+      "incidentNumber": "42257",
+      "run_id": "42257",
+      "address": "4900 Block Athens Boonesboro Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42257"
+    }
   }
 ]
