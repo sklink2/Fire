@@ -548,5 +548,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42149"
     }
+  },
+  {
+    "runNumber": "42150",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-04T06:14:39.234361-04:00",
+    "address": "402 S Broadway",
+    "extra": {
+      "incidentNumber": "42150",
+      "run_id": "42150",
+      "address": "402 S Broadway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E06,L01,205",
+      "units": "E04,E06,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-42150"
+    }
   }
 ]
