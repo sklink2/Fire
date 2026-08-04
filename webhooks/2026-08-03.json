@@ -4178,5 +4178,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42102"
     }
+  },
+  {
+    "runNumber": "42105",
+    "rawCode": "MED",
+    "timestamp": "2026-08-03T21:00:21.613959-04:00",
+    "address": "4900 Block Jennie Kate Lane",
+    "extra": {
+      "incidentNumber": "42105",
+      "run_id": "42105",
+      "address": "4900 Block Jennie Kate Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,EC1",
+      "units": "E14,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42105"
+    }
   }
 ]
