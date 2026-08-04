@@ -42,5 +42,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42126"
     }
+  },
+  {
+    "runNumber": "42128",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T00:34:21.582029-04:00",
+    "address": "3800 Block Duffy Court",
+    "extra": {
+      "incidentNumber": "42128",
+      "run_id": "42128",
+      "address": "3800 Block Duffy Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC4",
+      "units": "E22,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42128"
+    }
   }
 ]
