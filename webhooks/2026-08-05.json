@@ -3254,5 +3254,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42462"
     }
+  },
+  {
+    "runNumber": "42464",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-05T19:39:59.958639-04:00",
+    "address": "W Short Street & N Mill Street",
+    "extra": {
+      "incidentNumber": "42464",
+      "run_id": "42464",
+      "address": "W Short Street & N Mill Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,EC1",
+      "units": "E04,EC1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42464"
+    }
   }
 ]
