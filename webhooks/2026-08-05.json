@@ -2858,5 +2858,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42447"
     }
+  },
+  {
+    "runNumber": "42446",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-05T17:54:48.562669-04:00",
+    "address": "3200 Todds Road",
+    "extra": {
+      "incidentNumber": "42446",
+      "run_id": "42446",
+      "address": "3200 Todds Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC11",
+      "units": "E02,EC11",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42446"
+    }
   }
 ]
