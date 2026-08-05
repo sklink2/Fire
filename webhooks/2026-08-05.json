@@ -1516,5 +1516,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42385"
     }
+  },
+  {
+    "runNumber": "42386",
+    "rawCode": "MED",
+    "timestamp": "2026-08-05T12:39:00.337692-04:00",
+    "address": "600 Block Tower Plz",
+    "extra": {
+      "incidentNumber": "42386",
+      "run_id": "42386",
+      "address": "600 Block Tower Plz",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L01,EC3",
+      "units": "L01,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42386"
+    }
   }
 ]
