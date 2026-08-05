@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42420"
     }
+  },
+  {
+    "runNumber": "42421",
+    "rawCode": "MED",
+    "timestamp": "2026-08-05T15:44:57.751223-04:00",
+    "address": "600 Block Tundra Court",
+    "extra": {
+      "incidentNumber": "42421",
+      "run_id": "42421",
+      "address": "600 Block Tundra Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC13,CRT1",
+      "units": "E16,EC13,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42421"
+    }
   }
 ]
