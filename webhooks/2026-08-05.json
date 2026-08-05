@@ -2022,5 +2022,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42406"
     }
+  },
+  {
+    "runNumber": "42409",
+    "rawCode": "MED",
+    "timestamp": "2026-08-05T14:06:42.945996-04:00",
+    "address": "1500 Block Samara Glen Way",
+    "extra": {
+      "incidentNumber": "42409",
+      "run_id": "42409",
+      "address": "1500 Block Samara Glen Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC10",
+      "units": "E16,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42409"
+    }
   }
 ]
