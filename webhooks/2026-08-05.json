@@ -1076,5 +1076,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42365"
     }
+  },
+  {
+    "runNumber": "42366",
+    "rawCode": "MED",
+    "timestamp": "2026-08-05T10:50:14.213983-04:00",
+    "address": "700 Block E Loudon Avenue",
+    "extra": {
+      "incidentNumber": "42366",
+      "run_id": "42366",
+      "address": "700 Block E Loudon Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC1",
+      "units": "E02,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42366"
+    }
   }
 ]
