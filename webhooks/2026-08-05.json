@@ -2374,5 +2374,27 @@
       "commandUnits": "241,202",
       "dedupeKey": "INCIDENT-42425"
     }
+  },
+  {
+    "runNumber": "42424",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-08-05T15:59:08.538417-04:00",
+    "address": "101 S Hanover Avenue",
+    "extra": {
+      "incidentNumber": "42424",
+      "run_id": "42424",
+      "address": "101 S Hanover Avenue",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05",
+      "units": "E05",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42424"
+    }
   }
 ]
