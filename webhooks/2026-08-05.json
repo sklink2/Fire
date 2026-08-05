@@ -2770,5 +2770,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42443"
     }
+  },
+  {
+    "runNumber": "42442",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-05T17:30:19.259420-04:00",
+    "address": "3170 Mapleleaf Drive",
+    "extra": {
+      "incidentNumber": "42442",
+      "run_id": "42442",
+      "address": "3170 Mapleleaf Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E21,L05,EC2,201,220",
+      "units": "E06,E21,L05,EC2,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-42442"
+    }
   }
 ]
