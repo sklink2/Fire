@@ -1758,5 +1758,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-42396"
     }
+  },
+  {
+    "runNumber": "42397",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-05T13:21:06.672760-04:00",
+    "address": "1784 Barksdale Drive",
+    "extra": {
+      "incidentNumber": "42397",
+      "run_id": "42397",
+      "address": "1784 Barksdale Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42397"
+    }
   }
 ]
