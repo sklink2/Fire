@@ -1956,5 +1956,27 @@
       "commandUnits": "220,201,203,205",
       "dedupeKey": "INCIDENT-42405"
     }
+  },
+  {
+    "runNumber": "42408",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-05T13:56:12.589215-04:00",
+    "address": "Versailles Road & Bennett Avenue",
+    "extra": {
+      "incidentNumber": "42408",
+      "run_id": "42408",
+      "address": "Versailles Road & Bennett Avenue",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,EC10",
+      "units": "E04,EC10",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42408"
+    }
   }
 ]
