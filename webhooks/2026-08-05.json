@@ -2308,5 +2308,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42421"
     }
+  },
+  {
+    "runNumber": "42422",
+    "rawCode": "MED",
+    "timestamp": "2026-08-05T15:51:59.194416-04:00",
+    "address": "3200 Block Leestown Road",
+    "extra": {
+      "incidentNumber": "42422",
+      "run_id": "42422",
+      "address": "3200 Block Leestown Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42422"
+    }
   }
 ]
