@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42422"
     }
+  },
+  {
+    "runNumber": "42423",
+    "rawCode": "MED",
+    "timestamp": "2026-08-05T15:55:30.144385-04:00",
+    "address": "1900 Block Hart Road",
+    "extra": {
+      "incidentNumber": "42423",
+      "run_id": "42423",
+      "address": "1900 Block Hart Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42423"
+    }
   }
 ]
