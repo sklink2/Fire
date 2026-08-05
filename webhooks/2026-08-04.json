@@ -3892,5 +3892,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42303"
     }
+  },
+  {
+    "runNumber": "42305",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-04T22:30:00.662382-04:00",
+    "address": "2082 Fairmont Court",
+    "extra": {
+      "incidentNumber": "42305",
+      "run_id": "42305",
+      "address": "2082 Fairmont Court",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E16,L02,EC2,205,220",
+      "units": "E09,E16,L02,EC2,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-42305"
+    }
   }
 ]
