@@ -2484,5 +2484,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42429"
     }
+  },
+  {
+    "runNumber": "42431",
+    "rawCode": "MED",
+    "timestamp": "2026-08-05T16:23:34.756170-04:00",
+    "address": "Spruce Street & Noble Street",
+    "extra": {
+      "incidentNumber": "42431",
+      "run_id": "42431",
+      "address": "Spruce Street & Noble Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42431"
+    }
   }
 ]
