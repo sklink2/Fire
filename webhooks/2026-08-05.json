@@ -394,5 +394,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42333"
     }
+  },
+  {
+    "runNumber": "42334",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-05T05:41:29.567831-04:00",
+    "address": "Richmond Road & Chinoe Road",
+    "extra": {
+      "incidentNumber": "42334",
+      "run_id": "42334",
+      "address": "Richmond Road & Chinoe Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC2,241",
+      "units": "E09,EC2,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-42334"
+    }
   }
 ]
