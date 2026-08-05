@@ -482,5 +482,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42337"
     }
+  },
+  {
+    "runNumber": "42339",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-05T06:58:42.699188-04:00",
+    "address": "1198 Winburn Drive",
+    "extra": {
+      "incidentNumber": "42339",
+      "run_id": "42339",
+      "address": "1198 Winburn Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42339"
+    }
   }
 ]
