@@ -2990,5 +2990,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-42452"
     }
+  },
+  {
+    "runNumber": "42451",
+    "rawCode": "FCAR",
+    "timestamp": "2026-08-05T18:33:30.598101-04:00",
+    "address": "337 Outrider Way",
+    "extra": {
+      "incidentNumber": "42451",
+      "run_id": "42451",
+      "address": "337 Outrider Way",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L04",
+      "units": "L04",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42451"
+    }
   }
 ]
