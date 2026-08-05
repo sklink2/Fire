@@ -592,5 +592,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42343"
     }
+  },
+  {
+    "runNumber": "42342",
+    "rawCode": "MED",
+    "timestamp": "2026-08-05T07:40:50.734917-04:00",
+    "address": "400 Block Morgan Avenue",
+    "extra": {
+      "incidentNumber": "42342",
+      "run_id": "42342",
+      "address": "400 Block Morgan Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC8",
+      "units": "E08,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42342"
+    }
   }
 ]
