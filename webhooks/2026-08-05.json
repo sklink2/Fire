@@ -2748,5 +2748,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42439"
     }
+  },
+  {
+    "runNumber": "42443",
+    "rawCode": "FMEA",
+    "timestamp": "2026-08-05T17:30:13.413919-04:00",
+    "address": "633 Mt Tabor Road",
+    "extra": {
+      "incidentNumber": "42443",
+      "run_id": "42443",
+      "address": "633 Mt Tabor Road",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09",
+      "units": "E09",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42443"
+    }
   }
 ]
