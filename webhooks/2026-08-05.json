@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42377"
     }
+  },
+  {
+    "runNumber": "42378",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-05T12:00:26.328831-04:00",
+    "address": "908 Arbor Station Court",
+    "extra": {
+      "incidentNumber": "42378",
+      "run_id": "42378",
+      "address": "908 Arbor Station Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E08,L03,203",
+      "units": "E04,E08,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-42378"
+    }
   }
 ]
