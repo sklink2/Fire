@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42402"
     }
+  },
+  {
+    "runNumber": "42401",
+    "rawCode": "MED",
+    "timestamp": "2026-08-05T13:42:12.646664-04:00",
+    "address": "1000 Block Liberty Road",
+    "extra": {
+      "incidentNumber": "42401",
+      "run_id": "42401",
+      "address": "1000 Block Liberty Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC1,CRT1",
+      "units": "E01,EC1,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42401"
+    }
   }
 ]
