@@ -1230,5 +1230,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42372"
     }
+  },
+  {
+    "runNumber": "42373",
+    "rawCode": "MED",
+    "timestamp": "2026-08-05T11:32:21.246485-04:00",
+    "address": "900 Block Beasley Street",
+    "extra": {
+      "incidentNumber": "42373",
+      "run_id": "42373",
+      "address": "900 Block Beasley Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L02,EC4",
+      "units": "L02,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42373"
+    }
   }
 ]
