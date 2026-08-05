@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42347"
     }
+  },
+  {
+    "runNumber": "42348",
+    "rawCode": "MED",
+    "timestamp": "2026-08-05T08:19:22.618900-04:00",
+    "address": "2800 Block Bay Colony Lane",
+    "extra": {
+      "incidentNumber": "42348",
+      "run_id": "42348",
+      "address": "2800 Block Bay Colony Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42348"
+    }
   }
 ]
