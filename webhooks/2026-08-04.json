@@ -3738,5 +3738,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-42297"
     }
+  },
+  {
+    "runNumber": "42298",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T21:05:45.689862-04:00",
+    "address": "1700 Block Sandhurst Cv",
+    "extra": {
+      "incidentNumber": "42298",
+      "run_id": "42298",
+      "address": "1700 Block Sandhurst Cv",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42298"
+    }
   }
 ]
