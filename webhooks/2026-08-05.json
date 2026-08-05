@@ -1648,5 +1648,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42391"
     }
+  },
+  {
+    "runNumber": "42395",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-05T13:07:07.963692-04:00",
+    "address": "883 E High Street",
+    "extra": {
+      "incidentNumber": "42395",
+      "run_id": "42395",
+      "address": "883 E High Street",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,L02,EC5,205,220",
+      "units": "E05,E06,L02,EC5,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-42395"
+    }
   }
 ]
