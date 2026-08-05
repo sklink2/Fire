@@ -636,5 +636,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42344"
     }
+  },
+  {
+    "runNumber": "42345",
+    "rawCode": "FMEA",
+    "timestamp": "2026-08-05T08:01:49.335484-04:00",
+    "address": "4580 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "42345",
+      "run_id": "42345",
+      "address": "4580 Nicholasville Road",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15",
+      "units": "E15",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42345"
+    }
   }
 ]
