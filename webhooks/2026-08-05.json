@@ -174,5 +174,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42324"
     }
+  },
+  {
+    "runNumber": "42323",
+    "rawCode": "MED",
+    "timestamp": "2026-08-05T01:49:58.307947-04:00",
+    "address": "1200 Block Highland Park Drive",
+    "extra": {
+      "incidentNumber": "42323",
+      "run_id": "42323",
+      "address": "1200 Block Highland Park Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42323"
+    }
   }
 ]
