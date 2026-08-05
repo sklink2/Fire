@@ -3012,5 +3012,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42451"
     }
+  },
+  {
+    "runNumber": "42454",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-05T18:40:21.166537-04:00",
+    "address": "National Avenue & Walton Avenue",
+    "extra": {
+      "incidentNumber": "42454",
+      "run_id": "42454",
+      "address": "National Avenue & Walton Avenue",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,L01",
+      "units": "E01,L01",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42454"
+    }
   }
 ]
