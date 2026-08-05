@@ -1846,5 +1846,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42399"
     }
+  },
+  {
+    "runNumber": "42402",
+    "rawCode": "MED",
+    "timestamp": "2026-08-05T13:42:09.368465-04:00",
+    "address": "400 Block W Reynolds Road",
+    "extra": {
+      "incidentNumber": "42402",
+      "run_id": "42402",
+      "address": "400 Block W Reynolds Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42402"
+    }
   }
 ]
