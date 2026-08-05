@@ -2088,5 +2088,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42411"
     }
+  },
+  {
+    "runNumber": "42412",
+    "rawCode": "MED",
+    "timestamp": "2026-08-05T14:34:46.592267-04:00",
+    "address": "200 Block Eastern Avenue",
+    "extra": {
+      "incidentNumber": "42412",
+      "run_id": "42412",
+      "address": "200 Block Eastern Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC2",
+      "units": "E01,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42412"
+    }
   }
 ]
