@@ -2902,5 +2902,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42449"
     }
+  },
+  {
+    "runNumber": "42448",
+    "rawCode": "MED",
+    "timestamp": "2026-08-05T18:19:22.548517-04:00",
+    "address": "1300 Block Bordeaux Drive",
+    "extra": {
+      "incidentNumber": "42448",
+      "run_id": "42448",
+      "address": "1300 Block Bordeaux Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42448"
+    }
   }
 ]
