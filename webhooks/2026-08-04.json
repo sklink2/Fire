@@ -3782,5 +3782,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-42300"
     }
+  },
+  {
+    "runNumber": "42299",
+    "rawCode": "FSTR",
+    "timestamp": "2026-08-04T21:19:59.059373-04:00",
+    "address": "3500 Laredo Drive",
+    "extra": {
+      "incidentNumber": "42299",
+      "run_id": "42299",
+      "address": "3500 Laredo Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E12,E15,E22,L02,L07,EC4,201,202,220,241,RS1",
+      "units": "E07,E12,E15,E22,L02,L07,EC4,201,202,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,202",
+      "dedupeKey": "INCIDENT-42299"
+    }
   }
 ]
