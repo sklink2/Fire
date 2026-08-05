@@ -2198,5 +2198,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42416"
     }
+  },
+  {
+    "runNumber": "42417",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-05T14:59:20.617959-04:00",
+    "address": "2544 Palumbo Drive",
+    "extra": {
+      "incidentNumber": "42417",
+      "run_id": "42417",
+      "address": "2544 Palumbo Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42417"
+    }
   }
 ]
