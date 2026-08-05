@@ -262,5 +262,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-42327"
     }
+  },
+  {
+    "runNumber": "42328",
+    "rawCode": "MED",
+    "timestamp": "2026-08-05T03:00:08.267041-04:00",
+    "address": "1900 Block Cambridge Drive",
+    "extra": {
+      "incidentNumber": "42328",
+      "run_id": "42328",
+      "address": "1900 Block Cambridge Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42328"
+    }
   }
 ]
