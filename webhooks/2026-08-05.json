@@ -1934,5 +1934,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42404"
     }
+  },
+  {
+    "runNumber": "42405",
+    "rawCode": "FSTR",
+    "timestamp": "2026-08-05T13:52:46.132519-04:00",
+    "address": "4121 Willow Lane",
+    "extra": {
+      "incidentNumber": "42405",
+      "run_id": "42405",
+      "address": "4121 Willow Lane",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E08,E13,E17,E21,E23,L03,L06,T1,EC3,EC6,201,203,205,220,RS1",
+      "units": "E02,E08,E13,E17,E21,E23,L03,L06,T1,EC3,EC6,201,203,205,220,RS1",
+      "unitCount": "16",
+      "primaryTopic": "FSTR",
+      "commandUnits": "220,201,203,205",
+      "dedupeKey": "INCIDENT-42405"
+    }
   }
 ]
