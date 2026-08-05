@@ -1978,5 +1978,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42408"
     }
+  },
+  {
+    "runNumber": "42407",
+    "rawCode": "MED",
+    "timestamp": "2026-08-05T13:56:15.837682-04:00",
+    "address": "300 Block Hermitage Drive",
+    "extra": {
+      "incidentNumber": "42407",
+      "run_id": "42407",
+      "address": "300 Block Hermitage Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42407"
+    }
   }
 ]
