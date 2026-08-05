@@ -3848,5 +3848,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42302"
     }
+  },
+  {
+    "runNumber": "42304",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-04T21:58:25.802581-04:00",
+    "address": "660 E Main Street",
+    "extra": {
+      "incidentNumber": "42304",
+      "run_id": "42304",
+      "address": "660 E Main Street",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E05,205",
+      "units": "E01,E05,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-42304"
+    }
   }
 ]
