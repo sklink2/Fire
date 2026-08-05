@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42392"
     }
+  },
+  {
+    "runNumber": "42396",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-05T13:10:36.026138-04:00",
+    "address": "E New Circle Road & E New Circle",
+    "extra": {
+      "incidentNumber": "42396",
+      "run_id": "42396",
+      "address": "E New Circle Road & E New Circle",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E17,E22,202",
+      "units": "E17,E22,202",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-42396"
+    }
   }
 ]
