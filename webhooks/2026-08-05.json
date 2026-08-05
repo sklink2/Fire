@@ -152,5 +152,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42322"
     }
+  },
+  {
+    "runNumber": "42324",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-05T01:49:55.666801-04:00",
+    "address": "115 Cisco Road",
+    "extra": {
+      "incidentNumber": "42324",
+      "run_id": "42324",
+      "address": "115 Cisco Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,L01",
+      "units": "E13,L01",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42324"
+    }
   }
 ]
