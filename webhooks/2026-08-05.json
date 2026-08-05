@@ -372,5 +372,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42332"
     }
+  },
+  {
+    "runNumber": "42333",
+    "rawCode": "MED",
+    "timestamp": "2026-08-05T05:06:24.712612-04:00",
+    "address": "100 Block S Locust Hill Drive",
+    "extra": {
+      "incidentNumber": "42333",
+      "run_id": "42333",
+      "address": "100 Block S Locust Hill Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42333"
+    }
   }
 ]
