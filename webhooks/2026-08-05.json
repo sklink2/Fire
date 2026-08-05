@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42387"
     }
+  },
+  {
+    "runNumber": "42389",
+    "rawCode": "MED",
+    "timestamp": "2026-08-05T12:53:02.651849-04:00",
+    "address": "400 Block Meadow Park",
+    "extra": {
+      "incidentNumber": "42389",
+      "run_id": "42389",
+      "address": "400 Block Meadow Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC2",
+      "units": "E01,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42389"
+    }
   }
 ]
