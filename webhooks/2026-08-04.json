@@ -3958,5 +3958,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42307"
     }
+  },
+  {
+    "runNumber": "42308",
+    "rawCode": "MED",
+    "timestamp": "2026-08-04T22:43:59.954778-04:00",
+    "address": "100 Block N Hanover Avenue",
+    "extra": {
+      "incidentNumber": "42308",
+      "run_id": "42308",
+      "address": "100 Block N Hanover Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05",
+      "units": "E05",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42308"
+    }
   }
 ]
