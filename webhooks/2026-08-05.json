@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42432"
     }
+  },
+  {
+    "runNumber": "42433",
+    "rawCode": "MED",
+    "timestamp": "2026-08-05T16:34:05.584644-04:00",
+    "address": "1800 Block Mercer Road",
+    "extra": {
+      "incidentNumber": "42433",
+      "run_id": "42433",
+      "address": "1800 Block Mercer Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC10",
+      "units": "E10,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42433"
+    }
   }
 ]
