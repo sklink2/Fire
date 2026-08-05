@@ -2726,5 +2726,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42440"
     }
+  },
+  {
+    "runNumber": "42439",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-08-05T17:23:18.166220-04:00",
+    "address": "3517 Colonnade Drive",
+    "extra": {
+      "incidentNumber": "42439",
+      "run_id": "42439",
+      "address": "3517 Colonnade Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,L07",
+      "units": "E16,L07",
+      "unitCount": "2",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42439"
+    }
   }
 ]
