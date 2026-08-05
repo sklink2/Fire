@@ -2506,5 +2506,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42431"
     }
+  },
+  {
+    "runNumber": "42430",
+    "rawCode": "MED",
+    "timestamp": "2026-08-05T16:23:36.992921-04:00",
+    "address": "400 Block W Second Street",
+    "extra": {
+      "incidentNumber": "42430",
+      "run_id": "42430",
+      "address": "400 Block W Second Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42430"
+    }
   }
 ]
