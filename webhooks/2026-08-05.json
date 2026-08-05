@@ -2110,5 +2110,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42412"
     }
+  },
+  {
+    "runNumber": "42415",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-05T14:48:50.215152-04:00",
+    "address": "156 Market Street",
+    "extra": {
+      "incidentNumber": "42415",
+      "run_id": "42415",
+      "address": "156 Market Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E06,L01,203",
+      "units": "E04,E06,L01,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-42415"
+    }
   }
 ]
