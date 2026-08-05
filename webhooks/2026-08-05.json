@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42426"
     }
+  },
+  {
+    "runNumber": "42428",
+    "rawCode": "FWTR",
+    "timestamp": "2026-08-05T16:06:03.926833-04:00",
+    "address": "Muir Station Road & Payson Stud",
+    "extra": {
+      "incidentNumber": "42428",
+      "run_id": "42428",
+      "address": "Muir Station Road & Payson Stud",
+      "rawType": "FWTR",
+      "typeCode": "FWTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E13,E19,L05,EC3,201,205",
+      "units": "E09,E13,E19,L05,EC3,201,205",
+      "unitCount": "7",
+      "primaryTopic": "FWTR",
+      "commandUnits": "201,205",
+      "dedupeKey": "INCIDENT-42428"
+    }
   }
 ]
