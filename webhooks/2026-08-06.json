@@ -2132,5 +2132,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42592"
     }
+  },
+  {
+    "runNumber": "42591",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T15:04:53.997863-04:00",
+    "address": "1200 Block Industry Road",
+    "extra": {
+      "incidentNumber": "42591",
+      "run_id": "42591",
+      "address": "1200 Block Industry Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC3,255",
+      "units": "EC3,255",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42591"
+    }
   }
 ]
