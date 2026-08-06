@@ -2726,5 +2726,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42618"
     }
+  },
+  {
+    "runNumber": "42619",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T17:53:14.415482-04:00",
+    "address": "1800 Block Endon Drive",
+    "extra": {
+      "incidentNumber": "42619",
+      "run_id": "42619",
+      "address": "1800 Block Endon Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42619"
+    }
   }
 ]
