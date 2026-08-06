@@ -1450,5 +1450,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42562"
     }
+  },
+  {
+    "runNumber": "42561",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T11:13:17.931606-04:00",
+    "address": "900 Block E New Circle Road",
+    "extra": {
+      "incidentNumber": "42561",
+      "run_id": "42561",
+      "address": "900 Block E New Circle Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC8",
+      "units": "E09,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42561"
+    }
   }
 ]
