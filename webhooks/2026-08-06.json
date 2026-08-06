@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42606"
     }
+  },
+  {
+    "runNumber": "42605",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-06T16:11:34.038725-04:00",
+    "address": "Healthy Kentucky Research Bldg",
+    "extra": {
+      "incidentNumber": "42605",
+      "run_id": "42605",
+      "address": "Healthy Kentucky Research Bldg",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,E11,L02,204",
+      "units": "E05,E06,E11,L02,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-42605"
+    }
   }
 ]
