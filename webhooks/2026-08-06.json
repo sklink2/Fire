@@ -2308,5 +2308,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42599"
     }
+  },
+  {
+    "runNumber": "42600",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T15:53:58.115423-04:00",
+    "address": "3000 Block River Run Trail",
+    "extra": {
+      "incidentNumber": "42600",
+      "run_id": "42600",
+      "address": "3000 Block River Run Trail",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC6,CRT1",
+      "units": "EC6,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42600"
+    }
   }
 ]
