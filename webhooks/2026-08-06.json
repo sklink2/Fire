@@ -1274,5 +1274,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-42552"
     }
+  },
+  {
+    "runNumber": "42553",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T10:13:36.066363-04:00",
+    "address": "2400 Block Buena Vista Road",
+    "extra": {
+      "incidentNumber": "42553",
+      "run_id": "42553",
+      "address": "2400 Block Buena Vista Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17",
+      "units": "E17",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42553"
+    }
   }
 ]
