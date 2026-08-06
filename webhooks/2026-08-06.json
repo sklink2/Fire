@@ -1560,5 +1560,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-42565"
     }
+  },
+  {
+    "runNumber": "42566",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-06T11:51:52.671442-04:00",
+    "address": "25 Mentelle Park",
+    "extra": {
+      "incidentNumber": "42566",
+      "run_id": "42566",
+      "address": "25 Mentelle Park",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E05,L02,204",
+      "units": "E01,E05,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-42566"
+    }
   }
 ]
