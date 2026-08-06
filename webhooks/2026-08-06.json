@@ -1296,5 +1296,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42553"
     }
+  },
+  {
+    "runNumber": "42555",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-06T10:24:09.248992-04:00",
+    "address": "417 Fayette Park",
+    "extra": {
+      "incidentNumber": "42555",
+      "run_id": "42555",
+      "address": "417 Fayette Park",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E06,L01,EC1,205",
+      "units": "E04,E06,L01,EC1,205",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-42555"
+    }
   }
 ]
