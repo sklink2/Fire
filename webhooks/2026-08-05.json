@@ -3540,5 +3540,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-42476"
     }
+  },
+  {
+    "runNumber": "42477",
+    "rawCode": "MED",
+    "timestamp": "2026-08-05T21:21:45.145717-04:00",
+    "address": "600 Block Cooper Drive",
+    "extra": {
+      "incidentNumber": "42477",
+      "run_id": "42477",
+      "address": "600 Block Cooper Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42477"
+    }
   }
 ]
