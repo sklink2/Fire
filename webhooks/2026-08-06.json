@@ -2660,5 +2660,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42615"
     }
+  },
+  {
+    "runNumber": "42616",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T17:32:12.376770-04:00",
+    "address": "1300 Block Nancy Hanks Road",
+    "extra": {
+      "incidentNumber": "42616",
+      "run_id": "42616",
+      "address": "1300 Block Nancy Hanks Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42616"
+    }
   }
 ]
