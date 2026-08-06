@@ -3650,5 +3650,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-42479"
     }
+  },
+  {
+    "runNumber": "42482",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-05T22:28:25.284545-04:00",
+    "address": "2064 Street Christopher Drive",
+    "extra": {
+      "incidentNumber": "42482",
+      "run_id": "42482",
+      "address": "2064 Street Christopher Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E09,L05,201",
+      "units": "E02,E09,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-42482"
+    }
   }
 ]
