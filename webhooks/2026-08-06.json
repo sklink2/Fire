@@ -1230,5 +1230,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42550"
     }
+  },
+  {
+    "runNumber": "42551",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T09:56:03.621354-04:00",
+    "address": "600 Block Triple Crown Parkway",
+    "extra": {
+      "incidentNumber": "42551",
+      "run_id": "42551",
+      "address": "600 Block Triple Crown Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42551"
+    }
   }
 ]
