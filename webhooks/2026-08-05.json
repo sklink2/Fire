@@ -3518,5 +3518,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42475"
     }
+  },
+  {
+    "runNumber": "42476",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-05T21:18:16.218028-04:00",
+    "address": "E New Circle Road & Bryan Statio",
+    "extra": {
+      "incidentNumber": "42476",
+      "run_id": "42476",
+      "address": "E New Circle Road & Bryan Statio",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC3,241",
+      "units": "E08,EC3,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-42476"
+    }
   }
 ]
