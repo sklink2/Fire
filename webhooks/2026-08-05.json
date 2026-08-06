@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42487"
     }
+  },
+  {
+    "runNumber": "42489",
+    "rawCode": "FMEA",
+    "timestamp": "2026-08-05T23:03:30.114622-04:00",
+    "address": "3970 Northampton Drive",
+    "extra": {
+      "incidentNumber": "42489",
+      "run_id": "42489",
+      "address": "3970 Northampton Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15",
+      "units": "E15",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42489"
+    }
   }
 ]
