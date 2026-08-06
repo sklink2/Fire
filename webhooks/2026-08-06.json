@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42609"
     }
+  },
+  {
+    "runNumber": "42610",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T16:32:32.746671-04:00",
+    "address": "6100 Block Winchester Road",
+    "extra": {
+      "incidentNumber": "42610",
+      "run_id": "42610",
+      "address": "6100 Block Winchester Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17,EC8",
+      "units": "E17,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42610"
+    }
   }
 ]
