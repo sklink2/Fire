@@ -328,5 +328,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42510"
     }
+  },
+  {
+    "runNumber": "42511",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T03:58:11.315450-04:00",
+    "address": "2600 Block Wilhite Drive",
+    "extra": {
+      "incidentNumber": "42511",
+      "run_id": "42511",
+      "address": "2600 Block Wilhite Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42511"
+    }
   }
 ]
