@@ -3914,5 +3914,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-42493"
     }
+  },
+  {
+    "runNumber": "42495",
+    "rawCode": "MED",
+    "timestamp": "2026-08-05T23:45:35.212718-04:00",
+    "address": "900 Block Delaware Avenue",
+    "extra": {
+      "incidentNumber": "42495",
+      "run_id": "42495",
+      "address": "900 Block Delaware Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42495"
+    }
   }
 ]
