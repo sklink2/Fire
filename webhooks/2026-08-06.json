@@ -2220,5 +2220,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-42595"
     }
+  },
+  {
+    "runNumber": "42597",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T15:25:54.564273-04:00",
+    "address": "2000 Block Cambridge Drive",
+    "extra": {
+      "incidentNumber": "42597",
+      "run_id": "42597",
+      "address": "2000 Block Cambridge Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42597"
+    }
   }
 ]
