@@ -3298,5 +3298,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42465"
     }
+  },
+  {
+    "runNumber": "42466",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-05T20:04:35.606293-04:00",
+    "address": "1704 Twain Ridge Drive",
+    "extra": {
+      "incidentNumber": "42466",
+      "run_id": "42466",
+      "address": "1704 Twain Ridge Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,E20,L04,204",
+      "units": "E15,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-42466"
+    }
   }
 ]
