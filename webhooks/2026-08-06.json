@@ -2088,5 +2088,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42588"
     }
+  },
+  {
+    "runNumber": "42590",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T15:01:20.598798-04:00",
+    "address": "3200 Block Keithshire Way",
+    "extra": {
+      "incidentNumber": "42590",
+      "run_id": "42590",
+      "address": "3200 Block Keithshire Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC12",
+      "units": "E15,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42590"
+    }
   }
 ]
