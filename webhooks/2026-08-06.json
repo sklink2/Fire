@@ -2418,5 +2418,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42604"
     }
+  },
+  {
+    "runNumber": "42606",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T16:11:29.958042-04:00",
+    "address": "3200 Block Richmond Road",
+    "extra": {
+      "incidentNumber": "42606",
+      "run_id": "42606",
+      "address": "3200 Block Richmond Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42606"
+    }
   }
 ]
