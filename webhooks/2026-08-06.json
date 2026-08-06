@@ -1890,5 +1890,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42581"
     }
+  },
+  {
+    "runNumber": "42580",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-06T14:01:48.967002-04:00",
+    "address": "1200 Red Mile Road",
+    "extra": {
+      "incidentNumber": "42580",
+      "run_id": "42580",
+      "address": "1200 Red Mile Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E11,L02,205,200",
+      "units": "E06,E11,L02,205,200",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "200,205",
+      "dedupeKey": "INCIDENT-42580"
+    }
   }
 ]
