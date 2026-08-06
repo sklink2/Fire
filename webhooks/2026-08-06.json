@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42610"
     }
+  },
+  {
+    "runNumber": "42611",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T16:36:04.176156-04:00",
+    "address": "3800 Block Nicholasville Road",
+    "extra": {
+      "incidentNumber": "42611",
+      "run_id": "42611",
+      "address": "3800 Block Nicholasville Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42611"
+    }
   }
 ]
