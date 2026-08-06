@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42511"
     }
+  },
+  {
+    "runNumber": "42512",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-08-06T04:19:15.283728-04:00",
+    "address": "2117 Ladera Lane",
+    "extra": {
+      "incidentNumber": "42512",
+      "run_id": "42512",
+      "address": "2117 Ladera Lane",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42512"
+    }
   }
 ]
