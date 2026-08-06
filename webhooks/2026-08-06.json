@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42529"
     }
+  },
+  {
+    "runNumber": "42531",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T07:25:13.990948-04:00",
+    "address": "N Mill Street & W Short Street",
+    "extra": {
+      "incidentNumber": "42531",
+      "run_id": "42531",
+      "address": "N Mill Street & W Short Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42531"
+    }
   }
 ]
