@@ -526,5 +526,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42519"
     }
+  },
+  {
+    "runNumber": "42520",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T05:46:58.291866-04:00",
+    "address": "3700 Block Appian Way",
+    "extra": {
+      "incidentNumber": "42520",
+      "run_id": "42520",
+      "address": "3700 Block Appian Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42520"
+    }
   }
 ]
