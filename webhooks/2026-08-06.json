@@ -2374,5 +2374,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42601"
     }
+  },
+  {
+    "runNumber": "42603",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T16:00:58.813406-04:00",
+    "address": "3600 Block Nicholasville Road",
+    "extra": {
+      "incidentNumber": "42603",
+      "run_id": "42603",
+      "address": "3600 Block Nicholasville Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42603"
+    }
   }
 ]
