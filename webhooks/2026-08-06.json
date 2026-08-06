@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42575"
     }
+  },
+  {
+    "runNumber": "42576",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-08-06T13:40:38.866672-04:00",
+    "address": "1587 Kirk Court",
+    "extra": {
+      "incidentNumber": "42576",
+      "run_id": "42576",
+      "address": "1587 Kirk Court",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10",
+      "units": "E10",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42576"
+    }
   }
 ]
