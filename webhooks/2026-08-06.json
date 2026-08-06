@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42625"
     }
+  },
+  {
+    "runNumber": "42626",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T18:24:49.462749-04:00",
+    "address": "700 Block Chiles Avenue",
+    "extra": {
+      "incidentNumber": "42626",
+      "run_id": "42626",
+      "address": "700 Block Chiles Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42626"
+    }
   }
 ]
