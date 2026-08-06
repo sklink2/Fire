@@ -1714,5 +1714,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42572"
     }
+  },
+  {
+    "runNumber": "42573",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T13:16:04.407877-04:00",
+    "address": "100 Block Londonderry Drive",
+    "extra": {
+      "incidentNumber": "42573",
+      "run_id": "42573",
+      "address": "100 Block Londonderry Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42573"
+    }
   }
 ]
