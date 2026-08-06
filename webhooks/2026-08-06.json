@@ -922,5 +922,27 @@
       "commandUnits": "241,204",
       "dedupeKey": "INCIDENT-42536"
     }
+  },
+  {
+    "runNumber": "42537",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T08:00:16.804449-04:00",
+    "address": "300 Block Elm Tree Lane",
+    "extra": {
+      "incidentNumber": "42537",
+      "run_id": "42537",
+      "address": "300 Block Elm Tree Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42537"
+    }
   }
 ]
