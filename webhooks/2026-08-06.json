@@ -1802,5 +1802,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42576"
     }
+  },
+  {
+    "runNumber": "42578",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-06T13:44:09.702970-04:00",
+    "address": "6300 Cedarcreek Lane",
+    "extra": {
+      "incidentNumber": "42578",
+      "run_id": "42578",
+      "address": "6300 Cedarcreek Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E18,L06,202",
+      "units": "E09,E18,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-42578"
+    }
   }
 ]
