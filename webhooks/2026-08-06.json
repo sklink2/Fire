@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42527"
     }
+  },
+  {
+    "runNumber": "42528",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T07:14:42.228434-04:00",
+    "address": "3500 Block Crosby Drive",
+    "extra": {
+      "incidentNumber": "42528",
+      "run_id": "42528",
+      "address": "3500 Block Crosby Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,EC4,CRT1",
+      "units": "E16,EC4,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42528"
+    }
   }
 ]
