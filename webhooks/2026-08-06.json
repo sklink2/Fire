@@ -2946,5 +2946,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42628"
     }
+  },
+  {
+    "runNumber": "42630",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T19:03:24.360261-04:00",
+    "address": "500 Block Henry Clay Boulevard",
+    "extra": {
+      "incidentNumber": "42630",
+      "run_id": "42630",
+      "address": "500 Block Henry Clay Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42630"
+    }
   }
 ]
