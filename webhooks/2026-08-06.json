@@ -2814,5 +2814,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42623"
     }
+  },
+  {
+    "runNumber": "42622",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-06T18:07:18.889676-04:00",
+    "address": "368 Rose Street",
+    "extra": {
+      "incidentNumber": "42622",
+      "run_id": "42622",
+      "address": "368 Rose Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,EC7",
+      "units": "E05,EC7",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42622"
+    }
   }
 ]
