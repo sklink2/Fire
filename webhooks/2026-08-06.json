@@ -438,5 +438,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42516"
     }
+  },
+  {
+    "runNumber": "42515",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T04:47:21.990815-04:00",
+    "address": "100 Block Fairdale Drive",
+    "extra": {
+      "incidentNumber": "42515",
+      "run_id": "42515",
+      "address": "100 Block Fairdale Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42515"
+    }
   }
 ]
