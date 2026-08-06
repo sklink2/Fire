@@ -3100,5 +3100,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42635"
     }
+  },
+  {
+    "runNumber": "42636",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T19:52:29.822056-04:00",
+    "address": "2400 Block Pierson Drive",
+    "extra": {
+      "incidentNumber": "42636",
+      "run_id": "42636",
+      "address": "2400 Block Pierson Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E19,EC8",
+      "units": "E19,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42636"
+    }
   }
 ]
