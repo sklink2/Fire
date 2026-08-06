@@ -1252,5 +1252,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42551"
     }
+  },
+  {
+    "runNumber": "42552",
+    "rawCode": "FMIS",
+    "timestamp": "2026-08-06T10:10:08.025619-04:00",
+    "address": "3220 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "42552",
+      "run_id": "42552",
+      "address": "3220 Nicholasville Road",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,204",
+      "units": "E15,204",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-42552"
+    }
   }
 ]
