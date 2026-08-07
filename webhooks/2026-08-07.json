@@ -2088,5 +2088,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42767"
     }
+  },
+  {
+    "runNumber": "42768",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T12:28:50.098243-04:00",
+    "address": "100 Block Glass Avenue",
+    "extra": {
+      "incidentNumber": "42768",
+      "run_id": "42768",
+      "address": "100 Block Glass Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC10",
+      "units": "E02,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42768"
+    }
   }
 ]
