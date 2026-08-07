@@ -2660,5 +2660,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42791"
     }
+  },
+  {
+    "runNumber": "42783",
+    "rawCode": "FROP",
+    "timestamp": "2026-08-07T14:03:45.887284-04:00",
+    "address": "Raven Creek Court & Raven Creek D",
+    "extra": {
+      "incidentNumber": "42783",
+      "run_id": "42783",
+      "address": "Raven Creek Court & Raven Creek D",
+      "rawType": "FROP",
+      "typeCode": "FROP",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E12,E16,E18,L06,EC11,202,RS1",
+      "units": "E09,E12,E16,E18,L06,EC11,202,RS1",
+      "unitCount": "8",
+      "primaryTopic": "FROP",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-42783"
+    }
   }
 ]
