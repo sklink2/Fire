@@ -2594,5 +2594,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42790"
     }
+  },
+  {
+    "runNumber": "42793",
+    "rawCode": "FVIS",
+    "timestamp": "2026-08-07T14:03:34.307287-04:00",
+    "address": "1920 Stanton Way",
+    "extra": {
+      "incidentNumber": "42793",
+      "run_id": "42793",
+      "address": "1920 Stanton Way",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E13,L03,EC6,203",
+      "units": "E04,E13,L03,EC6,203",
+      "unitCount": "5",
+      "primaryTopic": "FVIS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-42793"
+    }
   }
 ]
