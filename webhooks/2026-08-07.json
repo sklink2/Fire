@@ -1164,5 +1164,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-42723"
     }
+  },
+  {
+    "runNumber": "42724",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T07:27:06.506993-04:00",
+    "address": "Old Frankfort Pike & Jimmie Ca",
+    "extra": {
+      "incidentNumber": "42724",
+      "run_id": "42724",
+      "address": "Old Frankfort Pike & Jimmie Ca",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13",
+      "units": "E13",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42724"
+    }
   }
 ]
