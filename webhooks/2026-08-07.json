@@ -1252,5 +1252,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-42727"
     }
+  },
+  {
+    "runNumber": "42728",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T08:05:41.838953-04:00",
+    "address": "4500 Block Hartland Parkway",
+    "extra": {
+      "incidentNumber": "42728",
+      "run_id": "42728",
+      "address": "4500 Block Hartland Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC4",
+      "units": "E22,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42728"
+    }
   }
 ]
