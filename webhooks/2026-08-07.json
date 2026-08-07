@@ -3100,5 +3100,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42814"
     }
+  },
+  {
+    "runNumber": "42813",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-07T15:03:14.237363-04:00",
+    "address": "2209 Richmond Road",
+    "extra": {
+      "incidentNumber": "42813",
+      "run_id": "42813",
+      "address": "2209 Richmond Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L02,EC2",
+      "units": "L02,EC2",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42813"
+    }
   }
 ]
