@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42760"
     }
+  },
+  {
+    "runNumber": "42763",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T12:00:46.744575-04:00",
+    "address": "Henry Street & W Third Street",
+    "extra": {
+      "incidentNumber": "42763",
+      "run_id": "42763",
+      "address": "Henry Street & W Third Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10",
+      "units": "E10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42763"
+    }
   }
 ]
