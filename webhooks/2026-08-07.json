@@ -3694,5 +3694,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42839"
     }
+  },
+  {
+    "runNumber": "42840",
+    "rawCode": "FELS",
+    "timestamp": "2026-08-07T16:27:22.994793-04:00",
+    "address": "751 Rose Street",
+    "extra": {
+      "incidentNumber": "42840",
+      "run_id": "42840",
+      "address": "751 Rose Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,L01,203",
+      "units": "E13,L01,203",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-42840"
+    }
   }
 ]
