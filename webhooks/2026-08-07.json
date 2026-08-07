@@ -3364,5 +3364,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42823"
     }
+  },
+  {
+    "runNumber": "42827",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-07T15:41:47.520122-04:00",
+    "address": "343 Burley Avenue",
+    "extra": {
+      "incidentNumber": "42827",
+      "run_id": "42827",
+      "address": "343 Burley Avenue",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E11,L04,EC9,204",
+      "units": "E06,E11,L04,EC9,204",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-42827"
+    }
   }
 ]
