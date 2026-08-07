@@ -3386,5 +3386,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-42827"
     }
+  },
+  {
+    "runNumber": "42826",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T15:41:52.227751-04:00",
+    "address": "300 Block Eastin Road",
+    "extra": {
+      "incidentNumber": "42826",
+      "run_id": "42826",
+      "address": "300 Block Eastin Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC3",
+      "units": "E02,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42826"
+    }
   }
 ]
