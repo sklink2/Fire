@@ -1846,5 +1846,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42756"
     }
+  },
+  {
+    "runNumber": "42758",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T11:32:42.236311-04:00",
+    "address": "800 Block Marcellus Drive",
+    "extra": {
+      "incidentNumber": "42758",
+      "run_id": "42758",
+      "address": "800 Block Marcellus Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42758"
+    }
   }
 ]
