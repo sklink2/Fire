@@ -3716,5 +3716,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42664"
     }
+  },
+  {
+    "runNumber": "42665",
+    "rawCode": "FMIS",
+    "timestamp": "2026-08-06T23:30:02.011524-04:00",
+    "address": "4525 Graves Drive",
+    "extra": {
+      "incidentNumber": "42665",
+      "run_id": "42665",
+      "address": "4525 Graves Drive",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,202",
+      "units": "E15,202",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-42665"
+    }
   }
 ]
