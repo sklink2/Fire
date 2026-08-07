@@ -3496,5 +3496,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-42654"
     }
+  },
+  {
+    "runNumber": "42655",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-08-06T22:05:49.960206-04:00",
+    "address": "1555 Eastland Parkway",
+    "extra": {
+      "incidentNumber": "42655",
+      "run_id": "42655",
+      "address": "1555 Eastland Parkway",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02",
+      "units": "E02",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42655"
+    }
   }
 ]
