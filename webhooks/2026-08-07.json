@@ -284,5 +284,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42682"
     }
+  },
+  {
+    "runNumber": "42685",
+    "rawCode": "FSCU",
+    "timestamp": "2026-08-07T01:08:13.484983-04:00",
+    "address": "2301 Paris Pike",
+    "extra": {
+      "incidentNumber": "42685",
+      "run_id": "42685",
+      "address": "2301 Paris Pike",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "FSCU",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42685"
+    }
   }
 ]
