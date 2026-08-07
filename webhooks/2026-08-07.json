@@ -2022,5 +2022,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42765"
     }
+  },
+  {
+    "runNumber": "42764",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-07T12:07:52.501977-04:00",
+    "address": "800 Rose Street",
+    "extra": {
+      "incidentNumber": "42764",
+      "run_id": "42764",
+      "address": "800 Rose Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,L02,205",
+      "units": "E06,L02,205",
+      "unitCount": "3",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-42764"
+    }
   }
 ]
