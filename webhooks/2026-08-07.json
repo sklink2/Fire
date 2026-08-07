@@ -1802,5 +1802,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42755"
     }
+  },
+  {
+    "runNumber": "42754",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T11:15:13.187475-04:00",
+    "address": "400 Block W Sixth Street",
+    "extra": {
+      "incidentNumber": "42754",
+      "run_id": "42754",
+      "address": "400 Block W Sixth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42754"
+    }
   }
 ]
