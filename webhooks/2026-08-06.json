@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42656"
     }
+  },
+  {
+    "runNumber": "42657",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-06T22:33:58.324371-04:00",
+    "address": "75 Sb / 98.2 Mm",
+    "extra": {
+      "incidentNumber": "42657",
+      "run_id": "42657",
+      "address": "75 Sb / 98.2 Mm",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E18,L06,EC11,201,241,RS1",
+      "units": "E18,L06,EC11,201,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-42657"
+    }
   }
 ]
