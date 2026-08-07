@@ -2858,5 +2858,27 @@
       "commandUnits": "220,205",
       "dedupeKey": "INCIDENT-42801"
     }
+  },
+  {
+    "runNumber": "42802",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T14:28:05.486081-04:00",
+    "address": "1800 Block Oxford Circle",
+    "extra": {
+      "incidentNumber": "42802",
+      "run_id": "42802",
+      "address": "1800 Block Oxford Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42802"
+    }
   }
 ]
