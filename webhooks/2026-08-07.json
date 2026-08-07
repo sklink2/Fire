@@ -526,5 +526,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42695"
     }
+  },
+  {
+    "runNumber": "42697",
+    "rawCode": "FMEA",
+    "timestamp": "2026-08-07T01:53:48.489056-04:00",
+    "address": "301 Blueberry Road",
+    "extra": {
+      "incidentNumber": "42697",
+      "run_id": "42697",
+      "address": "301 Blueberry Road",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12",
+      "units": "E12",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42697"
+    }
   }
 ]
