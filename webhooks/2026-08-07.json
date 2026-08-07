@@ -790,5 +790,27 @@
       "commandUnits": "241,201",
       "dedupeKey": "INCIDENT-42706"
     }
+  },
+  {
+    "runNumber": "42707",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T04:14:07.091016-04:00",
+    "address": "700 Block Longwood Road",
+    "extra": {
+      "incidentNumber": "42707",
+      "run_id": "42707",
+      "address": "700 Block Longwood Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC9",
+      "units": "E20,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42707"
+    }
   }
 ]
