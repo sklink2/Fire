@@ -2242,5 +2242,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42774"
     }
+  },
+  {
+    "runNumber": "42778",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T13:07:24.424860-04:00",
+    "address": "5800 Block Tates Creek Road",
+    "extra": {
+      "incidentNumber": "42778",
+      "run_id": "42778",
+      "address": "5800 Block Tates Creek Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC13",
+      "units": "E22,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42778"
+    }
   }
 ]
