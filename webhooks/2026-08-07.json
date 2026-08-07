@@ -240,5 +240,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42684"
     }
+  },
+  {
+    "runNumber": "42683",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-07T01:01:16.688492-04:00",
+    "address": "4390 Clearwater Way",
+    "extra": {
+      "incidentNumber": "42683",
+      "run_id": "42683",
+      "address": "4390 Clearwater Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,E22,L07,202",
+      "units": "E16,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-42683"
+    }
   }
 ]
