@@ -3386,5 +3386,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42650"
     }
+  },
+  {
+    "runNumber": "42649",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T21:13:14.586699-04:00",
+    "address": "600 Block Lima Drive",
+    "extra": {
+      "incidentNumber": "42649",
+      "run_id": "42649",
+      "address": "600 Block Lima Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42649"
+    }
   }
 ]
