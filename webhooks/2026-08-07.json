@@ -3562,5 +3562,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42833"
     }
+  },
+  {
+    "runNumber": "42836",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T16:13:19.693933-04:00",
+    "address": "2400 Block Fortune Drive",
+    "extra": {
+      "incidentNumber": "42836",
+      "run_id": "42836",
+      "address": "2400 Block Fortune Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42836"
+    }
   }
 ]
