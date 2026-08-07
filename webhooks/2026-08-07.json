@@ -2110,5 +2110,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42768"
     }
+  },
+  {
+    "runNumber": "42769",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-07T12:39:23.438103-04:00",
+    "address": "4101 Tates Creek Centre Drive",
+    "extra": {
+      "incidentNumber": "42769",
+      "run_id": "42769",
+      "address": "4101 Tates Creek Centre Drive",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,L07,EC13,204,241,RS1",
+      "units": "E22,L07,EC13,204,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,204",
+      "dedupeKey": "INCIDENT-42769"
+    }
   }
 ]
