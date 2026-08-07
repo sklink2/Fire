@@ -130,5 +130,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42678"
     }
+  },
+  {
+    "runNumber": "42677",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-08-07T00:50:42.763610-04:00",
+    "address": "208 Lakeshore Drive",
+    "extra": {
+      "incidentNumber": "42677",
+      "run_id": "42677",
+      "address": "208 Lakeshore Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09",
+      "units": "E09",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42677"
+    }
   }
 ]
