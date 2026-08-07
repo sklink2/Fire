@@ -3760,5 +3760,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42666"
     }
+  },
+  {
+    "runNumber": "42668",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T23:47:34.703974-04:00",
+    "address": "1500 Block Grant Drive",
+    "extra": {
+      "incidentNumber": "42668",
+      "run_id": "42668",
+      "address": "1500 Block Grant Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC6,241",
+      "units": "E08,EC6,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-42668"
+    }
   }
 ]
