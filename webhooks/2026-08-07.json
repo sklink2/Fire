@@ -3408,5 +3408,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42826"
     }
+  },
+  {
+    "runNumber": "42823",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-07T15:41:58.631462-04:00",
+    "address": "Paris Pike & Iron Works Pike",
+    "extra": {
+      "incidentNumber": "42823",
+      "run_id": "42823",
+      "address": "Paris Pike & Iron Works Pike",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E19,L03,EC6,201,241,RS1",
+      "units": "E08,E19,L03,EC6,201,241,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-42823"
+    }
   }
 ]
