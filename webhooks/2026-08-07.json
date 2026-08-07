@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42713"
     }
+  },
+  {
+    "runNumber": "42714",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T05:41:50.546983-04:00",
+    "address": "900 Block Ward Drive",
+    "extra": {
+      "incidentNumber": "42714",
+      "run_id": "42714",
+      "address": "900 Block Ward Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42714"
+    }
   }
 ]
