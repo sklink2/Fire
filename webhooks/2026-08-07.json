@@ -4222,5 +4222,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42862"
     }
+  },
+  {
+    "runNumber": "42861",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T18:16:16.009347-04:00",
+    "address": "4000 Block Foxe Basin Road",
+    "extra": {
+      "incidentNumber": "42861",
+      "run_id": "42861",
+      "address": "4000 Block Foxe Basin Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC4",
+      "units": "E15,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42861"
+    }
   }
 ]
