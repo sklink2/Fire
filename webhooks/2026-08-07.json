@@ -1230,5 +1230,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42726"
     }
+  },
+  {
+    "runNumber": "42727",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-07T08:02:11.544879-04:00",
+    "address": "411 Pennsylvania Court",
+    "extra": {
+      "incidentNumber": "42727",
+      "run_id": "42727",
+      "address": "411 Pennsylvania Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E06,L02,205",
+      "units": "E05,E06,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-42727"
+    }
   }
 ]
