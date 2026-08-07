@@ -1142,5 +1142,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42722"
     }
+  },
+  {
+    "runNumber": "42723",
+    "rawCode": "FELS",
+    "timestamp": "2026-08-07T07:23:37.780892-04:00",
+    "address": "150 N Eagle Creek Drive",
+    "extra": {
+      "incidentNumber": "42723",
+      "run_id": "42723",
+      "address": "150 N Eagle Creek Drive",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,L06,202",
+      "units": "E09,L06,202",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-42723"
+    }
   }
 ]
