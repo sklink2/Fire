@@ -746,5 +746,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42703"
     }
+  },
+  {
+    "runNumber": "42705",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T03:46:03.617706-04:00",
+    "address": "3800 Block Dicksonia Drive",
+    "extra": {
+      "incidentNumber": "42705",
+      "run_id": "42705",
+      "address": "3800 Block Dicksonia Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC4",
+      "units": "E22,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42705"
+    }
   }
 ]
