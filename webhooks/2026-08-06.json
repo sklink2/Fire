@@ -3430,5 +3430,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42651"
     }
+  },
+  {
+    "runNumber": "42652",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T21:34:13.626215-04:00",
+    "address": "800 Block Whitney Avenue",
+    "extra": {
+      "incidentNumber": "42652",
+      "run_id": "42652",
+      "address": "800 Block Whitney Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,EC7",
+      "units": "E10,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42652"
+    }
   }
 ]
