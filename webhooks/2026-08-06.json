@@ -3562,5 +3562,27 @@
       "commandUnits": "241,201",
       "dedupeKey": "INCIDENT-42657"
     }
+  },
+  {
+    "runNumber": "42659",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T22:44:24.239831-04:00",
+    "address": "2700 Block Magnolia Springs Drive",
+    "extra": {
+      "incidentNumber": "42659",
+      "run_id": "42659",
+      "address": "2700 Block Magnolia Springs Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42659"
+    }
   }
 ]
