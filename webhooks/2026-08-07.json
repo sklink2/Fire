@@ -2462,5 +2462,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42785"
     }
+  },
+  {
+    "runNumber": "42784",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T13:35:36.058468-04:00",
+    "address": "700 Block Jackson Street",
+    "extra": {
+      "incidentNumber": "42784",
+      "run_id": "42784",
+      "address": "700 Block Jackson Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC3",
+      "units": "E01,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42784"
+    }
   }
 ]
