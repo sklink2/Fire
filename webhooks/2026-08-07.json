@@ -86,5 +86,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42676"
     }
+  },
+  {
+    "runNumber": "42675",
+    "rawCode": "FSMO",
+    "timestamp": "2026-08-07T00:36:43.132625-04:00",
+    "address": "647 Chyleen Court",
+    "extra": {
+      "incidentNumber": "42675",
+      "run_id": "42675",
+      "address": "647 Chyleen Court",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E19,L03,EC3,201",
+      "units": "E08,E19,L03,EC3,201",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-42675"
+    }
   }
 ]
