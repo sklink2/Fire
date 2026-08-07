@@ -4420,5 +4420,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42871"
     }
+  },
+  {
+    "runNumber": "42872",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T19:47:21.504551-04:00",
+    "address": "3400 Block Dixiana Drive",
+    "extra": {
+      "incidentNumber": "42872",
+      "run_id": "42872",
+      "address": "3400 Block Dixiana Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42872"
+    }
   }
 ]
