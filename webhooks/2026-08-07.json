@@ -2374,5 +2374,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42779"
     }
+  },
+  {
+    "runNumber": "42781",
+    "rawCode": "FELS",
+    "timestamp": "2026-08-07T13:17:57.856477-04:00",
+    "address": "720 Woodland Avenue",
+    "extra": {
+      "incidentNumber": "42781",
+      "run_id": "42781",
+      "address": "720 Woodland Avenue",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L02,204,RS1",
+      "units": "L02,204,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-42781"
+    }
   }
 ]
