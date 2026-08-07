@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42800"
     }
+  },
+  {
+    "runNumber": "42799",
+    "rawCode": "FFIA",
+    "timestamp": "2026-08-07T14:10:37.760516-04:00",
+    "address": "3600 Winthrop Drive",
+    "extra": {
+      "incidentNumber": "42799",
+      "run_id": "42799",
+      "address": "3600 Winthrop Drive",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,E20,L04,EC22,204",
+      "units": "E15,E20,L04,EC22,204",
+      "unitCount": "5",
+      "primaryTopic": "FFIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-42799"
+    }
   }
 ]
