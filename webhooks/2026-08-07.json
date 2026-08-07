@@ -3276,5 +3276,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42821"
     }
+  },
+  {
+    "runNumber": "42822",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T15:27:43.176371-04:00",
+    "address": "W Second Street & Old Georgetown S",
+    "extra": {
+      "incidentNumber": "42822",
+      "run_id": "42822",
+      "address": "W Second Street & Old Georgetown S",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,EC10",
+      "units": "E04,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42822"
+    }
   }
 ]
