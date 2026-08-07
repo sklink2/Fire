@@ -1274,5 +1274,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42728"
     }
+  },
+  {
+    "runNumber": "42729",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T08:09:13.060512-04:00",
+    "address": "Old Main Street & Thompson Road",
+    "extra": {
+      "incidentNumber": "42729",
+      "run_id": "42729",
+      "address": "Old Main Street & Thompson Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13",
+      "units": "E13",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42729"
+    }
   }
 ]
