@@ -1978,5 +1978,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42763"
     }
+  },
+  {
+    "runNumber": "42762",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T12:00:49.231816-04:00",
+    "address": "200 Block Cassidy Avenue",
+    "extra": {
+      "incidentNumber": "42762",
+      "run_id": "42762",
+      "address": "200 Block Cassidy Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC10,CRT1",
+      "units": "E05,EC10,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42762"
+    }
   }
 ]
