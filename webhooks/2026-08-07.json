@@ -636,5 +636,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42699"
     }
+  },
+  {
+    "runNumber": "42700",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T03:25:01.120752-04:00",
+    "address": "1600 Block Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "42700",
+      "run_id": "42700",
+      "address": "1600 Block Harrodsburg Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42700"
+    }
   }
 ]
