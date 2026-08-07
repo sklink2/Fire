@@ -3826,5 +3826,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42845"
     }
+  },
+  {
+    "runNumber": "42846",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T16:58:59.057011-04:00",
+    "address": "1400 Block Deer Lake Circle",
+    "extra": {
+      "incidentNumber": "42846",
+      "run_id": "42846",
+      "address": "1400 Block Deer Lake Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC7",
+      "units": "E16,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42846"
+    }
   }
 ]
