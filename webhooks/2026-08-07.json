@@ -3760,5 +3760,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42841"
     }
+  },
+  {
+    "runNumber": "42843",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T16:37:53.141829-04:00",
+    "address": "900 Block Beaumont Centre Parkway",
+    "extra": {
+      "incidentNumber": "42843",
+      "run_id": "42843",
+      "address": "900 Block Beaumont Centre Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,EC5",
+      "units": "E11,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42843"
+    }
   }
 ]
