@@ -3584,5 +3584,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42836"
     }
+  },
+  {
+    "runNumber": "42835",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-07T16:13:25.153576-04:00",
+    "address": "2514 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "42835",
+      "run_id": "42835",
+      "address": "2514 Nicholasville Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,L02,L07,EC13,204,241",
+      "units": "E12,L02,L07,EC13,204,241",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,204",
+      "dedupeKey": "INCIDENT-42835"
+    }
   }
 ]
