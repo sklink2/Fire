@@ -2836,5 +2836,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42798"
     }
+  },
+  {
+    "runNumber": "42801",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-07T14:14:07.253650-04:00",
+    "address": "230 Plaza Drive",
+    "extra": {
+      "incidentNumber": "42801",
+      "run_id": "42801",
+      "address": "230 Plaza Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E11,L02,EC22,205,220",
+      "units": "E06,E11,L02,EC22,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-42801"
+    }
   }
 ]
