@@ -1362,5 +1362,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-42732"
     }
+  },
+  {
+    "runNumber": "42733",
+    "rawCode": "FBGL",
+    "timestamp": "2026-08-07T08:37:17.656894-04:00",
+    "address": "115 Cisco Road",
+    "extra": {
+      "incidentNumber": "42733",
+      "run_id": "42733",
+      "address": "115 Cisco Road",
+      "rawType": "FBGL",
+      "typeCode": "FBGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24",
+      "units": "E24",
+      "unitCount": "1",
+      "primaryTopic": "FBGL",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42733"
+    }
   }
 ]
