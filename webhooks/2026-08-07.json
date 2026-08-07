@@ -3496,5 +3496,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42830"
     }
+  },
+  {
+    "runNumber": "42832",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-07T16:06:20.353862-04:00",
+    "address": "3152 Chatham Drive",
+    "extra": {
+      "incidentNumber": "42832",
+      "run_id": "42832",
+      "address": "3152 Chatham Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E15,L04,204",
+      "units": "E11,E15,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-42832"
+    }
   }
 ]
