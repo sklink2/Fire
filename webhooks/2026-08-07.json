@@ -262,5 +262,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-42683"
     }
+  },
+  {
+    "runNumber": "42682",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-08-07T01:01:20.398725-04:00",
+    "address": "301 Blueberry Road",
+    "extra": {
+      "incidentNumber": "42682",
+      "run_id": "42682",
+      "address": "301 Blueberry Road",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12",
+      "units": "E12",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42682"
+    }
   }
 ]
