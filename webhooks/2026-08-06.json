@@ -3364,5 +3364,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42647"
     }
+  },
+  {
+    "runNumber": "42650",
+    "rawCode": "MED",
+    "timestamp": "2026-08-06T21:13:12.302035-04:00",
+    "address": "S Broadway & W Maxwell Street",
+    "extra": {
+      "incidentNumber": "42650",
+      "run_id": "42650",
+      "address": "S Broadway & W Maxwell Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "RS1",
+      "units": "RS1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42650"
+    }
   }
 ]
