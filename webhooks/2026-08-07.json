@@ -3210,5 +3210,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42819"
     }
+  },
+  {
+    "runNumber": "42818",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T15:13:44.892490-04:00",
+    "address": "100 Block Old Georgetown Street",
+    "extra": {
+      "incidentNumber": "42818",
+      "run_id": "42818",
+      "address": "100 Block Old Georgetown Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13",
+      "units": "E13",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42818"
+    }
   }
 ]
