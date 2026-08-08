@@ -2308,5 +2308,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43005"
     }
+  },
+  {
+    "runNumber": "43004",
+    "rawCode": "FLOI",
+    "timestamp": "2026-08-08T14:58:14.230965-04:00",
+    "address": "145 Old Cassidy Avenue",
+    "extra": {
+      "incidentNumber": "43004",
+      "run_id": "43004",
+      "address": "145 Old Cassidy Avenue",
+      "rawType": "FLOI",
+      "typeCode": "FLOI",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L02",
+      "units": "L02",
+      "unitCount": "1",
+      "primaryTopic": "FLOI",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43004"
+    }
   }
 ]
