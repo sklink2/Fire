@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42943"
     }
+  },
+  {
+    "runNumber": "42944",
+    "rawCode": "MED",
+    "timestamp": "2026-08-08T07:22:03.045336-04:00",
+    "address": "100 Block Henton Road",
+    "extra": {
+      "incidentNumber": "42944",
+      "run_id": "42944",
+      "address": "100 Block Henton Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13",
+      "units": "E13",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42944"
+    }
   }
 ]
