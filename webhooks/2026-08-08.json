@@ -1450,5 +1450,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42965"
     }
+  },
+  {
+    "runNumber": "42967",
+    "rawCode": "MED",
+    "timestamp": "2026-08-08T09:42:26.517967-04:00",
+    "address": "1000 Block Old Wood Court",
+    "extra": {
+      "incidentNumber": "42967",
+      "run_id": "42967",
+      "address": "1000 Block Old Wood Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E22,EC13",
+      "units": "E22,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42967"
+    }
   }
 ]
