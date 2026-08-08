@@ -4508,5 +4508,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-42876"
     }
+  },
+  {
+    "runNumber": "42875",
+    "rawCode": "FWID",
+    "timestamp": "2026-08-07T20:12:00.719577-04:00",
+    "address": "Wilson Downing Road & Belleau Wo",
+    "extra": {
+      "incidentNumber": "42875",
+      "run_id": "42875",
+      "address": "Wilson Downing Road & Belleau Wo",
+      "rawType": "FWID",
+      "typeCode": "FWID",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L07,241",
+      "units": "L07,241",
+      "unitCount": "2",
+      "primaryTopic": "FWID",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-42875"
+    }
   }
 ]
