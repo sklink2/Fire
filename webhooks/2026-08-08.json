@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43026"
     }
+  },
+  {
+    "runNumber": "43027",
+    "rawCode": "MED",
+    "timestamp": "2026-08-08T16:22:22.698357-04:00",
+    "address": "700 Block Whitney Woods Place",
+    "extra": {
+      "incidentNumber": "43027",
+      "run_id": "43027",
+      "address": "700 Block Whitney Woods Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC10",
+      "units": "E14,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43027"
+    }
   }
 ]
