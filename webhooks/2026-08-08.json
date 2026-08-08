@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42931"
     }
+  },
+  {
+    "runNumber": "42932",
+    "rawCode": "MED",
+    "timestamp": "2026-08-08T04:51:12.686300-04:00",
+    "address": "300 Block Cedar Mill Circle",
+    "extra": {
+      "incidentNumber": "42932",
+      "run_id": "42932",
+      "address": "300 Block Cedar Mill Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42932"
+    }
   }
 ]
