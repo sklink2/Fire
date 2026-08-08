@@ -4926,5 +4926,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42894"
     }
+  },
+  {
+    "runNumber": "42895",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-07T22:56:50.168153-04:00",
+    "address": "1005 Tanbark Road",
+    "extra": {
+      "incidentNumber": "42895",
+      "run_id": "42895",
+      "address": "1005 Tanbark Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E22,L07,202",
+      "units": "E16,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-42895"
+    }
   }
 ]
