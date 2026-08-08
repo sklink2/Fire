@@ -130,5 +130,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42906"
     }
+  },
+  {
+    "runNumber": "42905",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-08T00:35:09.263738-04:00",
+    "address": "3845 Real Quiet Lane",
+    "extra": {
+      "incidentNumber": "42905",
+      "run_id": "42905",
+      "address": "3845 Real Quiet Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E17,L05,201",
+      "units": "E02,E17,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-42905"
+    }
   }
 ]
