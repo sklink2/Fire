@@ -4574,5 +4574,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42877"
     }
+  },
+  {
+    "runNumber": "42879",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T20:50:31.812607-04:00",
+    "address": "300 Block Nelson Avenue",
+    "extra": {
+      "incidentNumber": "42879",
+      "run_id": "42879",
+      "address": "300 Block Nelson Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42879"
+    }
   }
 ]
