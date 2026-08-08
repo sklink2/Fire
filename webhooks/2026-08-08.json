@@ -240,5 +240,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-42910"
     }
+  },
+  {
+    "runNumber": "42912",
+    "rawCode": "MED",
+    "timestamp": "2026-08-08T01:06:38.343409-04:00",
+    "address": "Patchen Wilkes Drive & Sandhurst",
+    "extra": {
+      "incidentNumber": "42912",
+      "run_id": "42912",
+      "address": "Patchen Wilkes Drive & Sandhurst",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42912"
+    }
   }
 ]
