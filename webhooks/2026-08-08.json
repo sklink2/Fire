@@ -2374,5 +2374,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43008"
     }
+  },
+  {
+    "runNumber": "43007",
+    "rawCode": "FDET",
+    "timestamp": "2026-08-08T15:05:13.681185-04:00",
+    "address": "4201 Versailles Road",
+    "extra": {
+      "incidentNumber": "43007",
+      "run_id": "43007",
+      "address": "4201 Versailles Road",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43007"
+    }
   }
 ]
