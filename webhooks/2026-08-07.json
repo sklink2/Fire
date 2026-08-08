@@ -4486,5 +4486,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42874"
     }
+  },
+  {
+    "runNumber": "42876",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-07T20:11:56.420986-04:00",
+    "address": "Hildeen Drive & Zandale Drive",
+    "extra": {
+      "incidentNumber": "42876",
+      "run_id": "42876",
+      "address": "Hildeen Drive & Zandale Drive",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E12,202",
+      "units": "E07,E12,202",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-42876"
+    }
   }
 ]
