@@ -394,5 +394,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-42917"
     }
+  },
+  {
+    "runNumber": "42919",
+    "rawCode": "FSTR",
+    "timestamp": "2026-08-08T02:48:28.642835-04:00",
+    "address": "1240 Keeneland Court",
+    "extra": {
+      "incidentNumber": "42919",
+      "run_id": "42919",
+      "address": "1240 Keeneland Court",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E09,E16,E22,L04,L07,EC13,202,204,220,241,RS1",
+      "units": "E07,E09,E16,E22,L04,L07,EC13,202,204,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,202,204",
+      "dedupeKey": "INCIDENT-42919"
+    }
   }
 ]
