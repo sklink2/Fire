@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43014"
     }
+  },
+  {
+    "runNumber": "43016",
+    "rawCode": "FMEA",
+    "timestamp": "2026-08-08T15:43:46.816599-04:00",
+    "address": "106 W High Street",
+    "extra": {
+      "incidentNumber": "43016",
+      "run_id": "43016",
+      "address": "106 W High Street",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06",
+      "units": "E06",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43016"
+    }
   }
 ]
