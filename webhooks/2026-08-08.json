@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42976"
     }
+  },
+  {
+    "runNumber": "42977",
+    "rawCode": "MED",
+    "timestamp": "2026-08-08T10:45:33.653102-04:00",
+    "address": "2300 Block Prescott Lane",
+    "extra": {
+      "incidentNumber": "42977",
+      "run_id": "42977",
+      "address": "2300 Block Prescott Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "T1,EC10",
+      "units": "T1,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42977"
+    }
   }
 ]
