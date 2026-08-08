@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42944"
     }
+  },
+  {
+    "runNumber": "42945",
+    "rawCode": "MED",
+    "timestamp": "2026-08-08T07:32:33.471271-04:00",
+    "address": "400 Block Whispering Hills Drive",
+    "extra": {
+      "incidentNumber": "42945",
+      "run_id": "42945",
+      "address": "400 Block Whispering Hills Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L07,EC9",
+      "units": "L07,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42945"
+    }
   }
 ]
