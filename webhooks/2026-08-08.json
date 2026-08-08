@@ -416,5 +416,27 @@
       "commandUnits": "241,220,202,204",
       "dedupeKey": "INCIDENT-42919"
     }
+  },
+  {
+    "runNumber": "42918",
+    "rawCode": "MED",
+    "timestamp": "2026-08-08T02:48:35.904309-04:00",
+    "address": "1100 Block Bryan Avenue",
+    "extra": {
+      "incidentNumber": "42918",
+      "run_id": "42918",
+      "address": "1100 Block Bryan Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42918"
+    }
   }
 ]
