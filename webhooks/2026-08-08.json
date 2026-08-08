@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42915"
     }
+  },
+  {
+    "runNumber": "42916",
+    "rawCode": "MED",
+    "timestamp": "2026-08-08T01:34:42.003269-04:00",
+    "address": "4100 Block Needlerush Drive",
+    "extra": {
+      "incidentNumber": "42916",
+      "run_id": "42916",
+      "address": "4100 Block Needlerush Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42916"
+    }
   }
 ]
