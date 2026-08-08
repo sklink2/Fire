@@ -4530,5 +4530,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-42875"
     }
+  },
+  {
+    "runNumber": "42878",
+    "rawCode": "MED",
+    "timestamp": "2026-08-07T20:29:27.893938-04:00",
+    "address": "600 Block N Limestone",
+    "extra": {
+      "incidentNumber": "42878",
+      "run_id": "42878",
+      "address": "600 Block N Limestone",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42878"
+    }
   }
 ]
