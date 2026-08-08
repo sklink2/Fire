@@ -1054,5 +1054,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-42947"
     }
+  },
+  {
+    "runNumber": "42948",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-08T07:46:38.699025-04:00",
+    "address": "5934 Greenwich Pike",
+    "extra": {
+      "incidentNumber": "42948",
+      "run_id": "42948",
+      "address": "5934 Greenwich Pike",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E19,L03,EC3,201,241",
+      "units": "E19,L03,EC3,201,241",
+      "unitCount": "5",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-42948"
+    }
   }
 ]
