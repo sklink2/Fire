@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43004"
     }
+  },
+  {
+    "runNumber": "43006",
+    "rawCode": "MED",
+    "timestamp": "2026-08-08T15:01:41.346436-04:00",
+    "address": "500 Block Reed Lane",
+    "extra": {
+      "incidentNumber": "43006",
+      "run_id": "43006",
+      "address": "500 Block Reed Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43006"
+    }
   }
 ]
