@@ -1758,5 +1758,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42979"
     }
+  },
+  {
+    "runNumber": "42980",
+    "rawCode": "MED",
+    "timestamp": "2026-08-08T11:13:37.251525-04:00",
+    "address": "200 Block Rosemont Garden",
+    "extra": {
+      "incidentNumber": "42980",
+      "run_id": "42980",
+      "address": "200 Block Rosemont Garden",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42980"
+    }
   }
 ]
