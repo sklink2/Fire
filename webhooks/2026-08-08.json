@@ -482,5 +482,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42920"
     }
+  },
+  {
+    "runNumber": "42922",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-08T03:02:24.631344-04:00",
+    "address": "1317 Centre Parkway",
+    "extra": {
+      "incidentNumber": "42922",
+      "run_id": "42922",
+      "address": "1317 Centre Parkway",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09",
+      "units": "E09",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42922"
+    }
   }
 ]
