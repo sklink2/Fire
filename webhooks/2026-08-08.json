@@ -3430,5 +3430,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-43055"
     }
+  },
+  {
+    "runNumber": "43056",
+    "rawCode": "MED",
+    "timestamp": "2026-08-08T19:49:23.255443-04:00",
+    "address": "2000 Block Allegheny Way",
+    "extra": {
+      "incidentNumber": "43056",
+      "run_id": "43056",
+      "address": "2000 Block Allegheny Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43056"
+    }
   }
 ]
