@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42982"
     }
+  },
+  {
+    "runNumber": "42983",
+    "rawCode": "FMEA",
+    "timestamp": "2026-08-08T11:38:10.768149-04:00",
+    "address": "3205 Honeyhill Lane",
+    "extra": {
+      "incidentNumber": "42983",
+      "run_id": "42983",
+      "address": "3205 Honeyhill Lane",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15",
+      "units": "E15",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42983"
+    }
   }
 ]
