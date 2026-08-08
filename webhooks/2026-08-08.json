@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42984"
     }
+  },
+  {
+    "runNumber": "42985",
+    "rawCode": "FMIS",
+    "timestamp": "2026-08-08T11:48:41.887464-04:00",
+    "address": "3578 Laredo Drive",
+    "extra": {
+      "incidentNumber": "42985",
+      "run_id": "42985",
+      "address": "3578 Laredo Drive",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E22,204",
+      "units": "E22,204",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-42985"
+    }
   }
 ]
