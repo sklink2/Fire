@@ -1076,5 +1076,27 @@
       "commandUnits": "241,201",
       "dedupeKey": "INCIDENT-42948"
     }
+  },
+  {
+    "runNumber": "42949",
+    "rawCode": "FVIS",
+    "timestamp": "2026-08-08T07:50:07.935680-04:00",
+    "address": "300 Quinton Court",
+    "extra": {
+      "incidentNumber": "42949",
+      "run_id": "42949",
+      "address": "300 Quinton Court",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E12,L06,EC8,202",
+      "units": "E08,E12,L06,EC8,202",
+      "unitCount": "5",
+      "primaryTopic": "FVIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-42949"
+    }
   }
 ]
