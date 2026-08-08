@@ -3408,5 +3408,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43053"
     }
+  },
+  {
+    "runNumber": "43055",
+    "rawCode": "FSMO",
+    "timestamp": "2026-08-08T19:38:52.173868-04:00",
+    "address": "398 Southland Drive",
+    "extra": {
+      "incidentNumber": "43055",
+      "run_id": "43055",
+      "address": "398 Southland Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E12,L04,EC12,204",
+      "units": "E11,E12,L04,EC12,204",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-43055"
+    }
   }
 ]
