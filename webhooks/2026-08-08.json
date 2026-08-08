@@ -218,5 +218,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42909"
     }
+  },
+  {
+    "runNumber": "42910",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-08T01:03:08.633268-04:00",
+    "address": "3120 Pimlico Parkway",
+    "extra": {
+      "incidentNumber": "42910",
+      "run_id": "42910",
+      "address": "3120 Pimlico Parkway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E16,L06,202",
+      "units": "E09,E16,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-42910"
+    }
   }
 ]
