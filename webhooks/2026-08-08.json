@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42945"
     }
+  },
+  {
+    "runNumber": "42946",
+    "rawCode": "MED",
+    "timestamp": "2026-08-08T07:36:03.938960-04:00",
+    "address": "700 Block Hill Rise Court",
+    "extra": {
+      "incidentNumber": "42946",
+      "run_id": "42946",
+      "address": "700 Block Hill Rise Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-42946"
+    }
   }
 ]
