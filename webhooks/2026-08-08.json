@@ -2242,5 +2242,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43001"
     }
+  },
+  {
+    "runNumber": "43002",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-08-08T14:47:37.569863-04:00",
+    "address": "543 W Fifth Street",
+    "extra": {
+      "incidentNumber": "43002",
+      "run_id": "43002",
+      "address": "543 W Fifth Street",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43002"
+    }
   }
 ]
