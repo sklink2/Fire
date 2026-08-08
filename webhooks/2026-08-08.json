@@ -1296,5 +1296,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-42958"
     }
+  },
+  {
+    "runNumber": "42959",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-08T08:42:47.988821-04:00",
+    "address": "1040 Armstrong Mill Road",
+    "extra": {
+      "incidentNumber": "42959",
+      "run_id": "42959",
+      "address": "1040 Armstrong Mill Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E20,L07,EC9,202,220",
+      "units": "E07,E20,L07,EC9,202,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-42959"
+    }
   }
 ]
