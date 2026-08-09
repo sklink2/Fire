@@ -2616,5 +2616,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43213"
     }
+  },
+  {
+    "runNumber": "43212",
+    "rawCode": "MED",
+    "timestamp": "2026-08-09T15:56:21.986184-04:00",
+    "address": "500 Block N Upper Street",
+    "extra": {
+      "incidentNumber": "43212",
+      "run_id": "43212",
+      "address": "500 Block N Upper Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43212"
+    }
   }
 ]
