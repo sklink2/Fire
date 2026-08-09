@@ -3760,5 +3760,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-43069"
     }
+  },
+  {
+    "runNumber": "43071",
+    "rawCode": "MED",
+    "timestamp": "2026-08-08T20:35:01.317904-04:00",
+    "address": "1700 Block Silver Lane",
+    "extra": {
+      "incidentNumber": "43071",
+      "run_id": "43071",
+      "address": "1700 Block Silver Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC2",
+      "units": "E08,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43071"
+    }
   }
 ]
