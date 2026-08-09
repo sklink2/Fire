@@ -2836,5 +2836,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43223"
     }
+  },
+  {
+    "runNumber": "43224",
+    "rawCode": "MED",
+    "timestamp": "2026-08-09T16:55:58.768821-04:00",
+    "address": "4000 Block Morning Glory Lane",
+    "extra": {
+      "incidentNumber": "43224",
+      "run_id": "43224",
+      "address": "4000 Block Morning Glory Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L06,EC8",
+      "units": "L06,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43224"
+    }
   }
 ]
