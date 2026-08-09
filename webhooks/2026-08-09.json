@@ -438,5 +438,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43114"
     }
+  },
+  {
+    "runNumber": "43115",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-09T02:53:57.785922-04:00",
+    "address": "2440 Richmond Road",
+    "extra": {
+      "incidentNumber": "43115",
+      "run_id": "43115",
+      "address": "2440 Richmond Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,L05,EC2,201,241,RS1",
+      "units": "E02,L05,EC2,201,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-43115"
+    }
   }
 ]
