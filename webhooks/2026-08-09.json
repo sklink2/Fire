@@ -218,5 +218,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43103"
     }
+  },
+  {
+    "runNumber": "43106",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-09T02:22:21.982168-04:00",
+    "address": "269 Hays Boulevard",
+    "extra": {
+      "incidentNumber": "43106",
+      "run_id": "43106",
+      "address": "269 Hays Boulevard",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,L06,EC2,202,241,RS1",
+      "units": "E09,L06,EC2,202,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-43106"
+    }
   }
 ]
