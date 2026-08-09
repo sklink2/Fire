@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43136"
     }
+  },
+  {
+    "runNumber": "43137",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-09T07:17:04.665178-04:00",
+    "address": "342 E Second Street",
+    "extra": {
+      "incidentNumber": "43137",
+      "run_id": "43137",
+      "address": "342 E Second Street",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43137"
+    }
   }
 ]
