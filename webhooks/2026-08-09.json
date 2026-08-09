@@ -1648,5 +1648,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43168"
     }
+  },
+  {
+    "runNumber": "43171",
+    "rawCode": "MED",
+    "timestamp": "2026-08-09T11:57:43.387696-04:00",
+    "address": "1800 Block Lakehill Circle",
+    "extra": {
+      "incidentNumber": "43171",
+      "run_id": "43171",
+      "address": "1800 Block Lakehill Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43171"
+    }
   }
 ]
