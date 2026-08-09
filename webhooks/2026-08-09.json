@@ -2902,5 +2902,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43225"
     }
+  },
+  {
+    "runNumber": "43227",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-09T17:17:00.758634-04:00",
+    "address": "212 Eastin Road",
+    "extra": {
+      "incidentNumber": "43227",
+      "run_id": "43227",
+      "address": "212 Eastin Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E08,201",
+      "units": "E02,E08,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-43227"
+    }
   }
 ]
