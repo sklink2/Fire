@@ -1208,5 +1208,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43148"
     }
+  },
+  {
+    "runNumber": "43150",
+    "rawCode": "MED",
+    "timestamp": "2026-08-09T09:26:52.561588-04:00",
+    "address": "100 Block Constitution Street",
+    "extra": {
+      "incidentNumber": "43150",
+      "run_id": "43150",
+      "address": "100 Block Constitution Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43150"
+    }
   }
 ]
