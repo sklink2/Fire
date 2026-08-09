@@ -3254,5 +3254,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43242"
     }
+  },
+  {
+    "runNumber": "43243",
+    "rawCode": "MED",
+    "timestamp": "2026-08-09T18:41:08.704239-04:00",
+    "address": "500 Block Rosemill Drive",
+    "extra": {
+      "incidentNumber": "43243",
+      "run_id": "43243",
+      "address": "500 Block Rosemill Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43243"
+    }
   }
 ]
