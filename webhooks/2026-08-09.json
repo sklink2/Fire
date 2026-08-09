@@ -1934,5 +1934,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43182"
     }
+  },
+  {
+    "runNumber": "43184",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-09T12:57:25.517674-04:00",
+    "address": "1537 Chadwick Drive",
+    "extra": {
+      "incidentNumber": "43184",
+      "run_id": "43184",
+      "address": "1537 Chadwick Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16",
+      "units": "E16",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43184"
+    }
   }
 ]
