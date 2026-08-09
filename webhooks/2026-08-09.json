@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43157"
     }
+  },
+  {
+    "runNumber": "43159",
+    "rawCode": "MED",
+    "timestamp": "2026-08-09T10:05:28.338670-04:00",
+    "address": "3000 Block Stanford Drive",
+    "extra": {
+      "incidentNumber": "43159",
+      "run_id": "43159",
+      "address": "3000 Block Stanford Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,EC13",
+      "units": "E07,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43159"
+    }
   }
 ]
