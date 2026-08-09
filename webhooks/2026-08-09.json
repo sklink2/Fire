@@ -592,5 +592,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43121"
     }
+  },
+  {
+    "runNumber": "43122",
+    "rawCode": "MED",
+    "timestamp": "2026-08-09T04:00:35.677723-04:00",
+    "address": "1900 Block N Broadway",
+    "extra": {
+      "incidentNumber": "43122",
+      "run_id": "43122",
+      "address": "1900 Block N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43122"
+    }
   }
 ]
