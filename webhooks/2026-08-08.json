@@ -3848,5 +3848,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43074"
     }
+  },
+  {
+    "runNumber": "43075",
+    "rawCode": "MED",
+    "timestamp": "2026-08-08T21:10:06.720832-04:00",
+    "address": "W Short Street & N Upper Street",
+    "extra": {
+      "incidentNumber": "43075",
+      "run_id": "43075",
+      "address": "W Short Street & N Upper Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43075"
+    }
   }
 ]
