@@ -3408,5 +3408,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-43248"
     }
+  },
+  {
+    "runNumber": "43251",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-08-09T19:37:17.016191-04:00",
+    "address": "1713 Brook Park Drive",
+    "extra": {
+      "incidentNumber": "43251",
+      "run_id": "43251",
+      "address": "1713 Brook Park Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16",
+      "units": "E16",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43251"
+    }
   }
 ]
