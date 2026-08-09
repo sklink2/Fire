@@ -3694,5 +3694,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-43068"
     }
+  },
+  {
+    "runNumber": "43067",
+    "rawCode": "MED",
+    "timestamp": "2026-08-08T20:28:04.186448-04:00",
+    "address": "600 Block Delzan Place",
+    "extra": {
+      "incidentNumber": "43067",
+      "run_id": "43067",
+      "address": "600 Block Delzan Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43067"
+    }
   }
 ]
