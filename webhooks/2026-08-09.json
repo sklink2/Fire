@@ -1098,5 +1098,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43144"
     }
+  },
+  {
+    "runNumber": "43145",
+    "rawCode": "FSMO",
+    "timestamp": "2026-08-09T08:37:45.615986-04:00",
+    "address": "2229 Broadhead Place",
+    "extra": {
+      "incidentNumber": "43145",
+      "run_id": "43145",
+      "address": "2229 Broadhead Place",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,E22,L07,EC4,202",
+      "units": "E07,E22,L07,EC4,202",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-43145"
+    }
   }
 ]
