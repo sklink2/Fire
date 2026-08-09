@@ -1582,5 +1582,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-43166"
     }
+  },
+  {
+    "runNumber": "43167",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-09T11:26:10.134903-04:00",
+    "address": "219 E Third Street",
+    "extra": {
+      "incidentNumber": "43167",
+      "run_id": "43167",
+      "address": "219 E Third Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L01,EC1",
+      "units": "L01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43167"
+    }
   }
 ]
