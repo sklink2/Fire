@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43176"
     }
+  },
+  {
+    "runNumber": "43178",
+    "rawCode": "MED",
+    "timestamp": "2026-08-09T12:29:19.509033-04:00",
+    "address": "100 Block Wittland Lane",
+    "extra": {
+      "incidentNumber": "43178",
+      "run_id": "43178",
+      "address": "100 Block Wittland Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43178"
+    }
   }
 ]
