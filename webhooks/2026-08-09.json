@@ -570,5 +570,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43120"
     }
+  },
+  {
+    "runNumber": "43121",
+    "rawCode": "MED",
+    "timestamp": "2026-08-09T03:46:32.342506-04:00",
+    "address": "2000 Block Bridgeport Drive",
+    "extra": {
+      "incidentNumber": "43121",
+      "run_id": "43121",
+      "address": "2000 Block Bridgeport Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43121"
+    }
   }
 ]
