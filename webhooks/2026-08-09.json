@@ -416,5 +416,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43113"
     }
+  },
+  {
+    "runNumber": "43114",
+    "rawCode": "MED",
+    "timestamp": "2026-08-09T02:50:23.587199-04:00",
+    "address": "100 Block Delmont Drive",
+    "extra": {
+      "incidentNumber": "43114",
+      "run_id": "43114",
+      "address": "100 Block Delmont Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43114"
+    }
   }
 ]
