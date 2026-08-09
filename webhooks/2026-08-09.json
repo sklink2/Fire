@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43232"
     }
+  },
+  {
+    "runNumber": "43231",
+    "rawCode": "MED",
+    "timestamp": "2026-08-09T17:34:34.932380-04:00",
+    "address": "3700 Block Trent Circle",
+    "extra": {
+      "incidentNumber": "43231",
+      "run_id": "43231",
+      "address": "3700 Block Trent Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,EC9",
+      "units": "E16,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43231"
+    }
   }
 ]
