@@ -3210,5 +3210,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43240"
     }
+  },
+  {
+    "runNumber": "43241",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-09T18:30:39.319972-04:00",
+    "address": "3491 Jacob Court",
+    "extra": {
+      "incidentNumber": "43241",
+      "run_id": "43241",
+      "address": "3491 Jacob Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17,E21,L06,201",
+      "units": "E17,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-43241"
+    }
   }
 ]
