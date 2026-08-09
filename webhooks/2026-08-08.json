@@ -3672,5 +3672,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43066"
     }
+  },
+  {
+    "runNumber": "43068",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-08T20:28:00.545857-04:00",
+    "address": "2082 Fairmont Court",
+    "extra": {
+      "incidentNumber": "43068",
+      "run_id": "43068",
+      "address": "2082 Fairmont Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E09,L06,201",
+      "units": "E05,E09,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-43068"
+    }
   }
 ]
