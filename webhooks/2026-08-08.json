@@ -4244,5 +4244,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43091"
     }
+  },
+  {
+    "runNumber": "43093",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-08T23:40:56.991853-04:00",
+    "address": "W New Circle Road & Russell Cave",
+    "extra": {
+      "incidentNumber": "43093",
+      "run_id": "43093",
+      "address": "W New Circle Road & Russell Cave",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC3,241",
+      "units": "E08,EC3,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-43093"
+    }
   }
 ]
