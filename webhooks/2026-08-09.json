@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43211"
     }
+  },
+  {
+    "runNumber": "43210",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-08-09T15:31:47.227185-04:00",
+    "address": "1393 Trent Boulevard",
+    "extra": {
+      "incidentNumber": "43210",
+      "run_id": "43210",
+      "address": "1393 Trent Boulevard",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16",
+      "units": "E16",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43210"
+    }
   }
 ]
