@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43073"
     }
+  },
+  {
+    "runNumber": "43072",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-08T20:56:05.781322-04:00",
+    "address": "1057 Patricia Lane",
+    "extra": {
+      "incidentNumber": "43072",
+      "run_id": "43072",
+      "address": "1057 Patricia Lane",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43072"
+    }
   }
 ]
