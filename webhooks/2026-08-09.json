@@ -1164,5 +1164,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43147"
     }
+  },
+  {
+    "runNumber": "43149",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-09T09:16:20.259293-04:00",
+    "address": "3060 Fieldstone Way",
+    "extra": {
+      "incidentNumber": "43149",
+      "run_id": "43149",
+      "address": "3060 Fieldstone Way",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43149"
+    }
   }
 ]
