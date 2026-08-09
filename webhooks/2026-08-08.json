@@ -3716,5 +3716,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43067"
     }
+  },
+  {
+    "runNumber": "43070",
+    "rawCode": "MED",
+    "timestamp": "2026-08-08T20:31:30.225611-04:00",
+    "address": "1300 Block Royalty Court",
+    "extra": {
+      "incidentNumber": "43070",
+      "run_id": "43070",
+      "address": "1300 Block Royalty Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC10",
+      "units": "E11,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43070"
+    }
   }
 ]
