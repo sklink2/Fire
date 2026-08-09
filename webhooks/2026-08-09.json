@@ -746,5 +746,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43127"
     }
+  },
+  {
+    "runNumber": "43129",
+    "rawCode": "MED",
+    "timestamp": "2026-08-09T04:42:41.093368-04:00",
+    "address": "800 Block Lochmere Place",
+    "extra": {
+      "incidentNumber": "43129",
+      "run_id": "43129",
+      "address": "800 Block Lochmere Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43129"
+    }
   }
 ]
