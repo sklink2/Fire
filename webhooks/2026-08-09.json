@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43201"
     }
+  },
+  {
+    "runNumber": "43200",
+    "rawCode": "MED",
+    "timestamp": "2026-08-09T14:42:39.010504-04:00",
+    "address": "Old Georgetown Street & W Main Street",
+    "extra": {
+      "incidentNumber": "43200",
+      "run_id": "43200",
+      "address": "Old Georgetown Street & W Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "RS1",
+      "units": "RS1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43200"
+    }
   }
 ]
