@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43404"
     }
+  },
+  {
+    "runNumber": "43405",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-10T16:05:12.051026-04:00",
+    "address": "1400 Gainesway Drive",
+    "extra": {
+      "incidentNumber": "43405",
+      "run_id": "43405",
+      "address": "1400 Gainesway Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07",
+      "units": "E07",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43405"
+    }
   }
 ]
