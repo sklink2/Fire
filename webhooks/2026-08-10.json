@@ -3034,5 +3034,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43420"
     }
+  },
+  {
+    "runNumber": "43421",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-10T16:50:49.471937-04:00",
+    "address": "2665 Tates Creek Road",
+    "extra": {
+      "incidentNumber": "43421",
+      "run_id": "43421",
+      "address": "2665 Tates Creek Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E12,L07,204",
+      "units": "E05,E12,L07,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-43421"
+    }
   }
 ]
