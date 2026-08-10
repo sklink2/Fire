@@ -284,5 +284,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43295"
     }
+  },
+  {
+    "runNumber": "43296",
+    "rawCode": "FFIA",
+    "timestamp": "2026-08-10T02:34:46.371688-04:00",
+    "address": "352 Chestnut Street",
+    "extra": {
+      "incidentNumber": "43296",
+      "run_id": "43296",
+      "address": "352 Chestnut Street",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E05,L01,EC1,205",
+      "units": "E01,E05,L01,EC1,205",
+      "unitCount": "5",
+      "primaryTopic": "FFIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-43296"
+    }
   }
 ]
