@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43268"
     }
+  },
+  {
+    "runNumber": "43269",
+    "rawCode": "MED",
+    "timestamp": "2026-08-09T21:57:39.344562-04:00",
+    "address": "400 Block Campbell Street",
+    "extra": {
+      "incidentNumber": "43269",
+      "run_id": "43269",
+      "address": "400 Block Campbell Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43269"
+    }
   }
 ]
