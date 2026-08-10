@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43344"
     }
+  },
+  {
+    "runNumber": "43346",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-10T09:53:20.537780-04:00",
+    "address": "167 Edgemoor Drive",
+    "extra": {
+      "incidentNumber": "43346",
+      "run_id": "43346",
+      "address": "167 Edgemoor Drive",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,L07,EC12,EC9,202,241,RS1",
+      "units": "E15,L07,EC12,EC9,202,241,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-43346"
+    }
   }
 ]
