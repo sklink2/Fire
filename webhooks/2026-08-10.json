@@ -3342,5 +3342,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43434"
     }
+  },
+  {
+    "runNumber": "43433",
+    "rawCode": "MED",
+    "timestamp": "2026-08-10T17:54:03.945023-04:00",
+    "address": "600 Block Mint Hill Lane",
+    "extra": {
+      "incidentNumber": "43433",
+      "run_id": "43433",
+      "address": "600 Block Mint Hill Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC13",
+      "units": "E21,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43433"
+    }
   }
 ]
