@@ -2132,5 +2132,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43378"
     }
+  },
+  {
+    "runNumber": "43381",
+    "rawCode": "MED",
+    "timestamp": "2026-08-10T14:02:22.716897-04:00",
+    "address": "2100 Block Richmond Road",
+    "extra": {
+      "incidentNumber": "43381",
+      "run_id": "43381",
+      "address": "2100 Block Richmond Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L05,EC2",
+      "units": "L05,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43381"
+    }
   }
 ]
