@@ -3474,5 +3474,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43439"
     }
+  },
+  {
+    "runNumber": "43441",
+    "rawCode": "MED",
+    "timestamp": "2026-08-10T18:15:02.210913-04:00",
+    "address": "1000 Block Pennebaker Drive",
+    "extra": {
+      "incidentNumber": "43441",
+      "run_id": "43441",
+      "address": "1000 Block Pennebaker Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E19,EC7",
+      "units": "E19,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43441"
+    }
   }
 ]
