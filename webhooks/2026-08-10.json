@@ -1450,5 +1450,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43348"
     }
+  },
+  {
+    "runNumber": "43349",
+    "rawCode": "MED",
+    "timestamp": "2026-08-10T10:31:53.753564-04:00",
+    "address": "2200 Block Belmont Drive",
+    "extra": {
+      "incidentNumber": "43349",
+      "run_id": "43349",
+      "address": "2200 Block Belmont Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43349"
+    }
   }
 ]
