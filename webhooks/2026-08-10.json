@@ -3562,5 +3562,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43444"
     }
+  },
+  {
+    "runNumber": "43446",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-10T18:39:36.724439-04:00",
+    "address": "64 Eb / 71.0 Mm (Scott Co Line",
+    "extra": {
+      "incidentNumber": "43446",
+      "run_id": "43446",
+      "address": "64 Eb / 71.0 Mm (Scott Co Line",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,E19,EC12",
+      "units": "E10,E19,EC12",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43446"
+    }
   }
 ]
