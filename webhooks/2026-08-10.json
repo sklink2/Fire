@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43442"
     }
+  },
+  {
+    "runNumber": "43444",
+    "rawCode": "MED",
+    "timestamp": "2026-08-10T18:29:03.423225-04:00",
+    "address": "2200 Block Coburn Boulevard",
+    "extra": {
+      "incidentNumber": "43444",
+      "run_id": "43444",
+      "address": "2200 Block Coburn Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC3",
+      "units": "E09,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43444"
+    }
   }
 ]
