@@ -2770,5 +2770,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43407"
     }
+  },
+  {
+    "runNumber": "43410",
+    "rawCode": "MED",
+    "timestamp": "2026-08-10T16:15:42.012310-04:00",
+    "address": "2100 Block Mimi Court",
+    "extra": {
+      "incidentNumber": "43410",
+      "run_id": "43410",
+      "address": "2100 Block Mimi Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43410"
+    }
   }
 ]
