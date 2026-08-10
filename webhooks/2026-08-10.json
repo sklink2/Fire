@@ -2616,5 +2616,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43401"
     }
+  },
+  {
+    "runNumber": "43402",
+    "rawCode": "MED",
+    "timestamp": "2026-08-10T15:44:10.458294-04:00",
+    "address": "200 Block University Avenue",
+    "extra": {
+      "incidentNumber": "43402",
+      "run_id": "43402",
+      "address": "200 Block University Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43402"
+    }
   }
 ]
