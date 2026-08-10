@@ -1186,5 +1186,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43336"
     }
+  },
+  {
+    "runNumber": "43337",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-10T09:11:14.735143-04:00",
+    "address": "175 Malabu Drive",
+    "extra": {
+      "incidentNumber": "43337",
+      "run_id": "43337",
+      "address": "175 Malabu Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,E20,L04,EC4,204,220",
+      "units": "E15,E20,L04,EC4,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-43337"
+    }
   }
 ]
