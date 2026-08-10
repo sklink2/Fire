@@ -2836,5 +2836,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43413"
     }
+  },
+  {
+    "runNumber": "43412",
+    "rawCode": "MED",
+    "timestamp": "2026-08-10T16:19:16.300017-04:00",
+    "address": "3200 Block Honeyhill Lane",
+    "extra": {
+      "incidentNumber": "43412",
+      "run_id": "43412",
+      "address": "3200 Block Honeyhill Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L07,EC10",
+      "units": "L07,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43412"
+    }
   }
 ]
