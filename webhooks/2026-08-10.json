@@ -3518,5 +3518,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43443"
     }
+  },
+  {
+    "runNumber": "43442",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-10T18:18:36.196234-04:00",
+    "address": "5751 Briar Hill Road",
+    "extra": {
+      "incidentNumber": "43442",
+      "run_id": "43442",
+      "address": "5751 Briar Hill Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E23",
+      "units": "E23",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43442"
+    }
   }
 ]
