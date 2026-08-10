@@ -1890,5 +1890,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43371"
     }
+  },
+  {
+    "runNumber": "43370",
+    "rawCode": "MED",
+    "timestamp": "2026-08-10T12:31:13.243731-04:00",
+    "address": "400 Block Park Place",
+    "extra": {
+      "incidentNumber": "43370",
+      "run_id": "43370",
+      "address": "400 Block Park Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC1",
+      "units": "E10,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43370"
+    }
   }
 ]
