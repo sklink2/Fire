@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43255"
     }
+  },
+  {
+    "runNumber": "43257",
+    "rawCode": "MED",
+    "timestamp": "2026-08-09T20:43:57.701217-04:00",
+    "address": "2300 Block Sir Barton Way",
+    "extra": {
+      "incidentNumber": "43257",
+      "run_id": "43257",
+      "address": "2300 Block Sir Barton Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43257"
+    }
   }
 ]
