@@ -3606,5 +3606,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43445"
     }
+  },
+  {
+    "runNumber": "43447",
+    "rawCode": "MED",
+    "timestamp": "2026-08-10T18:50:06.326999-04:00",
+    "address": "1000 Block Manchester Street",
+    "extra": {
+      "incidentNumber": "43447",
+      "run_id": "43447",
+      "address": "1000 Block Manchester Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1,RS1",
+      "units": "EC1,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43447"
+    }
   }
 ]
