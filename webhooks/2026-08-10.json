@@ -3232,5 +3232,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43429"
     }
+  },
+  {
+    "runNumber": "43430",
+    "rawCode": "FMEA",
+    "timestamp": "2026-08-10T17:43:27.012081-04:00",
+    "address": "1047 Brentwood Court",
+    "extra": {
+      "incidentNumber": "43430",
+      "run_id": "43430",
+      "address": "1047 Brentwood Court",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10",
+      "units": "E10",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43430"
+    }
   }
 ]
