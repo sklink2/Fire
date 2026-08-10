@@ -174,5 +174,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43288"
     }
+  },
+  {
+    "runNumber": "43291",
+    "rawCode": "MED",
+    "timestamp": "2026-08-10T01:03:33.514445-04:00",
+    "address": "4000 Block Solberg Lane",
+    "extra": {
+      "incidentNumber": "43291",
+      "run_id": "43291",
+      "address": "4000 Block Solberg Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43291"
+    }
   }
 ]
