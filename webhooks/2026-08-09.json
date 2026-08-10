@@ -4068,5 +4068,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43280"
     }
+  },
+  {
+    "runNumber": "43281",
+    "rawCode": "FSMO",
+    "timestamp": "2026-08-09T23:07:48.343387-04:00",
+    "address": "1234 Man O War Place",
+    "extra": {
+      "incidentNumber": "43281",
+      "run_id": "43281",
+      "address": "1234 Man O War Place",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E12,L04,EC12,204",
+      "units": "E06,E12,L04,EC12,204",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-43281"
+    }
   }
 ]
