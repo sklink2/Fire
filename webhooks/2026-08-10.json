@@ -3760,5 +3760,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43453"
     }
+  },
+  {
+    "runNumber": "43452",
+    "rawCode": "MED",
+    "timestamp": "2026-08-10T19:46:20.383022-04:00",
+    "address": "W Sixth Street & Toner Street",
+    "extra": {
+      "incidentNumber": "43452",
+      "run_id": "43452",
+      "address": "W Sixth Street & Toner Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,EC1",
+      "units": "E04,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43452"
+    }
   }
 ]
