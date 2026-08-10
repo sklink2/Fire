@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43363"
     }
+  },
+  {
+    "runNumber": "43364",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-10T12:20:40.482469-04:00",
+    "address": "914 Delaware Avenue",
+    "extra": {
+      "incidentNumber": "43364",
+      "run_id": "43364",
+      "address": "914 Delaware Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E02,L01,205",
+      "units": "E01,E02,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-43364"
+    }
   }
 ]
