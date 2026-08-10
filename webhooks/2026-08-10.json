@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43361"
     }
+  },
+  {
+    "runNumber": "43362",
+    "rawCode": "FSTR",
+    "timestamp": "2026-08-10T12:10:13.730820-04:00",
+    "address": "4416 Levi Todd Boulevard",
+    "extra": {
+      "incidentNumber": "43362",
+      "run_id": "43362",
+      "address": "4416 Levi Todd Boulevard",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E09,E16,E18,E21,L05,L06,EC13,201,205,220,241,RS1",
+      "units": "E08,E09,E16,E18,E21,L05,L06,EC13,201,205,220,241,RS1",
+      "unitCount": "13",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,205",
+      "dedupeKey": "INCIDENT-43362"
+    }
   }
 ]
