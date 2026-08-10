@@ -900,5 +900,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43323"
     }
+  },
+  {
+    "runNumber": "43324",
+    "rawCode": "FMEA",
+    "timestamp": "2026-08-10T07:50:29.267571-04:00",
+    "address": "527 Fairfield Drive",
+    "extra": {
+      "incidentNumber": "43324",
+      "run_id": "43324",
+      "address": "527 Fairfield Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L07",
+      "units": "L07",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43324"
+    }
   }
 ]
