@@ -394,5 +394,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43300"
     }
+  },
+  {
+    "runNumber": "43302",
+    "rawCode": "MED",
+    "timestamp": "2026-08-10T04:09:30.690215-04:00",
+    "address": "2300 Block Norman Lane",
+    "extra": {
+      "incidentNumber": "43302",
+      "run_id": "43302",
+      "address": "2300 Block Norman Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12",
+      "units": "E12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43302"
+    }
   }
 ]
