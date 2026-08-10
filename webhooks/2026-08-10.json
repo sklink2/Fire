@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43325"
     }
+  },
+  {
+    "runNumber": "43327",
+    "rawCode": "MED",
+    "timestamp": "2026-08-10T08:01:03.465409-04:00",
+    "address": "300 Block Marblerock Way",
+    "extra": {
+      "incidentNumber": "43327",
+      "run_id": "43327",
+      "address": "300 Block Marblerock Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43327"
+    }
   }
 ]
