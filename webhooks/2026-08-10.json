@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43355"
     }
+  },
+  {
+    "runNumber": "43354",
+    "rawCode": "MED",
+    "timestamp": "2026-08-10T11:38:36.192856-04:00",
+    "address": "1200 Block Manchester Street",
+    "extra": {
+      "incidentNumber": "43354",
+      "run_id": "43354",
+      "address": "1200 Block Manchester Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10,RS1",
+      "units": "EC10,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43354"
+    }
   }
 ]
