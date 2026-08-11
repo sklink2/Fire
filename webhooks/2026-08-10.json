@@ -3782,5 +3782,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43452"
     }
+  },
+  {
+    "runNumber": "43455",
+    "rawCode": "MED",
+    "timestamp": "2026-08-10T20:14:20.303255-04:00",
+    "address": "2400 Block Southview Drive",
+    "extra": {
+      "incidentNumber": "43455",
+      "run_id": "43455",
+      "address": "2400 Block Southview Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43455"
+    }
   }
 ]
