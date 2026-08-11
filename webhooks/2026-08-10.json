@@ -4134,5 +4134,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43470"
     }
+  },
+  {
+    "runNumber": "43472",
+    "rawCode": "MED",
+    "timestamp": "2026-08-10T22:20:39.661063-04:00",
+    "address": "2000 Block Cornerstone Drive",
+    "extra": {
+      "incidentNumber": "43472",
+      "run_id": "43472",
+      "address": "2000 Block Cornerstone Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43472"
+    }
   }
 ]
