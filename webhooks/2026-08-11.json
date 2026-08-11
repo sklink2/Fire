@@ -3474,5 +3474,27 @@
       "commandUnits": "241,202",
       "dedupeKey": "INCIDENT-43634"
     }
+  },
+  {
+    "runNumber": "43635",
+    "rawCode": "MED",
+    "timestamp": "2026-08-11T17:13:50.867577-04:00",
+    "address": "1100 Block Versailles Road",
+    "extra": {
+      "incidentNumber": "43635",
+      "run_id": "43635",
+      "address": "1100 Block Versailles Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1,RS1",
+      "units": "EC1,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43635"
+    }
   }
 ]
