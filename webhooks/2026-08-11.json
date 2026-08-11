@@ -2022,5 +2022,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43569"
     }
+  },
+  {
+    "runNumber": "43572",
+    "rawCode": "MED",
+    "timestamp": "2026-08-11T12:19:09.125117-04:00",
+    "address": "1200 Block N Broadway",
+    "extra": {
+      "incidentNumber": "43572",
+      "run_id": "43572",
+      "address": "1200 Block N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC1",
+      "units": "E08,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43572"
+    }
   }
 ]
