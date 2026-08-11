@@ -2220,5 +2220,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43578"
     }
+  },
+  {
+    "runNumber": "43581",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-11T13:01:15.321291-04:00",
+    "address": "Liberty Road & Fortune Drive",
+    "extra": {
+      "incidentNumber": "43581",
+      "run_id": "43581",
+      "address": "Liberty Road & Fortune Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L06,EC3",
+      "units": "L06,EC3",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43581"
+    }
   }
 ]
