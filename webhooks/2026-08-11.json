@@ -2748,5 +2748,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43601"
     }
+  },
+  {
+    "runNumber": "43602",
+    "rawCode": "MED",
+    "timestamp": "2026-08-11T14:46:30.555055-04:00",
+    "address": "1300 Block Dix Drive",
+    "extra": {
+      "incidentNumber": "43602",
+      "run_id": "43602",
+      "address": "1300 Block Dix Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC11",
+      "units": "E16,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43602"
+    }
   }
 ]
