@@ -2242,5 +2242,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43581"
     }
+  },
+  {
+    "runNumber": "43580",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-11T13:01:20.466811-04:00",
+    "address": "704 Euclid Avenue",
+    "extra": {
+      "incidentNumber": "43580",
+      "run_id": "43580",
+      "address": "704 Euclid Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,L02,205",
+      "units": "E05,E06,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-43580"
+    }
   }
 ]
