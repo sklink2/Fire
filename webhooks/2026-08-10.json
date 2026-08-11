@@ -4090,5 +4090,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43467"
     }
+  },
+  {
+    "runNumber": "43469",
+    "rawCode": "MED",
+    "timestamp": "2026-08-10T22:03:08.716630-04:00",
+    "address": "Yellowstone Parkway & Leaning Tre",
+    "extra": {
+      "incidentNumber": "43469",
+      "run_id": "43469",
+      "address": "Yellowstone Parkway & Leaning Tre",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC2,202,241",
+      "units": "E16,EC2,202,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-43469"
+    }
   }
 ]
