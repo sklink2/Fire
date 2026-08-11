@@ -4310,5 +4310,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-43478"
     }
+  },
+  {
+    "runNumber": "43479",
+    "rawCode": "MED",
+    "timestamp": "2026-08-10T23:44:51.251588-04:00",
+    "address": "3600 Block King Arthur Drive",
+    "extra": {
+      "incidentNumber": "43479",
+      "run_id": "43479",
+      "address": "3600 Block King Arthur Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC9",
+      "units": "E22,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43479"
+    }
   }
 ]
