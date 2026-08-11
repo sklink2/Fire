@@ -2836,5 +2836,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43605"
     }
+  },
+  {
+    "runNumber": "43606",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-11T15:04:03.193565-04:00",
+    "address": "1970 Newtown Pike",
+    "extra": {
+      "incidentNumber": "43606",
+      "run_id": "43606",
+      "address": "1970 Newtown Pike",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC1",
+      "units": "E10,EC1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43606"
+    }
   }
 ]
