@@ -790,5 +790,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43513"
     }
+  },
+  {
+    "runNumber": "43514",
+    "rawCode": "MED",
+    "timestamp": "2026-08-11T07:13:57.348149-04:00",
+    "address": "2000 Block Buck Lane",
+    "extra": {
+      "incidentNumber": "43514",
+      "run_id": "43514",
+      "address": "2000 Block Buck Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC5",
+      "units": "E24,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43514"
+    }
   }
 ]
