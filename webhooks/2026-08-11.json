@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43521"
     }
+  },
+  {
+    "runNumber": "43520",
+    "rawCode": "MED",
+    "timestamp": "2026-08-11T07:56:04.443286-04:00",
+    "address": "1900 Block Sandersville Road",
+    "extra": {
+      "incidentNumber": "43520",
+      "run_id": "43520",
+      "address": "1900 Block Sandersville Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43520"
+    }
   }
 ]
