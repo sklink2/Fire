@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43541"
     }
+  },
+  {
+    "runNumber": "43540",
+    "rawCode": "FELF",
+    "timestamp": "2026-08-11T09:37:50.170890-04:00",
+    "address": "874 Cheryl Lane",
+    "extra": {
+      "incidentNumber": "43540",
+      "run_id": "43540",
+      "address": "874 Cheryl Lane",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E14,L02,204",
+      "units": "E11,E14,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-43540"
+    }
   }
 ]
