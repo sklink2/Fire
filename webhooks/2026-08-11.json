@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43598"
     }
+  },
+  {
+    "runNumber": "43600",
+    "rawCode": "MED",
+    "timestamp": "2026-08-11T14:25:28.071933-04:00",
+    "address": "4300 Block Shiptons End",
+    "extra": {
+      "incidentNumber": "43600",
+      "run_id": "43600",
+      "address": "4300 Block Shiptons End",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC3",
+      "units": "E20,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43600"
+    }
   }
 ]
