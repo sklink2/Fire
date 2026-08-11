@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43587"
     }
+  },
+  {
+    "runNumber": "43589",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-11T13:39:50.948979-04:00",
+    "address": "1530 Roanoke Road",
+    "extra": {
+      "incidentNumber": "43589",
+      "run_id": "43589",
+      "address": "1530 Roanoke Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14",
+      "units": "E14",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43589"
+    }
   }
 ]
