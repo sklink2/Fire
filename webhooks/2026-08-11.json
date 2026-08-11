@@ -1472,5 +1472,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43544"
     }
+  },
+  {
+    "runNumber": "43546",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-11T10:09:23.510455-04:00",
+    "address": "1019 Celia Lane",
+    "extra": {
+      "incidentNumber": "43546",
+      "run_id": "43546",
+      "address": "1019 Celia Lane",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,E20,L04,EC5,204,220",
+      "units": "E14,E20,L04,EC5,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-43546"
+    }
   }
 ]
