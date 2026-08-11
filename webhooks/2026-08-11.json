@@ -2418,5 +2418,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43588"
     }
+  },
+  {
+    "runNumber": "43587",
+    "rawCode": "MED",
+    "timestamp": "2026-08-11T13:36:24.422442-04:00",
+    "address": "600 Block Elsmere Park",
+    "extra": {
+      "incidentNumber": "43587",
+      "run_id": "43587",
+      "address": "600 Block Elsmere Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43587"
+    }
   }
 ]
