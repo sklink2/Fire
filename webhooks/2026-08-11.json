@@ -1824,5 +1824,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-43559"
     }
+  },
+  {
+    "runNumber": "43561",
+    "rawCode": "MED",
+    "timestamp": "2026-08-11T11:26:32.444535-04:00",
+    "address": "9700 Block Tates Creek Road",
+    "extra": {
+      "incidentNumber": "43561",
+      "run_id": "43561",
+      "address": "9700 Block Tates Creek Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC10",
+      "units": "E16,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43561"
+    }
   }
 ]
