@@ -2858,5 +2858,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43606"
     }
+  },
+  {
+    "runNumber": "43608",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-11T15:07:34.920124-04:00",
+    "address": "1051 Red Mile Road",
+    "extra": {
+      "incidentNumber": "43608",
+      "run_id": "43608",
+      "address": "1051 Red Mile Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E13,L04,204",
+      "units": "E06,E13,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-43608"
+    }
   }
 ]
