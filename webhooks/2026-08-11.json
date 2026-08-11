@@ -416,5 +416,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43497"
     }
+  },
+  {
+    "runNumber": "43498",
+    "rawCode": "MED",
+    "timestamp": "2026-08-11T04:22:02.109453-04:00",
+    "address": "700 Block Faulkner Avenue",
+    "extra": {
+      "incidentNumber": "43498",
+      "run_id": "43498",
+      "address": "700 Block Faulkner Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43498"
+    }
   }
 ]
