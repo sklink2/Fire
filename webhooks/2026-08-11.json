@@ -4992,5 +4992,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-43703"
     }
+  },
+  {
+    "runNumber": "43702",
+    "rawCode": "MED",
+    "timestamp": "2026-08-11T21:44:02.287775-04:00",
+    "address": "3500 Block Cave Court",
+    "extra": {
+      "incidentNumber": "43702",
+      "run_id": "43702",
+      "address": "3500 Block Cave Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43702"
+    }
   }
 ]
