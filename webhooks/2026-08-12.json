@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43857"
     }
+  },
+  {
+    "runNumber": "43859",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-12T16:26:44.244578-04:00",
+    "address": "239 Kentucky Avenue",
+    "extra": {
+      "incidentNumber": "43859",
+      "run_id": "43859",
+      "address": "239 Kentucky Avenue",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05",
+      "units": "E05",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43859"
+    }
   }
 ]
