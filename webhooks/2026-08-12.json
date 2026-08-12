@@ -2924,5 +2924,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43861"
     }
+  },
+  {
+    "runNumber": "43860",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-12T16:37:19.758338-04:00",
+    "address": "409 Laredo Court",
+    "extra": {
+      "incidentNumber": "43860",
+      "run_id": "43860",
+      "address": "409 Laredo Court",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,L07",
+      "units": "E07,L07",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43860"
+    }
   }
 ]
