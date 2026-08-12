@@ -3166,5 +3166,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43869"
     }
+  },
+  {
+    "runNumber": "43872",
+    "rawCode": "MED",
+    "timestamp": "2026-08-12T17:26:25.367939-04:00",
+    "address": "300 Block Boysenberry Street",
+    "extra": {
+      "incidentNumber": "43872",
+      "run_id": "43872",
+      "address": "300 Block Boysenberry Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,EC3",
+      "units": "E10,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43872"
+    }
   }
 ]
