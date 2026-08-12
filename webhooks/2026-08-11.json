@@ -4926,5 +4926,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43700"
     }
+  },
+  {
+    "runNumber": "43699",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-11T21:36:59.893571-04:00",
+    "address": "720 Orlean Circle",
+    "extra": {
+      "incidentNumber": "43699",
+      "run_id": "43699",
+      "address": "720 Orlean Circle",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E16,L06,202",
+      "units": "E09,E16,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-43699"
+    }
   }
 ]
