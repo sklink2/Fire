@@ -284,5 +284,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43741"
     }
+  },
+  {
+    "runNumber": "43742",
+    "rawCode": "MED",
+    "timestamp": "2026-08-12T03:41:51.348196-04:00",
+    "address": "4200 Block Sperling Drive",
+    "extra": {
+      "incidentNumber": "43742",
+      "run_id": "43742",
+      "address": "4200 Block Sperling Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43742"
+    }
   }
 ]
