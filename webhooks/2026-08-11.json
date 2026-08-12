@@ -4838,5 +4838,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-43694"
     }
+  },
+  {
+    "runNumber": "43696",
+    "rawCode": "FWID",
+    "timestamp": "2026-08-11T21:26:24.227972-04:00",
+    "address": "3500 Laredo Drive",
+    "extra": {
+      "incidentNumber": "43696",
+      "run_id": "43696",
+      "address": "3500 Laredo Drive",
+      "rawType": "FWID",
+      "typeCode": "FWID",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07",
+      "units": "E07",
+      "unitCount": "1",
+      "primaryTopic": "FWID",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43696"
+    }
   }
 ]
