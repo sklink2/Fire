@@ -5168,5 +5168,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43710"
     }
+  },
+  {
+    "runNumber": "43709",
+    "rawCode": "MED",
+    "timestamp": "2026-08-11T22:43:43.019641-04:00",
+    "address": "300 Block Mulberry Drive",
+    "extra": {
+      "incidentNumber": "43709",
+      "run_id": "43709",
+      "address": "300 Block Mulberry Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC2,201",
+      "units": "E09,EC2,201",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-43709"
+    }
   }
 ]
