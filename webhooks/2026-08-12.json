@@ -3628,5 +3628,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-43891"
     }
+  },
+  {
+    "runNumber": "43894",
+    "rawCode": "FWID",
+    "timestamp": "2026-08-12T18:29:33.942502-04:00",
+    "address": "2483 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "43894",
+      "run_id": "43894",
+      "address": "2483 Nicholasville Road",
+      "rawType": "FWID",
+      "typeCode": "FWID",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07",
+      "units": "E07",
+      "unitCount": "1",
+      "primaryTopic": "FWID",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43894"
+    }
   }
 ]
