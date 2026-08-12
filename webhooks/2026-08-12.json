@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43810"
     }
+  },
+  {
+    "runNumber": "43809",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-12T11:53:11.523917-04:00",
+    "address": "1530 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "43809",
+      "run_id": "43809",
+      "address": "1530 Nicholasville Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E12,L02,202",
+      "units": "E06,E12,L02,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-43809"
+    }
   }
 ]
