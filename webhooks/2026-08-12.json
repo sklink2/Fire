@@ -1802,5 +1802,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-43809"
     }
+  },
+  {
+    "runNumber": "43812",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-08-12T11:56:34.505346-04:00",
+    "address": "160 N Eagle Creek Drive",
+    "extra": {
+      "incidentNumber": "43812",
+      "run_id": "43812",
+      "address": "160 N Eagle Creek Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21",
+      "units": "E21",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43812"
+    }
   }
 ]
