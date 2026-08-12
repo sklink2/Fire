@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43751"
     }
+  },
+  {
+    "runNumber": "43750",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-12T04:55:33.249204-04:00",
+    "address": "64 Wb / 81.2 Mm",
+    "extra": {
+      "incidentNumber": "43750",
+      "run_id": "43750",
+      "address": "64 Wb / 81.2 Mm",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E17,E23,EC3",
+      "units": "E17,E23,EC3",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43750"
+    }
   }
 ]
