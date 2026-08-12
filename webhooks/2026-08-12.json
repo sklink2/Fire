@@ -64,5 +64,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43731"
     }
+  },
+  {
+    "runNumber": "43732",
+    "rawCode": "MED",
+    "timestamp": "2026-08-12T00:35:53.181319-04:00",
+    "address": "100 Block Codell Drive",
+    "extra": {
+      "incidentNumber": "43732",
+      "run_id": "43732",
+      "address": "100 Block Codell Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43732"
+    }
   }
 ]
