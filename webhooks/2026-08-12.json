@@ -570,5 +570,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43754"
     }
+  },
+  {
+    "runNumber": "43755",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-12T05:48:12.872228-04:00",
+    "address": "75 Nb / 120.0 Mm (Iron Works",
+    "extra": {
+      "incidentNumber": "43755",
+      "run_id": "43755",
+      "address": "75 Nb / 120.0 Mm (Iron Works",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,L03,EC10,203,241,RS1",
+      "units": "E10,L03,EC10,203,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-43755"
+    }
   }
 ]
