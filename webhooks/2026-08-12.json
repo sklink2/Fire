@@ -2462,5 +2462,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-43840"
     }
+  },
+  {
+    "runNumber": "43841",
+    "rawCode": "FMIS",
+    "timestamp": "2026-08-12T14:44:59.718479-04:00",
+    "address": "1741 Millbank Road",
+    "extra": {
+      "incidentNumber": "43841",
+      "run_id": "43841",
+      "address": "1741 Millbank Road",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,202",
+      "units": "E10,202",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-43841"
+    }
   }
 ]
