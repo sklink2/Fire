@@ -3320,5 +3320,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43878"
     }
+  },
+  {
+    "runNumber": "43880",
+    "rawCode": "MED",
+    "timestamp": "2026-08-12T17:50:59.124302-04:00",
+    "address": "500 Block Claymont Drive",
+    "extra": {
+      "incidentNumber": "43880",
+      "run_id": "43880",
+      "address": "500 Block Claymont Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,EC13",
+      "units": "E12,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43880"
+    }
   }
 ]
