@@ -4684,5 +4684,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43689"
     }
+  },
+  {
+    "runNumber": "43688",
+    "rawCode": "FSTR",
+    "timestamp": "2026-08-11T20:33:56.170305-04:00",
+    "address": "1106 Centre Parkway",
+    "extra": {
+      "incidentNumber": "43688",
+      "run_id": "43688",
+      "address": "1106 Centre Parkway",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E09,E15,E16,L04,L07,EC13,201,202,220,241,RS1",
+      "units": "E07,E09,E15,E16,L04,L07,EC13,201,202,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,202",
+      "dedupeKey": "INCIDENT-43688"
+    }
   }
 ]
