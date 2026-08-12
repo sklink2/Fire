@@ -1758,5 +1758,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43811"
     }
+  },
+  {
+    "runNumber": "43810",
+    "rawCode": "FMEA",
+    "timestamp": "2026-08-12T11:53:07.552854-04:00",
+    "address": "2925 Summerfield Drive",
+    "extra": {
+      "incidentNumber": "43810",
+      "run_id": "43810",
+      "address": "2925 Summerfield Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24",
+      "units": "E24",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43810"
+    }
   }
 ]
