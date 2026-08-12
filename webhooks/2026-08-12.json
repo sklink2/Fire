@@ -2572,5 +2572,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-43845"
     }
+  },
+  {
+    "runNumber": "43844",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-12T15:06:08.360170-04:00",
+    "address": "S Limestone & State Street",
+    "extra": {
+      "incidentNumber": "43844",
+      "run_id": "43844",
+      "address": "S Limestone & State Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,EC7,241",
+      "units": "E06,EC7,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-43844"
+    }
   }
 ]
