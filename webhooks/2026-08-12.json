@@ -2528,5 +2528,27 @@
       "commandUnits": "201,205",
       "dedupeKey": "INCIDENT-43830"
     }
+  },
+  {
+    "runNumber": "43843",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-12T15:02:33.662325-04:00",
+    "address": "780 Rose Hurst Way",
+    "extra": {
+      "incidentNumber": "43843",
+      "run_id": "43843",
+      "address": "780 Rose Hurst Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,E22,L07,203",
+      "units": "E16,E22,L07,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-43843"
+    }
   }
 ]
