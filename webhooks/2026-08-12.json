@@ -1098,5 +1098,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-43777"
     }
+  },
+  {
+    "runNumber": "43779",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-12T08:40:11.121795-04:00",
+    "address": "Versailles / Woodford Co Line",
+    "extra": {
+      "incidentNumber": "43779",
+      "run_id": "43779",
+      "address": "Versailles / Woodford Co Line",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,L04,EC6,204,241",
+      "units": "E14,L04,EC6,204,241",
+      "unitCount": "5",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,204",
+      "dedupeKey": "INCIDENT-43779"
+    }
   }
 ]
