@@ -3914,5 +3914,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-43906"
     }
+  },
+  {
+    "runNumber": "43907",
+    "rawCode": "MED",
+    "timestamp": "2026-08-12T19:18:40.965036-04:00",
+    "address": "1700 Block Sheffield Court",
+    "extra": {
+      "incidentNumber": "43907",
+      "run_id": "43907",
+      "address": "1700 Block Sheffield Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC8",
+      "units": "E08,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43907"
+    }
   }
 ]
