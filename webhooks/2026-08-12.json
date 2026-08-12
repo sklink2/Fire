@@ -2198,5 +2198,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43828"
     }
+  },
+  {
+    "runNumber": "43830",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-12T13:41:51.102678-04:00",
+    "address": "3109 Weymouth Court",
+    "extra": {
+      "incidentNumber": "43830",
+      "run_id": "43830",
+      "address": "3109 Weymouth Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E21,L06,201",
+      "units": "E02,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-43830"
+    }
   }
 ]
