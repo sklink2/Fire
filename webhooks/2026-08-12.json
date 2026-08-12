@@ -1472,5 +1472,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43795"
     }
+  },
+  {
+    "runNumber": "43796",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-12T10:56:57.043627-04:00",
+    "address": "271 W Short Street",
+    "extra": {
+      "incidentNumber": "43796",
+      "run_id": "43796",
+      "address": "271 W Short Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E06,E13,L01,205",
+      "units": "E01,E06,E13,L01,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-43796"
+    }
   }
 ]
