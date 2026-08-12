@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43837"
     }
+  },
+  {
+    "runNumber": "43839",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-12T14:20:26.092663-04:00",
+    "address": "1299 Winburn Drive",
+    "extra": {
+      "incidentNumber": "43839",
+      "run_id": "43839",
+      "address": "1299 Winburn Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,E19,L01,202",
+      "units": "E10,E19,L01,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-43839"
+    }
   }
 ]
