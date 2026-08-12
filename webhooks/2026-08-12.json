@@ -2506,5 +2506,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43842"
     }
+  },
+  {
+    "runNumber": "43830",
+    "rawCode": "FSTRW",
+    "timestamp": "2026-08-12T14:59:01.674231-04:00",
+    "address": "3109 Weymouth Court",
+    "extra": {
+      "incidentNumber": "43830",
+      "run_id": "43830",
+      "address": "3109 Weymouth Court",
+      "rawType": "FSTRW",
+      "typeCode": "FSTRW",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E08,E09,E17,E21,L05,L06,EC11,EC8,201,205,RS1,432,433,436",
+      "units": "E02,E08,E09,E17,E21,L05,L06,EC11,EC8,201,205,RS1,432,433,436",
+      "unitCount": "15",
+      "primaryTopic": "FSTRW",
+      "commandUnits": "201,205",
+      "dedupeKey": "INCIDENT-43830"
+    }
   }
 ]
