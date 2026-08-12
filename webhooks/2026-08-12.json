@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43807"
     }
+  },
+  {
+    "runNumber": "43811",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-12T11:53:04.395558-04:00",
+    "address": "Pasadena Drive & Clays Mill Road",
+    "extra": {
+      "incidentNumber": "43811",
+      "run_id": "43811",
+      "address": "Pasadena Drive & Clays Mill Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC5",
+      "units": "E20,EC5",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43811"
+    }
   }
 ]
