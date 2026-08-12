@@ -2088,5 +2088,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43824"
     }
+  },
+  {
+    "runNumber": "43826",
+    "rawCode": "MED",
+    "timestamp": "2026-08-12T13:31:18.273648-04:00",
+    "address": "100 Block Malabu Drive",
+    "extra": {
+      "incidentNumber": "43826",
+      "run_id": "43826",
+      "address": "100 Block Malabu Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "CRT1",
+      "units": "CRT1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43826"
+    }
   }
 ]
