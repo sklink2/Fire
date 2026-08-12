@@ -2264,5 +2264,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43832"
     }
+  },
+  {
+    "runNumber": "43831",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-12T13:59:26.207729-04:00",
+    "address": "4820 Waterside Drive",
+    "extra": {
+      "incidentNumber": "43831",
+      "run_id": "43831",
+      "address": "4820 Waterside Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E11,L07,EC4,204",
+      "units": "E06,E11,L07,EC4,204",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-43831"
+    }
   }
 ]
