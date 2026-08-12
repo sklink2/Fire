@@ -1076,5 +1076,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43778"
     }
+  },
+  {
+    "runNumber": "43777",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-12T08:36:40.014978-04:00",
+    "address": "12 Mentelle Park",
+    "extra": {
+      "incidentNumber": "43777",
+      "run_id": "43777",
+      "address": "12 Mentelle Park",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E09,L02,205",
+      "units": "E05,E09,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-43777"
+    }
   }
 ]
