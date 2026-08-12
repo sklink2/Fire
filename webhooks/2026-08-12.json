@@ -3364,5 +3364,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43879"
     }
+  },
+  {
+    "runNumber": "43881",
+    "rawCode": "MED",
+    "timestamp": "2026-08-12T17:54:29.162302-04:00",
+    "address": "2200 Block Innovation Drive",
+    "extra": {
+      "incidentNumber": "43881",
+      "run_id": "43881",
+      "address": "2200 Block Innovation Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,EC9",
+      "units": "E24,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43881"
+    }
   }
 ]
