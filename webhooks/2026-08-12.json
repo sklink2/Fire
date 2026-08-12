@@ -900,5 +900,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43769"
     }
+  },
+  {
+    "runNumber": "43770",
+    "rawCode": "FVIS",
+    "timestamp": "2026-08-12T07:54:31.339618-04:00",
+    "address": "1920 Plaudit Place",
+    "extra": {
+      "incidentNumber": "43770",
+      "run_id": "43770",
+      "address": "1920 Plaudit Place",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E09,E17,L06,EC8,201,RS1",
+      "units": "E02,E09,E17,L06,EC8,201,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-43770"
+    }
   }
 ]
