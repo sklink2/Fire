@@ -482,5 +482,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43750"
     }
+  },
+  {
+    "runNumber": "43749",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-12T04:55:36.858379-04:00",
+    "address": "4159 Reserve Road",
+    "extra": {
+      "incidentNumber": "43749",
+      "run_id": "43749",
+      "address": "4159 Reserve Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43749"
+    }
   }
 ]
