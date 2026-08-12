@@ -2000,5 +2000,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-43819"
     }
+  },
+  {
+    "runNumber": "43818",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-12T12:42:11.048172-04:00",
+    "address": "1736 Abbington Hill",
+    "extra": {
+      "incidentNumber": "43818",
+      "run_id": "43818",
+      "address": "1736 Abbington Hill",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L04",
+      "units": "L04",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43818"
+    }
   }
 ]
