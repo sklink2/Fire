@@ -1406,5 +1406,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43792"
     }
+  },
+  {
+    "runNumber": "43793",
+    "rawCode": "FCMS",
+    "timestamp": "2026-08-12T10:46:27.565894-04:00",
+    "address": "217 Vanderbilt Drive",
+    "extra": {
+      "incidentNumber": "43793",
+      "run_id": "43793",
+      "address": "217 Vanderbilt Drive",
+      "rawType": "FCMS",
+      "typeCode": "FCMS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L07,EC9,204,220",
+      "units": "L07,EC9,204,220",
+      "unitCount": "4",
+      "primaryTopic": "FCMS",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-43793"
+    }
   }
 ]
