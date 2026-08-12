@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43771"
     }
+  },
+  {
+    "runNumber": "43773",
+    "rawCode": "FMEA",
+    "timestamp": "2026-08-12T08:08:32.280414-04:00",
+    "address": "3441 Laredo Drive",
+    "extra": {
+      "incidentNumber": "43773",
+      "run_id": "43773",
+      "address": "3441 Laredo Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07",
+      "units": "E07",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43773"
+    }
   }
 ]
