@@ -1032,5 +1032,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43775"
     }
+  },
+  {
+    "runNumber": "43776",
+    "rawCode": "MED",
+    "timestamp": "2026-08-12T08:26:04.126734-04:00",
+    "address": "2100 Block Paul Jones Way",
+    "extra": {
+      "incidentNumber": "43776",
+      "run_id": "43776",
+      "address": "2100 Block Paul Jones Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L06,EC8",
+      "units": "L06,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43776"
+    }
   }
 ]
