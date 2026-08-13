@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44086"
     }
+  },
+  {
+    "runNumber": "44085",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-13T13:36:53.031311-04:00",
+    "address": "1760 Jaggie Fox Way",
+    "extra": {
+      "incidentNumber": "44085",
+      "run_id": "44085",
+      "address": "1760 Jaggie Fox Way",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E10,L03,203,220",
+      "units": "E02,E10,L03,203,220",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,203",
+      "dedupeKey": "INCIDENT-44085"
+    }
   }
 ]
