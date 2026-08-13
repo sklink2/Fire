@@ -1758,5 +1758,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-44047"
     }
+  },
+  {
+    "runNumber": "44049",
+    "rawCode": "MED",
+    "timestamp": "2026-08-13T11:48:03.363244-04:00",
+    "address": "1900 Block Pavilion Way",
+    "extra": {
+      "incidentNumber": "44049",
+      "run_id": "44049",
+      "address": "1900 Block Pavilion Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L05,EC11",
+      "units": "L05,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44049"
+    }
   }
 ]
