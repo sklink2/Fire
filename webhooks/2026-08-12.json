@@ -4332,5 +4332,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43926"
     }
+  },
+  {
+    "runNumber": "43925",
+    "rawCode": "MED",
+    "timestamp": "2026-08-12T21:03:57.859615-04:00",
+    "address": "3900 Block Peppertree Drive",
+    "extra": {
+      "incidentNumber": "43925",
+      "run_id": "43925",
+      "address": "3900 Block Peppertree Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43925"
+    }
   }
 ]
