@@ -3276,5 +3276,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44119"
     }
+  },
+  {
+    "runNumber": "44122",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-13T16:35:46.500744-04:00",
+    "address": "Armstrong Mill Road & Appian Way",
+    "extra": {
+      "incidentNumber": "44122",
+      "run_id": "44122",
+      "address": "Armstrong Mill Road & Appian Way",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC1,EC13",
+      "units": "E16,EC1,EC13",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44122"
+    }
   }
 ]
