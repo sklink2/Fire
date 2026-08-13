@@ -284,5 +284,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43956"
     }
+  },
+  {
+    "runNumber": "43986",
+    "rawCode": "FDET",
+    "timestamp": "2026-08-13T06:46:52.502694-04:00",
+    "address": "Detail Radios 1 & 2",
+    "extra": {
+      "incidentNumber": "43986",
+      "run_id": "43986",
+      "address": "Detail Radios 1 & 2",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC35",
+      "units": "EC35",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43986"
+    }
   }
 ]
