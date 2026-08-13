@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44001"
     }
+  },
+  {
+    "runNumber": "44003",
+    "rawCode": "MED",
+    "timestamp": "2026-08-13T07:56:30.213036-04:00",
+    "address": "2000 Block Dunkirk Drive",
+    "extra": {
+      "incidentNumber": "44003",
+      "run_id": "44003",
+      "address": "2000 Block Dunkirk Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44003"
+    }
   }
 ]
