@@ -2374,5 +2374,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44078"
     }
+  },
+  {
+    "runNumber": "44077",
+    "rawCode": "MED",
+    "timestamp": "2026-08-13T13:22:48.601420-04:00",
+    "address": "700 Block Dardanelles Drive",
+    "extra": {
+      "incidentNumber": "44077",
+      "run_id": "44077",
+      "address": "700 Block Dardanelles Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1,CRT1",
+      "units": "EC1,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44077"
+    }
   }
 ]
