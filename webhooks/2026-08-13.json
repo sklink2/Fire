@@ -2660,5 +2660,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-44090"
     }
+  },
+  {
+    "runNumber": "44092",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-13T14:18:56.814760-04:00",
+    "address": "465 Southpoint Drive",
+    "extra": {
+      "incidentNumber": "44092",
+      "run_id": "44092",
+      "address": "465 Southpoint Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E22,L07,202",
+      "units": "E16,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-44092"
+    }
   }
 ]
