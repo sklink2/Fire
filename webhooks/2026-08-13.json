@@ -1450,5 +1450,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44034"
     }
+  },
+  {
+    "runNumber": "44037",
+    "rawCode": "MED",
+    "timestamp": "2026-08-13T10:34:21.358553-04:00",
+    "address": "2800 Block Runnymede Way",
+    "extra": {
+      "incidentNumber": "44037",
+      "run_id": "44037",
+      "address": "2800 Block Runnymede Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,EC10",
+      "units": "E20,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44037"
+    }
   }
 ]
