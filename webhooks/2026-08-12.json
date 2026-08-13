@@ -4046,5 +4046,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43912"
     }
+  },
+  {
+    "runNumber": "43913",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-12T20:00:49.776284-04:00",
+    "address": "1500 College Way",
+    "extra": {
+      "incidentNumber": "43913",
+      "run_id": "43913",
+      "address": "1500 College Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,L02,204",
+      "units": "E05,E06,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-43913"
+    }
   }
 ]
