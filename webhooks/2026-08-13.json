@@ -3408,5 +3408,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44125"
     }
+  },
+  {
+    "runNumber": "44126",
+    "rawCode": "MED",
+    "timestamp": "2026-08-13T16:49:48.248607-04:00",
+    "address": "400 Block Elm Street",
+    "extra": {
+      "incidentNumber": "44126",
+      "run_id": "44126",
+      "address": "400 Block Elm Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44126"
+    }
   }
 ]
