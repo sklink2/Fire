@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44003"
     }
+  },
+  {
+    "runNumber": "44002",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-08-13T07:56:32.697601-04:00",
+    "address": "2688 Pink Pigeon Parkway",
+    "extra": {
+      "incidentNumber": "44002",
+      "run_id": "44002",
+      "address": "2688 Pink Pigeon Parkway",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L05",
+      "units": "L05",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44002"
+    }
   }
 ]
