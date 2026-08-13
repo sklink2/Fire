@@ -2264,5 +2264,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-44072"
     }
+  },
+  {
+    "runNumber": "44071",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-13T13:05:19.157862-04:00",
+    "address": "6411 Polo Club Lane",
+    "extra": {
+      "incidentNumber": "44071",
+      "run_id": "44071",
+      "address": "6411 Polo Club Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E08,L06,205",
+      "units": "E02,E08,L06,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-44071"
+    }
   }
 ]
