@@ -2682,5 +2682,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-44092"
     }
+  },
+  {
+    "runNumber": "44091",
+    "rawCode": "MED",
+    "timestamp": "2026-08-13T14:19:00.883895-04:00",
+    "address": "1000 Block E New Circle Road",
+    "extra": {
+      "incidentNumber": "44091",
+      "run_id": "44091",
+      "address": "1000 Block E New Circle Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44091"
+    }
   }
 ]
