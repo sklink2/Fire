@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44014"
     }
+  },
+  {
+    "runNumber": "44013",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-13T09:03:14.843587-04:00",
+    "address": "Fontaine Road & Lakeshore Drive",
+    "extra": {
+      "incidentNumber": "44013",
+      "run_id": "44013",
+      "address": "Fontaine Road & Lakeshore Drive",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E05,201",
+      "units": "E02,E05,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-44013"
+    }
   }
 ]
