@@ -900,5 +900,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44010"
     }
+  },
+  {
+    "runNumber": "44009",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-13T08:38:41.280578-04:00",
+    "address": "N Broadway & S 75 Ramp",
+    "extra": {
+      "incidentNumber": "44009",
+      "run_id": "44009",
+      "address": "N Broadway & S 75 Ramp",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,L05,EC3,EC6,EC8,201,241,RS1",
+      "units": "E08,L05,EC3,EC6,EC8,201,241,RS1",
+      "unitCount": "8",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-44009"
+    }
   }
 ]
