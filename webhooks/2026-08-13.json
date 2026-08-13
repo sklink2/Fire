@@ -1604,5 +1604,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44040"
     }
+  },
+  {
+    "runNumber": "44042",
+    "rawCode": "MED",
+    "timestamp": "2026-08-13T11:02:26.968049-04:00",
+    "address": "200 Block Old Todds Road",
+    "extra": {
+      "incidentNumber": "44042",
+      "run_id": "44042",
+      "address": "200 Block Old Todds Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC9",
+      "units": "E09,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44042"
+    }
   }
 ]
