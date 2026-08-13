@@ -1560,5 +1560,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44038"
     }
+  },
+  {
+    "runNumber": "44041",
+    "rawCode": "MED",
+    "timestamp": "2026-08-13T10:48:24.234852-04:00",
+    "address": "300 Block Ferguson Street",
+    "extra": {
+      "incidentNumber": "44041",
+      "run_id": "44041",
+      "address": "300 Block Ferguson Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1,RS1",
+      "units": "EC1,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44041"
+    }
   }
 ]
