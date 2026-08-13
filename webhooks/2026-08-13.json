@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44141"
     }
+  },
+  {
+    "runNumber": "44143",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-13T17:56:29.181292-04:00",
+    "address": "2260 Elkhorn Road",
+    "extra": {
+      "incidentNumber": "44143",
+      "run_id": "44143",
+      "address": "2260 Elkhorn Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,L05,220",
+      "units": "E02,L05,220",
+      "unitCount": "3",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-44143"
+    }
   }
 ]
