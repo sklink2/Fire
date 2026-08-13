@@ -922,5 +922,27 @@
       "commandUnits": "241,201",
       "dedupeKey": "INCIDENT-44009"
     }
+  },
+  {
+    "runNumber": "44011",
+    "rawCode": "FCAR",
+    "timestamp": "2026-08-13T08:45:38.623078-04:00",
+    "address": "426 Southridge Drive",
+    "extra": {
+      "incidentNumber": "44011",
+      "run_id": "44011",
+      "address": "426 Southridge Drive",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01",
+      "units": "L01",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44011"
+    }
   }
 ]
