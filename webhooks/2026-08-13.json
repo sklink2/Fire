@@ -2088,5 +2088,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44062"
     }
+  },
+  {
+    "runNumber": "44064",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-13T12:40:39.739972-04:00",
+    "address": "S Eagle Creek Drive & Richmond Road",
+    "extra": {
+      "incidentNumber": "44064",
+      "run_id": "44064",
+      "address": "S Eagle Creek Drive & Richmond Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1,RS1",
+      "units": "EC1,RS1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44064"
+    }
   }
 ]
