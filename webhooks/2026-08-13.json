@@ -1010,5 +1010,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-44013"
     }
+  },
+  {
+    "runNumber": "44016",
+    "rawCode": "FMEA",
+    "timestamp": "2026-08-13T09:06:42.152906-04:00",
+    "address": "223 S Eagle Creek Drive",
+    "extra": {
+      "incidentNumber": "44016",
+      "run_id": "44016",
+      "address": "223 S Eagle Creek Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16",
+      "units": "E16",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44016"
+    }
   }
 ]
