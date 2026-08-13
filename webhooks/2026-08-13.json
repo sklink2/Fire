@@ -2616,5 +2616,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44087"
     }
+  },
+  {
+    "runNumber": "44089",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-13T14:01:23.474250-04:00",
+    "address": "736 W Main Street",
+    "extra": {
+      "incidentNumber": "44089",
+      "run_id": "44089",
+      "address": "736 W Main Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E14,L01,205",
+      "units": "E06,E14,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-44089"
+    }
   }
 ]
