@@ -3474,5 +3474,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44129"
     }
+  },
+  {
+    "runNumber": "44128",
+    "rawCode": "MED",
+    "timestamp": "2026-08-13T16:56:51.669340-04:00",
+    "address": "2200 Block Liberty Road",
+    "extra": {
+      "incidentNumber": "44128",
+      "run_id": "44128",
+      "address": "2200 Block Liberty Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC13",
+      "units": "E02,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44128"
+    }
   }
 ]
