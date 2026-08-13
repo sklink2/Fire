@@ -1494,5 +1494,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-44036"
     }
+  },
+  {
+    "runNumber": "44035",
+    "rawCode": "MED",
+    "timestamp": "2026-08-13T10:34:29.385702-04:00",
+    "address": "4600 Block Honeycomb Trail",
+    "extra": {
+      "incidentNumber": "44035",
+      "run_id": "44035",
+      "address": "4600 Block Honeycomb Trail",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC4",
+      "units": "E21,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44035"
+    }
   }
 ]
