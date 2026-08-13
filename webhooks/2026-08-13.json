@@ -3584,5 +3584,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44132"
     }
+  },
+  {
+    "runNumber": "44136",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-13T17:17:52.456478-04:00",
+    "address": "1090 Griffin Gate Drive",
+    "extra": {
+      "incidentNumber": "44136",
+      "run_id": "44136",
+      "address": "1090 Griffin Gate Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L03",
+      "units": "L03",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44136"
+    }
   }
 ]
