@@ -2242,5 +2242,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44068"
     }
+  },
+  {
+    "runNumber": "44072",
+    "rawCode": "MED",
+    "timestamp": "2026-08-13T13:05:14.733240-04:00",
+    "address": "2300 Block Liberty Road",
+    "extra": {
+      "incidentNumber": "44072",
+      "run_id": "44072",
+      "address": "2300 Block Liberty Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01,EC20,241",
+      "units": "L01,EC20,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-44072"
+    }
   }
 ]
