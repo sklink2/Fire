@@ -3606,5 +3606,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44136"
     }
+  },
+  {
+    "runNumber": "44135",
+    "rawCode": "MED",
+    "timestamp": "2026-08-13T17:17:55.005804-04:00",
+    "address": "300 Block Glen Arvin Avenue",
+    "extra": {
+      "incidentNumber": "44135",
+      "run_id": "44135",
+      "address": "300 Block Glen Arvin Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC21",
+      "units": "E10,EC21",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44135"
+    }
   }
 ]
