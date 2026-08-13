@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44053"
     }
+  },
+  {
+    "runNumber": "44052",
+    "rawCode": "MED",
+    "timestamp": "2026-08-13T12:05:42.658867-04:00",
+    "address": "2200 Block Spurr Road",
+    "extra": {
+      "incidentNumber": "44052",
+      "run_id": "44052",
+      "address": "2200 Block Spurr Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC10",
+      "units": "E24,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44052"
+    }
   }
 ]
