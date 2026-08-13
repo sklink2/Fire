@@ -1318,5 +1318,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44028"
     }
+  },
+  {
+    "runNumber": "44029",
+    "rawCode": "MED",
+    "timestamp": "2026-08-13T10:09:47.865511-04:00",
+    "address": "100 Block Jefferson Street",
+    "extra": {
+      "incidentNumber": "44029",
+      "run_id": "44029",
+      "address": "100 Block Jefferson Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44029"
+    }
   }
 ]
