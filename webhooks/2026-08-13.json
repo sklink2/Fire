@@ -834,5 +834,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44007"
     }
+  },
+  {
+    "runNumber": "44009",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-13T08:35:06.259549-04:00",
+    "address": "N Broadway & S 75 Ramp",
+    "extra": {
+      "incidentNumber": "44009",
+      "run_id": "44009",
+      "address": "N Broadway & S 75 Ramp",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC6,EC8",
+      "units": "E08,EC6,EC8",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44009"
+    }
   }
 ]
