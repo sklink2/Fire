@@ -2154,5 +2154,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44067"
     }
+  },
+  {
+    "runNumber": "44066",
+    "rawCode": "MED",
+    "timestamp": "2026-08-13T12:54:46.353720-04:00",
+    "address": "3700 Block Red River Drive",
+    "extra": {
+      "incidentNumber": "44066",
+      "run_id": "44066",
+      "address": "3700 Block Red River Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC2",
+      "units": "E16,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44066"
+    }
   }
 ]
