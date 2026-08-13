@@ -4222,5 +4222,27 @@
       "commandUnits": "241,220,205",
       "dedupeKey": "INCIDENT-44162"
     }
+  },
+  {
+    "runNumber": "44161",
+    "rawCode": "MED",
+    "timestamp": "2026-08-13T19:52:24.263764-04:00",
+    "address": "300 Block Radcliffe Road",
+    "extra": {
+      "incidentNumber": "44161",
+      "run_id": "44161",
+      "address": "300 Block Radcliffe Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC3,201",
+      "units": "E08,EC3,201",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-44161"
+    }
   }
 ]
