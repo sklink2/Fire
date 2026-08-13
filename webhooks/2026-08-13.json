@@ -526,5 +526,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-43996"
     }
+  },
+  {
+    "runNumber": "43995",
+    "rawCode": "MED",
+    "timestamp": "2026-08-13T07:21:25.709040-04:00",
+    "address": "100 Block Zandale Drive",
+    "extra": {
+      "incidentNumber": "43995",
+      "run_id": "43995",
+      "address": "100 Block Zandale Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11",
+      "units": "E11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43995"
+    }
   }
 ]
