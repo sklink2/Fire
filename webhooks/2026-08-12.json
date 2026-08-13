@@ -4068,5 +4068,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-43913"
     }
+  },
+  {
+    "runNumber": "43914",
+    "rawCode": "FCAR",
+    "timestamp": "2026-08-12T20:04:19.747769-04:00",
+    "address": "280 Castlewood Drive",
+    "extra": {
+      "incidentNumber": "43914",
+      "run_id": "43914",
+      "address": "280 Castlewood Drive",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L01",
+      "units": "L01",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-43914"
+    }
   }
 ]
