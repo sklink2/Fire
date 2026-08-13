@@ -2968,5 +2968,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44105"
     }
+  },
+  {
+    "runNumber": "44106",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-13T15:32:36.339585-04:00",
+    "address": "1351 Newtown Pike",
+    "extra": {
+      "incidentNumber": "44106",
+      "run_id": "44106",
+      "address": "1351 Newtown Pike",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E10,L03,203",
+      "units": "E08,E10,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-44106"
+    }
   }
 ]
