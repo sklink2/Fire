@@ -790,5 +790,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-44005"
     }
+  },
+  {
+    "runNumber": "44006",
+    "rawCode": "MED",
+    "timestamp": "2026-08-13T08:24:35.098532-04:00",
+    "address": "200 Block Twelfth Street",
+    "extra": {
+      "incidentNumber": "44006",
+      "run_id": "44006",
+      "address": "200 Block Twelfth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC3,CRT1",
+      "units": "EC3,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44006"
+    }
   }
 ]
