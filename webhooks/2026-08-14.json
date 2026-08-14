@@ -1318,5 +1318,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44259"
     }
+  },
+  {
+    "runNumber": "44258",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-14T09:50:54.305913-04:00",
+    "address": "3900 Fountainblue Lane",
+    "extra": {
+      "incidentNumber": "44258",
+      "run_id": "44258",
+      "address": "3900 Fountainblue Lane",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,E20,L04,EC9,203,220",
+      "units": "E14,E20,L04,EC9,203,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,203",
+      "dedupeKey": "INCIDENT-44258"
+    }
   }
 ]
