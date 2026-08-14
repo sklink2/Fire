@@ -4398,5 +4398,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44169"
     }
+  },
+  {
+    "runNumber": "44170",
+    "rawCode": "MED",
+    "timestamp": "2026-08-13T20:41:24.165850-04:00",
+    "address": "0 Block Larado Drive",
+    "extra": {
+      "incidentNumber": "44170",
+      "run_id": "44170",
+      "address": "0 Block Larado Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44170"
+    }
   }
 ]
