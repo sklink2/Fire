@@ -1494,5 +1494,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44269"
     }
+  },
+  {
+    "runNumber": "44268",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-14T10:43:28.494117-04:00",
+    "address": "780 Rose Street",
+    "extra": {
+      "incidentNumber": "44268",
+      "run_id": "44268",
+      "address": "780 Rose Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,E12,L02,205",
+      "units": "E05,E06,E12,L02,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-44268"
+    }
   }
 ]
