@@ -1956,5 +1956,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-44288"
     }
+  },
+  {
+    "runNumber": "44287",
+    "rawCode": "MED",
+    "timestamp": "2026-08-14T12:18:12.917602-04:00",
+    "address": "2200 Block Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "44287",
+      "run_id": "44287",
+      "address": "2200 Block Harrodsburg Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44287"
+    }
   }
 ]
