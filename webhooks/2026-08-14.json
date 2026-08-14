@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44231"
     }
+  },
+  {
+    "runNumber": "44232",
+    "rawCode": "MED",
+    "timestamp": "2026-08-14T07:19:55.003003-04:00",
+    "address": "700 Block Spring Meadows Drive",
+    "extra": {
+      "incidentNumber": "44232",
+      "run_id": "44232",
+      "address": "700 Block Spring Meadows Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44232"
+    }
   }
 ]
