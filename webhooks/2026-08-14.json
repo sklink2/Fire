@@ -1516,5 +1516,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-44268"
     }
+  },
+  {
+    "runNumber": "44267",
+    "rawCode": "MED",
+    "timestamp": "2026-08-14T10:43:33.368457-04:00",
+    "address": "1100 Block Gainesway Drive",
+    "extra": {
+      "incidentNumber": "44267",
+      "run_id": "44267",
+      "address": "1100 Block Gainesway Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44267"
+    }
   }
 ]
