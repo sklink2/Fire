@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44328"
     }
+  },
+  {
+    "runNumber": "44329",
+    "rawCode": "FELS",
+    "timestamp": "2026-08-14T15:03:01.947319-04:00",
+    "address": "1351 Newtown Pike",
+    "extra": {
+      "incidentNumber": "44329",
+      "run_id": "44329",
+      "address": "1351 Newtown Pike",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,L03,205",
+      "units": "E08,L03,205",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-44329"
+    }
   }
 ]
