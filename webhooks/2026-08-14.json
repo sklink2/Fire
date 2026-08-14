@@ -3056,5 +3056,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44337"
     }
+  },
+  {
+    "runNumber": "44336",
+    "rawCode": "MED",
+    "timestamp": "2026-08-14T15:41:38.652349-04:00",
+    "address": "1100 Block Iron Lace Court",
+    "extra": {
+      "incidentNumber": "44336",
+      "run_id": "44336",
+      "address": "1100 Block Iron Lace Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44336"
+    }
   }
 ]
