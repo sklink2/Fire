@@ -1648,5 +1648,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44273"
     }
+  },
+  {
+    "runNumber": "44274",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-14T11:07:59.386053-04:00",
+    "address": "560 S Forbes Road",
+    "extra": {
+      "incidentNumber": "44274",
+      "run_id": "44274",
+      "address": "560 S Forbes Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,EC12,203,CRT1",
+      "units": "E13,EC12,203,CRT1",
+      "unitCount": "4",
+      "primaryTopic": "FVEA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-44274"
+    }
   }
 ]
