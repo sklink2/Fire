@@ -306,5 +306,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-44212"
     }
+  },
+  {
+    "runNumber": "44214",
+    "rawCode": "MED",
+    "timestamp": "2026-08-14T03:07:20.007598-04:00",
+    "address": "400 Block Rogers Road",
+    "extra": {
+      "incidentNumber": "44214",
+      "run_id": "44214",
+      "address": "400 Block Rogers Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44214"
+    }
   }
 ]
