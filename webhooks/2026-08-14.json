@@ -2308,5 +2308,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44303"
     }
+  },
+  {
+    "runNumber": "44302",
+    "rawCode": "MED",
+    "timestamp": "2026-08-14T13:21:21.314042-04:00",
+    "address": "300 Block S Eagle Creek Drive",
+    "extra": {
+      "incidentNumber": "44302",
+      "run_id": "44302",
+      "address": "300 Block S Eagle Creek Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44302"
+    }
   }
 ]
