@@ -2088,5 +2088,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44291"
     }
+  },
+  {
+    "runNumber": "44293",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-14T12:56:46.936148-04:00",
+    "address": "2177 Cypress Drive",
+    "extra": {
+      "incidentNumber": "44293",
+      "run_id": "44293",
+      "address": "2177 Cypress Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E20,L04,205",
+      "units": "E11,E20,L04,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-44293"
+    }
   }
 ]
