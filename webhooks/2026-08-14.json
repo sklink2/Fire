@@ -1670,5 +1670,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-44274"
     }
+  },
+  {
+    "runNumber": "44277",
+    "rawCode": "MED",
+    "timestamp": "2026-08-14T11:29:01.232548-04:00",
+    "address": "2200 Block Executive Drive",
+    "extra": {
+      "incidentNumber": "44277",
+      "run_id": "44277",
+      "address": "2200 Block Executive Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02",
+      "units": "E02",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44277"
+    }
   }
 ]
