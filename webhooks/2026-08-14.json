@@ -636,5 +636,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44227"
     }
+  },
+  {
+    "runNumber": "44228",
+    "rawCode": "MED",
+    "timestamp": "2026-08-14T06:34:18.512647-04:00",
+    "address": "600 Block W Short Street",
+    "extra": {
+      "incidentNumber": "44228",
+      "run_id": "44228",
+      "address": "600 Block W Short Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44228"
+    }
   }
 ]
