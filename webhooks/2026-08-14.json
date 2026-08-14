@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44277"
     }
+  },
+  {
+    "runNumber": "44276",
+    "rawCode": "MED",
+    "timestamp": "2026-08-14T11:29:03.458413-04:00",
+    "address": "400 Block Joseph Bryan Way",
+    "extra": {
+      "incidentNumber": "44276",
+      "run_id": "44276",
+      "address": "400 Block Joseph Bryan Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC20",
+      "units": "EC20",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44276"
+    }
   }
 ]
