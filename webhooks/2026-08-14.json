@@ -614,5 +614,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44226"
     }
+  },
+  {
+    "runNumber": "44227",
+    "rawCode": "MED",
+    "timestamp": "2026-08-14T06:23:47.876410-04:00",
+    "address": "1300 Block Newtown Pike",
+    "extra": {
+      "incidentNumber": "44227",
+      "run_id": "44227",
+      "address": "1300 Block Newtown Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44227"
+    }
   }
 ]
