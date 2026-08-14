@@ -4706,5 +4706,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44184"
     }
+  },
+  {
+    "runNumber": "44183",
+    "rawCode": "MED",
+    "timestamp": "2026-08-13T21:55:07.446494-04:00",
+    "address": "400 Block N Cleveland Road",
+    "extra": {
+      "incidentNumber": "44183",
+      "run_id": "44183",
+      "address": "400 Block N Cleveland Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,E18,EC11",
+      "units": "E17,E18,EC11",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44183"
+    }
   }
 ]
