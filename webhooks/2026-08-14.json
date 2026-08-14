@@ -1934,5 +1934,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44286"
     }
+  },
+  {
+    "runNumber": "44288",
+    "rawCode": "FOTF",
+    "timestamp": "2026-08-14T12:18:10.241920-04:00",
+    "address": "2285 Maggard Drive",
+    "extra": {
+      "incidentNumber": "44288",
+      "run_id": "44288",
+      "address": "2285 Maggard Drive",
+      "rawType": "FOTF",
+      "typeCode": "FOTF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L03,203",
+      "units": "L03,203",
+      "unitCount": "2",
+      "primaryTopic": "FOTF",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-44288"
+    }
   }
 ]
