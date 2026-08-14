@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44228"
     }
+  },
+  {
+    "runNumber": "44229",
+    "rawCode": "MED",
+    "timestamp": "2026-08-14T06:44:49.794351-04:00",
+    "address": "2100 Block Capstone Drive",
+    "extra": {
+      "incidentNumber": "44229",
+      "run_id": "44229",
+      "address": "2100 Block Capstone Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC3",
+      "units": "E24,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44229"
+    }
   }
 ]
