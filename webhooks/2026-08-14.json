@@ -3122,5 +3122,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44338"
     }
+  },
+  {
+    "runNumber": "44341",
+    "rawCode": "MED",
+    "timestamp": "2026-08-14T15:55:38.613941-04:00",
+    "address": "400 Block W Main Street",
+    "extra": {
+      "incidentNumber": "44341",
+      "run_id": "44341",
+      "address": "400 Block W Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "RS1",
+      "units": "RS1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44341"
+    }
   }
 ]
