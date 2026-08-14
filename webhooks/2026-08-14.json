@@ -2704,5 +2704,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44320"
     }
+  },
+  {
+    "runNumber": "44321",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-14T14:31:28.432229-04:00",
+    "address": "4560 Iron Works Pike",
+    "extra": {
+      "incidentNumber": "44321",
+      "run_id": "44321",
+      "address": "4560 Iron Works Pike",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,E19,205",
+      "units": "E10,E19,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-44321"
+    }
   }
 ]
