@@ -570,5 +570,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44224"
     }
+  },
+  {
+    "runNumber": "44225",
+    "rawCode": "FDET",
+    "timestamp": "2026-08-14T05:34:40.859038-04:00",
+    "address": "3900 Rapid Run Drive",
+    "extra": {
+      "incidentNumber": "44225",
+      "run_id": "44225",
+      "address": "3900 Rapid Run Drive",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC34",
+      "units": "EC34",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44225"
+    }
   }
 ]
