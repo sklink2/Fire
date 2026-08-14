@@ -394,5 +394,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44216"
     }
+  },
+  {
+    "runNumber": "44217",
+    "rawCode": "MED",
+    "timestamp": "2026-08-14T03:35:23.196076-04:00",
+    "address": "100 Block N Upper Street",
+    "extra": {
+      "incidentNumber": "44217",
+      "run_id": "44217",
+      "address": "100 Block N Upper Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44217"
+    }
   }
 ]
