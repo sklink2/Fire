@@ -4332,5 +4332,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44166"
     }
+  },
+  {
+    "runNumber": "44167",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-13T20:20:20.855255-04:00",
+    "address": "322 Avocado Street",
+    "extra": {
+      "incidentNumber": "44167",
+      "run_id": "44167",
+      "address": "322 Avocado Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E13,L03,203",
+      "units": "E04,E13,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-44167"
+    }
   }
 ]
