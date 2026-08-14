@@ -1076,5 +1076,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-44246"
     }
+  },
+  {
+    "runNumber": "44248",
+    "rawCode": "MED",
+    "timestamp": "2026-08-14T09:12:11.917765-04:00",
+    "address": "700 Block Lakeview Drive",
+    "extra": {
+      "incidentNumber": "44248",
+      "run_id": "44248",
+      "address": "700 Block Lakeview Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC8",
+      "units": "E09,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44248"
+    }
   }
 ]
