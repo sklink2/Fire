@@ -3650,5 +3650,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44365"
     }
+  },
+  {
+    "runNumber": "44367",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-14T17:51:23.887230-04:00",
+    "address": "421 Davidson Court",
+    "extra": {
+      "incidentNumber": "44367",
+      "run_id": "44367",
+      "address": "421 Davidson Court",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44367"
+    }
   }
 ]
