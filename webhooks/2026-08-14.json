@@ -1054,5 +1054,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44247"
     }
+  },
+  {
+    "runNumber": "44246",
+    "rawCode": "MED",
+    "timestamp": "2026-08-14T09:05:15.455632-04:00",
+    "address": "Pine Street & S Upper Street",
+    "extra": {
+      "incidentNumber": "44246",
+      "run_id": "44246",
+      "address": "Pine Street & S Upper Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,241",
+      "units": "E06,241",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-44246"
+    }
   }
 ]
