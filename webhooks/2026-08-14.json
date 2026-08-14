@@ -592,5 +592,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44225"
     }
+  },
+  {
+    "runNumber": "44226",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-14T06:09:45.742089-04:00",
+    "address": "3212 Tates Creek Road",
+    "extra": {
+      "incidentNumber": "44226",
+      "run_id": "44226",
+      "address": "3212 Tates Creek Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L07",
+      "units": "L07",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44226"
+    }
   }
 ]
