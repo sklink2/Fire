@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44213"
     }
+  },
+  {
+    "runNumber": "44215",
+    "rawCode": "MED",
+    "timestamp": "2026-08-14T03:21:21.391615-04:00",
+    "address": "1700 Block Blue Licks Road",
+    "extra": {
+      "incidentNumber": "44215",
+      "run_id": "44215",
+      "address": "1700 Block Blue Licks Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,EC12",
+      "units": "E14,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44215"
+    }
   }
 ]
