@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44271"
     }
+  },
+  {
+    "runNumber": "44268",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-14T10:54:00.849220-04:00",
+    "address": "780 Rose Street",
+    "extra": {
+      "incidentNumber": "44268",
+      "run_id": "44268",
+      "address": "780 Rose Street",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E05,E06,E12,L02,205,220",
+      "units": "E04,E05,E06,E12,L02,205,220",
+      "unitCount": "7",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-44268"
+    }
   }
 ]
