@@ -878,5 +878,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44238"
     }
+  },
+  {
+    "runNumber": "44239",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-14T07:58:32.350835-04:00",
+    "address": "4910 Hartland Parkway",
+    "extra": {
+      "incidentNumber": "44239",
+      "run_id": "44239",
+      "address": "4910 Hartland Parkway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E16,L07,202",
+      "units": "E07,E16,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-44239"
+    }
   }
 ]
