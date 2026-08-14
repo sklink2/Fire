@@ -2022,5 +2022,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44288"
     }
+  },
+  {
+    "runNumber": "44290",
+    "rawCode": "MED",
+    "timestamp": "2026-08-14T12:32:11.318544-04:00",
+    "address": "1000 Block Merrick Drive",
+    "extra": {
+      "incidentNumber": "44290",
+      "run_id": "44290",
+      "address": "1000 Block Merrick Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC4",
+      "units": "E15,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44290"
+    }
   }
 ]
