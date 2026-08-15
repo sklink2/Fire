@@ -1120,5 +1120,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44480"
     }
+  },
+  {
+    "runNumber": "44481",
+    "rawCode": "MED",
+    "timestamp": "2026-08-15T09:28:05.237046-04:00",
+    "address": "200 Block Forest Hill Drive",
+    "extra": {
+      "incidentNumber": "44481",
+      "run_id": "44481",
+      "address": "200 Block Forest Hill Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L06,EC11",
+      "units": "L06,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44481"
+    }
   }
 ]
