@@ -3144,5 +3144,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44580"
     }
+  },
+  {
+    "runNumber": "44584",
+    "rawCode": "MED",
+    "timestamp": "2026-08-15T17:48:28.306583-04:00",
+    "address": "1700 Block Summerhill Drive",
+    "extra": {
+      "incidentNumber": "44584",
+      "run_id": "44584",
+      "address": "1700 Block Summerhill Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,EC13,EC4",
+      "units": "E16,EC13,EC4",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44584"
+    }
   }
 ]
