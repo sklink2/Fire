@@ -548,5 +548,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44454"
     }
+  },
+  {
+    "runNumber": "44455",
+    "rawCode": "MED",
+    "timestamp": "2026-08-15T03:40:46.116482-04:00",
+    "address": "1900 Block Dunkirk Drive",
+    "extra": {
+      "incidentNumber": "44455",
+      "run_id": "44455",
+      "address": "1900 Block Dunkirk Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44455"
+    }
   }
 ]
