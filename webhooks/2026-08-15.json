@@ -3760,5 +3760,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44608"
     }
+  },
+  {
+    "runNumber": "44610",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-15T19:30:11.899915-04:00",
+    "address": "3373 Tates Creek Road",
+    "extra": {
+      "incidentNumber": "44610",
+      "run_id": "44610",
+      "address": "3373 Tates Creek Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,E15,L07,202",
+      "units": "E07,E15,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-44610"
+    }
   }
 ]
