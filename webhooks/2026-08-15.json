@@ -2198,5 +2198,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44530"
     }
+  },
+  {
+    "runNumber": "44534",
+    "rawCode": "FDET",
+    "timestamp": "2026-08-15T13:16:07.454370-04:00",
+    "address": "601 E High Street",
+    "extra": {
+      "incidentNumber": "44534",
+      "run_id": "44534",
+      "address": "601 E High Street",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05",
+      "units": "E05",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44534"
+    }
   }
 ]
