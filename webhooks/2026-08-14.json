@@ -4222,5 +4222,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44390"
     }
+  },
+  {
+    "runNumber": "44391",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-14T20:11:46.570956-04:00",
+    "address": "2172 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "44391",
+      "run_id": "44391",
+      "address": "2172 Nicholasville Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,L04,EC9,204,241,RS1",
+      "units": "E12,L04,EC9,204,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,204",
+      "dedupeKey": "INCIDENT-44391"
+    }
   }
 ]
