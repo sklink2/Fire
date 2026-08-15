@@ -4772,5 +4772,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44416"
     }
+  },
+  {
+    "runNumber": "44415",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-14T22:11:02.935089-04:00",
+    "address": "650 Woodland Avenue",
+    "extra": {
+      "incidentNumber": "44415",
+      "run_id": "44415",
+      "address": "650 Woodland Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E05,E06,L02,205",
+      "units": "E01,E05,E06,L02,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-44415"
+    }
   }
 ]
