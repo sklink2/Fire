@@ -4794,5 +4794,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-44415"
     }
+  },
+  {
+    "runNumber": "44417",
+    "rawCode": "FUTL",
+    "timestamp": "2026-08-14T22:14:29.945459-04:00",
+    "address": "330 Newtown Pike",
+    "extra": {
+      "incidentNumber": "44417",
+      "run_id": "44417",
+      "address": "330 Newtown Pike",
+      "rawType": "FUTL",
+      "typeCode": "FUTL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L03",
+      "units": "L03",
+      "unitCount": "1",
+      "primaryTopic": "FUTL",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44417"
+    }
   }
 ]
