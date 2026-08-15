@@ -174,5 +174,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44436"
     }
+  },
+  {
+    "runNumber": "44438",
+    "rawCode": "MED",
+    "timestamp": "2026-08-15T00:55:53.196530-04:00",
+    "address": "1700 Block Augusta Court",
+    "extra": {
+      "incidentNumber": "44438",
+      "run_id": "44438",
+      "address": "1700 Block Augusta Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC2",
+      "units": "E02,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44438"
+    }
   }
 ]
