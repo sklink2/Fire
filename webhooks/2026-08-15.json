@@ -3782,5 +3782,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-44610"
     }
+  },
+  {
+    "runNumber": "44609",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-15T19:30:16.672761-04:00",
+    "address": "1349 Centre Parkway",
+    "extra": {
+      "incidentNumber": "44609",
+      "run_id": "44609",
+      "address": "1349 Centre Parkway",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16",
+      "units": "E16",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44609"
+    }
   }
 ]
