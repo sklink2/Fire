@@ -2748,5 +2748,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44555"
     }
+  },
+  {
+    "runNumber": "44558",
+    "rawCode": "MED",
+    "timestamp": "2026-08-15T15:29:30.462799-04:00",
+    "address": "400 Block Severn Way",
+    "extra": {
+      "incidentNumber": "44558",
+      "run_id": "44558",
+      "address": "400 Block Severn Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44558"
+    }
   }
 ]
