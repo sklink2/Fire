@@ -2132,5 +2132,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-44527"
     }
+  },
+  {
+    "runNumber": "44528",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-15T13:05:39.658696-04:00",
+    "address": "4186 Newtown Pike",
+    "extra": {
+      "incidentNumber": "44528",
+      "run_id": "44528",
+      "address": "4186 Newtown Pike",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,E19,L03,EC6,203,220",
+      "units": "E10,E19,L03,EC6,203,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,203",
+      "dedupeKey": "INCIDENT-44528"
+    }
   }
 ]
