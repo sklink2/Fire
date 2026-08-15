@@ -1626,5 +1626,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-44505"
     }
+  },
+  {
+    "runNumber": "44504",
+    "rawCode": "MED",
+    "timestamp": "2026-08-15T11:20:26.980270-04:00",
+    "address": "3500 Block Galahad Drive",
+    "extra": {
+      "incidentNumber": "44504",
+      "run_id": "44504",
+      "address": "3500 Block Galahad Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC4",
+      "units": "E15,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44504"
+    }
   }
 ]
