@@ -438,5 +438,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44450"
     }
+  },
+  {
+    "runNumber": "44449",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-15T02:37:40.872703-04:00",
+    "address": "150 Northland Drive",
+    "extra": {
+      "incidentNumber": "44449",
+      "run_id": "44449",
+      "address": "150 Northland Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44449"
+    }
   }
 ]
