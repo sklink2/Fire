@@ -4442,5 +4442,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44401"
     }
+  },
+  {
+    "runNumber": "44400",
+    "rawCode": "MED",
+    "timestamp": "2026-08-14T20:39:51.336805-04:00",
+    "address": "200 Block Sundown Drive",
+    "extra": {
+      "incidentNumber": "44400",
+      "run_id": "44400",
+      "address": "200 Block Sundown Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44400"
+    }
   }
 ]
