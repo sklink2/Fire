@@ -4332,5 +4332,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44394"
     }
+  },
+  {
+    "runNumber": "44396",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-14T20:22:16.074812-04:00",
+    "address": "738 Morgan Hills Drive",
+    "extra": {
+      "incidentNumber": "44396",
+      "run_id": "44396",
+      "address": "738 Morgan Hills Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E08,L05,201",
+      "units": "E02,E08,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-44396"
+    }
   }
 ]
