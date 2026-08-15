@@ -2154,5 +2154,27 @@
       "commandUnits": "220,203",
       "dedupeKey": "INCIDENT-44528"
     }
+  },
+  {
+    "runNumber": "44529",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-08-15T13:09:06.598357-04:00",
+    "address": "160 Constitution Street",
+    "extra": {
+      "incidentNumber": "44529",
+      "run_id": "44529",
+      "address": "160 Constitution Street",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "RS1",
+      "units": "RS1",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44529"
+    }
   }
 ]
