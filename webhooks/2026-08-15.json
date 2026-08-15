@@ -1604,5 +1604,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44502"
     }
+  },
+  {
+    "runNumber": "44505",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-15T11:20:23.329055-04:00",
+    "address": "2740 Jessica Lane",
+    "extra": {
+      "incidentNumber": "44505",
+      "run_id": "44505",
+      "address": "2740 Jessica Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,E24,L03,202",
+      "units": "E10,E24,L03,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-44505"
+    }
   }
 ]
