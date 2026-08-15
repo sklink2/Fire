@@ -3628,5 +3628,27 @@
       "commandUnits": "241,205",
       "dedupeKey": "INCIDENT-44603"
     }
+  },
+  {
+    "runNumber": "44602",
+    "rawCode": "MED",
+    "timestamp": "2026-08-15T18:51:42.579865-04:00",
+    "address": "1300 Block Sequoia Drive",
+    "extra": {
+      "incidentNumber": "44602",
+      "run_id": "44602",
+      "address": "1300 Block Sequoia Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44602"
+    }
   }
 ]
