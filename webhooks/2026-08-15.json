@@ -3540,5 +3540,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-44598"
     }
+  },
+  {
+    "runNumber": "44599",
+    "rawCode": "FCAR",
+    "timestamp": "2026-08-15T18:34:03.955657-04:00",
+    "address": "1003 Celia Lane",
+    "extra": {
+      "incidentNumber": "44599",
+      "run_id": "44599",
+      "address": "1003 Celia Lane",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L04",
+      "units": "L04",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44599"
+    }
   }
 ]
