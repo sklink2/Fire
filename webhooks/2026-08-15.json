@@ -218,5 +218,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44439"
     }
+  },
+  {
+    "runNumber": "44440",
+    "rawCode": "MED",
+    "timestamp": "2026-08-15T01:16:57.836027-04:00",
+    "address": "2300 Block English Station Drive",
+    "extra": {
+      "incidentNumber": "44440",
+      "run_id": "44440",
+      "address": "2300 Block English Station Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC12,241",
+      "units": "E20,EC12,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-44440"
+    }
   }
 ]
