@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44539"
     }
+  },
+  {
+    "runNumber": "44541",
+    "rawCode": "MED",
+    "timestamp": "2026-08-15T14:01:45.979561-04:00",
+    "address": "500 Block W Maxwell Street",
+    "extra": {
+      "incidentNumber": "44541",
+      "run_id": "44541",
+      "address": "500 Block W Maxwell Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44541"
+    }
   }
 ]
