@@ -284,5 +284,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-44442"
     }
+  },
+  {
+    "runNumber": "44443",
+    "rawCode": "MED",
+    "timestamp": "2026-08-15T01:27:26.957657-04:00",
+    "address": "400 Block W New Circle Road",
+    "extra": {
+      "incidentNumber": "44443",
+      "run_id": "44443",
+      "address": "400 Block W New Circle Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44443"
+    }
   }
 ]
