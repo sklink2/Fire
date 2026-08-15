@@ -1538,5 +1538,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44500"
     }
+  },
+  {
+    "runNumber": "44501",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-15T11:09:52.506661-04:00",
+    "address": "1332 Gray Hawk Road",
+    "extra": {
+      "incidentNumber": "44501",
+      "run_id": "44501",
+      "address": "1332 Gray Hawk Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E07,L02,202",
+      "units": "E05,E07,L02,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-44501"
+    }
   }
 ]
