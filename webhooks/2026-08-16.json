@@ -878,5 +878,27 @@
       "commandUnits": "241,220,202,204",
       "dedupeKey": "INCIDENT-44711"
     }
+  },
+  {
+    "runNumber": "44713",
+    "rawCode": "FMEA",
+    "timestamp": "2026-08-16T06:40:12.611464-04:00",
+    "address": "1428 Gatlinburg Court",
+    "extra": {
+      "incidentNumber": "44713",
+      "run_id": "44713",
+      "address": "1428 Gatlinburg Court",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16",
+      "units": "E16",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44713"
+    }
   }
 ]
