@@ -3738,5 +3738,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-44843"
     }
+  },
+  {
+    "runNumber": "44845",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-16T19:53:07.625790-04:00",
+    "address": "2312 Remington Way",
+    "extra": {
+      "incidentNumber": "44845",
+      "run_id": "44845",
+      "address": "2312 Remington Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E05,L05,205",
+      "units": "E02,E05,L05,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-44845"
+    }
   }
 ]
