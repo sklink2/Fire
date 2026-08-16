@@ -4596,5 +4596,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44647"
     }
+  },
+  {
+    "runNumber": "44648",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-15T22:04:32.446948-04:00",
+    "address": "505 Wellington Way",
+    "extra": {
+      "incidentNumber": "44648",
+      "run_id": "44648",
+      "address": "505 Wellington Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,E20,L04,204",
+      "units": "E15,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-44648"
+    }
   }
 ]
