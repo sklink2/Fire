@@ -1780,5 +1780,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-44752"
     }
+  },
+  {
+    "runNumber": "44753",
+    "rawCode": "MED",
+    "timestamp": "2026-08-16T11:34:54.661275-04:00",
+    "address": "300 Block Ballpark Drive",
+    "extra": {
+      "incidentNumber": "44753",
+      "run_id": "44753",
+      "address": "300 Block Ballpark Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44753"
+    }
   }
 ]
