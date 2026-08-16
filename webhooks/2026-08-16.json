@@ -2374,5 +2374,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-44778"
     }
+  },
+  {
+    "runNumber": "44781",
+    "rawCode": "MED",
+    "timestamp": "2026-08-16T14:12:48.265658-04:00",
+    "address": "600 Block Wilderness Road",
+    "extra": {
+      "incidentNumber": "44781",
+      "run_id": "44781",
+      "address": "600 Block Wilderness Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44781"
+    }
   }
 ]
