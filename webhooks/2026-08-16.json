@@ -3694,5 +3694,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44842"
     }
+  },
+  {
+    "runNumber": "44841",
+    "rawCode": "MED",
+    "timestamp": "2026-08-16T19:46:09.429301-04:00",
+    "address": "3700 Block Kittiwake Drive",
+    "extra": {
+      "incidentNumber": "44841",
+      "run_id": "44841",
+      "address": "3700 Block Kittiwake Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC4",
+      "units": "E16,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44841"
+    }
   }
 ]
