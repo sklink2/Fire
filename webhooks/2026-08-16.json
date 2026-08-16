@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44756"
     }
+  },
+  {
+    "runNumber": "44755",
+    "rawCode": "MED",
+    "timestamp": "2026-08-16T11:49:02.924639-04:00",
+    "address": "2200 Block N Broadway",
+    "extra": {
+      "incidentNumber": "44755",
+      "run_id": "44755",
+      "address": "2200 Block N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44755"
+    }
   }
 ]
