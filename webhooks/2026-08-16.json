@@ -3760,5 +3760,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-44845"
     }
+  },
+  {
+    "runNumber": "44844",
+    "rawCode": "FDUM",
+    "timestamp": "2026-08-16T19:53:11.884368-04:00",
+    "address": "1557 Flora Glen Way",
+    "extra": {
+      "incidentNumber": "44844",
+      "run_id": "44844",
+      "address": "1557 Flora Glen Way",
+      "rawType": "FDUM",
+      "typeCode": "FDUM",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16",
+      "units": "E16",
+      "unitCount": "1",
+      "primaryTopic": "FDUM",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44844"
+    }
   }
 ]
