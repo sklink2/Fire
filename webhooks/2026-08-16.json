@@ -3342,5 +3342,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-44824"
     }
+  },
+  {
+    "runNumber": "44826",
+    "rawCode": "MED",
+    "timestamp": "2026-08-16T18:56:59.549460-04:00",
+    "address": "2900 Block Argyle Drive",
+    "extra": {
+      "incidentNumber": "44826",
+      "run_id": "44826",
+      "address": "2900 Block Argyle Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44826"
+    }
   }
 ]
