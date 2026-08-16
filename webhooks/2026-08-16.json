@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44734"
     }
+  },
+  {
+    "runNumber": "44733",
+    "rawCode": "FELF",
+    "timestamp": "2026-08-16T09:46:15.285000-04:00",
+    "address": "153 Delmont Drive",
+    "extra": {
+      "incidentNumber": "44733",
+      "run_id": "44733",
+      "address": "153 Delmont Drive",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E13,L03,EC10,203",
+      "units": "E02,E13,L03,EC10,203",
+      "unitCount": "5",
+      "primaryTopic": "FELF",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-44733"
+    }
   }
 ]
