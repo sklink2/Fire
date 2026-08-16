@@ -2770,5 +2770,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-44798"
     }
+  },
+  {
+    "runNumber": "44799",
+    "rawCode": "MED",
+    "timestamp": "2026-08-16T16:08:35.243221-04:00",
+    "address": "500 Block W New Circle Road",
+    "extra": {
+      "incidentNumber": "44799",
+      "run_id": "44799",
+      "address": "500 Block W New Circle Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC8",
+      "units": "E08,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44799"
+    }
   }
 ]
