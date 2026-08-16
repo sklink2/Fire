@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44714"
     }
+  },
+  {
+    "runNumber": "44715",
+    "rawCode": "MED",
+    "timestamp": "2026-08-16T06:57:44.945058-04:00",
+    "address": "700 Block Florence Avenue",
+    "extra": {
+      "incidentNumber": "44715",
+      "run_id": "44715",
+      "address": "700 Block Florence Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44715"
+    }
   }
 ]
