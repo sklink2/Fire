@@ -5014,5 +5014,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44666"
     }
+  },
+  {
+    "runNumber": "44667",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-15T23:42:45.341969-04:00",
+    "address": "3050 Helmsdale Place",
+    "extra": {
+      "incidentNumber": "44667",
+      "run_id": "44667",
+      "address": "3050 Helmsdale Place",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E21,201",
+      "units": "E09,E21,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-44667"
+    }
   }
 ]
