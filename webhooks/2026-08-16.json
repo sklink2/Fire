@@ -3540,5 +3540,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-44834"
     }
+  },
+  {
+    "runNumber": "44835",
+    "rawCode": "FWID",
+    "timestamp": "2026-08-16T19:35:33.683857-04:00",
+    "address": "Mentelle Park & Cramer Avenue",
+    "extra": {
+      "incidentNumber": "44835",
+      "run_id": "44835",
+      "address": "Mentelle Park & Cramer Avenue",
+      "rawType": "FWID",
+      "typeCode": "FWID",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "FWID",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44835"
+    }
   }
 ]
