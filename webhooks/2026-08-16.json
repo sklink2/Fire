@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44809"
     }
+  },
+  {
+    "runNumber": "44808",
+    "rawCode": "FSTR",
+    "timestamp": "2026-08-16T17:18:54.220085-04:00",
+    "address": "2464 Mulundy Way",
+    "extra": {
+      "incidentNumber": "44808",
+      "run_id": "44808",
+      "address": "2464 Mulundy Way",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E10,E13,E24,L01,L03,T1,EC6,203,205,220,241,RS1",
+      "units": "E08,E10,E13,E24,L01,L03,T1,EC6,203,205,220,241,RS1",
+      "unitCount": "13",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,203,205",
+      "dedupeKey": "INCIDENT-44808"
+    }
   }
 ]
