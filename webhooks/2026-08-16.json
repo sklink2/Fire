@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44744"
     }
+  },
+  {
+    "runNumber": "44743",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-16T10:52:52.832996-04:00",
+    "address": "3094 Old Todds Road",
+    "extra": {
+      "incidentNumber": "44743",
+      "run_id": "44743",
+      "address": "3094 Old Todds Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,E21,L06,201",
+      "units": "E17,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-44743"
+    }
   }
 ]
