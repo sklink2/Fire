@@ -4706,5 +4706,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-44650"
     }
+  },
+  {
+    "runNumber": "44654",
+    "rawCode": "FSCU",
+    "timestamp": "2026-08-15T22:46:38.230474-04:00",
+    "address": "215 Midland Avenue",
+    "extra": {
+      "incidentNumber": "44654",
+      "run_id": "44654",
+      "address": "215 Midland Avenue",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "FSCU",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44654"
+    }
   }
 ]
