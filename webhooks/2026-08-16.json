@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44788"
     }
+  },
+  {
+    "runNumber": "44787",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-16T15:02:00.674466-04:00",
+    "address": "N Broadway & Haggard Lane",
+    "extra": {
+      "incidentNumber": "44787",
+      "run_id": "44787",
+      "address": "N Broadway & Haggard Lane",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,L05,EC10,205,241,RS1",
+      "units": "E08,L05,EC10,205,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,205",
+      "dedupeKey": "INCIDENT-44787"
+    }
   }
 ]
