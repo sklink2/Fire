@@ -3782,5 +3782,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44844"
     }
+  },
+  {
+    "runNumber": "44846",
+    "rawCode": "FPLB",
+    "timestamp": "2026-08-16T19:56:36.446962-04:00",
+    "address": "800 Rose Street",
+    "extra": {
+      "incidentNumber": "44846",
+      "run_id": "44846",
+      "address": "800 Rose Street",
+      "rawType": "FPLB",
+      "typeCode": "FPLB",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E12",
+      "units": "E06,E12",
+      "unitCount": "2",
+      "primaryTopic": "FPLB",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44846"
+    }
   }
 ]
