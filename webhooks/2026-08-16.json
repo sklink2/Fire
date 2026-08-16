@@ -1054,5 +1054,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44718"
     }
+  },
+  {
+    "runNumber": "44719",
+    "rawCode": "FOTS",
+    "timestamp": "2026-08-16T08:11:25.902832-04:00",
+    "address": "258 Medlock Road",
+    "extra": {
+      "incidentNumber": "44719",
+      "run_id": "44719",
+      "address": "258 Medlock Road",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L06",
+      "units": "L06",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44719"
+    }
   }
 ]
