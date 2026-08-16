@@ -4398,5 +4398,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44638"
     }
+  },
+  {
+    "runNumber": "44639",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-15T21:32:58.180639-04:00",
+    "address": "N Broadway & Lin Wal Road",
+    "extra": {
+      "incidentNumber": "44639",
+      "run_id": "44639",
+      "address": "N Broadway & Lin Wal Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC10,241",
+      "units": "E08,EC10,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-44639"
+    }
   }
 ]
