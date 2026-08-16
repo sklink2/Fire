@@ -614,5 +614,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44698"
     }
+  },
+  {
+    "runNumber": "44699",
+    "rawCode": "MED",
+    "timestamp": "2026-08-16T03:30:47.373520-04:00",
+    "address": "400 Block Kenton Street",
+    "extra": {
+      "incidentNumber": "44699",
+      "run_id": "44699",
+      "address": "400 Block Kenton Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44699"
+    }
   }
 ]
