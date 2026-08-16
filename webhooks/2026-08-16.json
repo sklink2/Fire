@@ -3518,5 +3518,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-44833"
     }
+  },
+  {
+    "runNumber": "44834",
+    "rawCode": "FELS",
+    "timestamp": "2026-08-16T19:32:04.363708-04:00",
+    "address": "838 Euclid Avenue",
+    "extra": {
+      "incidentNumber": "44834",
+      "run_id": "44834",
+      "address": "838 Euclid Avenue",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,L01,202",
+      "units": "E09,L01,202",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-44834"
+    }
   }
 ]
