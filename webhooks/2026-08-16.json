@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44712"
     }
+  },
+  {
+    "runNumber": "44714",
+    "rawCode": "MED",
+    "timestamp": "2026-08-16T06:50:43.330993-04:00",
+    "address": "600 Block Mccurdy Court",
+    "extra": {
+      "incidentNumber": "44714",
+      "run_id": "44714",
+      "address": "600 Block Mccurdy Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC13",
+      "units": "E22,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44714"
+    }
   }
 ]
