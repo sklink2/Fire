@@ -3364,5 +3364,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44826"
     }
+  },
+  {
+    "runNumber": "44827",
+    "rawCode": "MED",
+    "timestamp": "2026-08-16T19:00:30.365100-04:00",
+    "address": "3400 Block Sutherland Drive",
+    "extra": {
+      "incidentNumber": "44827",
+      "run_id": "44827",
+      "address": "3400 Block Sutherland Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44827"
+    }
   }
 ]
