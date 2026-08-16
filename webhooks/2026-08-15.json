@@ -4046,5 +4046,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44622"
     }
+  },
+  {
+    "runNumber": "44621",
+    "rawCode": "MED",
+    "timestamp": "2026-08-15T20:26:21.993402-04:00",
+    "address": "2000 Block Altamont Court",
+    "extra": {
+      "incidentNumber": "44621",
+      "run_id": "44621",
+      "address": "2000 Block Altamont Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L02,EC1",
+      "units": "L02,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44621"
+    }
   }
 ]
