@@ -3496,5 +3496,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44832"
     }
+  },
+  {
+    "runNumber": "44833",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-16T19:28:34.069536-04:00",
+    "address": "456 Rose Lane",
+    "extra": {
+      "incidentNumber": "44833",
+      "run_id": "44833",
+      "address": "456 Rose Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E06,L02,205",
+      "units": "E05,E06,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-44833"
+    }
   }
 ]
