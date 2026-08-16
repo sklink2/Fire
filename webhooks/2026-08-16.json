@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44715"
     }
+  },
+  {
+    "runNumber": "44711",
+    "rawCode": "FSTRW",
+    "timestamp": "2026-08-16T07:01:19.574678-04:00",
+    "address": "258 Medlock Road",
+    "extra": {
+      "incidentNumber": "44711",
+      "run_id": "44711",
+      "address": "258 Medlock Road",
+      "rawType": "FSTRW",
+      "typeCode": "FSTRW",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E12,E13,E15,L04,L07,EC4,EC9,202,204,200,220,241,RS1,436",
+      "units": "E07,E12,E13,E15,L04,L07,EC4,EC9,202,204,200,220,241,RS1,436",
+      "unitCount": "15",
+      "primaryTopic": "FSTRW",
+      "commandUnits": "241,220,200,202,204",
+      "dedupeKey": "INCIDENT-44711"
+    }
   }
 ]
