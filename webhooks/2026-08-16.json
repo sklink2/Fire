@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44702"
     }
+  },
+  {
+    "runNumber": "44703",
+    "rawCode": "MED",
+    "timestamp": "2026-08-16T05:05:29.397207-04:00",
+    "address": "300 Block W Short Street",
+    "extra": {
+      "incidentNumber": "44703",
+      "run_id": "44703",
+      "address": "300 Block W Short Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44703"
+    }
   }
 ]
