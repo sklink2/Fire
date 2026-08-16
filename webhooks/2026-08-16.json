@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44775"
     }
+  },
+  {
+    "runNumber": "44776",
+    "rawCode": "MED",
+    "timestamp": "2026-08-16T13:41:12.002454-04:00",
+    "address": "1100 Block Merrick Drive",
+    "extra": {
+      "incidentNumber": "44776",
+      "run_id": "44776",
+      "address": "1100 Block Merrick Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44776"
+    }
   }
 ]
