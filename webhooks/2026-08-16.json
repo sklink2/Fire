@@ -2814,5 +2814,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44800"
     }
+  },
+  {
+    "runNumber": "44801",
+    "rawCode": "FUTL",
+    "timestamp": "2026-08-16T16:15:35.152702-04:00",
+    "address": "3200 Loch Ness Drive",
+    "extra": {
+      "incidentNumber": "44801",
+      "run_id": "44801",
+      "address": "3200 Loch Ness Drive",
+      "rawType": "FUTL",
+      "typeCode": "FUTL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L04",
+      "units": "L04",
+      "unitCount": "1",
+      "primaryTopic": "FUTL",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44801"
+    }
   }
 ]
