@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44777"
     }
+  },
+  {
+    "runNumber": "44779",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-16T14:09:17.792099-04:00",
+    "address": "1160 University Drive",
+    "extra": {
+      "incidentNumber": "44779",
+      "run_id": "44779",
+      "address": "1160 University Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E06,E12,L02,204",
+      "units": "E05,E06,E12,L02,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-44779"
+    }
   }
 ]
