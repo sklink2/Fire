@@ -3628,5 +3628,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-44840"
     }
+  },
+  {
+    "runNumber": "44839",
+    "rawCode": "FWID",
+    "timestamp": "2026-08-16T19:42:42.179135-04:00",
+    "address": "1029 Hudson Avenue",
+    "extra": {
+      "incidentNumber": "44839",
+      "run_id": "44839",
+      "address": "1029 Hudson Avenue",
+      "rawType": "FWID",
+      "typeCode": "FWID",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10",
+      "units": "E10",
+      "unitCount": "1",
+      "primaryTopic": "FWID",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44839"
+    }
   }
 ]
