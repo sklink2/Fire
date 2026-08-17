@@ -3320,5 +3320,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45082"
     }
+  },
+  {
+    "runNumber": "45081",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-17T18:23:59.922039-04:00",
+    "address": "438 Breckenridge Street",
+    "extra": {
+      "incidentNumber": "45081",
+      "run_id": "45081",
+      "address": "438 Breckenridge Street",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E02,201",
+      "units": "E01,E02,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-45081"
+    }
   }
 ]
