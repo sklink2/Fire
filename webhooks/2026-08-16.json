@@ -4002,5 +4002,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44855"
     }
+  },
+  {
+    "runNumber": "44854",
+    "rawCode": "FSTR",
+    "timestamp": "2026-08-16T20:14:24.248316-04:00",
+    "address": "3410 Pepperhill Road",
+    "extra": {
+      "incidentNumber": "44854",
+      "run_id": "44854",
+      "address": "3410 Pepperhill Road",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E15,E16,E20,E22,L01,L07,EC4,201,202,220,241,RS1",
+      "units": "E08,E15,E16,E20,E22,L01,L07,EC4,201,202,220,241,RS1",
+      "unitCount": "13",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,202",
+      "dedupeKey": "INCIDENT-44854"
+    }
   }
 ]
