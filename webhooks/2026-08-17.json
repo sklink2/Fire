@@ -3408,5 +3408,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-45083"
     }
+  },
+  {
+    "runNumber": "45084",
+    "rawCode": "MED",
+    "timestamp": "2026-08-17T18:34:27.527119-04:00",
+    "address": "600 Block Leslie Drive",
+    "extra": {
+      "incidentNumber": "45084",
+      "run_id": "45084",
+      "address": "600 Block Leslie Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45084"
+    }
   }
 ]
