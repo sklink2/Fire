@@ -3562,5 +3562,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45090"
     }
+  },
+  {
+    "runNumber": "45091",
+    "rawCode": "FMIS",
+    "timestamp": "2026-08-17T19:06:03.093990-04:00",
+    "address": "113 Clover Valley Drive",
+    "extra": {
+      "incidentNumber": "45091",
+      "run_id": "45091",
+      "address": "113 Clover Valley Drive",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,203",
+      "units": "E13,203",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-45091"
+    }
   }
 ]
