@@ -262,5 +262,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44933"
     }
+  },
+  {
+    "runNumber": "44934",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-17T03:39:44.566214-04:00",
+    "address": "340 Romany Road",
+    "extra": {
+      "incidentNumber": "44934",
+      "run_id": "44934",
+      "address": "340 Romany Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,L01",
+      "units": "E09,L01",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44934"
+    }
   }
 ]
