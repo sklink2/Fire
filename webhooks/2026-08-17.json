@@ -2044,5 +2044,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45015"
     }
+  },
+  {
+    "runNumber": "45016",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-17T13:01:09.422401-04:00",
+    "address": "2400 Millbrook Drive",
+    "extra": {
+      "incidentNumber": "45016",
+      "run_id": "45016",
+      "address": "2400 Millbrook Drive",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,E20,204",
+      "units": "E12,E20,204",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-45016"
+    }
   }
 ]
