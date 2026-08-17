@@ -4024,5 +4024,27 @@
       "commandUnits": "241,220,201,202",
       "dedupeKey": "INCIDENT-44854"
     }
+  },
+  {
+    "runNumber": "44853",
+    "rawCode": "FOTS",
+    "timestamp": "2026-08-16T20:14:32.549282-04:00",
+    "address": "Richmond Road & Lincoln Avenue",
+    "extra": {
+      "incidentNumber": "44853",
+      "run_id": "44853",
+      "address": "Richmond Road & Lincoln Avenue",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09",
+      "units": "E09",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44853"
+    }
   }
 ]
