@@ -3386,5 +3386,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45079"
     }
+  },
+  {
+    "runNumber": "45083",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-17T18:30:59.185186-04:00",
+    "address": "156 E Main Street",
+    "extra": {
+      "incidentNumber": "45083",
+      "run_id": "45083",
+      "address": "156 E Main Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,E09,L01,204",
+      "units": "E05,E06,E09,L01,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-45083"
+    }
   }
 ]
