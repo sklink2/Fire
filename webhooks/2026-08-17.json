@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45089"
     }
+  },
+  {
+    "runNumber": "45090",
+    "rawCode": "MED",
+    "timestamp": "2026-08-17T19:02:30.731310-04:00",
+    "address": "1500 Block Mt Rainier Drive",
+    "extra": {
+      "incidentNumber": "45090",
+      "run_id": "45090",
+      "address": "1500 Block Mt Rainier Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC2",
+      "units": "E16,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45090"
+    }
   }
 ]
