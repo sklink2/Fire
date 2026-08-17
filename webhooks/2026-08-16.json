@@ -4134,5 +4134,27 @@
       "commandUnits": "204,205",
       "dedupeKey": "INCIDENT-44859"
     }
+  },
+  {
+    "runNumber": "44864",
+    "rawCode": "FELS",
+    "timestamp": "2026-08-16T20:21:11.117946-04:00",
+    "address": "1000 S Limestone",
+    "extra": {
+      "incidentNumber": "44864",
+      "run_id": "44864",
+      "address": "1000 S Limestone",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01",
+      "units": "L01",
+      "unitCount": "1",
+      "primaryTopic": "FELS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44864"
+    }
   }
 ]
