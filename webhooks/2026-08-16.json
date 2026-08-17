@@ -4794,5 +4794,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44892"
     }
+  },
+  {
+    "runNumber": "44893",
+    "rawCode": "FVIS",
+    "timestamp": "2026-08-16T21:31:23.605359-04:00",
+    "address": "3525 Lansdowne Drive",
+    "extra": {
+      "incidentNumber": "44893",
+      "run_id": "44893",
+      "address": "3525 Lansdowne Drive",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E15,L07,EC4,204,RS1",
+      "units": "E09,E15,L07,EC4,204,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-44893"
+    }
   }
 ]
