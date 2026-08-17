@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45000"
     }
+  },
+  {
+    "runNumber": "45001",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-08-17T11:47:28.222570-04:00",
+    "address": "417 Mckenna Court",
+    "extra": {
+      "incidentNumber": "45001",
+      "run_id": "45001",
+      "address": "417 Mckenna Court",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45001"
+    }
   }
 ]
