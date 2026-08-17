@@ -1890,5 +1890,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45007"
     }
+  },
+  {
+    "runNumber": "45008",
+    "rawCode": "FELF",
+    "timestamp": "2026-08-17T12:12:03.590132-04:00",
+    "address": "2468 Butternut Hill Court",
+    "extra": {
+      "incidentNumber": "45008",
+      "run_id": "45008",
+      "address": "2468 Butternut Hill Court",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E09,L05,EC4,201",
+      "units": "E02,E09,L05,EC4,201",
+      "unitCount": "5",
+      "primaryTopic": "FELF",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-45008"
+    }
   }
 ]
