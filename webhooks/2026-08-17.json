@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44952"
     }
+  },
+  {
+    "runNumber": "44954",
+    "rawCode": "FSMO",
+    "timestamp": "2026-08-17T07:34:51.272083-04:00",
+    "address": "142 Suburban Court",
+    "extra": {
+      "incidentNumber": "44954",
+      "run_id": "44954",
+      "address": "142 Suburban Court",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E12,L02,EC7,204",
+      "units": "E06,E12,L02,EC7,204",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-44954"
+    }
   }
 ]
