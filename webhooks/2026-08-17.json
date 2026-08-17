@@ -2088,5 +2088,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-45018"
     }
+  },
+  {
+    "runNumber": "45017",
+    "rawCode": "MED",
+    "timestamp": "2026-08-17T13:04:45.429822-04:00",
+    "address": "1800 Block Charlbury Court",
+    "extra": {
+      "incidentNumber": "45017",
+      "run_id": "45017",
+      "address": "1800 Block Charlbury Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC8",
+      "units": "E08,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45017"
+    }
   }
 ]
