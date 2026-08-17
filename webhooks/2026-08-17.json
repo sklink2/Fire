@@ -1538,5 +1538,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-44990"
     }
+  },
+  {
+    "runNumber": "44991",
+    "rawCode": "FSMO",
+    "timestamp": "2026-08-17T11:19:26.285890-04:00",
+    "address": "1140 Harry Sykes Way",
+    "extra": {
+      "incidentNumber": "44991",
+      "run_id": "44991",
+      "address": "1140 Harry Sykes Way",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,E14,L01,EC12,203",
+      "units": "E13,E14,L01,EC12,203",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-44991"
+    }
   }
 ]
