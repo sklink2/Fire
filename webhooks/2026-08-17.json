@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45050"
     }
+  },
+  {
+    "runNumber": "45052",
+    "rawCode": "FSTR",
+    "timestamp": "2026-08-17T15:46:06.196935-04:00",
+    "address": "1637 Liberty Road",
+    "extra": {
+      "incidentNumber": "45052",
+      "run_id": "45052",
+      "address": "1637 Liberty Road",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E05,E08,E09,L01,L05,EC1,201,205,220,241,RS1",
+      "units": "E02,E05,E08,E09,L01,L05,EC1,201,205,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,205",
+      "dedupeKey": "INCIDENT-45052"
+    }
   }
 ]
