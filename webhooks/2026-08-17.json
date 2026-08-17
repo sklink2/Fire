@@ -2968,5 +2968,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-45063"
     }
+  },
+  {
+    "runNumber": "45064",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-17T16:38:41.213680-04:00",
+    "address": "3260 Haley Road",
+    "extra": {
+      "incidentNumber": "45064",
+      "run_id": "45064",
+      "address": "3260 Haley Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E17,E23,205",
+      "units": "E17,E23,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-45064"
+    }
   }
 ]
