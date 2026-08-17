@@ -108,5 +108,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44926"
     }
+  },
+  {
+    "runNumber": "44927",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-17T01:12:24.374173-04:00",
+    "address": "250 W Main Street",
+    "extra": {
+      "incidentNumber": "44927",
+      "run_id": "44927",
+      "address": "250 W Main Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E04,E06,L01,205",
+      "units": "E01,E04,E06,L01,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-44927"
+    }
   }
 ]
