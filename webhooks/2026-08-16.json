@@ -4992,5 +4992,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44901"
     }
+  },
+  {
+    "runNumber": "44900",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-16T21:56:01.958522-04:00",
+    "address": "Harrodsburg Road & Pasadena Drive",
+    "extra": {
+      "incidentNumber": "44900",
+      "run_id": "44900",
+      "address": "Harrodsburg Road & Pasadena Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L04,EC12",
+      "units": "L04,EC12",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44900"
+    }
   }
 ]
