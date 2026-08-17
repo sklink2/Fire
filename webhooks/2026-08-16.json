@@ -4420,5 +4420,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44874"
     }
+  },
+  {
+    "runNumber": "44879",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-16T20:45:46.079459-04:00",
+    "address": "732 Hollyhock Drive",
+    "extra": {
+      "incidentNumber": "44879",
+      "run_id": "44879",
+      "address": "732 Hollyhock Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E16,L03,EC6,203",
+      "units": "E08,E16,L03,EC6,203",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-44879"
+    }
   }
 ]
