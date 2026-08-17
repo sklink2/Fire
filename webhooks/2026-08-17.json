@@ -3232,5 +3232,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45074"
     }
+  },
+  {
+    "runNumber": "45076",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-17T18:02:52.117057-04:00",
+    "address": "2000 Parkers Mill Road",
+    "extra": {
+      "incidentNumber": "45076",
+      "run_id": "45076",
+      "address": "2000 Parkers Mill Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC10",
+      "units": "E11,EC10",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45076"
+    }
   }
 ]
