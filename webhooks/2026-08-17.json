@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45102"
     }
+  },
+  {
+    "runNumber": "45101",
+    "rawCode": "FVEH",
+    "timestamp": "2026-08-17T19:51:41.223127-04:00",
+    "address": "64 Eb / 87.0 Mm (Haley Road",
+    "extra": {
+      "incidentNumber": "45101",
+      "run_id": "45101",
+      "address": "64 Eb / 87.0 Mm (Haley Road",
+      "rawType": "FVEH",
+      "typeCode": "FVEH",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E17,T1",
+      "units": "E08,E17,T1",
+      "unitCount": "3",
+      "primaryTopic": "FVEH",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45101"
+    }
   }
 ]
