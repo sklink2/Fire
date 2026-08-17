@@ -4530,5 +4530,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-44881"
     }
+  },
+  {
+    "runNumber": "44880",
+    "rawCode": "FPLB",
+    "timestamp": "2026-08-16T20:49:19.393416-04:00",
+    "address": "4057 Mooncoin Way",
+    "extra": {
+      "incidentNumber": "44880",
+      "run_id": "44880",
+      "address": "4057 Mooncoin Way",
+      "rawType": "FPLB",
+      "typeCode": "FPLB",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22",
+      "units": "E22",
+      "unitCount": "1",
+      "primaryTopic": "FPLB",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44880"
+    }
   }
 ]
