@@ -4860,5 +4860,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44895"
     }
+  },
+  {
+    "runNumber": "44896",
+    "rawCode": "MED",
+    "timestamp": "2026-08-16T21:41:53.256018-04:00",
+    "address": "2500 Block Lindenhurst Loop",
+    "extra": {
+      "incidentNumber": "44896",
+      "run_id": "44896",
+      "address": "2500 Block Lindenhurst Loop",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L06,EC2",
+      "units": "L06,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44896"
+    }
   }
 ]
