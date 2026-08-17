@@ -2220,5 +2220,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45021"
     }
+  },
+  {
+    "runNumber": "45025",
+    "rawCode": "MED",
+    "timestamp": "2026-08-17T13:32:42.127976-04:00",
+    "address": "64 Wb / 83.0 Mm",
+    "extra": {
+      "incidentNumber": "45025",
+      "run_id": "45025",
+      "address": "64 Wb / 83.0 Mm",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E17,EC4",
+      "units": "E02,E17,EC4",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45025"
+    }
   }
 ]
