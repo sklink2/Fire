@@ -5080,5 +5080,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44905"
     }
+  },
+  {
+    "runNumber": "44907",
+    "rawCode": "FGAO",
+    "timestamp": "2026-08-16T22:23:58.877606-04:00",
+    "address": "203 University Avenue",
+    "extra": {
+      "incidentNumber": "44907",
+      "run_id": "44907",
+      "address": "203 University Avenue",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E11",
+      "units": "E06,E11",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44907"
+    }
   }
 ]
