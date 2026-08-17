@@ -1934,5 +1934,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45010"
     }
+  },
+  {
+    "runNumber": "45009",
+    "rawCode": "MED",
+    "timestamp": "2026-08-17T12:15:35.380740-04:00",
+    "address": "3400 Block Blazer Parkway",
+    "extra": {
+      "incidentNumber": "45009",
+      "run_id": "45009",
+      "address": "3400 Block Blazer Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L06,EC3",
+      "units": "L06,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45009"
+    }
   }
 ]
