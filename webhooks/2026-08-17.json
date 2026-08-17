@@ -2990,5 +2990,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-45064"
     }
+  },
+  {
+    "runNumber": "45065",
+    "rawCode": "FCAR",
+    "timestamp": "2026-08-17T16:42:09.933417-04:00",
+    "address": "305 Ballpark Drive",
+    "extra": {
+      "incidentNumber": "45065",
+      "run_id": "45065",
+      "address": "305 Ballpark Drive",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L05",
+      "units": "L05",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45065"
+    }
   }
 ]
