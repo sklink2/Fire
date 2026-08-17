@@ -900,5 +900,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-44962"
     }
+  },
+  {
+    "runNumber": "44961",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-17T08:13:31.273877-04:00",
+    "address": "3019 Walnut Hill Road",
+    "extra": {
+      "incidentNumber": "44961",
+      "run_id": "44961",
+      "address": "3019 Walnut Hill Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E18,EC2",
+      "units": "E18,EC2",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44961"
+    }
   }
 ]
