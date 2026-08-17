@@ -702,5 +702,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-44954"
     }
+  },
+  {
+    "runNumber": "44953",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-17T07:34:55.381237-04:00",
+    "address": "W Third Street & N Broadway",
+    "extra": {
+      "incidentNumber": "44953",
+      "run_id": "44953",
+      "address": "W Third Street & N Broadway",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,EC10",
+      "units": "E04,EC10",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44953"
+    }
   }
 ]
