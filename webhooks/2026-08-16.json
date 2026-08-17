@@ -4156,5 +4156,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44864"
     }
+  },
+  {
+    "runNumber": "44863",
+    "rawCode": "FSTR",
+    "timestamp": "2026-08-16T20:21:17.494464-04:00",
+    "address": "Lakewood Drive & Chinoe Road",
+    "extra": {
+      "incidentNumber": "44863",
+      "run_id": "44863",
+      "address": "Lakewood Drive & Chinoe Road",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E08,E12,E16,L03,L04,L07,EC2,201,203,220,241",
+      "units": "E01,E08,E12,E16,L03,L04,L07,EC2,201,203,220,241",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,203",
+      "dedupeKey": "INCIDENT-44863"
+    }
   }
 ]
