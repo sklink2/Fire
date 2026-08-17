@@ -1626,5 +1626,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-44992"
     }
+  },
+  {
+    "runNumber": "44995",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-17T11:26:32.959027-04:00",
+    "address": "1625 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "44995",
+      "run_id": "44995",
+      "address": "1625 Nicholasville Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E12,L02,205",
+      "units": "E06,E12,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-44995"
+    }
   }
 ]
