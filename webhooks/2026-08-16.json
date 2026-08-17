@@ -4112,5 +4112,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44860"
     }
+  },
+  {
+    "runNumber": "44859",
+    "rawCode": "FSTR",
+    "timestamp": "2026-08-16T20:17:51.958335-04:00",
+    "address": "385 Pinewood Court",
+    "extra": {
+      "incidentNumber": "44859",
+      "run_id": "44859",
+      "address": "385 Pinewood Court",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E13,E18,E24,L05,L06,EC11,204,205",
+      "units": "E06,E13,E18,E24,L05,L06,EC11,204,205",
+      "unitCount": "9",
+      "primaryTopic": "FSTR",
+      "commandUnits": "204,205",
+      "dedupeKey": "INCIDENT-44859"
+    }
   }
 ]
