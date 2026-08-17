@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45006"
     }
+  },
+  {
+    "runNumber": "45007",
+    "rawCode": "MED",
+    "timestamp": "2026-08-17T12:08:32.505733-04:00",
+    "address": "E Short Street & N Limestone",
+    "extra": {
+      "incidentNumber": "45007",
+      "run_id": "45007",
+      "address": "E Short Street & N Limestone",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45007"
+    }
   }
 ]
