@@ -3166,5 +3166,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45072"
     }
+  },
+  {
+    "runNumber": "45073",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-17T17:24:19.140768-04:00",
+    "address": "112 Owsley Avenue",
+    "extra": {
+      "incidentNumber": "45073",
+      "run_id": "45073",
+      "address": "112 Owsley Avenue",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,L02,EC1,205,220",
+      "units": "E05,E06,L02,EC1,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-45073"
+    }
   }
 ]
