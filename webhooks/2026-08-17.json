@@ -2748,5 +2748,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45055"
     }
+  },
+  {
+    "runNumber": "45054",
+    "rawCode": "MED",
+    "timestamp": "2026-08-17T15:53:05.874148-04:00",
+    "address": "100 Block Prosperous Place",
+    "extra": {
+      "incidentNumber": "45054",
+      "run_id": "45054",
+      "address": "100 Block Prosperous Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L06,EC10",
+      "units": "L06,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45054"
+    }
   }
 ]
