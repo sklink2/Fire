@@ -306,5 +306,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44935"
     }
+  },
+  {
+    "runNumber": "44937",
+    "rawCode": "FSMO",
+    "timestamp": "2026-08-17T04:18:19.031788-04:00",
+    "address": "3690 Rabbits Foot Trail",
+    "extra": {
+      "incidentNumber": "44937",
+      "run_id": "44937",
+      "address": "3690 Rabbits Foot Trail",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,E20,L04,EC9,204",
+      "units": "E15,E20,L04,EC9,204",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-44937"
+    }
   }
 ]
