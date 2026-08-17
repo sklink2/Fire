@@ -2506,5 +2506,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45042"
     }
+  },
+  {
+    "runNumber": "45043",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-17T15:11:00.793797-04:00",
+    "address": "232 Waller Avenue",
+    "extra": {
+      "incidentNumber": "45043",
+      "run_id": "45043",
+      "address": "232 Waller Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E12,L04,204",
+      "units": "E06,E12,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-45043"
+    }
   }
 ]
