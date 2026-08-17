@@ -218,5 +218,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44931"
     }
+  },
+  {
+    "runNumber": "44932",
+    "rawCode": "FCAR",
+    "timestamp": "2026-08-17T03:01:09.509448-04:00",
+    "address": "1352 Cooper Drive",
+    "extra": {
+      "incidentNumber": "44932",
+      "run_id": "44932",
+      "address": "1352 Cooper Drive",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L02",
+      "units": "L02",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44932"
+    }
   }
 ]
