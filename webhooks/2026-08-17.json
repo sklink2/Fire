@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44953"
     }
+  },
+  {
+    "runNumber": "44953",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-17T07:38:22.808433-04:00",
+    "address": "W Third Street & N Broadway",
+    "extra": {
+      "incidentNumber": "44953",
+      "run_id": "44953",
+      "address": "W Third Street & N Broadway",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,L01,EC10,205,241,RS1",
+      "units": "E04,L01,EC10,205,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,205",
+      "dedupeKey": "INCIDENT-44953"
+    }
   }
 ]
