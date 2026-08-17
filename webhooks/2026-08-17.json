@@ -2176,5 +2176,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45023"
     }
+  },
+  {
+    "runNumber": "45022",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-17T13:25:45.318587-04:00",
+    "address": "125 E Maxwell Street",
+    "extra": {
+      "incidentNumber": "45022",
+      "run_id": "45022",
+      "address": "125 E Maxwell Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L01,EC12,241",
+      "units": "L01,EC12,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-45022"
+    }
   }
 ]
