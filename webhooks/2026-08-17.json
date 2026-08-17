@@ -3122,5 +3122,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45070"
     }
+  },
+  {
+    "runNumber": "45071",
+    "rawCode": "MED",
+    "timestamp": "2026-08-17T17:03:12.440128-04:00",
+    "address": "200 Block Kenlock Drive",
+    "extra": {
+      "incidentNumber": "45071",
+      "run_id": "45071",
+      "address": "200 Block Kenlock Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45071"
+    }
   }
 ]
