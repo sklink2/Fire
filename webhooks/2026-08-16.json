@@ -4222,5 +4222,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44866"
     }
+  },
+  {
+    "runNumber": "44865",
+    "rawCode": "FWTR",
+    "timestamp": "2026-08-16T20:28:21.578209-04:00",
+    "address": "211 Catalpa Road",
+    "extra": {
+      "incidentNumber": "44865",
+      "run_id": "44865",
+      "address": "211 Catalpa Road",
+      "rawType": "FWTR",
+      "typeCode": "FWTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E09,E13,L03,EC1,202,204,241,RS1",
+      "units": "E01,E09,E13,L03,EC1,202,204,241,RS1",
+      "unitCount": "9",
+      "primaryTopic": "FWTR",
+      "commandUnits": "241,202,204",
+      "dedupeKey": "INCIDENT-44865"
+    }
   }
 ]
