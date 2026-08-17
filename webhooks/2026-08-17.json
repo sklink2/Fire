@@ -3276,5 +3276,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-45077"
     }
+  },
+  {
+    "runNumber": "45078",
+    "rawCode": "MED",
+    "timestamp": "2026-08-17T18:16:54.248905-04:00",
+    "address": "500 Block Breckenridge Street",
+    "extra": {
+      "incidentNumber": "45078",
+      "run_id": "45078",
+      "address": "500 Block Breckenridge Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45078"
+    }
   }
 ]
