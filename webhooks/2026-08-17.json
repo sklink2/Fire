@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44955"
     }
+  },
+  {
+    "runNumber": "44957",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-17T07:52:24.887017-04:00",
+    "address": "3899 N Cleveland Road",
+    "extra": {
+      "incidentNumber": "44957",
+      "run_id": "44957",
+      "address": "3899 N Cleveland Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E17,L05,L06,EC3,201,RS1",
+      "units": "E17,L05,L06,EC3,201,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-44957"
+    }
   }
 ]
