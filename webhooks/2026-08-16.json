@@ -3870,5 +3870,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-44850"
     }
+  },
+  {
+    "runNumber": "44852",
+    "rawCode": "FPLB",
+    "timestamp": "2026-08-16T20:10:40.090686-04:00",
+    "address": "1500 College Way",
+    "extra": {
+      "incidentNumber": "44852",
+      "run_id": "44852",
+      "address": "1500 College Way",
+      "rawType": "FPLB",
+      "typeCode": "FPLB",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E12",
+      "units": "E01,E12",
+      "unitCount": "2",
+      "primaryTopic": "FPLB",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44852"
+    }
   }
 ]
