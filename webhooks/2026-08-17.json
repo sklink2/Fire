@@ -790,5 +790,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-44957"
     }
+  },
+  {
+    "runNumber": "44956",
+    "rawCode": "MED",
+    "timestamp": "2026-08-17T07:52:30.369957-04:00",
+    "address": "900 Block E Loudon Avenue",
+    "extra": {
+      "incidentNumber": "44956",
+      "run_id": "44956",
+      "address": "900 Block E Loudon Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-44956"
+    }
   }
 ]
