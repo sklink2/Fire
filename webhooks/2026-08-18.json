@@ -4046,5 +4046,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-45318"
     }
+  },
+  {
+    "runNumber": "45320",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-18T18:32:58.833786-04:00",
+    "address": "2500 Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "45320",
+      "run_id": "45320",
+      "address": "2500 Harrodsburg Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,E20,L04,204",
+      "units": "E12,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-45320"
+    }
   }
 ]
