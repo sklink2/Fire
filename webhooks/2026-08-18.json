@@ -2858,5 +2858,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45265"
     }
+  },
+  {
+    "runNumber": "45266",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-18T14:13:20.109163-04:00",
+    "address": "400 Lafayette Parkway",
+    "extra": {
+      "incidentNumber": "45266",
+      "run_id": "45266",
+      "address": "400 Lafayette Parkway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,E12,L04,204",
+      "units": "E11,E12,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-45266"
+    }
   }
 ]
