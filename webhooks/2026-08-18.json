@@ -2110,5 +2110,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45231"
     }
+  },
+  {
+    "runNumber": "45233",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-18T11:52:58.415703-04:00",
+    "address": "2390 Remington Way",
+    "extra": {
+      "incidentNumber": "45233",
+      "run_id": "45233",
+      "address": "2390 Remington Way",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E08,205",
+      "units": "E02,E08,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-45233"
+    }
   }
 ]
