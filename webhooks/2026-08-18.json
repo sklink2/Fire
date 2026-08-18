@@ -1494,5 +1494,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-45203"
     }
+  },
+  {
+    "runNumber": "45206",
+    "rawCode": "MED",
+    "timestamp": "2026-08-18T09:08:04.455294-04:00",
+    "address": "300 Block Lafayette Avenue",
+    "extra": {
+      "incidentNumber": "45206",
+      "run_id": "45206",
+      "address": "300 Block Lafayette Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L01,EC2",
+      "units": "L01,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45206"
+    }
   }
 ]
