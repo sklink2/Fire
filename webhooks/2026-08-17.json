@@ -4464,5 +4464,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45130"
     }
+  },
+  {
+    "runNumber": "45131",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-17T23:18:38.843214-04:00",
+    "address": "744 Woodland Avenue",
+    "extra": {
+      "incidentNumber": "45131",
+      "run_id": "45131",
+      "address": "744 Woodland Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,L02,204",
+      "units": "E05,E06,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-45131"
+    }
   }
 ]
