@@ -3078,5 +3078,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45275"
     }
+  },
+  {
+    "runNumber": "45277",
+    "rawCode": "MED",
+    "timestamp": "2026-08-18T14:55:24.448079-04:00",
+    "address": "100 Block Tucker Street",
+    "extra": {
+      "incidentNumber": "45277",
+      "run_id": "45277",
+      "address": "100 Block Tucker Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,EC1",
+      "units": "E04,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45277"
+    }
   }
 ]
