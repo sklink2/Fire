@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45156"
     }
+  },
+  {
+    "runNumber": "45158",
+    "rawCode": "FSTR",
+    "timestamp": "2026-08-18T03:34:50.226057-04:00",
+    "address": "701 Lynn Road",
+    "extra": {
+      "incidentNumber": "45158",
+      "run_id": "45158",
+      "address": "701 Lynn Road",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E11,E12,E13,L02,L04,EC12,204,205,220,241,RS1",
+      "units": "E06,E11,E12,E13,L02,L04,EC12,204,205,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,204,205",
+      "dedupeKey": "INCIDENT-45158"
+    }
   }
 ]
