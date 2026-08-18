@@ -878,5 +878,27 @@
       "commandUnits": "201,205",
       "dedupeKey": "INCIDENT-45173"
     }
+  },
+  {
+    "runNumber": "45175",
+    "rawCode": "MED",
+    "timestamp": "2026-08-18T06:30:14.401957-04:00",
+    "address": "1400 Block Highlawn Avenue",
+    "extra": {
+      "incidentNumber": "45175",
+      "run_id": "45175",
+      "address": "1400 Block Highlawn Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45175"
+    }
   }
 ]
