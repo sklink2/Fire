@@ -4068,5 +4068,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-45320"
     }
+  },
+  {
+    "runNumber": "45319",
+    "rawCode": "MED",
+    "timestamp": "2026-08-18T18:33:02.802895-04:00",
+    "address": "100 Block N Eagle Creek Drive",
+    "extra": {
+      "incidentNumber": "45319",
+      "run_id": "45319",
+      "address": "100 Block N Eagle Creek Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09",
+      "units": "E09",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45319"
+    }
   }
 ]
