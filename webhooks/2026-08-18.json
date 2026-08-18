@@ -3298,5 +3298,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45285"
     }
+  },
+  {
+    "runNumber": "45288",
+    "rawCode": "MED",
+    "timestamp": "2026-08-18T15:41:03.776114-04:00",
+    "address": "2100 Block Lisa Circle",
+    "extra": {
+      "incidentNumber": "45288",
+      "run_id": "45288",
+      "address": "2100 Block Lisa Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC22",
+      "units": "E08,EC22",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45288"
+    }
   }
 ]
