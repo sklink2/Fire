@@ -3870,5 +3870,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45312"
     }
+  },
+  {
+    "runNumber": "45311",
+    "rawCode": "FSTR",
+    "timestamp": "2026-08-18T17:29:55.742659-04:00",
+    "address": "Laredo Drive & Walden Drive",
+    "extra": {
+      "incidentNumber": "45311",
+      "run_id": "45311",
+      "address": "Laredo Drive & Walden Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,E09,E15,E16,L04,L07,EC13,202,204,220,241,RS1",
+      "units": "E07,E09,E15,E16,L04,L07,EC13,202,204,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,202,204",
+      "dedupeKey": "INCIDENT-45311"
+    }
   }
 ]
