@@ -4310,5 +4310,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45329"
     }
+  },
+  {
+    "runNumber": "45333",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-18T19:25:37.292491-04:00",
+    "address": "5902 Old Richmond Road",
+    "extra": {
+      "incidentNumber": "45333",
+      "run_id": "45333",
+      "address": "5902 Old Richmond Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E18,EC11,241",
+      "units": "E18,EC11,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-45333"
+    }
   }
 ]
