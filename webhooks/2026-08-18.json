@@ -856,5 +856,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45174"
     }
+  },
+  {
+    "runNumber": "45173",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-18T06:12:43.136281-04:00",
+    "address": "E New Circle Road & Palumbo Drive",
+    "extra": {
+      "incidentNumber": "45173",
+      "run_id": "45173",
+      "address": "E New Circle Road & Palumbo Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,201,205",
+      "units": "E02,201,205",
+      "unitCount": "3",
+      "primaryTopic": "FINV",
+      "commandUnits": "201,205",
+      "dedupeKey": "INCIDENT-45173"
+    }
   }
 ]
