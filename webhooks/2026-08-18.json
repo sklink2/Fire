@@ -548,5 +548,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45161"
     }
+  },
+  {
+    "runNumber": "45162",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-18T04:20:25.637839-04:00",
+    "address": "1608 Hill Rise Drive",
+    "extra": {
+      "incidentNumber": "45162",
+      "run_id": "45162",
+      "address": "1608 Hill Rise Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E14,L01,203",
+      "units": "E04,E14,L01,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-45162"
+    }
   }
 ]
