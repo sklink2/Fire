@@ -4486,5 +4486,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-45131"
     }
+  },
+  {
+    "runNumber": "45132",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-17T23:25:39.959425-04:00",
+    "address": "Gainesway Drive & Gainesway Court",
+    "extra": {
+      "incidentNumber": "45132",
+      "run_id": "45132",
+      "address": "Gainesway Drive & Gainesway Court",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,EC4",
+      "units": "E07,EC4",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45132"
+    }
   }
 ]
