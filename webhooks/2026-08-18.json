@@ -636,5 +636,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45165"
     }
+  },
+  {
+    "runNumber": "45166",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-18T04:55:30.388209-04:00",
+    "address": "2100 Call Drive",
+    "extra": {
+      "incidentNumber": "45166",
+      "run_id": "45166",
+      "address": "2100 Call Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E17,L05,201",
+      "units": "E02,E17,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-45166"
+    }
   }
 ]
