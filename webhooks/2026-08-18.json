@@ -3210,5 +3210,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45281"
     }
+  },
+  {
+    "runNumber": "45280",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-18T15:12:59.448004-04:00",
+    "address": "Man O War Boulevard & Armstrong Mil",
+    "extra": {
+      "incidentNumber": "45280",
+      "run_id": "45280",
+      "address": "Man O War Boulevard & Armstrong Mil",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,L04,EC2,202,RS1",
+      "units": "E07,L04,EC2,202,RS1",
+      "unitCount": "5",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-45280"
+    }
   }
 ]
