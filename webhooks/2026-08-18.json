@@ -3562,5 +3562,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45297"
     }
+  },
+  {
+    "runNumber": "45300",
+    "rawCode": "MED",
+    "timestamp": "2026-08-18T16:37:09.904593-04:00",
+    "address": "200 Block Bittersweet Way",
+    "extra": {
+      "incidentNumber": "45300",
+      "run_id": "45300",
+      "address": "200 Block Bittersweet Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC13",
+      "units": "E15,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45300"
+    }
   }
 ]
