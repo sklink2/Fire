@@ -3034,5 +3034,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-45273"
     }
+  },
+  {
+    "runNumber": "45274",
+    "rawCode": "MED",
+    "timestamp": "2026-08-18T14:44:51.892555-04:00",
+    "address": "900 Block Sugarbush Trail",
+    "extra": {
+      "incidentNumber": "45274",
+      "run_id": "45274",
+      "address": "900 Block Sugarbush Trail",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC13",
+      "units": "E09,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45274"
+    }
   }
 ]
