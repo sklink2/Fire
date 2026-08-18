@@ -4442,5 +4442,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45129"
     }
+  },
+  {
+    "runNumber": "45130",
+    "rawCode": "MED",
+    "timestamp": "2026-08-17T23:08:07.948993-04:00",
+    "address": "100 Block S Locust Hill Drive",
+    "extra": {
+      "incidentNumber": "45130",
+      "run_id": "45130",
+      "address": "100 Block S Locust Hill Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45130"
+    }
   }
 ]
