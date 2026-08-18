@@ -658,5 +658,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-45166"
     }
+  },
+  {
+    "runNumber": "45167",
+    "rawCode": "MED",
+    "timestamp": "2026-08-18T04:58:59.847888-04:00",
+    "address": "1000 Block Georgetown Road",
+    "extra": {
+      "incidentNumber": "45167",
+      "run_id": "45167",
+      "address": "1000 Block Georgetown Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45167"
+    }
   }
 ]
