@@ -1934,5 +1934,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45223"
     }
+  },
+  {
+    "runNumber": "45224",
+    "rawCode": "MED",
+    "timestamp": "2026-08-18T10:49:48.426269-04:00",
+    "address": "2000 Block Dorset Drive",
+    "extra": {
+      "incidentNumber": "45224",
+      "run_id": "45224",
+      "address": "2000 Block Dorset Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,EC10",
+      "units": "E11,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45224"
+    }
   }
 ]
