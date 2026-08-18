@@ -1472,5 +1472,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45202"
     }
+  },
+  {
+    "runNumber": "45203",
+    "rawCode": "FELF",
+    "timestamp": "2026-08-18T09:01:05.395284-04:00",
+    "address": "900 S Limestone",
+    "extra": {
+      "incidentNumber": "45203",
+      "run_id": "45203",
+      "address": "900 S Limestone",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,L02,EC7,205",
+      "units": "E05,E06,L02,EC7,205",
+      "unitCount": "5",
+      "primaryTopic": "FELF",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-45203"
+    }
   }
 ]
