@@ -4354,5 +4354,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45332"
     }
+  },
+  {
+    "runNumber": "45331",
+    "rawCode": "FMIS",
+    "timestamp": "2026-08-18T19:25:45.335868-04:00",
+    "address": "1300 Sports Center Drive",
+    "extra": {
+      "incidentNumber": "45331",
+      "run_id": "45331",
+      "address": "1300 Sports Center Drive",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,205",
+      "units": "E05,205",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-45331"
+    }
   }
 ]
