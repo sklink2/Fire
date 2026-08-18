@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45244"
     }
+  },
+  {
+    "runNumber": "45243",
+    "rawCode": "MED",
+    "timestamp": "2026-08-18T12:45:42.229942-04:00",
+    "address": "1000 Block Andover Forest Drive",
+    "extra": {
+      "incidentNumber": "45243",
+      "run_id": "45243",
+      "address": "1000 Block Andover Forest Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,EC13",
+      "units": "E21,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45243"
+    }
   }
 ]
