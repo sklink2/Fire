@@ -3364,5 +3364,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45286"
     }
+  },
+  {
+    "runNumber": "45289",
+    "rawCode": "MED",
+    "timestamp": "2026-08-18T15:44:33.572388-04:00",
+    "address": "500 Block W Short Street",
+    "extra": {
+      "incidentNumber": "45289",
+      "run_id": "45289",
+      "address": "500 Block W Short Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "CRT1",
+      "units": "CRT1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45289"
+    }
   }
 ]
