@@ -4310,5 +4310,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45123"
     }
+  },
+  {
+    "runNumber": "45124",
+    "rawCode": "MED",
+    "timestamp": "2026-08-17T22:18:57.896639-04:00",
+    "address": "600 Block E Loudon Avenue",
+    "extra": {
+      "incidentNumber": "45124",
+      "run_id": "45124",
+      "address": "600 Block E Loudon Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC1",
+      "units": "E02,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45124"
+    }
   }
 ]
