@@ -1208,5 +1208,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45189"
     }
+  },
+  {
+    "runNumber": "45191",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-18T07:50:55.390481-04:00",
+    "address": "1105 Shagbark Lane",
+    "extra": {
+      "incidentNumber": "45191",
+      "run_id": "45191",
+      "address": "1105 Shagbark Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,E22,L02,202",
+      "units": "E16,E22,L02,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-45191"
+    }
   }
 ]
