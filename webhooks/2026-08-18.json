@@ -2132,5 +2132,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-45233"
     }
+  },
+  {
+    "runNumber": "45232",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-18T11:53:02.944837-04:00",
+    "address": "1935 Stanton Way",
+    "extra": {
+      "incidentNumber": "45232",
+      "run_id": "45232",
+      "address": "1935 Stanton Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,E13,E19,L03,203",
+      "units": "E10,E13,E19,L03,203",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-45232"
+    }
   }
 ]
