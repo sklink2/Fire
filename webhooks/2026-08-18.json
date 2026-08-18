@@ -1428,5 +1428,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45201"
     }
+  },
+  {
+    "runNumber": "45200",
+    "rawCode": "MED",
+    "timestamp": "2026-08-18T08:36:33.815681-04:00",
+    "address": "400 Block Michigan Street",
+    "extra": {
+      "incidentNumber": "45200",
+      "run_id": "45200",
+      "address": "400 Block Michigan Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L03,EC10",
+      "units": "L03,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45200"
+    }
   }
 ]
