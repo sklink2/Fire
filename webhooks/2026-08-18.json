@@ -4112,5 +4112,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-45322"
     }
+  },
+  {
+    "runNumber": "45321",
+    "rawCode": "MED",
+    "timestamp": "2026-08-18T18:47:05.966510-04:00",
+    "address": "400 Block E Tiverton Way",
+    "extra": {
+      "incidentNumber": "45321",
+      "run_id": "45321",
+      "address": "400 Block E Tiverton Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45321"
+    }
   }
 ]
