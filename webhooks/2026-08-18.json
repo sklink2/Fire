@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45169"
     }
+  },
+  {
+    "runNumber": "45168",
+    "rawCode": "FDET",
+    "timestamp": "2026-08-18T05:02:34.102675-04:00",
+    "address": "701 Lynn Road",
+    "extra": {
+      "incidentNumber": "45168",
+      "run_id": "45168",
+      "address": "701 Lynn Road",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10",
+      "units": "E10",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45168"
+    }
   }
 ]
