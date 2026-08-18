@@ -2418,5 +2418,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45243"
     }
+  },
+  {
+    "runNumber": "45246",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-18T12:49:07.870686-04:00",
+    "address": "2445 Innovation Drive",
+    "extra": {
+      "incidentNumber": "45246",
+      "run_id": "45246",
+      "address": "2445 Innovation Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,E24,L03,203",
+      "units": "E10,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-45246"
+    }
   }
 ]
