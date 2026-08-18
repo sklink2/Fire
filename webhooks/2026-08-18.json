@@ -4398,5 +4398,27 @@
       "commandUnits": "220,202",
       "dedupeKey": "INCIDENT-45334"
     }
+  },
+  {
+    "runNumber": "45335",
+    "rawCode": "MED",
+    "timestamp": "2026-08-18T19:43:08.605839-04:00",
+    "address": "2100 Block Deauville Drive",
+    "extra": {
+      "incidentNumber": "45335",
+      "run_id": "45335",
+      "address": "2100 Block Deauville Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45335"
+    }
   }
 ]
