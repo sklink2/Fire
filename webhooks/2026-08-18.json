@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45214"
     }
+  },
+  {
+    "runNumber": "45215",
+    "rawCode": "MED",
+    "timestamp": "2026-08-18T09:46:39.899443-04:00",
+    "address": "300 Block S Broadway",
+    "extra": {
+      "incidentNumber": "45215",
+      "run_id": "45215",
+      "address": "300 Block S Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC5,RS1",
+      "units": "EC5,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45215"
+    }
   }
 ]
