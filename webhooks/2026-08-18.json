@@ -196,5 +196,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45146"
     }
+  },
+  {
+    "runNumber": "45145",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-18T01:39:03.325712-04:00",
+    "address": "1073 Andover Forest Drive",
+    "extra": {
+      "incidentNumber": "45145",
+      "run_id": "45145",
+      "address": "1073 Andover Forest Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E21,L06,201",
+      "units": "E09,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-45145"
+    }
   }
 ]
