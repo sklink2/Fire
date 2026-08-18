@@ -4376,5 +4376,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-45331"
     }
+  },
+  {
+    "runNumber": "45334",
+    "rawCode": "FCMS",
+    "timestamp": "2026-08-18T19:29:10.207685-04:00",
+    "address": "813 Malabu Drive",
+    "extra": {
+      "incidentNumber": "45334",
+      "run_id": "45334",
+      "address": "813 Malabu Drive",
+      "rawType": "FCMS",
+      "typeCode": "FCMS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,L07,EC13,202,220",
+      "units": "E22,L07,EC13,202,220",
+      "unitCount": "5",
+      "primaryTopic": "FCMS",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-45334"
+    }
   }
 ]
