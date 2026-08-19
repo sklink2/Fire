@@ -2638,5 +2638,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45494"
     }
+  },
+  {
+    "runNumber": "45495",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-19T13:22:48.342220-04:00",
+    "address": "Blairmore Court & Blairmore Road",
+    "extra": {
+      "incidentNumber": "45495",
+      "run_id": "45495",
+      "address": "Blairmore Court & Blairmore Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E07,205",
+      "units": "E02,E07,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-45495"
+    }
   }
 ]
