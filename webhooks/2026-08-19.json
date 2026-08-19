@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45550"
     }
+  },
+  {
+    "runNumber": "45549",
+    "rawCode": "MED",
+    "timestamp": "2026-08-19T17:49:32.059740-04:00",
+    "address": "200 Block Richardson Place",
+    "extra": {
+      "incidentNumber": "45549",
+      "run_id": "45549",
+      "address": "200 Block Richardson Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC13",
+      "units": "EC13",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45549"
+    }
   }
 ]
