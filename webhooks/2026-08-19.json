@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45406"
     }
+  },
+  {
+    "runNumber": "45407",
+    "rawCode": "MED",
+    "timestamp": "2026-08-19T07:21:23.349377-04:00",
+    "address": "3000 Block Tuscaloosa Lane",
+    "extra": {
+      "incidentNumber": "45407",
+      "run_id": "45407",
+      "address": "3000 Block Tuscaloosa Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC13",
+      "units": "E21,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45407"
+    }
   }
 ]
