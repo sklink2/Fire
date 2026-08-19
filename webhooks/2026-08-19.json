@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45410"
     }
+  },
+  {
+    "runNumber": "45409",
+    "rawCode": "MED",
+    "timestamp": "2026-08-19T07:35:29.624407-04:00",
+    "address": "300 Block Spring Station Court",
+    "extra": {
+      "incidentNumber": "45409",
+      "run_id": "45409",
+      "address": "300 Block Spring Station Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45409"
+    }
   }
 ]
