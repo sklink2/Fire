@@ -2836,5 +2836,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-45504"
     }
+  },
+  {
+    "runNumber": "45503",
+    "rawCode": "MED",
+    "timestamp": "2026-08-19T13:43:57.508529-04:00",
+    "address": "3100 Block Beaumont Centre Circle",
+    "extra": {
+      "incidentNumber": "45503",
+      "run_id": "45503",
+      "address": "3100 Block Beaumont Centre Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,EC1,220",
+      "units": "E20,EC1,220",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-45503"
+    }
   }
 ]
