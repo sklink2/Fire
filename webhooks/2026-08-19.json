@@ -3496,5 +3496,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45534"
     }
+  },
+  {
+    "runNumber": "45536",
+    "rawCode": "MED",
+    "timestamp": "2026-08-19T16:46:20.150065-04:00",
+    "address": "1000 Block Stowbridge Lane",
+    "extra": {
+      "incidentNumber": "45536",
+      "run_id": "45536",
+      "address": "1000 Block Stowbridge Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC13,CRT1",
+      "units": "E22,EC13,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45536"
+    }
   }
 ]
