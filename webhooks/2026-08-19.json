@@ -3606,5 +3606,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45539"
     }
+  },
+  {
+    "runNumber": "45540",
+    "rawCode": "MED",
+    "timestamp": "2026-08-19T17:03:52.077411-04:00",
+    "address": "2800 Block Sullivans Trce",
+    "extra": {
+      "incidentNumber": "45540",
+      "run_id": "45540",
+      "address": "2800 Block Sullivans Trce",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "T1,EC11",
+      "units": "T1,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45540"
+    }
   }
 ]
