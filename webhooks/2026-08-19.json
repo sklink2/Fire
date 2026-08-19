@@ -2814,5 +2814,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45501"
     }
+  },
+  {
+    "runNumber": "45504",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-19T13:43:52.302782-04:00",
+    "address": "3816 Camelot Drive",
+    "extra": {
+      "incidentNumber": "45504",
+      "run_id": "45504",
+      "address": "3816 Camelot Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E12,E22,L07,205",
+      "units": "E02,E12,E22,L07,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-45504"
+    }
   }
 ]
