@@ -3738,5 +3738,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45547"
     }
+  },
+  {
+    "runNumber": "45546",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-19T17:32:00.063348-04:00",
+    "address": "510 Henry Clay Boulevard",
+    "extra": {
+      "incidentNumber": "45546",
+      "run_id": "45546",
+      "address": "510 Henry Clay Boulevard",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,E23,L06,205",
+      "units": "E17,E23,L06,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-45546"
+    }
   }
 ]
