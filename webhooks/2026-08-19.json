@@ -3914,5 +3914,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45553"
     }
+  },
+  {
+    "runNumber": "45555",
+    "rawCode": "FCMS",
+    "timestamp": "2026-08-19T18:10:36.092253-04:00",
+    "address": "697 Tennessee Avenue",
+    "extra": {
+      "incidentNumber": "45555",
+      "run_id": "45555",
+      "address": "697 Tennessee Avenue",
+      "rawType": "FCMS",
+      "typeCode": "FCMS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E23,L05,EC2,201,220,241",
+      "units": "E23,L05,EC2,201,220,241",
+      "unitCount": "6",
+      "primaryTopic": "FCMS",
+      "commandUnits": "241,220,201",
+      "dedupeKey": "INCIDENT-45555"
+    }
   }
 ]
