@@ -2462,5 +2462,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45486"
     }
+  },
+  {
+    "runNumber": "45485",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-19T13:01:55.589150-04:00",
+    "address": "116 Suburban Court",
+    "extra": {
+      "incidentNumber": "45485",
+      "run_id": "45485",
+      "address": "116 Suburban Court",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,E20,L02,204,220",
+      "units": "E12,E20,L02,204,220",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-45485"
+    }
   }
 ]
