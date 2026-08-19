@@ -2308,5 +2308,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45480"
     }
+  },
+  {
+    "runNumber": "45479",
+    "rawCode": "MED",
+    "timestamp": "2026-08-19T12:47:43.675275-04:00",
+    "address": "500 Block Thurman Drive",
+    "extra": {
+      "incidentNumber": "45479",
+      "run_id": "45479",
+      "address": "500 Block Thurman Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45479"
+    }
   }
 ]
