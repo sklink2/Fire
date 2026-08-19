@@ -2858,5 +2858,27 @@
       "commandUnits": "220",
       "dedupeKey": "INCIDENT-45503"
     }
+  },
+  {
+    "runNumber": "45505",
+    "rawCode": "MED",
+    "timestamp": "2026-08-19T13:50:51.313893-04:00",
+    "address": "300 Block Waller Avenue",
+    "extra": {
+      "incidentNumber": "45505",
+      "run_id": "45505",
+      "address": "300 Block Waller Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,EC4",
+      "units": "E06,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45505"
+    }
   }
 ]
