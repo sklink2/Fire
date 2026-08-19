@@ -3760,5 +3760,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-45546"
     }
+  },
+  {
+    "runNumber": "45548",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-19T17:46:00.059963-04:00",
+    "address": "Maple Avenue & E Loudon Avenue",
+    "extra": {
+      "incidentNumber": "45548",
+      "run_id": "45548",
+      "address": "Maple Avenue & E Loudon Avenue",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC8",
+      "units": "E01,EC8",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45548"
+    }
   }
 ]
