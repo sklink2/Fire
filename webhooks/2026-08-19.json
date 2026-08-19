@@ -3056,5 +3056,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45514"
     }
+  },
+  {
+    "runNumber": "45515",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-19T14:50:34.732159-04:00",
+    "address": "3016 Bracktown Road",
+    "extra": {
+      "incidentNumber": "45515",
+      "run_id": "45515",
+      "address": "3016 Bracktown Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,E24,L03,203",
+      "units": "E13,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-45515"
+    }
   }
 ]
