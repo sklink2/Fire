@@ -1758,5 +1758,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45453"
     }
+  },
+  {
+    "runNumber": "45454",
+    "rawCode": "MED",
+    "timestamp": "2026-08-19T11:12:57.095278-04:00",
+    "address": "100 Block E Lowry Lane",
+    "extra": {
+      "incidentNumber": "45454",
+      "run_id": "45454",
+      "address": "100 Block E Lowry Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45454"
+    }
   }
 ]
