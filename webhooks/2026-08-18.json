@@ -4596,5 +4596,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45343"
     }
+  },
+  {
+    "runNumber": "45345",
+    "rawCode": "FELS",
+    "timestamp": "2026-08-18T20:25:16.214119-04:00",
+    "address": "340 Hilltop Avenue",
+    "extra": {
+      "incidentNumber": "45345",
+      "run_id": "45345",
+      "address": "340 Hilltop Avenue",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L02,204,RS1",
+      "units": "L02,204,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-45345"
+    }
   }
 ]
