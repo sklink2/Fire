@@ -548,5 +548,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45400"
     }
+  },
+  {
+    "runNumber": "45401",
+    "rawCode": "MED",
+    "timestamp": "2026-08-19T05:53:41.641942-04:00",
+    "address": "700 Block Winchester Road",
+    "extra": {
+      "incidentNumber": "45401",
+      "run_id": "45401",
+      "address": "700 Block Winchester Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45401"
+    }
   }
 ]
