@@ -1098,5 +1098,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45422"
     }
+  },
+  {
+    "runNumber": "45424",
+    "rawCode": "MED",
+    "timestamp": "2026-08-19T08:56:09.303067-04:00",
+    "address": "100 Block W Main Street",
+    "extra": {
+      "incidentNumber": "45424",
+      "run_id": "45424",
+      "address": "100 Block W Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01,EC12",
+      "units": "L01,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45424"
+    }
   }
 ]
