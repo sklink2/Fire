@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45448"
     }
+  },
+  {
+    "runNumber": "45447",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-19T10:41:26.521831-04:00",
+    "address": "301 W Third Street",
+    "extra": {
+      "incidentNumber": "45447",
+      "run_id": "45447",
+      "address": "301 W Third Street",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45447"
+    }
   }
 ]
