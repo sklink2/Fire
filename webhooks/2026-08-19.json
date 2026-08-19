@@ -856,5 +856,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45411"
     }
+  },
+  {
+    "runNumber": "45413",
+    "rawCode": "MED",
+    "timestamp": "2026-08-19T07:42:28.012289-04:00",
+    "address": "300 Block American Avenue",
+    "extra": {
+      "incidentNumber": "45413",
+      "run_id": "45413",
+      "address": "300 Block American Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45413"
+    }
   }
 ]
