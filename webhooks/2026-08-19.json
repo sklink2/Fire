@@ -526,5 +526,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45399"
     }
+  },
+  {
+    "runNumber": "45400",
+    "rawCode": "MED",
+    "timestamp": "2026-08-19T05:50:12.464685-04:00",
+    "address": "400 Block E Seventh Street",
+    "extra": {
+      "incidentNumber": "45400",
+      "run_id": "45400",
+      "address": "400 Block E Seventh Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45400"
+    }
   }
 ]
