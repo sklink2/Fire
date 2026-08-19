@@ -3892,5 +3892,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-45554"
     }
+  },
+  {
+    "runNumber": "45553",
+    "rawCode": "MED",
+    "timestamp": "2026-08-19T18:07:06.148811-04:00",
+    "address": "4800 Block Versailles Road",
+    "extra": {
+      "incidentNumber": "45553",
+      "run_id": "45553",
+      "address": "4800 Block Versailles Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45553"
+    }
   }
 ]
