@@ -3430,5 +3430,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45532"
     }
+  },
+  {
+    "runNumber": "45531",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-19T16:21:49.581254-04:00",
+    "address": "Pine Street & Jersey Street",
+    "extra": {
+      "incidentNumber": "45531",
+      "run_id": "45531",
+      "address": "Pine Street & Jersey Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,EC6",
+      "units": "E06,EC6",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45531"
+    }
   }
 ]
