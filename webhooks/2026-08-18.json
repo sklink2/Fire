@@ -5234,5 +5234,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45372"
     }
+  },
+  {
+    "runNumber": "45373",
+    "rawCode": "MED",
+    "timestamp": "2026-08-18T23:24:12.819103-04:00",
+    "address": "100 Block E Main Street",
+    "extra": {
+      "incidentNumber": "45373",
+      "run_id": "45373",
+      "address": "100 Block E Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45373"
+    }
   }
 ]
