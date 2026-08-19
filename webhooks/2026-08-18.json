@@ -4772,5 +4772,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45351"
     }
+  },
+  {
+    "runNumber": "45352",
+    "rawCode": "FMIS",
+    "timestamp": "2026-08-18T20:53:21.727072-04:00",
+    "address": "1749 Liberty Road",
+    "extra": {
+      "incidentNumber": "45352",
+      "run_id": "45352",
+      "address": "1749 Liberty Road",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,201",
+      "units": "E02,201",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-45352"
+    }
   }
 ]
