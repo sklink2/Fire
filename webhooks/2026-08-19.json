@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45461"
     }
+  },
+  {
+    "runNumber": "45463",
+    "rawCode": "FFIA",
+    "timestamp": "2026-08-19T11:48:04.809000-04:00",
+    "address": "4784 Rhema Way",
+    "extra": {
+      "incidentNumber": "45463",
+      "run_id": "45463",
+      "address": "4784 Rhema Way",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E20,L07,EC5,203,220",
+      "units": "E11,E20,L07,EC5,203,220",
+      "unitCount": "6",
+      "primaryTopic": "FFIA",
+      "commandUnits": "220,203",
+      "dedupeKey": "INCIDENT-45463"
+    }
   }
 ]
