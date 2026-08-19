@@ -592,5 +592,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45402"
     }
+  },
+  {
+    "runNumber": "45403",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-19T06:28:48.611221-04:00",
+    "address": "1825 Liberty Road",
+    "extra": {
+      "incidentNumber": "45403",
+      "run_id": "45403",
+      "address": "1825 Liberty Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E09,L05,EC11,201,220",
+      "units": "E02,E09,L05,EC11,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-45403"
+    }
   }
 ]
