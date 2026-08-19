@@ -3122,5 +3122,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45517"
     }
+  },
+  {
+    "runNumber": "45519",
+    "rawCode": "MED",
+    "timestamp": "2026-08-19T15:15:05.330059-04:00",
+    "address": "4800 Block Athens Boonesboro Road",
+    "extra": {
+      "incidentNumber": "45519",
+      "run_id": "45519",
+      "address": "4800 Block Athens Boonesboro Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45519"
+    }
   }
 ]
