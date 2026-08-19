@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45418"
     }
+  },
+  {
+    "runNumber": "45421",
+    "rawCode": "MED",
+    "timestamp": "2026-08-19T08:35:05.112252-04:00",
+    "address": "300 Block Redding Road",
+    "extra": {
+      "incidentNumber": "45421",
+      "run_id": "45421",
+      "address": "300 Block Redding Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC12",
+      "units": "E15,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45421"
+    }
   }
 ]
