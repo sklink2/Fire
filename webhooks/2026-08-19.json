@@ -2704,5 +2704,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45497"
     }
+  },
+  {
+    "runNumber": "45498",
+    "rawCode": "MED",
+    "timestamp": "2026-08-19T13:33:19.088306-04:00",
+    "address": "3900 Block Rapid Run Drive",
+    "extra": {
+      "incidentNumber": "45498",
+      "run_id": "45498",
+      "address": "3900 Block Rapid Run Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC12,CRT1",
+      "units": "E16,EC12,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45498"
+    }
   }
 ]
