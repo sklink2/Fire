@@ -4904,5 +4904,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45599"
     }
+  },
+  {
+    "runNumber": "45600",
+    "rawCode": "MED",
+    "timestamp": "2026-08-19T22:37:10.672206-04:00",
+    "address": "2300 Block Buena Vista Road",
+    "extra": {
+      "incidentNumber": "45600",
+      "run_id": "45600",
+      "address": "2300 Block Buena Vista Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,EC2",
+      "units": "E17,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45600"
+    }
   }
 ]
