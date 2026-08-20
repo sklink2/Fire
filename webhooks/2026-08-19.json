@@ -5080,5 +5080,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45606"
     }
+  },
+  {
+    "runNumber": "45608",
+    "rawCode": "MED",
+    "timestamp": "2026-08-19T23:47:20.118013-04:00",
+    "address": "N Upper Street & W Short Street",
+    "extra": {
+      "incidentNumber": "45608",
+      "run_id": "45608",
+      "address": "N Upper Street & W Short Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01,EC10",
+      "units": "L01,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45608"
+    }
   }
 ]
