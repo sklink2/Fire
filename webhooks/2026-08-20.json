@@ -3188,5 +3188,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45754"
     }
+  },
+  {
+    "runNumber": "45755",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-20T16:34:20.497256-04:00",
+    "address": "2021 Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "45755",
+      "run_id": "45755",
+      "address": "2021 Harrodsburg Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E12,L02,204",
+      "units": "E11,E12,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-45755"
+    }
   }
 ]
