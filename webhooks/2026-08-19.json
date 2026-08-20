@@ -5102,5 +5102,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45608"
     }
+  },
+  {
+    "runNumber": "45609",
+    "rawCode": "MED",
+    "timestamp": "2026-08-19T23:50:50.711728-04:00",
+    "address": "1600 Block Raleigh Road",
+    "extra": {
+      "incidentNumber": "45609",
+      "run_id": "45609",
+      "address": "1600 Block Raleigh Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC3",
+      "units": "E02,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45609"
+    }
   }
 ]
