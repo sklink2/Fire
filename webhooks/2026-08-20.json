@@ -1032,5 +1032,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-45658"
     }
+  },
+  {
+    "runNumber": "45657",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-20T08:23:14.683989-04:00",
+    "address": "75 Nb / 108.0 Mm (Man O War",
+    "extra": {
+      "incidentNumber": "45657",
+      "run_id": "45657",
+      "address": "75 Nb / 108.0 Mm (Man O War",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E17,E18,L06,EC11",
+      "units": "E17,E18,L06,EC11",
+      "unitCount": "4",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45657"
+    }
   }
 ]
