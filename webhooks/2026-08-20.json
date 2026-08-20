@@ -416,5 +416,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-45629"
     }
+  },
+  {
+    "runNumber": "45630",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-20T03:38:57.082383-04:00",
+    "address": "2397 Richmond Road",
+    "extra": {
+      "incidentNumber": "45630",
+      "run_id": "45630",
+      "address": "2397 Richmond Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E09,L05,201",
+      "units": "E02,E09,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-45630"
+    }
   }
 ]
