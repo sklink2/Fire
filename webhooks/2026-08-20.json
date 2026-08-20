@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45684"
     }
+  },
+  {
+    "runNumber": "45685",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-20T10:25:59.151427-04:00",
+    "address": "5861 Winchester Road",
+    "extra": {
+      "incidentNumber": "45685",
+      "run_id": "45685",
+      "address": "5861 Winchester Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E23,L06,EC1,202,RS1",
+      "units": "E23,L06,EC1,202,RS1",
+      "unitCount": "5",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-45685"
+    }
   }
 ]
