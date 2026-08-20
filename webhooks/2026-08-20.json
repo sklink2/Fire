@@ -3298,5 +3298,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45759"
     }
+  },
+  {
+    "runNumber": "45761",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-20T16:58:56.203048-04:00",
+    "address": "717 Street Elias Lane",
+    "extra": {
+      "incidentNumber": "45761",
+      "run_id": "45761",
+      "address": "717 Street Elias Lane",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,E22,L07,EC13,202,220",
+      "units": "E16,E22,L07,EC13,202,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-45761"
+    }
   }
 ]
