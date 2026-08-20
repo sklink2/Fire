@@ -5036,5 +5036,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45605"
     }
+  },
+  {
+    "runNumber": "45607",
+    "rawCode": "MED",
+    "timestamp": "2026-08-19T23:33:19.224530-04:00",
+    "address": "200 Block E Loudon Avenue",
+    "extra": {
+      "incidentNumber": "45607",
+      "run_id": "45607",
+      "address": "200 Block E Loudon Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45607"
+    }
   }
 ]
