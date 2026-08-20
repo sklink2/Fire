@@ -1142,5 +1142,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45662"
     }
+  },
+  {
+    "runNumber": "45663",
+    "rawCode": "FSMO",
+    "timestamp": "2026-08-20T08:40:42.513775-04:00",
+    "address": "2559 Kearney Ridge Boulevard",
+    "extra": {
+      "incidentNumber": "45663",
+      "run_id": "45663",
+      "address": "2559 Kearney Ridge Boulevard",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,E13,L05,EC3,203",
+      "units": "E10,E13,L05,EC3,203",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-45663"
+    }
   }
 ]
