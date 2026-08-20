@@ -1208,5 +1208,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45666"
     }
+  },
+  {
+    "runNumber": "45665",
+    "rawCode": "MED",
+    "timestamp": "2026-08-20T09:05:17.467029-04:00",
+    "address": "6400 Block Polo Club Lane",
+    "extra": {
+      "incidentNumber": "45665",
+      "run_id": "45665",
+      "address": "6400 Block Polo Club Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45665"
+    }
   }
 ]
