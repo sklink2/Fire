@@ -4684,5 +4684,27 @@
       "commandUnits": "220,201",
       "dedupeKey": "INCIDENT-45588"
     }
+  },
+  {
+    "runNumber": "45592",
+    "rawCode": "MED",
+    "timestamp": "2026-08-19T22:02:04.705182-04:00",
+    "address": "Eastland Parkway & E New Circle R",
+    "extra": {
+      "incidentNumber": "45592",
+      "run_id": "45592",
+      "address": "Eastland Parkway & E New Circle R",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC2",
+      "units": "E08,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45592"
+    }
   }
 ]
