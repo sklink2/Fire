@@ -1164,5 +1164,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-45663"
     }
+  },
+  {
+    "runNumber": "45664",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-20T08:47:41.504229-04:00",
+    "address": "64 Wb / 82.0 Mm (South Split",
+    "extra": {
+      "incidentNumber": "45664",
+      "run_id": "45664",
+      "address": "64 Wb / 82.0 Mm (South Split",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,E23,L06,EC8",
+      "units": "E21,E23,L06,EC8",
+      "unitCount": "4",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45664"
+    }
   }
 ]
