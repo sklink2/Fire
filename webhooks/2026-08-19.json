@@ -4552,5 +4552,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45582"
     }
+  },
+  {
+    "runNumber": "45584",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-19T21:27:02.451629-04:00",
+    "address": "310 Old Vine Street",
+    "extra": {
+      "incidentNumber": "45584",
+      "run_id": "45584",
+      "address": "310 Old Vine Street",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,L02,EC7,205,241,RS1",
+      "units": "E05,L02,EC7,205,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,205",
+      "dedupeKey": "INCIDENT-45584"
+    }
   }
 ]
