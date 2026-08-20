@@ -3342,5 +3342,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45760"
     }
+  },
+  {
+    "runNumber": "45762",
+    "rawCode": "MED",
+    "timestamp": "2026-08-20T17:02:23.045415-04:00",
+    "address": "1400 Block Mount Drive",
+    "extra": {
+      "incidentNumber": "45762",
+      "run_id": "45762",
+      "address": "1400 Block Mount Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45762"
+    }
   }
 ]
