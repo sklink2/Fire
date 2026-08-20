@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45738"
     }
+  },
+  {
+    "runNumber": "45743",
+    "rawCode": "FELS",
+    "timestamp": "2026-08-20T15:20:39.675231-04:00",
+    "address": "1700 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "45743",
+      "run_id": "45743",
+      "address": "1700 Nicholasville Road",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,L02,204",
+      "units": "E12,L02,204",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-45743"
+    }
   }
 ]
