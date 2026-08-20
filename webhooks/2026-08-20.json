@@ -3320,5 +3320,27 @@
       "commandUnits": "220,202",
       "dedupeKey": "INCIDENT-45761"
     }
+  },
+  {
+    "runNumber": "45760",
+    "rawCode": "MED",
+    "timestamp": "2026-08-20T16:59:00.740754-04:00",
+    "address": "200 Block E New Circle Road",
+    "extra": {
+      "incidentNumber": "45760",
+      "run_id": "45760",
+      "address": "200 Block E New Circle Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45760"
+    }
   }
 ]
