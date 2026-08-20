@@ -1450,5 +1450,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45676"
     }
+  },
+  {
+    "runNumber": "45677",
+    "rawCode": "MED",
+    "timestamp": "2026-08-20T09:54:22.228158-04:00",
+    "address": "3500 Block Laurenhaven Court",
+    "extra": {
+      "incidentNumber": "45677",
+      "run_id": "45677",
+      "address": "3500 Block Laurenhaven Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC11",
+      "units": "E09,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45677"
+    }
   }
 ]
