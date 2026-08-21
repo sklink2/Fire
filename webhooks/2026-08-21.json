@@ -3078,5 +3078,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45970"
     }
+  },
+  {
+    "runNumber": "45969",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-21T14:47:45.224380-04:00",
+    "address": "E Loudon Avenue & Shropshire Avenue",
+    "extra": {
+      "incidentNumber": "45969",
+      "run_id": "45969",
+      "address": "E Loudon Avenue & Shropshire Avenue",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC3,241",
+      "units": "E01,EC3,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-45969"
+    }
   }
 ]
