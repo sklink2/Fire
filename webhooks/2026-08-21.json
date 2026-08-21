@@ -2770,5 +2770,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-45956"
     }
+  },
+  {
+    "runNumber": "45955",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-21T13:51:36.715487-04:00",
+    "address": "795 Manchester Street",
+    "extra": {
+      "incidentNumber": "45955",
+      "run_id": "45955",
+      "address": "795 Manchester Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13",
+      "units": "E13",
+      "unitCount": "1",
+      "primaryTopic": "FPRT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45955"
+    }
   }
 ]
