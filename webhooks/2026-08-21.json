@@ -790,5 +790,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45865"
     }
+  },
+  {
+    "runNumber": "45866",
+    "rawCode": "FLAR",
+    "timestamp": "2026-08-21T07:11:28.870498-04:00",
+    "address": "1660 Delong Road",
+    "extra": {
+      "incidentNumber": "45866",
+      "run_id": "45866",
+      "address": "1660 Delong Road",
+      "rawType": "FLAR",
+      "typeCode": "FLAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E16,202,RS1",
+      "units": "E09,E16,202,RS1",
+      "unitCount": "4",
+      "primaryTopic": "FLAR",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-45866"
+    }
   }
 ]
