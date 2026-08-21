@@ -1142,5 +1142,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45882"
     }
+  },
+  {
+    "runNumber": "45885",
+    "rawCode": "MED",
+    "timestamp": "2026-08-21T09:17:46.632008-04:00",
+    "address": "3900 Block Mooncoin Way",
+    "extra": {
+      "incidentNumber": "45885",
+      "run_id": "45885",
+      "address": "3900 Block Mooncoin Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L07,EC20",
+      "units": "L07,EC20",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45885"
+    }
   }
 ]
