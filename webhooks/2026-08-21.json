@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46003"
     }
+  },
+  {
+    "runNumber": "46006",
+    "rawCode": "MED",
+    "timestamp": "2026-08-21T17:04:28.280177-04:00",
+    "address": "1200 Block University Drive",
+    "extra": {
+      "incidentNumber": "46006",
+      "run_id": "46006",
+      "address": "1200 Block University Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,EC7",
+      "units": "E05,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46006"
+    }
   }
 ]
