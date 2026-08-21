@@ -4596,5 +4596,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46039"
     }
+  },
+  {
+    "runNumber": "46040",
+    "rawCode": "FVIS",
+    "timestamp": "2026-08-21T19:52:49.707041-04:00",
+    "address": "2790 Tilden Road",
+    "extra": {
+      "incidentNumber": "46040",
+      "run_id": "46040",
+      "address": "2790 Tilden Road",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E12,L05,EC11,202,RS1",
+      "units": "E09,E12,L05,EC11,202,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-46040"
+    }
   }
 ]
