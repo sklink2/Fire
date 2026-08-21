@@ -1802,5 +1802,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45913"
     }
+  },
+  {
+    "runNumber": "45916",
+    "rawCode": "FSCU",
+    "timestamp": "2026-08-21T11:20:34.997014-04:00",
+    "address": "75 Nb / 101.0 Mm",
+    "extra": {
+      "incidentNumber": "45916",
+      "run_id": "45916",
+      "address": "75 Nb / 101.0 Mm",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17,E21",
+      "units": "E17,E21",
+      "unitCount": "2",
+      "primaryTopic": "FSCU",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45916"
+    }
   }
 ]
