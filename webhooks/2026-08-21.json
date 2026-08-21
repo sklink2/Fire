@@ -1208,5 +1208,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45887"
     }
+  },
+  {
+    "runNumber": "45886",
+    "rawCode": "MED",
+    "timestamp": "2026-08-21T09:21:19.213204-04:00",
+    "address": "2300 Block Dogwood Trace Boulevard",
+    "extra": {
+      "incidentNumber": "45886",
+      "run_id": "45886",
+      "address": "2300 Block Dogwood Trace Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC21",
+      "units": "E20,EC21",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45886"
+    }
   }
 ]
