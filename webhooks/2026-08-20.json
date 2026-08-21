@@ -4244,5 +4244,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45799"
     }
+  },
+  {
+    "runNumber": "45803",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-20T21:15:03.586314-04:00",
+    "address": "Man O War Boulevard & Clays Mill Road",
+    "extra": {
+      "incidentNumber": "45803",
+      "run_id": "45803",
+      "address": "Man O War Boulevard & Clays Mill Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,L04,EC9,204,RS1",
+      "units": "E15,L04,EC9,204,RS1",
+      "unitCount": "5",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-45803"
+    }
   }
 ]
