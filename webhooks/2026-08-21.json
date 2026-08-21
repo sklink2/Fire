@@ -306,5 +306,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45843"
     }
+  },
+  {
+    "runNumber": "45844",
+    "rawCode": "MED",
+    "timestamp": "2026-08-21T03:09:24.464831-04:00",
+    "address": "1200 Block Texaco Road",
+    "extra": {
+      "incidentNumber": "45844",
+      "run_id": "45844",
+      "address": "1200 Block Texaco Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,EC10",
+      "units": "E13,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45844"
+    }
   }
 ]
