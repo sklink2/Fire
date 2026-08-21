@@ -4178,5 +4178,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45798"
     }
+  },
+  {
+    "runNumber": "45801",
+    "rawCode": "MED",
+    "timestamp": "2026-08-20T21:04:30.201278-04:00",
+    "address": "3300 Block Spangler Drive",
+    "extra": {
+      "incidentNumber": "45801",
+      "run_id": "45801",
+      "address": "3300 Block Spangler Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45801"
+    }
   }
 ]
