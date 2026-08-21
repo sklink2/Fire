@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45845"
     }
+  },
+  {
+    "runNumber": "45846",
+    "rawCode": "MED",
+    "timestamp": "2026-08-21T03:33:57.515921-04:00",
+    "address": "1700 Block Vendor Way",
+    "extra": {
+      "incidentNumber": "45846",
+      "run_id": "45846",
+      "address": "1700 Block Vendor Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC2",
+      "units": "E21,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45846"
+    }
   }
 ]
