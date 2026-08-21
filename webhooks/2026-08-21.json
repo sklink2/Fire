@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45862"
     }
+  },
+  {
+    "runNumber": "45863",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-21T06:29:26.529578-04:00",
+    "address": "2484 Pascoli Place",
+    "extra": {
+      "incidentNumber": "45863",
+      "run_id": "45863",
+      "address": "2484 Pascoli Place",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E21,L05,EC11,201,220",
+      "units": "E02,E21,L05,EC11,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-45863"
+    }
   }
 ]
