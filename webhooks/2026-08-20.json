@@ -4354,5 +4354,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45805"
     }
+  },
+  {
+    "runNumber": "45807",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-20T21:25:32.439536-04:00",
+    "address": "715 Shaker Drive",
+    "extra": {
+      "incidentNumber": "45807",
+      "run_id": "45807",
+      "address": "715 Shaker Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,L04",
+      "units": "E12,L04",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45807"
+    }
   }
 ]
