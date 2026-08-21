@@ -2946,5 +2946,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45964"
     }
+  },
+  {
+    "runNumber": "45963",
+    "rawCode": "FVIS",
+    "timestamp": "2026-08-21T14:19:41.377042-04:00",
+    "address": "1972 Augusta Drive",
+    "extra": {
+      "incidentNumber": "45963",
+      "run_id": "45963",
+      "address": "1972 Augusta Drive",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E13,L01,EC12,201,RS1",
+      "units": "E02,E13,L01,EC12,201,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-45963"
+    }
   }
 ]
