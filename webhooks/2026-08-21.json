@@ -2308,5 +2308,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45934"
     }
+  },
+  {
+    "runNumber": "45936",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-21T12:41:18.809967-04:00",
+    "address": "115 E Seventh Street",
+    "extra": {
+      "incidentNumber": "45936",
+      "run_id": "45936",
+      "address": "115 E Seventh Street",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E04,E06,205",
+      "units": "E01,E04,E06,205",
+      "unitCount": "4",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-45936"
+    }
   }
 ]
