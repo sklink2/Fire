@@ -240,5 +240,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-45840"
     }
+  },
+  {
+    "runNumber": "45841",
+    "rawCode": "MED",
+    "timestamp": "2026-08-21T02:30:48.262940-04:00",
+    "address": "0 Block Street Joseph Drive",
+    "extra": {
+      "incidentNumber": "45841",
+      "run_id": "45841",
+      "address": "0 Block Street Joseph Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45841"
+    }
   }
 ]
