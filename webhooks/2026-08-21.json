@@ -218,5 +218,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45839"
     }
+  },
+  {
+    "runNumber": "45840",
+    "rawCode": "MED",
+    "timestamp": "2026-08-21T02:13:16.480014-04:00",
+    "address": "100 Block E Loudon Avenue",
+    "extra": {
+      "incidentNumber": "45840",
+      "run_id": "45840",
+      "address": "100 Block E Loudon Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC1,EC3,241",
+      "units": "E08,EC1,EC3,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-45840"
+    }
   }
 ]
