@@ -2220,5 +2220,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-45930"
     }
+  },
+  {
+    "runNumber": "45933",
+    "rawCode": "MED",
+    "timestamp": "2026-08-21T12:27:20.130422-04:00",
+    "address": "900 Block Witthuhn Way",
+    "extra": {
+      "incidentNumber": "45933",
+      "run_id": "45933",
+      "address": "900 Block Witthuhn Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC2,202,241",
+      "units": "E20,EC2,202,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-45933"
+    }
   }
 ]
