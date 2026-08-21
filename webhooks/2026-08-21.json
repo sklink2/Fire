@@ -3980,5 +3980,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46010"
     }
+  },
+  {
+    "runNumber": "46012",
+    "rawCode": "MED",
+    "timestamp": "2026-08-21T17:32:31.984833-04:00",
+    "address": "200 Block Kentucky Avenue",
+    "extra": {
+      "incidentNumber": "46012",
+      "run_id": "46012",
+      "address": "200 Block Kentucky Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46012"
+    }
   }
 ]
