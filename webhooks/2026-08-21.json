@@ -4090,5 +4090,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46017"
     }
+  },
+  {
+    "runNumber": "46016",
+    "rawCode": "FSMO",
+    "timestamp": "2026-08-21T18:18:12.121909-04:00",
+    "address": "3348 Cove Lake Drive",
+    "extra": {
+      "incidentNumber": "46016",
+      "run_id": "46016",
+      "address": "3348 Cove Lake Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E16,L06,EC2,202",
+      "units": "E09,E16,L06,EC2,202",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-46016"
+    }
   }
 ]
