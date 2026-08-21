@@ -3782,5 +3782,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-46001"
     }
+  },
+  {
+    "runNumber": "46003",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-21T17:00:58.938177-04:00",
+    "address": "351 Meijer Way",
+    "extra": {
+      "incidentNumber": "46003",
+      "run_id": "46003",
+      "address": "351 Meijer Way",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC7,EC9",
+      "units": "E15,EC7,EC9",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46003"
+    }
   }
 ]
