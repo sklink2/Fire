@@ -416,5 +416,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45849"
     }
+  },
+  {
+    "runNumber": "45850",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-21T03:55:02.161720-04:00",
+    "address": "75 Nb / 104.0 Mm (Athens Boone",
+    "extra": {
+      "incidentNumber": "45850",
+      "run_id": "45850",
+      "address": "75 Nb / 104.0 Mm (Athens Boone",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E18,E21,L06,EC8,201,241,RS1",
+      "units": "E18,E21,L06,EC8,201,241,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-45850"
+    }
   }
 ]
