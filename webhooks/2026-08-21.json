@@ -1494,5 +1494,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45900"
     }
+  },
+  {
+    "runNumber": "45899",
+    "rawCode": "FSCU",
+    "timestamp": "2026-08-21T10:06:56.895594-04:00",
+    "address": "75 Sb / 113.0 Mm (Paris Pike",
+    "extra": {
+      "incidentNumber": "45899",
+      "run_id": "45899",
+      "address": "75 Sb / 113.0 Mm (Paris Pike",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E10",
+      "units": "E08,E10",
+      "unitCount": "2",
+      "primaryTopic": "FSCU",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45899"
+    }
   }
 ]
