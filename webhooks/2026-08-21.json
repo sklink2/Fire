@@ -130,5 +130,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45835"
     }
+  },
+  {
+    "runNumber": "45836",
+    "rawCode": "FELS",
+    "timestamp": "2026-08-21T01:27:37.908027-04:00",
+    "address": "502 Columbia Avenue",
+    "extra": {
+      "incidentNumber": "45836",
+      "run_id": "45836",
+      "address": "502 Columbia Avenue",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L02,205,RS1",
+      "units": "L02,205,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-45836"
+    }
   }
 ]
