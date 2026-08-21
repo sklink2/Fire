@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45916"
     }
+  },
+  {
+    "runNumber": "45915",
+    "rawCode": "MED",
+    "timestamp": "2026-08-21T11:20:39.730743-04:00",
+    "address": "200 Block N Broadway",
+    "extra": {
+      "incidentNumber": "45915",
+      "run_id": "45915",
+      "address": "200 Block N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,EC4,205",
+      "units": "E04,EC4,205",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-45915"
+    }
   }
 ]
