@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45914"
     }
+  },
+  {
+    "runNumber": "45917",
+    "rawCode": "MED",
+    "timestamp": "2026-08-21T11:31:05.893304-04:00",
+    "address": "3600 Block Brookewind Way",
+    "extra": {
+      "incidentNumber": "45917",
+      "run_id": "45917",
+      "address": "3600 Block Brookewind Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45917"
+    }
   }
 ]
