@@ -1516,5 +1516,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45899"
     }
+  },
+  {
+    "runNumber": "45901",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-21T10:13:55.969351-04:00",
+    "address": "740 Rose Street",
+    "extra": {
+      "incidentNumber": "45901",
+      "run_id": "45901",
+      "address": "740 Rose Street",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E04,204",
+      "units": "E02,E04,204",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-45901"
+    }
   }
 ]
