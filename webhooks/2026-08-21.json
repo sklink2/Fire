@@ -2748,5 +2748,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45957"
     }
+  },
+  {
+    "runNumber": "45956",
+    "rawCode": "FELF",
+    "timestamp": "2026-08-21T13:51:32.481319-04:00",
+    "address": "160 Avenue Of Champions",
+    "extra": {
+      "incidentNumber": "45956",
+      "run_id": "45956",
+      "address": "160 Avenue Of Champions",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E05,L02,EC11,205",
+      "units": "E01,E05,L02,EC11,205",
+      "unitCount": "5",
+      "primaryTopic": "FELF",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-45956"
+    }
   }
 ]
