@@ -3760,5 +3760,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46002"
     }
+  },
+  {
+    "runNumber": "46001",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-21T16:54:02.482429-04:00",
+    "address": "N Broadway & Old Paris Road",
+    "extra": {
+      "incidentNumber": "46001",
+      "run_id": "46001",
+      "address": "N Broadway & Old Paris Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,EC8,241",
+      "units": "E10,EC8,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-46001"
+    }
   }
 ]
