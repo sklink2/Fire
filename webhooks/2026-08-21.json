@@ -3694,5 +3694,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45999"
     }
+  },
+  {
+    "runNumber": "45998",
+    "rawCode": "FVIS",
+    "timestamp": "2026-08-21T16:43:30.778875-04:00",
+    "address": "3172 Mapleleaf Sq",
+    "extra": {
+      "incidentNumber": "45998",
+      "run_id": "45998",
+      "address": "3172 Mapleleaf Sq",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,E21,L06,202,RS1",
+      "units": "E12,E21,L06,202,RS1",
+      "unitCount": "5",
+      "primaryTopic": "FVIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-45998"
+    }
   }
 ]
