@@ -4002,5 +4002,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46012"
     }
+  },
+  {
+    "runNumber": "46013",
+    "rawCode": "MED",
+    "timestamp": "2026-08-21T17:46:33.975807-04:00",
+    "address": "100 Block N Limestone",
+    "extra": {
+      "incidentNumber": "46013",
+      "run_id": "46013",
+      "address": "100 Block N Limestone",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC7,RS1",
+      "units": "EC7,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46013"
+    }
   }
 ]
