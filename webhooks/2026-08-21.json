@@ -1670,5 +1670,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-45907"
     }
+  },
+  {
+    "runNumber": "45909",
+    "rawCode": "MED",
+    "timestamp": "2026-08-21T10:56:01.868387-04:00",
+    "address": "700 Block W Main Street",
+    "extra": {
+      "incidentNumber": "45909",
+      "run_id": "45909",
+      "address": "700 Block W Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,EC3",
+      "units": "E04,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-45909"
+    }
   }
 ]
