@@ -2990,5 +2990,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-46214"
     }
+  },
+  {
+    "runNumber": "46216",
+    "rawCode": "MED",
+    "timestamp": "2026-08-22T17:09:52.984505-04:00",
+    "address": "400 Block W Vine Street",
+    "extra": {
+      "incidentNumber": "46216",
+      "run_id": "46216",
+      "address": "400 Block W Vine Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC33",
+      "units": "EC33",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46216"
+    }
   }
 ]
