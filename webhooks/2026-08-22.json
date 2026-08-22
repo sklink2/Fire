@@ -3628,5 +3628,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46243"
     }
+  },
+  {
+    "runNumber": "46242",
+    "rawCode": "MED",
+    "timestamp": "2026-08-22T18:37:37.192366-04:00",
+    "address": "100 Block White Oak Trce",
+    "extra": {
+      "incidentNumber": "46242",
+      "run_id": "46242",
+      "address": "100 Block White Oak Trce",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "T1,EC12",
+      "units": "T1,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46242"
+    }
   }
 ]
