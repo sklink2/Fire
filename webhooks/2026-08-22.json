@@ -3276,5 +3276,27 @@
       "commandUnits": "241,201,202",
       "dedupeKey": "INCIDENT-46225"
     }
+  },
+  {
+    "runNumber": "46228",
+    "rawCode": "MED",
+    "timestamp": "2026-08-22T17:41:27.416511-04:00",
+    "address": "100 Block Cheapside",
+    "extra": {
+      "incidentNumber": "46228",
+      "run_id": "46228",
+      "address": "100 Block Cheapside",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46228"
+    }
   }
 ]
