@@ -108,5 +108,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46083"
     }
+  },
+  {
+    "runNumber": "46082",
+    "rawCode": "MED",
+    "timestamp": "2026-08-22T00:19:29.743312-04:00",
+    "address": "600 Block Laramie Drive",
+    "extra": {
+      "incidentNumber": "46082",
+      "run_id": "46082",
+      "address": "600 Block Laramie Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC5",
+      "units": "E20,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46082"
+    }
   }
 ]
