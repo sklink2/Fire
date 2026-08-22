@@ -306,5 +306,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46092"
     }
+  },
+  {
+    "runNumber": "46091",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-22T02:08:18.560539-04:00",
+    "address": "Harrodsburg Road & W New Circle",
+    "extra": {
+      "incidentNumber": "46091",
+      "run_id": "46091",
+      "address": "Harrodsburg Road & W New Circle",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,L04,EC12,203,241,RS1",
+      "units": "E14,L04,EC12,203,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-46091"
+    }
   }
 ]
