@@ -1076,5 +1076,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46127"
     }
+  },
+  {
+    "runNumber": "46126",
+    "rawCode": "FMIS",
+    "timestamp": "2026-08-22T08:27:09.750498-04:00",
+    "address": "127 Burley Avenue",
+    "extra": {
+      "incidentNumber": "46126",
+      "run_id": "46126",
+      "address": "127 Burley Avenue",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,204",
+      "units": "E06,204",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-46126"
+    }
   }
 ]
