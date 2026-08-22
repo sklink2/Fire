@@ -2616,5 +2616,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-46195"
     }
+  },
+  {
+    "runNumber": "46197",
+    "rawCode": "MED",
+    "timestamp": "2026-08-22T15:49:10.380994-04:00",
+    "address": "600 Block Hyden Court",
+    "extra": {
+      "incidentNumber": "46197",
+      "run_id": "46197",
+      "address": "600 Block Hyden Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46197"
+    }
   }
 ]
