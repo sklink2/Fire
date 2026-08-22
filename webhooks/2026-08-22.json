@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46201"
     }
+  },
+  {
+    "runNumber": "46200",
+    "rawCode": "MED",
+    "timestamp": "2026-08-22T16:06:46.627417-04:00",
+    "address": "400 Block E High Street",
+    "extra": {
+      "incidentNumber": "46200",
+      "run_id": "46200",
+      "address": "400 Block E High Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05",
+      "units": "E05",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46200"
+    }
   }
 ]
