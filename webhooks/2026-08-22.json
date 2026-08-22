@@ -2968,5 +2968,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46213"
     }
+  },
+  {
+    "runNumber": "46214",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-22T17:06:23.198858-04:00",
+    "address": "Smith Street & W Fifth Street",
+    "extra": {
+      "incidentNumber": "46214",
+      "run_id": "46214",
+      "address": "Smith Street & W Fifth Street",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E04,203",
+      "units": "E01,E04,203",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-46214"
+    }
   }
 ]
