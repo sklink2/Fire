@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46194"
     }
+  },
+  {
+    "runNumber": "46193",
+    "rawCode": "MED",
+    "timestamp": "2026-08-22T15:38:42.667403-04:00",
+    "address": "200 Block Glendale Avenue",
+    "extra": {
+      "incidentNumber": "46193",
+      "run_id": "46193",
+      "address": "200 Block Glendale Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC10",
+      "units": "E10,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46193"
+    }
   }
 ]
