@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46249"
     }
+  },
+  {
+    "runNumber": "46250",
+    "rawCode": "MED",
+    "timestamp": "2026-08-22T19:26:43.785832-04:00",
+    "address": "3600 Block Grace Drive",
+    "extra": {
+      "incidentNumber": "46250",
+      "run_id": "46250",
+      "address": "3600 Block Grace Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,EC7",
+      "units": "E07,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46250"
+    }
   }
 ]
