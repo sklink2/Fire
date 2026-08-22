@@ -2946,5 +2946,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-46212"
     }
+  },
+  {
+    "runNumber": "46213",
+    "rawCode": "FBGL",
+    "timestamp": "2026-08-22T17:02:51.232820-04:00",
+    "address": "300 Scott Street",
+    "extra": {
+      "incidentNumber": "46213",
+      "run_id": "46213",
+      "address": "300 Scott Street",
+      "rawType": "FBGL",
+      "typeCode": "FBGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC7",
+      "units": "E05,EC7",
+      "unitCount": "2",
+      "primaryTopic": "FBGL",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46213"
+    }
   }
 ]
