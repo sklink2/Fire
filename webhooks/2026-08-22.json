@@ -1538,5 +1538,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46147"
     }
+  },
+  {
+    "runNumber": "46149",
+    "rawCode": "MED",
+    "timestamp": "2026-08-22T11:29:34.283720-04:00",
+    "address": "Willy Street & W Fifth Street",
+    "extra": {
+      "incidentNumber": "46149",
+      "run_id": "46149",
+      "address": "Willy Street & W Fifth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46149"
+    }
   }
 ]
