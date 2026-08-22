@@ -2132,5 +2132,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-46175"
     }
+  },
+  {
+    "runNumber": "46174",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-22T13:42:59.287621-04:00",
+    "address": "5532 Athens Boonesboro Road",
+    "extra": {
+      "incidentNumber": "46174",
+      "run_id": "46174",
+      "address": "5532 Athens Boonesboro Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E18,E21,L05,201",
+      "units": "E18,E21,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-46174"
+    }
   }
 ]
