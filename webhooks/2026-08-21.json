@@ -5322,5 +5322,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46073"
     }
+  },
+  {
+    "runNumber": "46072",
+    "rawCode": "MED",
+    "timestamp": "2026-08-21T23:26:51.253763-04:00",
+    "address": "2600 Block Cashel Court",
+    "extra": {
+      "incidentNumber": "46072",
+      "run_id": "46072",
+      "address": "2600 Block Cashel Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46072"
+    }
   }
 ]
