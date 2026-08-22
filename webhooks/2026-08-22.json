@@ -878,5 +878,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46117"
     }
+  },
+  {
+    "runNumber": "46118",
+    "rawCode": "FDET",
+    "timestamp": "2026-08-22T06:48:53.583891-04:00",
+    "address": "4089 Iron Works Parkway",
+    "extra": {
+      "incidentNumber": "46118",
+      "run_id": "46118",
+      "address": "4089 Iron Works Parkway",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC35",
+      "units": "EC35",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46118"
+    }
   }
 ]
