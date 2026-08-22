@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46182"
     }
+  },
+  {
+    "runNumber": "46184",
+    "rawCode": "MED",
+    "timestamp": "2026-08-22T14:49:33.311294-04:00",
+    "address": "3600 Block Keystone Court",
+    "extra": {
+      "incidentNumber": "46184",
+      "run_id": "46184",
+      "address": "3600 Block Keystone Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC13,CRT1",
+      "units": "EC13,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46184"
+    }
   }
 ]
