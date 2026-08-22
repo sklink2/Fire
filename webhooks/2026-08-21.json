@@ -5102,5 +5102,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46063"
     }
+  },
+  {
+    "runNumber": "46062",
+    "rawCode": "FSMO",
+    "timestamp": "2026-08-21T22:09:40.819857-04:00",
+    "address": "309 N Ashland Avenue",
+    "extra": {
+      "incidentNumber": "46062",
+      "run_id": "46062",
+      "address": "309 N Ashland Avenue",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E05,L01,EC1,205",
+      "units": "E01,E05,L01,EC1,205",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-46062"
+    }
   }
 ]
