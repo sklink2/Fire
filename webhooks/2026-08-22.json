@@ -1032,5 +1032,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46124"
     }
+  },
+  {
+    "runNumber": "46125",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-22T08:23:38.393824-04:00",
+    "address": "398 Southland Drive",
+    "extra": {
+      "incidentNumber": "46125",
+      "run_id": "46125",
+      "address": "398 Southland Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,E20,L04,204",
+      "units": "E12,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-46125"
+    }
   }
 ]
