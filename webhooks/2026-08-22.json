@@ -1956,5 +1956,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-46165"
     }
+  },
+  {
+    "runNumber": "46167",
+    "rawCode": "MED",
+    "timestamp": "2026-08-22T13:07:48.249816-04:00",
+    "address": "1100 Block Lacy Lane",
+    "extra": {
+      "incidentNumber": "46167",
+      "run_id": "46167",
+      "address": "1100 Block Lacy Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC5,CRT1",
+      "units": "EC5,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46167"
+    }
   }
 ]
