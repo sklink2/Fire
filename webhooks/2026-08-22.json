@@ -2594,5 +2594,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46196"
     }
+  },
+  {
+    "runNumber": "46195",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-22T15:42:14.332434-04:00",
+    "address": "261 Ruccio Way",
+    "extra": {
+      "incidentNumber": "46195",
+      "run_id": "46195",
+      "address": "261 Ruccio Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,E15,L04,202",
+      "units": "E12,E15,L04,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-46195"
+    }
   }
 ]
