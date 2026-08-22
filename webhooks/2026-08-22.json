@@ -1450,5 +1450,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46142"
     }
+  },
+  {
+    "runNumber": "46144",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-22T10:54:28.198252-04:00",
+    "address": "844 Iron Works Pike",
+    "extra": {
+      "incidentNumber": "46144",
+      "run_id": "46144",
+      "address": "844 Iron Works Pike",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "432,434",
+      "units": "432,434",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46144"
+    }
   }
 ]
