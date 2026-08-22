@@ -3254,5 +3254,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46226"
     }
+  },
+  {
+    "runNumber": "46225",
+    "rawCode": "MED",
+    "timestamp": "2026-08-22T17:38:06.098026-04:00",
+    "address": "3700 Block Richmond Road",
+    "extra": {
+      "incidentNumber": "46225",
+      "run_id": "46225",
+      "address": "3700 Block Richmond Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC2,EC3,201,202,241,RS1",
+      "units": "E09,EC2,EC3,201,202,241,RS1",
+      "unitCount": "7",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,201,202",
+      "dedupeKey": "INCIDENT-46225"
+    }
   }
 ]
