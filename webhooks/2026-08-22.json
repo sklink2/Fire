@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46140"
     }
+  },
+  {
+    "runNumber": "46141",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-22T10:43:59.054997-04:00",
+    "address": "3351 Cove Lake Drive",
+    "extra": {
+      "incidentNumber": "46141",
+      "run_id": "46141",
+      "address": "3351 Cove Lake Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E21,L05,201",
+      "units": "E16,E21,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-46141"
+    }
   }
 ]
