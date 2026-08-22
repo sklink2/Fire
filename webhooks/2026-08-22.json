@@ -1934,5 +1934,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46166"
     }
+  },
+  {
+    "runNumber": "46165",
+    "rawCode": "FELS",
+    "timestamp": "2026-08-22T13:04:21.596610-04:00",
+    "address": "140 E Main Street",
+    "extra": {
+      "incidentNumber": "46165",
+      "run_id": "46165",
+      "address": "140 E Main Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,L01,205",
+      "units": "E08,L01,205",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-46165"
+    }
   }
 ]
