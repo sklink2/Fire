@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46207"
     }
+  },
+  {
+    "runNumber": "46210",
+    "rawCode": "FOTS",
+    "timestamp": "2026-08-22T16:45:19.511745-04:00",
+    "address": "2234 Richmond Road",
+    "extra": {
+      "incidentNumber": "46210",
+      "run_id": "46210",
+      "address": "2234 Richmond Road",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "RS1",
+      "units": "RS1",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46210"
+    }
   }
 ]
