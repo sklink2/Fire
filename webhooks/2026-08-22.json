@@ -2726,5 +2726,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46199"
     }
+  },
+  {
+    "runNumber": "46202",
+    "rawCode": "MED",
+    "timestamp": "2026-08-22T16:10:13.757199-04:00",
+    "address": "300 Block S Limestone",
+    "extra": {
+      "incidentNumber": "46202",
+      "run_id": "46202",
+      "address": "300 Block S Limestone",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46202"
+    }
   }
 ]
