@@ -1450,5 +1450,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46355"
     }
+  },
+  {
+    "runNumber": "46357",
+    "rawCode": "FCAR",
+    "timestamp": "2026-08-23T11:52:33.122252-04:00",
+    "address": "4321 Waterstone Lane",
+    "extra": {
+      "incidentNumber": "46357",
+      "run_id": "46357",
+      "address": "4321 Waterstone Lane",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L04",
+      "units": "L04",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46357"
+    }
   }
 ]
