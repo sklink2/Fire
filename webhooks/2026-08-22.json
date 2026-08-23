@@ -4112,5 +4112,27 @@
       "commandUnits": "220,204",
       "dedupeKey": "INCIDENT-46263"
     }
+  },
+  {
+    "runNumber": "46264",
+    "rawCode": "MED",
+    "timestamp": "2026-08-22T20:50:55.560117-04:00",
+    "address": "200 Block Larch Lane",
+    "extra": {
+      "incidentNumber": "46264",
+      "run_id": "46264",
+      "address": "200 Block Larch Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,EC7",
+      "units": "E13,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46264"
+    }
   }
 ]
