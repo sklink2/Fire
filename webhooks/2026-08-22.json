@@ -4090,5 +4090,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46261"
     }
+  },
+  {
+    "runNumber": "46263",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-22T20:33:25.622140-04:00",
+    "address": "368 Redding Road",
+    "extra": {
+      "incidentNumber": "46263",
+      "run_id": "46263",
+      "address": "368 Redding Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E16,L07,EC5,204,220",
+      "units": "E07,E16,L07,EC5,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-46263"
+    }
   }
 ]
