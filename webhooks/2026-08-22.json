@@ -4574,5 +4574,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46283"
     }
+  },
+  {
+    "runNumber": "46285",
+    "rawCode": "MED",
+    "timestamp": "2026-08-22T23:00:44.252117-04:00",
+    "address": "1200 Block Hickory Creek Circle",
+    "extra": {
+      "incidentNumber": "46285",
+      "run_id": "46285",
+      "address": "1200 Block Hickory Creek Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L07,EC2",
+      "units": "L07,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46285"
+    }
   }
 ]
