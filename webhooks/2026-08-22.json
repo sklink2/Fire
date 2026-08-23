@@ -4464,5 +4464,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46279"
     }
+  },
+  {
+    "runNumber": "46281",
+    "rawCode": "MED",
+    "timestamp": "2026-08-22T22:43:12.780114-04:00",
+    "address": "300 Block Whitfield Drive",
+    "extra": {
+      "incidentNumber": "46281",
+      "run_id": "46281",
+      "address": "300 Block Whitfield Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC12",
+      "units": "E22,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46281"
+    }
   }
 ]
