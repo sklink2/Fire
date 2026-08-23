@@ -1032,5 +1032,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-46337"
     }
+  },
+  {
+    "runNumber": "46338",
+    "rawCode": "MED",
+    "timestamp": "2026-08-23T09:32:13.564543-04:00",
+    "address": "2700 Block Man O War Boulevard",
+    "extra": {
+      "incidentNumber": "46338",
+      "run_id": "46338",
+      "address": "2700 Block Man O War Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46338"
+    }
   }
 ]
