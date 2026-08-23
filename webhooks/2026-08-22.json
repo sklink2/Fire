@@ -4134,5 +4134,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46264"
     }
+  },
+  {
+    "runNumber": "46265",
+    "rawCode": "FELF",
+    "timestamp": "2026-08-22T20:54:27.586454-04:00",
+    "address": "1311 Versailles Road",
+    "extra": {
+      "incidentNumber": "46265",
+      "run_id": "46265",
+      "address": "1311 Versailles Road",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E14,L01,EC5,203",
+      "units": "E04,E14,L01,EC5,203",
+      "unitCount": "5",
+      "primaryTopic": "FELF",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-46265"
+    }
   }
 ]
