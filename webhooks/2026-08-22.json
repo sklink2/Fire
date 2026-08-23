@@ -4222,5 +4222,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46268"
     }
+  },
+  {
+    "runNumber": "46270",
+    "rawCode": "FUTL",
+    "timestamp": "2026-08-22T21:29:32.531719-04:00",
+    "address": "123 N Broadway",
+    "extra": {
+      "incidentNumber": "46270",
+      "run_id": "46270",
+      "address": "123 N Broadway",
+      "rawType": "FUTL",
+      "typeCode": "FUTL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01",
+      "units": "L01",
+      "unitCount": "1",
+      "primaryTopic": "FUTL",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46270"
+    }
   }
 ]
