@@ -2506,5 +2506,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46404"
     }
+  },
+  {
+    "runNumber": "46405",
+    "rawCode": "MED",
+    "timestamp": "2026-08-23T16:12:08.374637-04:00",
+    "address": "400 Block Shawnee Avenue",
+    "extra": {
+      "incidentNumber": "46405",
+      "run_id": "46405",
+      "address": "400 Block Shawnee Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,EC10",
+      "units": "E05,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46405"
+    }
   }
 ]
