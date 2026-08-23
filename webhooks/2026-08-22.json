@@ -4002,5 +4002,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46258"
     }
+  },
+  {
+    "runNumber": "46259",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-22T20:15:51.542555-04:00",
+    "address": "Amherst Drive & Hathway Drive",
+    "extra": {
+      "incidentNumber": "46259",
+      "run_id": "46259",
+      "address": "Amherst Drive & Hathway Drive",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E22,204",
+      "units": "E07,E22,204",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-46259"
+    }
   }
 ]
