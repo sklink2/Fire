@@ -878,5 +878,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46330"
     }
+  },
+  {
+    "runNumber": "46331",
+    "rawCode": "FSMO",
+    "timestamp": "2026-08-23T08:36:06.181914-04:00",
+    "address": "650 Tower Plz",
+    "extra": {
+      "incidentNumber": "46331",
+      "run_id": "46331",
+      "address": "650 Tower Plz",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E06,L01,EC10,205",
+      "units": "E04,E06,L01,EC10,205",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-46331"
+    }
   }
 ]
