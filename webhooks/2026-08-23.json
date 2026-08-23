@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46378"
     }
+  },
+  {
+    "runNumber": "46380",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-23T13:58:52.432501-04:00",
+    "address": "200 W Main Street",
+    "extra": {
+      "incidentNumber": "46380",
+      "run_id": "46380",
+      "address": "200 W Main Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E04,L01,205",
+      "units": "E01,E04,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-46380"
+    }
   }
 ]
