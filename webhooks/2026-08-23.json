@@ -1406,5 +1406,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46354"
     }
+  },
+  {
+    "runNumber": "46356",
+    "rawCode": "FSCU",
+    "timestamp": "2026-08-23T11:49:02.337313-04:00",
+    "address": "1001 Georgetown Road",
+    "extra": {
+      "incidentNumber": "46356",
+      "run_id": "46356",
+      "address": "1001 Georgetown Road",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "FSCU",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46356"
+    }
   }
 ]
