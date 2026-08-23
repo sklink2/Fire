@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46320"
     }
+  },
+  {
+    "runNumber": "46321",
+    "rawCode": "FFIA",
+    "timestamp": "2026-08-23T05:12:37.709719-04:00",
+    "address": "1616 Courtney Avenue",
+    "extra": {
+      "incidentNumber": "46321",
+      "run_id": "46321",
+      "address": "1616 Courtney Avenue",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E02,L05,EC8,201",
+      "units": "E01,E02,L05,EC8,201",
+      "unitCount": "5",
+      "primaryTopic": "FFIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-46321"
+    }
   }
 ]
