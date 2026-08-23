@@ -3188,5 +3188,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-46437"
     }
+  },
+  {
+    "runNumber": "46436",
+    "rawCode": "MED",
+    "timestamp": "2026-08-23T19:49:46.044035-04:00",
+    "address": "1300 Block Village Drive",
+    "extra": {
+      "incidentNumber": "46436",
+      "run_id": "46436",
+      "address": "1300 Block Village Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC12",
+      "units": "E14,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46436"
+    }
   }
 ]
