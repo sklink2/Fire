@@ -2044,5 +2044,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46383"
     }
+  },
+  {
+    "runNumber": "46384",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-23T14:30:25.888330-04:00",
+    "address": "N Limestone & E Main Street",
+    "extra": {
+      "incidentNumber": "46384",
+      "run_id": "46384",
+      "address": "N Limestone & E Main Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10,241,RS1",
+      "units": "EC10,241,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-46384"
+    }
   }
 ]
