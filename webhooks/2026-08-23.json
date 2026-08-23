@@ -3122,5 +3122,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46432"
     }
+  },
+  {
+    "runNumber": "46434",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-23T19:39:11.588003-04:00",
+    "address": "N Mt Tabor Road & Rio Dosa Drive",
+    "extra": {
+      "incidentNumber": "46434",
+      "run_id": "46434",
+      "address": "N Mt Tabor Road & Rio Dosa Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E16,L06,EC2,202,220",
+      "units": "E09,E16,L06,EC2,202,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-46434"
+    }
   }
 ]
