@@ -1912,5 +1912,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46376"
     }
+  },
+  {
+    "runNumber": "46379",
+    "rawCode": "MED",
+    "timestamp": "2026-08-23T13:51:48.482423-04:00",
+    "address": "200 Block Gateway Park Circle",
+    "extra": {
+      "incidentNumber": "46379",
+      "run_id": "46379",
+      "address": "200 Block Gateway Park Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,EC5",
+      "units": "E13,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46379"
+    }
   }
 ]
