@@ -3562,5 +3562,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46451"
     }
+  },
+  {
+    "runNumber": "46453",
+    "rawCode": "MED",
+    "timestamp": "2026-08-23T21:48:57.778754-04:00",
+    "address": "4300 Block Ravens Crest Lane",
+    "extra": {
+      "incidentNumber": "46453",
+      "run_id": "46453",
+      "address": "4300 Block Ravens Crest Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E18,EC2",
+      "units": "E18,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46453"
+    }
   }
 ]
