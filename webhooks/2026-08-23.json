@@ -3254,5 +3254,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46438"
     }
+  },
+  {
+    "runNumber": "46440",
+    "rawCode": "FSTR",
+    "timestamp": "2026-08-23T20:03:45.803398-04:00",
+    "address": "1510 Versailles Road",
+    "extra": {
+      "incidentNumber": "46440",
+      "run_id": "46440",
+      "address": "1510 Versailles Road",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E12,E13,E14,L01,L03,EC3,203,205,220,241,RS1",
+      "units": "E04,E12,E13,E14,L01,L03,EC3,203,205,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,203,205",
+      "dedupeKey": "INCIDENT-46440"
+    }
   }
 ]
