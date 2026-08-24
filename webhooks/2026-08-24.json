@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46583"
     }
+  },
+  {
+    "runNumber": "46582",
+    "rawCode": "MED",
+    "timestamp": "2026-08-24T13:57:20.035301-04:00",
+    "address": "2700 Block Winchester Road",
+    "extra": {
+      "incidentNumber": "46582",
+      "run_id": "46582",
+      "address": "2700 Block Winchester Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17,EC2",
+      "units": "E17,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46582"
+    }
   }
 ]
