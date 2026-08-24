@@ -3276,5 +3276,27 @@
       "commandUnits": "241,220,203,205",
       "dedupeKey": "INCIDENT-46440"
     }
+  },
+  {
+    "runNumber": "46439",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-23T20:03:53.435279-04:00",
+    "address": "3458 Elmendorf Circle",
+    "extra": {
+      "incidentNumber": "46439",
+      "run_id": "46439",
+      "address": "3458 Elmendorf Circle",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E22,202",
+      "units": "E07,E22,202",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-46439"
+    }
   }
 ]
