@@ -2924,5 +2924,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46602"
     }
+  },
+  {
+    "runNumber": "46603",
+    "rawCode": "FOTS",
+    "timestamp": "2026-08-24T15:53:06.196462-04:00",
+    "address": "556 Wellington Way",
+    "extra": {
+      "incidentNumber": "46603",
+      "run_id": "46603",
+      "address": "556 Wellington Way",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,204",
+      "units": "E20,204",
+      "unitCount": "2",
+      "primaryTopic": "FOTS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-46603"
+    }
   }
 ]
