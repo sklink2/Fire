@@ -3254,5 +3254,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46618"
     }
+  },
+  {
+    "runNumber": "46617",
+    "rawCode": "MED",
+    "timestamp": "2026-08-24T16:38:43.073283-04:00",
+    "address": "Scott Street & Chair Avenue",
+    "extra": {
+      "incidentNumber": "46617",
+      "run_id": "46617",
+      "address": "Scott Street & Chair Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,EC10,CRT1",
+      "units": "E06,EC10,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46617"
+    }
   }
 ]
