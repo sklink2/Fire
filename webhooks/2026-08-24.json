@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46548"
     }
+  },
+  {
+    "runNumber": "46551",
+    "rawCode": "MED",
+    "timestamp": "2026-08-24T11:58:00.996808-04:00",
+    "address": "1200 Block Nice Drive",
+    "extra": {
+      "incidentNumber": "46551",
+      "run_id": "46551",
+      "address": "1200 Block Nice Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46551"
+    }
   }
 ]
