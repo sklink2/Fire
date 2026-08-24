@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46554"
     }
+  },
+  {
+    "runNumber": "46553",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-24T12:01:35.437959-04:00",
+    "address": "424 Mckenna Court",
+    "extra": {
+      "incidentNumber": "46553",
+      "run_id": "46553",
+      "address": "424 Mckenna Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E23,L05,201",
+      "units": "E02,E23,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-46553"
+    }
   }
 ]
