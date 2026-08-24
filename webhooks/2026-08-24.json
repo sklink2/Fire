@@ -526,5 +526,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46494"
     }
+  },
+  {
+    "runNumber": "46495",
+    "rawCode": "MED",
+    "timestamp": "2026-08-24T05:46:07.520913-04:00",
+    "address": "700 Block Addison Avenue",
+    "extra": {
+      "incidentNumber": "46495",
+      "run_id": "46495",
+      "address": "700 Block Addison Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46495"
+    }
   }
 ]
