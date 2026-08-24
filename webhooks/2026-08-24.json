@@ -856,5 +856,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46508"
     }
+  },
+  {
+    "runNumber": "46510",
+    "rawCode": "MED",
+    "timestamp": "2026-08-24T08:17:00.519594-04:00",
+    "address": "100 Block Cisco Road",
+    "extra": {
+      "incidentNumber": "46510",
+      "run_id": "46510",
+      "address": "100 Block Cisco Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "CRT1",
+      "units": "CRT1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46510"
+    }
   }
 ]
