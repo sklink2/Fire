@@ -3694,5 +3694,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46457"
     }
+  },
+  {
+    "runNumber": "46458",
+    "rawCode": "MED",
+    "timestamp": "2026-08-23T22:31:04.051968-04:00",
+    "address": "200 Block Perry Street",
+    "extra": {
+      "incidentNumber": "46458",
+      "run_id": "46458",
+      "address": "200 Block Perry Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10,RS1",
+      "units": "EC10,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46458"
+    }
   }
 ]
