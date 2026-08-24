@@ -2946,5 +2946,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-46603"
     }
+  },
+  {
+    "runNumber": "46604",
+    "rawCode": "MED",
+    "timestamp": "2026-08-24T15:56:35.317885-04:00",
+    "address": "400 Block Southpoint Drive",
+    "extra": {
+      "incidentNumber": "46604",
+      "run_id": "46604",
+      "address": "400 Block Southpoint Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC13",
+      "units": "E22,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46604"
+    }
   }
 ]
