@@ -1560,5 +1560,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46541"
     }
+  },
+  {
+    "runNumber": "46544",
+    "rawCode": "FBOT",
+    "timestamp": "2026-08-24T11:29:58.443576-04:00",
+    "address": "350 N Limestone",
+    "extra": {
+      "incidentNumber": "46544",
+      "run_id": "46544",
+      "address": "350 N Limestone",
+      "rawType": "FBOT",
+      "typeCode": "FBOT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,205,436",
+      "units": "E04,205,436",
+      "unitCount": "3",
+      "primaryTopic": "FBOT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-46544"
+    }
   }
 ]
