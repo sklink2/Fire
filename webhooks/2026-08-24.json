@@ -328,5 +328,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46485"
     }
+  },
+  {
+    "runNumber": "46486",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-24T03:18:46.423085-04:00",
+    "address": "904 De Porres Avenue",
+    "extra": {
+      "incidentNumber": "46486",
+      "run_id": "46486",
+      "address": "904 De Porres Avenue",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,L03",
+      "units": "E10,L03",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46486"
+    }
   }
 ]
