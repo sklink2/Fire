@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46605"
     }
+  },
+  {
+    "runNumber": "46607",
+    "rawCode": "MED",
+    "timestamp": "2026-08-24T16:07:05.311649-04:00",
+    "address": "400 Block Patchen Drive",
+    "extra": {
+      "incidentNumber": "46607",
+      "run_id": "46607",
+      "address": "400 Block Patchen Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,EC2",
+      "units": "E21,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46607"
+    }
   }
 ]
