@@ -3826,5 +3826,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46461"
     }
+  },
+  {
+    "runNumber": "46465",
+    "rawCode": "MED",
+    "timestamp": "2026-08-23T22:45:07.493896-04:00",
+    "address": "100 Block N Locust Hill Drive",
+    "extra": {
+      "incidentNumber": "46465",
+      "run_id": "46465",
+      "address": "100 Block N Locust Hill Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46465"
+    }
   }
 ]
