@@ -3144,5 +3144,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46612"
     }
+  },
+  {
+    "runNumber": "46616",
+    "rawCode": "MED",
+    "timestamp": "2026-08-24T16:35:09.662445-04:00",
+    "address": "3600 Block Beaten Path",
+    "extra": {
+      "incidentNumber": "46616",
+      "run_id": "46616",
+      "address": "3600 Block Beaten Path",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L06,EC13",
+      "units": "L06,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46616"
+    }
   }
 ]
