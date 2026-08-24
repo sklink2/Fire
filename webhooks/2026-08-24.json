@@ -1538,5 +1538,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46540"
     }
+  },
+  {
+    "runNumber": "46541",
+    "rawCode": "MED",
+    "timestamp": "2026-08-24T11:22:57.517832-04:00",
+    "address": "2600 Block Wilhite Drive",
+    "extra": {
+      "incidentNumber": "46541",
+      "run_id": "46541",
+      "address": "2600 Block Wilhite Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC1,EC9",
+      "units": "E20,EC1,EC9",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46541"
+    }
   }
 ]
