@@ -724,5 +724,27 @@
       "commandUnits": "241,201",
       "dedupeKey": "INCIDENT-46503"
     }
+  },
+  {
+    "runNumber": "46504",
+    "rawCode": "MED",
+    "timestamp": "2026-08-24T07:41:54.172383-04:00",
+    "address": "1000 Block Chetford Drive",
+    "extra": {
+      "incidentNumber": "46504",
+      "run_id": "46504",
+      "address": "1000 Block Chetford Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46504"
+    }
   }
 ]
