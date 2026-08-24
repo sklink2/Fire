@@ -1450,5 +1450,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46535"
     }
+  },
+  {
+    "runNumber": "46537",
+    "rawCode": "FSTR",
+    "timestamp": "2026-08-24T10:58:28.997653-04:00",
+    "address": "401 Hilltop Avenue",
+    "extra": {
+      "incidentNumber": "46537",
+      "run_id": "46537",
+      "address": "401 Hilltop Avenue",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E04,E06,E07,E09,L01,L02,L04,EC1,EC2,EC9,203,205,220,241,RS1",
+      "units": "E01,E04,E06,E07,E09,L01,L02,L04,EC1,EC2,EC9,203,205,220,241,RS1",
+      "unitCount": "16",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,203,205",
+      "dedupeKey": "INCIDENT-46537"
+    }
   }
 ]
