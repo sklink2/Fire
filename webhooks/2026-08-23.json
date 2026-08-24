@@ -3430,5 +3430,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46446"
     }
+  },
+  {
+    "runNumber": "46445",
+    "rawCode": "FSMO",
+    "timestamp": "2026-08-23T20:49:24.065918-04:00",
+    "address": "405 W Sixth Street",
+    "extra": {
+      "incidentNumber": "46445",
+      "run_id": "46445",
+      "address": "405 W Sixth Street",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E04,L01,EC3,205",
+      "units": "E01,E04,L01,EC3,205",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-46445"
+    }
   }
 ]
