@@ -3936,5 +3936,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46468"
     }
+  },
+  {
+    "runNumber": "46469",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-23T23:34:15.553979-04:00",
+    "address": "802 N Broadway",
+    "extra": {
+      "incidentNumber": "46469",
+      "run_id": "46469",
+      "address": "802 N Broadway",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E10,L01,EC1,205,220",
+      "units": "E08,E10,L01,EC1,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-46469"
+    }
   }
 ]
