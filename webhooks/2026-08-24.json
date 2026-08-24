@@ -3474,5 +3474,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-46627"
     }
+  },
+  {
+    "runNumber": "46628",
+    "rawCode": "MED",
+    "timestamp": "2026-08-24T17:52:21.503150-04:00",
+    "address": "100 Block Elmwood Drive",
+    "extra": {
+      "incidentNumber": "46628",
+      "run_id": "46628",
+      "address": "100 Block Elmwood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46628"
+    }
   }
 ]
