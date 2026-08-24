@@ -1934,5 +1934,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46558"
     }
+  },
+  {
+    "runNumber": "46562",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-24T12:33:09.186590-04:00",
+    "address": "2011 Parkers Mill Road",
+    "extra": {
+      "incidentNumber": "46562",
+      "run_id": "46562",
+      "address": "2011 Parkers Mill Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,E20,204",
+      "units": "E13,E20,204",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-46562"
+    }
   }
 ]
