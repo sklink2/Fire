@@ -1538,5 +1538,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46737"
     }
+  },
+  {
+    "runNumber": "46738",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-25T11:49:27.844795-04:00",
+    "address": "440 Greendale Road",
+    "extra": {
+      "incidentNumber": "46738",
+      "run_id": "46738",
+      "address": "440 Greendale Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,E24,L03,203",
+      "units": "E13,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-46738"
+    }
   }
 ]
