@@ -1406,5 +1406,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46731"
     }
+  },
+  {
+    "runNumber": "46730",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-25T11:10:57.259224-04:00",
+    "address": "777 Wilderness Road",
+    "extra": {
+      "incidentNumber": "46730",
+      "run_id": "46730",
+      "address": "777 Wilderness Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E21,205",
+      "units": "E09,E21,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-46730"
+    }
   }
 ]
