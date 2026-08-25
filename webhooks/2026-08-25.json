@@ -812,5 +812,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46703"
     }
+  },
+  {
+    "runNumber": "46704",
+    "rawCode": "MED",
+    "timestamp": "2026-08-25T08:32:59.245214-04:00",
+    "address": "1100 Block Centre Parkway",
+    "extra": {
+      "incidentNumber": "46704",
+      "run_id": "46704",
+      "address": "1100 Block Centre Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46704"
+    }
   }
 ]
