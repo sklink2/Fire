@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46750"
     }
+  },
+  {
+    "runNumber": "46752",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-25T13:13:40.774359-04:00",
+    "address": "75 Sb / 111.4 Mm (South Split",
+    "extra": {
+      "incidentNumber": "46752",
+      "run_id": "46752",
+      "address": "75 Sb / 111.4 Mm (South Split",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E10,EC3",
+      "units": "E08,E10,EC3",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46752"
+    }
   }
 ]
