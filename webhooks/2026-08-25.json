@@ -3694,5 +3694,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46837"
     }
+  },
+  {
+    "runNumber": "46836",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-25T19:39:39.576666-04:00",
+    "address": "3220 Carriage Lane",
+    "extra": {
+      "incidentNumber": "46836",
+      "run_id": "46836",
+      "address": "3220 Carriage Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E16,L06,202",
+      "units": "E09,E16,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-46836"
+    }
   }
 ]
