@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46796"
     }
+  },
+  {
+    "runNumber": "46795",
+    "rawCode": "MED",
+    "timestamp": "2026-08-25T16:23:12.231365-04:00",
+    "address": "3300 Block Leestown Road",
+    "extra": {
+      "incidentNumber": "46795",
+      "run_id": "46795",
+      "address": "3300 Block Leestown Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,E24,EC3,241",
+      "units": "E13,E24,EC3,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-46795"
+    }
   }
 ]
