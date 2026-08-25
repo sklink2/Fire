@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46790"
     }
+  },
+  {
+    "runNumber": "46791",
+    "rawCode": "MED",
+    "timestamp": "2026-08-25T16:09:05.526408-04:00",
+    "address": "700 Block Maidencane Drive",
+    "extra": {
+      "incidentNumber": "46791",
+      "run_id": "46791",
+      "address": "700 Block Maidencane Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC13,CRT1",
+      "units": "E21,EC13,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46791"
+    }
   }
 ]
