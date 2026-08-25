@@ -2638,5 +2638,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46788"
     }
+  },
+  {
+    "runNumber": "46789",
+    "rawCode": "FVIS",
+    "timestamp": "2026-08-25T15:51:33.597238-04:00",
+    "address": "Kentucky Avenue & E Main Street",
+    "extra": {
+      "incidentNumber": "46789",
+      "run_id": "46789",
+      "address": "Kentucky Avenue & E Main Street",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E13,L02,EC2,205,RS1",
+      "units": "E05,E13,L02,EC2,205,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-46789"
+    }
   }
 ]
