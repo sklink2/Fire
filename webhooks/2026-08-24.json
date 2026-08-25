@@ -4024,5 +4024,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46651"
     }
+  },
+  {
+    "runNumber": "46653",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-24T20:54:47.600071-04:00",
+    "address": "757 E Seventh Street",
+    "extra": {
+      "incidentNumber": "46653",
+      "run_id": "46653",
+      "address": "757 E Seventh Street",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E02,201",
+      "units": "E01,E02,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-46653"
+    }
   }
 ]
