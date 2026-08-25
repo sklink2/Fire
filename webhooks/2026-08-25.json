@@ -1054,5 +1054,27 @@
       "commandUnits": "220,203",
       "dedupeKey": "INCIDENT-46714"
     }
+  },
+  {
+    "runNumber": "46713",
+    "rawCode": "MED",
+    "timestamp": "2026-08-25T10:18:23.612211-04:00",
+    "address": "300 Block Zandale Drive",
+    "extra": {
+      "incidentNumber": "46713",
+      "run_id": "46713",
+      "address": "300 Block Zandale Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46713"
+    }
   }
 ]
