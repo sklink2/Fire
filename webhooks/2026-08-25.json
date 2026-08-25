@@ -1164,5 +1164,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46720"
     }
+  },
+  {
+    "runNumber": "46719",
+    "rawCode": "MED",
+    "timestamp": "2026-08-25T10:39:18.436228-04:00",
+    "address": "1900 Block Mint Julep Lane",
+    "extra": {
+      "incidentNumber": "46719",
+      "run_id": "46719",
+      "address": "1900 Block Mint Julep Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,EC10",
+      "units": "E20,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46719"
+    }
   }
 ]
