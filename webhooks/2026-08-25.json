@@ -2374,5 +2374,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46776"
     }
+  },
+  {
+    "runNumber": "46778",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-25T15:09:26.783959-04:00",
+    "address": "416 Rebmann Lane",
+    "extra": {
+      "incidentNumber": "46778",
+      "run_id": "46778",
+      "address": "416 Rebmann Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E13,L01,204",
+      "units": "E04,E13,L01,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-46778"
+    }
   }
 ]
