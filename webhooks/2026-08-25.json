@@ -2110,5 +2110,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46763"
     }
+  },
+  {
+    "runNumber": "46765",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-25T14:16:50.115237-04:00",
+    "address": "2102 Liberty Road",
+    "extra": {
+      "incidentNumber": "46765",
+      "run_id": "46765",
+      "address": "2102 Liberty Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E17,205",
+      "units": "E02,E17,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-46765"
+    }
   }
 ]
