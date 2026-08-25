@@ -3584,5 +3584,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46832"
     }
+  },
+  {
+    "runNumber": "46831",
+    "rawCode": "MED",
+    "timestamp": "2026-08-25T19:15:03.867998-04:00",
+    "address": "3700 Block Branham Park",
+    "extra": {
+      "incidentNumber": "46831",
+      "run_id": "46831",
+      "address": "3700 Block Branham Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46831"
+    }
   }
 ]
