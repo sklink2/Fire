@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46728"
     }
+  },
+  {
+    "runNumber": "46729",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-25T11:07:21.841865-04:00",
+    "address": "1600 Athens Court",
+    "extra": {
+      "incidentNumber": "46729",
+      "run_id": "46729",
+      "address": "1600 Athens Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E08,L05,201",
+      "units": "E02,E08,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-46729"
+    }
   }
 ]
