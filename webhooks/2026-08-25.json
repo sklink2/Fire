@@ -482,5 +482,27 @@
       "commandUnits": "220,201",
       "dedupeKey": "INCIDENT-46687"
     }
+  },
+  {
+    "runNumber": "46689",
+    "rawCode": "MED",
+    "timestamp": "2026-08-25T06:23:10.136003-04:00",
+    "address": "900 Block Village Green Avenue",
+    "extra": {
+      "incidentNumber": "46689",
+      "run_id": "46689",
+      "address": "900 Block Village Green Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46689"
+    }
   }
 ]
