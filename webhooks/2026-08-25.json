@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46688"
     }
+  },
+  {
+    "runNumber": "46687",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-25T06:09:14.629774-04:00",
+    "address": "1774 Bryan Station Road",
+    "extra": {
+      "incidentNumber": "46687",
+      "run_id": "46687",
+      "address": "1774 Bryan Station Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E10,L05,EC8,201,220",
+      "units": "E02,E10,L05,EC8,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-46687"
+    }
   }
 ]
