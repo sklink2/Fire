@@ -878,5 +878,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46706"
     }
+  },
+  {
+    "runNumber": "46708",
+    "rawCode": "FELS",
+    "timestamp": "2026-08-25T09:29:07.006216-04:00",
+    "address": "1140 University Drive",
+    "extra": {
+      "incidentNumber": "46708",
+      "run_id": "46708",
+      "address": "1140 University Drive",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01,205,RS1",
+      "units": "L01,205,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-46708"
+    }
   }
 ]
