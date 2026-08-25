@@ -196,5 +196,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46675"
     }
+  },
+  {
+    "runNumber": "46677",
+    "rawCode": "MED",
+    "timestamp": "2026-08-25T02:21:03.451926-04:00",
+    "address": "2100 Block Mona Court",
+    "extra": {
+      "incidentNumber": "46677",
+      "run_id": "46677",
+      "address": "2100 Block Mona Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46677"
+    }
   }
 ]
