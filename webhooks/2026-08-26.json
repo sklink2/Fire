@@ -1450,5 +1450,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46940"
     }
+  },
+  {
+    "runNumber": "46941",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-26T10:20:08.638572-04:00",
+    "address": "106 W Vine Street",
+    "extra": {
+      "incidentNumber": "46941",
+      "run_id": "46941",
+      "address": "106 W Vine Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E06,E10,L01,204",
+      "units": "E01,E06,E10,L01,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-46941"
+    }
   }
 ]
