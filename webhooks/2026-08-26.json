@@ -3716,5 +3716,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-47039"
     }
+  },
+  {
+    "runNumber": "47041",
+    "rawCode": "MED",
+    "timestamp": "2026-08-26T18:09:20.817346-04:00",
+    "address": "100 Block S Hanover Avenue",
+    "extra": {
+      "incidentNumber": "47041",
+      "run_id": "47041",
+      "address": "100 Block S Hanover Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,EC1",
+      "units": "E05,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47041"
+    }
   }
 ]
