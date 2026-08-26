@@ -3320,5 +3320,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47022"
     }
+  },
+  {
+    "runNumber": "47025",
+    "rawCode": "MED",
+    "timestamp": "2026-08-26T16:48:12.697954-04:00",
+    "address": "700 Block Rose Street",
+    "extra": {
+      "incidentNumber": "47025",
+      "run_id": "47025",
+      "address": "700 Block Rose Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC11",
+      "units": "E11,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47025"
+    }
   }
 ]
