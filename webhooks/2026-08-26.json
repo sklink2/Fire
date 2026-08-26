@@ -3056,5 +3056,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47011"
     }
+  },
+  {
+    "runNumber": "47013",
+    "rawCode": "MED",
+    "timestamp": "2026-08-26T16:21:08.703247-04:00",
+    "address": "2800 Block Tilden Road",
+    "extra": {
+      "incidentNumber": "47013",
+      "run_id": "47013",
+      "address": "2800 Block Tilden Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC2",
+      "units": "E21,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47013"
+    }
   }
 ]
