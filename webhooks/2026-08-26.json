@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46963"
     }
+  },
+  {
+    "runNumber": "46965",
+    "rawCode": "FSTR",
+    "timestamp": "2026-08-26T12:53:51.608487-04:00",
+    "address": "3051 Kirklevington Drive",
+    "extra": {
+      "incidentNumber": "46965",
+      "run_id": "46965",
+      "address": "3051 Kirklevington Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E12,E16,E22,L04,L07,EC13,202,205,220,241,RS1",
+      "units": "E09,E12,E16,E22,L04,L07,EC13,202,205,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,202,205",
+      "dedupeKey": "INCIDENT-46965"
+    }
   }
 ]
