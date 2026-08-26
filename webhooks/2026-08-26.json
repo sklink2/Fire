@@ -3694,5 +3694,27 @@
       "commandUnits": "241,220,201,202",
       "dedupeKey": "INCIDENT-47040"
     }
+  },
+  {
+    "runNumber": "47039",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-26T18:00:32.944453-04:00",
+    "address": "171 Market Street",
+    "extra": {
+      "incidentNumber": "47039",
+      "run_id": "47039",
+      "address": "171 Market Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E05,L01,205",
+      "units": "E04,E05,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-47039"
+    }
   }
 ]
