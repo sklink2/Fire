@@ -4376,5 +4376,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46866"
     }
+  },
+  {
+    "runNumber": "46868",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-25T23:20:35.620981-04:00",
+    "address": "Preakness Drive & Bryan Station R",
+    "extra": {
+      "incidentNumber": "46868",
+      "run_id": "46868",
+      "address": "Preakness Drive & Bryan Station R",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E08,201",
+      "units": "E02,E08,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-46868"
+    }
   }
 ]
