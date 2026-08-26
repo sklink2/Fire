@@ -2858,5 +2858,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47003"
     }
+  },
+  {
+    "runNumber": "47002",
+    "rawCode": "MED",
+    "timestamp": "2026-08-26T15:22:34.760025-04:00",
+    "address": "900 Block Forest Lake Drive",
+    "extra": {
+      "incidentNumber": "47002",
+      "run_id": "47002",
+      "address": "900 Block Forest Lake Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC11",
+      "units": "E15,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47002"
+    }
   }
 ]
