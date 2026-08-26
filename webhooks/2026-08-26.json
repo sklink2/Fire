@@ -2770,5 +2770,27 @@
       "commandUnits": "220,202",
       "dedupeKey": "INCIDENT-46965"
     }
+  },
+  {
+    "runNumber": "47001",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-08-26T15:09:02.136901-04:00",
+    "address": "2750 Meadowsweet Lane",
+    "extra": {
+      "incidentNumber": "47001",
+      "run_id": "47001",
+      "address": "2750 Meadowsweet Lane",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "T1",
+      "units": "T1",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47001"
+    }
   }
 ]
