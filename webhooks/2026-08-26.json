@@ -4068,5 +4068,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47056"
     }
+  },
+  {
+    "runNumber": "47055",
+    "rawCode": "FMIS",
+    "timestamp": "2026-08-26T19:08:03.551153-04:00",
+    "address": "152 W Tiverton Way",
+    "extra": {
+      "incidentNumber": "47055",
+      "run_id": "47055",
+      "address": "152 W Tiverton Way",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E22,202",
+      "units": "E22,202",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-47055"
+    }
   }
 ]
