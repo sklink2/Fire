@@ -856,5 +856,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46912"
     }
+  },
+  {
+    "runNumber": "46913",
+    "rawCode": "FELS",
+    "timestamp": "2026-08-26T07:38:44.073556-04:00",
+    "address": "1005 Tanbark Road",
+    "extra": {
+      "incidentNumber": "46913",
+      "run_id": "46913",
+      "address": "1005 Tanbark Road",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,L07,204",
+      "units": "E09,L07,204",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-46913"
+    }
   }
 ]
