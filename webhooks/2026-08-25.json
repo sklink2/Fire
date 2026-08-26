@@ -4288,5 +4288,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46864"
     }
+  },
+  {
+    "runNumber": "46863",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-25T22:14:00.235512-04:00",
+    "address": "W New Circle Road & W New Circle",
+    "extra": {
+      "incidentNumber": "46863",
+      "run_id": "46863",
+      "address": "W New Circle Road & W New Circle",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,EC6,241",
+      "units": "E13,EC6,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-46863"
+    }
   }
 ]
