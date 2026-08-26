@@ -3408,5 +3408,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47027"
     }
+  },
+  {
+    "runNumber": "47026",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-26T16:52:47.820033-04:00",
+    "address": "704 Seattle Drive",
+    "extra": {
+      "incidentNumber": "47026",
+      "run_id": "47026",
+      "address": "704 Seattle Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,E16,L04,EC9,204,220",
+      "units": "E15,E16,L04,EC9,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-47026"
+    }
   }
 ]
