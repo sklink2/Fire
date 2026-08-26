@@ -3672,5 +3672,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47038"
     }
+  },
+  {
+    "runNumber": "47040",
+    "rawCode": "FSTR",
+    "timestamp": "2026-08-26T18:00:24.738703-04:00",
+    "address": "322 Corral Street",
+    "extra": {
+      "incidentNumber": "47040",
+      "run_id": "47040",
+      "address": "322 Corral Street",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E06,E08,E13,L02,L03,EC1,201,202,220,241,RS1",
+      "units": "E02,E06,E08,E13,L02,L03,EC1,201,202,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,202",
+      "dedupeKey": "INCIDENT-47040"
+    }
   }
 ]
