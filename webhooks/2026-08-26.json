@@ -2748,5 +2748,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46998"
     }
+  },
+  {
+    "runNumber": "46965",
+    "rawCode": "FSTRW",
+    "timestamp": "2026-08-26T14:55:32.996191-04:00",
+    "address": "3051 Kirklevington Drive",
+    "extra": {
+      "incidentNumber": "46965",
+      "run_id": "46965",
+      "address": "3051 Kirklevington Drive",
+      "rawType": "FSTRW",
+      "typeCode": "FSTRW",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,E22,L04,L07,EC2,202,220,430,432,434,436",
+      "units": "E16,E22,L04,L07,EC2,202,220,430,432,434,436",
+      "unitCount": "11",
+      "primaryTopic": "FSTRW",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-46965"
+    }
   }
 ]
