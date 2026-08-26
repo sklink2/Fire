@@ -4156,5 +4156,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46856"
     }
+  },
+  {
+    "runNumber": "46858",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-25T21:49:26.275894-04:00",
+    "address": "1920 Plaudit Place",
+    "extra": {
+      "incidentNumber": "46858",
+      "run_id": "46858",
+      "address": "1920 Plaudit Place",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,E21,L06,201",
+      "units": "E17,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-46858"
+    }
   }
 ]
