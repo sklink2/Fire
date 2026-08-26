@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47008"
     }
+  },
+  {
+    "runNumber": "47009",
+    "rawCode": "FOTS",
+    "timestamp": "2026-08-26T16:03:08.986282-04:00",
+    "address": "726 Georgetown Street",
+    "extra": {
+      "incidentNumber": "47009",
+      "run_id": "47009",
+      "address": "726 Georgetown Street",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,L03,EC6,203",
+      "units": "E10,L03,EC6,203",
+      "unitCount": "4",
+      "primaryTopic": "FOTS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-47009"
+    }
   }
 ]
