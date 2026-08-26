@@ -1560,5 +1560,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46944"
     }
+  },
+  {
+    "runNumber": "46947",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-26T10:48:12.433700-04:00",
+    "address": "Richmond Road & Mt Tabor Road",
+    "extra": {
+      "incidentNumber": "46947",
+      "run_id": "46947",
+      "address": "Richmond Road & Mt Tabor Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC1,202",
+      "units": "E09,EC1,202",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-46947"
+    }
   }
 ]
