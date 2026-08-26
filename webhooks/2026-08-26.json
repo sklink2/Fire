@@ -196,5 +196,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46880"
     }
+  },
+  {
+    "runNumber": "46883",
+    "rawCode": "MED",
+    "timestamp": "2026-08-26T00:48:17.566119-04:00",
+    "address": "1600 Block Wharton Way",
+    "extra": {
+      "incidentNumber": "46883",
+      "run_id": "46883",
+      "address": "1600 Block Wharton Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46883"
+    }
   }
 ]
