@@ -3738,5 +3738,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47041"
     }
+  },
+  {
+    "runNumber": "47042",
+    "rawCode": "MED",
+    "timestamp": "2026-08-26T18:13:51.107498-04:00",
+    "address": "300 Block Sheridan Drive",
+    "extra": {
+      "incidentNumber": "47042",
+      "run_id": "47042",
+      "address": "300 Block Sheridan Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47042"
+    }
   }
 ]
