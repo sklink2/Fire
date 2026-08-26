@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46894"
     }
+  },
+  {
+    "runNumber": "46895",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-26T04:29:15.885029-04:00",
+    "address": "408 Robertson Street",
+    "extra": {
+      "incidentNumber": "46895",
+      "run_id": "46895",
+      "address": "408 Robertson Street",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46895"
+    }
   }
 ]
