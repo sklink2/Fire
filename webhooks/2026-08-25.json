@@ -3826,5 +3826,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-46841"
     }
+  },
+  {
+    "runNumber": "46843",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-25T20:14:41.163737-04:00",
+    "address": "1109 Versailles Road",
+    "extra": {
+      "incidentNumber": "46843",
+      "run_id": "46843",
+      "address": "1109 Versailles Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,E14,203",
+      "units": "E13,E14,203",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-46843"
+    }
   }
 ]
