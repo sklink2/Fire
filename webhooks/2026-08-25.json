@@ -4178,5 +4178,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-46858"
     }
+  },
+  {
+    "runNumber": "46859",
+    "rawCode": "MED",
+    "timestamp": "2026-08-25T21:52:52.640566-04:00",
+    "address": "4700 Block Moss Creek Drive",
+    "extra": {
+      "incidentNumber": "46859",
+      "run_id": "46859",
+      "address": "4700 Block Moss Creek Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-46859"
+    }
   }
 ]
