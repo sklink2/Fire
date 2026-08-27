@@ -4640,5 +4640,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47083"
     }
+  },
+  {
+    "runNumber": "47084",
+    "rawCode": "MED",
+    "timestamp": "2026-08-26T21:45:46.713218-04:00",
+    "address": "3900 Block Weber Way",
+    "extra": {
+      "incidentNumber": "47084",
+      "run_id": "47084",
+      "address": "3900 Block Weber Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC9",
+      "units": "E20,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47084"
+    }
   }
 ]
