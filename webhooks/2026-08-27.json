@@ -2858,5 +2858,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-47229"
     }
+  },
+  {
+    "runNumber": "47233",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-27T16:50:50.238320-04:00",
+    "address": "75 Sb / 99.0 Mm (Old Richmond",
+    "extra": {
+      "incidentNumber": "47233",
+      "run_id": "47233",
+      "address": "75 Sb / 99.0 Mm (Old Richmond",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E18,EC11",
+      "units": "E09,E18,EC11",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47233"
+    }
   }
 ]
