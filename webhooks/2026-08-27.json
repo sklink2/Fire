@@ -3628,5 +3628,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47265"
     }
+  },
+  {
+    "runNumber": "47266",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-27T19:28:39.236155-04:00",
+    "address": "2106 Bahama Road",
+    "extra": {
+      "incidentNumber": "47266",
+      "run_id": "47266",
+      "address": "2106 Bahama Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E17,L05,201",
+      "units": "E02,E17,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-47266"
+    }
   }
 ]
