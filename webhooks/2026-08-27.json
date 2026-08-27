@@ -2704,5 +2704,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47223"
     }
+  },
+  {
+    "runNumber": "47224",
+    "rawCode": "MED",
+    "timestamp": "2026-08-27T15:56:43.748281-04:00",
+    "address": "1900 Block Picadilly Street",
+    "extra": {
+      "incidentNumber": "47224",
+      "run_id": "47224",
+      "address": "1900 Block Picadilly Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,EC5,CRT1",
+      "units": "E14,EC5,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47224"
+    }
   }
 ]
