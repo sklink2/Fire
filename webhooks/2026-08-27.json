@@ -3474,5 +3474,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47259"
     }
+  },
+  {
+    "runNumber": "47258",
+    "rawCode": "MED",
+    "timestamp": "2026-08-27T18:43:35.226266-04:00",
+    "address": "300 Block Waller Avenue",
+    "extra": {
+      "incidentNumber": "47258",
+      "run_id": "47258",
+      "address": "300 Block Waller Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC12,RS1",
+      "units": "EC12,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47258"
+    }
   }
 ]
