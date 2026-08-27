@@ -1978,5 +1978,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47189"
     }
+  },
+  {
+    "runNumber": "47190",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-27T13:05:27.989564-04:00",
+    "address": "1019 Majestic Drive",
+    "extra": {
+      "incidentNumber": "47190",
+      "run_id": "47190",
+      "address": "1019 Majestic Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,E12,L04,204",
+      "units": "E11,E12,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-47190"
+    }
   }
 ]
