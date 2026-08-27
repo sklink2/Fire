@@ -4530,5 +4530,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47075"
     }
+  },
+  {
+    "runNumber": "47079",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-26T21:09:43.512304-04:00",
+    "address": "721 National Avenue",
+    "extra": {
+      "incidentNumber": "47079",
+      "run_id": "47079",
+      "address": "721 National Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E05,L02,205",
+      "units": "E04,E05,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-47079"
+    }
   }
 ]
