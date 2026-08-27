@@ -1054,5 +1054,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47148"
     }
+  },
+  {
+    "runNumber": "47147",
+    "rawCode": "FSTR",
+    "timestamp": "2026-08-27T09:56:14.734766-04:00",
+    "address": "575 W Short Street",
+    "extra": {
+      "incidentNumber": "47147",
+      "run_id": "47147",
+      "address": "575 W Short Street",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E04,E08,E12,E14,L01,L03,EC1,203,205,220,241,RS1",
+      "units": "E01,E04,E08,E12,E14,L01,L03,EC1,203,205,220,241,RS1",
+      "unitCount": "13",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,203,205",
+      "dedupeKey": "INCIDENT-47147"
+    }
   }
 ]
