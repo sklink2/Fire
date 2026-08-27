@@ -3430,5 +3430,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47256"
     }
+  },
+  {
+    "runNumber": "47257",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-27T18:39:03.479360-04:00",
+    "address": "401 Hilltop Avenue",
+    "extra": {
+      "incidentNumber": "47257",
+      "run_id": "47257",
+      "address": "401 Hilltop Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,E11,L02,204",
+      "units": "E05,E06,E11,L02,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-47257"
+    }
   }
 ]
