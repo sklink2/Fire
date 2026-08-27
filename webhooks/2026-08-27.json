@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47217"
     }
+  },
+  {
+    "runNumber": "47216",
+    "rawCode": "FOTS",
+    "timestamp": "2026-08-27T15:07:10.312680-04:00",
+    "address": "1098 S Cleveland Road",
+    "extra": {
+      "incidentNumber": "47216",
+      "run_id": "47216",
+      "address": "1098 S Cleveland Road",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E18",
+      "units": "E18",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47216"
+    }
   }
 ]
