@@ -702,5 +702,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-47132"
     }
+  },
+  {
+    "runNumber": "47131",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-27T08:21:31.231184-04:00",
+    "address": "Old Richmond Road & Mccalls Mill",
+    "extra": {
+      "incidentNumber": "47131",
+      "run_id": "47131",
+      "address": "Old Richmond Road & Mccalls Mill",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E18,EC11",
+      "units": "E18,EC11",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47131"
+    }
   }
 ]
