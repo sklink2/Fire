@@ -2836,5 +2836,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47230"
     }
+  },
+  {
+    "runNumber": "47229",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-27T16:46:23.826317-04:00",
+    "address": "W Fourth Street & Henry Street",
+    "extra": {
+      "incidentNumber": "47229",
+      "run_id": "47229",
+      "address": "W Fourth Street & Henry Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,EC7,205,414",
+      "units": "E04,EC7,205,414",
+      "unitCount": "4",
+      "primaryTopic": "FVEA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-47229"
+    }
   }
 ]
