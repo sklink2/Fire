@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47221"
     }
+  },
+  {
+    "runNumber": "47223",
+    "rawCode": "MED",
+    "timestamp": "2026-08-27T15:47:43.768744-04:00",
+    "address": "1300 Block Smoky Mountain Court",
+    "extra": {
+      "incidentNumber": "47223",
+      "run_id": "47223",
+      "address": "1300 Block Smoky Mountain Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47223"
+    }
   }
 ]
