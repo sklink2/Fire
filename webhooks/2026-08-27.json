@@ -1120,5 +1120,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-47149"
     }
+  },
+  {
+    "runNumber": "47151",
+    "rawCode": "MED",
+    "timestamp": "2026-08-27T10:14:08.276185-04:00",
+    "address": "3800 Block Winchester Road",
+    "extra": {
+      "incidentNumber": "47151",
+      "run_id": "47151",
+      "address": "3800 Block Winchester Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47151"
+    }
   }
 ]
