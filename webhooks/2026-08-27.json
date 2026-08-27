@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47130"
     }
+  },
+  {
+    "runNumber": "47132",
+    "rawCode": "MED",
+    "timestamp": "2026-08-27T08:21:27.600886-04:00",
+    "address": "3100 Block Kirklevington Drive",
+    "extra": {
+      "incidentNumber": "47132",
+      "run_id": "47132",
+      "address": "3100 Block Kirklevington Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC13,241,CRT1",
+      "units": "E09,EC13,241,CRT1",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-47132"
+    }
   }
 ]
