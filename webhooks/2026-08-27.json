@@ -1714,5 +1714,27 @@
       "commandUnits": "220,205",
       "dedupeKey": "INCIDENT-47176"
     }
+  },
+  {
+    "runNumber": "47179",
+    "rawCode": "FCAR",
+    "timestamp": "2026-08-27T12:29:21.195796-04:00",
+    "address": "320 Hannah Todd Place",
+    "extra": {
+      "incidentNumber": "47179",
+      "run_id": "47179",
+      "address": "320 Hannah Todd Place",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L07",
+      "units": "L07",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47179"
+    }
   }
 ]
