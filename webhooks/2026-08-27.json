@@ -2946,5 +2946,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47234"
     }
+  },
+  {
+    "runNumber": "47236",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-27T17:08:53.185286-04:00",
+    "address": "369 W Vine Street",
+    "extra": {
+      "incidentNumber": "47236",
+      "run_id": "47236",
+      "address": "369 W Vine Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,E13,L01,203",
+      "units": "E05,E06,E13,L01,203",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-47236"
+    }
   }
 ]
