@@ -2660,5 +2660,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47222"
     }
+  },
+  {
+    "runNumber": "47221",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-27T15:38:45.108323-04:00",
+    "address": "441 Lakeshore Drive",
+    "extra": {
+      "incidentNumber": "47221",
+      "run_id": "47221",
+      "address": "441 Lakeshore Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47221"
+    }
   }
 ]
