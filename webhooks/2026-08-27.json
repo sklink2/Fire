@@ -3188,5 +3188,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-47247"
     }
+  },
+  {
+    "runNumber": "47246",
+    "rawCode": "MED",
+    "timestamp": "2026-08-27T18:03:02.159408-04:00",
+    "address": "1900 Block Oxford Circle",
+    "extra": {
+      "incidentNumber": "47246",
+      "run_id": "47246",
+      "address": "1900 Block Oxford Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47246"
+    }
   }
 ]
