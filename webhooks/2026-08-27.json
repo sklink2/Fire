@@ -790,5 +790,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47137"
     }
+  },
+  {
+    "runNumber": "47136",
+    "rawCode": "MED",
+    "timestamp": "2026-08-27T09:06:32.935808-04:00",
+    "address": "3600 Block Fair Ridge Drive",
+    "extra": {
+      "incidentNumber": "47136",
+      "run_id": "47136",
+      "address": "3600 Block Fair Ridge Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47136"
+    }
   }
 ]
