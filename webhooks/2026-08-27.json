@@ -900,5 +900,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47141"
     }
+  },
+  {
+    "runNumber": "47140",
+    "rawCode": "MED",
+    "timestamp": "2026-08-27T09:15:33.640116-04:00",
+    "address": "900 Block Murray Drive",
+    "extra": {
+      "incidentNumber": "47140",
+      "run_id": "47140",
+      "address": "900 Block Murray Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC3",
+      "units": "E02,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47140"
+    }
   }
 ]
