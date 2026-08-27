@@ -2132,5 +2132,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47197"
     }
+  },
+  {
+    "runNumber": "47196",
+    "rawCode": "MED",
+    "timestamp": "2026-08-27T13:28:02.875238-04:00",
+    "address": "3400 Block Yorkshire Medical Park",
+    "extra": {
+      "incidentNumber": "47196",
+      "run_id": "47196",
+      "address": "3400 Block Yorkshire Medical Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2,202",
+      "units": "E09,EC2,202",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-47196"
+    }
   }
 ]
