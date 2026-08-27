@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47177"
     }
+  },
+  {
+    "runNumber": "47176",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-27T12:20:27.563594-04:00",
+    "address": "1301 Winchester Road",
+    "extra": {
+      "incidentNumber": "47176",
+      "run_id": "47176",
+      "address": "1301 Winchester Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E02,L05,EC12,205,220",
+      "units": "E01,E02,L05,EC12,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-47176"
+    }
   }
 ]
