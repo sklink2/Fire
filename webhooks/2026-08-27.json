@@ -394,5 +394,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47117"
     }
+  },
+  {
+    "runNumber": "47118",
+    "rawCode": "FSTR",
+    "timestamp": "2026-08-27T03:41:58.352651-04:00",
+    "address": "450 Monticello Boulevard",
+    "extra": {
+      "incidentNumber": "47118",
+      "run_id": "47118",
+      "address": "450 Monticello Boulevard",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E12,E15,E20,L04,L07,EC9,202,204,220,241,RS1",
+      "units": "E09,E12,E15,E20,L04,L07,EC9,202,204,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,202,204",
+      "dedupeKey": "INCIDENT-47118"
+    }
   }
 ]
