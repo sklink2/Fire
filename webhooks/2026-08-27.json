@@ -3958,5 +3958,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-47279"
     }
+  },
+  {
+    "runNumber": "47282",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-27T20:54:18.084607-04:00",
+    "address": "Alumni Drive & Yellowstone Parkway",
+    "extra": {
+      "incidentNumber": "47282",
+      "run_id": "47282",
+      "address": "Alumni Drive & Yellowstone Parkway",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,EC13,241",
+      "units": "E16,EC13,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-47282"
+    }
   }
 ]
