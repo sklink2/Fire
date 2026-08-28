@@ -3848,5 +3848,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47275"
     }
+  },
+  {
+    "runNumber": "47277",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-27T20:27:17.487192-04:00",
+    "address": "409 Columbia Avenue",
+    "extra": {
+      "incidentNumber": "47277",
+      "run_id": "47277",
+      "address": "409 Columbia Avenue",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,L02,EC7,205,220",
+      "units": "E05,E06,L02,EC7,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-47277"
+    }
   }
 ]
