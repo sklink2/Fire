@@ -3980,5 +3980,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-47282"
     }
+  },
+  {
+    "runNumber": "47281",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-27T20:54:22.070007-04:00",
+    "address": "320 W New Circle Road",
+    "extra": {
+      "incidentNumber": "47281",
+      "run_id": "47281",
+      "address": "320 W New Circle Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47281"
+    }
   }
 ]
