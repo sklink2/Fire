@@ -108,5 +108,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47313"
     }
+  },
+  {
+    "runNumber": "47315",
+    "rawCode": "FVIS",
+    "timestamp": "2026-08-28T01:02:17.302354-04:00",
+    "address": "1600 Leestown Road",
+    "extra": {
+      "incidentNumber": "47315",
+      "run_id": "47315",
+      "address": "1600 Leestown Road",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E13,L03,EC10,203,RS1",
+      "units": "E08,E13,L03,EC10,203,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-47315"
+    }
   }
 ]
