@@ -1714,5 +1714,27 @@
       "commandUnits": "220,201,205",
       "dedupeKey": "INCIDENT-47386"
     }
+  },
+  {
+    "runNumber": "47387",
+    "rawCode": "MED",
+    "timestamp": "2026-08-28T11:37:57.156421-04:00",
+    "address": "500 Block Lima Drive",
+    "extra": {
+      "incidentNumber": "47387",
+      "run_id": "47387",
+      "address": "500 Block Lima Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47387"
+    }
   }
 ]
