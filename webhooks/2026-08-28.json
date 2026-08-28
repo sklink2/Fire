@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47424"
     }
+  },
+  {
+    "runNumber": "47428",
+    "rawCode": "MED",
+    "timestamp": "2026-08-28T15:36:54.170342-04:00",
+    "address": "400 Block Complex Drive",
+    "extra": {
+      "incidentNumber": "47428",
+      "run_id": "47428",
+      "address": "400 Block Complex Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47428"
+    }
   }
 ]
