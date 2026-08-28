@@ -438,5 +438,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47329"
     }
+  },
+  {
+    "runNumber": "47328",
+    "rawCode": "MED",
+    "timestamp": "2026-08-28T03:58:09.121805-04:00",
+    "address": "100 Block N Mt Tabor Road",
+    "extra": {
+      "incidentNumber": "47328",
+      "run_id": "47328",
+      "address": "100 Block N Mt Tabor Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47328"
+    }
   }
 ]
