@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47384"
     }
+  },
+  {
+    "runNumber": "47386",
+    "rawCode": "FHMC",
+    "timestamp": "2026-08-28T11:33:30.586901-04:00",
+    "address": "207 Twelfth Street",
+    "extra": {
+      "incidentNumber": "47386",
+      "run_id": "47386",
+      "address": "207 Twelfth Street",
+      "rawType": "FHMC",
+      "typeCode": "FHMC",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E10,EC3,201,205,220",
+      "units": "E08,E10,EC3,201,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FHMC",
+      "commandUnits": "220,201,205",
+      "dedupeKey": "INCIDENT-47386"
+    }
   }
 ]
