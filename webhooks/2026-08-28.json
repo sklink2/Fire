@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47396"
     }
+  },
+  {
+    "runNumber": "47398",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-28T12:41:03.823564-04:00",
+    "address": "3933 Hidden Springs Drive",
+    "extra": {
+      "incidentNumber": "47398",
+      "run_id": "47398",
+      "address": "3933 Hidden Springs Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,L04",
+      "units": "E22,L04",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47398"
+    }
   }
 ]
