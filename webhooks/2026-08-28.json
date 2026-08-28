@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47446"
     }
+  },
+  {
+    "runNumber": "47448",
+    "rawCode": "FMIS",
+    "timestamp": "2026-08-28T17:02:35.187968-04:00",
+    "address": "3524 Forest Cove Lane",
+    "extra": {
+      "incidentNumber": "47448",
+      "run_id": "47448",
+      "address": "3524 Forest Cove Lane",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E18,202",
+      "units": "E18,202",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-47448"
+    }
   }
 ]
