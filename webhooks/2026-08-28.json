@@ -2418,5 +2418,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47419"
     }
+  },
+  {
+    "runNumber": "47421",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-28T15:18:52.312490-04:00",
+    "address": "Bolivar Street & S Upper Street",
+    "extra": {
+      "incidentNumber": "47421",
+      "run_id": "47421",
+      "address": "Bolivar Street & S Upper Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10,RS1",
+      "units": "EC10,RS1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47421"
+    }
   }
 ]
