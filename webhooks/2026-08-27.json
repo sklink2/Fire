@@ -4068,5 +4068,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47285"
     }
+  },
+  {
+    "runNumber": "47286",
+    "rawCode": "FELF",
+    "timestamp": "2026-08-27T21:12:22.016474-04:00",
+    "address": "329 S Martin Luther King Boulevard",
+    "extra": {
+      "incidentNumber": "47286",
+      "run_id": "47286",
+      "address": "329 S Martin Luther King Boulevard",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E06,L01,205",
+      "units": "E01,E06,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-47286"
+    }
   }
 ]
