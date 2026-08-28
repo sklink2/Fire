@@ -1186,5 +1186,27 @@
       "commandUnits": "220,204",
       "dedupeKey": "INCIDENT-47362"
     }
+  },
+  {
+    "runNumber": "47363",
+    "rawCode": "MED",
+    "timestamp": "2026-08-28T09:18:11.291009-04:00",
+    "address": "200 Block Lincoln Avenue",
+    "extra": {
+      "incidentNumber": "47363",
+      "run_id": "47363",
+      "address": "200 Block Lincoln Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09",
+      "units": "E09",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47363"
+    }
   }
 ]
