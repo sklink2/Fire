@@ -1164,5 +1164,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47361"
     }
+  },
+  {
+    "runNumber": "47362",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-28T09:13:44.694925-04:00",
+    "address": "2364 Dogwood Trace Boulevard",
+    "extra": {
+      "incidentNumber": "47362",
+      "run_id": "47362",
+      "address": "2364 Dogwood Trace Boulevard",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,E20,L04,EC7,204,220",
+      "units": "E15,E20,L04,EC7,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-47362"
+    }
   }
 ]
