@@ -1252,5 +1252,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47366"
     }
+  },
+  {
+    "runNumber": "47365",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-28T09:31:50.352498-04:00",
+    "address": "Harrodsburg Road & Aqua Way",
+    "extra": {
+      "incidentNumber": "47365",
+      "run_id": "47365",
+      "address": "Harrodsburg Road & Aqua Way",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E20,L04,EC9,204,220",
+      "units": "E11,E20,L04,EC9,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-47365"
+    }
   }
 ]
