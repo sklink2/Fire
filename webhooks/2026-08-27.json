@@ -4464,5 +4464,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47303"
     }
+  },
+  {
+    "runNumber": "47304",
+    "rawCode": "MED",
+    "timestamp": "2026-08-27T23:32:06.523715-04:00",
+    "address": "3200 Block Todds Road",
+    "extra": {
+      "incidentNumber": "47304",
+      "run_id": "47304",
+      "address": "3200 Block Todds Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47304"
+    }
   }
 ]
