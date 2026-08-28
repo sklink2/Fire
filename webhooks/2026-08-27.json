@@ -4024,5 +4024,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47283"
     }
+  },
+  {
+    "runNumber": "47284",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-27T21:03:21.125397-04:00",
+    "address": "429 Newtown Pike",
+    "extra": {
+      "incidentNumber": "47284",
+      "run_id": "47284",
+      "address": "429 Newtown Pike",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,EC6,241",
+      "units": "E04,EC6,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-47284"
+    }
   }
 ]
