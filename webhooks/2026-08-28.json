@@ -2066,5 +2066,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47401"
     }
+  },
+  {
+    "runNumber": "47400",
+    "rawCode": "MED",
+    "timestamp": "2026-08-28T13:03:45.866384-04:00",
+    "address": "2400 Block Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "47400",
+      "run_id": "47400",
+      "address": "2400 Block Harrodsburg Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,EC5",
+      "units": "E20,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47400"
+    }
   }
 ]
