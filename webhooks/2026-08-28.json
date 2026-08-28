@@ -3232,5 +3232,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-47457"
     }
+  },
+  {
+    "runNumber": "47459",
+    "rawCode": "MED",
+    "timestamp": "2026-08-28T18:41:45.133257-04:00",
+    "address": "300 Block Lafayette Avenue",
+    "extra": {
+      "incidentNumber": "47459",
+      "run_id": "47459",
+      "address": "300 Block Lafayette Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC7",
+      "units": "E05,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47459"
+    }
   }
 ]
