@@ -1076,5 +1076,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47357"
     }
+  },
+  {
+    "runNumber": "47358",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-28T08:51:08.829721-04:00",
+    "address": "471 Price Road",
+    "extra": {
+      "incidentNumber": "47358",
+      "run_id": "47358",
+      "address": "471 Price Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,L03,203",
+      "units": "E10,L03,203",
+      "unitCount": "3",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-47358"
+    }
   }
 ]
