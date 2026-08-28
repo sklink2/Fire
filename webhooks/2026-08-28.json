@@ -1494,5 +1494,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47377"
     }
+  },
+  {
+    "runNumber": "47376",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-28T11:01:57.725219-04:00",
+    "address": "W Vine Street & S Broadway",
+    "extra": {
+      "incidentNumber": "47376",
+      "run_id": "47376",
+      "address": "W Vine Street & S Broadway",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC6,241",
+      "units": "E01,EC6,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-47376"
+    }
   }
 ]
