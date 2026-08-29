@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47608"
     }
+  },
+  {
+    "runNumber": "47609",
+    "rawCode": "MED",
+    "timestamp": "2026-08-29T14:27:21.610196-04:00",
+    "address": "200 Block Carlisle Avenue",
+    "extra": {
+      "incidentNumber": "47609",
+      "run_id": "47609",
+      "address": "200 Block Carlisle Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12,CRT1",
+      "units": "EC12,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47609"
+    }
   }
 ]
