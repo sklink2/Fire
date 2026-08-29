@@ -86,5 +86,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-47510"
     }
+  },
+  {
+    "runNumber": "47511",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-29T00:28:54.110677-04:00",
+    "address": "2148 Larkspur Drive",
+    "extra": {
+      "incidentNumber": "47511",
+      "run_id": "47511",
+      "address": "2148 Larkspur Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,L04",
+      "units": "E11,L04",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47511"
+    }
   }
 ]
