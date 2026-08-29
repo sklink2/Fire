@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47550"
     }
+  },
+  {
+    "runNumber": "47551",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-08-29T07:59:42.701359-04:00",
+    "address": "Lane Allen Road & Camperdown Court",
+    "extra": {
+      "incidentNumber": "47551",
+      "run_id": "47551",
+      "address": "Lane Allen Road & Camperdown Court",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,L04,EC12,204,241,RS1",
+      "units": "E11,L04,EC12,204,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,204",
+      "dedupeKey": "INCIDENT-47551"
+    }
   }
 ]
