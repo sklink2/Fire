@@ -4002,5 +4002,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47491"
     }
+  },
+  {
+    "runNumber": "47493",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-28T21:37:32.958345-04:00",
+    "address": "1902 Seven Pines Drive",
+    "extra": {
+      "incidentNumber": "47493",
+      "run_id": "47493",
+      "address": "1902 Seven Pines Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,L04",
+      "units": "E14,L04",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47493"
+    }
   }
 ]
