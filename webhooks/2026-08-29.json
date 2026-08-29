@@ -416,5 +416,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47524"
     }
+  },
+  {
+    "runNumber": "47526",
+    "rawCode": "FASS",
+    "timestamp": "2026-08-29T02:12:34.703071-04:00",
+    "address": "W Maxwell Street & Jersey Street",
+    "extra": {
+      "incidentNumber": "47526",
+      "run_id": "47526",
+      "address": "W Maxwell Street & Jersey Street",
+      "rawType": "FASS",
+      "typeCode": "FASS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10,RS1",
+      "units": "EC10,RS1",
+      "unitCount": "2",
+      "primaryTopic": "FASS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47526"
+    }
   }
 ]
