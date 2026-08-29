@@ -1428,5 +1428,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47571"
     }
+  },
+  {
+    "runNumber": "47570",
+    "rawCode": "MED",
+    "timestamp": "2026-08-29T11:00:02.444575-04:00",
+    "address": "2400 Block Crescenzio Way",
+    "extra": {
+      "incidentNumber": "47570",
+      "run_id": "47570",
+      "address": "2400 Block Crescenzio Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC5,EC6",
+      "units": "EC5,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47570"
+    }
   }
 ]
