@@ -614,5 +614,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-47534"
     }
+  },
+  {
+    "runNumber": "47536",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-08-29T03:51:43.338695-04:00",
+    "address": "814 Aurora Avenue",
+    "extra": {
+      "incidentNumber": "47536",
+      "run_id": "47536",
+      "address": "814 Aurora Avenue",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01",
+      "units": "L01",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47536"
+    }
   }
 ]
