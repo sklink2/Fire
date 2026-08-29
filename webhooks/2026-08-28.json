@@ -4178,5 +4178,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47500"
     }
+  },
+  {
+    "runNumber": "47502",
+    "rawCode": "FGAO",
+    "timestamp": "2026-08-28T22:36:08.538286-04:00",
+    "address": "1050 Russell Cave Road",
+    "extra": {
+      "incidentNumber": "47502",
+      "run_id": "47502",
+      "address": "1050 Russell Cave Road",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E10",
+      "units": "E08,E10",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47502"
+    }
   }
 ]
