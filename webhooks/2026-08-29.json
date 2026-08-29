@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47615"
     }
+  },
+  {
+    "runNumber": "47617",
+    "rawCode": "FELF",
+    "timestamp": "2026-08-29T15:39:30.762289-04:00",
+    "address": "1133 Meridian Drive",
+    "extra": {
+      "incidentNumber": "47617",
+      "run_id": "47617",
+      "address": "1133 Meridian Drive",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E14,L04,204",
+      "units": "E11,E14,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-47617"
+    }
   }
 ]
