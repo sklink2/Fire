@@ -1560,5 +1560,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47576"
     }
+  },
+  {
+    "runNumber": "47575",
+    "rawCode": "MED",
+    "timestamp": "2026-08-29T11:18:08.952524-04:00",
+    "address": "200 Block Shives Drive",
+    "extra": {
+      "incidentNumber": "47575",
+      "run_id": "47575",
+      "address": "200 Block Shives Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC30",
+      "units": "EC30",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47575"
+    }
   }
 ]
