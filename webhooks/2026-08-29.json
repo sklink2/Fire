@@ -2528,5 +2528,27 @@
       "commandUnits": "241,220,203,204",
       "dedupeKey": "INCIDENT-47617"
     }
+  },
+  {
+    "runNumber": "47620",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-29T15:48:30.323796-04:00",
+    "address": "Iron Works Pike & Newtown Pike",
+    "extra": {
+      "incidentNumber": "47620",
+      "run_id": "47620",
+      "address": "Iron Works Pike & Newtown Pike",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E19,EC6",
+      "units": "E19,EC6",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47620"
+    }
   }
 ]
