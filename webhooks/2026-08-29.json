@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47548"
     }
+  },
+  {
+    "runNumber": "47549",
+    "rawCode": "MED",
+    "timestamp": "2026-08-29T07:32:37.257908-04:00",
+    "address": "1800 Block Dalton Court",
+    "extra": {
+      "incidentNumber": "47549",
+      "run_id": "47549",
+      "address": "1800 Block Dalton Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC8,241",
+      "units": "E02,EC8,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-47549"
+    }
   }
 ]
