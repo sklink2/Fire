@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47633"
     }
+  },
+  {
+    "runNumber": "47635",
+    "rawCode": "MED",
+    "timestamp": "2026-08-29T17:09:39.451834-04:00",
+    "address": "100 Block Paris Avenue",
+    "extra": {
+      "incidentNumber": "47635",
+      "run_id": "47635",
+      "address": "100 Block Paris Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10,CRT1",
+      "units": "EC10,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47635"
+    }
   }
 ]
