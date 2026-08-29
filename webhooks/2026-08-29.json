@@ -3254,5 +3254,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47650"
     }
+  },
+  {
+    "runNumber": "47652",
+    "rawCode": "MED",
+    "timestamp": "2026-08-29T18:26:17.004706-04:00",
+    "address": "3100 Block Richmond Road",
+    "extra": {
+      "incidentNumber": "47652",
+      "run_id": "47652",
+      "address": "3100 Block Richmond Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47652"
+    }
   }
 ]
