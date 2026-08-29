@@ -812,5 +812,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47543"
     }
+  },
+  {
+    "runNumber": "47541",
+    "rawCode": "FVEH",
+    "timestamp": "2026-08-29T05:30:54.725724-04:00",
+    "address": "3447 Pimlico Parkway",
+    "extra": {
+      "incidentNumber": "47541",
+      "run_id": "47541",
+      "address": "3447 Pimlico Parkway",
+      "rawType": "FVEH",
+      "typeCode": "FVEH",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,434",
+      "units": "E16,434",
+      "unitCount": "2",
+      "primaryTopic": "FVEH",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47541"
+    }
   }
 ]
