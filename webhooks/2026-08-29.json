@@ -1868,5 +1868,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-47589"
     }
+  },
+  {
+    "runNumber": "47590",
+    "rawCode": "MED",
+    "timestamp": "2026-08-29T12:43:40.267308-04:00",
+    "address": "1900 Block Mountjoy Place",
+    "extra": {
+      "incidentNumber": "47590",
+      "run_id": "47590",
+      "address": "1900 Block Mountjoy Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47590"
+    }
   }
 ]
