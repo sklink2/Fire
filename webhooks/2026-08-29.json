@@ -548,5 +548,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47532"
     }
+  },
+  {
+    "runNumber": "47531",
+    "rawCode": "FDET",
+    "timestamp": "2026-08-29T03:11:13.046082-04:00",
+    "address": "4000 Terminal Drive",
+    "extra": {
+      "incidentNumber": "47531",
+      "run_id": "47531",
+      "address": "4000 Terminal Drive",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L07",
+      "units": "L07",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47531"
+    }
   }
 ]
