@@ -2462,5 +2462,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-47617"
     }
+  },
+  {
+    "runNumber": "47616",
+    "rawCode": "MED",
+    "timestamp": "2026-08-29T15:39:34.627584-04:00",
+    "address": "1400 Block Bryan Avenue",
+    "extra": {
+      "incidentNumber": "47616",
+      "run_id": "47616",
+      "address": "1400 Block Bryan Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC3",
+      "units": "E02,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47616"
+    }
   }
 ]
