@@ -724,5 +724,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-47539"
     }
+  },
+  {
+    "runNumber": "47540",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-08-29T04:27:47.276777-04:00",
+    "address": "3461 Keithshire Way",
+    "extra": {
+      "incidentNumber": "47540",
+      "run_id": "47540",
+      "address": "3461 Keithshire Way",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15",
+      "units": "E15",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47540"
+    }
   }
 ]
