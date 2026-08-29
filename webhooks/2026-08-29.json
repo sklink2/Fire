@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47523"
     }
+  },
+  {
+    "runNumber": "47522",
+    "rawCode": "MED",
+    "timestamp": "2026-08-29T01:45:34.652255-04:00",
+    "address": "300 Block Larkwood Drive",
+    "extra": {
+      "incidentNumber": "47522",
+      "run_id": "47522",
+      "address": "300 Block Larkwood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47522"
+    }
   }
 ]
