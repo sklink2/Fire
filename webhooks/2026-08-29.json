@@ -1054,5 +1054,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47553"
     }
+  },
+  {
+    "runNumber": "47554",
+    "rawCode": "MED",
+    "timestamp": "2026-08-29T08:31:13.326778-04:00",
+    "address": "1200 Block Dale Drive",
+    "extra": {
+      "incidentNumber": "47554",
+      "run_id": "47554",
+      "address": "1200 Block Dale Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47554"
+    }
   }
 ]
