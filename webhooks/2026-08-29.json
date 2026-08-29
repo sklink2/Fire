@@ -1846,5 +1846,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47587"
     }
+  },
+  {
+    "runNumber": "47589",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-29T12:34:40.497579-04:00",
+    "address": "140 Patterson Drive",
+    "extra": {
+      "incidentNumber": "47589",
+      "run_id": "47589",
+      "address": "140 Patterson Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,L02,205",
+      "units": "E05,E06,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-47589"
+    }
   }
 ]
