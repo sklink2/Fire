@@ -2506,5 +2506,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47618"
     }
+  },
+  {
+    "runNumber": "47617",
+    "rawCode": "FSTR",
+    "timestamp": "2026-08-29T15:44:03.889624-04:00",
+    "address": "1133 Meridian Drive",
+    "extra": {
+      "incidentNumber": "47617",
+      "run_id": "47617",
+      "address": "1133 Meridian Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E11,E12,E14,L03,L04,EC5,203,204,220,241,RS1",
+      "units": "E08,E11,E12,E14,L03,L04,EC5,203,204,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,203,204",
+      "dedupeKey": "INCIDENT-47617"
+    }
   }
 ]
