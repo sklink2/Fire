@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47538"
     }
+  },
+  {
+    "runNumber": "47539",
+    "rawCode": "MED",
+    "timestamp": "2026-08-29T04:14:16.563913-04:00",
+    "address": "1000 Block Cross Keys Road",
+    "extra": {
+      "incidentNumber": "47539",
+      "run_id": "47539",
+      "address": "1000 Block Cross Keys Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,EC5,204",
+      "units": "E14,EC5,204",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-47539"
+    }
   }
 ]
