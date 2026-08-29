@@ -1010,5 +1010,27 @@
       "commandUnits": "241,204",
       "dedupeKey": "INCIDENT-47551"
     }
+  },
+  {
+    "runNumber": "47552",
+    "rawCode": "MED",
+    "timestamp": "2026-08-29T08:08:39.511748-04:00",
+    "address": "100 Block Hays Boulevard",
+    "extra": {
+      "incidentNumber": "47552",
+      "run_id": "47552",
+      "address": "100 Block Hays Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47552"
+    }
   }
 ]
