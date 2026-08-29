@@ -2924,5 +2924,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47636"
     }
+  },
+  {
+    "runNumber": "47631",
+    "rawCode": "FDET",
+    "timestamp": "2026-08-29T17:23:13.143522-04:00",
+    "address": "200 Shives Drive",
+    "extra": {
+      "incidentNumber": "47631",
+      "run_id": "47631",
+      "address": "200 Shives Drive",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC30",
+      "units": "EC30",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47631"
+    }
   }
 ]
