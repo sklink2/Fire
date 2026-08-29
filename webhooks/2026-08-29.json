@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47593"
     }
+  },
+  {
+    "runNumber": "47596",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-29T13:15:14.008487-04:00",
+    "address": "2285 Maggard Drive",
+    "extra": {
+      "incidentNumber": "47596",
+      "run_id": "47596",
+      "address": "2285 Maggard Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "434,435",
+      "units": "434,435",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47596"
+    }
   }
 ]
