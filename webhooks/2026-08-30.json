@@ -416,5 +416,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47741"
     }
+  },
+  {
+    "runNumber": "47741",
+    "rawCode": "FVIS",
+    "timestamp": "2026-08-30T03:04:48.168353-04:00",
+    "address": "413 W New Circle Road",
+    "extra": {
+      "incidentNumber": "47741",
+      "run_id": "47741",
+      "address": "413 W New Circle Road",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E13,L03,EC3,201,RS1",
+      "units": "E08,E13,L03,EC3,201,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-47741"
+    }
   }
 ]
