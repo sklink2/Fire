@@ -1428,5 +1428,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-47788"
     }
+  },
+  {
+    "runNumber": "47787",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-30T11:02:44.624505-04:00",
+    "address": "75 Sb / 110.0 Mm (Winchester R",
+    "extra": {
+      "incidentNumber": "47787",
+      "run_id": "47787",
+      "address": "75 Sb / 110.0 Mm (Winchester R",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E08,EC3,241",
+      "units": "E02,E08,EC3,241",
+      "unitCount": "4",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-47787"
+    }
   }
 ]
