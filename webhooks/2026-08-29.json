@@ -4024,5 +4024,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47686"
     }
+  },
+  {
+    "runNumber": "47685",
+    "rawCode": "MED",
+    "timestamp": "2026-08-29T20:50:36.450311-04:00",
+    "address": "4600 Block Athens Walnut Hill Pike",
+    "extra": {
+      "incidentNumber": "47685",
+      "run_id": "47685",
+      "address": "4600 Block Athens Walnut Hill Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E18,EC2",
+      "units": "E18,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47685"
+    }
   }
 ]
