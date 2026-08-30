@@ -4486,5 +4486,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47707"
     }
+  },
+  {
+    "runNumber": "47709",
+    "rawCode": "MED",
+    "timestamp": "2026-08-29T22:38:46.870996-04:00",
+    "address": "1600 Block Clayton Avenue",
+    "extra": {
+      "incidentNumber": "47709",
+      "run_id": "47709",
+      "address": "1600 Block Clayton Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47709"
+    }
   }
 ]
