@@ -4508,5 +4508,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47709"
     }
+  },
+  {
+    "runNumber": "47710",
+    "rawCode": "FNGL",
+    "timestamp": "2026-08-29T22:43:20.056780-04:00",
+    "address": "203 University Avenue",
+    "extra": {
+      "incidentNumber": "47710",
+      "run_id": "47710",
+      "address": "203 University Avenue",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E11,L02,EC12,204,220",
+      "units": "E06,E11,L02,EC12,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-47710"
+    }
   }
 ]
