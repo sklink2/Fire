@@ -4068,5 +4068,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47687"
     }
+  },
+  {
+    "runNumber": "47689",
+    "rawCode": "MED",
+    "timestamp": "2026-08-29T20:59:35.731915-04:00",
+    "address": "3200 Block Pimlico Parkway",
+    "extra": {
+      "incidentNumber": "47689",
+      "run_id": "47689",
+      "address": "3200 Block Pimlico Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC13,CRT1",
+      "units": "E16,EC13,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47689"
+    }
   }
 ]
