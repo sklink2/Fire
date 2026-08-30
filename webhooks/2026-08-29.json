@@ -3870,5 +3870,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47677"
     }
+  },
+  {
+    "runNumber": "47679",
+    "rawCode": "MED",
+    "timestamp": "2026-08-29T20:19:00.354202-04:00",
+    "address": "4300 Block Calevares Drive",
+    "extra": {
+      "incidentNumber": "47679",
+      "run_id": "47679",
+      "address": "4300 Block Calevares Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L04,EC5",
+      "units": "L04,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47679"
+    }
   }
 ]
