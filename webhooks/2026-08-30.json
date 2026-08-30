@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47764"
     }
+  },
+  {
+    "runNumber": "47765",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-30T07:44:16.190245-04:00",
+    "address": "515 Breckenridge Street",
+    "extra": {
+      "incidentNumber": "47765",
+      "run_id": "47765",
+      "address": "515 Breckenridge Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47765"
+    }
   }
 ]
