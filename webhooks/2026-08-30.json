@@ -1494,5 +1494,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47791"
     }
+  },
+  {
+    "runNumber": "47790",
+    "rawCode": "MED",
+    "timestamp": "2026-08-30T11:11:41.956888-04:00",
+    "address": "100 Block E High Street",
+    "extra": {
+      "incidentNumber": "47790",
+      "run_id": "47790",
+      "address": "100 Block E High Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47790"
+    }
   }
 ]
