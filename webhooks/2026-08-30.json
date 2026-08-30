@@ -1296,5 +1296,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47781"
     }
+  },
+  {
+    "runNumber": "47782",
+    "rawCode": "MED",
+    "timestamp": "2026-08-30T10:13:03.277536-04:00",
+    "address": "75 Sb / 105.2 Mm",
+    "extra": {
+      "incidentNumber": "47782",
+      "run_id": "47782",
+      "address": "75 Sb / 105.2 Mm",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47782"
+    }
   }
 ]
