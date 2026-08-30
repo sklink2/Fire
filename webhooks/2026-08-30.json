@@ -2198,5 +2198,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47823"
     }
+  },
+  {
+    "runNumber": "47822",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-30T13:58:32.674560-04:00",
+    "address": "1272 Centre Parkway",
+    "extra": {
+      "incidentNumber": "47822",
+      "run_id": "47822",
+      "address": "1272 Centre Parkway",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,EC2",
+      "units": "E16,EC2",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47822"
+    }
   }
 ]
