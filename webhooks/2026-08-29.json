@@ -4772,5 +4772,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-47721"
     }
+  },
+  {
+    "runNumber": "47722",
+    "rawCode": "FCAR",
+    "timestamp": "2026-08-29T23:59:54.659937-04:00",
+    "address": "1132 Gainesway Drive",
+    "extra": {
+      "incidentNumber": "47722",
+      "run_id": "47722",
+      "address": "1132 Gainesway Drive",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L07",
+      "units": "L07",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47722"
+    }
   }
 ]
