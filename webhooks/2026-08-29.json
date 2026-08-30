@@ -4530,5 +4530,27 @@
       "commandUnits": "220,204",
       "dedupeKey": "INCIDENT-47710"
     }
+  },
+  {
+    "runNumber": "47713",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-29T22:47:48.187793-04:00",
+    "address": "Rose Street & Water Street",
+    "extra": {
+      "incidentNumber": "47713",
+      "run_id": "47713",
+      "address": "Rose Street & Water Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47713"
+    }
   }
 ]
