@@ -1714,5 +1714,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47801"
     }
+  },
+  {
+    "runNumber": "47800",
+    "rawCode": "MED",
+    "timestamp": "2026-08-30T12:14:48.424287-04:00",
+    "address": "1500 Block Leestown Road",
+    "extra": {
+      "incidentNumber": "47800",
+      "run_id": "47800",
+      "address": "1500 Block Leestown Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47800"
+    }
   }
 ]
