@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47755"
     }
+  },
+  {
+    "runNumber": "47754",
+    "rawCode": "MED",
+    "timestamp": "2026-08-30T06:05:09.011407-04:00",
+    "address": "700 Block Eden Court",
+    "extra": {
+      "incidentNumber": "47754",
+      "run_id": "47754",
+      "address": "700 Block Eden Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47754"
+    }
   }
 ]
