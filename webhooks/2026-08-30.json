@@ -262,5 +262,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-47735"
     }
+  },
+  {
+    "runNumber": "47734",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-30T02:19:45.519061-04:00",
+    "address": "300 Quinton Court",
+    "extra": {
+      "incidentNumber": "47734",
+      "run_id": "47734",
+      "address": "300 Quinton Court",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47734"
+    }
   }
 ]
