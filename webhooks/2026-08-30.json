@@ -3342,5 +3342,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47876"
     }
+  },
+  {
+    "runNumber": "47875",
+    "rawCode": "MED",
+    "timestamp": "2026-08-30T19:50:12.683327-04:00",
+    "address": "300 Block Robertson Street",
+    "extra": {
+      "incidentNumber": "47875",
+      "run_id": "47875",
+      "address": "300 Block Robertson Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC7,RS1",
+      "units": "EC7,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47875"
+    }
   }
 ]
