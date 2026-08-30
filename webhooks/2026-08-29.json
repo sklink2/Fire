@@ -4442,5 +4442,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47706"
     }
+  },
+  {
+    "runNumber": "47705",
+    "rawCode": "MED",
+    "timestamp": "2026-08-29T22:11:46.027126-04:00",
+    "address": "300 Block Newtown Pike",
+    "extra": {
+      "incidentNumber": "47705",
+      "run_id": "47705",
+      "address": "300 Block Newtown Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47705"
+    }
   }
 ]
