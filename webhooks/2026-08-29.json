@@ -4090,5 +4090,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47689"
     }
+  },
+  {
+    "runNumber": "47688",
+    "rawCode": "FSMO",
+    "timestamp": "2026-08-29T20:59:40.517287-04:00",
+    "address": "1598 Martha Court",
+    "extra": {
+      "incidentNumber": "47688",
+      "run_id": "47688",
+      "address": "1598 Martha Court",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E08,L05,201",
+      "units": "E02,E08,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-47688"
+    }
   }
 ]
