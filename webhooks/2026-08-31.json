@@ -4090,5 +4090,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48091"
     }
+  },
+  {
+    "runNumber": "48093",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-31T19:57:23.704381-04:00",
+    "address": "6411 Polo Club Lane",
+    "extra": {
+      "incidentNumber": "48093",
+      "run_id": "48093",
+      "address": "6411 Polo Club Lane",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,E21,201",
+      "units": "E17,E21,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-48093"
+    }
   }
 ]
