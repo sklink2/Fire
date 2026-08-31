@@ -2638,5 +2638,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48027"
     }
+  },
+  {
+    "runNumber": "48026",
+    "rawCode": "MED",
+    "timestamp": "2026-08-31T14:14:51.742381-04:00",
+    "address": "400 Block White Oak Trce",
+    "extra": {
+      "incidentNumber": "48026",
+      "run_id": "48026",
+      "address": "400 Block White Oak Trce",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48026"
+    }
   }
 ]
