@@ -1758,5 +1758,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47984"
     }
+  },
+  {
+    "runNumber": "47983",
+    "rawCode": "MED",
+    "timestamp": "2026-08-31T11:55:03.724042-04:00",
+    "address": "700 Block Kingston Road",
+    "extra": {
+      "incidentNumber": "47983",
+      "run_id": "47983",
+      "address": "700 Block Kingston Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E19,EC10",
+      "units": "E19,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47983"
+    }
   }
 ]
