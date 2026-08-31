@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48040"
     }
+  },
+  {
+    "runNumber": "48043",
+    "rawCode": "MED",
+    "timestamp": "2026-08-31T15:40:25.103142-04:00",
+    "address": "400 Block Hilltop Avenue",
+    "extra": {
+      "incidentNumber": "48043",
+      "run_id": "48043",
+      "address": "400 Block Hilltop Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC12",
+      "units": "E05,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48043"
+    }
   }
 ]
