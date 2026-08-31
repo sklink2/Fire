@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47932"
     }
+  },
+  {
+    "runNumber": "47933",
+    "rawCode": "MED",
+    "timestamp": "2026-08-31T07:42:31.703870-04:00",
+    "address": "1400 Block Huntsville Drive",
+    "extra": {
+      "incidentNumber": "47933",
+      "run_id": "47933",
+      "address": "1400 Block Huntsville Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC8,CRT1",
+      "units": "E02,EC8,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47933"
+    }
   }
 ]
