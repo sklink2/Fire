@@ -526,5 +526,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47926"
     }
+  },
+  {
+    "runNumber": "47928",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-08-31T07:01:58.259572-04:00",
+    "address": "2117 Walsh Court",
+    "extra": {
+      "incidentNumber": "47928",
+      "run_id": "47928",
+      "address": "2117 Walsh Court",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02",
+      "units": "E02",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47928"
+    }
   }
 ]
