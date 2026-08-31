@@ -2616,5 +2616,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48028"
     }
+  },
+  {
+    "runNumber": "48027",
+    "rawCode": "MED",
+    "timestamp": "2026-08-31T14:14:47.761816-04:00",
+    "address": "300 Block Patchen Drive",
+    "extra": {
+      "incidentNumber": "48027",
+      "run_id": "48027",
+      "address": "300 Block Patchen Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC21",
+      "units": "E09,EC21",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48027"
+    }
   }
 ]
