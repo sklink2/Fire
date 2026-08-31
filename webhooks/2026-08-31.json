@@ -1142,5 +1142,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47956"
     }
+  },
+  {
+    "runNumber": "47957",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-31T10:15:50.604933-04:00",
+    "address": "3850 Fountainblue Lane",
+    "extra": {
+      "incidentNumber": "47957",
+      "run_id": "47957",
+      "address": "3850 Fountainblue Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,E15,L04,203",
+      "units": "E12,E15,L04,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-47957"
+    }
   }
 ]
