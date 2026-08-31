@@ -3430,5 +3430,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48060"
     }
+  },
+  {
+    "runNumber": "48063",
+    "rawCode": "MED",
+    "timestamp": "2026-08-31T17:15:05.151990-04:00",
+    "address": "2700 Block Jacquelyn Lane",
+    "extra": {
+      "incidentNumber": "48063",
+      "run_id": "48063",
+      "address": "2700 Block Jacquelyn Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC5",
+      "units": "E24,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48063"
+    }
   }
 ]
