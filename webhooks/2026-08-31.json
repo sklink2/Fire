@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48009"
     }
+  },
+  {
+    "runNumber": "48011",
+    "rawCode": "MED",
+    "timestamp": "2026-08-31T13:38:41.176926-04:00",
+    "address": "900 Block Seneca Park",
+    "extra": {
+      "incidentNumber": "48011",
+      "run_id": "48011",
+      "address": "900 Block Seneca Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L07,EC12",
+      "units": "L07,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48011"
+    }
   }
 ]
