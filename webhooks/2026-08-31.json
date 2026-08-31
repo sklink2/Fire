@@ -2924,5 +2924,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48038"
     }
+  },
+  {
+    "runNumber": "48039",
+    "rawCode": "MED",
+    "timestamp": "2026-08-31T15:22:22.914386-04:00",
+    "address": "1000 Block Holly Way",
+    "extra": {
+      "incidentNumber": "48039",
+      "run_id": "48039",
+      "address": "1000 Block Holly Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48039"
+    }
   }
 ]
