@@ -108,5 +108,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47907"
     }
+  },
+  {
+    "runNumber": "47908",
+    "rawCode": "FSMO",
+    "timestamp": "2026-08-31T00:56:47.371305-04:00",
+    "address": "361 Huguelet Drive",
+    "extra": {
+      "incidentNumber": "47908",
+      "run_id": "47908",
+      "address": "361 Huguelet Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,L02,204",
+      "units": "E05,E06,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-47908"
+    }
   }
 ]
