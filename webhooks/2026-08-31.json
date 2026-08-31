@@ -3342,5 +3342,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48057"
     }
+  },
+  {
+    "runNumber": "48058",
+    "rawCode": "FMIS",
+    "timestamp": "2026-08-31T16:48:04.756563-04:00",
+    "address": "611 Dreamland Drive",
+    "extra": {
+      "incidentNumber": "48058",
+      "run_id": "48058",
+      "address": "611 Dreamland Drive",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,201",
+      "units": "E08,201",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-48058"
+    }
   }
 ]
