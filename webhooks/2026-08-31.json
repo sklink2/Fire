@@ -4046,5 +4046,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48089"
     }
+  },
+  {
+    "runNumber": "48090",
+    "rawCode": "MED",
+    "timestamp": "2026-08-31T19:43:52.675451-04:00",
+    "address": "100 Block Marketplace Drive",
+    "extra": {
+      "incidentNumber": "48090",
+      "run_id": "48090",
+      "address": "100 Block Marketplace Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48090"
+    }
   }
 ]
