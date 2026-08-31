@@ -3584,5 +3584,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-48070"
     }
+  },
+  {
+    "runNumber": "48069",
+    "rawCode": "FVEA",
+    "timestamp": "2026-08-31T17:51:15.941966-04:00",
+    "address": "Francis Avenue & Burley Avenue",
+    "extra": {
+      "incidentNumber": "48069",
+      "run_id": "48069",
+      "address": "Francis Avenue & Burley Avenue",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,EC7",
+      "units": "E11,EC7",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48069"
+    }
   }
 ]
