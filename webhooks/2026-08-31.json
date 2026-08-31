@@ -1032,5 +1032,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47948"
     }
+  },
+  {
+    "runNumber": "47950",
+    "rawCode": "FSCU",
+    "timestamp": "2026-08-31T09:26:12.894930-04:00",
+    "address": "1951 Stanton Way",
+    "extra": {
+      "incidentNumber": "47950",
+      "run_id": "47950",
+      "address": "1951 Stanton Way",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,E24",
+      "units": "E10,E24",
+      "unitCount": "2",
+      "primaryTopic": "FSCU",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47950"
+    }
   }
 ]
