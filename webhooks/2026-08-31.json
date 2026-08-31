@@ -3936,5 +3936,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-48084"
     }
+  },
+  {
+    "runNumber": "48085",
+    "rawCode": "FLOI",
+    "timestamp": "2026-08-31T18:54:16.997828-04:00",
+    "address": "824 Bennett Avenue",
+    "extra": {
+      "incidentNumber": "48085",
+      "run_id": "48085",
+      "address": "824 Bennett Avenue",
+      "rawType": "FLOI",
+      "typeCode": "FLOI",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L03",
+      "units": "L03",
+      "unitCount": "1",
+      "primaryTopic": "FLOI",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48085"
+    }
   }
 ]
