@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47991"
     }
+  },
+  {
+    "runNumber": "47995",
+    "rawCode": "FSMO",
+    "timestamp": "2026-08-31T12:31:04.330637-04:00",
+    "address": "952 Gerardi Road",
+    "extra": {
+      "incidentNumber": "47995",
+      "run_id": "47995",
+      "address": "952 Gerardi Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E21,L06,205",
+      "units": "E02,E21,L06,205",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-47995"
+    }
   }
 ]
