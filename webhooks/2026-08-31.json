@@ -3980,5 +3980,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48087"
     }
+  },
+  {
+    "runNumber": "48086",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-31T19:16:52.691059-04:00",
+    "address": "Leestown Road & Lisle Industrial",
+    "extra": {
+      "incidentNumber": "48086",
+      "run_id": "48086",
+      "address": "Leestown Road & Lisle Industrial",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13",
+      "units": "E13",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48086"
+    }
   }
 ]
