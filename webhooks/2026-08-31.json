@@ -2066,5 +2066,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47998"
     }
+  },
+  {
+    "runNumber": "48000",
+    "rawCode": "MED",
+    "timestamp": "2026-08-31T12:58:06.585024-04:00",
+    "address": "2300 Block Allen Drive",
+    "extra": {
+      "incidentNumber": "48000",
+      "run_id": "48000",
+      "address": "2300 Block Allen Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48000"
+    }
   }
 ]
