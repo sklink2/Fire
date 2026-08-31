@@ -2242,5 +2242,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48007"
     }
+  },
+  {
+    "runNumber": "48006",
+    "rawCode": "MED",
+    "timestamp": "2026-08-31T13:20:41.076416-04:00",
+    "address": "75 Sb / 113.0 Mm (Paris Pike",
+    "extra": {
+      "incidentNumber": "48006",
+      "run_id": "48006",
+      "address": "75 Sb / 113.0 Mm (Paris Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E08",
+      "units": "E01,E08",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48006"
+    }
   }
 ]
