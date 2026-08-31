@@ -724,5 +724,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-47934"
     }
+  },
+  {
+    "runNumber": "47937",
+    "rawCode": "MED",
+    "timestamp": "2026-08-31T08:18:36.154399-04:00",
+    "address": "2500 Block Pascoli Place",
+    "extra": {
+      "incidentNumber": "47937",
+      "run_id": "47937",
+      "address": "2500 Block Pascoli Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L05,EC8",
+      "units": "L05,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47937"
+    }
   }
 ]
