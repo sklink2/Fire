@@ -1494,5 +1494,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47971"
     }
+  },
+  {
+    "runNumber": "47974",
+    "rawCode": "FELS",
+    "timestamp": "2026-08-31T11:27:57.039182-04:00",
+    "address": "362 N Martin Luther King Boulevard",
+    "extra": {
+      "incidentNumber": "47974",
+      "run_id": "47974",
+      "address": "362 N Martin Luther King Boulevard",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01,L02,202,RS1",
+      "units": "L01,L02,202,RS1",
+      "unitCount": "4",
+      "primaryTopic": "FELS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-47974"
+    }
   }
 ]
