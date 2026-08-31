@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47923"
     }
+  },
+  {
+    "runNumber": "47925",
+    "rawCode": "FINV",
+    "timestamp": "2026-08-31T05:54:21.735633-04:00",
+    "address": "2020 Street Teresa Drive",
+    "extra": {
+      "incidentNumber": "47925",
+      "run_id": "47925",
+      "address": "2020 Street Teresa Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09",
+      "units": "E09",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47925"
+    }
   }
 ]
