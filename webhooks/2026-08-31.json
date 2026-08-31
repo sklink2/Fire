@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47947"
     }
+  },
+  {
+    "runNumber": "47946",
+    "rawCode": "FPRT",
+    "timestamp": "2026-08-31T09:08:14.034949-04:00",
+    "address": "1325 Baker Court",
+    "extra": {
+      "incidentNumber": "47946",
+      "run_id": "47946",
+      "address": "1325 Baker Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E10,L03,203",
+      "units": "E08,E10,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-47946"
+    }
   }
 ]
