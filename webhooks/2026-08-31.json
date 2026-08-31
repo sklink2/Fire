@@ -3892,5 +3892,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48081"
     }
+  },
+  {
+    "runNumber": "48082",
+    "rawCode": "FSTR",
+    "timestamp": "2026-08-31T18:36:24.151309-04:00",
+    "address": "102 Sheila Court",
+    "extra": {
+      "incidentNumber": "48082",
+      "run_id": "48082",
+      "address": "102 Sheila Court",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E04,E05,E08,E19,L01,L02,EC10,203,205,220,241,RS1",
+      "units": "E01,E04,E05,E08,E19,L01,L02,EC10,203,205,220,241,RS1",
+      "unitCount": "13",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,203,205",
+      "dedupeKey": "INCIDENT-48082"
+    }
   }
 ]
