@@ -3320,5 +3320,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48056"
     }
+  },
+  {
+    "runNumber": "48057",
+    "rawCode": "MED",
+    "timestamp": "2026-08-31T16:39:01.250476-04:00",
+    "address": "200 Block E Vine Street",
+    "extra": {
+      "incidentNumber": "48057",
+      "run_id": "48057",
+      "address": "200 Block E Vine Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC3",
+      "units": "E01,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48057"
+    }
   }
 ]
