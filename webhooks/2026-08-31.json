@@ -2000,5 +2000,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47994"
     }
+  },
+  {
+    "runNumber": "47996",
+    "rawCode": "MED",
+    "timestamp": "2026-08-31T12:40:05.695846-04:00",
+    "address": "800 Block Summerville Drive",
+    "extra": {
+      "incidentNumber": "47996",
+      "run_id": "47996",
+      "address": "800 Block Summerville Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47996"
+    }
   }
 ]
