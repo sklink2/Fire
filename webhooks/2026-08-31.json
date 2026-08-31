@@ -2176,5 +2176,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48003"
     }
+  },
+  {
+    "runNumber": "48002",
+    "rawCode": "MED",
+    "timestamp": "2026-08-31T13:11:43.509016-04:00",
+    "address": "500 Block Cricklewood Drive",
+    "extra": {
+      "incidentNumber": "48002",
+      "run_id": "48002",
+      "address": "500 Block Cricklewood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L05,EC8",
+      "units": "L05,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48002"
+    }
   }
 ]
