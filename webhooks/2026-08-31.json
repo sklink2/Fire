@@ -3276,5 +3276,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48055"
     }
+  },
+  {
+    "runNumber": "48054",
+    "rawCode": "FVIS",
+    "timestamp": "2026-08-31T16:25:34.547192-04:00",
+    "address": "W Second Street & Jefferson Street",
+    "extra": {
+      "incidentNumber": "48054",
+      "run_id": "48054",
+      "address": "W Second Street & Jefferson Street",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E13,L01,EC7,203,RS1",
+      "units": "E04,E13,L01,EC7,203,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-48054"
+    }
   }
 ]
