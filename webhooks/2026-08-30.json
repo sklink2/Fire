@@ -3892,5 +3892,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-47901"
     }
+  },
+  {
+    "runNumber": "47900",
+    "rawCode": "MED",
+    "timestamp": "2026-08-30T23:31:09.272176-04:00",
+    "address": "3400 Block Featheridge Drive",
+    "extra": {
+      "incidentNumber": "47900",
+      "run_id": "47900",
+      "address": "3400 Block Featheridge Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-47900"
+    }
   }
 ]
