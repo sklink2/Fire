@@ -4728,5 +4728,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48122"
     }
+  },
+  {
+    "runNumber": "48121",
+    "rawCode": "FDUM",
+    "timestamp": "2026-08-31T22:17:10.950947-04:00",
+    "address": "3345 Valhalla Drive",
+    "extra": {
+      "incidentNumber": "48121",
+      "run_id": "48121",
+      "address": "3345 Valhalla Drive",
+      "rawType": "FDUM",
+      "typeCode": "FDUM",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16",
+      "units": "E16",
+      "unitCount": "1",
+      "primaryTopic": "FDUM",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48121"
+    }
   }
 ]
