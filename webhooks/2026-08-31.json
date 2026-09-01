@@ -4706,5 +4706,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48118"
     }
+  },
+  {
+    "runNumber": "48122",
+    "rawCode": "MED",
+    "timestamp": "2026-08-31T22:17:07.747147-04:00",
+    "address": "800 Block Campbell Lane",
+    "extra": {
+      "incidentNumber": "48122",
+      "run_id": "48122",
+      "address": "800 Block Campbell Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48122"
+    }
   }
 ]
