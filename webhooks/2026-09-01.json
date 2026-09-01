@@ -218,5 +218,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48139"
     }
+  },
+  {
+    "runNumber": "48138",
+    "rawCode": "MED",
+    "timestamp": "2026-09-01T02:34:10.571492-04:00",
+    "address": "3700 Block Arbor Court",
+    "extra": {
+      "incidentNumber": "48138",
+      "run_id": "48138",
+      "address": "3700 Block Arbor Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48138"
+    }
   }
 ]
