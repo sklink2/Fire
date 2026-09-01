@@ -1054,5 +1054,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48151"
     }
+  },
+  {
+    "runNumber": "48212",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-01T13:27:54.302134-04:00",
+    "address": "684 Morgan Hills Drive",
+    "extra": {
+      "incidentNumber": "48212",
+      "run_id": "48212",
+      "address": "684 Morgan Hills Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E09,L06,EC2,205,220",
+      "units": "E02,E09,L06,EC2,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-48212"
+    }
   }
 ]
