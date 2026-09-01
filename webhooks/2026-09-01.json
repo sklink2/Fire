@@ -1296,5 +1296,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-48219"
     }
+  },
+  {
+    "runNumber": "48223",
+    "rawCode": "MED",
+    "timestamp": "2026-09-01T14:12:55.066721-04:00",
+    "address": "2700 Block Burnt Mill Road",
+    "extra": {
+      "incidentNumber": "48223",
+      "run_id": "48223",
+      "address": "2700 Block Burnt Mill Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24",
+      "units": "E24",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48223"
+    }
   }
 ]
