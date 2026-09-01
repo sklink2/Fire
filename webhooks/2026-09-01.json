@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48195"
     }
+  },
+  {
+    "runNumber": "48198",
+    "rawCode": "FMIS",
+    "timestamp": "2026-09-01T12:20:14.108184-04:00",
+    "address": "392 Peachtree Road",
+    "extra": {
+      "incidentNumber": "48198",
+      "run_id": "48198",
+      "address": "392 Peachtree Road",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,202",
+      "units": "E16,202",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-48198"
+    }
   }
 ]
