@@ -812,5 +812,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48197"
     }
+  },
+  {
+    "runNumber": "48200",
+    "rawCode": "MED",
+    "timestamp": "2026-09-01T12:24:44.452657-04:00",
+    "address": "1500 Block Springfield Drive",
+    "extra": {
+      "incidentNumber": "48200",
+      "run_id": "48200",
+      "address": "1500 Block Springfield Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48200"
+    }
   }
 ]
