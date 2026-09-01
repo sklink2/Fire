@@ -438,5 +438,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48157"
     }
+  },
+  {
+    "runNumber": "48158",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-01T10:59:08.285764-04:00",
+    "address": "1310 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "48158",
+      "run_id": "48158",
+      "address": "1310 Nicholasville Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E20,L02,EC12,205,220",
+      "units": "E11,E20,L02,EC12,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-48158"
+    }
   }
 ]
