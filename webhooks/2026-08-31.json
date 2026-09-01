@@ -4574,5 +4574,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-48113"
     }
+  },
+  {
+    "runNumber": "48114",
+    "rawCode": "FVIS",
+    "timestamp": "2026-08-31T21:41:08.050046-04:00",
+    "address": "4232 Steamboat Road",
+    "extra": {
+      "incidentNumber": "48114",
+      "run_id": "48114",
+      "address": "4232 Steamboat Road",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,E20,L04,EC12,204,220,RS1",
+      "units": "E12,E20,L04,EC12,204,220,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVIS",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-48114"
+    }
   }
 ]
