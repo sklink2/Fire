@@ -1604,5 +1604,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48249"
     }
+  },
+  {
+    "runNumber": "48248",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-01T15:02:37.619134-04:00",
+    "address": "3057 N Cleveland Road",
+    "extra": {
+      "incidentNumber": "48248",
+      "run_id": "48248",
+      "address": "3057 N Cleveland Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E17,L05,205",
+      "units": "E02,E17,L05,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-48248"
+    }
   }
 ]
