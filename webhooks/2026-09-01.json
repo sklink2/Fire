@@ -240,5 +240,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48138"
     }
+  },
+  {
+    "runNumber": "48140",
+    "rawCode": "FSMO",
+    "timestamp": "2026-09-01T02:38:38.919927-04:00",
+    "address": "1710 Knoxville Court",
+    "extra": {
+      "incidentNumber": "48140",
+      "run_id": "48140",
+      "address": "1710 Knoxville Court",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E08,L05,201",
+      "units": "E02,E08,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-48140"
+    }
   }
 ]
