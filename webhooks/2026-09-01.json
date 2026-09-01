@@ -2110,5 +2110,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48268"
     }
+  },
+  {
+    "runNumber": "48271",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-01T16:32:45.143296-04:00",
+    "address": "1160 University Drive",
+    "extra": {
+      "incidentNumber": "48271",
+      "run_id": "48271",
+      "address": "1160 University Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,L02,EC10,204,220",
+      "units": "E05,E06,L02,EC10,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-48271"
+    }
   }
 ]
