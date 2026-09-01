@@ -1890,5 +1890,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48261"
     }
+  },
+  {
+    "runNumber": "48260",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-09-01T15:47:42.987815-04:00",
+    "address": "1370 Old Frankfort Pike",
+    "extra": {
+      "incidentNumber": "48260",
+      "run_id": "48260",
+      "address": "1370 Old Frankfort Pike",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L03,204",
+      "units": "L03,204",
+      "unitCount": "2",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-48260"
+    }
   }
 ]
