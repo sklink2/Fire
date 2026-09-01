@@ -2132,5 +2132,27 @@
       "commandUnits": "220,204",
       "dedupeKey": "INCIDENT-48271"
     }
+  },
+  {
+    "runNumber": "48273",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-01T16:41:44.965305-04:00",
+    "address": "1385 Corona Drive",
+    "extra": {
+      "incidentNumber": "48273",
+      "run_id": "48273",
+      "address": "1385 Corona Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,E20,L04,202",
+      "units": "E15,E20,L04,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-48273"
+    }
   }
 ]
