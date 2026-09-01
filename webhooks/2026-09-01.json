@@ -1428,5 +1428,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48227"
     }
+  },
+  {
+    "runNumber": "48228",
+    "rawCode": "FSTR",
+    "timestamp": "2026-09-01T14:31:02.519444-04:00",
+    "address": "3200 Foxchase Court",
+    "extra": {
+      "incidentNumber": "48228",
+      "run_id": "48228",
+      "address": "3200 Foxchase Court",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E12,E16,E21,L02,L06,EC13,EC2,201,202,220,241,RS1",
+      "units": "E09,E12,E16,E21,L02,L06,EC13,EC2,201,202,220,241,RS1",
+      "unitCount": "13",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,202",
+      "dedupeKey": "INCIDENT-48228"
+    }
   }
 ]
