@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48222"
     }
+  },
+  {
+    "runNumber": "48226",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-01T14:17:27.544140-04:00",
+    "address": "4197 Keeneland Boulevard",
+    "extra": {
+      "incidentNumber": "48226",
+      "run_id": "48226",
+      "address": "4197 Keeneland Boulevard",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,E20,L04,202",
+      "units": "E13,E20,L04,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-48226"
+    }
   }
 ]
