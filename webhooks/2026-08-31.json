@@ -4640,5 +4640,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48117"
     }
+  },
+  {
+    "runNumber": "48116",
+    "rawCode": "MED",
+    "timestamp": "2026-08-31T21:54:38.223906-04:00",
+    "address": "900 Block Dayton Avenue",
+    "extra": {
+      "incidentNumber": "48116",
+      "run_id": "48116",
+      "address": "900 Block Dayton Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48116"
+    }
   }
 ]
