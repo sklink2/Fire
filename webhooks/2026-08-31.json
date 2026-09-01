@@ -4310,5 +4310,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48102"
     }
+  },
+  {
+    "runNumber": "48101",
+    "rawCode": "FSIA",
+    "timestamp": "2026-08-31T20:20:04.867522-04:00",
+    "address": "308 Bent Bough Place",
+    "extra": {
+      "incidentNumber": "48101",
+      "run_id": "48101",
+      "address": "308 Bent Bough Place",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E21,202",
+      "units": "E16,E21,202",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-48101"
+    }
   }
 ]
