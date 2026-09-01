@@ -4838,5 +4838,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48125"
     }
+  },
+  {
+    "runNumber": "48126",
+    "rawCode": "MED",
+    "timestamp": "2026-08-31T22:48:41.861865-04:00",
+    "address": "1300 Block Canonero Drive",
+    "extra": {
+      "incidentNumber": "48126",
+      "run_id": "48126",
+      "address": "1300 Block Canonero Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48126"
+    }
   }
 ]
