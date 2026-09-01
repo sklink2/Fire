@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48159"
     }
+  },
+  {
+    "runNumber": "48161",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-01T11:26:07.883712-04:00",
+    "address": "Georgetown Road & W New Circle R",
+    "extra": {
+      "incidentNumber": "48161",
+      "run_id": "48161",
+      "address": "Georgetown Road & W New Circle R",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L03,EC1,241",
+      "units": "L03,EC1,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-48161"
+    }
   }
 ]
