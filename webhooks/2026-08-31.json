@@ -4222,5 +4222,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-48097"
     }
+  },
+  {
+    "runNumber": "48096",
+    "rawCode": "MED",
+    "timestamp": "2026-08-31T20:11:02.513043-04:00",
+    "address": "1800 Block Meeting Street",
+    "extra": {
+      "incidentNumber": "48096",
+      "run_id": "48096",
+      "address": "1800 Block Meeting Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48096"
+    }
   }
 ]
