@@ -2264,5 +2264,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48277"
     }
+  },
+  {
+    "runNumber": "48279",
+    "rawCode": "FCAR",
+    "timestamp": "2026-09-01T17:26:50.643175-04:00",
+    "address": "445 Hart Road",
+    "extra": {
+      "incidentNumber": "48279",
+      "run_id": "48279",
+      "address": "445 Hart Road",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L02",
+      "units": "L02",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48279"
+    }
   }
 ]
