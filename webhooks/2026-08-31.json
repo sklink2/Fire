@@ -4772,5 +4772,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-48120"
     }
+  },
+  {
+    "runNumber": "48123",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-08-31T22:21:38.390025-04:00",
+    "address": "144 Lincoln Avenue",
+    "extra": {
+      "incidentNumber": "48123",
+      "run_id": "48123",
+      "address": "144 Lincoln Avenue",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01",
+      "units": "L01",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48123"
+    }
   }
 ]
