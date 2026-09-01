@@ -1406,5 +1406,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48224"
     }
+  },
+  {
+    "runNumber": "48227",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-01T14:26:28.790597-04:00",
+    "address": "122 N Broadway",
+    "extra": {
+      "incidentNumber": "48227",
+      "run_id": "48227",
+      "address": "122 N Broadway",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,EC3,RS1",
+      "units": "E04,EC3,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48227"
+    }
   }
 ]
