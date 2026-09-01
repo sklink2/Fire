@@ -636,5 +636,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48165"
     }
+  },
+  {
+    "runNumber": "48168",
+    "rawCode": "FCAR",
+    "timestamp": "2026-09-01T11:53:10.273920-04:00",
+    "address": "3429 Chestnut Hill Lane",
+    "extra": {
+      "incidentNumber": "48168",
+      "run_id": "48168",
+      "address": "3429 Chestnut Hill Lane",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L06",
+      "units": "L06",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48168"
+    }
   }
 ]
