@@ -3122,5 +3122,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48485"
     }
+  },
+  {
+    "runNumber": "48486",
+    "rawCode": "FELS",
+    "timestamp": "2026-09-02T15:59:24.617532-04:00",
+    "address": "111 Avenue Of Champions",
+    "extra": {
+      "incidentNumber": "48486",
+      "run_id": "48486",
+      "address": "111 Avenue Of Champions",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L02,205,RS1",
+      "units": "L02,205,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-48486"
+    }
   }
 ]
