@@ -570,5 +570,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48368"
     }
+  },
+  {
+    "runNumber": "48369",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-02T05:55:13.915811-04:00",
+    "address": "2390 Palumbo Drive",
+    "extra": {
+      "incidentNumber": "48369",
+      "run_id": "48369",
+      "address": "2390 Palumbo Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48369"
+    }
   }
 ]
