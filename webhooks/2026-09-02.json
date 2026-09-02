@@ -1538,5 +1538,27 @@
       "commandUnits": "201,202",
       "dedupeKey": "INCIDENT-48412"
     }
+  },
+  {
+    "runNumber": "48414",
+    "rawCode": "MED",
+    "timestamp": "2026-09-02T10:03:12.253219-04:00",
+    "address": "1800 Block Mccullough Drive",
+    "extra": {
+      "incidentNumber": "48414",
+      "run_id": "48414",
+      "address": "1800 Block Mccullough Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "251",
+      "units": "251",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48414"
+    }
   }
 ]
