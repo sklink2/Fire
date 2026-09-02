@@ -1406,5 +1406,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48406"
     }
+  },
+  {
+    "runNumber": "48407",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-02T09:13:37.370414-04:00",
+    "address": "208 S Limestone",
+    "extra": {
+      "incidentNumber": "48407",
+      "run_id": "48407",
+      "address": "208 S Limestone",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E06,L01,205",
+      "units": "E01,E06,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-48407"
+    }
   }
 ]
