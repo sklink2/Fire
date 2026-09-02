@@ -2858,5 +2858,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48471"
     }
+  },
+  {
+    "runNumber": "48474",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-02T14:51:47.089437-04:00",
+    "address": "149 Northwood Drive",
+    "extra": {
+      "incidentNumber": "48474",
+      "run_id": "48474",
+      "address": "149 Northwood Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E04,L03,201",
+      "units": "E01,E04,L03,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-48474"
+    }
   }
 ]
