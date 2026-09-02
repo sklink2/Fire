@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48461"
     }
+  },
+  {
+    "runNumber": "48460",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-02T14:15:45.553774-04:00",
+    "address": "Vendor Way & Sir Barton Way",
+    "extra": {
+      "incidentNumber": "48460",
+      "run_id": "48460",
+      "address": "Vendor Way & Sir Barton Way",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48460"
+    }
   }
 ]
