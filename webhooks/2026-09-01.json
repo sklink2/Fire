@@ -3188,5 +3188,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48321"
     }
+  },
+  {
+    "runNumber": "48320",
+    "rawCode": "FSIA",
+    "timestamp": "2026-09-01T21:16:49.819129-04:00",
+    "address": "410 Georgetown Street",
+    "extra": {
+      "incidentNumber": "48320",
+      "run_id": "48320",
+      "address": "410 Georgetown Street",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E10,205",
+      "units": "E04,E10,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-48320"
+    }
   }
 ]
