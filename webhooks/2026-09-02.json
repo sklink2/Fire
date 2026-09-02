@@ -3012,5 +3012,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48480"
     }
+  },
+  {
+    "runNumber": "48482",
+    "rawCode": "FELF",
+    "timestamp": "2026-09-02T15:45:53.345038-04:00",
+    "address": "1591 Winchester Road",
+    "extra": {
+      "incidentNumber": "48482",
+      "run_id": "48482",
+      "address": "1591 Winchester Road",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E09,L05,201",
+      "units": "E05,E09,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-48482"
+    }
   }
 ]
