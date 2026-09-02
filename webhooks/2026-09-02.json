@@ -4178,5 +4178,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48536"
     }
+  },
+  {
+    "runNumber": "48535",
+    "rawCode": "MED",
+    "timestamp": "2026-09-02T19:22:18.816238-04:00",
+    "address": "900 Block Detroit Avenue",
+    "extra": {
+      "incidentNumber": "48535",
+      "run_id": "48535",
+      "address": "900 Block Detroit Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48535"
+    }
   }
 ]
