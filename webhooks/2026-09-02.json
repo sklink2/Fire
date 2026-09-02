@@ -1164,5 +1164,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48394"
     }
+  },
+  {
+    "runNumber": "48393",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-02T08:28:39.908766-04:00",
+    "address": "821 Chevy Chase Place",
+    "extra": {
+      "incidentNumber": "48393",
+      "run_id": "48393",
+      "address": "821 Chevy Chase Place",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,L02,202",
+      "units": "E05,E06,L02,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-48393"
+    }
   }
 ]
