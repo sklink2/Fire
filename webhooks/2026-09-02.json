@@ -1186,5 +1186,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-48393"
     }
+  },
+  {
+    "runNumber": "48392",
+    "rawCode": "MED",
+    "timestamp": "2026-09-02T08:28:43.888895-04:00",
+    "address": "900 Block Darda Court",
+    "extra": {
+      "incidentNumber": "48392",
+      "run_id": "48392",
+      "address": "900 Block Darda Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC13",
+      "units": "E22,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48392"
+    }
   }
 ]
