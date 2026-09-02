@@ -3034,5 +3034,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-48482"
     }
+  },
+  {
+    "runNumber": "48481",
+    "rawCode": "FWID",
+    "timestamp": "2026-09-02T15:45:57.977654-04:00",
+    "address": "1000 Floyd Drive",
+    "extra": {
+      "incidentNumber": "48481",
+      "run_id": "48481",
+      "address": "1000 Floyd Drive",
+      "rawType": "FWID",
+      "typeCode": "FWID",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02",
+      "units": "E02",
+      "unitCount": "1",
+      "primaryTopic": "FWID",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48481"
+    }
   }
 ]
