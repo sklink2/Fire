@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48458"
     }
+  },
+  {
+    "runNumber": "48461",
+    "rawCode": "MED",
+    "timestamp": "2026-09-02T14:15:41.845237-04:00",
+    "address": "1600 Block Thames Drive",
+    "extra": {
+      "incidentNumber": "48461",
+      "run_id": "48461",
+      "address": "1600 Block Thames Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48461"
+    }
   }
 ]
