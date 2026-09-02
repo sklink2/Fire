@@ -3320,5 +3320,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-48495"
     }
+  },
+  {
+    "runNumber": "48494",
+    "rawCode": "MED",
+    "timestamp": "2026-09-02T16:40:03.575259-04:00",
+    "address": "2200 Block Devonport Drive",
+    "extra": {
+      "incidentNumber": "48494",
+      "run_id": "48494",
+      "address": "2200 Block Devonport Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14",
+      "units": "E14",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48494"
+    }
   }
 ]
