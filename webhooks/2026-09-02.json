@@ -1054,5 +1054,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48390"
     }
+  },
+  {
+    "runNumber": "48389",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-02T08:06:04.113461-04:00",
+    "address": "836 Euclid Avenue",
+    "extra": {
+      "incidentNumber": "48389",
+      "run_id": "48389",
+      "address": "836 Euclid Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,E07,L02,205",
+      "units": "E05,E06,E07,L02,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-48389"
+    }
   }
 ]
