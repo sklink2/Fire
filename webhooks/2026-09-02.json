@@ -3826,5 +3826,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48517"
     }
+  },
+  {
+    "runNumber": "48516",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-02T18:19:19.318359-04:00",
+    "address": "1575 Winchester Road",
+    "extra": {
+      "incidentNumber": "48516",
+      "run_id": "48516",
+      "address": "1575 Winchester Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,201",
+      "units": "E08,201",
+      "unitCount": "2",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-48516"
+    }
   }
 ]
