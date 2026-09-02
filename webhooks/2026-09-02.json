@@ -1296,5 +1296,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48400"
     }
+  },
+  {
+    "runNumber": "48401",
+    "rawCode": "MED",
+    "timestamp": "2026-09-02T08:55:34.557839-04:00",
+    "address": "3000 Block Many Oaks Park",
+    "extra": {
+      "incidentNumber": "48401",
+      "run_id": "48401",
+      "address": "3000 Block Many Oaks Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17,EC11",
+      "units": "E17,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48401"
+    }
   }
 ]
