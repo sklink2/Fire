@@ -2572,5 +2572,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48460"
     }
+  },
+  {
+    "runNumber": "48459",
+    "rawCode": "MED",
+    "timestamp": "2026-09-02T14:15:49.511989-04:00",
+    "address": "200 Block N Martin Luther King Boulevard",
+    "extra": {
+      "incidentNumber": "48459",
+      "run_id": "48459",
+      "address": "200 Block N Martin Luther King Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48459"
+    }
   }
 ]
