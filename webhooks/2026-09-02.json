@@ -4200,5 +4200,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48535"
     }
+  },
+  {
+    "runNumber": "48534",
+    "rawCode": "FVEH",
+    "timestamp": "2026-09-02T19:22:21.549920-04:00",
+    "address": "2373 Dogwood Trace Boulevard",
+    "extra": {
+      "incidentNumber": "48534",
+      "run_id": "48534",
+      "address": "2373 Dogwood Trace Boulevard",
+      "rawType": "FVEH",
+      "typeCode": "FVEH",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11",
+      "units": "E11",
+      "unitCount": "1",
+      "primaryTopic": "FVEH",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48534"
+    }
   }
 ]
