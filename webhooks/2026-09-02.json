@@ -1252,5 +1252,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48399"
     }
+  },
+  {
+    "runNumber": "48398",
+    "rawCode": "MED",
+    "timestamp": "2026-09-02T08:46:37.052587-04:00",
+    "address": "1100 Block Winburn Drive",
+    "extra": {
+      "incidentNumber": "48398",
+      "run_id": "48398",
+      "address": "1100 Block Winburn Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E19,EC3",
+      "units": "E19,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48398"
+    }
   }
 ]
