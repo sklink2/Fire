@@ -3518,5 +3518,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48335"
     }
+  },
+  {
+    "runNumber": "48338",
+    "rawCode": "MED",
+    "timestamp": "2026-09-01T23:18:27.985010-04:00",
+    "address": "2200 Block Circle Drive",
+    "extra": {
+      "incidentNumber": "48338",
+      "run_id": "48338",
+      "address": "2200 Block Circle Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48338"
+    }
   }
 ]
