@@ -218,5 +218,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48352"
     }
+  },
+  {
+    "runNumber": "48353",
+    "rawCode": "MED",
+    "timestamp": "2026-09-02T01:24:45.503475-04:00",
+    "address": "300 Block Turfway Drive",
+    "extra": {
+      "incidentNumber": "48353",
+      "run_id": "48353",
+      "address": "300 Block Turfway Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC8,241",
+      "units": "E08,EC8,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-48353"
+    }
   }
 ]
