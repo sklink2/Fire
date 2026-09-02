@@ -3386,5 +3386,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48330"
     }
+  },
+  {
+    "runNumber": "48329",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-01T22:24:25.790411-04:00",
+    "address": "775 Longwood Road",
+    "extra": {
+      "incidentNumber": "48329",
+      "run_id": "48329",
+      "address": "775 Longwood Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L04",
+      "units": "L04",
+      "unitCount": "1",
+      "primaryTopic": "FPRT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48329"
+    }
   }
 ]
