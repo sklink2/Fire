@@ -3606,5 +3606,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48506"
     }
+  },
+  {
+    "runNumber": "48509",
+    "rawCode": "FSTR",
+    "timestamp": "2026-09-02T17:38:37.222972-04:00",
+    "address": "1017 Fiddler Creek Way",
+    "extra": {
+      "incidentNumber": "48509",
+      "run_id": "48509",
+      "address": "1017 Fiddler Creek Way",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E16,E20,E22,L02,L07,EC13,201,204,220,241,RS1",
+      "units": "E09,E16,E20,E22,L02,L07,EC13,201,204,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,204",
+      "dedupeKey": "INCIDENT-48509"
+    }
   }
 ]
