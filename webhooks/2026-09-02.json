@@ -284,5 +284,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48356"
     }
+  },
+  {
+    "runNumber": "48355",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-02T02:18:53.732297-04:00",
+    "address": "436 Lindberg Drive",
+    "extra": {
+      "incidentNumber": "48355",
+      "run_id": "48355",
+      "address": "436 Lindberg Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E10,L03,203",
+      "units": "E04,E10,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-48355"
+    }
   }
 ]
