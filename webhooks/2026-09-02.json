@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48425"
     }
+  },
+  {
+    "runNumber": "48426",
+    "rawCode": "MED",
+    "timestamp": "2026-09-02T11:33:21.745597-04:00",
+    "address": "2400 Block Plumtree Court",
+    "extra": {
+      "incidentNumber": "48426",
+      "run_id": "48426",
+      "address": "2400 Block Plumtree Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,EC11",
+      "units": "E07,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48426"
+    }
   }
 ]
