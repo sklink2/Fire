@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48427"
     }
+  },
+  {
+    "runNumber": "48428",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-02T12:00:27.112133-04:00",
+    "address": "976 Nandino Boulevard",
+    "extra": {
+      "incidentNumber": "48428",
+      "run_id": "48428",
+      "address": "976 Nandino Boulevard",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E10,L01,201",
+      "units": "E04,E10,L01,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-48428"
+    }
   }
 ]
