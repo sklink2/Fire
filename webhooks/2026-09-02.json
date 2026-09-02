@@ -1560,5 +1560,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48414"
     }
+  },
+  {
+    "runNumber": "48413",
+    "rawCode": "MED",
+    "timestamp": "2026-09-02T10:03:15.408924-04:00",
+    "address": "3200 Block Old Frankfort Pike",
+    "extra": {
+      "incidentNumber": "48413",
+      "run_id": "48413",
+      "address": "3200 Block Old Frankfort Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,EC3",
+      "units": "E24,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48413"
+    }
   }
 ]
