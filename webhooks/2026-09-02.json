@@ -2308,5 +2308,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48446"
     }
+  },
+  {
+    "runNumber": "48450",
+    "rawCode": "MED",
+    "timestamp": "2026-09-02T13:17:04.898711-04:00",
+    "address": "100 Block E Vine Street",
+    "extra": {
+      "incidentNumber": "48450",
+      "run_id": "48450",
+      "address": "100 Block E Vine Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC6,RS1",
+      "units": "EC6,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48450"
+    }
   }
 ]
