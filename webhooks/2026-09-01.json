@@ -3012,5 +3012,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48311"
     }
+  },
+  {
+    "runNumber": "48313",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-01T20:27:12.430730-04:00",
+    "address": "325 Columbia Terrace",
+    "extra": {
+      "incidentNumber": "48313",
+      "run_id": "48313",
+      "address": "325 Columbia Terrace",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,L02,EC1,205,220",
+      "units": "E05,E06,L02,EC1,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-48313"
+    }
   }
 ]
