@@ -878,5 +878,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48381"
     }
+  },
+  {
+    "runNumber": "48382",
+    "rawCode": "MED",
+    "timestamp": "2026-09-02T06:58:20.464480-04:00",
+    "address": "300 Block Huguelet Drive",
+    "extra": {
+      "incidentNumber": "48382",
+      "run_id": "48382",
+      "address": "300 Block Huguelet Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48382"
+    }
   }
 ]
