@@ -4288,5 +4288,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48539"
     }
+  },
+  {
+    "runNumber": "48540",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-02T19:49:19.616612-04:00",
+    "address": "1030 S Broadway",
+    "extra": {
+      "incidentNumber": "48540",
+      "run_id": "48540",
+      "address": "1030 S Broadway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E12,L02,204",
+      "units": "E06,E12,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-48540"
+    }
   }
 ]
