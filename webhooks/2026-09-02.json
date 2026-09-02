@@ -328,5 +328,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48358"
     }
+  },
+  {
+    "runNumber": "48357",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-02T02:32:23.185760-04:00",
+    "address": "132 Fairlawn Avenue",
+    "extra": {
+      "incidentNumber": "48357",
+      "run_id": "48357",
+      "address": "132 Fairlawn Avenue",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48357"
+    }
   }
 ]
