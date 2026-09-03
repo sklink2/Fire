@@ -4574,5 +4574,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48555"
     }
+  },
+  {
+    "runNumber": "48554",
+    "rawCode": "FSIA",
+    "timestamp": "2026-09-02T21:06:00.679776-04:00",
+    "address": "3184 Trinity Road",
+    "extra": {
+      "incidentNumber": "48554",
+      "run_id": "48554",
+      "address": "3184 Trinity Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,E20,204",
+      "units": "E15,E20,204",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-48554"
+    }
   }
 ]
