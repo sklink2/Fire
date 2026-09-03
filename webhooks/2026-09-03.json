@@ -4266,5 +4266,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48780"
     }
+  },
+  {
+    "runNumber": "48785",
+    "rawCode": "MED",
+    "timestamp": "2026-09-03T17:59:18.568146-04:00",
+    "address": "300 Block White Oak Trce",
+    "extra": {
+      "incidentNumber": "48785",
+      "run_id": "48785",
+      "address": "300 Block White Oak Trce",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48785"
+    }
   }
 ]
