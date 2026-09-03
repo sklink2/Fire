@@ -1032,5 +1032,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48631"
     }
+  },
+  {
+    "runNumber": "48630",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-03T08:08:47.160612-04:00",
+    "address": "901 Journal Avenue",
+    "extra": {
+      "incidentNumber": "48630",
+      "run_id": "48630",
+      "address": "901 Journal Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E11,L02,204",
+      "units": "E06,E11,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-48630"
+    }
   }
 ]
