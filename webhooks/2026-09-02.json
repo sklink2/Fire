@@ -4640,5 +4640,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-48557"
     }
+  },
+  {
+    "runNumber": "48560",
+    "rawCode": "MED",
+    "timestamp": "2026-09-02T21:42:00.579088-04:00",
+    "address": "700 Block Charles Avenue",
+    "extra": {
+      "incidentNumber": "48560",
+      "run_id": "48560",
+      "address": "700 Block Charles Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48560"
+    }
   }
 ]
