@@ -4860,5 +4860,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48568"
     }
+  },
+  {
+    "runNumber": "48569",
+    "rawCode": "FSMO",
+    "timestamp": "2026-09-02T22:18:04.632713-04:00",
+    "address": "1550 Trent Boulevard",
+    "extra": {
+      "incidentNumber": "48569",
+      "run_id": "48569",
+      "address": "1550 Trent Boulevard",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,E22,L07,202",
+      "units": "E16,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-48569"
+    }
   }
 ]
