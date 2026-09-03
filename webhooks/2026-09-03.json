@@ -2220,5 +2220,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48684"
     }
+  },
+  {
+    "runNumber": "48683",
+    "rawCode": "MED",
+    "timestamp": "2026-09-03T11:58:40.933040-04:00",
+    "address": "1800 Block Timber Creek Drive",
+    "extra": {
+      "incidentNumber": "48683",
+      "run_id": "48683",
+      "address": "1800 Block Timber Creek Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E18,E21,L06,EC8",
+      "units": "E18,E21,L06,EC8",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48683"
+    }
   }
 ]
