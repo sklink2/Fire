@@ -3100,5 +3100,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48724"
     }
+  },
+  {
+    "runNumber": "48726",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-03T14:31:56.245134-04:00",
+    "address": "Harrodsburg Road & Burbank Drive",
+    "extra": {
+      "incidentNumber": "48726",
+      "run_id": "48726",
+      "address": "Harrodsburg Road & Burbank Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,EC12,220",
+      "units": "E20,EC12,220",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-48726"
+    }
   }
 ]
