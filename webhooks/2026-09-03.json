@@ -394,5 +394,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48601"
     }
+  },
+  {
+    "runNumber": "48602",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-03T02:30:32.696634-04:00",
+    "address": "362 E Main Street",
+    "extra": {
+      "incidentNumber": "48602",
+      "run_id": "48602",
+      "address": "362 E Main Street",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05",
+      "units": "E05",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48602"
+    }
   }
 ]
