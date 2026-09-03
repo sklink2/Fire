@@ -4904,5 +4904,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48570"
     }
+  },
+  {
+    "runNumber": "48569",
+    "rawCode": "FSTR",
+    "timestamp": "2026-09-02T22:27:09.255895-04:00",
+    "address": "1550 Trent Boulevard",
+    "extra": {
+      "incidentNumber": "48569",
+      "run_id": "48569",
+      "address": "1550 Trent Boulevard",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E12,E16,E22,L06,L07,EC13,EC2,201,202,220,241,RS1",
+      "units": "E09,E12,E16,E22,L06,L07,EC13,EC2,201,202,220,241,RS1",
+      "unitCount": "13",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,202",
+      "dedupeKey": "INCIDENT-48569"
+    }
   }
 ]
