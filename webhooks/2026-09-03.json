@@ -1846,5 +1846,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48667"
     }
+  },
+  {
+    "runNumber": "48661",
+    "rawCode": "FFIA",
+    "timestamp": "2026-09-03T10:55:33.161952-04:00",
+    "address": "2516 Denburn Court",
+    "extra": {
+      "incidentNumber": "48661",
+      "run_id": "48661",
+      "address": "2516 Denburn Court",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,E24,L03,203",
+      "units": "E10,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FFIA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-48661"
+    }
   }
 ]
