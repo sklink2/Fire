@@ -3914,5 +3914,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48766"
     }
+  },
+  {
+    "runNumber": "48769",
+    "rawCode": "MED",
+    "timestamp": "2026-09-03T16:47:11.627237-04:00",
+    "address": "100 Block Rose Street",
+    "extra": {
+      "incidentNumber": "48769",
+      "run_id": "48769",
+      "address": "100 Block Rose Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48769"
+    }
   }
 ]
