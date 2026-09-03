@@ -2858,5 +2858,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48713"
     }
+  },
+  {
+    "runNumber": "48715",
+    "rawCode": "MED",
+    "timestamp": "2026-09-03T13:42:18.862114-04:00",
+    "address": "100 Block Opportunity Way",
+    "extra": {
+      "incidentNumber": "48715",
+      "run_id": "48715",
+      "address": "100 Block Opportunity Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "T1,EC5",
+      "units": "T1,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48715"
+    }
   }
 ]
