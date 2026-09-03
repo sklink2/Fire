@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48662"
     }
+  },
+  {
+    "runNumber": "48661",
+    "rawCode": "FSMO",
+    "timestamp": "2026-09-03T10:24:00.559921-04:00",
+    "address": "2516 Denburn Court",
+    "extra": {
+      "incidentNumber": "48661",
+      "run_id": "48661",
+      "address": "2516 Denburn Court",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,E24,L03,203",
+      "units": "E10,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-48661"
+    }
   }
 ]
