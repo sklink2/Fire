@@ -5168,5 +5168,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48581"
     }
+  },
+  {
+    "runNumber": "48583",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-02T23:52:44.947039-04:00",
+    "address": "2200 Tracery Oaks Drive",
+    "extra": {
+      "incidentNumber": "48583",
+      "run_id": "48583",
+      "address": "2200 Tracery Oaks Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48583"
+    }
   }
 ]
