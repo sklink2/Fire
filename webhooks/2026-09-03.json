@@ -1054,5 +1054,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-48630"
     }
+  },
+  {
+    "runNumber": "48632",
+    "rawCode": "MED",
+    "timestamp": "2026-09-03T08:13:14.962190-04:00",
+    "address": "3300 Block Pueblo Court",
+    "extra": {
+      "incidentNumber": "48632",
+      "run_id": "48632",
+      "address": "3300 Block Pueblo Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48632"
+    }
   }
 ]
