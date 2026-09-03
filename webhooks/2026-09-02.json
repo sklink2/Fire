@@ -5124,5 +5124,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48580"
     }
+  },
+  {
+    "runNumber": "48582",
+    "rawCode": "MED",
+    "timestamp": "2026-09-02T23:48:13.442924-04:00",
+    "address": "1600 Block Strader Drive",
+    "extra": {
+      "incidentNumber": "48582",
+      "run_id": "48582",
+      "address": "1600 Block Strader Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48582"
+    }
   }
 ]
