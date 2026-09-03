@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48718"
     }
+  },
+  {
+    "runNumber": "48720",
+    "rawCode": "FSTR",
+    "timestamp": "2026-09-03T14:09:26.455843-04:00",
+    "address": "401 Redding Road",
+    "extra": {
+      "incidentNumber": "48720",
+      "run_id": "48720",
+      "address": "401 Redding Road",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E08,E20,E22,L04,L07,EC9,201,204,220,241,RS1",
+      "units": "E07,E08,E20,E22,L04,L07,EC9,201,204,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,204",
+      "dedupeKey": "INCIDENT-48720"
+    }
   }
 ]
