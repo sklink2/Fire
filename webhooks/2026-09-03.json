@@ -3782,5 +3782,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48761"
     }
+  },
+  {
+    "runNumber": "48759",
+    "rawCode": "FSMO",
+    "timestamp": "2026-09-03T16:11:13.137701-04:00",
+    "address": "4609 Saron Drive",
+    "extra": {
+      "incidentNumber": "48759",
+      "run_id": "48759",
+      "address": "4609 Saron Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,L07,202",
+      "units": "E15,L07,202",
+      "unitCount": "3",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-48759"
+    }
   }
 ]
