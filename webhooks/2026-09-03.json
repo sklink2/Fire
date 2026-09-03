@@ -2462,5 +2462,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48696"
     }
+  },
+  {
+    "runNumber": "48695",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-03T12:48:15.962901-04:00",
+    "address": "1558 Old Frankfort Pike",
+    "extra": {
+      "incidentNumber": "48695",
+      "run_id": "48695",
+      "address": "1558 Old Frankfort Pike",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,EC10",
+      "units": "E04,EC10",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48695"
+    }
   }
 ]
