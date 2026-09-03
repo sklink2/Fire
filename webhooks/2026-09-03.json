@@ -4178,5 +4178,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48778"
     }
+  },
+  {
+    "runNumber": "48779",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-09-03T17:50:21.618478-04:00",
+    "address": "Mason Headley Road & Shaker Drive",
+    "extra": {
+      "incidentNumber": "48779",
+      "run_id": "48779",
+      "address": "Mason Headley Road & Shaker Drive",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,L04,EC10,204,241,RS1",
+      "units": "E11,L04,EC10,204,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,204",
+      "dedupeKey": "INCIDENT-48779"
+    }
   }
 ]
