@@ -2836,5 +2836,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48712"
     }
+  },
+  {
+    "runNumber": "48713",
+    "rawCode": "FSCU",
+    "timestamp": "2026-09-03T13:37:48.745013-04:00",
+    "address": "3336 Valhalla Drive",
+    "extra": {
+      "incidentNumber": "48713",
+      "run_id": "48713",
+      "address": "3336 Valhalla Drive",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E16",
+      "units": "E09,E16",
+      "unitCount": "2",
+      "primaryTopic": "FSCU",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48713"
+    }
   }
 ]
