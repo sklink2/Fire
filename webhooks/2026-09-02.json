@@ -4464,5 +4464,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48548"
     }
+  },
+  {
+    "runNumber": "48550",
+    "rawCode": "MED",
+    "timestamp": "2026-09-02T20:29:52.335782-04:00",
+    "address": "1800 Block Courtland Drive",
+    "extra": {
+      "incidentNumber": "48550",
+      "run_id": "48550",
+      "address": "1800 Block Courtland Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48550"
+    }
   }
 ]
