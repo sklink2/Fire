@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48615"
     }
+  },
+  {
+    "runNumber": "48616",
+    "rawCode": "MED",
+    "timestamp": "2026-09-03T06:11:27.915752-04:00",
+    "address": "1100 Block Horsemans Lane",
+    "extra": {
+      "incidentNumber": "48616",
+      "run_id": "48616",
+      "address": "1100 Block Horsemans Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48616"
+    }
   }
 ]
