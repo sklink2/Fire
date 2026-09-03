@@ -1560,5 +1560,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-48653"
     }
+  },
+  {
+    "runNumber": "48655",
+    "rawCode": "FSCU",
+    "timestamp": "2026-09-03T10:05:55.221412-04:00",
+    "address": "W New Circle Road & W New Circle",
+    "extra": {
+      "incidentNumber": "48655",
+      "run_id": "48655",
+      "address": "W New Circle Road & W New Circle",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11",
+      "units": "E11",
+      "unitCount": "1",
+      "primaryTopic": "FSCU",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48655"
+    }
   }
 ]
