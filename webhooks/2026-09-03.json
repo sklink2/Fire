@@ -438,5 +438,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48603"
     }
+  },
+  {
+    "runNumber": "48604",
+    "rawCode": "FGAO",
+    "timestamp": "2026-09-03T02:48:34.078345-04:00",
+    "address": "622 Columbia Avenue",
+    "extra": {
+      "incidentNumber": "48604",
+      "run_id": "48604",
+      "address": "622 Columbia Avenue",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06",
+      "units": "E05,E06",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48604"
+    }
   }
 ]
