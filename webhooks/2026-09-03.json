@@ -4640,5 +4640,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48797"
     }
+  },
+  {
+    "runNumber": "48796",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-03T19:20:40.269434-04:00",
+    "address": "2585 Eastpoint Drive",
+    "extra": {
+      "incidentNumber": "48796",
+      "run_id": "48796",
+      "address": "2585 Eastpoint Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,E23,L06,201",
+      "units": "E17,E23,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-48796"
+    }
   }
 ]
