@@ -4376,5 +4376,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48787"
     }
+  },
+  {
+    "runNumber": "48788",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-03T18:35:22.998974-04:00",
+    "address": "925 Georgetown Street",
+    "extra": {
+      "incidentNumber": "48788",
+      "run_id": "48788",
+      "address": "925 Georgetown Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC3,EC7",
+      "units": "E10,EC3,EC7",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48788"
+    }
   }
 ]
