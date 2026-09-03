@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48655"
     }
+  },
+  {
+    "runNumber": "48653",
+    "rawCode": "FVIS",
+    "timestamp": "2026-09-03T10:06:02.516293-04:00",
+    "address": "3332 Valhalla Drive",
+    "extra": {
+      "incidentNumber": "48653",
+      "run_id": "48653",
+      "address": "3332 Valhalla Drive",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E16,L06,EC4,EC7,202,241",
+      "units": "E09,E16,L06,EC4,EC7,202,241",
+      "unitCount": "7",
+      "primaryTopic": "FVIS",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-48653"
+    }
   }
 ]
