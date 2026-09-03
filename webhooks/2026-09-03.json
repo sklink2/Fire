@@ -2506,5 +2506,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48698"
     }
+  },
+  {
+    "runNumber": "48697",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-03T12:52:47.382157-04:00",
+    "address": "430 Complex Drive",
+    "extra": {
+      "incidentNumber": "48697",
+      "run_id": "48697",
+      "address": "430 Complex Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E06,L02,204",
+      "units": "E05,E06,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-48697"
+    }
   }
 ]
