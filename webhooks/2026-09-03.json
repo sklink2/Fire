@@ -1538,5 +1538,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48654"
     }
+  },
+  {
+    "runNumber": "48653",
+    "rawCode": "MED",
+    "timestamp": "2026-09-03T10:01:30.077342-04:00",
+    "address": "3300 Block Valhalla Drive",
+    "extra": {
+      "incidentNumber": "48653",
+      "run_id": "48653",
+      "address": "3300 Block Valhalla Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC4,EC7,241",
+      "units": "E16,EC4,EC7,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-48653"
+    }
   }
 ]
