@@ -5080,5 +5080,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48577"
     }
+  },
+  {
+    "runNumber": "48579",
+    "rawCode": "MED",
+    "timestamp": "2026-09-02T23:30:13.622643-04:00",
+    "address": "2000 Block Georgian Way",
+    "extra": {
+      "incidentNumber": "48579",
+      "run_id": "48579",
+      "address": "2000 Block Georgian Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC5",
+      "units": "E20,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48579"
+    }
   }
 ]
