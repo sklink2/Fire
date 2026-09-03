@@ -372,5 +372,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48600"
     }
+  },
+  {
+    "runNumber": "48601",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-09-03T02:21:31.272371-04:00",
+    "address": "2345 Abbeywood Road",
+    "extra": {
+      "incidentNumber": "48601",
+      "run_id": "48601",
+      "address": "2345 Abbeywood Road",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16",
+      "units": "E16",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48601"
+    }
   }
 ]
