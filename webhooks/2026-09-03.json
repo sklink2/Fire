@@ -4200,5 +4200,27 @@
       "commandUnits": "241,204",
       "dedupeKey": "INCIDENT-48779"
     }
+  },
+  {
+    "runNumber": "48782",
+    "rawCode": "MED",
+    "timestamp": "2026-09-03T17:54:48.752805-04:00",
+    "address": "E Fifth Street & Chestnut Street",
+    "extra": {
+      "incidentNumber": "48782",
+      "run_id": "48782",
+      "address": "E Fifth Street & Chestnut Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48782"
+    }
   }
 ]
