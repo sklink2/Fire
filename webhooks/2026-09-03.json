@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48689"
     }
+  },
+  {
+    "runNumber": "48692",
+    "rawCode": "MED",
+    "timestamp": "2026-09-03T12:25:40.893296-04:00",
+    "address": "400 Block Dabney Drive",
+    "extra": {
+      "incidentNumber": "48692",
+      "run_id": "48692",
+      "address": "400 Block Dabney Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48692"
+    }
   }
 ]
