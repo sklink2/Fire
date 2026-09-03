@@ -1758,5 +1758,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-48661"
     }
+  },
+  {
+    "runNumber": "48663",
+    "rawCode": "MED",
+    "timestamp": "2026-09-03T10:28:27.951578-04:00",
+    "address": "1800 Block Oxford Circle",
+    "extra": {
+      "incidentNumber": "48663",
+      "run_id": "48663",
+      "address": "1800 Block Oxford Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48663"
+    }
   }
 ]
