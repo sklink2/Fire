@@ -4992,5 +4992,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48572"
     }
+  },
+  {
+    "runNumber": "48574",
+    "rawCode": "FSIA",
+    "timestamp": "2026-09-02T22:49:37.025298-04:00",
+    "address": "1149 Taborlake Drive",
+    "extra": {
+      "incidentNumber": "48574",
+      "run_id": "48574",
+      "address": "1149 Taborlake Drive",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E07,205",
+      "units": "E02,E07,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-48574"
+    }
   }
 ]
