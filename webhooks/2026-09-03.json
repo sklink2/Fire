@@ -306,5 +306,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48597"
     }
+  },
+  {
+    "runNumber": "48596",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-03T01:22:59.876322-04:00",
+    "address": "362 E Main Street",
+    "extra": {
+      "incidentNumber": "48596",
+      "run_id": "48596",
+      "address": "362 E Main Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E05,L02,205",
+      "units": "E01,E05,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-48596"
+    }
   }
 ]
