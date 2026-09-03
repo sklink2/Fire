@@ -4618,5 +4618,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-48556"
     }
+  },
+  {
+    "runNumber": "48557",
+    "rawCode": "FSIA",
+    "timestamp": "2026-09-02T21:19:27.846658-04:00",
+    "address": "Holly Springs Drive & Appomattox",
+    "extra": {
+      "incidentNumber": "48557",
+      "run_id": "48557",
+      "address": "Holly Springs Drive & Appomattox",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,E20,203",
+      "units": "E14,E20,203",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-48557"
+    }
   }
 ]
