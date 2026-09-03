@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48690"
     }
+  },
+  {
+    "runNumber": "48693",
+    "rawCode": "FELS",
+    "timestamp": "2026-09-03T12:30:12.548372-04:00",
+    "address": "2355 Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "48693",
+      "run_id": "48693",
+      "address": "2355 Harrodsburg Road",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,L04,204",
+      "units": "E12,L04,204",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-48693"
+    }
   }
 ]
