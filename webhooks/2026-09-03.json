@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48599"
     }
+  },
+  {
+    "runNumber": "48600",
+    "rawCode": "MED",
+    "timestamp": "2026-09-03T01:58:59.061756-04:00",
+    "address": "2800 Block Ryan Circle",
+    "extra": {
+      "incidentNumber": "48600",
+      "run_id": "48600",
+      "address": "2800 Block Ryan Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48600"
+    }
   }
 ]
