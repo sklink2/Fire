@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48857"
     }
+  },
+  {
+    "runNumber": "48856",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-04T03:00:24.746398-04:00",
+    "address": "163 W Short Street",
+    "extra": {
+      "incidentNumber": "48856",
+      "run_id": "48856",
+      "address": "163 W Short Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E05,E06,L01,205",
+      "units": "E01,E05,E06,L01,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-48856"
+    }
   }
 ]
