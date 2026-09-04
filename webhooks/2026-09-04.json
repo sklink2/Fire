@@ -196,5 +196,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48849"
     }
+  },
+  {
+    "runNumber": "48850",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-04T02:15:16.974088-04:00",
+    "address": "841 Eastmont Road",
+    "extra": {
+      "incidentNumber": "48850",
+      "run_id": "48850",
+      "address": "841 Eastmont Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E21,L05,EC8,201,220",
+      "units": "E02,E21,L05,EC8,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-48850"
+    }
   }
 ]
