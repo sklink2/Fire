@@ -3848,5 +3848,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49021"
     }
+  },
+  {
+    "runNumber": "49020",
+    "rawCode": "MED",
+    "timestamp": "2026-09-04T18:56:08.748493-04:00",
+    "address": "900 Block National Avenue",
+    "extra": {
+      "incidentNumber": "49020",
+      "run_id": "49020",
+      "address": "900 Block National Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC8,241",
+      "units": "E01,EC8,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-49020"
+    }
   }
 ]
