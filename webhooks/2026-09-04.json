@@ -878,5 +878,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48882"
     }
+  },
+  {
+    "runNumber": "48881",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-04T08:15:59.018342-04:00",
+    "address": "2501 Clays Mill Road",
+    "extra": {
+      "incidentNumber": "48881",
+      "run_id": "48881",
+      "address": "2501 Clays Mill Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC5",
+      "units": "E11,EC5",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48881"
+    }
   }
 ]
