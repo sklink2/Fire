@@ -1208,5 +1208,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48894"
     }
+  },
+  {
+    "runNumber": "48896",
+    "rawCode": "MED",
+    "timestamp": "2026-09-04T09:41:37.895520-04:00",
+    "address": "1200 Block Kenesaw Village Drive",
+    "extra": {
+      "incidentNumber": "48896",
+      "run_id": "48896",
+      "address": "1200 Block Kenesaw Village Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L07,EC4,241,CRT1",
+      "units": "L07,EC4,241,CRT1",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-48896"
+    }
   }
 ]
