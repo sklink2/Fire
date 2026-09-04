@@ -4904,5 +4904,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48810"
     }
+  },
+  {
+    "runNumber": "48809",
+    "rawCode": "MED",
+    "timestamp": "2026-09-03T20:46:16.104445-04:00",
+    "address": "100 Block Woodford Drive",
+    "extra": {
+      "incidentNumber": "48809",
+      "run_id": "48809",
+      "address": "100 Block Woodford Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,EC5",
+      "units": "E04,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48809"
+    }
   }
 ]
