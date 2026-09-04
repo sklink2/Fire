@@ -262,5 +262,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48852"
     }
+  },
+  {
+    "runNumber": "48853",
+    "rawCode": "FGAO",
+    "timestamp": "2026-09-04T02:51:18.157833-04:00",
+    "address": "1801 Alexandria Drive",
+    "extra": {
+      "incidentNumber": "48853",
+      "run_id": "48853",
+      "address": "1801 Alexandria Drive",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,E20",
+      "units": "E14,E20",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48853"
+    }
   }
 ]
