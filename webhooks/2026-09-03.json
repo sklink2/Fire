@@ -5124,5 +5124,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-48820"
     }
+  },
+  {
+    "runNumber": "48822",
+    "rawCode": "MED",
+    "timestamp": "2026-09-03T21:49:15.308649-04:00",
+    "address": "400 Block E Main Street",
+    "extra": {
+      "incidentNumber": "48822",
+      "run_id": "48822",
+      "address": "400 Block E Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48822"
+    }
   }
 ]
