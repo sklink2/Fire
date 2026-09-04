@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48931"
     }
+  },
+  {
+    "runNumber": "48933",
+    "rawCode": "FWTR",
+    "timestamp": "2026-09-04T12:50:57.793367-04:00",
+    "address": "8949 Old Richmond Road",
+    "extra": {
+      "incidentNumber": "48933",
+      "run_id": "48933",
+      "address": "8949 Old Richmond Road",
+      "rawType": "FWTR",
+      "typeCode": "FWTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E09,E18,L06,EC2,202,241,RS1",
+      "units": "E08,E09,E18,L06,EC2,202,241,RS1",
+      "unitCount": "8",
+      "primaryTopic": "FWTR",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-48933"
+    }
   }
 ]
