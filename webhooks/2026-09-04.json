@@ -3562,5 +3562,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49009"
     }
+  },
+  {
+    "runNumber": "49008",
+    "rawCode": "MED",
+    "timestamp": "2026-09-04T17:57:31.319898-04:00",
+    "address": "100 Block American Avenue",
+    "extra": {
+      "incidentNumber": "49008",
+      "run_id": "49008",
+      "address": "100 Block American Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49008"
+    }
   }
 ]
