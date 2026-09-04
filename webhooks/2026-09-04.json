@@ -3474,5 +3474,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49004"
     }
+  },
+  {
+    "runNumber": "49003",
+    "rawCode": "MED",
+    "timestamp": "2026-09-04T17:21:27.279946-04:00",
+    "address": "E Maxwell Street & S Limestone",
+    "extra": {
+      "incidentNumber": "49003",
+      "run_id": "49003",
+      "address": "E Maxwell Street & S Limestone",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49003"
+    }
   }
 ]
