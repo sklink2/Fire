@@ -3166,5 +3166,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-48984"
     }
+  },
+  {
+    "runNumber": "48988",
+    "rawCode": "MED",
+    "timestamp": "2026-09-04T16:00:16.745765-04:00",
+    "address": "1800 Block Arbor Station Way",
+    "extra": {
+      "incidentNumber": "48988",
+      "run_id": "48988",
+      "address": "1800 Block Arbor Station Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC22",
+      "units": "EC22",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48988"
+    }
   }
 ]
