@@ -3518,5 +3518,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49002"
     }
+  },
+  {
+    "runNumber": "49005",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-04T17:52:57.997217-04:00",
+    "address": "1440 E New Circle Road",
+    "extra": {
+      "incidentNumber": "49005",
+      "run_id": "49005",
+      "address": "1440 E New Circle Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC11",
+      "units": "E09,EC11",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49005"
+    }
   }
 ]
