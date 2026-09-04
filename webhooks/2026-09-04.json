@@ -900,5 +900,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48881"
     }
+  },
+  {
+    "runNumber": "48880",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-04T08:16:03.636097-04:00",
+    "address": "2601 Richmond Road",
+    "extra": {
+      "incidentNumber": "48880",
+      "run_id": "48880",
+      "address": "2601 Richmond Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E20,L06,EC2,201",
+      "units": "E09,E20,L06,EC2,201",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-48880"
+    }
   }
 ]
