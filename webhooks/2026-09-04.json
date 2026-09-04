@@ -812,5 +812,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48877"
     }
+  },
+  {
+    "runNumber": "48878",
+    "rawCode": "MED",
+    "timestamp": "2026-09-04T07:53:24.018177-04:00",
+    "address": "2000 Block Macon Court",
+    "extra": {
+      "incidentNumber": "48878",
+      "run_id": "48878",
+      "address": "2000 Block Macon Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48878"
+    }
   }
 ]
