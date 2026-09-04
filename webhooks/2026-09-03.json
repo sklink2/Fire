@@ -5102,5 +5102,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48818"
     }
+  },
+  {
+    "runNumber": "48820",
+    "rawCode": "FELS",
+    "timestamp": "2026-09-03T21:44:46.523320-04:00",
+    "address": "740 Rose Street",
+    "extra": {
+      "incidentNumber": "48820",
+      "run_id": "48820",
+      "address": "740 Rose Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L02,204,RS1",
+      "units": "L02,204,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-48820"
+    }
   }
 ]
