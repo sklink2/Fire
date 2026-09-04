@@ -1142,5 +1142,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-48893"
     }
+  },
+  {
+    "runNumber": "48892",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-09-04T09:28:09.682546-04:00",
+    "address": "650 Tower Plz",
+    "extra": {
+      "incidentNumber": "48892",
+      "run_id": "48892",
+      "address": "650 Tower Plz",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48892"
+    }
   }
 ]
