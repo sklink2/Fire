@@ -3914,5 +3914,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49022"
     }
+  },
+  {
+    "runNumber": "49024",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-04T19:14:05.957184-04:00",
+    "address": "2383 Stonewood Lane",
+    "extra": {
+      "incidentNumber": "49024",
+      "run_id": "49024",
+      "address": "2383 Stonewood Lane",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L05",
+      "units": "L05",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49024"
+    }
   }
 ]
