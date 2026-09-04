@@ -856,5 +856,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48879"
     }
+  },
+  {
+    "runNumber": "48882",
+    "rawCode": "MED",
+    "timestamp": "2026-09-04T08:15:55.892704-04:00",
+    "address": "4200 Block Canterbury Green Way",
+    "extra": {
+      "incidentNumber": "48882",
+      "run_id": "48882",
+      "address": "4200 Block Canterbury Green Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4,CRT1",
+      "units": "EC4,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48882"
+    }
   }
 ]
