@@ -922,5 +922,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-48880"
     }
+  },
+  {
+    "runNumber": "48883",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-04T08:20:27.462779-04:00",
+    "address": "Palumbo Drive & Old Todds Road",
+    "extra": {
+      "incidentNumber": "48883",
+      "run_id": "48883",
+      "address": "Palumbo Drive & Old Todds Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L06,EC3",
+      "units": "L06,EC3",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48883"
+    }
   }
 ]
