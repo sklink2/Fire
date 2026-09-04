@@ -5014,5 +5014,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48816"
     }
+  },
+  {
+    "runNumber": "48815",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-03T21:26:45.517367-04:00",
+    "address": "3619 Appian Way",
+    "extra": {
+      "incidentNumber": "48815",
+      "run_id": "48815",
+      "address": "3619 Appian Way",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC2",
+      "units": "E16,EC2",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48815"
+    }
   }
 ]
