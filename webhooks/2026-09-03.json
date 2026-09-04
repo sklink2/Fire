@@ -4882,5 +4882,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-48811"
     }
+  },
+  {
+    "runNumber": "48810",
+    "rawCode": "MED",
+    "timestamp": "2026-09-03T20:46:13.639686-04:00",
+    "address": "300 Block Legion Drive",
+    "extra": {
+      "incidentNumber": "48810",
+      "run_id": "48810",
+      "address": "300 Block Legion Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48810"
+    }
   }
 ]
