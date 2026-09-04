@@ -1120,5 +1120,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48891"
     }
+  },
+  {
+    "runNumber": "48893",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-04T09:28:05.187568-04:00",
+    "address": "1801 Newtown Pike",
+    "extra": {
+      "incidentNumber": "48893",
+      "run_id": "48893",
+      "address": "1801 Newtown Pike",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E02,L01,EC8,203",
+      "units": "E01,E02,L01,EC8,203",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-48893"
+    }
   }
 ]
