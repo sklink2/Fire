@@ -3232,5 +3232,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48990"
     }
+  },
+  {
+    "runNumber": "48989",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-04T16:18:22.871045-04:00",
+    "address": "4020 Georgetown Road",
+    "extra": {
+      "incidentNumber": "48989",
+      "run_id": "48989",
+      "address": "4020 Georgetown Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L03,T1,EC6,241",
+      "units": "L03,T1,EC6,241",
+      "unitCount": "4",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-48989"
+    }
   }
 ]
