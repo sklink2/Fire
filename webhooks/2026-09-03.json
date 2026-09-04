@@ -4772,5 +4772,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-48804"
     }
+  },
+  {
+    "runNumber": "48805",
+    "rawCode": "MED",
+    "timestamp": "2026-09-03T20:28:05.590022-04:00",
+    "address": "4500 Block Saron Drive",
+    "extra": {
+      "incidentNumber": "48805",
+      "run_id": "48805",
+      "address": "4500 Block Saron Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L07,EC4",
+      "units": "L07,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48805"
+    }
   }
 ]
