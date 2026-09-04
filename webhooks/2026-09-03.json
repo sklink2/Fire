@@ -4706,5 +4706,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48802"
     }
+  },
+  {
+    "runNumber": "48801",
+    "rawCode": "MED",
+    "timestamp": "2026-09-03T20:01:06.425175-04:00",
+    "address": "6100 Block Briar Hill Road",
+    "extra": {
+      "incidentNumber": "48801",
+      "run_id": "48801",
+      "address": "6100 Block Briar Hill Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E23,EC3",
+      "units": "E23,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48801"
+    }
   }
 ]
