@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48869"
     }
+  },
+  {
+    "runNumber": "48871",
+    "rawCode": "MED",
+    "timestamp": "2026-09-04T06:50:17.008378-04:00",
+    "address": "200 Block Stone Avenue",
+    "extra": {
+      "incidentNumber": "48871",
+      "run_id": "48871",
+      "address": "200 Block Stone Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC1",
+      "units": "E05,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48871"
+    }
   }
 ]
