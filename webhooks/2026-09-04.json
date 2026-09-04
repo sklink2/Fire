@@ -988,5 +988,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-48884"
     }
+  },
+  {
+    "runNumber": "48887",
+    "rawCode": "MED",
+    "timestamp": "2026-09-04T08:33:57.516770-04:00",
+    "address": "900 Block Applecross Drive",
+    "extra": {
+      "incidentNumber": "48887",
+      "run_id": "48887",
+      "address": "900 Block Applecross Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48887"
+    }
   }
 ]
