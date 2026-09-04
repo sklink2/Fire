@@ -2484,5 +2484,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48956"
     }
+  },
+  {
+    "runNumber": "48955",
+    "rawCode": "MED",
+    "timestamp": "2026-09-04T14:21:08.208682-04:00",
+    "address": "200 Block Mockingbird Lane",
+    "extra": {
+      "incidentNumber": "48955",
+      "run_id": "48955",
+      "address": "200 Block Mockingbird Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC5",
+      "units": "E11,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48955"
+    }
   }
 ]
