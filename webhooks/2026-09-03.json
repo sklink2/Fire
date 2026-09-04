@@ -5300,5 +5300,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48827"
     }
+  },
+  {
+    "runNumber": "48828",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-03T22:47:51.243691-04:00",
+    "address": "2429 Lorenzo Way",
+    "extra": {
+      "incidentNumber": "48828",
+      "run_id": "48828",
+      "address": "2429 Lorenzo Way",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,L06",
+      "units": "E21,L06",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48828"
+    }
   }
 ]
