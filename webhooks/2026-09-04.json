@@ -3364,5 +3364,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48999"
     }
+  },
+  {
+    "runNumber": "48998",
+    "rawCode": "MED",
+    "timestamp": "2026-09-04T16:54:26.435639-04:00",
+    "address": "100 Block Thompson Road",
+    "extra": {
+      "incidentNumber": "48998",
+      "run_id": "48998",
+      "address": "100 Block Thompson Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,EC10",
+      "units": "E04,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48998"
+    }
   }
 ]
