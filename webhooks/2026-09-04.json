@@ -1296,5 +1296,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48900"
     }
+  },
+  {
+    "runNumber": "48901",
+    "rawCode": "MED",
+    "timestamp": "2026-09-04T10:35:40.007406-04:00",
+    "address": "100 Block W Short Street",
+    "extra": {
+      "incidentNumber": "48901",
+      "run_id": "48901",
+      "address": "100 Block W Short Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-48901"
+    }
   }
 ]
