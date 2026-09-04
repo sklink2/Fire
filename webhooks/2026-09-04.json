@@ -394,5 +394,27 @@
       "commandUnits": "241,203",
       "dedupeKey": "INCIDENT-48858"
     }
+  },
+  {
+    "runNumber": "48859",
+    "rawCode": "MED",
+    "timestamp": "2026-09-04T04:07:58.429294-04:00",
+    "address": "1000 Block Hudson Avenue",
+    "extra": {
+      "incidentNumber": "48859",
+      "run_id": "48859",
+      "address": "1000 Block Hudson Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC6,203,241",
+      "units": "E10,EC6,203,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-48859"
+    }
   }
 ]
