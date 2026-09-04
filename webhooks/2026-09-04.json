@@ -3144,5 +3144,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48985"
     }
+  },
+  {
+    "runNumber": "48984",
+    "rawCode": "FELF",
+    "timestamp": "2026-09-04T15:55:52.538104-04:00",
+    "address": "1185 Tanbark Road",
+    "extra": {
+      "incidentNumber": "48984",
+      "run_id": "48984",
+      "address": "1185 Tanbark Road",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,E22,L07,202",
+      "units": "E16,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-48984"
+    }
   }
 ]
