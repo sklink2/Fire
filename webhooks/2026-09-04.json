@@ -2066,5 +2066,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-48937"
     }
+  },
+  {
+    "runNumber": "48936",
+    "rawCode": "FVIS",
+    "timestamp": "2026-09-04T13:09:01.010407-04:00",
+    "address": "3097 Old Todds Road",
+    "extra": {
+      "incidentNumber": "48936",
+      "run_id": "48936",
+      "address": "3097 Old Todds Road",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,E21,205",
+      "units": "E12,E21,205",
+      "unitCount": "3",
+      "primaryTopic": "FVIS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-48936"
+    }
   }
 ]
