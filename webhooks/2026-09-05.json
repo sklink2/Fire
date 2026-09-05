@@ -878,5 +878,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49111"
     }
+  },
+  {
+    "runNumber": "49113",
+    "rawCode": "MED",
+    "timestamp": "2026-09-05T07:28:59.740505-04:00",
+    "address": "3400 Block Spangler Drive",
+    "extra": {
+      "incidentNumber": "49113",
+      "run_id": "49113",
+      "address": "3400 Block Spangler Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49113"
+    }
   }
 ]
