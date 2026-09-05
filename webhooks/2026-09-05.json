@@ -2198,5 +2198,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49170"
     }
+  },
+  {
+    "runNumber": "49172",
+    "rawCode": "MED",
+    "timestamp": "2026-09-05T14:37:23.463577-04:00",
+    "address": "5400 Block Russell Cave Road",
+    "extra": {
+      "incidentNumber": "49172",
+      "run_id": "49172",
+      "address": "5400 Block Russell Cave Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E19,EC3,EC6,241",
+      "units": "E19,EC3,EC6,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-49172"
+    }
   }
 ]
