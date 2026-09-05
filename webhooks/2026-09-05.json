@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49159"
     }
+  },
+  {
+    "runNumber": "49158",
+    "rawCode": "MED",
+    "timestamp": "2026-09-05T13:43:22.483065-04:00",
+    "address": "700 Block Kenova Trce",
+    "extra": {
+      "incidentNumber": "49158",
+      "run_id": "49158",
+      "address": "700 Block Kenova Trce",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,EC5",
+      "units": "E24,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49158"
+    }
   }
 ]
