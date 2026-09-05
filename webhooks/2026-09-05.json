@@ -328,5 +328,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49086"
     }
+  },
+  {
+    "runNumber": "49087",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-05T02:26:55.241583-04:00",
+    "address": "1673 Wharton Way",
+    "extra": {
+      "incidentNumber": "49087",
+      "run_id": "49087",
+      "address": "1673 Wharton Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E17,E21,L06,201",
+      "units": "E17,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-49087"
+    }
   }
 ]
