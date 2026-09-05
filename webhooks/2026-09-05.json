@@ -1076,5 +1076,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-49120"
     }
+  },
+  {
+    "runNumber": "49123",
+    "rawCode": "MED",
+    "timestamp": "2026-09-05T09:08:09.975194-04:00",
+    "address": "4300 Block Clemens Drive",
+    "extra": {
+      "incidentNumber": "49123",
+      "run_id": "49123",
+      "address": "4300 Block Clemens Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49123"
+    }
   }
 ]
