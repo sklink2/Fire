@@ -1758,5 +1758,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49150"
     }
+  },
+  {
+    "runNumber": "49152",
+    "rawCode": "FSTR",
+    "timestamp": "2026-09-05T13:29:45.390681-04:00",
+    "address": "601 Delzan Place",
+    "extra": {
+      "incidentNumber": "49152",
+      "run_id": "49152",
+      "address": "601 Delzan Place",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,E13,E15,E20,L04,L07,EC12,202,204,220,241,RS1",
+      "units": "E12,E13,E15,E20,L04,L07,EC12,202,204,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,202,204",
+      "dedupeKey": "INCIDENT-49152"
+    }
   }
 ]
