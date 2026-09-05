@@ -1054,5 +1054,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49118"
     }
+  },
+  {
+    "runNumber": "49120",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-05T09:03:40.843309-04:00",
+    "address": "757 Andover Village Drive",
+    "extra": {
+      "incidentNumber": "49120",
+      "run_id": "49120",
+      "address": "757 Andover Village Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,E21,L05,201",
+      "units": "E16,E21,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-49120"
+    }
   }
 ]
