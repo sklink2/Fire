@@ -1098,5 +1098,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49123"
     }
+  },
+  {
+    "runNumber": "49122",
+    "rawCode": "FELF",
+    "timestamp": "2026-09-05T09:08:13.017109-04:00",
+    "address": "4026 Livingston Lane",
+    "extra": {
+      "incidentNumber": "49122",
+      "run_id": "49122",
+      "address": "4026 Livingston Lane",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E22,L01,203",
+      "units": "E05,E22,L01,203",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-49122"
+    }
   }
 ]
