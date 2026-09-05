@@ -1032,5 +1032,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49119"
     }
+  },
+  {
+    "runNumber": "49118",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-05T08:59:13.298123-04:00",
+    "address": "4002 Livingston Lane",
+    "extra": {
+      "incidentNumber": "49118",
+      "run_id": "49118",
+      "address": "4002 Livingston Lane",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,L06",
+      "units": "E09,L06",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49118"
+    }
   }
 ]
