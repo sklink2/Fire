@@ -482,5 +482,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49093"
     }
+  },
+  {
+    "runNumber": "49094",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-05T03:43:36.272076-04:00",
+    "address": "2333 Sir Barton Way",
+    "extra": {
+      "incidentNumber": "49094",
+      "run_id": "49094",
+      "address": "2333 Sir Barton Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E21,L06,201",
+      "units": "E02,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-49094"
+    }
   }
 ]
