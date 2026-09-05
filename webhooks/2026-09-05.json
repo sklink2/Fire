@@ -834,5 +834,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-49109"
     }
+  },
+  {
+    "runNumber": "49110",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-05T07:10:57.423597-04:00",
+    "address": "2671 Kearney Ridge Boulevard",
+    "extra": {
+      "incidentNumber": "49110",
+      "run_id": "49110",
+      "address": "2671 Kearney Ridge Boulevard",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,E24,L03,203",
+      "units": "E10,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-49110"
+    }
   }
 ]
