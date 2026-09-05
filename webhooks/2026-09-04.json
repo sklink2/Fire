@@ -4464,5 +4464,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49046"
     }
+  },
+  {
+    "runNumber": "49043",
+    "rawCode": "FMIS",
+    "timestamp": "2026-09-04T21:24:58.964855-04:00",
+    "address": "4605 Copper Ridge Court",
+    "extra": {
+      "incidentNumber": "49043",
+      "run_id": "49043",
+      "address": "4605 Copper Ridge Court",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC4,204",
+      "units": "E20,EC4,204",
+      "unitCount": "3",
+      "primaryTopic": "FMIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-49043"
+    }
   }
 ]
