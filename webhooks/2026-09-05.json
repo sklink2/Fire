@@ -2242,5 +2242,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49171"
     }
+  },
+  {
+    "runNumber": "49173",
+    "rawCode": "FSMO",
+    "timestamp": "2026-09-05T14:46:21.427938-04:00",
+    "address": "1876 Costigan Drive",
+    "extra": {
+      "incidentNumber": "49173",
+      "run_id": "49173",
+      "address": "1876 Costigan Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E10,L03,201",
+      "units": "E08,E10,L03,201",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-49173"
+    }
   }
 ]
