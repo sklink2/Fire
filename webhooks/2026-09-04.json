@@ -4640,5 +4640,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-49055"
     }
+  },
+  {
+    "runNumber": "49054",
+    "rawCode": "FGAO",
+    "timestamp": "2026-09-04T22:05:28.199609-04:00",
+    "address": "Bryan Avenue & N Limestone",
+    "extra": {
+      "incidentNumber": "49054",
+      "run_id": "49054",
+      "address": "Bryan Avenue & N Limestone",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E02",
+      "units": "E01,E02",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49054"
+    }
   }
 ]
