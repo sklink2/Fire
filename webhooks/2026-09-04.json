@@ -4926,5 +4926,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49067"
     }
+  },
+  {
+    "runNumber": "49066",
+    "rawCode": "FSIA",
+    "timestamp": "2026-09-04T23:35:40.930937-04:00",
+    "address": "3357 Valhalla Drive",
+    "extra": {
+      "incidentNumber": "49066",
+      "run_id": "49066",
+      "address": "3357 Valhalla Drive",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E16,202",
+      "units": "E09,E16,202",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-49066"
+    }
   }
 ]
