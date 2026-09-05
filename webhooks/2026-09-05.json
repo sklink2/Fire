@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49206"
     }
+  },
+  {
+    "runNumber": "49205",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-05T17:01:39.313942-04:00",
+    "address": "526 Chinoe Road",
+    "extra": {
+      "incidentNumber": "49205",
+      "run_id": "49205",
+      "address": "526 Chinoe Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E09,L02,205",
+      "units": "E05,E09,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-49205"
+    }
   }
 ]
