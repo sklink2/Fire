@@ -3870,5 +3870,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49247"
     }
+  },
+  {
+    "runNumber": "49246",
+    "rawCode": "FELS",
+    "timestamp": "2026-09-05T19:43:59.013475-04:00",
+    "address": "106 W Vine Street",
+    "extra": {
+      "incidentNumber": "49246",
+      "run_id": "49246",
+      "address": "106 W Vine Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L01,204,RS1",
+      "units": "L01,204,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-49246"
+    }
   }
 ]
