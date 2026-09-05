@@ -1120,5 +1120,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-49122"
     }
+  },
+  {
+    "runNumber": "49121",
+    "rawCode": "FCAR",
+    "timestamp": "2026-09-05T09:08:16.671642-04:00",
+    "address": "2120 Rothbury Road",
+    "extra": {
+      "incidentNumber": "49121",
+      "run_id": "49121",
+      "address": "2120 Rothbury Road",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L07",
+      "units": "L07",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49121"
+    }
   }
 ]
