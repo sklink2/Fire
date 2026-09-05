@@ -4596,5 +4596,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-49052"
     }
+  },
+  {
+    "runNumber": "49053",
+    "rawCode": "MED",
+    "timestamp": "2026-09-04T21:56:23.858576-04:00",
+    "address": "3000 Block Rio Dosa Drive",
+    "extra": {
+      "incidentNumber": "49053",
+      "run_id": "49053",
+      "address": "3000 Block Rio Dosa Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49053"
+    }
   }
 ]
