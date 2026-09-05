@@ -790,5 +790,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49107"
     }
+  },
+  {
+    "runNumber": "49108",
+    "rawCode": "MED",
+    "timestamp": "2026-09-05T06:52:56.020312-04:00",
+    "address": "100 Block Burnett Avenue",
+    "extra": {
+      "incidentNumber": "49108",
+      "run_id": "49108",
+      "address": "100 Block Burnett Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49108"
+    }
   }
 ]
