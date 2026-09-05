@@ -4266,5 +4266,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49038"
     }
+  },
+  {
+    "runNumber": "49040",
+    "rawCode": "FVIS",
+    "timestamp": "2026-09-04T20:44:17.247534-04:00",
+    "address": "550 W Sixth Street",
+    "extra": {
+      "incidentNumber": "49040",
+      "run_id": "49040",
+      "address": "550 W Sixth Street",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E08,L01,EC1,205,RS1",
+      "units": "E01,E08,L01,EC1,205,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-49040"
+    }
   }
 ]
