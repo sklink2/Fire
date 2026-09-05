@@ -4574,5 +4574,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49051"
     }
+  },
+  {
+    "runNumber": "49052",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-04T21:51:55.082747-04:00",
+    "address": "1757 Rye Lane",
+    "extra": {
+      "incidentNumber": "49052",
+      "run_id": "49052",
+      "address": "1757 Rye Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E08,L05,201",
+      "units": "E02,E08,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-49052"
+    }
   }
 ]
