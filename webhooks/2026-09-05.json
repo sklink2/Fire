@@ -1604,5 +1604,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49142"
     }
+  },
+  {
+    "runNumber": "49145",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-05T12:26:33.526862-04:00",
+    "address": "801 Cooper Drive",
+    "extra": {
+      "incidentNumber": "49145",
+      "run_id": "49145",
+      "address": "801 Cooper Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC4",
+      "units": "E22,EC4",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49145"
+    }
   }
 ]
