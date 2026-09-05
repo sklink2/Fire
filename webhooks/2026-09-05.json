@@ -42,5 +42,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49072"
     }
+  },
+  {
+    "runNumber": "49074",
+    "rawCode": "FSTR",
+    "timestamp": "2026-09-05T00:29:47.109581-04:00",
+    "address": "438 Elm Street",
+    "extra": {
+      "incidentNumber": "49074",
+      "run_id": "49074",
+      "address": "438 Elm Street",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E08,E10,E13,L01,L03,EC6,203,205,220,241,RS1",
+      "units": "E01,E08,E10,E13,L01,L03,EC6,203,205,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,203,205",
+      "dedupeKey": "INCIDENT-49074"
+    }
   }
 ]
