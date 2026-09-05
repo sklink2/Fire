@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49092"
     }
+  },
+  {
+    "runNumber": "49093",
+    "rawCode": "MED",
+    "timestamp": "2026-09-05T03:39:04.705966-04:00",
+    "address": "300 Block Madison Place",
+    "extra": {
+      "incidentNumber": "49093",
+      "run_id": "49093",
+      "address": "300 Block Madison Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49093"
+    }
   }
 ]
