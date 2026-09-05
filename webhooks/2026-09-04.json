@@ -4222,5 +4222,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49035"
     }
+  },
+  {
+    "runNumber": "49037",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-04T20:26:17.621374-04:00",
+    "address": "1000 S Limestone",
+    "extra": {
+      "incidentNumber": "49037",
+      "run_id": "49037",
+      "address": "1000 S Limestone",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E11,L02,EC10,204,220",
+      "units": "E06,E11,L02,EC10,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-49037"
+    }
   }
 ]
