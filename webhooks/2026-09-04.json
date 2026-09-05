@@ -4244,5 +4244,27 @@
       "commandUnits": "220,204",
       "dedupeKey": "INCIDENT-49037"
     }
+  },
+  {
+    "runNumber": "49038",
+    "rawCode": "FMEA",
+    "timestamp": "2026-09-04T20:35:15.336006-04:00",
+    "address": "2800 Alumni Drive",
+    "extra": {
+      "incidentNumber": "49038",
+      "run_id": "49038",
+      "address": "2800 Alumni Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16",
+      "units": "E16",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49038"
+    }
   }
 ]
