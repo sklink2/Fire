@@ -2308,5 +2308,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49175"
     }
+  },
+  {
+    "runNumber": "49174",
+    "rawCode": "MED",
+    "timestamp": "2026-09-05T14:55:26.125299-04:00",
+    "address": "1500 Block Van Buren Drive",
+    "extra": {
+      "incidentNumber": "49174",
+      "run_id": "49174",
+      "address": "1500 Block Van Buren Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC13",
+      "units": "E02,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49174"
+    }
   }
 ]
