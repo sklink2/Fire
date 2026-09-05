@@ -2484,5 +2484,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49181"
     }
+  },
+  {
+    "runNumber": "49180",
+    "rawCode": "MED",
+    "timestamp": "2026-09-05T15:13:37.058258-04:00",
+    "address": "2300 Block Versailles Road",
+    "extra": {
+      "incidentNumber": "49180",
+      "run_id": "49180",
+      "address": "2300 Block Versailles Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49180"
+    }
   }
 ]
