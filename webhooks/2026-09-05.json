@@ -504,5 +504,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-49094"
     }
+  },
+  {
+    "runNumber": "49095",
+    "rawCode": "MED",
+    "timestamp": "2026-09-05T03:52:34.557471-04:00",
+    "address": "N Upper Street & W Fourth Street",
+    "extra": {
+      "incidentNumber": "49095",
+      "run_id": "49095",
+      "address": "N Upper Street & W Fourth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49095"
+    }
   }
 ]
