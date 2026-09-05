@@ -1340,5 +1340,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-49131"
     }
+  },
+  {
+    "runNumber": "49132",
+    "rawCode": "MED",
+    "timestamp": "2026-09-05T10:42:52.884305-04:00",
+    "address": "3400 Block Warwick Court",
+    "extra": {
+      "incidentNumber": "49132",
+      "run_id": "49132",
+      "address": "3400 Block Warwick Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49132"
+    }
   }
 ]
