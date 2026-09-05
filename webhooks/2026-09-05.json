@@ -3254,5 +3254,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49216"
     }
+  },
+  {
+    "runNumber": "49219",
+    "rawCode": "MED",
+    "timestamp": "2026-09-05T18:00:12.334977-04:00",
+    "address": "1800 Block Arundel Drive",
+    "extra": {
+      "incidentNumber": "49219",
+      "run_id": "49219",
+      "address": "1800 Block Arundel Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49219"
+    }
   }
 ]
