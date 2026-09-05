@@ -3474,5 +3474,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-49228"
     }
+  },
+  {
+    "runNumber": "49229",
+    "rawCode": "MED",
+    "timestamp": "2026-09-05T18:40:44.999554-04:00",
+    "address": "100 Block Brown Avenue",
+    "extra": {
+      "incidentNumber": "49229",
+      "run_id": "49229",
+      "address": "100 Block Brown Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L01,EC8",
+      "units": "L01,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49229"
+    }
   }
 ]
