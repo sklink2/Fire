@@ -1890,5 +1890,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49156"
     }
+  },
+  {
+    "runNumber": "49161",
+    "rawCode": "MED",
+    "timestamp": "2026-09-05T13:43:13.917096-04:00",
+    "address": "1200 Block Birmingham Lane",
+    "extra": {
+      "incidentNumber": "49161",
+      "run_id": "49161",
+      "address": "1200 Block Birmingham Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC3",
+      "units": "E09,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49161"
+    }
   }
 ]
