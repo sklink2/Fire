@@ -1318,5 +1318,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49130"
     }
+  },
+  {
+    "runNumber": "49131",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-05T10:38:22.773738-04:00",
+    "address": "150 Huguelet Drive",
+    "extra": {
+      "incidentNumber": "49131",
+      "run_id": "49131",
+      "address": "150 Huguelet Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,L02,205",
+      "units": "E05,E06,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-49131"
+    }
   }
 ]
