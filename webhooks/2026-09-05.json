@@ -1362,5 +1362,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49132"
     }
+  },
+  {
+    "runNumber": "49133",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-05T10:51:54.568240-04:00",
+    "address": "300 Melbourne Way",
+    "extra": {
+      "incidentNumber": "49133",
+      "run_id": "49133",
+      "address": "300 Melbourne Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,E15,L04,202",
+      "units": "E11,E15,L04,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-49133"
+    }
   }
 ]
