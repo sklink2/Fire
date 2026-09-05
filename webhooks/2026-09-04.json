@@ -4992,5 +4992,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49071"
     }
+  },
+  {
+    "runNumber": "49070",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-09-04T23:53:41.871441-04:00",
+    "address": "1650 Bryan Station Road",
+    "extra": {
+      "incidentNumber": "49070",
+      "run_id": "49070",
+      "address": "1650 Bryan Station Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,L05,EC3,201,241,RS1",
+      "units": "E02,L05,EC3,201,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-49070"
+    }
   }
 ]
