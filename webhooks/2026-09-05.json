@@ -1142,5 +1142,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49121"
     }
+  },
+  {
+    "runNumber": "49118",
+    "rawCode": "FSTR",
+    "timestamp": "2026-09-05T09:08:23.452353-04:00",
+    "address": "4002 Livingston Lane",
+    "extra": {
+      "incidentNumber": "49118",
+      "run_id": "49118",
+      "address": "4002 Livingston Lane",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,E09,E13,E18,L02,L06,EC2,202,204,205,241,RS1",
+      "units": "E07,E09,E13,E18,L02,L06,EC2,202,204,205,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,202,204,205",
+      "dedupeKey": "INCIDENT-49118"
+    }
   }
 ]
