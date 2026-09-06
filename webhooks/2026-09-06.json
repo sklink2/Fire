@@ -1296,5 +1296,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-49355"
     }
+  },
+  {
+    "runNumber": "49356",
+    "rawCode": "MED",
+    "timestamp": "2026-09-06T07:49:42.595731-04:00",
+    "address": "200 Block Jefferson Street",
+    "extra": {
+      "incidentNumber": "49356",
+      "run_id": "49356",
+      "address": "200 Block Jefferson Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01,EC1",
+      "units": "L01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49356"
+    }
   }
 ]
