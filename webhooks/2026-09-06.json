@@ -1274,5 +1274,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49354"
     }
+  },
+  {
+    "runNumber": "49355",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-06T07:45:14.841737-04:00",
+    "address": "450 Pennsylvania Avenue",
+    "extra": {
+      "incidentNumber": "49355",
+      "run_id": "49355",
+      "address": "450 Pennsylvania Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E05,L02,205",
+      "units": "E01,E05,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-49355"
+    }
   }
 ]
