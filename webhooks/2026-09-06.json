@@ -3386,5 +3386,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49447"
     }
+  },
+  {
+    "runNumber": "49453",
+    "rawCode": "FMIS",
+    "timestamp": "2026-09-06T18:34:26.953932-04:00",
+    "address": "2717 Jacquelyn Lane",
+    "extra": {
+      "incidentNumber": "49453",
+      "run_id": "49453",
+      "address": "2717 Jacquelyn Lane",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,203",
+      "units": "E24,203",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-49453"
+    }
   }
 ]
