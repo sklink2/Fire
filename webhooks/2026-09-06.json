@@ -2506,5 +2506,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49411"
     }
+  },
+  {
+    "runNumber": "49410",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-06T14:17:29.998914-04:00",
+    "address": "155 E Main Street",
+    "extra": {
+      "incidentNumber": "49410",
+      "run_id": "49410",
+      "address": "155 E Main Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E06,E13,L01,205",
+      "units": "E01,E06,E13,L01,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-49410"
+    }
   }
 ]
