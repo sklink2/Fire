@@ -3276,5 +3276,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-49443"
     }
+  },
+  {
+    "runNumber": "49445",
+    "rawCode": "FGAO",
+    "timestamp": "2026-09-06T18:07:22.828752-04:00",
+    "address": "223 S Eagle Creek Drive",
+    "extra": {
+      "incidentNumber": "49445",
+      "run_id": "49445",
+      "address": "223 S Eagle Creek Drive",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E21",
+      "units": "E16,E21",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49445"
+    }
   }
 ]
