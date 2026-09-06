@@ -4552,5 +4552,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49278"
     }
+  },
+  {
+    "runNumber": "49277",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-05T22:12:46.172947-04:00",
+    "address": "2059 Tamarack Drive",
+    "extra": {
+      "incidentNumber": "49277",
+      "run_id": "49277",
+      "address": "2059 Tamarack Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,E20,L04,EC12,204,220",
+      "units": "E11,E20,L04,EC12,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-49277"
+    }
   }
 ]
