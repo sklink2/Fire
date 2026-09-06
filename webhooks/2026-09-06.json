@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49370"
     }
+  },
+  {
+    "runNumber": "49371",
+    "rawCode": "MED",
+    "timestamp": "2026-09-06T10:04:57.901064-04:00",
+    "address": "2300 Block Alumni Drive",
+    "extra": {
+      "incidentNumber": "49371",
+      "run_id": "49371",
+      "address": "2300 Block Alumni Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49371"
+    }
   }
 ]
