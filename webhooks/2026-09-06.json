@@ -416,5 +416,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49315"
     }
+  },
+  {
+    "runNumber": "49316",
+    "rawCode": "MED",
+    "timestamp": "2026-09-06T02:25:09.536684-04:00",
+    "address": "1800 Block Idle Brook Way",
+    "extra": {
+      "incidentNumber": "49316",
+      "run_id": "49316",
+      "address": "1800 Block Idle Brook Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49316"
+    }
   }
 ]
