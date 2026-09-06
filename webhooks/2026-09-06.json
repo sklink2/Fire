@@ -2638,5 +2638,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49415"
     }
+  },
+  {
+    "runNumber": "49417",
+    "rawCode": "MED",
+    "timestamp": "2026-09-06T15:11:31.102730-04:00",
+    "address": "100 Block Londonderry Drive",
+    "extra": {
+      "incidentNumber": "49417",
+      "run_id": "49417",
+      "address": "100 Block Londonderry Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,EC10",
+      "units": "E13,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49417"
+    }
   }
 ]
