@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49458"
     }
+  },
+  {
+    "runNumber": "49457",
+    "rawCode": "MED",
+    "timestamp": "2026-09-06T18:48:01.236054-04:00",
+    "address": "2200 Block Alexandria Drive",
+    "extra": {
+      "incidentNumber": "49457",
+      "run_id": "49457",
+      "address": "2200 Block Alexandria Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49457"
+    }
   }
 ]
