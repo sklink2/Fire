@@ -4640,5 +4640,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49283"
     }
+  },
+  {
+    "runNumber": "49282",
+    "rawCode": "MED",
+    "timestamp": "2026-09-05T22:35:16.513428-04:00",
+    "address": "500 Block Brookwater Lane",
+    "extra": {
+      "incidentNumber": "49282",
+      "run_id": "49282",
+      "address": "500 Block Brookwater Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC13",
+      "units": "E22,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49282"
+    }
   }
 ]
