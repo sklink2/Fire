@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49324"
     }
+  },
+  {
+    "runNumber": "49327",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-06T03:46:17.325750-04:00",
+    "address": "E Third Street & Nelson Avenue",
+    "extra": {
+      "incidentNumber": "49327",
+      "run_id": "49327",
+      "address": "E Third Street & Nelson Avenue",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC8",
+      "units": "E01,EC8",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49327"
+    }
   }
 ]
