@@ -130,5 +130,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49302"
     }
+  },
+  {
+    "runNumber": "49304",
+    "rawCode": "MED",
+    "timestamp": "2026-09-06T00:50:28.033422-04:00",
+    "address": "100 Block N Mill Street",
+    "extra": {
+      "incidentNumber": "49304",
+      "run_id": "49304",
+      "address": "100 Block N Mill Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49304"
+    }
   }
 ]
