@@ -1120,5 +1120,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49346"
     }
+  },
+  {
+    "runNumber": "49348",
+    "rawCode": "FELS",
+    "timestamp": "2026-09-06T07:09:10.393136-04:00",
+    "address": "3195 Rio Dosa Drive",
+    "extra": {
+      "incidentNumber": "49348",
+      "run_id": "49348",
+      "address": "3195 Rio Dosa Drive",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,L06,202",
+      "units": "E09,L06,202",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-49348"
+    }
   }
 ]
