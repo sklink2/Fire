@@ -4706,5 +4706,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49284"
     }
+  },
+  {
+    "runNumber": "49285",
+    "rawCode": "FCMS",
+    "timestamp": "2026-09-05T22:48:47.022825-04:00",
+    "address": "307 Richmond Avenue",
+    "extra": {
+      "incidentNumber": "49285",
+      "run_id": "49285",
+      "address": "307 Richmond Avenue",
+      "rawType": "FCMS",
+      "typeCode": "FCMS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,L02,EC7,205,220,241",
+      "units": "E05,L02,EC7,205,220,241",
+      "unitCount": "6",
+      "primaryTopic": "FCMS",
+      "commandUnits": "241,220,205",
+      "dedupeKey": "INCIDENT-49285"
+    }
   }
 ]
