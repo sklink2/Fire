@@ -3408,5 +3408,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-49453"
     }
+  },
+  {
+    "runNumber": "49452",
+    "rawCode": "FELF",
+    "timestamp": "2026-09-06T18:34:30.739135-04:00",
+    "address": "1420 N Broadway",
+    "extra": {
+      "incidentNumber": "49452",
+      "run_id": "49452",
+      "address": "1420 N Broadway",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E10,L05,201",
+      "units": "E04,E10,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-49452"
+    }
   }
 ]
