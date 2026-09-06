@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49402"
     }
+  },
+  {
+    "runNumber": "49403",
+    "rawCode": "FBAS",
+    "timestamp": "2026-09-06T13:05:17.831171-04:00",
+    "address": "1446 Huntsville Drive",
+    "extra": {
+      "incidentNumber": "49403",
+      "run_id": "49403",
+      "address": "1446 Huntsville Drive",
+      "rawType": "FBAS",
+      "typeCode": "FBAS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC3,201",
+      "units": "E02,EC3,201",
+      "unitCount": "3",
+      "primaryTopic": "FBAS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-49403"
+    }
   }
 ]
