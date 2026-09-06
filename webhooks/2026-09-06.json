@@ -1802,5 +1802,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49378"
     }
+  },
+  {
+    "runNumber": "49380",
+    "rawCode": "MED",
+    "timestamp": "2026-09-06T10:54:33.683770-04:00",
+    "address": "300 Block W Fifth Street",
+    "extra": {
+      "incidentNumber": "49380",
+      "run_id": "49380",
+      "address": "300 Block W Fifth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,EC6",
+      "units": "E04,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49380"
+    }
   }
 ]
