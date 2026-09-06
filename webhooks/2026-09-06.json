@@ -3254,5 +3254,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49444"
     }
+  },
+  {
+    "runNumber": "49443",
+    "rawCode": "FSIA",
+    "timestamp": "2026-09-06T18:02:55.309564-04:00",
+    "address": "Wyndham Hills Drive & Boston Road",
+    "extra": {
+      "incidentNumber": "49443",
+      "run_id": "49443",
+      "address": "Wyndham Hills Drive & Boston Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,E20,204",
+      "units": "E15,E20,204",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-49443"
+    }
   }
 ]
