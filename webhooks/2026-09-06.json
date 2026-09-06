@@ -834,5 +834,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-49334"
     }
+  },
+  {
+    "runNumber": "49336",
+    "rawCode": "MED",
+    "timestamp": "2026-09-06T05:25:29.023068-04:00",
+    "address": "500 Block Lin Wal Road",
+    "extra": {
+      "incidentNumber": "49336",
+      "run_id": "49336",
+      "address": "500 Block Lin Wal Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49336"
+    }
   }
 ]
