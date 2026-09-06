@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49399"
     }
+  },
+  {
+    "runNumber": "49401",
+    "rawCode": "MED",
+    "timestamp": "2026-09-06T12:24:42.980941-04:00",
+    "address": "1200 Block Atokad Park",
+    "extra": {
+      "incidentNumber": "49401",
+      "run_id": "49401",
+      "address": "1200 Block Atokad Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC9",
+      "units": "E16,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49401"
+    }
   }
 ]
