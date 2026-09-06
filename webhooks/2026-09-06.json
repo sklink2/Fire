@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49312"
     }
+  },
+  {
+    "runNumber": "49313",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-09-06T02:02:38.765729-04:00",
+    "address": "532 Ohio Street",
+    "extra": {
+      "incidentNumber": "49313",
+      "run_id": "49313",
+      "address": "532 Ohio Street",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,L01,EC3,205,241,RS1",
+      "units": "E01,L01,EC3,205,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,205",
+      "dedupeKey": "INCIDENT-49313"
+    }
   }
 ]
