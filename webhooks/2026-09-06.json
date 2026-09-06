@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49331"
     }
+  },
+  {
+    "runNumber": "49332",
+    "rawCode": "MED",
+    "timestamp": "2026-09-06T04:17:50.539533-04:00",
+    "address": "3600 Block Walden Drive",
+    "extra": {
+      "incidentNumber": "49332",
+      "run_id": "49332",
+      "address": "3600 Block Walden Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,EC4",
+      "units": "E07,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49332"
+    }
   }
 ]
