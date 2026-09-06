@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49407"
     }
+  },
+  {
+    "runNumber": "49409",
+    "rawCode": "MED",
+    "timestamp": "2026-09-06T14:12:55.102266-04:00",
+    "address": "700 Block Florida Street",
+    "extra": {
+      "incidentNumber": "49409",
+      "run_id": "49409",
+      "address": "700 Block Florida Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,EC10",
+      "units": "E04,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49409"
+    }
   }
 ]
