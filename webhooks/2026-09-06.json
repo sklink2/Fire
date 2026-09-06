@@ -284,5 +284,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49309"
     }
+  },
+  {
+    "runNumber": "49310",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-06T01:40:05.389989-04:00",
+    "address": "120 W Second Street",
+    "extra": {
+      "incidentNumber": "49310",
+      "run_id": "49310",
+      "address": "120 W Second Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E06,L01,205",
+      "units": "E01,E06,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-49310"
+    }
   }
 ]
