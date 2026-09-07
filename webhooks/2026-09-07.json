@@ -2462,5 +2462,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-49615"
     }
+  },
+  {
+    "runNumber": "49616",
+    "rawCode": "MED",
+    "timestamp": "2026-09-07T18:41:38.567717-04:00",
+    "address": "1900 Block Plaudit Place",
+    "extra": {
+      "incidentNumber": "49616",
+      "run_id": "49616",
+      "address": "1900 Block Plaudit Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49616"
+    }
   }
 ]
