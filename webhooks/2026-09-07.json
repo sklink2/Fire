@@ -592,5 +592,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-49528"
     }
+  },
+  {
+    "runNumber": "49527",
+    "rawCode": "MED",
+    "timestamp": "2026-09-07T06:08:48.466967-04:00",
+    "address": "4300 Block River Oak Trail",
+    "extra": {
+      "incidentNumber": "49527",
+      "run_id": "49527",
+      "address": "4300 Block River Oak Trail",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC9",
+      "units": "E22,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49527"
+    }
   }
 ]
