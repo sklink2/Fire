@@ -4222,5 +4222,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-49489"
     }
+  },
+  {
+    "runNumber": "49490",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-06T22:37:51.673255-04:00",
+    "address": "678 Leslie Court",
+    "extra": {
+      "incidentNumber": "49490",
+      "run_id": "49490",
+      "address": "678 Leslie Court",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02",
+      "units": "E02",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49490"
+    }
   }
 ]
