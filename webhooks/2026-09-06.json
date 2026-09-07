@@ -4288,5 +4288,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49493"
     }
+  },
+  {
+    "runNumber": "49492",
+    "rawCode": "MED",
+    "timestamp": "2026-09-06T23:00:27.684214-04:00",
+    "address": "100 Block Sheila Court",
+    "extra": {
+      "incidentNumber": "49492",
+      "run_id": "49492",
+      "address": "100 Block Sheila Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01,EC1",
+      "units": "L01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49492"
+    }
   }
 ]
