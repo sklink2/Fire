@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49582"
     }
+  },
+  {
+    "runNumber": "49584",
+    "rawCode": "MED",
+    "timestamp": "2026-09-07T14:24:38.545063-04:00",
+    "address": "300 Block Legion Drive",
+    "extra": {
+      "incidentNumber": "49584",
+      "run_id": "49584",
+      "address": "300 Block Legion Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC7",
+      "units": "E11,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49584"
+    }
   }
 ]
