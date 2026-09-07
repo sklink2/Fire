@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49573"
     }
+  },
+  {
+    "runNumber": "49572",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-07T12:41:00.836966-04:00",
+    "address": "3684 Amick Way",
+    "extra": {
+      "incidentNumber": "49572",
+      "run_id": "49572",
+      "address": "3684 Amick Way",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21",
+      "units": "E21",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49572"
+    }
   }
 ]
