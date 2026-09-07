@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49518"
     }
+  },
+  {
+    "runNumber": "49519",
+    "rawCode": "MED",
+    "timestamp": "2026-09-07T03:48:57.433998-04:00",
+    "address": "300 Block Roosevelt Boulevard",
+    "extra": {
+      "incidentNumber": "49519",
+      "run_id": "49519",
+      "address": "300 Block Roosevelt Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49519"
+    }
   }
 ]
