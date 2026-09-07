@@ -856,5 +856,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49539"
     }
+  },
+  {
+    "runNumber": "49541",
+    "rawCode": "MED",
+    "timestamp": "2026-09-07T08:10:26.312801-04:00",
+    "address": "200 Block S Cleveland Road",
+    "extra": {
+      "incidentNumber": "49541",
+      "run_id": "49541",
+      "address": "200 Block S Cleveland Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E18,EC11,CRT1",
+      "units": "E18,EC11,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49541"
+    }
   }
 ]
