@@ -1428,5 +1428,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49565"
     }
+  },
+  {
+    "runNumber": "49566",
+    "rawCode": "MED",
+    "timestamp": "2026-09-07T11:51:22.140253-04:00",
+    "address": "600 Block Woodward Lane",
+    "extra": {
+      "incidentNumber": "49566",
+      "run_id": "49566",
+      "address": "600 Block Woodward Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49566"
+    }
   }
 ]
