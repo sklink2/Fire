@@ -2242,5 +2242,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49604"
     }
+  },
+  {
+    "runNumber": "49603",
+    "rawCode": "MED",
+    "timestamp": "2026-09-07T16:49:00.586532-04:00",
+    "address": "600 Block Skyview Lane",
+    "extra": {
+      "incidentNumber": "49603",
+      "run_id": "49603",
+      "address": "600 Block Skyview Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49603"
+    }
   }
 ]
