@@ -1186,5 +1186,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49554"
     }
+  },
+  {
+    "runNumber": "49555",
+    "rawCode": "MED",
+    "timestamp": "2026-09-07T10:30:12.576798-04:00",
+    "address": "1300 Block S Broadway",
+    "extra": {
+      "incidentNumber": "49555",
+      "run_id": "49555",
+      "address": "1300 Block S Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49555"
+    }
   }
 ]
