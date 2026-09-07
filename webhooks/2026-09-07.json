@@ -570,5 +570,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49523"
     }
+  },
+  {
+    "runNumber": "49528",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-07T06:08:44.654072-04:00",
+    "address": "464 Squires Road",
+    "extra": {
+      "incidentNumber": "49528",
+      "run_id": "49528",
+      "address": "464 Squires Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E16,L06,202",
+      "units": "E09,E16,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-49528"
+    }
   }
 ]
