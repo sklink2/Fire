@@ -1406,5 +1406,27 @@
       "commandUnits": "241,205",
       "dedupeKey": "INCIDENT-49564"
     }
+  },
+  {
+    "runNumber": "49565",
+    "rawCode": "FOTS",
+    "timestamp": "2026-09-07T11:42:21.798947-04:00",
+    "address": "3050 Kirklevington Drive",
+    "extra": {
+      "incidentNumber": "49565",
+      "run_id": "49565",
+      "address": "3050 Kirklevington Drive",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07",
+      "units": "E07",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49565"
+    }
   }
 ]
