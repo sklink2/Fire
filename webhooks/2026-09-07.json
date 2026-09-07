@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49563"
     }
+  },
+  {
+    "runNumber": "49564",
+    "rawCode": "MED",
+    "timestamp": "2026-09-07T11:37:54.540719-04:00",
+    "address": "1600 Block Old Paris Road",
+    "extra": {
+      "incidentNumber": "49564",
+      "run_id": "49564",
+      "address": "1600 Block Old Paris Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC10,205,241,CRT1",
+      "units": "E08,EC10,205,241,CRT1",
+      "unitCount": "5",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,205",
+      "dedupeKey": "INCIDENT-49564"
+    }
   }
 ]
