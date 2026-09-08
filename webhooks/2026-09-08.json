@@ -2484,5 +2484,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49768"
     }
+  },
+  {
+    "runNumber": "49771",
+    "rawCode": "MED",
+    "timestamp": "2026-09-08T15:57:28.723169-04:00",
+    "address": "2900 Block Majestic View Walk",
+    "extra": {
+      "incidentNumber": "49771",
+      "run_id": "49771",
+      "address": "2900 Block Majestic View Walk",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "T1,EC5",
+      "units": "T1,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49771"
+    }
   }
 ]
