@@ -1934,5 +1934,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49745"
     }
+  },
+  {
+    "runNumber": "49747",
+    "rawCode": "FMIS",
+    "timestamp": "2026-09-08T13:46:45.611289-04:00",
+    "address": "133 Yamacraw Place",
+    "extra": {
+      "incidentNumber": "49747",
+      "run_id": "49747",
+      "address": "133 Yamacraw Place",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,203",
+      "units": "E13,203",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-49747"
+    }
   }
 ]
