@@ -3078,5 +3078,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49797"
     }
+  },
+  {
+    "runNumber": "49799",
+    "rawCode": "MED",
+    "timestamp": "2026-09-08T18:26:15.418802-04:00",
+    "address": "600 Block Dartmoor Drive",
+    "extra": {
+      "incidentNumber": "49799",
+      "run_id": "49799",
+      "address": "600 Block Dartmoor Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC8,CRT1",
+      "units": "E02,EC8,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49799"
+    }
   }
 ]
