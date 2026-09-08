@@ -3034,5 +3034,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-49794"
     }
+  },
+  {
+    "runNumber": "49796",
+    "rawCode": "FBGL",
+    "timestamp": "2026-09-08T18:08:17.412896-04:00",
+    "address": "100 E Main Street",
+    "extra": {
+      "incidentNumber": "49796",
+      "run_id": "49796",
+      "address": "100 E Main Street",
+      "rawType": "FBGL",
+      "typeCode": "FBGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "FBGL",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49796"
+    }
   }
 ]
