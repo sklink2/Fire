@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49689"
     }
+  },
+  {
+    "runNumber": "49692",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-08T07:59:37.467207-04:00",
+    "address": "2848 Peaks Mill Drive",
+    "extra": {
+      "incidentNumber": "49692",
+      "run_id": "49692",
+      "address": "2848 Peaks Mill Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "T1,EC5",
+      "units": "T1,EC5",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49692"
+    }
   }
 ]
