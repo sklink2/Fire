@@ -2770,5 +2770,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49783"
     }
+  },
+  {
+    "runNumber": "49785",
+    "rawCode": "MED",
+    "timestamp": "2026-09-08T17:27:38.329164-04:00",
+    "address": "3200 Block Packanack Court",
+    "extra": {
+      "incidentNumber": "49785",
+      "run_id": "49785",
+      "address": "3200 Block Packanack Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49785"
+    }
   }
 ]
