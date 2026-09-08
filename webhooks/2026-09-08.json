@@ -1450,5 +1450,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49724"
     }
+  },
+  {
+    "runNumber": "49725",
+    "rawCode": "FMEA",
+    "timestamp": "2026-09-08T11:40:31.312533-04:00",
+    "address": "3617 King Arthur Drive",
+    "extra": {
+      "incidentNumber": "49725",
+      "run_id": "49725",
+      "address": "3617 King Arthur Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22",
+      "units": "E22",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49725"
+    }
   }
 ]
