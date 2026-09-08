@@ -3188,5 +3188,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49801"
     }
+  },
+  {
+    "runNumber": "49804",
+    "rawCode": "MED",
+    "timestamp": "2026-09-08T18:57:49.956737-04:00",
+    "address": "200 Block N Mill Street",
+    "extra": {
+      "incidentNumber": "49804",
+      "run_id": "49804",
+      "address": "200 Block N Mill Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49804"
+    }
   }
 ]
