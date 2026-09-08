@@ -1978,5 +1978,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49746"
     }
+  },
+  {
+    "runNumber": "49748",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-08T13:51:15.846026-04:00",
+    "address": "1900 Richmond Road",
+    "extra": {
+      "incidentNumber": "49748",
+      "run_id": "49748",
+      "address": "1900 Richmond Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E09,L02,202",
+      "units": "E05,E09,L02,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-49748"
+    }
   }
 ]
