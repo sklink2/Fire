@@ -3254,5 +3254,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49650"
     }
+  },
+  {
+    "runNumber": "49652",
+    "rawCode": "FFIA",
+    "timestamp": "2026-09-07T22:31:33.769320-04:00",
+    "address": "435 Euclid Avenue",
+    "extra": {
+      "incidentNumber": "49652",
+      "run_id": "49652",
+      "address": "435 Euclid Avenue",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,L02,205",
+      "units": "E05,E06,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FFIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-49652"
+    }
   }
 ]
