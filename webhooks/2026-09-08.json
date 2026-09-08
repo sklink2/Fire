@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49772"
     }
+  },
+  {
+    "runNumber": "49774",
+    "rawCode": "MED",
+    "timestamp": "2026-09-08T16:11:00.734882-04:00",
+    "address": "3500 Block Robinhill Way",
+    "extra": {
+      "incidentNumber": "49774",
+      "run_id": "49774",
+      "address": "3500 Block Robinhill Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49774"
+    }
   }
 ]
