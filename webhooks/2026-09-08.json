@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49699"
     }
+  },
+  {
+    "runNumber": "49701",
+    "rawCode": "FOTS",
+    "timestamp": "2026-09-08T08:49:12.872995-04:00",
+    "address": "2917 Easthills Drive",
+    "extra": {
+      "incidentNumber": "49701",
+      "run_id": "49701",
+      "address": "2917 Easthills Drive",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16",
+      "units": "E16",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49701"
+    }
   }
 ]
