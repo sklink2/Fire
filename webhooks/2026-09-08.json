@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49742"
     }
+  },
+  {
+    "runNumber": "49743",
+    "rawCode": "MED",
+    "timestamp": "2026-09-08T13:28:43.498316-04:00",
+    "address": "300 Block Hays Boulevard",
+    "extra": {
+      "incidentNumber": "49743",
+      "run_id": "49743",
+      "address": "300 Block Hays Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49743"
+    }
   }
 ]
