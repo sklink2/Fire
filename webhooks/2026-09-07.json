@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49631"
     }
+  },
+  {
+    "runNumber": "49630",
+    "rawCode": "FOTS",
+    "timestamp": "2026-09-07T20:11:50.964920-04:00",
+    "address": "3100 Helmsdale Place",
+    "extra": {
+      "incidentNumber": "49630",
+      "run_id": "49630",
+      "address": "3100 Helmsdale Place",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49630"
+    }
   }
 ]
