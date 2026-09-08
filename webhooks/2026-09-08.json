@@ -2572,5 +2572,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49774"
     }
+  },
+  {
+    "runNumber": "49775",
+    "rawCode": "MED",
+    "timestamp": "2026-09-08T16:24:30.773857-04:00",
+    "address": "2200 Block Tracery Oaks Drive",
+    "extra": {
+      "incidentNumber": "49775",
+      "run_id": "49775",
+      "address": "2200 Block Tracery Oaks Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC10,CRT1",
+      "units": "E22,EC10,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49775"
+    }
   }
 ]
