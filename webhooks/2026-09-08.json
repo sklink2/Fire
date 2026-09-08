@@ -1802,5 +1802,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49740"
     }
+  },
+  {
+    "runNumber": "49739",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-08T13:06:14.378435-04:00",
+    "address": "321 Columbia Terrace",
+    "extra": {
+      "incidentNumber": "49739",
+      "run_id": "49739",
+      "address": "321 Columbia Terrace",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E05,L02,EC1,205",
+      "units": "E02,E05,L02,EC1,205",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-49739"
+    }
   }
 ]
