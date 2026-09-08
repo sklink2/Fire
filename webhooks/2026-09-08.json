@@ -1054,5 +1054,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49706"
     }
+  },
+  {
+    "runNumber": "49707",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-08T09:52:20.862079-04:00",
+    "address": "3138 Custer Drive",
+    "extra": {
+      "incidentNumber": "49707",
+      "run_id": "49707",
+      "address": "3138 Custer Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E21,L06,202",
+      "units": "E09,E21,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-49707"
+    }
   }
 ]
