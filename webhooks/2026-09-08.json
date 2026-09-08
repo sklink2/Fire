@@ -3144,5 +3144,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49797"
     }
+  },
+  {
+    "runNumber": "49800",
+    "rawCode": "MED",
+    "timestamp": "2026-09-08T18:39:48.524983-04:00",
+    "address": "300 Block Colony Boulevard",
+    "extra": {
+      "incidentNumber": "49800",
+      "run_id": "49800",
+      "address": "300 Block Colony Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,EC2",
+      "units": "E05,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49800"
+    }
   }
 ]
