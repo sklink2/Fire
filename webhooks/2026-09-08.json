@@ -636,5 +636,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49687"
     }
+  },
+  {
+    "runNumber": "49688",
+    "rawCode": "MED",
+    "timestamp": "2026-09-08T07:23:34.448822-04:00",
+    "address": "300 Block Virginia Avenue",
+    "extra": {
+      "incidentNumber": "49688",
+      "run_id": "49688",
+      "address": "300 Block Virginia Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,EC12,CRT1",
+      "units": "E11,EC12,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49688"
+    }
   }
 ]
