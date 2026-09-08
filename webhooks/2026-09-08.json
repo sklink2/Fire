@@ -2924,5 +2924,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49790"
     }
+  },
+  {
+    "runNumber": "49793",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-08T17:59:14.395989-04:00",
+    "address": "3276 Yellowstone Parkway",
+    "extra": {
+      "incidentNumber": "49793",
+      "run_id": "49793",
+      "address": "3276 Yellowstone Parkway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E16,L06,202",
+      "units": "E09,E16,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-49793"
+    }
   }
 ]
