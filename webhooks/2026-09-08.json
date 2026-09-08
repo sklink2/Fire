@@ -1692,5 +1692,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-49735"
     }
+  },
+  {
+    "runNumber": "49734",
+    "rawCode": "MED",
+    "timestamp": "2026-09-08T12:43:45.691184-04:00",
+    "address": "3000 Block Fieldstone Way",
+    "extra": {
+      "incidentNumber": "49734",
+      "run_id": "49734",
+      "address": "3000 Block Fieldstone Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,L04,EC12",
+      "units": "E20,L04,EC12",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49734"
+    }
   }
 ]
