@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49675"
     }
+  },
+  {
+    "runNumber": "49674",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-08T03:56:16.115799-04:00",
+    "address": "603 Adcolor Drive",
+    "extra": {
+      "incidentNumber": "49674",
+      "run_id": "49674",
+      "address": "603 Adcolor Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E10,L03,203",
+      "units": "E04,E10,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-49674"
+    }
   }
 ]
