@@ -3320,5 +3320,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-49806"
     }
+  },
+  {
+    "runNumber": "49808",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-08T19:42:55.481717-04:00",
+    "address": "249 Fairgrounds Drive",
+    "extra": {
+      "incidentNumber": "49808",
+      "run_id": "49808",
+      "address": "249 Fairgrounds Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49808"
+    }
   }
 ]
