@@ -174,5 +174,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49665"
     }
+  },
+  {
+    "runNumber": "49666",
+    "rawCode": "MED",
+    "timestamp": "2026-09-08T01:36:24.718388-04:00",
+    "address": "1500 Block Pine Needles Lane",
+    "extra": {
+      "incidentNumber": "49666",
+      "run_id": "49666",
+      "address": "1500 Block Pine Needles Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49666"
+    }
   }
 ]
