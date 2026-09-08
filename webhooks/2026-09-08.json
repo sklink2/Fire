@@ -2506,5 +2506,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49771"
     }
+  },
+  {
+    "runNumber": "49773",
+    "rawCode": "FSTR",
+    "timestamp": "2026-09-08T16:02:03.333834-04:00",
+    "address": "365 Kelli Rose Way",
+    "extra": {
+      "incidentNumber": "49773",
+      "run_id": "49773",
+      "address": "365 Kelli Rose Way",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,E15,E20,E22,L04,L07,EC10,201,202,204,241,RS1",
+      "units": "E12,E15,E20,E22,L04,L07,EC10,201,202,204,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,201,202,204",
+      "dedupeKey": "INCIDENT-49773"
+    }
   }
 ]
