@@ -2638,5 +2638,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49777"
     }
+  },
+  {
+    "runNumber": "49778",
+    "rawCode": "MED",
+    "timestamp": "2026-09-08T16:42:35.037764-04:00",
+    "address": "1700 Block Brook Park Drive",
+    "extra": {
+      "incidentNumber": "49778",
+      "run_id": "49778",
+      "address": "1700 Block Brook Park Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC4",
+      "units": "E22,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49778"
+    }
   }
 ]
