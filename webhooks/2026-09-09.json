@@ -350,5 +350,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-49850"
     }
+  },
+  {
+    "runNumber": "49851",
+    "rawCode": "MED",
+    "timestamp": "2026-09-09T02:55:44.115720-04:00",
+    "address": "800 Block Angliana Avenue",
+    "extra": {
+      "incidentNumber": "49851",
+      "run_id": "49851",
+      "address": "800 Block Angliana Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49851"
+    }
   }
 ]
