@@ -2000,5 +2000,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49925"
     }
+  },
+  {
+    "runNumber": "49926",
+    "rawCode": "FELS",
+    "timestamp": "2026-09-09T11:47:41.462195-04:00",
+    "address": "1 Street Joseph Drive",
+    "extra": {
+      "incidentNumber": "49926",
+      "run_id": "49926",
+      "address": "1 Street Joseph Drive",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L02,204,RS1",
+      "units": "L02,204,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-49926"
+    }
   }
 ]
