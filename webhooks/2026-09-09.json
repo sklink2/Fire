@@ -3122,5 +3122,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49977"
     }
+  },
+  {
+    "runNumber": "49979",
+    "rawCode": "FSTR",
+    "timestamp": "2026-09-09T15:55:43.306067-04:00",
+    "address": "895 Cheryl Lane",
+    "extra": {
+      "incidentNumber": "49979",
+      "run_id": "49979",
+      "address": "895 Cheryl Lane",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E12,E13,E14,L02,L04,EC4,204,205,220,241,RS1",
+      "units": "E11,E12,E13,E14,L02,L04,EC4,204,205,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,204,205",
+      "dedupeKey": "INCIDENT-49979"
+    }
   }
 ]
