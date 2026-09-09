@@ -306,5 +306,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49848"
     }
+  },
+  {
+    "runNumber": "49849",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-09-09T01:48:08.981571-04:00",
+    "address": "1561 Deer Lake Drive",
+    "extra": {
+      "incidentNumber": "49849",
+      "run_id": "49849",
+      "address": "1561 Deer Lake Drive",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,L07,EC13,202,241,RS1",
+      "units": "E22,L07,EC13,202,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-49849"
+    }
   }
 ]
