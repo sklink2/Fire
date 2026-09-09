@@ -3584,5 +3584,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49999"
     }
+  },
+  {
+    "runNumber": "49998",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-09T17:12:20.825128-04:00",
+    "address": "321 Clay Avenue",
+    "extra": {
+      "incidentNumber": "49998",
+      "run_id": "49998",
+      "address": "321 Clay Avenue",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC7",
+      "units": "E05,EC7",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49998"
+    }
   }
 ]
