@@ -3188,5 +3188,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49980"
     }
+  },
+  {
+    "runNumber": "49981",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-09T16:04:39.948862-04:00",
+    "address": "205 Boiling Springs Drive",
+    "extra": {
+      "incidentNumber": "49981",
+      "run_id": "49981",
+      "address": "205 Boiling Springs Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10",
+      "units": "E10",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49981"
+    }
   }
 ]
