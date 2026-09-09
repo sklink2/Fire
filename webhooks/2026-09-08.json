@@ -3782,5 +3782,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49827"
     }
+  },
+  {
+    "runNumber": "49829",
+    "rawCode": "FELS",
+    "timestamp": "2026-09-08T22:34:16.049240-04:00",
+    "address": "1447 Antique Drive",
+    "extra": {
+      "incidentNumber": "49829",
+      "run_id": "49829",
+      "address": "1447 Antique Drive",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,L03,203",
+      "units": "E13,L03,203",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-49829"
+    }
   }
 ]
