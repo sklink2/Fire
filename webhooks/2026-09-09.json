@@ -2660,5 +2660,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49956"
     }
+  },
+  {
+    "runNumber": "49955",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-09T14:25:35.064220-04:00",
+    "address": "Plunkett Street & Cedar Street",
+    "extra": {
+      "incidentNumber": "49955",
+      "run_id": "49955",
+      "address": "Plunkett Street & Cedar Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,EC7",
+      "units": "E06,EC7",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49955"
+    }
   }
 ]
