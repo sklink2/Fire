@@ -4090,5 +4090,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50020"
     }
+  },
+  {
+    "runNumber": "50023",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-09T18:51:28.920542-04:00",
+    "address": "150 Shoreside Drive",
+    "extra": {
+      "incidentNumber": "50023",
+      "run_id": "50023",
+      "address": "150 Shoreside Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E16,L05,202",
+      "units": "E09,E16,L05,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-50023"
+    }
   }
 ]
