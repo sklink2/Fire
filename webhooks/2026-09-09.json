@@ -1868,5 +1868,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-49919"
     }
+  },
+  {
+    "runNumber": "49918",
+    "rawCode": "MED",
+    "timestamp": "2026-09-09T11:07:16.364083-04:00",
+    "address": "700 Block Heartsbrook Lane",
+    "extra": {
+      "incidentNumber": "49918",
+      "run_id": "49918",
+      "address": "700 Block Heartsbrook Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC5,RS1",
+      "units": "EC5,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49918"
+    }
   }
 ]
