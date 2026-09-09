@@ -3650,5 +3650,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49822"
     }
+  },
+  {
+    "runNumber": "49824",
+    "rawCode": "MED",
+    "timestamp": "2026-09-08T21:58:11.039657-04:00",
+    "address": "500 Block Big Bear Lane",
+    "extra": {
+      "incidentNumber": "49824",
+      "run_id": "49824",
+      "address": "500 Block Big Bear Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC9",
+      "units": "E22,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49824"
+    }
   }
 ]
