@@ -1340,5 +1340,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-49895"
     }
+  },
+  {
+    "runNumber": "49894",
+    "rawCode": "MED",
+    "timestamp": "2026-09-09T09:05:30.504385-04:00",
+    "address": "700 Block Dawson Springs Way",
+    "extra": {
+      "incidentNumber": "49894",
+      "run_id": "49894",
+      "address": "700 Block Dawson Springs Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC1",
+      "units": "E10,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49894"
+    }
   }
 ]
