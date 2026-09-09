@@ -3694,5 +3694,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50001"
     }
+  },
+  {
+    "runNumber": "50004",
+    "rawCode": "MED",
+    "timestamp": "2026-09-09T17:34:49.805860-04:00",
+    "address": "200 Block Taylor Drive",
+    "extra": {
+      "incidentNumber": "50004",
+      "run_id": "50004",
+      "address": "200 Block Taylor Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50004"
+    }
   }
 ]
