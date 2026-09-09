@@ -1384,5 +1384,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-49896"
     }
+  },
+  {
+    "runNumber": "49897",
+    "rawCode": "MED",
+    "timestamp": "2026-09-09T09:18:55.450571-04:00",
+    "address": "200 Block Street Ann Drive",
+    "extra": {
+      "incidentNumber": "49897",
+      "run_id": "49897",
+      "address": "200 Block Street Ann Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49897"
+    }
   }
 ]
