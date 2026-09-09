@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49879"
     }
+  },
+  {
+    "runNumber": "49878",
+    "rawCode": "FSMO",
+    "timestamp": "2026-09-09T07:17:15.817524-04:00",
+    "address": "2813 Cherry Blossom Way",
+    "extra": {
+      "incidentNumber": "49878",
+      "run_id": "49878",
+      "address": "2813 Cherry Blossom Way",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,E24,L03,203",
+      "units": "E10,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-49878"
+    }
   }
 ]
