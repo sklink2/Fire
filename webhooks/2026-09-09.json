@@ -4420,5 +4420,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-50036"
     }
+  },
+  {
+    "runNumber": "50033",
+    "rawCode": "MED",
+    "timestamp": "2026-09-09T19:54:36.309663-04:00",
+    "address": "2300 Block The Woods Lane",
+    "extra": {
+      "incidentNumber": "50033",
+      "run_id": "50033",
+      "address": "2300 Block The Woods Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50033"
+    }
   }
 ]
