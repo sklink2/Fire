@@ -152,5 +152,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49841"
     }
+  },
+  {
+    "runNumber": "49842",
+    "rawCode": "MED",
+    "timestamp": "2026-09-09T00:31:27.517060-04:00",
+    "address": "500 Block Columbia Avenue",
+    "extra": {
+      "incidentNumber": "49842",
+      "run_id": "49842",
+      "address": "500 Block Columbia Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49842"
+    }
   }
 ]
