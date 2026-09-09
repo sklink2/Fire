@@ -1846,5 +1846,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49920"
     }
+  },
+  {
+    "runNumber": "49919",
+    "rawCode": "FVLA",
+    "timestamp": "2026-09-09T11:07:12.361808-04:00",
+    "address": "380 Bucoto Court",
+    "extra": {
+      "incidentNumber": "49919",
+      "run_id": "49919",
+      "address": "380 Bucoto Court",
+      "rawType": "FVLA",
+      "typeCode": "FVLA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E06,L01,205",
+      "units": "E01,E06,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FVLA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-49919"
+    }
   }
 ]
