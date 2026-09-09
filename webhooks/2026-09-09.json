@@ -3892,5 +3892,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50012"
     }
+  },
+  {
+    "runNumber": "50014",
+    "rawCode": "MED",
+    "timestamp": "2026-09-09T18:10:56.345292-04:00",
+    "address": "75 Sb / 110.0 Mm (Winchester R",
+    "extra": {
+      "incidentNumber": "50014",
+      "run_id": "50014",
+      "address": "75 Sb / 110.0 Mm (Winchester R",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC2,220",
+      "units": "E10,EC2,220",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-50014"
+    }
   }
 ]
