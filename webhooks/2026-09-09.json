@@ -1362,5 +1362,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49894"
     }
+  },
+  {
+    "runNumber": "49896",
+    "rawCode": "FMIS",
+    "timestamp": "2026-09-09T09:09:56.611044-04:00",
+    "address": "Citation Boulevard & Sandersville R",
+    "extra": {
+      "incidentNumber": "49896",
+      "run_id": "49896",
+      "address": "Citation Boulevard & Sandersville R",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,204",
+      "units": "E24,204",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-49896"
+    }
   }
 ]
