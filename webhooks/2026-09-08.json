@@ -3474,5 +3474,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49815"
     }
+  },
+  {
+    "runNumber": "49814",
+    "rawCode": "MED",
+    "timestamp": "2026-09-08T21:13:08.523733-04:00",
+    "address": "200 Block Kenlock Drive",
+    "extra": {
+      "incidentNumber": "49814",
+      "run_id": "49814",
+      "address": "200 Block Kenlock Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,CRT1",
+      "units": "E15,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49814"
+    }
   }
 ]
