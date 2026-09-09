@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49915"
     }
+  },
+  {
+    "runNumber": "49917",
+    "rawCode": "MED",
+    "timestamp": "2026-09-09T10:53:35.088331-04:00",
+    "address": "200 Block W Seventh Street",
+    "extra": {
+      "incidentNumber": "49917",
+      "run_id": "49917",
+      "address": "200 Block W Seventh Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC2",
+      "units": "E24,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49917"
+    }
   }
 ]
