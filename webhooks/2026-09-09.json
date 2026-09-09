@@ -1098,5 +1098,27 @@
       "commandUnits": "241,201",
       "dedupeKey": "INCIDENT-49883"
     }
+  },
+  {
+    "runNumber": "49884",
+    "rawCode": "FDET",
+    "timestamp": "2026-09-09T08:11:22.605975-04:00",
+    "address": "4832 Gumbert Road",
+    "extra": {
+      "incidentNumber": "49884",
+      "run_id": "49884",
+      "address": "4832 Gumbert Road",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,E20,L04,T1,EC20,EC6,203,220,241",
+      "units": "E14,E20,L04,T1,EC20,EC6,203,220,241",
+      "unitCount": "9",
+      "primaryTopic": "FDET",
+      "commandUnits": "241,220,203",
+      "dedupeKey": "INCIDENT-49884"
+    }
   }
 ]
