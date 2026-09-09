@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49943"
     }
+  },
+  {
+    "runNumber": "49942",
+    "rawCode": "FELS",
+    "timestamp": "2026-09-09T13:08:54.148454-04:00",
+    "address": "750 Rose Street",
+    "extra": {
+      "incidentNumber": "49942",
+      "run_id": "49942",
+      "address": "750 Rose Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,L02,204",
+      "units": "E12,L02,204",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-49942"
+    }
   }
 ]
