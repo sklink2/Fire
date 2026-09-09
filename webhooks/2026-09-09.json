@@ -2352,5 +2352,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-49942"
     }
+  },
+  {
+    "runNumber": "49941",
+    "rawCode": "MED",
+    "timestamp": "2026-09-09T13:08:57.903542-04:00",
+    "address": "200 Block Ruccio Way",
+    "extra": {
+      "incidentNumber": "49941",
+      "run_id": "49941",
+      "address": "200 Block Ruccio Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49941"
+    }
   }
 ]
