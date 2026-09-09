@@ -2506,5 +2506,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49949"
     }
+  },
+  {
+    "runNumber": "49951",
+    "rawCode": "MED",
+    "timestamp": "2026-09-09T13:53:55.278680-04:00",
+    "address": "3300 Block Greentree Road",
+    "extra": {
+      "incidentNumber": "49951",
+      "run_id": "49951",
+      "address": "3300 Block Greentree Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49951"
+    }
   }
 ]
