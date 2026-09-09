@@ -3320,5 +3320,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49983"
     }
+  },
+  {
+    "runNumber": "49988",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-09T16:31:42.895192-04:00",
+    "address": "500 Alexandria Drive",
+    "extra": {
+      "incidentNumber": "49988",
+      "run_id": "49988",
+      "address": "500 Alexandria Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC12",
+      "units": "E24,EC12",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49988"
+    }
   }
 ]
