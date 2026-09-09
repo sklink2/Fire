@@ -2770,5 +2770,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49961"
     }
+  },
+  {
+    "runNumber": "49960",
+    "rawCode": "FVIS",
+    "timestamp": "2026-09-09T14:48:10.258027-04:00",
+    "address": "1820 Bryan Station Road",
+    "extra": {
+      "incidentNumber": "49960",
+      "run_id": "49960",
+      "address": "1820 Bryan Station Road",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E09,L05,EC3,201,RS1",
+      "units": "E08,E09,L05,EC3,201,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-49960"
+    }
   }
 ]
