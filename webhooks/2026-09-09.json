@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49867"
     }
+  },
+  {
+    "runNumber": "49870",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-09T06:09:34.238101-04:00",
+    "address": "2530 Research Park Drive",
+    "extra": {
+      "incidentNumber": "49870",
+      "run_id": "49870",
+      "address": "2530 Research Park Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E19,E24,L03,203",
+      "units": "E19,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-49870"
+    }
   }
 ]
