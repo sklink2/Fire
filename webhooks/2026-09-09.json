@@ -1560,5 +1560,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-49904"
     }
+  },
+  {
+    "runNumber": "49905",
+    "rawCode": "MED",
+    "timestamp": "2026-09-09T09:59:28.932601-04:00",
+    "address": "800 Block Furlong Drive",
+    "extra": {
+      "incidentNumber": "49905",
+      "run_id": "49905",
+      "address": "800 Block Furlong Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,EC7",
+      "units": "E11,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49905"
+    }
   }
 ]
