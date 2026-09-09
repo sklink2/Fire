@@ -2066,5 +2066,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49928"
     }
+  },
+  {
+    "runNumber": "49929",
+    "rawCode": "MED",
+    "timestamp": "2026-09-09T12:01:13.940496-04:00",
+    "address": "2700 Block Meadowsweet Lane",
+    "extra": {
+      "incidentNumber": "49929",
+      "run_id": "49929",
+      "address": "2700 Block Meadowsweet Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC3",
+      "units": "E24,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49929"
+    }
   }
 ]
