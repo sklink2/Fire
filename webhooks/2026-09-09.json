@@ -240,5 +240,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49845"
     }
+  },
+  {
+    "runNumber": "49847",
+    "rawCode": "MED",
+    "timestamp": "2026-09-09T01:39:03.843643-04:00",
+    "address": "100 Block E Reynolds Road",
+    "extra": {
+      "incidentNumber": "49847",
+      "run_id": "49847",
+      "address": "100 Block E Reynolds Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49847"
+    }
   }
 ]
