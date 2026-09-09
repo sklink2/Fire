@@ -1406,5 +1406,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49897"
     }
+  },
+  {
+    "runNumber": "49898",
+    "rawCode": "MED",
+    "timestamp": "2026-09-09T09:23:26.233691-04:00",
+    "address": "100 Block Transcript Avenue",
+    "extra": {
+      "incidentNumber": "49898",
+      "run_id": "49898",
+      "address": "100 Block Transcript Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,EC7,CRT1",
+      "units": "E06,EC7,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49898"
+    }
   }
 ]
