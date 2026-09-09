@@ -3056,5 +3056,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49973"
     }
+  },
+  {
+    "runNumber": "49975",
+    "rawCode": "MED",
+    "timestamp": "2026-09-09T15:37:37.410882-04:00",
+    "address": "100 Block Manitoba Lane",
+    "extra": {
+      "incidentNumber": "49975",
+      "run_id": "49975",
+      "address": "100 Block Manitoba Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC2",
+      "units": "E15,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49975"
+    }
   }
 ]
