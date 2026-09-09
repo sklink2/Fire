@@ -328,5 +328,27 @@
       "commandUnits": "241,202",
       "dedupeKey": "INCIDENT-49849"
     }
+  },
+  {
+    "runNumber": "49850",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-09T02:42:14.158275-04:00",
+    "address": "Richmond Road & Lakeshore Drive",
+    "extra": {
+      "incidentNumber": "49850",
+      "run_id": "49850",
+      "address": "Richmond Road & Lakeshore Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2,241",
+      "units": "E09,EC2,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-49850"
+    }
   }
 ]
