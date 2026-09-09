@@ -394,5 +394,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-49852"
     }
+  },
+  {
+    "runNumber": "49853",
+    "rawCode": "MED",
+    "timestamp": "2026-09-09T03:13:45.755557-04:00",
+    "address": "3000 Block Sewanee Lane",
+    "extra": {
+      "incidentNumber": "49853",
+      "run_id": "49853",
+      "address": "3000 Block Sewanee Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-49853"
+    }
   }
 ]
