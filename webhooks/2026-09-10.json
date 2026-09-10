@@ -746,5 +746,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50114"
     }
+  },
+  {
+    "runNumber": "50115",
+    "rawCode": "MED",
+    "timestamp": "2026-09-10T06:12:16.292162-04:00",
+    "address": "700 Block W Third Street",
+    "extra": {
+      "incidentNumber": "50115",
+      "run_id": "50115",
+      "address": "700 Block W Third Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,EC10",
+      "units": "E04,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50115"
+    }
   }
 ]
