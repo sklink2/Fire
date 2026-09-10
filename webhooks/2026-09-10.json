@@ -2616,5 +2616,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50197"
     }
+  },
+  {
+    "runNumber": "50200",
+    "rawCode": "MED",
+    "timestamp": "2026-09-10T14:14:40.159651-04:00",
+    "address": "3200 Block Pontchartrain Court",
+    "extra": {
+      "incidentNumber": "50200",
+      "run_id": "50200",
+      "address": "3200 Block Pontchartrain Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC11,EC7",
+      "units": "E21,EC11,EC7",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50200"
+    }
   }
 ]
