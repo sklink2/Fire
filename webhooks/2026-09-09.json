@@ -4750,5 +4750,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50052"
     }
+  },
+  {
+    "runNumber": "50051",
+    "rawCode": "MED",
+    "timestamp": "2026-09-09T21:47:24.895996-04:00",
+    "address": "1700 Block Prairie Circle",
+    "extra": {
+      "incidentNumber": "50051",
+      "run_id": "50051",
+      "address": "1700 Block Prairie Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50051"
+    }
   }
 ]
