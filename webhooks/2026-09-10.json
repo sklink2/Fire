@@ -3276,5 +3276,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50228"
     }
+  },
+  {
+    "runNumber": "50227",
+    "rawCode": "FSCU",
+    "timestamp": "2026-09-10T16:43:29.708447-04:00",
+    "address": "Old Frankfort Pike & Elkcheste",
+    "extra": {
+      "incidentNumber": "50227",
+      "run_id": "50227",
+      "address": "Old Frankfort Pike & Elkcheste",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "T1",
+      "units": "T1",
+      "unitCount": "1",
+      "primaryTopic": "FSCU",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50227"
+    }
   }
 ]
