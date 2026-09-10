@@ -5146,5 +5146,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50072"
     }
+  },
+  {
+    "runNumber": "50071",
+    "rawCode": "MED",
+    "timestamp": "2026-09-09T23:26:33.783567-04:00",
+    "address": "4100 Block John Alden Lane",
+    "extra": {
+      "incidentNumber": "50071",
+      "run_id": "50071",
+      "address": "4100 Block John Alden Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50071"
+    }
   }
 ]
