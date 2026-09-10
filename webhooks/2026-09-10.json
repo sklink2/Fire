@@ -834,5 +834,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50118"
     }
+  },
+  {
+    "runNumber": "50117",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-09-10T06:21:21.827888-04:00",
+    "address": "75 Sb / 115.0 Mm (Newtown Pike",
+    "extra": {
+      "incidentNumber": "50117",
+      "run_id": "50117",
+      "address": "75 Sb / 115.0 Mm (Newtown Pike",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E10,L03,EC6,203,241,RS1",
+      "units": "E08,E10,L03,EC6,203,241,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-50117"
+    }
   }
 ]
