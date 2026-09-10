@@ -1120,5 +1120,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50130"
     }
+  },
+  {
+    "runNumber": "50131",
+    "rawCode": "MED",
+    "timestamp": "2026-09-10T08:00:27.673563-04:00",
+    "address": "1700 Block Hill Rise Drive",
+    "extra": {
+      "incidentNumber": "50131",
+      "run_id": "50131",
+      "address": "1700 Block Hill Rise Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC10",
+      "units": "E14,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50131"
+    }
   }
 ]
