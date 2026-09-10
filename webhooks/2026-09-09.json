@@ -4662,5 +4662,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50049"
     }
+  },
+  {
+    "runNumber": "50048",
+    "rawCode": "FSTR",
+    "timestamp": "2026-09-09T21:29:24.560874-04:00",
+    "address": "408 Cedarvale Court",
+    "extra": {
+      "incidentNumber": "50048",
+      "run_id": "50048",
+      "address": "408 Cedarvale Court",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E09,E16,E21,L05,L06,EC2,201,202,220,241,RS1",
+      "units": "E08,E09,E16,E21,L05,L06,EC2,201,202,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,202",
+      "dedupeKey": "INCIDENT-50048"
+    }
   }
 ]
