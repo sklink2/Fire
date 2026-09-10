@@ -2110,5 +2110,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50178"
     }
+  },
+  {
+    "runNumber": "50177",
+    "rawCode": "MED",
+    "timestamp": "2026-09-10T12:08:29.316621-04:00",
+    "address": "200 Block Hedgewood Court",
+    "extra": {
+      "incidentNumber": "50177",
+      "run_id": "50177",
+      "address": "200 Block Hedgewood Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50177"
+    }
   }
 ]
