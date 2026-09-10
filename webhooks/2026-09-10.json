@@ -4134,5 +4134,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50266"
     }
+  },
+  {
+    "runNumber": "50265",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-10T19:43:52.275959-04:00",
+    "address": "W New Circle Ramp & Harrodsbur",
+    "extra": {
+      "incidentNumber": "50265",
+      "run_id": "50265",
+      "address": "W New Circle Ramp & Harrodsbur",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC10,EC5,241",
+      "units": "E20,EC10,EC5,241",
+      "unitCount": "4",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-50265"
+    }
   }
 ]
