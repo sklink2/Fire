@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50163"
     }
+  },
+  {
+    "runNumber": "50162",
+    "rawCode": "FGAO",
+    "timestamp": "2026-09-10T10:15:47.320423-04:00",
+    "address": "650 Southpoint Drive",
+    "extra": {
+      "incidentNumber": "50162",
+      "run_id": "50162",
+      "address": "650 Southpoint Drive",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,E22",
+      "units": "E20,E22",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50162"
+    }
   }
 ]
