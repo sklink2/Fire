@@ -5190,5 +5190,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50070"
     }
+  },
+  {
+    "runNumber": "50074",
+    "rawCode": "MED",
+    "timestamp": "2026-09-09T23:31:01.595527-04:00",
+    "address": "500 Block El Paseo Place",
+    "extra": {
+      "incidentNumber": "50074",
+      "run_id": "50074",
+      "address": "500 Block El Paseo Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50074"
+    }
   }
 ]
