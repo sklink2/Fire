@@ -152,5 +152,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50087"
     }
+  },
+  {
+    "runNumber": "50088",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-10T00:29:40.316528-04:00",
+    "address": "1980 Cambridge Drive",
+    "extra": {
+      "incidentNumber": "50088",
+      "run_id": "50088",
+      "address": "1980 Cambridge Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,E20,L04,EC5,204,220",
+      "units": "E14,E20,L04,EC5,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-50088"
+    }
   }
 ]
