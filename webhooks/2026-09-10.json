@@ -482,5 +482,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50102"
     }
+  },
+  {
+    "runNumber": "50103",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-10T02:35:56.990903-04:00",
+    "address": "4149 Weber Way",
+    "extra": {
+      "incidentNumber": "50103",
+      "run_id": "50103",
+      "address": "4149 Weber Way",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,E20,L04,EC12,204,220",
+      "units": "E15,E20,L04,EC12,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-50103"
+    }
   }
 ]
