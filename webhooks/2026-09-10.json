@@ -1142,5 +1142,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50131"
     }
+  },
+  {
+    "runNumber": "50133",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-10T08:04:57.090742-04:00",
+    "address": "2084 Deauville Drive",
+    "extra": {
+      "incidentNumber": "50133",
+      "run_id": "50133",
+      "address": "2084 Deauville Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11",
+      "units": "E11",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50133"
+    }
   }
 ]
