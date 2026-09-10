@@ -3474,5 +3474,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-50236"
     }
+  },
+  {
+    "runNumber": "50235",
+    "rawCode": "MED",
+    "timestamp": "2026-09-10T17:06:09.729025-04:00",
+    "address": "500 Block E Seventh Street",
+    "extra": {
+      "incidentNumber": "50235",
+      "run_id": "50235",
+      "address": "500 Block E Seventh Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50235"
+    }
   }
 ]
