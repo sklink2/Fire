@@ -2594,5 +2594,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50195"
     }
+  },
+  {
+    "runNumber": "50197",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-10T14:01:10.379990-04:00",
+    "address": "1507 Pine Needles Lane",
+    "extra": {
+      "incidentNumber": "50197",
+      "run_id": "50197",
+      "address": "1507 Pine Needles Lane",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50197"
+    }
   }
 ]
