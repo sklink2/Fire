@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50154"
     }
+  },
+  {
+    "runNumber": "50156",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-10T09:53:10.840858-04:00",
+    "address": "North Split",
+    "extra": {
+      "incidentNumber": "50156",
+      "run_id": "50156",
+      "address": "North Split",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,L03,EC6",
+      "units": "E24,L03,EC6",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50156"
+    }
   }
 ]
