@@ -2572,5 +2572,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50196"
     }
+  },
+  {
+    "runNumber": "50195",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-10T13:56:42.181606-04:00",
+    "address": "490 Hart Road",
+    "extra": {
+      "incidentNumber": "50195",
+      "run_id": "50195",
+      "address": "490 Hart Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09",
+      "units": "E09",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50195"
+    }
   }
 ]
