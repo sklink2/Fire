@@ -1032,5 +1032,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-50125"
     }
+  },
+  {
+    "runNumber": "50127",
+    "rawCode": "MED",
+    "timestamp": "2026-09-10T07:19:53.764426-04:00",
+    "address": "200 Block Fontaine Circle",
+    "extra": {
+      "incidentNumber": "50127",
+      "run_id": "50127",
+      "address": "200 Block Fontaine Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50127"
+    }
   }
 ]
