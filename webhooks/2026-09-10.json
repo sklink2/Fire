@@ -3408,5 +3408,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50233"
     }
+  },
+  {
+    "runNumber": "50238",
+    "rawCode": "MED",
+    "timestamp": "2026-09-10T17:05:58.518936-04:00",
+    "address": "200 Block Race Street",
+    "extra": {
+      "incidentNumber": "50238",
+      "run_id": "50238",
+      "address": "200 Block Race Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L01,EC2",
+      "units": "L01,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50238"
+    }
   }
 ]
