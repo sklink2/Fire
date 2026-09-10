@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50198"
     }
+  },
+  {
+    "runNumber": "50202",
+    "rawCode": "MED",
+    "timestamp": "2026-09-10T14:23:43.362042-04:00",
+    "address": "4200 Block Evangeline Lane",
+    "extra": {
+      "incidentNumber": "50202",
+      "run_id": "50202",
+      "address": "4200 Block Evangeline Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L06,EC13",
+      "units": "L06,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50202"
+    }
   }
 ]
