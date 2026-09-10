@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50121"
     }
+  },
+  {
+    "runNumber": "50122",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-10T06:48:19.537128-04:00",
+    "address": "Greendale Road & Buck Lane",
+    "extra": {
+      "incidentNumber": "50122",
+      "run_id": "50122",
+      "address": "Greendale Road & Buck Lane",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC3",
+      "units": "E24,EC3",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50122"
+    }
   }
 ]
