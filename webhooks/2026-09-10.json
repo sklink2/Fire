@@ -3452,5 +3452,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50237"
     }
+  },
+  {
+    "runNumber": "50236",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-10T17:06:06.145459-04:00",
+    "address": "131 Prosperous Place",
+    "extra": {
+      "incidentNumber": "50236",
+      "run_id": "50236",
+      "address": "131 Prosperous Place",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E21,L06,201",
+      "units": "E09,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-50236"
+    }
   }
 ]
