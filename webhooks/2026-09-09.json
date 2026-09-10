@@ -4772,5 +4772,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50051"
     }
+  },
+  {
+    "runNumber": "50054",
+    "rawCode": "MED",
+    "timestamp": "2026-09-09T22:00:50.451974-04:00",
+    "address": "700 Block Woodland Avenue",
+    "extra": {
+      "incidentNumber": "50054",
+      "run_id": "50054",
+      "address": "700 Block Woodland Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50054"
+    }
   }
 ]
