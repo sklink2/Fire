@@ -3936,5 +3936,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50256"
     }
+  },
+  {
+    "runNumber": "50250",
+    "rawCode": "FDET",
+    "timestamp": "2026-09-10T19:03:17.610302-04:00",
+    "address": "1540 University Drive",
+    "extra": {
+      "incidentNumber": "50250",
+      "run_id": "50250",
+      "address": "1540 University Drive",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11",
+      "units": "E11",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50250"
+    }
   }
 ]
