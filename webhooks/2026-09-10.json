@@ -636,5 +636,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50109"
     }
+  },
+  {
+    "runNumber": "50110",
+    "rawCode": "FMEA",
+    "timestamp": "2026-09-10T04:28:36.730198-04:00",
+    "address": "650 Tower Plz",
+    "extra": {
+      "incidentNumber": "50110",
+      "run_id": "50110",
+      "address": "650 Tower Plz",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50110"
+    }
   }
 ]
