@@ -3188,5 +3188,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50223"
     }
+  },
+  {
+    "runNumber": "50224",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-10T16:25:26.344179-04:00",
+    "address": "Old Frankfort Pike & Elkcheste",
+    "extra": {
+      "incidentNumber": "50224",
+      "run_id": "50224",
+      "address": "Old Frankfort Pike & Elkcheste",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "T1,EC5,203",
+      "units": "T1,EC5,203",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-50224"
+    }
   }
 ]
