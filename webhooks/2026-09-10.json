@@ -2660,5 +2660,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50199"
     }
+  },
+  {
+    "runNumber": "50198",
+    "rawCode": "MED",
+    "timestamp": "2026-09-10T14:14:47.066795-04:00",
+    "address": "2400 Block Merchant Street",
+    "extra": {
+      "incidentNumber": "50198",
+      "run_id": "50198",
+      "address": "2400 Block Merchant Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50198"
+    }
   }
 ]
