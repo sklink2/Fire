@@ -438,5 +438,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50100"
     }
+  },
+  {
+    "runNumber": "50101",
+    "rawCode": "MED",
+    "timestamp": "2026-09-10T02:22:20.327798-04:00",
+    "address": "1800 Block Augusta Drive",
+    "extra": {
+      "incidentNumber": "50101",
+      "run_id": "50101",
+      "address": "1800 Block Augusta Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50101"
+    }
   }
 ]
