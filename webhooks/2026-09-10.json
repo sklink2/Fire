@@ -3782,5 +3782,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50250"
     }
+  },
+  {
+    "runNumber": "50251",
+    "rawCode": "MED",
+    "timestamp": "2026-09-10T18:27:09.031746-04:00",
+    "address": "200 Block Clyde Street",
+    "extra": {
+      "incidentNumber": "50251",
+      "run_id": "50251",
+      "address": "200 Block Clyde Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,EC10",
+      "units": "E13,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50251"
+    }
   }
 ]
