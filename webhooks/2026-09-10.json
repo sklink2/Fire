@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50159"
     }
+  },
+  {
+    "runNumber": "50164",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-10T10:29:15.312622-04:00",
+    "address": "338 Lexington Avenue",
+    "extra": {
+      "incidentNumber": "50164",
+      "run_id": "50164",
+      "address": "338 Lexington Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E06,L01,204",
+      "units": "E02,E06,L01,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-50164"
+    }
   }
 ]
