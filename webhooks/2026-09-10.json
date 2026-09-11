@@ -4750,5 +4750,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50293"
     }
+  },
+  {
+    "runNumber": "50295",
+    "rawCode": "MED",
+    "timestamp": "2026-09-10T22:26:04.155272-04:00",
+    "address": "200 Block Lucille Drive",
+    "extra": {
+      "incidentNumber": "50295",
+      "run_id": "50295",
+      "address": "200 Block Lucille Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC10",
+      "units": "E24,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50295"
+    }
   }
 ]
