@@ -42,5 +42,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50301"
     }
+  },
+  {
+    "runNumber": "50303",
+    "rawCode": "MED",
+    "timestamp": "2026-09-11T00:23:18.379656-04:00",
+    "address": "1900 Block Cottonwood Drive",
+    "extra": {
+      "incidentNumber": "50303",
+      "run_id": "50303",
+      "address": "1900 Block Cottonwood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50303"
+    }
   }
 ]
