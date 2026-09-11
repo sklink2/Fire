@@ -262,5 +262,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50313"
     }
+  },
+  {
+    "runNumber": "50312",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-09-11T02:07:04.795713-04:00",
+    "address": "368 Harvard Drive",
+    "extra": {
+      "incidentNumber": "50312",
+      "run_id": "50312",
+      "address": "368 Harvard Drive",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,L07,EC9,202,241,RS1",
+      "units": "E15,L07,EC9,202,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-50312"
+    }
   }
 ]
