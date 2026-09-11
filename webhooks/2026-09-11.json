@@ -878,5 +878,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-50340"
     }
+  },
+  {
+    "runNumber": "50341",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-11T07:49:36.952854-04:00",
+    "address": "Taborlake Drive & Alumni Drive",
+    "extra": {
+      "incidentNumber": "50341",
+      "run_id": "50341",
+      "address": "Taborlake Drive & Alumni Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50341"
+    }
   }
 ]
