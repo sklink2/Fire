@@ -2154,5 +2154,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50397"
     }
+  },
+  {
+    "runNumber": "50401",
+    "rawCode": "FCAR",
+    "timestamp": "2026-09-11T12:38:08.274195-04:00",
+    "address": "171 Penmoken Park",
+    "extra": {
+      "incidentNumber": "50401",
+      "run_id": "50401",
+      "address": "171 Penmoken Park",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L04",
+      "units": "L04",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50401"
+    }
   }
 ]
