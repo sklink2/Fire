@@ -3100,5 +3100,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50433"
     }
+  },
+  {
+    "runNumber": "50441",
+    "rawCode": "MED",
+    "timestamp": "2026-09-11T15:06:54.459956-04:00",
+    "address": "400 Block Madison Point Drive",
+    "extra": {
+      "incidentNumber": "50441",
+      "run_id": "50441",
+      "address": "400 Block Madison Point Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC2",
+      "units": "E22,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50441"
+    }
   }
 ]
