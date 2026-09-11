@@ -2242,5 +2242,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50402"
     }
+  },
+  {
+    "runNumber": "50404",
+    "rawCode": "FGAO",
+    "timestamp": "2026-09-11T12:51:38.556369-04:00",
+    "address": "N Limestone & Luigart Court",
+    "extra": {
+      "incidentNumber": "50404",
+      "run_id": "50404",
+      "address": "N Limestone & Luigart Court",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06",
+      "units": "E05,E06",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50404"
+    }
   }
 ]
