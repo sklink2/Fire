@@ -3122,5 +3122,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50441"
     }
+  },
+  {
+    "runNumber": "50443",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-11T15:24:59.653014-04:00",
+    "address": "2163 Bahama Road",
+    "extra": {
+      "incidentNumber": "50443",
+      "run_id": "50443",
+      "address": "2163 Bahama Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E08,L05,EC8,201,220",
+      "units": "E02,E08,L05,EC8,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-50443"
+    }
   }
 ]
