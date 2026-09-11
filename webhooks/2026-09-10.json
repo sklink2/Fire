@@ -4552,5 +4552,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50286"
     }
+  },
+  {
+    "runNumber": "50285",
+    "rawCode": "MED",
+    "timestamp": "2026-09-10T21:18:32.175283-04:00",
+    "address": "2800 Block Sandersville Road",
+    "extra": {
+      "incidentNumber": "50285",
+      "run_id": "50285",
+      "address": "2800 Block Sandersville Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "T1,EC6",
+      "units": "T1,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50285"
+    }
   }
 ]
