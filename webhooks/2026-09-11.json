@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50407"
     }
+  },
+  {
+    "runNumber": "50409",
+    "rawCode": "MED",
+    "timestamp": "2026-09-11T13:14:11.736690-04:00",
+    "address": "700 Block National Avenue",
+    "extra": {
+      "incidentNumber": "50409",
+      "run_id": "50409",
+      "address": "700 Block National Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC7",
+      "units": "E01,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50409"
+    }
   }
 ]
