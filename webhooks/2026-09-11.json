@@ -1472,5 +1472,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50367"
     }
+  },
+  {
+    "runNumber": "50370",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-09-11T10:27:26.815876-04:00",
+    "address": "Leestown / Scott Co Line",
+    "extra": {
+      "incidentNumber": "50370",
+      "run_id": "50370",
+      "address": "Leestown / Scott Co Line",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,L03,EC5,EC6,203,241,RS1",
+      "units": "E24,L03,EC5,EC6,203,241,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-50370"
+    }
   }
 ]
