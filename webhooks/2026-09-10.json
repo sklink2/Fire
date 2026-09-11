@@ -4442,5 +4442,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50280"
     }
+  },
+  {
+    "runNumber": "50281",
+    "rawCode": "FGAO",
+    "timestamp": "2026-09-10T20:51:24.590499-04:00",
+    "address": "E Maxwell Street & Rose Street",
+    "extra": {
+      "incidentNumber": "50281",
+      "run_id": "50281",
+      "address": "E Maxwell Street & Rose Street",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06",
+      "units": "E05,E06",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50281"
+    }
   }
 ]
