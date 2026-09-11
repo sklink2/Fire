@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50427"
     }
+  },
+  {
+    "runNumber": "50428",
+    "rawCode": "MED",
+    "timestamp": "2026-09-11T14:26:19.633871-04:00",
+    "address": "2100 Block Nicholasville Road",
+    "extra": {
+      "incidentNumber": "50428",
+      "run_id": "50428",
+      "address": "2100 Block Nicholasville Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,EC12",
+      "units": "E06,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50428"
+    }
   }
 ]
