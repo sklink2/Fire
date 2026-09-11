@@ -4618,5 +4618,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50288"
     }
+  },
+  {
+    "runNumber": "50289",
+    "rawCode": "MED",
+    "timestamp": "2026-09-10T22:12:33.679713-04:00",
+    "address": "3600 Block Remora Drive",
+    "extra": {
+      "incidentNumber": "50289",
+      "run_id": "50289",
+      "address": "3600 Block Remora Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50289"
+    }
   }
 ]
