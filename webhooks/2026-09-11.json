@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50408"
     }
+  },
+  {
+    "runNumber": "50410",
+    "rawCode": "FSMO",
+    "timestamp": "2026-09-11T13:18:42.945423-04:00",
+    "address": "1600 Leestown Road",
+    "extra": {
+      "incidentNumber": "50410",
+      "run_id": "50410",
+      "address": "1600 Leestown Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,E13,L03,203",
+      "units": "E10,E13,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-50410"
+    }
   }
 ]
