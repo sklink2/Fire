@@ -3144,5 +3144,27 @@
       "commandUnits": "220,201",
       "dedupeKey": "INCIDENT-50443"
     }
+  },
+  {
+    "runNumber": "50442",
+    "rawCode": "MED",
+    "timestamp": "2026-09-11T15:25:04.952912-04:00",
+    "address": "4700 Block Firebrook Boulevard",
+    "extra": {
+      "incidentNumber": "50442",
+      "run_id": "50442",
+      "address": "4700 Block Firebrook Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50442"
+    }
   }
 ]
