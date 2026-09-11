@@ -2176,5 +2176,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50401"
     }
+  },
+  {
+    "runNumber": "50400",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-11T12:38:11.661968-04:00",
+    "address": "1856 Alysheba Way",
+    "extra": {
+      "incidentNumber": "50400",
+      "run_id": "50400",
+      "address": "1856 Alysheba Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E17,L05,203",
+      "units": "E02,E17,L05,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-50400"
+    }
   }
 ]
