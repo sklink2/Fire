@@ -4112,5 +4112,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50489"
     }
+  },
+  {
+    "runNumber": "50488",
+    "rawCode": "MED",
+    "timestamp": "2026-09-11T19:32:58.061846-04:00",
+    "address": "200 Block Southport Drive",
+    "extra": {
+      "incidentNumber": "50488",
+      "run_id": "50488",
+      "address": "200 Block Southport Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,EC2",
+      "units": "E12,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50488"
+    }
   }
 ]
