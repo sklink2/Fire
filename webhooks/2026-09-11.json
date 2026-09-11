@@ -3672,5 +3672,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50468"
     }
+  },
+  {
+    "runNumber": "50467",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-11T18:16:18.534257-04:00",
+    "address": "2668 Lucca Place",
+    "extra": {
+      "incidentNumber": "50467",
+      "run_id": "50467",
+      "address": "2668 Lucca Place",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E21,L05,201",
+      "units": "E02,E21,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-50467"
+    }
   }
 ]
