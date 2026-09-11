@@ -2484,5 +2484,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-50415"
     }
+  },
+  {
+    "runNumber": "50414",
+    "rawCode": "FVLA",
+    "timestamp": "2026-09-11T13:27:50.143413-04:00",
+    "address": "Man O War Boulevard & Pimlico Parkway",
+    "extra": {
+      "incidentNumber": "50414",
+      "run_id": "50414",
+      "address": "Man O War Boulevard & Pimlico Parkway",
+      "rawType": "FVLA",
+      "typeCode": "FVLA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E16,L06,202",
+      "units": "E09,E16,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FVLA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-50414"
+    }
   }
 ]
