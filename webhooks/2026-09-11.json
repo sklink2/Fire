@@ -3716,5 +3716,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50469"
     }
+  },
+  {
+    "runNumber": "50473",
+    "rawCode": "MED",
+    "timestamp": "2026-09-11T18:38:46.407884-04:00",
+    "address": "2200 Block Harrods Pointe Trce",
+    "extra": {
+      "incidentNumber": "50473",
+      "run_id": "50473",
+      "address": "2200 Block Harrods Pointe Trce",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50473"
+    }
   }
 ]
