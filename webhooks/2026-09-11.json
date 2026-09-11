@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50380"
     }
+  },
+  {
+    "runNumber": "50382",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-11T11:12:28.729246-04:00",
+    "address": "125 E Lowry Lane",
+    "extra": {
+      "incidentNumber": "50382",
+      "run_id": "50382",
+      "address": "125 E Lowry Lane",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50382"
+    }
   }
 ]
