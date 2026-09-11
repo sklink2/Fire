@@ -2374,5 +2374,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50409"
     }
+  },
+  {
+    "runNumber": "50408",
+    "rawCode": "MED",
+    "timestamp": "2026-09-11T13:14:15.298942-04:00",
+    "address": "700 Block Ward Drive",
+    "extra": {
+      "incidentNumber": "50408",
+      "run_id": "50408",
+      "address": "700 Block Ward Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC8",
+      "units": "E08,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50408"
+    }
   }
 ]
