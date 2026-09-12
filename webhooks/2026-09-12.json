@@ -1890,5 +1890,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50603"
     }
+  },
+  {
+    "runNumber": "50607",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-12T12:31:49.297048-04:00",
+    "address": "960 Midnight Pass",
+    "extra": {
+      "incidentNumber": "50607",
+      "run_id": "50607",
+      "address": "960 Midnight Pass",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E20,L04,204",
+      "units": "E11,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-50607"
+    }
   }
 ]
