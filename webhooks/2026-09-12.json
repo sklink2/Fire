@@ -1472,5 +1472,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50584"
     }
+  },
+  {
+    "runNumber": "50587",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-12T10:48:09.148420-04:00",
+    "address": "237 E Fifth Street",
+    "extra": {
+      "incidentNumber": "50587",
+      "run_id": "50587",
+      "address": "237 E Fifth Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,E11,L03,205",
+      "units": "E10,E11,L03,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-50587"
+    }
   }
 ]
