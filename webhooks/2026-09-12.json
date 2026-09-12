@@ -3562,5 +3562,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50679"
     }
+  },
+  {
+    "runNumber": "50678",
+    "rawCode": "MED",
+    "timestamp": "2026-09-12T17:42:53.683045-04:00",
+    "address": "300 Block Georgetown Place",
+    "extra": {
+      "incidentNumber": "50678",
+      "run_id": "50678",
+      "address": "300 Block Georgetown Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50678"
+    }
   }
 ]
