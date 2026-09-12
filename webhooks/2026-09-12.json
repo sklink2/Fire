@@ -3936,5 +3936,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50695"
     }
+  },
+  {
+    "runNumber": "50694",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-12T19:35:41.875352-04:00",
+    "address": "2754 Magnolia Springs Drive",
+    "extra": {
+      "incidentNumber": "50694",
+      "run_id": "50694",
+      "address": "2754 Magnolia Springs Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC6,241",
+      "units": "E24,EC6,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-50694"
+    }
   }
 ]
