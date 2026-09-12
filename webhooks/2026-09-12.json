@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50543"
     }
+  },
+  {
+    "runNumber": "50545",
+    "rawCode": "FCAR",
+    "timestamp": "2026-09-12T03:35:16.820351-04:00",
+    "address": "1753 Naples Creek Path",
+    "extra": {
+      "incidentNumber": "50545",
+      "run_id": "50545",
+      "address": "1753 Naples Creek Path",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L06",
+      "units": "L06",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50545"
+    }
   }
 ]
