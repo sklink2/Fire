@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50553"
     }
+  },
+  {
+    "runNumber": "50552",
+    "rawCode": "MED",
+    "timestamp": "2026-09-12T05:55:05.449427-04:00",
+    "address": "Robertson Street & W High Street",
+    "extra": {
+      "incidentNumber": "50552",
+      "run_id": "50552",
+      "address": "Robertson Street & W High Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50552"
+    }
   }
 ]
