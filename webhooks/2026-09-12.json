@@ -3826,5 +3826,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50690"
     }
+  },
+  {
+    "runNumber": "50691",
+    "rawCode": "MED",
+    "timestamp": "2026-09-12T19:17:32.427049-04:00",
+    "address": "1500 Block La Salle Road",
+    "extra": {
+      "incidentNumber": "50691",
+      "run_id": "50691",
+      "address": "1500 Block La Salle Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC3,CRT1",
+      "units": "E08,EC3,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50691"
+    }
   }
 ]
