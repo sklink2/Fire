@@ -394,5 +394,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50539"
     }
+  },
+  {
+    "runNumber": "50540",
+    "rawCode": "MED",
+    "timestamp": "2026-09-12T02:41:10.948789-04:00",
+    "address": "1600 Block Kilkenny Drive",
+    "extra": {
+      "incidentNumber": "50540",
+      "run_id": "50540",
+      "address": "1600 Block Kilkenny Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50540"
+    }
   }
 ]
