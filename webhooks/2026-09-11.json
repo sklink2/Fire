@@ -4640,5 +4640,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50512"
     }
+  },
+  {
+    "runNumber": "50513",
+    "rawCode": "MED",
+    "timestamp": "2026-09-11T22:01:39.353352-04:00",
+    "address": "2400 Block Brookshire Circle",
+    "extra": {
+      "incidentNumber": "50513",
+      "run_id": "50513",
+      "address": "2400 Block Brookshire Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,EC4",
+      "units": "E16,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50513"
+    }
   }
 ]
