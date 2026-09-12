@@ -3958,5 +3958,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-50694"
     }
+  },
+  {
+    "runNumber": "50697",
+    "rawCode": "MED",
+    "timestamp": "2026-09-12T19:40:04.650945-04:00",
+    "address": "2000 Block Street Mathilda Drive",
+    "extra": {
+      "incidentNumber": "50697",
+      "run_id": "50697",
+      "address": "2000 Block Street Mathilda Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50697"
+    }
   }
 ]
