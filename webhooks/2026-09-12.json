@@ -3232,5 +3232,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50661"
     }
+  },
+  {
+    "runNumber": "50667",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-12T17:02:20.271667-04:00",
+    "address": "1960 Blairmore Road",
+    "extra": {
+      "incidentNumber": "50667",
+      "run_id": "50667",
+      "address": "1960 Blairmore Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E09,L05,201",
+      "units": "E05,E09,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-50667"
+    }
   }
 ]
