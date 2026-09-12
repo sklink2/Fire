@@ -1450,5 +1450,27 @@
       "commandUnits": "220",
       "dedupeKey": "INCIDENT-50585"
     }
+  },
+  {
+    "runNumber": "50584",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-09-12T10:43:42.127177-04:00",
+    "address": "1610 Leestown Road",
+    "extra": {
+      "incidentNumber": "50584",
+      "run_id": "50584",
+      "address": "1610 Leestown Road",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13",
+      "units": "E13",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50584"
+    }
   }
 ]
