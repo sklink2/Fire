@@ -1186,5 +1186,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50573"
     }
+  },
+  {
+    "runNumber": "50575",
+    "rawCode": "FHMC",
+    "timestamp": "2026-09-12T09:40:31.610573-04:00",
+    "address": "767 Winchester Road",
+    "extra": {
+      "incidentNumber": "50575",
+      "run_id": "50575",
+      "address": "767 Winchester Road",
+      "rawType": "FHMC",
+      "typeCode": "FHMC",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E02,EC1,201,205,220",
+      "units": "E01,E02,EC1,201,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FHMC",
+      "commandUnits": "220,201,205",
+      "dedupeKey": "INCIDENT-50575"
+    }
   }
 ]
