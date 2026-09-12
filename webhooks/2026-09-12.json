@@ -1208,5 +1208,27 @@
       "commandUnits": "220,201,205",
       "dedupeKey": "INCIDENT-50575"
     }
+  },
+  {
+    "runNumber": "50574",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-09-12T09:40:35.276902-04:00",
+    "address": "1005 Tanbark Road",
+    "extra": {
+      "incidentNumber": "50574",
+      "run_id": "50574",
+      "address": "1005 Tanbark Road",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22",
+      "units": "E22",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50574"
+    }
   }
 ]
