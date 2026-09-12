@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50599"
     }
+  },
+  {
+    "runNumber": "50598",
+    "rawCode": "MED",
+    "timestamp": "2026-09-12T11:55:47.071227-04:00",
+    "address": "100 Block Forest Park Road",
+    "extra": {
+      "incidentNumber": "50598",
+      "run_id": "50598",
+      "address": "100 Block Forest Park Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,EC7",
+      "units": "E11,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50598"
+    }
   }
 ]
