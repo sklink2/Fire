@@ -1098,5 +1098,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50570"
     }
+  },
+  {
+    "runNumber": "50562",
+    "rawCode": "FDET",
+    "timestamp": "2026-09-12T08:37:25.099267-04:00",
+    "address": "Elm Tree Lane & E Third Street",
+    "extra": {
+      "incidentNumber": "50562",
+      "run_id": "50562",
+      "address": "Elm Tree Lane & E Third Street",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,EC30",
+      "units": "E17,EC30",
+      "unitCount": "2",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50562"
+    }
   }
 ]
