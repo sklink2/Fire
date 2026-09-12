@@ -2044,5 +2044,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50609"
     }
+  },
+  {
+    "runNumber": "50610",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-12T12:49:49.641452-04:00",
+    "address": "1573 Alexandria Drive",
+    "extra": {
+      "incidentNumber": "50610",
+      "run_id": "50610",
+      "address": "1573 Alexandria Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC12",
+      "units": "E08,EC12",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50610"
+    }
   }
 ]
