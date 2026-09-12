@@ -2132,5 +2132,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50613"
     }
+  },
+  {
+    "runNumber": "50614",
+    "rawCode": "MED",
+    "timestamp": "2026-09-12T13:21:23.640231-04:00",
+    "address": "200 Block S Eagle Creek Drive",
+    "extra": {
+      "incidentNumber": "50614",
+      "run_id": "50614",
+      "address": "200 Block S Eagle Creek Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50614"
+    }
   }
 ]
