@@ -4288,5 +4288,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50498"
     }
+  },
+  {
+    "runNumber": "50497",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-11T20:04:30.201543-04:00",
+    "address": "414 Holiday Road",
+    "extra": {
+      "incidentNumber": "50497",
+      "run_id": "50497",
+      "address": "414 Holiday Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E09,L05,201",
+      "units": "E02,E09,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-50497"
+    }
   }
 ]
