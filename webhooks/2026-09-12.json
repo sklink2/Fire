@@ -3782,5 +3782,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50688"
     }
+  },
+  {
+    "runNumber": "50689",
+    "rawCode": "FDET",
+    "timestamp": "2026-09-12T18:41:29.724818-04:00",
+    "address": "State Street & Crescent Avenue",
+    "extra": {
+      "incidentNumber": "50689",
+      "run_id": "50689",
+      "address": "State Street & Crescent Avenue",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E21,EC8,EC9,204",
+      "units": "E16,E21,EC8,EC9,204",
+      "unitCount": "5",
+      "primaryTopic": "FDET",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-50689"
+    }
   }
 ]
