@@ -262,5 +262,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50533"
     }
+  },
+  {
+    "runNumber": "50534",
+    "rawCode": "MED",
+    "timestamp": "2026-09-12T01:47:04.778196-04:00",
+    "address": "100 Block N Martin Luther King Boulevard",
+    "extra": {
+      "incidentNumber": "50534",
+      "run_id": "50534",
+      "address": "100 Block N Martin Luther King Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50534"
+    }
   }
 ]
