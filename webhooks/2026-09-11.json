@@ -4442,5 +4442,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50503"
     }
+  },
+  {
+    "runNumber": "50504",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-11T20:40:30.548395-04:00",
+    "address": "444 Glen Arvin Avenue",
+    "extra": {
+      "incidentNumber": "50504",
+      "run_id": "50504",
+      "address": "444 Glen Arvin Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E10,L03,203",
+      "units": "E04,E10,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-50504"
+    }
   }
 ]
