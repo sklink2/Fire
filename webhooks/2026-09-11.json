@@ -4530,5 +4530,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-50508"
     }
+  },
+  {
+    "runNumber": "50507",
+    "rawCode": "MED",
+    "timestamp": "2026-09-11T20:54:07.152505-04:00",
+    "address": "1600 Block Summerhill Drive",
+    "extra": {
+      "incidentNumber": "50507",
+      "run_id": "50507",
+      "address": "1600 Block Summerhill Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50507"
+    }
   }
 ]
