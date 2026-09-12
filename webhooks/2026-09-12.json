@@ -1648,5 +1648,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50593"
     }
+  },
+  {
+    "runNumber": "50594",
+    "rawCode": "MED",
+    "timestamp": "2026-09-12T11:24:13.654616-04:00",
+    "address": "1600 Block Brentmoor Drive",
+    "extra": {
+      "incidentNumber": "50594",
+      "run_id": "50594",
+      "address": "1600 Block Brentmoor Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC13,241",
+      "units": "E22,EC13,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-50594"
+    }
   }
 ]
