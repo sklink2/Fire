@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50600"
     }
+  },
+  {
+    "runNumber": "50601",
+    "rawCode": "MED",
+    "timestamp": "2026-09-12T12:13:46.806357-04:00",
+    "address": "1200 Block Ascot Park",
+    "extra": {
+      "incidentNumber": "50601",
+      "run_id": "50601",
+      "address": "1200 Block Ascot Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC2",
+      "units": "E16,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50601"
+    }
   }
 ]
