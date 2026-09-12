@@ -1978,5 +1978,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50604"
     }
+  },
+  {
+    "runNumber": "50608",
+    "rawCode": "MED",
+    "timestamp": "2026-09-12T12:36:18.872277-04:00",
+    "address": "100 Block Pine Street",
+    "extra": {
+      "incidentNumber": "50608",
+      "run_id": "50608",
+      "address": "100 Block Pine Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05",
+      "units": "E05",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50608"
+    }
   }
 ]
