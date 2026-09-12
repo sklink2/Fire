@@ -3012,5 +3012,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-50654"
     }
+  },
+  {
+    "runNumber": "50653",
+    "rawCode": "MED",
+    "timestamp": "2026-09-12T15:54:45.840576-04:00",
+    "address": "Versailles Road & Bordeaux Drive",
+    "extra": {
+      "incidentNumber": "50653",
+      "run_id": "50653",
+      "address": "Versailles Road & Bordeaux Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50653"
+    }
   }
 ]
