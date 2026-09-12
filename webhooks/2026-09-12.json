@@ -2000,5 +2000,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50608"
     }
+  },
+  {
+    "runNumber": "50610",
+    "rawCode": "MED",
+    "timestamp": "2026-09-12T12:40:49.722033-04:00",
+    "address": "1500 Block Alexandria Drive",
+    "extra": {
+      "incidentNumber": "50610",
+      "run_id": "50610",
+      "address": "1500 Block Alexandria Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50610"
+    }
   }
 ]
