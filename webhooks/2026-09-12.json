@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50591"
     }
+  },
+  {
+    "runNumber": "50585",
+    "rawCode": "FOTS",
+    "timestamp": "2026-09-12T11:01:41.969448-04:00",
+    "address": "1540 University Drive",
+    "extra": {
+      "incidentNumber": "50585",
+      "run_id": "50585",
+      "address": "1540 University Drive",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,220",
+      "units": "E06,220",
+      "unitCount": "2",
+      "primaryTopic": "FOTS",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-50585"
+    }
   }
 ]
