@@ -4310,5 +4310,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-50497"
     }
+  },
+  {
+    "runNumber": "50496",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-11T20:04:34.073147-04:00",
+    "address": "160 Avenue Of Champions",
+    "extra": {
+      "incidentNumber": "50496",
+      "run_id": "50496",
+      "address": "160 Avenue Of Champions",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06",
+      "units": "E06",
+      "unitCount": "1",
+      "primaryTopic": "FPRT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50496"
+    }
   }
 ]
