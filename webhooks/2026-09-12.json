@@ -2154,5 +2154,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50614"
     }
+  },
+  {
+    "runNumber": "50615",
+    "rawCode": "FSMO",
+    "timestamp": "2026-09-12T13:25:54.716238-04:00",
+    "address": "126 Rojay Drive",
+    "extra": {
+      "incidentNumber": "50615",
+      "run_id": "50615",
+      "address": "126 Rojay Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E15,L04,204",
+      "units": "E07,E15,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-50615"
+    }
   }
 ]
