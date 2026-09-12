@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50583"
     }
+  },
+  {
+    "runNumber": "50582",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-12T10:39:10.774864-04:00",
+    "address": "220 E Vine Street",
+    "extra": {
+      "incidentNumber": "50582",
+      "run_id": "50582",
+      "address": "220 E Vine Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E05,E06,L02,203",
+      "units": "E04,E05,E06,L02,203",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-50582"
+    }
   }
 ]
