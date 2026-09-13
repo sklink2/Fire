@@ -2660,5 +2660,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50862"
     }
+  },
+  {
+    "runNumber": "50863",
+    "rawCode": "FCAR",
+    "timestamp": "2026-09-13T16:19:52.586171-04:00",
+    "address": "843 S Broadway",
+    "extra": {
+      "incidentNumber": "50863",
+      "run_id": "50863",
+      "address": "843 S Broadway",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L01",
+      "units": "L01",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50863"
+    }
   }
 ]
