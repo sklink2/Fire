@@ -4332,5 +4332,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50713"
     }
+  },
+  {
+    "runNumber": "50716",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-12T21:37:18.641685-04:00",
+    "address": "2920 Polo Club Boulevard",
+    "extra": {
+      "incidentNumber": "50716",
+      "run_id": "50716",
+      "address": "2920 Polo Club Boulevard",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,L06",
+      "units": "E21,L06",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50716"
+    }
   }
 ]
