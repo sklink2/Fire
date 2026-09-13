@@ -4750,5 +4750,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50729"
     }
+  },
+  {
+    "runNumber": "50735",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-12T23:02:58.645470-04:00",
+    "address": "395 S Limestone",
+    "extra": {
+      "incidentNumber": "50735",
+      "run_id": "50735",
+      "address": "395 S Limestone",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E06,EC7,241",
+      "units": "E05,E06,EC7,241",
+      "unitCount": "4",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-50735"
+    }
   }
 ]
