@@ -3276,5 +3276,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-50888"
     }
+  },
+  {
+    "runNumber": "50890",
+    "rawCode": "MED",
+    "timestamp": "2026-09-13T19:33:43.427891-04:00",
+    "address": "100 Block W New Circle Road",
+    "extra": {
+      "incidentNumber": "50890",
+      "run_id": "50890",
+      "address": "100 Block W New Circle Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50890"
+    }
   }
 ]
