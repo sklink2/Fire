@@ -3254,5 +3254,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50889"
     }
+  },
+  {
+    "runNumber": "50888",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-13T19:29:17.887995-04:00",
+    "address": "232 Towne Square Park",
+    "extra": {
+      "incidentNumber": "50888",
+      "run_id": "50888",
+      "address": "232 Towne Square Park",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,E13,L03,203",
+      "units": "E10,E13,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-50888"
+    }
   }
 ]
