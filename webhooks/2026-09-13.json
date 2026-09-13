@@ -834,5 +834,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50777"
     }
+  },
+  {
+    "runNumber": "50780",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-13T08:44:30.572116-04:00",
+    "address": "704 Haggin Place",
+    "extra": {
+      "incidentNumber": "50780",
+      "run_id": "50780",
+      "address": "704 Haggin Place",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11",
+      "units": "E11",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50780"
+    }
   }
 ]
