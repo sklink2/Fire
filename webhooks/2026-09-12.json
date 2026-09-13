@@ -4706,5 +4706,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-50731"
     }
+  },
+  {
+    "runNumber": "50730",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-12T22:49:35.461453-04:00",
+    "address": "2471 Dittany Lane",
+    "extra": {
+      "incidentNumber": "50730",
+      "run_id": "50730",
+      "address": "2471 Dittany Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,E14,L01,205",
+      "units": "E13,E14,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-50730"
+    }
   }
 ]
