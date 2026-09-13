@@ -4376,5 +4376,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50715"
     }
+  },
+  {
+    "runNumber": "50714",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-12T21:37:27.399498-04:00",
+    "address": "2025 Bellefonte Drive",
+    "extra": {
+      "incidentNumber": "50714",
+      "run_id": "50714",
+      "address": "2025 Bellefonte Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E12,L07,204",
+      "units": "E07,E12,L07,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-50714"
+    }
   }
 ]
