@@ -614,5 +614,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50769"
     }
+  },
+  {
+    "runNumber": "50770",
+    "rawCode": "FSCU",
+    "timestamp": "2026-09-13T06:15:42.586245-04:00",
+    "address": "601 E High Street",
+    "extra": {
+      "incidentNumber": "50770",
+      "run_id": "50770",
+      "address": "601 E High Street",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05",
+      "units": "E05",
+      "unitCount": "1",
+      "primaryTopic": "FSCU",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50770"
+    }
   }
 ]
