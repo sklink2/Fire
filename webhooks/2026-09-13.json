@@ -2836,5 +2836,27 @@
       "commandUnits": "220,205",
       "dedupeKey": "INCIDENT-50869"
     }
+  },
+  {
+    "runNumber": "50871",
+    "rawCode": "MED",
+    "timestamp": "2026-09-13T17:13:57.656845-04:00",
+    "address": "2600 Block Chant Court",
+    "extra": {
+      "incidentNumber": "50871",
+      "run_id": "50871",
+      "address": "2600 Block Chant Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC8",
+      "units": "E09,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50871"
+    }
   }
 ]
