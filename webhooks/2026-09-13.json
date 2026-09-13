@@ -2814,5 +2814,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50870"
     }
+  },
+  {
+    "runNumber": "50869",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-13T17:00:33.672551-04:00",
+    "address": "1707 Versailles Road",
+    "extra": {
+      "incidentNumber": "50869",
+      "run_id": "50869",
+      "address": "1707 Versailles Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E13,L02,EC10,205,220",
+      "units": "E06,E13,L02,EC10,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-50869"
+    }
   }
 ]
