@@ -1758,5 +1758,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50821"
     }
+  },
+  {
+    "runNumber": "50823",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-09-13T13:05:58.967998-04:00",
+    "address": "2010 Rainbow Road",
+    "extra": {
+      "incidentNumber": "50823",
+      "run_id": "50823",
+      "address": "2010 Rainbow Road",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11",
+      "units": "E11",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50823"
+    }
   }
 ]
