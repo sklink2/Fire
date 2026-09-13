@@ -2198,5 +2198,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50841"
     }
+  },
+  {
+    "runNumber": "50840",
+    "rawCode": "MED",
+    "timestamp": "2026-09-13T14:45:18.398542-04:00",
+    "address": "200 Block E Sixth Street",
+    "extra": {
+      "incidentNumber": "50840",
+      "run_id": "50840",
+      "address": "200 Block E Sixth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50840"
+    }
   }
 ]
