@@ -548,5 +548,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50766"
     }
+  },
+  {
+    "runNumber": "50767",
+    "rawCode": "MED",
+    "timestamp": "2026-09-13T04:36:32.090652-04:00",
+    "address": "2000 Block Bryant Road",
+    "extra": {
+      "incidentNumber": "50767",
+      "run_id": "50767",
+      "address": "2000 Block Bryant Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50767"
+    }
   }
 ]
