@@ -2726,5 +2726,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50866"
     }
+  },
+  {
+    "runNumber": "50865",
+    "rawCode": "FFIA",
+    "timestamp": "2026-09-13T16:28:56.366736-04:00",
+    "address": "799 Bennett Avenue",
+    "extra": {
+      "incidentNumber": "50865",
+      "run_id": "50865",
+      "address": "799 Bennett Avenue",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E04,L02,205",
+      "units": "E01,E04,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FFIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-50865"
+    }
   }
 ]
