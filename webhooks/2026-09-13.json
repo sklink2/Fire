@@ -1516,5 +1516,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50809"
     }
+  },
+  {
+    "runNumber": "50815",
+    "rawCode": "MED",
+    "timestamp": "2026-09-13T12:20:54.903628-04:00",
+    "address": "400 Block Park Avenue",
+    "extra": {
+      "incidentNumber": "50815",
+      "run_id": "50815",
+      "address": "400 Block Park Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50815"
+    }
   }
 ]
