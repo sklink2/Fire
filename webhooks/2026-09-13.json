@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50811"
     }
+  },
+  {
+    "runNumber": "50816",
+    "rawCode": "FFIA",
+    "timestamp": "2026-09-13T12:29:57.334938-04:00",
+    "address": "324 Madison Place",
+    "extra": {
+      "incidentNumber": "50816",
+      "run_id": "50816",
+      "address": "324 Madison Place",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E06,L01,205",
+      "units": "E04,E06,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FFIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-50816"
+    }
   }
 ]
