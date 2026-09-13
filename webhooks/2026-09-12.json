@@ -4486,5 +4486,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50720"
     }
+  },
+  {
+    "runNumber": "50721",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-12T22:13:22.440699-04:00",
+    "address": "Newtown Pike & S 75 Ramp",
+    "extra": {
+      "incidentNumber": "50721",
+      "run_id": "50721",
+      "address": "Newtown Pike & S 75 Ramp",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50721"
+    }
   }
 ]
