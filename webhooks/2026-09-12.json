@@ -4662,5 +4662,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-50728"
     }
+  },
+  {
+    "runNumber": "50732",
+    "rawCode": "MED",
+    "timestamp": "2026-09-12T22:49:26.014719-04:00",
+    "address": "Mccullough Drive & Winburn Drive",
+    "extra": {
+      "incidentNumber": "50732",
+      "run_id": "50732",
+      "address": "Mccullough Drive & Winburn Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50732"
+    }
   }
 ]
