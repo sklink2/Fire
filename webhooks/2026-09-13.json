@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50787"
     }
+  },
+  {
+    "runNumber": "50786",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-13T09:34:09.633417-04:00",
+    "address": "745 Jaeduke Drive",
+    "extra": {
+      "incidentNumber": "50786",
+      "run_id": "50786",
+      "address": "745 Jaeduke Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E22",
+      "units": "E22",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50786"
+    }
   }
 ]
