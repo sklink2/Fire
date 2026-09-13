@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50824"
     }
+  },
+  {
+    "runNumber": "50825",
+    "rawCode": "MED",
+    "timestamp": "2026-09-13T13:24:02.262412-04:00",
+    "address": "1300 Block Norcross Court",
+    "extra": {
+      "incidentNumber": "50825",
+      "run_id": "50825",
+      "address": "1300 Block Norcross Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L04,EC12",
+      "units": "L04,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50825"
+    }
   }
 ]
