@@ -482,5 +482,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50763"
     }
+  },
+  {
+    "runNumber": "50764",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-13T04:00:30.403950-04:00",
+    "address": "601 E High Street",
+    "extra": {
+      "incidentNumber": "50764",
+      "run_id": "50764",
+      "address": "601 E High Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC7,241",
+      "units": "E05,EC7,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-50764"
+    }
   }
 ]
