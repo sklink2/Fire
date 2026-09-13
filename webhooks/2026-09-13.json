@@ -3188,5 +3188,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50885"
     }
+  },
+  {
+    "runNumber": "50887",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-13T19:20:14.667159-04:00",
+    "address": "3204 Ridgecane Road",
+    "extra": {
+      "incidentNumber": "50887",
+      "run_id": "50887",
+      "address": "3204 Ridgecane Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,E20,L04,EC4,204,220",
+      "units": "E14,E20,L04,EC4,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-50887"
+    }
   }
 ]
