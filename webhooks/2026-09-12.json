@@ -4046,5 +4046,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50702"
     }
+  },
+  {
+    "runNumber": "50701",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-12T20:02:43.518857-04:00",
+    "address": "Hays Boulevard & Stuart Hall Boulevard",
+    "extra": {
+      "incidentNumber": "50701",
+      "run_id": "50701",
+      "address": "Hays Boulevard & Stuart Hall Boulevard",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L06,EC2,241",
+      "units": "L06,EC2,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-50701"
+    }
   }
 ]
