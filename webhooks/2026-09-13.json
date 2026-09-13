@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50785"
     }
+  },
+  {
+    "runNumber": "50787",
+    "rawCode": "MED",
+    "timestamp": "2026-09-13T09:34:07.083058-04:00",
+    "address": "400 Block S Broadway",
+    "extra": {
+      "incidentNumber": "50787",
+      "run_id": "50787",
+      "address": "400 Block S Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "RS1",
+      "units": "RS1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50787"
+    }
   }
 ]
