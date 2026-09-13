@@ -1670,5 +1670,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-50817"
     }
+  },
+  {
+    "runNumber": "50818",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-09-13T12:38:56.462222-04:00",
+    "address": "750 De Roode Street",
+    "extra": {
+      "incidentNumber": "50818",
+      "run_id": "50818",
+      "address": "750 De Roode Street",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50818"
+    }
   }
 ]
