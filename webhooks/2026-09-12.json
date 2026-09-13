@@ -4684,5 +4684,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50732"
     }
+  },
+  {
+    "runNumber": "50731",
+    "rawCode": "FELS",
+    "timestamp": "2026-09-12T22:49:29.660951-04:00",
+    "address": "350 W Short Street",
+    "extra": {
+      "incidentNumber": "50731",
+      "run_id": "50731",
+      "address": "350 W Short Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L02,204,RS1",
+      "units": "L02,204,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-50731"
+    }
   }
 ]
