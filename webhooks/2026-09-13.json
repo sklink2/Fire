@@ -372,5 +372,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50757"
     }
+  },
+  {
+    "runNumber": "50759",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-13T02:21:19.051495-04:00",
+    "address": "443 Woodview Drive",
+    "extra": {
+      "incidentNumber": "50759",
+      "run_id": "50759",
+      "address": "443 Woodview Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E21,L06,202",
+      "units": "E16,E21,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-50759"
+    }
   }
 ]
