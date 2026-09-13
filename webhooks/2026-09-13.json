@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50801"
     }
+  },
+  {
+    "runNumber": "50803",
+    "rawCode": "MED",
+    "timestamp": "2026-09-13T11:40:20.049981-04:00",
+    "address": "2500 Block Tinmouth Vale Lane",
+    "extra": {
+      "incidentNumber": "50803",
+      "run_id": "50803",
+      "address": "2500 Block Tinmouth Vale Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC8",
+      "units": "E21,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50803"
+    }
   }
 ]
