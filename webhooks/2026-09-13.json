@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50858"
     }
+  },
+  {
+    "runNumber": "50857",
+    "rawCode": "MED",
+    "timestamp": "2026-09-13T16:01:52.772572-04:00",
+    "address": "400 Block W Short Street",
+    "extra": {
+      "incidentNumber": "50857",
+      "run_id": "50857",
+      "address": "400 Block W Short Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50857"
+    }
   }
 ]
