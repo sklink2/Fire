@@ -2616,5 +2616,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51044"
     }
+  },
+  {
+    "runNumber": "51046",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-14T14:02:45.882503-04:00",
+    "address": "4009 Hillside Drive",
+    "extra": {
+      "incidentNumber": "51046",
+      "run_id": "51046",
+      "address": "4009 Hillside Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,E20,L04,EC13,204",
+      "units": "E15,E20,L04,EC13,204",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-51046"
+    }
   }
 ]
