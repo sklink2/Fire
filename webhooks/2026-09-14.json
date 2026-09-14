@@ -3584,5 +3584,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51090"
     }
+  },
+  {
+    "runNumber": "51089",
+    "rawCode": "MED",
+    "timestamp": "2026-09-14T16:31:35.140019-04:00",
+    "address": "4100 Block Tradition Way",
+    "extra": {
+      "incidentNumber": "51089",
+      "run_id": "51089",
+      "address": "4100 Block Tradition Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51089"
+    }
   }
 ]
