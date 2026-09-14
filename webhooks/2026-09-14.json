@@ -1670,5 +1670,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51001"
     }
+  },
+  {
+    "runNumber": "51004",
+    "rawCode": "MED",
+    "timestamp": "2026-09-14T10:39:53.673943-04:00",
+    "address": "100 Block Larue",
+    "extra": {
+      "incidentNumber": "51004",
+      "run_id": "51004",
+      "address": "100 Block Larue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51004"
+    }
   }
 ]
