@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51041"
     }
+  },
+  {
+    "runNumber": "51040",
+    "rawCode": "MED",
+    "timestamp": "2026-09-14T13:44:47.765044-04:00",
+    "address": "100 Block Clyde Street",
+    "extra": {
+      "incidentNumber": "51040",
+      "run_id": "51040",
+      "address": "100 Block Clyde Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,EC7",
+      "units": "E04,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51040"
+    }
   }
 ]
