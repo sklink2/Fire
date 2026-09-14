@@ -3782,5 +3782,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50912"
     }
+  },
+  {
+    "runNumber": "50911",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-09-13T22:20:36.746815-04:00",
+    "address": "3726 Military Pike",
+    "extra": {
+      "incidentNumber": "50911",
+      "run_id": "50911",
+      "address": "3726 Military Pike",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,L04,EC7,204,241,RS1",
+      "units": "E11,L04,EC7,204,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,204",
+      "dedupeKey": "INCIDENT-50911"
+    }
   }
 ]
