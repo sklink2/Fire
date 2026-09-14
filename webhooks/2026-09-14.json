@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50997"
     }
+  },
+  {
+    "runNumber": "50999",
+    "rawCode": "FMEA",
+    "timestamp": "2026-09-14T10:17:20.866649-04:00",
+    "address": "471 Price Road",
+    "extra": {
+      "incidentNumber": "50999",
+      "run_id": "50999",
+      "address": "471 Price Road",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L03",
+      "units": "L03",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50999"
+    }
   }
 ]
