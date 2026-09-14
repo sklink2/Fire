@@ -812,5 +812,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50961"
     }
+  },
+  {
+    "runNumber": "50962",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-14T06:18:26.617195-04:00",
+    "address": "1 Street Joseph Drive",
+    "extra": {
+      "incidentNumber": "50962",
+      "run_id": "50962",
+      "address": "1 Street Joseph Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E11,E12,L04,204",
+      "units": "E06,E11,E12,L04,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-50962"
+    }
   }
 ]
