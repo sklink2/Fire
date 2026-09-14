@@ -130,5 +130,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50930"
     }
+  },
+  {
+    "runNumber": "50931",
+    "rawCode": "FSMO",
+    "timestamp": "2026-09-14T00:49:18.191034-04:00",
+    "address": "2160 Fontaine Road",
+    "extra": {
+      "incidentNumber": "50931",
+      "run_id": "50931",
+      "address": "2160 Fontaine Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E09,L02,201",
+      "units": "E05,E09,L02,201",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-50931"
+    }
   }
 ]
