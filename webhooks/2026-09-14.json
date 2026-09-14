@@ -3320,5 +3320,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51078"
     }
+  },
+  {
+    "runNumber": "51077",
+    "rawCode": "FMEA",
+    "timestamp": "2026-09-14T15:55:32.549755-04:00",
+    "address": "4000 Terminal Drive",
+    "extra": {
+      "incidentNumber": "51077",
+      "run_id": "51077",
+      "address": "4000 Terminal Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14",
+      "units": "E14",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51077"
+    }
   }
 ]
