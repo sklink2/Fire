@@ -64,5 +64,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50926"
     }
+  },
+  {
+    "runNumber": "50925",
+    "rawCode": "FFIA",
+    "timestamp": "2026-09-14T00:08:51.437237-04:00",
+    "address": "750 Della Drive",
+    "extra": {
+      "incidentNumber": "50925",
+      "run_id": "50925",
+      "address": "750 Della Drive",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E12,L04,204",
+      "units": "E11,E12,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FFIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-50925"
+    }
   }
 ]
