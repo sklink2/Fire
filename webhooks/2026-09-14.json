@@ -1428,5 +1428,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-50990"
     }
+  },
+  {
+    "runNumber": "50989",
+    "rawCode": "MED",
+    "timestamp": "2026-09-14T09:41:22.490457-04:00",
+    "address": "700 Block De Roode Street",
+    "extra": {
+      "incidentNumber": "50989",
+      "run_id": "50989",
+      "address": "700 Block De Roode Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50989"
+    }
   }
 ]
