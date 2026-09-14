@@ -2242,5 +2242,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51029"
     }
+  },
+  {
+    "runNumber": "51028",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-09-14T12:46:12.202478-04:00",
+    "address": "351 E Seventh Street",
+    "extra": {
+      "incidentNumber": "51028",
+      "run_id": "51028",
+      "address": "351 E Seventh Street",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E09,L05,EC8,201,200,241,RS1",
+      "units": "E01,E09,L05,EC8,201,200,241,RS1",
+      "unitCount": "8",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,200,201",
+      "dedupeKey": "INCIDENT-51028"
+    }
   }
 ]
