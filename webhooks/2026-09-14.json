@@ -2088,5 +2088,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-51019"
     }
+  },
+  {
+    "runNumber": "51021",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-14T12:10:04.233067-04:00",
+    "address": "921 Sugarbush Trail",
+    "extra": {
+      "incidentNumber": "51021",
+      "run_id": "51021",
+      "address": "921 Sugarbush Trail",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,L06,202",
+      "units": "E21,L06,202",
+      "unitCount": "3",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-51021"
+    }
   }
 ]
