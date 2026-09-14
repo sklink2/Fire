@@ -1208,5 +1208,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50979"
     }
+  },
+  {
+    "runNumber": "50980",
+    "rawCode": "MED",
+    "timestamp": "2026-09-14T08:56:12.577576-04:00",
+    "address": "200 Block Clover Valley Drive",
+    "extra": {
+      "incidentNumber": "50980",
+      "run_id": "50980",
+      "address": "200 Block Clover Valley Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50980"
+    }
   }
 ]
