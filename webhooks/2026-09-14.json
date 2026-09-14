@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51040"
     }
+  },
+  {
+    "runNumber": "51043",
+    "rawCode": "FCAR",
+    "timestamp": "2026-09-14T13:49:14.621412-04:00",
+    "address": "2887 Richmond Road",
+    "extra": {
+      "incidentNumber": "51043",
+      "run_id": "51043",
+      "address": "2887 Richmond Road",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L06,220",
+      "units": "L06,220",
+      "unitCount": "2",
+      "primaryTopic": "FCAR",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-51043"
+    }
   }
 ]
