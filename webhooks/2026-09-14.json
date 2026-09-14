@@ -3694,5 +3694,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51094"
     }
+  },
+  {
+    "runNumber": "51093",
+    "rawCode": "MED",
+    "timestamp": "2026-09-14T16:54:07.159884-04:00",
+    "address": "300 Block Harvard Drive",
+    "extra": {
+      "incidentNumber": "51093",
+      "run_id": "51093",
+      "address": "300 Block Harvard Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC21,EC9",
+      "units": "E15,EC21,EC9",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51093"
+    }
   }
 ]
