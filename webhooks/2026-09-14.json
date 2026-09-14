@@ -306,5 +306,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50938"
     }
+  },
+  {
+    "runNumber": "50939",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-14T02:05:57.177636-04:00",
+    "address": "1766 Gettysburg Road",
+    "extra": {
+      "incidentNumber": "50939",
+      "run_id": "50939",
+      "address": "1766 Gettysburg Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E14,L04,204",
+      "units": "E11,E14,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-50939"
+    }
   }
 ]
