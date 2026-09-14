@@ -2924,5 +2924,27 @@
       "commandUnits": "241,202,205",
       "dedupeKey": "INCIDENT-51052"
     }
+  },
+  {
+    "runNumber": "51060",
+    "rawCode": "MED",
+    "timestamp": "2026-09-14T14:29:48.210693-04:00",
+    "address": "3700 Block Gloucester Drive",
+    "extra": {
+      "incidentNumber": "51060",
+      "run_id": "51060",
+      "address": "3700 Block Gloucester Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC22",
+      "units": "EC22",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51060"
+    }
   }
 ]
