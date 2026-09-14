@@ -2066,5 +2066,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51020"
     }
+  },
+  {
+    "runNumber": "51019",
+    "rawCode": "FFIA",
+    "timestamp": "2026-09-14T12:05:37.998809-04:00",
+    "address": "116 Yamacraw Place",
+    "extra": {
+      "incidentNumber": "51019",
+      "run_id": "51019",
+      "address": "116 Yamacraw Place",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E19,E24,L03,203",
+      "units": "E19,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FFIA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-51019"
+    }
   }
 ]
