@@ -3452,5 +3452,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50898"
     }
+  },
+  {
+    "runNumber": "50897",
+    "rawCode": "MED",
+    "timestamp": "2026-09-13T20:36:53.109282-04:00",
+    "address": "400 Block Woodcrest Place",
+    "extra": {
+      "incidentNumber": "50897",
+      "run_id": "50897",
+      "address": "400 Block Woodcrest Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-50897"
+    }
   }
 ]
