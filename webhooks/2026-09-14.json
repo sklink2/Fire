@@ -2902,5 +2902,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51058"
     }
+  },
+  {
+    "runNumber": "51052",
+    "rawCode": "FCSR",
+    "timestamp": "2026-09-14T14:25:24.451490-04:00",
+    "address": "1510 Man O War Boulevard",
+    "extra": {
+      "incidentNumber": "51052",
+      "run_id": "51052",
+      "address": "1510 Man O War Boulevard",
+      "rawType": "FCSR",
+      "typeCode": "FCSR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E09,E11,L07,EC12,EC4,202,205,HM1,241,RS1",
+      "units": "E08,E09,E11,L07,EC12,EC4,202,205,HM1,241,RS1",
+      "unitCount": "11",
+      "primaryTopic": "FCSR",
+      "commandUnits": "241,202,205",
+      "dedupeKey": "INCIDENT-51052"
+    }
   }
 ]
