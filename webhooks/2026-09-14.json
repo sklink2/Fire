@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51011"
     }
+  },
+  {
+    "runNumber": "51010",
+    "rawCode": "MED",
+    "timestamp": "2026-09-14T11:34:04.256534-04:00",
+    "address": "800 Block N Broadway",
+    "extra": {
+      "incidentNumber": "51010",
+      "run_id": "51010",
+      "address": "800 Block N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC10",
+      "units": "E01,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51010"
+    }
   }
 ]
