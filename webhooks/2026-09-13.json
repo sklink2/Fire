@@ -3474,5 +3474,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50897"
     }
+  },
+  {
+    "runNumber": "50900",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-13T20:41:20.204481-04:00",
+    "address": "502 Columbia Avenue",
+    "extra": {
+      "incidentNumber": "50900",
+      "run_id": "50900",
+      "address": "502 Columbia Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,L02,205",
+      "units": "E05,E06,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-50900"
+    }
   }
 ]
