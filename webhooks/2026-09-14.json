@@ -2814,5 +2814,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-51055"
     }
+  },
+  {
+    "runNumber": "51054",
+    "rawCode": "FELF",
+    "timestamp": "2026-09-14T14:16:25.859440-04:00",
+    "address": "2108 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "51054",
+      "run_id": "51054",
+      "address": "2108 Nicholasville Road",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E12,L02,205",
+      "units": "E06,E12,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-51054"
+    }
   }
 ]
