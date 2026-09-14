@@ -2748,5 +2748,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51052"
     }
+  },
+  {
+    "runNumber": "51051",
+    "rawCode": "MED",
+    "timestamp": "2026-09-14T14:11:49.613944-04:00",
+    "address": "1900 Block Stockton Way",
+    "extra": {
+      "incidentNumber": "51051",
+      "run_id": "51051",
+      "address": "1900 Block Stockton Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51051"
+    }
   }
 ]
