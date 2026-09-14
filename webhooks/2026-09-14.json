@@ -1450,5 +1450,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-50989"
     }
+  },
+  {
+    "runNumber": "50992",
+    "rawCode": "FELS",
+    "timestamp": "2026-09-14T09:45:49.441182-04:00",
+    "address": "2452 Sir Barton Way",
+    "extra": {
+      "incidentNumber": "50992",
+      "run_id": "50992",
+      "address": "2452 Sir Barton Way",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,L06,201",
+      "units": "E09,L06,201",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-50992"
+    }
   }
 ]
