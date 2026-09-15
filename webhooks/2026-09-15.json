@@ -4134,5 +4134,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51339"
     }
+  },
+  {
+    "runNumber": "51338",
+    "rawCode": "FSMO",
+    "timestamp": "2026-09-15T18:49:37.437009-04:00",
+    "address": "553 Plainview Road",
+    "extra": {
+      "incidentNumber": "51338",
+      "run_id": "51338",
+      "address": "553 Plainview Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E16,L06,205",
+      "units": "E09,E16,L06,205",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-51338"
+    }
   }
 ]
