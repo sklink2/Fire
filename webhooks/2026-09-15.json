@@ -3716,5 +3716,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51318"
     }
+  },
+  {
+    "runNumber": "51317",
+    "rawCode": "MED",
+    "timestamp": "2026-09-15T17:24:00.081735-04:00",
+    "address": "4800 Block Leestown Road",
+    "extra": {
+      "incidentNumber": "51317",
+      "run_id": "51317",
+      "address": "4800 Block Leestown Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "T1,EC10",
+      "units": "T1,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51317"
+    }
   }
 ]
