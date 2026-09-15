@@ -4222,5 +4222,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51341"
     }
+  },
+  {
+    "runNumber": "51343",
+    "rawCode": "FSIA",
+    "timestamp": "2026-09-15T19:16:38.450930-04:00",
+    "address": "Blue Grass Avenue & N Limestone",
+    "extra": {
+      "incidentNumber": "51343",
+      "run_id": "51343",
+      "address": "Blue Grass Avenue & N Limestone",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E08,201",
+      "units": "E02,E08,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-51343"
+    }
   }
 ]
