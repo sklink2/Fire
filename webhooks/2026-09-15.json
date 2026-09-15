@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51191"
     }
+  },
+  {
+    "runNumber": "51193",
+    "rawCode": "MED",
+    "timestamp": "2026-09-15T08:36:23.218125-04:00",
+    "address": "E Fifth Street & Shropshire Avenue",
+    "extra": {
+      "incidentNumber": "51193",
+      "run_id": "51193",
+      "address": "E Fifth Street & Shropshire Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC10",
+      "units": "E05,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51193"
+    }
   }
 ]
