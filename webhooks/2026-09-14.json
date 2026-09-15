@@ -4442,5 +4442,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51128"
     }
+  },
+  {
+    "runNumber": "51129",
+    "rawCode": "MED",
+    "timestamp": "2026-09-14T21:20:06.340870-04:00",
+    "address": "800 Block Elizabeth Street",
+    "extra": {
+      "incidentNumber": "51129",
+      "run_id": "51129",
+      "address": "800 Block Elizabeth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,EC7",
+      "units": "E06,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51129"
+    }
   }
 ]
