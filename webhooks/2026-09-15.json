@@ -3342,5 +3342,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51300"
     }
+  },
+  {
+    "runNumber": "51302",
+    "rawCode": "MED",
+    "timestamp": "2026-09-15T16:07:13.886338-04:00",
+    "address": "1500 Block University Drive",
+    "extra": {
+      "incidentNumber": "51302",
+      "run_id": "51302",
+      "address": "1500 Block University Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51302"
+    }
   }
 ]
