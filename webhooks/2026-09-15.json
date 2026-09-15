@@ -3496,5 +3496,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51307"
     }
+  },
+  {
+    "runNumber": "51311",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-15T16:52:19.700536-04:00",
+    "address": "2073 Bryant Road",
+    "extra": {
+      "incidentNumber": "51311",
+      "run_id": "51311",
+      "address": "2073 Bryant Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51311"
+    }
   }
 ]
