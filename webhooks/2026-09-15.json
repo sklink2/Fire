@@ -4002,5 +4002,27 @@
       "commandUnits": "220,204",
       "dedupeKey": "INCIDENT-51331"
     }
+  },
+  {
+    "runNumber": "51332",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-15T18:17:59.481113-04:00",
+    "address": "Winchester Road & N 75 Ramp",
+    "extra": {
+      "incidentNumber": "51332",
+      "run_id": "51332",
+      "address": "Winchester Road & N 75 Ramp",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,L05,EC2",
+      "units": "E21,L05,EC2",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51332"
+    }
   }
 ]
