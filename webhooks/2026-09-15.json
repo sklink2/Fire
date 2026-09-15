@@ -284,5 +284,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51157"
     }
+  },
+  {
+    "runNumber": "51159",
+    "rawCode": "MED",
+    "timestamp": "2026-09-15T01:41:33.282597-04:00",
+    "address": "300 Block N Martin Luther King Boulevard",
+    "extra": {
+      "incidentNumber": "51159",
+      "run_id": "51159",
+      "address": "300 Block N Martin Luther King Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC10",
+      "units": "E01,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51159"
+    }
   }
 ]
