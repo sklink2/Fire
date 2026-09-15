@@ -2616,5 +2616,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51267"
     }
+  },
+  {
+    "runNumber": "51269",
+    "rawCode": "MED",
+    "timestamp": "2026-09-15T14:01:00.884505-04:00",
+    "address": "2600 Block Whiteberry Drive",
+    "extra": {
+      "incidentNumber": "51269",
+      "run_id": "51269",
+      "address": "2600 Block Whiteberry Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC10",
+      "units": "E24,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51269"
+    }
   }
 ]
