@@ -2638,5 +2638,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51269"
     }
+  },
+  {
+    "runNumber": "51268",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-15T14:01:05.745755-04:00",
+    "address": "4057 Mooncoin Way",
+    "extra": {
+      "incidentNumber": "51268",
+      "run_id": "51268",
+      "address": "4057 Mooncoin Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,E22,L07,204",
+      "units": "E20,E22,L07,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-51268"
+    }
   }
 ]
