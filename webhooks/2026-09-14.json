@@ -4772,5 +4772,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51144"
     }
+  },
+  {
+    "runNumber": "51143",
+    "rawCode": "MED",
+    "timestamp": "2026-09-14T23:44:23.236115-04:00",
+    "address": "2400 Block Harrigan Way",
+    "extra": {
+      "incidentNumber": "51143",
+      "run_id": "51143",
+      "address": "2400 Block Harrigan Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51143"
+    }
   }
 ]
