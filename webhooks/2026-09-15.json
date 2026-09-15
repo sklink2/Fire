@@ -812,5 +812,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51183"
     }
+  },
+  {
+    "runNumber": "51184",
+    "rawCode": "FSMO",
+    "timestamp": "2026-09-15T07:55:50.613671-04:00",
+    "address": "1980 Haggard Court",
+    "extra": {
+      "incidentNumber": "51184",
+      "run_id": "51184",
+      "address": "1980 Haggard Court",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E10,L03,201",
+      "units": "E08,E10,L03,201",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-51184"
+    }
   }
 ]
