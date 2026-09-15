@@ -1406,5 +1406,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51209"
     }
+  },
+  {
+    "runNumber": "51212",
+    "rawCode": "FELS",
+    "timestamp": "2026-09-15T10:02:05.197207-04:00",
+    "address": "2540 Research Park Drive",
+    "extra": {
+      "incidentNumber": "51212",
+      "run_id": "51212",
+      "address": "2540 Research Park Drive",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,L03,203",
+      "units": "E13,L03,203",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-51212"
+    }
   }
 ]
