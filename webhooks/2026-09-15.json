@@ -42,5 +42,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51147"
     }
+  },
+  {
+    "runNumber": "51146",
+    "rawCode": "MED",
+    "timestamp": "2026-09-15T00:02:28.063490-04:00",
+    "address": "Pine Street & S Limestone",
+    "extra": {
+      "incidentNumber": "51146",
+      "run_id": "51146",
+      "address": "Pine Street & S Limestone",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1,EC7",
+      "units": "EC1,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51146"
+    }
   }
 ]
