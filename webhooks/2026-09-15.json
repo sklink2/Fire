@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51257"
     }
+  },
+  {
+    "runNumber": "51258",
+    "rawCode": "MED",
+    "timestamp": "2026-09-15T13:15:55.287250-04:00",
+    "address": "800 Block Iron Works Pike",
+    "extra": {
+      "incidentNumber": "51258",
+      "run_id": "51258",
+      "address": "800 Block Iron Works Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51258"
+    }
   }
 ]
