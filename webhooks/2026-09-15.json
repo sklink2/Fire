@@ -2462,5 +2462,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-51259"
     }
+  },
+  {
+    "runNumber": "51261",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-09-15T13:33:58.154677-04:00",
+    "address": "2136 Wilkes Way",
+    "extra": {
+      "incidentNumber": "51261",
+      "run_id": "51261",
+      "address": "2136 Wilkes Way",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L05",
+      "units": "L05",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51261"
+    }
   }
 ]
