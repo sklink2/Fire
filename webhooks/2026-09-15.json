@@ -3056,5 +3056,27 @@
       "commandUnits": "220",
       "dedupeKey": "INCIDENT-51286"
     }
+  },
+  {
+    "runNumber": "51289",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-15T15:17:38.792949-04:00",
+    "address": "Alumni Drive & Camino Drive",
+    "extra": {
+      "incidentNumber": "51289",
+      "run_id": "51289",
+      "address": "Alumni Drive & Camino Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,EC20",
+      "units": "E07,EC20",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51289"
+    }
   }
 ]
