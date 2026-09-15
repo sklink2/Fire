@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51323"
     }
+  },
+  {
+    "runNumber": "51322",
+    "rawCode": "FSMO",
+    "timestamp": "2026-09-15T17:32:56.739558-04:00",
+    "address": "2051 Richmond Road",
+    "extra": {
+      "incidentNumber": "51322",
+      "run_id": "51322",
+      "address": "2051 Richmond Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E09,L05,205",
+      "units": "E02,E09,L05,205",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-51322"
+    }
   }
 ]
