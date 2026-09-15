@@ -482,5 +482,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51167"
     }
+  },
+  {
+    "runNumber": "51168",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-15T05:17:59.419069-04:00",
+    "address": "2010 Creative Drive",
+    "extra": {
+      "incidentNumber": "51168",
+      "run_id": "51168",
+      "address": "2010 Creative Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E09,L05,201",
+      "units": "E02,E09,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-51168"
+    }
   }
 ]
