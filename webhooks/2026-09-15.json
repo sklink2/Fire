@@ -1164,5 +1164,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51200"
     }
+  },
+  {
+    "runNumber": "51199",
+    "rawCode": "MED",
+    "timestamp": "2026-09-15T09:26:02.930736-04:00",
+    "address": "4000 Block Tates Creek Road",
+    "extra": {
+      "incidentNumber": "51199",
+      "run_id": "51199",
+      "address": "4000 Block Tates Creek Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC13",
+      "units": "EC13",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51199"
+    }
   }
 ]
