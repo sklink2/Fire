@@ -1736,5 +1736,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-51224"
     }
+  },
+  {
+    "runNumber": "51227",
+    "rawCode": "MED",
+    "timestamp": "2026-09-15T11:18:42.949316-04:00",
+    "address": "2700 Block Man O War Boulevard",
+    "extra": {
+      "incidentNumber": "51227",
+      "run_id": "51227",
+      "address": "2700 Block Man O War Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC10",
+      "units": "E15,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51227"
+    }
   }
 ]
