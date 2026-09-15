@@ -3298,5 +3298,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51298"
     }
+  },
+  {
+    "runNumber": "51299",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-09-15T15:53:46.687577-04:00",
+    "address": "Harrodsburg Road & Ft Harrods Drive",
+    "extra": {
+      "incidentNumber": "51299",
+      "run_id": "51299",
+      "address": "Harrodsburg Road & Ft Harrods Drive",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,L04,EC7,204,220,241,RS1",
+      "units": "E20,L04,EC7,204,220,241,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,220,204",
+      "dedupeKey": "INCIDENT-51299"
+    }
   }
 ]
