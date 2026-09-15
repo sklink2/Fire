@@ -4574,5 +4574,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51134"
     }
+  },
+  {
+    "runNumber": "51135",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-14T22:18:44.141762-04:00",
+    "address": "704 Euclid Avenue",
+    "extra": {
+      "incidentNumber": "51135",
+      "run_id": "51135",
+      "address": "704 Euclid Avenue",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,L02,EC1,205,220",
+      "units": "E05,E06,L02,EC1,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-51135"
+    }
   }
 ]
