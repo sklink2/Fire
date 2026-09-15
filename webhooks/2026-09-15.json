@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51249"
     }
+  },
+  {
+    "runNumber": "51253",
+    "rawCode": "FBAS",
+    "timestamp": "2026-09-15T12:26:20.394316-04:00",
+    "address": "1653 Liberty Road",
+    "extra": {
+      "incidentNumber": "51253",
+      "run_id": "51253",
+      "address": "1653 Liberty Road",
+      "rawType": "FBAS",
+      "typeCode": "FBAS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,205",
+      "units": "E02,205",
+      "unitCount": "2",
+      "primaryTopic": "FBAS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-51253"
+    }
   }
 ]
