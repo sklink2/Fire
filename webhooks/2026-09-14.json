@@ -4398,5 +4398,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-51126"
     }
+  },
+  {
+    "runNumber": "51127",
+    "rawCode": "MED",
+    "timestamp": "2026-09-14T20:34:59.820801-04:00",
+    "address": "400 Block Cunningham Lane",
+    "extra": {
+      "incidentNumber": "51127",
+      "run_id": "51127",
+      "address": "400 Block Cunningham Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51127"
+    }
   }
 ]
