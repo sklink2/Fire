@@ -2902,5 +2902,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51280"
     }
+  },
+  {
+    "runNumber": "51281",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-15T14:55:10.185861-04:00",
+    "address": "505 Library Drive",
+    "extra": {
+      "incidentNumber": "51281",
+      "run_id": "51281",
+      "address": "505 Library Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E11,L02,EC7,204,220",
+      "units": "E06,E11,L02,EC7,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-51281"
+    }
   }
 ]
