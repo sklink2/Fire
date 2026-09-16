@@ -3584,5 +3584,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51548"
     }
+  },
+  {
+    "runNumber": "51549",
+    "rawCode": "MED",
+    "timestamp": "2026-09-16T19:19:20.073825-04:00",
+    "address": "500 Block Lemon Drop Lane",
+    "extra": {
+      "incidentNumber": "51549",
+      "run_id": "51549",
+      "address": "500 Block Lemon Drop Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51549"
+    }
   }
 ]
