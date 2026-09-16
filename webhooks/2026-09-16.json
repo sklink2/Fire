@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51500"
     }
+  },
+  {
+    "runNumber": "51501",
+    "rawCode": "MED",
+    "timestamp": "2026-09-16T15:20:24.485056-04:00",
+    "address": "300 Block Ashmoor Drive",
+    "extra": {
+      "incidentNumber": "51501",
+      "run_id": "51501",
+      "address": "300 Block Ashmoor Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51501"
+    }
   }
 ]
