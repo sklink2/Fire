@@ -1670,5 +1670,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51464"
     }
+  },
+  {
+    "runNumber": "51463",
+    "rawCode": "MED",
+    "timestamp": "2026-09-16T12:02:02.569541-04:00",
+    "address": "1800 Block Bridgestone Drive",
+    "extra": {
+      "incidentNumber": "51463",
+      "run_id": "51463",
+      "address": "1800 Block Bridgestone Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L03,EC13",
+      "units": "L03,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51463"
+    }
   }
 ]
