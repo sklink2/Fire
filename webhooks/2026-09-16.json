@@ -1978,5 +1978,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51474"
     }
+  },
+  {
+    "runNumber": "51476",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-16T13:09:43.225030-04:00",
+    "address": "2042 Bahama Road",
+    "extra": {
+      "incidentNumber": "51476",
+      "run_id": "51476",
+      "address": "2042 Bahama Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E17,L06,EC4,201,220",
+      "units": "E02,E17,L06,EC4,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-51476"
+    }
   }
 ]
