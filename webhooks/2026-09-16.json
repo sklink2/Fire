@@ -1142,5 +1142,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51438"
     }
+  },
+  {
+    "runNumber": "51439",
+    "rawCode": "MED",
+    "timestamp": "2026-09-16T10:00:18.983480-04:00",
+    "address": "300 Block E Main Street",
+    "extra": {
+      "incidentNumber": "51439",
+      "run_id": "51439",
+      "address": "300 Block E Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51439"
+    }
   }
 ]
