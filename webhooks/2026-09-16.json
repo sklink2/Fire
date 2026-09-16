@@ -1230,5 +1230,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51442"
     }
+  },
+  {
+    "runNumber": "51443",
+    "rawCode": "FSTR",
+    "timestamp": "2026-09-16T10:36:25.525910-04:00",
+    "address": "3460 Grasmere Drive",
+    "extra": {
+      "incidentNumber": "51443",
+      "run_id": "51443",
+      "address": "3460 Grasmere Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,E13,E15,E20,L04,L07,EC12,EC5,EC9,203,204,220,241,RS1",
+      "units": "E12,E13,E15,E20,L04,L07,EC12,EC5,EC9,203,204,220,241,RS1",
+      "unitCount": "14",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,203,204",
+      "dedupeKey": "INCIDENT-51443"
+    }
   }
 ]
