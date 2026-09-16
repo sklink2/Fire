@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51501"
     }
+  },
+  {
+    "runNumber": "51502",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-16T15:33:56.063117-04:00",
+    "address": "Douglas Avenue & Newtown Pike",
+    "extra": {
+      "incidentNumber": "51502",
+      "run_id": "51502",
+      "address": "Douglas Avenue & Newtown Pike",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,220",
+      "units": "E10,220",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-51502"
+    }
   }
 ]
