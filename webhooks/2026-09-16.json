@@ -3144,5 +3144,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-51529"
     }
+  },
+  {
+    "runNumber": "51531",
+    "rawCode": "MED",
+    "timestamp": "2026-09-16T17:40:09.190802-04:00",
+    "address": "3100 Block Rio Dosa Drive",
+    "extra": {
+      "incidentNumber": "51531",
+      "run_id": "51531",
+      "address": "3100 Block Rio Dosa Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51531"
+    }
   }
 ]
