@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51522"
     }
+  },
+  {
+    "runNumber": "51521",
+    "rawCode": "MED",
+    "timestamp": "2026-09-16T16:55:08.556112-04:00",
+    "address": "3300 Block Clays Mill Road",
+    "extra": {
+      "incidentNumber": "51521",
+      "run_id": "51521",
+      "address": "3300 Block Clays Mill Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC4,204",
+      "units": "E15,EC4,204",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-51521"
+    }
   }
 ]
