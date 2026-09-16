@@ -3408,5 +3408,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51542"
     }
+  },
+  {
+    "runNumber": "51541",
+    "rawCode": "MED",
+    "timestamp": "2026-09-16T18:25:17.492762-04:00",
+    "address": "3600 Block Palomar Centre Drive",
+    "extra": {
+      "incidentNumber": "51541",
+      "run_id": "51541",
+      "address": "3600 Block Palomar Centre Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,EC7",
+      "units": "E07,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51541"
+    }
   }
 ]
