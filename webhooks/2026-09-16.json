@@ -2638,5 +2638,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-51504"
     }
+  },
+  {
+    "runNumber": "51506",
+    "rawCode": "MED",
+    "timestamp": "2026-09-16T15:47:26.467775-04:00",
+    "address": "0 Block Larado Drive",
+    "extra": {
+      "incidentNumber": "51506",
+      "run_id": "51506",
+      "address": "0 Block Larado Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC3",
+      "units": "E24,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51506"
+    }
   }
 ]
