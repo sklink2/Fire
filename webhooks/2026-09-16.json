@@ -2044,5 +2044,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51479"
     }
+  },
+  {
+    "runNumber": "51478",
+    "rawCode": "MED",
+    "timestamp": "2026-09-16T13:14:16.878367-04:00",
+    "address": "100 Block Lucille Drive",
+    "extra": {
+      "incidentNumber": "51478",
+      "run_id": "51478",
+      "address": "100 Block Lucille Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC2,EC6",
+      "units": "E24,EC2,EC6",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51478"
+    }
   }
 ]
