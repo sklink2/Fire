@@ -4904,5 +4904,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51372"
     }
+  },
+  {
+    "runNumber": "51371",
+    "rawCode": "MED",
+    "timestamp": "2026-09-15T22:08:00.815185-04:00",
+    "address": "3100 Block Carriage Lane",
+    "extra": {
+      "incidentNumber": "51371",
+      "run_id": "51371",
+      "address": "3100 Block Carriage Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51371"
+    }
   }
 ]
