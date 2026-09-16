@@ -4530,5 +4530,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51356"
     }
+  },
+  {
+    "runNumber": "51355",
+    "rawCode": "MED",
+    "timestamp": "2026-09-15T20:19:46.429856-04:00",
+    "address": "2500 Block Alumni Drive",
+    "extra": {
+      "incidentNumber": "51355",
+      "run_id": "51355",
+      "address": "2500 Block Alumni Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC4,241",
+      "units": "EC4,241",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-51355"
+    }
   }
 ]
