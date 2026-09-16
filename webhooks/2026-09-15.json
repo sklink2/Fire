@@ -4772,5 +4772,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51367"
     }
+  },
+  {
+    "runNumber": "51366",
+    "rawCode": "MED",
+    "timestamp": "2026-09-15T21:45:25.945754-04:00",
+    "address": "100 Block Simpson Avenue",
+    "extra": {
+      "incidentNumber": "51366",
+      "run_id": "51366",
+      "address": "100 Block Simpson Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51366"
+    }
   }
 ]
