@@ -2572,5 +2572,27 @@
       "commandUnits": "220",
       "dedupeKey": "INCIDENT-51502"
     }
+  },
+  {
+    "runNumber": "51503",
+    "rawCode": "FCAR",
+    "timestamp": "2026-09-16T15:38:25.397048-04:00",
+    "address": "2445 Vale Drive",
+    "extra": {
+      "incidentNumber": "51503",
+      "run_id": "51503",
+      "address": "2445 Vale Drive",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L04",
+      "units": "L04",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51503"
+    }
   }
 ]
