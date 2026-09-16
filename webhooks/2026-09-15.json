@@ -5102,5 +5102,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51381"
     }
+  },
+  {
+    "runNumber": "51382",
+    "rawCode": "MED",
+    "timestamp": "2026-09-15T23:38:06.834696-04:00",
+    "address": "500 Block Laketower Drive",
+    "extra": {
+      "incidentNumber": "51382",
+      "run_id": "51382",
+      "address": "500 Block Laketower Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51382"
+    }
   }
 ]
