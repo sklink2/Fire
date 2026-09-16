@@ -1604,5 +1604,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51461"
     }
+  },
+  {
+    "runNumber": "51460",
+    "rawCode": "MED",
+    "timestamp": "2026-09-16T11:57:32.704111-04:00",
+    "address": "1300 Block W Main Street",
+    "extra": {
+      "incidentNumber": "51460",
+      "run_id": "51460",
+      "address": "1300 Block W Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC20",
+      "units": "EC20",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51460"
+    }
   }
 ]
