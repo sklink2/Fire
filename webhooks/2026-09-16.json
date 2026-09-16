@@ -2220,5 +2220,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51486"
     }
+  },
+  {
+    "runNumber": "51488",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-16T14:21:46.243025-04:00",
+    "address": "Newtown Pike & W Fourth Street",
+    "extra": {
+      "incidentNumber": "51488",
+      "run_id": "51488",
+      "address": "Newtown Pike & W Fourth Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,EC1",
+      "units": "E04,EC1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51488"
+    }
   }
 ]
