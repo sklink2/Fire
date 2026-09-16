@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51490"
     }
+  },
+  {
+    "runNumber": "51489",
+    "rawCode": "MED",
+    "timestamp": "2026-09-16T14:35:23.033829-04:00",
+    "address": "400 Block Pennsylvania Court",
+    "extra": {
+      "incidentNumber": "51489",
+      "run_id": "51489",
+      "address": "400 Block Pennsylvania Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L02,EC12",
+      "units": "L02,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51489"
+    }
   }
 ]
