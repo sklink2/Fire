@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51405"
     }
+  },
+  {
+    "runNumber": "51406",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-16T05:29:48.500904-04:00",
+    "address": "444 Parkway Drive",
+    "extra": {
+      "incidentNumber": "51406",
+      "run_id": "51406",
+      "address": "444 Parkway Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E11,L04,204",
+      "units": "E06,E11,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-51406"
+    }
   }
 ]
