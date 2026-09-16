@@ -2506,5 +2506,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51498"
     }
+  },
+  {
+    "runNumber": "51500",
+    "rawCode": "MED",
+    "timestamp": "2026-09-16T15:15:52.353022-04:00",
+    "address": "2100 Block Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "51500",
+      "run_id": "51500",
+      "address": "2100 Block Harrodsburg Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC5",
+      "units": "E11,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51500"
+    }
   }
 ]
