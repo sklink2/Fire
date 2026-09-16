@@ -1164,5 +1164,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51439"
     }
+  },
+  {
+    "runNumber": "51440",
+    "rawCode": "MED",
+    "timestamp": "2026-09-16T10:04:48.560448-04:00",
+    "address": "600 Block Street Anthony Drive",
+    "extra": {
+      "incidentNumber": "51440",
+      "run_id": "51440",
+      "address": "600 Block Street Anthony Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51440"
+    }
   }
 ]
