@@ -4684,5 +4684,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51362"
     }
+  },
+  {
+    "runNumber": "51363",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-15T21:18:20.089566-04:00",
+    "address": "2406 Merchant Street",
+    "extra": {
+      "incidentNumber": "51363",
+      "run_id": "51363",
+      "address": "2406 Merchant Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "T1,EC6",
+      "units": "T1,EC6",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51363"
+    }
   }
 ]
