@@ -2044,5 +2044,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51676"
     }
+  },
+  {
+    "runNumber": "51678",
+    "rawCode": "MED",
+    "timestamp": "2026-09-17T13:16:50.156672-04:00",
+    "address": "3400 Block Maddox Lane",
+    "extra": {
+      "incidentNumber": "51678",
+      "run_id": "51678",
+      "address": "3400 Block Maddox Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,EC3",
+      "units": "E24,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51678"
+    }
   }
 ]
