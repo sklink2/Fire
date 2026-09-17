@@ -4288,5 +4288,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51581"
     }
+  },
+  {
+    "runNumber": "51580",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-16T23:04:49.194611-04:00",
+    "address": "2601 Richmond Road",
+    "extra": {
+      "incidentNumber": "51580",
+      "run_id": "51580",
+      "address": "2601 Richmond Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E21,L06,201",
+      "units": "E09,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-51580"
+    }
   }
 ]
