@@ -636,5 +636,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51613"
     }
+  },
+  {
+    "runNumber": "51614",
+    "rawCode": "MED",
+    "timestamp": "2026-09-17T05:09:56.134929-04:00",
+    "address": "1000 Block Export Street",
+    "extra": {
+      "incidentNumber": "51614",
+      "run_id": "51614",
+      "address": "1000 Block Export Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,EC12",
+      "units": "E06,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51614"
+    }
   }
 ]
