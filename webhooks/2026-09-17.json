@@ -1648,5 +1648,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51659"
     }
+  },
+  {
+    "runNumber": "51660",
+    "rawCode": "MED",
+    "timestamp": "2026-09-17T11:10:35.264955-04:00",
+    "address": "1000 Block Goodwin Drive",
+    "extra": {
+      "incidentNumber": "51660",
+      "run_id": "51660",
+      "address": "1000 Block Goodwin Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC4,EC8",
+      "units": "E08,EC4,EC8",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51660"
+    }
   }
 ]
