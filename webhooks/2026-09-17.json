@@ -856,5 +856,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51622"
     }
+  },
+  {
+    "runNumber": "51624",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-17T07:20:39.793983-04:00",
+    "address": "702 Whitney Woods Place",
+    "extra": {
+      "incidentNumber": "51624",
+      "run_id": "51624",
+      "address": "702 Whitney Woods Place",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14",
+      "units": "E14",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51624"
+    }
   }
 ]
