@@ -482,5 +482,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51605"
     }
+  },
+  {
+    "runNumber": "51607",
+    "rawCode": "MED",
+    "timestamp": "2026-09-17T03:44:16.737081-04:00",
+    "address": "1900 Block Newtown Pike",
+    "extra": {
+      "incidentNumber": "51607",
+      "run_id": "51607",
+      "address": "1900 Block Newtown Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51607"
+    }
   }
 ]
