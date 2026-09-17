@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51560"
     }
+  },
+  {
+    "runNumber": "51559",
+    "rawCode": "MED",
+    "timestamp": "2026-09-16T20:08:57.115368-04:00",
+    "address": "900 Block Midnight Pass",
+    "extra": {
+      "incidentNumber": "51559",
+      "run_id": "51559",
+      "address": "900 Block Midnight Pass",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51559"
+    }
   }
 ]
