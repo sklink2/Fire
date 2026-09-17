@@ -1560,5 +1560,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-51656"
     }
+  },
+  {
+    "runNumber": "51655",
+    "rawCode": "FUTL",
+    "timestamp": "2026-09-17T10:52:42.916802-04:00",
+    "address": "1177 Briarwood Drive",
+    "extra": {
+      "incidentNumber": "51655",
+      "run_id": "51655",
+      "address": "1177 Briarwood Drive",
+      "rawType": "FUTL",
+      "typeCode": "FUTL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L03",
+      "units": "L03",
+      "unitCount": "1",
+      "primaryTopic": "FUTL",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51655"
+    }
   }
 ]
