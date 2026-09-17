@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51667"
     }
+  },
+  {
+    "runNumber": "51668",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-17T12:36:14.806862-04:00",
+    "address": "5768 Tates Creek Road",
+    "extra": {
+      "incidentNumber": "51668",
+      "run_id": "51668",
+      "address": "5768 Tates Creek Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,E22,L07,204",
+      "units": "E16,E22,L07,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-51668"
+    }
   }
 ]
