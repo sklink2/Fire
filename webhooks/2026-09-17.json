@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51661"
     }
+  },
+  {
+    "runNumber": "51662",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-17T11:37:39.458325-04:00",
+    "address": "1460 Sunshine Lane",
+    "extra": {
+      "incidentNumber": "51662",
+      "run_id": "51662",
+      "address": "1460 Sunshine Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E08,L05,203",
+      "units": "E01,E08,L05,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-51662"
+    }
   }
 ]
