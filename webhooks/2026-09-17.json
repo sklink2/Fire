@@ -2484,5 +2484,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51697"
     }
+  },
+  {
+    "runNumber": "51700",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-17T14:56:02.859448-04:00",
+    "address": "2631 Wilhite Drive",
+    "extra": {
+      "incidentNumber": "51700",
+      "run_id": "51700",
+      "address": "2631 Wilhite Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51700"
+    }
   }
 ]
