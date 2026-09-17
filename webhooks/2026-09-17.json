@@ -3386,5 +3386,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-51737"
     }
+  },
+  {
+    "runNumber": "51740",
+    "rawCode": "MED",
+    "timestamp": "2026-09-17T17:29:21.243644-04:00",
+    "address": "500 Block Whitewater Circle",
+    "extra": {
+      "incidentNumber": "51740",
+      "run_id": "51740",
+      "address": "500 Block Whitewater Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC3,241",
+      "units": "E22,EC3,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-51740"
+    }
   }
 ]
