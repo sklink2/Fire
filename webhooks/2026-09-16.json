@@ -4046,5 +4046,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51568"
     }
+  },
+  {
+    "runNumber": "51570",
+    "rawCode": "FSIA",
+    "timestamp": "2026-09-16T21:52:38.210658-04:00",
+    "address": "1941 Cambridge Drive",
+    "extra": {
+      "incidentNumber": "51570",
+      "run_id": "51570",
+      "address": "1941 Cambridge Drive",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E14,204",
+      "units": "E11,E14,204",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-51570"
+    }
   }
 ]
