@@ -3540,5 +3540,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-51746"
     }
+  },
+  {
+    "runNumber": "51745",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-17T18:19:02.180838-04:00",
+    "address": "729 Dawson Springs Way",
+    "extra": {
+      "incidentNumber": "51745",
+      "run_id": "51745",
+      "address": "729 Dawson Springs Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E10,L03,203",
+      "units": "E08,E10,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-51745"
+    }
   }
 ]
