@@ -4244,5 +4244,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51578"
     }
+  },
+  {
+    "runNumber": "51579",
+    "rawCode": "MED",
+    "timestamp": "2026-09-16T23:00:14.012137-04:00",
+    "address": "200 Block Locust Avenue",
+    "extra": {
+      "incidentNumber": "51579",
+      "run_id": "51579",
+      "address": "200 Block Locust Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC8",
+      "units": "E08,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51579"
+    }
   }
 ]
