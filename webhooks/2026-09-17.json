@@ -3364,5 +3364,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51738"
     }
+  },
+  {
+    "runNumber": "51737",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-17T17:24:51.456749-04:00",
+    "address": "329 Columbia Terrace",
+    "extra": {
+      "incidentNumber": "51737",
+      "run_id": "51737",
+      "address": "329 Columbia Terrace",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,L02,204",
+      "units": "E05,E06,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-51737"
+    }
   }
 ]
