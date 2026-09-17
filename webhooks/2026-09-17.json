@@ -1538,5 +1538,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51653"
     }
+  },
+  {
+    "runNumber": "51656",
+    "rawCode": "FELF",
+    "timestamp": "2026-09-17T10:52:32.341755-04:00",
+    "address": "245 Fountain Court",
+    "extra": {
+      "incidentNumber": "51656",
+      "run_id": "51656",
+      "address": "245 Fountain Court",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E22,L07,202",
+      "units": "E09,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-51656"
+    }
   }
 ]
