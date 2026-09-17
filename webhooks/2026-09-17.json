@@ -2858,5 +2858,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51713"
     }
+  },
+  {
+    "runNumber": "51715",
+    "rawCode": "MED",
+    "timestamp": "2026-09-17T16:03:39.752401-04:00",
+    "address": "200 Block Simba Way",
+    "extra": {
+      "incidentNumber": "51715",
+      "run_id": "51715",
+      "address": "200 Block Simba Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC8",
+      "units": "E09,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51715"
+    }
   }
 ]
