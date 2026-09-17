@@ -3694,5 +3694,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51755"
     }
+  },
+  {
+    "runNumber": "51754",
+    "rawCode": "FMIS",
+    "timestamp": "2026-09-17T18:46:02.068882-04:00",
+    "address": "1133 Wood Ridge Road",
+    "extra": {
+      "incidentNumber": "51754",
+      "run_id": "51754",
+      "address": "1133 Wood Ridge Road",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,204",
+      "units": "E20,204",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-51754"
+    }
   }
 ]
