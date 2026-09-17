@@ -4156,5 +4156,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51573"
     }
+  },
+  {
+    "runNumber": "51575",
+    "rawCode": "MED",
+    "timestamp": "2026-09-16T22:19:40.458183-04:00",
+    "address": "500 Block Southridge Drive",
+    "extra": {
+      "incidentNumber": "51575",
+      "run_id": "51575",
+      "address": "500 Block Southridge Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51575"
+    }
   }
 ]
