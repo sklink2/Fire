@@ -3870,5 +3870,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51762"
     }
+  },
+  {
+    "runNumber": "51761",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-17T19:08:33.509082-04:00",
+    "address": "604 S Broadway",
+    "extra": {
+      "incidentNumber": "51761",
+      "run_id": "51761",
+      "address": "604 S Broadway",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC7,RS1",
+      "units": "EC7,RS1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51761"
+    }
   }
 ]
