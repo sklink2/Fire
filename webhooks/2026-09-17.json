@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51625"
     }
+  },
+  {
+    "runNumber": "51627",
+    "rawCode": "MED",
+    "timestamp": "2026-09-17T07:47:43.517764-04:00",
+    "address": "1000 Block Cross Keys Road",
+    "extra": {
+      "incidentNumber": "51627",
+      "run_id": "51627",
+      "address": "1000 Block Cross Keys Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51627"
+    }
   }
 ]
