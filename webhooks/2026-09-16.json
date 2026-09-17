@@ -3936,5 +3936,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-51564"
     }
+  },
+  {
+    "runNumber": "51565",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-16T21:03:00.775039-04:00",
+    "address": "Richmond Road & Woodspoint Road",
+    "extra": {
+      "incidentNumber": "51565",
+      "run_id": "51565",
+      "address": "Richmond Road & Woodspoint Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC1",
+      "units": "E09,EC1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51565"
+    }
   }
 ]
