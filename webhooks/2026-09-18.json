@@ -2594,5 +2594,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51919"
     }
+  },
+  {
+    "runNumber": "51920",
+    "rawCode": "MED",
+    "timestamp": "2026-09-18T14:45:12.533862-04:00",
+    "address": "3000 Block Water Tower Drive",
+    "extra": {
+      "incidentNumber": "51920",
+      "run_id": "51920",
+      "address": "3000 Block Water Tower Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L04,EC4",
+      "units": "L04,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51920"
+    }
   }
 ]
