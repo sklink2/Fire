@@ -1516,5 +1516,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51869"
     }
+  },
+  {
+    "runNumber": "51872",
+    "rawCode": "MED",
+    "timestamp": "2026-09-18T10:55:17.526070-04:00",
+    "address": "400 Block Johnson Avenue",
+    "extra": {
+      "incidentNumber": "51872",
+      "run_id": "51872",
+      "address": "400 Block Johnson Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51872"
+    }
   }
 ]
