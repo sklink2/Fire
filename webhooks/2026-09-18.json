@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51825"
     }
+  },
+  {
+    "runNumber": "51826",
+    "rawCode": "FSMO",
+    "timestamp": "2026-09-18T03:56:02.069270-04:00",
+    "address": "1654 Costigan Drive",
+    "extra": {
+      "incidentNumber": "51826",
+      "run_id": "51826",
+      "address": "1654 Costigan Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E19,L03,201",
+      "units": "E08,E19,L03,201",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-51826"
+    }
   }
 ]
