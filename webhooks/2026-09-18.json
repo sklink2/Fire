@@ -2968,5 +2968,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51935"
     }
+  },
+  {
+    "runNumber": "51938",
+    "rawCode": "MED",
+    "timestamp": "2026-09-18T16:01:51.851476-04:00",
+    "address": "1300 Block Ohio Terrace",
+    "extra": {
+      "incidentNumber": "51938",
+      "run_id": "51938",
+      "address": "1300 Block Ohio Terrace",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51938"
+    }
   }
 ]
