@@ -4640,5 +4640,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51795"
     }
+  },
+  {
+    "runNumber": "51796",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-09-17T23:03:00.014900-04:00",
+    "address": "Paris Pk / 75",
+    "extra": {
+      "incidentNumber": "51796",
+      "run_id": "51796",
+      "address": "Paris Pk / 75",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,L03,EC3,201,241,RS1",
+      "units": "E08,L03,EC3,201,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-51796"
+    }
   }
 ]
