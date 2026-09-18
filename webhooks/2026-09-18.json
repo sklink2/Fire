@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51908"
     }
+  },
+  {
+    "runNumber": "51910",
+    "rawCode": "MED",
+    "timestamp": "2026-09-18T14:04:37.972563-04:00",
+    "address": "1100 Block Oak Hill Drive",
+    "extra": {
+      "incidentNumber": "51910",
+      "run_id": "51910",
+      "address": "1100 Block Oak Hill Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51910"
+    }
   }
 ]
