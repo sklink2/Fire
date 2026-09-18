@@ -4178,5 +4178,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-51774"
     }
+  },
+  {
+    "runNumber": "51776",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-17T20:16:13.535831-04:00",
+    "address": "4226 Saron Drive",
+    "extra": {
+      "incidentNumber": "51776",
+      "run_id": "51776",
+      "address": "4226 Saron Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,E22,L07,EC4,202,220",
+      "units": "E16,E22,L07,EC4,202,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-51776"
+    }
   }
 ]
