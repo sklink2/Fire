@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51882"
     }
+  },
+  {
+    "runNumber": "51885",
+    "rawCode": "FELS",
+    "timestamp": "2026-09-18T11:44:54.485542-04:00",
+    "address": "455 Park Place",
+    "extra": {
+      "incidentNumber": "51885",
+      "run_id": "51885",
+      "address": "455 Park Place",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,L03,203",
+      "units": "E08,L03,203",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-51885"
+    }
   }
 ]
