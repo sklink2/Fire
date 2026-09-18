@@ -3672,5 +3672,27 @@
       "commandUnits": "241,204",
       "dedupeKey": "INCIDENT-51968"
     }
+  },
+  {
+    "runNumber": "51967",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-18T19:29:27.446235-04:00",
+    "address": "1950 Newtown Pike",
+    "extra": {
+      "incidentNumber": "51967",
+      "run_id": "51967",
+      "address": "1950 Newtown Pike",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51967"
+    }
   }
 ]
