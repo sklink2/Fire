@@ -4486,5 +4486,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-51788"
     }
+  },
+  {
+    "runNumber": "51789",
+    "rawCode": "MED",
+    "timestamp": "2026-09-17T21:41:49.696324-04:00",
+    "address": "900 Block Georgetown Street",
+    "extra": {
+      "incidentNumber": "51789",
+      "run_id": "51789",
+      "address": "900 Block Georgetown Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,EC6",
+      "units": "E13,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51789"
+    }
   }
 ]
