@@ -306,5 +306,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51816"
     }
+  },
+  {
+    "runNumber": "51817",
+    "rawCode": "FMEA",
+    "timestamp": "2026-09-18T02:21:18.940382-04:00",
+    "address": "1205 Birmingham Lane",
+    "extra": {
+      "incidentNumber": "51817",
+      "run_id": "51817",
+      "address": "1205 Birmingham Lane",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51817"
+    }
   }
 ]
