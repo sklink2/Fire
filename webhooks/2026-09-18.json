@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51914"
     }
+  },
+  {
+    "runNumber": "51913",
+    "rawCode": "MED",
+    "timestamp": "2026-09-18T14:13:41.373355-04:00",
+    "address": "1000 Block Tatesbrook Drive",
+    "extra": {
+      "incidentNumber": "51913",
+      "run_id": "51913",
+      "address": "1000 Block Tatesbrook Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC9,CRT1",
+      "units": "EC9,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51913"
+    }
   }
 ]
