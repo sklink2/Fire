@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51845"
     }
+  },
+  {
+    "runNumber": "51846",
+    "rawCode": "MED",
+    "timestamp": "2026-09-18T08:44:34.124900-04:00",
+    "address": "2100 Block Will Fant Drive",
+    "extra": {
+      "incidentNumber": "51846",
+      "run_id": "51846",
+      "address": "2100 Block Will Fant Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51846"
+    }
   }
 ]
