@@ -372,5 +372,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51819"
     }
+  },
+  {
+    "runNumber": "51820",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-18T03:01:54.407930-04:00",
+    "address": "4809 Holmhurst Way",
+    "extra": {
+      "incidentNumber": "51820",
+      "run_id": "51820",
+      "address": "4809 Holmhurst Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,E22,L07,202",
+      "units": "E16,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-51820"
+    }
   }
 ]
