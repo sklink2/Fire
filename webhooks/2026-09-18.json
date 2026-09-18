@@ -1054,5 +1054,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51850"
     }
+  },
+  {
+    "runNumber": "51851",
+    "rawCode": "MED",
+    "timestamp": "2026-09-18T09:16:06.021223-04:00",
+    "address": "900 Block Marcellus Drive",
+    "extra": {
+      "incidentNumber": "51851",
+      "run_id": "51851",
+      "address": "900 Block Marcellus Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC6",
+      "units": "E02,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51851"
+    }
   }
 ]
