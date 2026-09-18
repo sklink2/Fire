@@ -64,5 +64,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51805"
     }
+  },
+  {
+    "runNumber": "51806",
+    "rawCode": "FSMO",
+    "timestamp": "2026-09-18T00:42:09.364040-04:00",
+    "address": "310 S Limestone",
+    "extra": {
+      "incidentNumber": "51806",
+      "run_id": "51806",
+      "address": "310 S Limestone",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E06,L01,205",
+      "units": "E04,E06,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-51806"
+    }
   }
 ]
