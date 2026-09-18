@@ -4662,5 +4662,27 @@
       "commandUnits": "241,201",
       "dedupeKey": "INCIDENT-51796"
     }
+  },
+  {
+    "runNumber": "51799",
+    "rawCode": "MED",
+    "timestamp": "2026-09-17T23:11:58.928628-04:00",
+    "address": "600 Block Winnie Street",
+    "extra": {
+      "incidentNumber": "51799",
+      "run_id": "51799",
+      "address": "600 Block Winnie Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51799"
+    }
   }
 ]
