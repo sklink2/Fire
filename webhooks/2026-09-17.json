@@ -4156,5 +4156,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51773"
     }
+  },
+  {
+    "runNumber": "51774",
+    "rawCode": "MED",
+    "timestamp": "2026-09-17T20:11:40.362059-04:00",
+    "address": "2400 Block Sir Barton Way",
+    "extra": {
+      "incidentNumber": "51774",
+      "run_id": "51774",
+      "address": "2400 Block Sir Barton Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,EC11,241",
+      "units": "E21,EC11,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-51774"
+    }
   }
 ]
