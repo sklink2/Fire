@@ -3650,5 +3650,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51969"
     }
+  },
+  {
+    "runNumber": "51968",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-09-18T19:29:22.944787-04:00",
+    "address": "W Reynolds Road & Mall Road",
+    "extra": {
+      "incidentNumber": "51968",
+      "run_id": "51968",
+      "address": "W Reynolds Road & Mall Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,L04,EC9,204,241,RS1",
+      "units": "E15,L04,EC9,204,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,204",
+      "dedupeKey": "INCIDENT-51968"
+    }
   }
 ]
