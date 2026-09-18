@@ -4464,5 +4464,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51786"
     }
+  },
+  {
+    "runNumber": "51788",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-17T21:37:19.790402-04:00",
+    "address": "445 Glen Arvin Avenue",
+    "extra": {
+      "incidentNumber": "51788",
+      "run_id": "51788",
+      "address": "445 Glen Arvin Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E10,L03,205",
+      "units": "E04,E10,L03,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-51788"
+    }
   }
 ]
