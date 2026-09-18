@@ -3078,5 +3078,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51940"
     }
+  },
+  {
+    "runNumber": "51943",
+    "rawCode": "FMIS",
+    "timestamp": "2026-09-18T16:24:25.418790-04:00",
+    "address": "1004 Tawas Court",
+    "extra": {
+      "incidentNumber": "51943",
+      "run_id": "51943",
+      "address": "1004 Tawas Court",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,202",
+      "units": "E16,202",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-51943"
+    }
   }
 ]
