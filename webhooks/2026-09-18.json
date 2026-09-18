@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51863"
     }
+  },
+  {
+    "runNumber": "51866",
+    "rawCode": "MED",
+    "timestamp": "2026-09-18T10:14:43.114145-04:00",
+    "address": "3500 Block Creekwood Drive",
+    "extra": {
+      "incidentNumber": "51866",
+      "run_id": "51866",
+      "address": "3500 Block Creekwood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,EC10",
+      "units": "E07,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51866"
+    }
   }
 ]
