@@ -2374,5 +2374,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51910"
     }
+  },
+  {
+    "runNumber": "51909",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-18T14:04:40.551223-04:00",
+    "address": "132 Strawberry Fields Road",
+    "extra": {
+      "incidentNumber": "51909",
+      "run_id": "51909",
+      "address": "132 Strawberry Fields Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51909"
+    }
   }
 ]
