@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51865"
     }
+  },
+  {
+    "runNumber": "51864",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-18T10:14:48.672217-04:00",
+    "address": "1912 Williamsburg Road",
+    "extra": {
+      "incidentNumber": "51864",
+      "run_id": "51864",
+      "address": "1912 Williamsburg Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14",
+      "units": "E14",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51864"
+    }
   }
 ]
