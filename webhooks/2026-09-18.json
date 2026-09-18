@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51917"
     }
+  },
+  {
+    "runNumber": "51916",
+    "rawCode": "MED",
+    "timestamp": "2026-09-18T14:27:14.666641-04:00",
+    "address": "3500 Block Colonnade Drive",
+    "extra": {
+      "incidentNumber": "51916",
+      "run_id": "51916",
+      "address": "3500 Block Colonnade Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC1",
+      "units": "E16,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51916"
+    }
   }
 ]
