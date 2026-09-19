@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52052"
     }
+  },
+  {
+    "runNumber": "52051",
+    "rawCode": "FMEA",
+    "timestamp": "2026-09-19T07:08:03.300899-04:00",
+    "address": "3051 Kirklevington Drive",
+    "extra": {
+      "incidentNumber": "52051",
+      "run_id": "52051",
+      "address": "3051 Kirklevington Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07",
+      "units": "E07",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52051"
+    }
   }
 ]
