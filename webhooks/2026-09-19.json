@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52038"
     }
+  },
+  {
+    "runNumber": "52039",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-09-19T05:51:24.955615-04:00",
+    "address": "1988 Bryant Road",
+    "extra": {
+      "incidentNumber": "52039",
+      "run_id": "52039",
+      "address": "1988 Bryant Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,L06,EC11,201,241,RS1",
+      "units": "E21,L06,EC11,201,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-52039"
+    }
   }
 ]
