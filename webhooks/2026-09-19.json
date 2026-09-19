@@ -2220,5 +2220,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52107"
     }
+  },
+  {
+    "runNumber": "52108",
+    "rawCode": "MED",
+    "timestamp": "2026-09-19T13:35:44.081975-04:00",
+    "address": "1200 Block E New Circle Road",
+    "extra": {
+      "incidentNumber": "52108",
+      "run_id": "52108",
+      "address": "1200 Block E New Circle Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52108"
+    }
   }
 ]
