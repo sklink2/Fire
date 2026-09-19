@@ -394,5 +394,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52026"
     }
+  },
+  {
+    "runNumber": "52027",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-19T03:13:34.539662-04:00",
+    "address": "Keithshire Way & Partner Place",
+    "extra": {
+      "incidentNumber": "52027",
+      "run_id": "52027",
+      "address": "Keithshire Way & Partner Place",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC9,241",
+      "units": "E15,EC9,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-52027"
+    }
   }
 ]
