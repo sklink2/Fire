@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52113"
     }
+  },
+  {
+    "runNumber": "52112",
+    "rawCode": "MED",
+    "timestamp": "2026-09-19T13:49:19.875046-04:00",
+    "address": "400 Block Georgetown Street",
+    "extra": {
+      "incidentNumber": "52112",
+      "run_id": "52112",
+      "address": "400 Block Georgetown Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52112"
+    }
   }
 ]
