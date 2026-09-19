@@ -1230,5 +1230,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52063"
     }
+  },
+  {
+    "runNumber": "52060",
+    "rawCode": "MED",
+    "timestamp": "2026-09-19T09:23:17.992502-04:00",
+    "address": "100 Block Penmoken Park",
+    "extra": {
+      "incidentNumber": "52060",
+      "run_id": "52060",
+      "address": "100 Block Penmoken Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,EC12",
+      "units": "E06,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52060"
+    }
   }
 ]
