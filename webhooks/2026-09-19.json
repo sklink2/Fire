@@ -2374,5 +2374,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52115"
     }
+  },
+  {
+    "runNumber": "52114",
+    "rawCode": "MED",
+    "timestamp": "2026-09-19T13:58:20.435104-04:00",
+    "address": "3100 Block Mapleleaf Sq",
+    "extra": {
+      "incidentNumber": "52114",
+      "run_id": "52114",
+      "address": "3100 Block Mapleleaf Sq",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC13",
+      "units": "E21,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52114"
+    }
   }
 ]
