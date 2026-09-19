@@ -240,5 +240,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52019"
     }
+  },
+  {
+    "runNumber": "52020",
+    "rawCode": "MED",
+    "timestamp": "2026-09-19T01:56:55.737180-04:00",
+    "address": "200 Block E Maxwell Street",
+    "extra": {
+      "incidentNumber": "52020",
+      "run_id": "52020",
+      "address": "200 Block E Maxwell Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06",
+      "units": "E06",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52020"
+    }
   }
 ]
