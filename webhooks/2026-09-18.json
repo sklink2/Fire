@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51976"
     }
+  },
+  {
+    "runNumber": "51975",
+    "rawCode": "MED",
+    "timestamp": "2026-09-18T20:00:50.392230-04:00",
+    "address": "300 Block Alex Lane",
+    "extra": {
+      "incidentNumber": "51975",
+      "run_id": "51975",
+      "address": "300 Block Alex Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51975"
+    }
   }
 ]
