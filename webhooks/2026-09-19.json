@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52166"
     }
+  },
+  {
+    "runNumber": "52171",
+    "rawCode": "FDUM",
+    "timestamp": "2026-09-19T18:55:51.765055-04:00",
+    "address": "209 State Street",
+    "extra": {
+      "incidentNumber": "52171",
+      "run_id": "52171",
+      "address": "209 State Street",
+      "rawType": "FDUM",
+      "typeCode": "FDUM",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06",
+      "units": "E06",
+      "unitCount": "1",
+      "primaryTopic": "FDUM",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52171"
+    }
   }
 ]
