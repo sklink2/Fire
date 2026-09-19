@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52053"
     }
+  },
+  {
+    "runNumber": "52054",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-19T07:26:01.536966-04:00",
+    "address": "2058 Cambridge Drive",
+    "extra": {
+      "incidentNumber": "52054",
+      "run_id": "52054",
+      "address": "2058 Cambridge Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52054"
+    }
   }
 ]
