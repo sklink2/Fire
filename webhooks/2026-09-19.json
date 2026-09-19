@@ -1406,5 +1406,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52070"
     }
+  },
+  {
+    "runNumber": "52074",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-19T10:21:53.931481-04:00",
+    "address": "1245 Centre Parkway",
+    "extra": {
+      "incidentNumber": "52074",
+      "run_id": "52074",
+      "address": "1245 Centre Parkway",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,E22,L07,EC13,202,220",
+      "units": "E16,E22,L07,EC13,202,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-52074"
+    }
   }
 ]
