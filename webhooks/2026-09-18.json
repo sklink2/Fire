@@ -3958,5 +3958,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51980"
     }
+  },
+  {
+    "runNumber": "51983",
+    "rawCode": "MED",
+    "timestamp": "2026-09-18T20:32:20.262141-04:00",
+    "address": "400 Block Reed Lane",
+    "extra": {
+      "incidentNumber": "51983",
+      "run_id": "51983",
+      "address": "400 Block Reed Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51983"
+    }
   }
 ]
