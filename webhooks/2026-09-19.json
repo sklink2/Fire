@@ -2660,5 +2660,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52128"
     }
+  },
+  {
+    "runNumber": "52129",
+    "rawCode": "MED",
+    "timestamp": "2026-09-19T15:10:25.832971-04:00",
+    "address": "500 Block Mccubbing Drive",
+    "extra": {
+      "incidentNumber": "52129",
+      "run_id": "52129",
+      "address": "500 Block Mccubbing Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC7",
+      "units": "E11,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52129"
+    }
   }
 ]
