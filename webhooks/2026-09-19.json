@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52135"
     }
+  },
+  {
+    "runNumber": "52134",
+    "rawCode": "MED",
+    "timestamp": "2026-09-19T15:37:31.185334-04:00",
+    "address": "300 Block Plainview Road",
+    "extra": {
+      "incidentNumber": "52134",
+      "run_id": "52134",
+      "address": "300 Block Plainview Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52134"
+    }
   }
 ]
