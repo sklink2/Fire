@@ -416,5 +416,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-52027"
     }
+  },
+  {
+    "runNumber": "52028",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-19T03:18:04.877875-04:00",
+    "address": "Versailles Road & Heartsbrook Lane",
+    "extra": {
+      "incidentNumber": "52028",
+      "run_id": "52028",
+      "address": "Versailles Road & Heartsbrook Lane",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52028"
+    }
   }
 ]
