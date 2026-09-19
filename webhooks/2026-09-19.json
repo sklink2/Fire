@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52089"
     }
+  },
+  {
+    "runNumber": "52090",
+    "rawCode": "MED",
+    "timestamp": "2026-09-19T11:43:00.788787-04:00",
+    "address": "400 Block Scottsdale Circle",
+    "extra": {
+      "incidentNumber": "52090",
+      "run_id": "52090",
+      "address": "400 Block Scottsdale Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52090"
+    }
   }
 ]
