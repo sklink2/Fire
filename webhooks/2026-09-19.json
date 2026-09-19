@@ -2858,5 +2858,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52130"
     }
+  },
+  {
+    "runNumber": "52137",
+    "rawCode": "MED",
+    "timestamp": "2026-09-19T16:00:00.490981-04:00",
+    "address": "500 Block S Broadway",
+    "extra": {
+      "incidentNumber": "52137",
+      "run_id": "52137",
+      "address": "500 Block S Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52137"
+    }
   }
 ]
