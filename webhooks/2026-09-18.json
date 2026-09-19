@@ -3892,5 +3892,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51979"
     }
+  },
+  {
+    "runNumber": "51982",
+    "rawCode": "MED",
+    "timestamp": "2026-09-18T20:27:50.548575-04:00",
+    "address": "3700 Block Niagara Drive",
+    "extra": {
+      "incidentNumber": "51982",
+      "run_id": "51982",
+      "address": "3700 Block Niagara Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC2",
+      "units": "E16,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51982"
+    }
   }
 ]
