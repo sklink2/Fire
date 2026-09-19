@@ -2110,5 +2110,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52102"
     }
+  },
+  {
+    "runNumber": "52103",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-19T12:59:44.168259-04:00",
+    "address": "620 Portland Drive",
+    "extra": {
+      "incidentNumber": "52103",
+      "run_id": "52103",
+      "address": "620 Portland Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,E20,L04,EC9,204,220",
+      "units": "E12,E20,L04,EC9,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-52103"
+    }
   }
 ]
