@@ -284,5 +284,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52021"
     }
+  },
+  {
+    "runNumber": "52022",
+    "rawCode": "MED",
+    "timestamp": "2026-09-19T02:28:28.644140-04:00",
+    "address": "200 Block Simpson Avenue",
+    "extra": {
+      "incidentNumber": "52022",
+      "run_id": "52022",
+      "address": "200 Block Simpson Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,EC7",
+      "units": "E06,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52022"
+    }
   }
 ]
