@@ -2836,5 +2836,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52136"
     }
+  },
+  {
+    "runNumber": "52130",
+    "rawCode": "FDET",
+    "timestamp": "2026-09-19T15:42:02.549470-04:00",
+    "address": "120 N Limestone",
+    "extra": {
+      "incidentNumber": "52130",
+      "run_id": "52130",
+      "address": "120 N Limestone",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14",
+      "units": "E14",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52130"
+    }
   }
 ]
