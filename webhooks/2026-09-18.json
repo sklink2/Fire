@@ -4244,5 +4244,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-51995"
     }
+  },
+  {
+    "runNumber": "51997",
+    "rawCode": "MED",
+    "timestamp": "2026-09-18T22:47:33.927346-04:00",
+    "address": "300 Block Avocado Street",
+    "extra": {
+      "incidentNumber": "51997",
+      "run_id": "51997",
+      "address": "300 Block Avocado Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC10",
+      "units": "E10,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-51997"
+    }
   }
 ]
