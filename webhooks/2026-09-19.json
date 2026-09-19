@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52031"
     }
+  },
+  {
+    "runNumber": "52032",
+    "rawCode": "MED",
+    "timestamp": "2026-09-19T05:15:18.258130-04:00",
+    "address": "3400 Block Pimlico Parkway",
+    "extra": {
+      "incidentNumber": "52032",
+      "run_id": "52032",
+      "address": "3400 Block Pimlico Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52032"
+    }
   }
 ]
