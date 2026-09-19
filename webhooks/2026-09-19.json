@@ -900,5 +900,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52049"
     }
+  },
+  {
+    "runNumber": "52052",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-19T07:08:00.073228-04:00",
+    "address": "176 W New Circle Road",
+    "extra": {
+      "incidentNumber": "52052",
+      "run_id": "52052",
+      "address": "176 W New Circle Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC8",
+      "units": "E10,EC8",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52052"
+    }
   }
 ]
