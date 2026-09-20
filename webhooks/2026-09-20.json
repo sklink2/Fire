@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52343"
     }
+  },
+  {
+    "runNumber": "52344",
+    "rawCode": "FDUM",
+    "timestamp": "2026-09-20T16:16:07.984879-04:00",
+    "address": "1248 Alexandria Drive",
+    "extra": {
+      "incidentNumber": "52344",
+      "run_id": "52344",
+      "address": "1248 Alexandria Drive",
+      "rawType": "FDUM",
+      "typeCode": "FDUM",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14",
+      "units": "E14",
+      "unitCount": "1",
+      "primaryTopic": "FDUM",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52344"
+    }
   }
 ]
