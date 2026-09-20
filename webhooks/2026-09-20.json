@@ -108,5 +108,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52217"
     }
+  },
+  {
+    "runNumber": "52220",
+    "rawCode": "MED",
+    "timestamp": "2026-09-20T00:51:59.477729-04:00",
+    "address": "300 Block Nottingham Road",
+    "extra": {
+      "incidentNumber": "52220",
+      "run_id": "52220",
+      "address": "300 Block Nottingham Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52220"
+    }
   }
 ]
