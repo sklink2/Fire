@@ -64,5 +64,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52215"
     }
+  },
+  {
+    "runNumber": "52218",
+    "rawCode": "MED",
+    "timestamp": "2026-09-20T00:47:30.509293-04:00",
+    "address": "0 Block Street Joseph Drive",
+    "extra": {
+      "incidentNumber": "52218",
+      "run_id": "52218",
+      "address": "0 Block Street Joseph Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC7,241",
+      "units": "EC7,241",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-52218"
+    }
   }
 ]
