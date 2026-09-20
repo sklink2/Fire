@@ -4508,5 +4508,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52210"
     }
+  },
+  {
+    "runNumber": "52211",
+    "rawCode": "MED",
+    "timestamp": "2026-09-19T23:21:50.902823-04:00",
+    "address": "200 Block Forest Park Road",
+    "extra": {
+      "incidentNumber": "52211",
+      "run_id": "52211",
+      "address": "200 Block Forest Park Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,EC7,241",
+      "units": "E06,EC7,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-52211"
+    }
   }
 ]
