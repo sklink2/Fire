@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52257"
     }
+  },
+  {
+    "runNumber": "52258",
+    "rawCode": "FSMO",
+    "timestamp": "2026-09-20T08:09:13.494468-04:00",
+    "address": "3330 Todds Road",
+    "extra": {
+      "incidentNumber": "52258",
+      "run_id": "52258",
+      "address": "3330 Todds Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E21,L06,201",
+      "units": "E09,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-52258"
+    }
   }
 ]
