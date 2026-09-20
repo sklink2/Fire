@@ -1032,5 +1032,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52260"
     }
+  },
+  {
+    "runNumber": "52261",
+    "rawCode": "MED",
+    "timestamp": "2026-09-20T08:40:46.360109-04:00",
+    "address": "100 Block Spruce Street",
+    "extra": {
+      "incidentNumber": "52261",
+      "run_id": "52261",
+      "address": "100 Block Spruce Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52261"
+    }
   }
 ]
