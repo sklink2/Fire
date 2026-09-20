@@ -2044,5 +2044,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52305"
     }
+  },
+  {
+    "runNumber": "52307",
+    "rawCode": "MED",
+    "timestamp": "2026-09-20T13:42:53.103863-04:00",
+    "address": "3200 Block Beacon Street",
+    "extra": {
+      "incidentNumber": "52307",
+      "run_id": "52307",
+      "address": "3200 Block Beacon Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52307"
+    }
   }
 ]
