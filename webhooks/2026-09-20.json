@@ -482,5 +482,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52234"
     }
+  },
+  {
+    "runNumber": "52236",
+    "rawCode": "MED",
+    "timestamp": "2026-09-20T03:52:18.236521-04:00",
+    "address": "300 Block Stonegate Way",
+    "extra": {
+      "incidentNumber": "52236",
+      "run_id": "52236",
+      "address": "300 Block Stonegate Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52236"
+    }
   }
 ]
