@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52321"
     }
+  },
+  {
+    "runNumber": "52320",
+    "rawCode": "MED",
+    "timestamp": "2026-09-20T14:37:03.119431-04:00",
+    "address": "1900 Block Spring Station Drive",
+    "extra": {
+      "incidentNumber": "52320",
+      "run_id": "52320",
+      "address": "1900 Block Spring Station Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52320"
+    }
   }
 ]
