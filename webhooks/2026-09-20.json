@@ -2440,5 +2440,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-52323"
     }
+  },
+  {
+    "runNumber": "52325",
+    "rawCode": "MED",
+    "timestamp": "2026-09-20T14:50:29.814332-04:00",
+    "address": "1000 Block Albert Lane",
+    "extra": {
+      "incidentNumber": "52325",
+      "run_id": "52325",
+      "address": "1000 Block Albert Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52325"
+    }
   }
 ]
