@@ -526,5 +526,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-52237"
     }
+  },
+  {
+    "runNumber": "52239",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-09-20T04:10:19.474631-04:00",
+    "address": "1717 Brewer Drive",
+    "extra": {
+      "incidentNumber": "52239",
+      "run_id": "52239",
+      "address": "1717 Brewer Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52239"
+    }
   }
 ]
