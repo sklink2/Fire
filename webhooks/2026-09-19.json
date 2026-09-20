@@ -4090,5 +4090,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52191"
     }
+  },
+  {
+    "runNumber": "52192",
+    "rawCode": "MED",
+    "timestamp": "2026-09-19T20:57:32.875683-04:00",
+    "address": "3600 Block Boston Road",
+    "extra": {
+      "incidentNumber": "52192",
+      "run_id": "52192",
+      "address": "3600 Block Boston Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC12",
+      "units": "E15,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52192"
+    }
   }
 ]
