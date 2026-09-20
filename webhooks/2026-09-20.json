@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52295"
     }
+  },
+  {
+    "runNumber": "52294",
+    "rawCode": "FUTL",
+    "timestamp": "2026-09-20T12:35:19.069337-04:00",
+    "address": "3503 Lochdale Terrace",
+    "extra": {
+      "incidentNumber": "52294",
+      "run_id": "52294",
+      "address": "3503 Lochdale Terrace",
+      "rawType": "FUTL",
+      "typeCode": "FUTL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L04",
+      "units": "L04",
+      "unitCount": "1",
+      "primaryTopic": "FUTL",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52294"
+    }
   }
 ]
