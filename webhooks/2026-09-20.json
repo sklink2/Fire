@@ -3408,5 +3408,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-52368"
     }
+  },
+  {
+    "runNumber": "52367",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-09-20T18:49:29.159043-04:00",
+    "address": "301 Ballpark Drive",
+    "extra": {
+      "incidentNumber": "52367",
+      "run_id": "52367",
+      "address": "301 Ballpark Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52367"
+    }
   }
 ]
