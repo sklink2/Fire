@@ -2836,5 +2836,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52342"
     }
+  },
+  {
+    "runNumber": "52341",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-20T16:02:41.336240-04:00",
+    "address": "200 Old Todds Road",
+    "extra": {
+      "incidentNumber": "52341",
+      "run_id": "52341",
+      "address": "200 Old Todds Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E21,L06,201",
+      "units": "E09,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-52341"
+    }
   }
 ]
