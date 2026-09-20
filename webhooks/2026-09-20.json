@@ -3232,5 +3232,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52359"
     }
+  },
+  {
+    "runNumber": "52362",
+    "rawCode": "FSTR",
+    "timestamp": "2026-09-20T18:08:53.833429-04:00",
+    "address": "2416 San Milano Place",
+    "extra": {
+      "incidentNumber": "52362",
+      "run_id": "52362",
+      "address": "2416 San Milano Place",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E08,E17,E21,L05,L06,EC11,201,205,220,241,RS1",
+      "units": "E02,E08,E17,E21,L05,L06,EC11,201,205,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,205",
+      "dedupeKey": "INCIDENT-52362"
+    }
   }
 ]
