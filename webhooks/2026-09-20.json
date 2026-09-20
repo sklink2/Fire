@@ -3166,5 +3166,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52356"
     }
+  },
+  {
+    "runNumber": "52357",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-09-20T17:41:49.611411-04:00",
+    "address": "Greenwich Pike & Ferguson Road",
+    "extra": {
+      "incidentNumber": "52357",
+      "run_id": "52357",
+      "address": "Greenwich Pike & Ferguson Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E19,L03,EC3,201,241,RS1",
+      "units": "E19,L03,EC3,201,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-52357"
+    }
   }
 ]
