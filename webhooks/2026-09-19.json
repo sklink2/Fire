@@ -4266,5 +4266,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52198"
     }
+  },
+  {
+    "runNumber": "52200",
+    "rawCode": "MED",
+    "timestamp": "2026-09-19T21:56:10.385802-04:00",
+    "address": "1700 Block Brewer Drive",
+    "extra": {
+      "incidentNumber": "52200",
+      "run_id": "52200",
+      "address": "1700 Block Brewer Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52200"
+    }
   }
 ]
