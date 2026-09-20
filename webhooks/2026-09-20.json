@@ -3562,5 +3562,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52374"
     }
+  },
+  {
+    "runNumber": "52373",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-20T19:48:08.446819-04:00",
+    "address": "768 Cottage Grove Lane",
+    "extra": {
+      "incidentNumber": "52373",
+      "run_id": "52373",
+      "address": "768 Cottage Grove Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E07,L02,202",
+      "units": "E05,E07,L02,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-52373"
+    }
   }
 ]
