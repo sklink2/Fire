@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52235"
     }
+  },
+  {
+    "runNumber": "52234",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-20T03:20:46.406945-04:00",
+    "address": "1052 W High Street",
+    "extra": {
+      "incidentNumber": "52234",
+      "run_id": "52234",
+      "address": "1052 W High Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10,RS1",
+      "units": "EC10,RS1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52234"
+    }
   }
 ]
