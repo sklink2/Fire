@@ -2418,5 +2418,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52320"
     }
+  },
+  {
+    "runNumber": "52323",
+    "rawCode": "FSMO",
+    "timestamp": "2026-09-20T14:41:29.039247-04:00",
+    "address": "1101 Beaumont Centre Lane",
+    "extra": {
+      "incidentNumber": "52323",
+      "run_id": "52323",
+      "address": "1101 Beaumont Centre Lane",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,E20,L04,204",
+      "units": "E12,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-52323"
+    }
   }
 ]
