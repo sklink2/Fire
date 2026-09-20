@@ -174,5 +174,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52221"
     }
+  },
+  {
+    "runNumber": "52222",
+    "rawCode": "MED",
+    "timestamp": "2026-09-20T01:01:00.833899-04:00",
+    "address": "0 Block Imperial Avenue",
+    "extra": {
+      "incidentNumber": "52222",
+      "run_id": "52222",
+      "address": "0 Block Imperial Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52222"
+    }
   }
 ]
