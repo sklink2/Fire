@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52236"
     }
+  },
+  {
+    "runNumber": "52237",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-20T04:05:49.793203-04:00",
+    "address": "1236 Leanndra Park",
+    "extra": {
+      "incidentNumber": "52237",
+      "run_id": "52237",
+      "address": "1236 Leanndra Park",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,E24,L03,203",
+      "units": "E10,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-52237"
+    }
   }
 ]
