@@ -1582,5 +1582,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-52285"
     }
+  },
+  {
+    "runNumber": "52286",
+    "rawCode": "FWTR",
+    "timestamp": "2026-09-20T11:41:13.708976-04:00",
+    "address": "833 W Main Street",
+    "extra": {
+      "incidentNumber": "52286",
+      "run_id": "52286",
+      "address": "833 W Main Street",
+      "rawType": "FWTR",
+      "typeCode": "FWTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E09,E12,E13,L01,EC1,EC2,203,205,241,RS1",
+      "units": "E01,E09,E12,E13,L01,EC1,EC2,203,205,241,RS1",
+      "unitCount": "11",
+      "primaryTopic": "FWTR",
+      "commandUnits": "241,203,205",
+      "dedupeKey": "INCIDENT-52286"
+    }
   }
 ]
