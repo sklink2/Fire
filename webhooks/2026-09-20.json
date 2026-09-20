@@ -1560,5 +1560,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52283"
     }
+  },
+  {
+    "runNumber": "52285",
+    "rawCode": "FSMO",
+    "timestamp": "2026-09-20T11:32:09.102549-04:00",
+    "address": "448 Hollow Creek Road",
+    "extra": {
+      "incidentNumber": "52285",
+      "run_id": "52285",
+      "address": "448 Hollow Creek Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E10,L03,201",
+      "units": "E08,E10,L03,201",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-52285"
+    }
   }
 ]
