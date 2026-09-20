@@ -4046,5 +4046,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52189"
     }
+  },
+  {
+    "runNumber": "52190",
+    "rawCode": "MED",
+    "timestamp": "2026-09-19T20:48:32.797036-04:00",
+    "address": "100 Block W Maxwell Street",
+    "extra": {
+      "incidentNumber": "52190",
+      "run_id": "52190",
+      "address": "100 Block W Maxwell Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1,RS1",
+      "units": "EC1,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52190"
+    }
   }
 ]
