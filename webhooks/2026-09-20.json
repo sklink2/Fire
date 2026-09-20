@@ -856,5 +856,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52253"
     }
+  },
+  {
+    "runNumber": "52252",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-09-20T07:06:13.730510-04:00",
+    "address": "Iron Works Pike & N 75",
+    "extra": {
+      "incidentNumber": "52252",
+      "run_id": "52252",
+      "address": "Iron Works Pike & N 75",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E19,L03,EC6,203,241,RS1",
+      "units": "E19,L03,EC6,203,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-52252"
+    }
   }
 ]
