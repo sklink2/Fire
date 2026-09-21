@@ -3672,5 +3672,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52380"
     }
+  },
+  {
+    "runNumber": "52379",
+    "rawCode": "FSIA",
+    "timestamp": "2026-09-20T20:24:09.513858-04:00",
+    "address": "497 Angliana Avenue",
+    "extra": {
+      "incidentNumber": "52379",
+      "run_id": "52379",
+      "address": "497 Angliana Avenue",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E11,204",
+      "units": "E06,E11,204",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-52379"
+    }
   }
 ]
