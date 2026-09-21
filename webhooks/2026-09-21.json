@@ -2814,5 +2814,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52537"
     }
+  },
+  {
+    "runNumber": "52536",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-21T15:11:16.273581-04:00",
+    "address": "3821 Old Tates Creek Court",
+    "extra": {
+      "incidentNumber": "52536",
+      "run_id": "52536",
+      "address": "3821 Old Tates Creek Court",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22",
+      "units": "E22",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52536"
+    }
   }
 ]
