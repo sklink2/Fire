@@ -3694,5 +3694,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-52379"
     }
+  },
+  {
+    "runNumber": "52382",
+    "rawCode": "FELF",
+    "timestamp": "2026-09-20T20:51:10.827052-04:00",
+    "address": "1753 Gettysburg Road",
+    "extra": {
+      "incidentNumber": "52382",
+      "run_id": "52382",
+      "address": "1753 Gettysburg Road",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,E14,204",
+      "units": "E11,E14,204",
+      "unitCount": "3",
+      "primaryTopic": "FELF",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-52382"
+    }
   }
 ]
