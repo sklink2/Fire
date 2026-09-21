@@ -416,5 +416,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52428"
     }
+  },
+  {
+    "runNumber": "52429",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-21T04:30:57.320875-04:00",
+    "address": "Trade Street & Leestown Road",
+    "extra": {
+      "incidentNumber": "52429",
+      "run_id": "52429",
+      "address": "Trade Street & Leestown Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52429"
+    }
   }
 ]
