@@ -2242,5 +2242,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52509"
     }
+  },
+  {
+    "runNumber": "52512",
+    "rawCode": "FELF",
+    "timestamp": "2026-09-21T12:51:28.050141-04:00",
+    "address": "721 Sports Center Drive",
+    "extra": {
+      "incidentNumber": "52512",
+      "run_id": "52512",
+      "address": "721 Sports Center Drive",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E05,L02,204",
+      "units": "E01,E05,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-52512"
+    }
   }
 ]
