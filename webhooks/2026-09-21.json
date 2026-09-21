@@ -1296,5 +1296,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52467"
     }
+  },
+  {
+    "runNumber": "52468",
+    "rawCode": "MED",
+    "timestamp": "2026-09-21T09:28:35.406048-04:00",
+    "address": "1000 Block Sugarbush Trail",
+    "extra": {
+      "incidentNumber": "52468",
+      "run_id": "52468",
+      "address": "1000 Block Sugarbush Trail",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC6,CRT1",
+      "units": "E21,EC6,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52468"
+    }
   }
 ]
