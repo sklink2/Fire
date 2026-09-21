@@ -1648,5 +1648,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52483"
     }
+  },
+  {
+    "runNumber": "52486",
+    "rawCode": "MED",
+    "timestamp": "2026-09-21T10:45:13.336352-04:00",
+    "address": "2100 Block Fontaine Road",
+    "extra": {
+      "incidentNumber": "52486",
+      "run_id": "52486",
+      "address": "2100 Block Fontaine Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC8",
+      "units": "E01,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52486"
+    }
   }
 ]
