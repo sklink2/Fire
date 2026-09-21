@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52485"
     }
+  },
+  {
+    "runNumber": "52484",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-21T10:45:21.746937-04:00",
+    "address": "2100 Fontaine Road",
+    "extra": {
+      "incidentNumber": "52484",
+      "run_id": "52484",
+      "address": "2100 Fontaine Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E21,L05,202",
+      "units": "E06,E21,L05,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-52484"
+    }
   }
 ]
