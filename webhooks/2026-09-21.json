@@ -2616,5 +2616,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52526"
     }
+  },
+  {
+    "runNumber": "52525",
+    "rawCode": "MED",
+    "timestamp": "2026-09-21T14:39:48.498365-04:00",
+    "address": "3200 Block Reuben Lane",
+    "extra": {
+      "incidentNumber": "52525",
+      "run_id": "52525",
+      "address": "3200 Block Reuben Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L06,EC2",
+      "units": "L06,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52525"
+    }
   }
 ]
