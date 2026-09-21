@@ -3914,5 +3914,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-52587"
     }
+  },
+  {
+    "runNumber": "52588",
+    "rawCode": "MED",
+    "timestamp": "2026-09-21T19:23:40.121020-04:00",
+    "address": "Russell Cave Road & Hollow Creek",
+    "extra": {
+      "incidentNumber": "52588",
+      "run_id": "52588",
+      "address": "Russell Cave Road & Hollow Creek",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52588"
+    }
   }
 ]
