@@ -834,5 +834,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52448"
     }
+  },
+  {
+    "runNumber": "52447",
+    "rawCode": "MED",
+    "timestamp": "2026-09-21T07:31:23.988170-04:00",
+    "address": "2300 Block Baileys Row",
+    "extra": {
+      "incidentNumber": "52447",
+      "run_id": "52447",
+      "address": "2300 Block Baileys Row",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52447"
+    }
   }
 ]
