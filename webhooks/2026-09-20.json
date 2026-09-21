@@ -4178,5 +4178,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52404"
     }
+  },
+  {
+    "runNumber": "52403",
+    "rawCode": "MED",
+    "timestamp": "2026-09-20T23:06:26.415519-04:00",
+    "address": "4000 Block Airport Road",
+    "extra": {
+      "incidentNumber": "52403",
+      "run_id": "52403",
+      "address": "4000 Block Airport Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52403"
+    }
   }
 ]
