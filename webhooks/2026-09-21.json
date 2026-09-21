@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52571"
     }
+  },
+  {
+    "runNumber": "52570",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-21T17:58:07.021450-04:00",
+    "address": "127 W Fifth Street",
+    "extra": {
+      "incidentNumber": "52570",
+      "run_id": "52570",
+      "address": "127 W Fifth Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E04,L01,205",
+      "units": "E01,E04,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-52570"
+    }
   }
 ]
