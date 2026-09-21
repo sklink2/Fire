@@ -2462,5 +2462,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52520"
     }
+  },
+  {
+    "runNumber": "52521",
+    "rawCode": "MED",
+    "timestamp": "2026-09-21T14:03:36.093942-04:00",
+    "address": "1900 Block Pavilion Way",
+    "extra": {
+      "incidentNumber": "52521",
+      "run_id": "52521",
+      "address": "1900 Block Pavilion Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC8",
+      "units": "E21,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52521"
+    }
   }
 ]
