@@ -3716,5 +3716,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-52382"
     }
+  },
+  {
+    "runNumber": "52381",
+    "rawCode": "MED",
+    "timestamp": "2026-09-20T20:51:13.819037-04:00",
+    "address": "2000 Block Bamboo Drive",
+    "extra": {
+      "incidentNumber": "52381",
+      "run_id": "52381",
+      "address": "2000 Block Bamboo Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52381"
+    }
   }
 ]
