@@ -1208,5 +1208,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52465"
     }
+  },
+  {
+    "runNumber": "52464",
+    "rawCode": "MED",
+    "timestamp": "2026-09-21T09:01:35.363712-04:00",
+    "address": "500 Block Wellington Way",
+    "extra": {
+      "incidentNumber": "52464",
+      "run_id": "52464",
+      "address": "500 Block Wellington Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52464"
+    }
   }
 ]
