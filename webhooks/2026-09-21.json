@@ -2176,5 +2176,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52507"
     }
+  },
+  {
+    "runNumber": "52503",
+    "rawCode": "FSCU",
+    "timestamp": "2026-09-21T12:33:28.220560-04:00",
+    "address": "E High Street & Fontaine Road",
+    "extra": {
+      "incidentNumber": "52503",
+      "run_id": "52503",
+      "address": "E High Street & Fontaine Road",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,241",
+      "units": "E05,241",
+      "unitCount": "2",
+      "primaryTopic": "FSCU",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-52503"
+    }
   }
 ]
