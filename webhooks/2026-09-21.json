@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52496"
     }
+  },
+  {
+    "runNumber": "52499",
+    "rawCode": "MED",
+    "timestamp": "2026-09-21T11:57:20.467863-04:00",
+    "address": "1500 Block Thames Drive",
+    "extra": {
+      "incidentNumber": "52499",
+      "run_id": "52499",
+      "address": "1500 Block Thames Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC4",
+      "units": "E22,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52499"
+    }
   }
 ]
