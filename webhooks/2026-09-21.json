@@ -3452,5 +3452,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52565"
     }
+  },
+  {
+    "runNumber": "52568",
+    "rawCode": "MED",
+    "timestamp": "2026-09-21T17:40:00.128075-04:00",
+    "address": "W Seventh Street & Dakota Street",
+    "extra": {
+      "incidentNumber": "52568",
+      "run_id": "52568",
+      "address": "W Seventh Street & Dakota Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,EC10",
+      "units": "E04,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52568"
+    }
   }
 ]
