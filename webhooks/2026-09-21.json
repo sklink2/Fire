@@ -2770,5 +2770,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52534"
     }
+  },
+  {
+    "runNumber": "52533",
+    "rawCode": "MED",
+    "timestamp": "2026-09-21T15:06:50.645256-04:00",
+    "address": "3500 Block White Pine Drive",
+    "extra": {
+      "incidentNumber": "52533",
+      "run_id": "52533",
+      "address": "3500 Block White Pine Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC4",
+      "units": "E15,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52533"
+    }
   }
 ]
