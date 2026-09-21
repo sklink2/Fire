@@ -3782,5 +3782,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52384"
     }
+  },
+  {
+    "runNumber": "52385",
+    "rawCode": "FSTR",
+    "timestamp": "2026-09-20T21:13:45.175972-04:00",
+    "address": "1988 Pavilion Way",
+    "extra": {
+      "incidentNumber": "52385",
+      "run_id": "52385",
+      "address": "1988 Pavilion Way",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E09,E17,E21,L05,L06,EC11,201,202,220,241,RS1",
+      "units": "E02,E09,E17,E21,L05,L06,EC11,201,202,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,202",
+      "dedupeKey": "INCIDENT-52385"
+    }
   }
 ]
