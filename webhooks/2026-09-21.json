@@ -1164,5 +1164,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-52463"
     }
+  },
+  {
+    "runNumber": "52462",
+    "rawCode": "MED",
+    "timestamp": "2026-09-21T08:52:33.321962-04:00",
+    "address": "1400 Block Ritchie Court",
+    "extra": {
+      "incidentNumber": "52462",
+      "run_id": "52462",
+      "address": "1400 Block Ritchie Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,EC13",
+      "units": "E11,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52462"
+    }
   }
 ]
