@@ -3408,5 +3408,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52564"
     }
+  },
+  {
+    "runNumber": "52566",
+    "rawCode": "MED",
+    "timestamp": "2026-09-21T17:30:59.728824-04:00",
+    "address": "2000 Block Impala Lane",
+    "extra": {
+      "incidentNumber": "52566",
+      "run_id": "52566",
+      "address": "2000 Block Impala Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52566"
+    }
   }
 ]
