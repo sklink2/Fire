@@ -2308,5 +2308,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52510"
     }
+  },
+  {
+    "runNumber": "52513",
+    "rawCode": "MED",
+    "timestamp": "2026-09-21T13:00:27.450308-04:00",
+    "address": "300 Block Lakeshore Drive",
+    "extra": {
+      "incidentNumber": "52513",
+      "run_id": "52513",
+      "address": "300 Block Lakeshore Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52513"
+    }
   }
 ]
