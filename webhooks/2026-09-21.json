@@ -878,5 +878,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52449"
     }
+  },
+  {
+    "runNumber": "52450",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-21T07:44:53.299771-04:00",
+    "address": "1684 Mccullough Drive",
+    "extra": {
+      "incidentNumber": "52450",
+      "run_id": "52450",
+      "address": "1684 Mccullough Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E10,L03,201",
+      "units": "E08,E10,L03,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-52450"
+    }
   }
 ]
