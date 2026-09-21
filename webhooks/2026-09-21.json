@@ -1670,5 +1670,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52486"
     }
+  },
+  {
+    "runNumber": "52485",
+    "rawCode": "MED",
+    "timestamp": "2026-09-21T10:45:16.757724-04:00",
+    "address": "400 Block Sandalwood Drive",
+    "extra": {
+      "incidentNumber": "52485",
+      "run_id": "52485",
+      "address": "400 Block Sandalwood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52485"
+    }
   }
 ]
