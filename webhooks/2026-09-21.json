@@ -746,5 +746,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-52443"
     }
+  },
+  {
+    "runNumber": "52445",
+    "rawCode": "MED",
+    "timestamp": "2026-09-21T07:04:18.225377-04:00",
+    "address": "3200 Block Aqueduct Drive",
+    "extra": {
+      "incidentNumber": "52445",
+      "run_id": "52445",
+      "address": "3200 Block Aqueduct Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC13",
+      "units": "EC13",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52445"
+    }
   }
 ]
