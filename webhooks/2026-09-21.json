@@ -3342,5 +3342,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52561"
     }
+  },
+  {
+    "runNumber": "52563",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-21T17:12:58.976463-04:00",
+    "address": "Versailles Road & Man O War Boulevard",
+    "extra": {
+      "incidentNumber": "52563",
+      "run_id": "52563",
+      "address": "Versailles Road & Man O War Boulevard",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,EC5,203,241",
+      "units": "E14,EC5,203,241",
+      "unitCount": "4",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-52563"
+    }
   }
 ]
