@@ -2264,5 +2264,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-52512"
     }
+  },
+  {
+    "runNumber": "52511",
+    "rawCode": "MED",
+    "timestamp": "2026-09-21T12:51:32.283044-04:00",
+    "address": "2300 Block Cabot Drive",
+    "extra": {
+      "incidentNumber": "52511",
+      "run_id": "52511",
+      "address": "2300 Block Cabot Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52511"
+    }
   }
 ]
