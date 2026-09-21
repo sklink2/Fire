@@ -1890,5 +1890,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52494"
     }
+  },
+  {
+    "runNumber": "52495",
+    "rawCode": "MED",
+    "timestamp": "2026-09-21T11:48:20.128253-04:00",
+    "address": "3600 Block Bold Bidder Drive",
+    "extra": {
+      "incidentNumber": "52495",
+      "run_id": "52495",
+      "address": "3600 Block Bold Bidder Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52495"
+    }
   }
 ]
