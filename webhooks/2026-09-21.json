@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52442"
     }
+  },
+  {
+    "runNumber": "52443",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-21T06:41:46.418289-04:00",
+    "address": "1865 Alysheba Way",
+    "extra": {
+      "incidentNumber": "52443",
+      "run_id": "52443",
+      "address": "1865 Alysheba Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17,E21,L06,201",
+      "units": "E17,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-52443"
+    }
   }
 ]
