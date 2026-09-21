@@ -438,5 +438,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52429"
     }
+  },
+  {
+    "runNumber": "52430",
+    "rawCode": "MED",
+    "timestamp": "2026-09-21T04:35:28.907626-04:00",
+    "address": "1900 Block Cathy Lane",
+    "extra": {
+      "incidentNumber": "52430",
+      "run_id": "52430",
+      "address": "1900 Block Cathy Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,EC3",
+      "units": "E10,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52430"
+    }
   }
 ]
