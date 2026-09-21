@@ -328,5 +328,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52425"
     }
+  },
+  {
+    "runNumber": "52424",
+    "rawCode": "MED",
+    "timestamp": "2026-09-21T03:00:50.040621-04:00",
+    "address": "400 Block Bradley Court",
+    "extra": {
+      "incidentNumber": "52424",
+      "run_id": "52424",
+      "address": "400 Block Bradley Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52424"
+    }
   }
 ]
