@@ -3870,5 +3870,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52585"
     }
+  },
+  {
+    "runNumber": "52586",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-21T19:14:41.326891-04:00",
+    "address": "Nicholasville Road & E Lowry Lane",
+    "extra": {
+      "incidentNumber": "52586",
+      "run_id": "52586",
+      "address": "Nicholasville Road & E Lowry Lane",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,EC11,EC7,241",
+      "units": "E12,EC11,EC7,241",
+      "unitCount": "4",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-52586"
+    }
   }
 ]
