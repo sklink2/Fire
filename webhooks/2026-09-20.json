@@ -3628,5 +3628,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52377"
     }
+  },
+  {
+    "runNumber": "52378",
+    "rawCode": "MED",
+    "timestamp": "2026-09-20T20:19:35.046135-04:00",
+    "address": "800 Block Ward Drive",
+    "extra": {
+      "incidentNumber": "52378",
+      "run_id": "52378",
+      "address": "800 Block Ward Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E19,EC1",
+      "units": "E19,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52378"
+    }
   }
 ]
