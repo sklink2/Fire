@@ -130,5 +130,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52415"
     }
+  },
+  {
+    "runNumber": "52416",
+    "rawCode": "FSIA",
+    "timestamp": "2026-09-21T00:50:06.217237-04:00",
+    "address": "477 W New Circle Road",
+    "extra": {
+      "incidentNumber": "52416",
+      "run_id": "52416",
+      "address": "477 W New Circle Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E10,201",
+      "units": "E08,E10,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-52416"
+    }
   }
 ]
