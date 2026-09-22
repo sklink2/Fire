@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52679"
     }
+  },
+  {
+    "runNumber": "52681",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-22T09:44:47.902091-04:00",
+    "address": "848 Sugarcane Way",
+    "extra": {
+      "incidentNumber": "52681",
+      "run_id": "52681",
+      "address": "848 Sugarcane Way",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10",
+      "units": "E10",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52681"
+    }
   }
 ]
