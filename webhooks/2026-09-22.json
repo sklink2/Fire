@@ -1516,5 +1516,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52703"
     }
+  },
+  {
+    "runNumber": "52706",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-22T12:00:05.545662-04:00",
+    "address": "3051 Rio Dosa Drive",
+    "extra": {
+      "incidentNumber": "52706",
+      "run_id": "52706",
+      "address": "3051 Rio Dosa Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E21,L06,201",
+      "units": "E09,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-52706"
+    }
   }
 ]
