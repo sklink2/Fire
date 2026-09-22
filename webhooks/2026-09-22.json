@@ -636,5 +636,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52662"
     }
+  },
+  {
+    "runNumber": "52664",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-22T07:16:03.784210-04:00",
+    "address": "1746 Jennifer Road",
+    "extra": {
+      "incidentNumber": "52664",
+      "run_id": "52664",
+      "address": "1746 Jennifer Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E08,L05,201",
+      "units": "E02,E08,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-52664"
+    }
   }
 ]
