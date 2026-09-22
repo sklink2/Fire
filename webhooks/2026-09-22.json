@@ -1494,5 +1494,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52704"
     }
+  },
+  {
+    "runNumber": "52703",
+    "rawCode": "MED",
+    "timestamp": "2026-09-22T11:55:37.085757-04:00",
+    "address": "900 Block Governors Lane",
+    "extra": {
+      "incidentNumber": "52703",
+      "run_id": "52703",
+      "address": "900 Block Governors Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52703"
+    }
   }
 ]
