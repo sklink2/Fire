@@ -2726,5 +2726,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52759"
     }
+  },
+  {
+    "runNumber": "52761",
+    "rawCode": "MED",
+    "timestamp": "2026-09-22T17:11:06.763920-04:00",
+    "address": "2100 Block Garden Springs Drive",
+    "extra": {
+      "incidentNumber": "52761",
+      "run_id": "52761",
+      "address": "2100 Block Garden Springs Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52761"
+    }
   }
 ]
