@@ -2132,5 +2132,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-52731"
     }
+  },
+  {
+    "runNumber": "52733",
+    "rawCode": "MED",
+    "timestamp": "2026-09-22T14:28:47.320669-04:00",
+    "address": "400 Block Southland Drive",
+    "extra": {
+      "incidentNumber": "52733",
+      "run_id": "52733",
+      "address": "400 Block Southland Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC5",
+      "units": "E20,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52733"
+    }
   }
 ]
