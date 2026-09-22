@@ -4640,5 +4640,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52620"
     }
+  },
+  {
+    "runNumber": "52621",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-21T22:15:01.677643-04:00",
+    "address": "201 W Vine Street",
+    "extra": {
+      "incidentNumber": "52621",
+      "run_id": "52621",
+      "address": "201 W Vine Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC10,241",
+      "units": "E01,EC10,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-52621"
+    }
   }
 ]
