@@ -1604,5 +1604,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52708"
     }
+  },
+  {
+    "runNumber": "52709",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-22T12:31:37.590537-04:00",
+    "address": "2513 Dressage Way",
+    "extra": {
+      "incidentNumber": "52709",
+      "run_id": "52709",
+      "address": "2513 Dressage Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,E20,L04,203",
+      "units": "E14,E20,L04,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-52709"
+    }
   }
 ]
