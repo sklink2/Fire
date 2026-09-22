@@ -1934,5 +1934,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52723"
     }
+  },
+  {
+    "runNumber": "52724",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-22T13:39:13.219068-04:00",
+    "address": "147 Chenault Road",
+    "extra": {
+      "incidentNumber": "52724",
+      "run_id": "52724",
+      "address": "147 Chenault Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E09,241",
+      "units": "E05,E09,241",
+      "unitCount": "3",
+      "primaryTopic": "FPRT",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-52724"
+    }
   }
 ]
