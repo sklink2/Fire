@@ -2616,5 +2616,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52752"
     }
+  },
+  {
+    "runNumber": "52755",
+    "rawCode": "MED",
+    "timestamp": "2026-09-22T16:17:00.255404-04:00",
+    "address": "700 Block Brookhill Drive",
+    "extra": {
+      "incidentNumber": "52755",
+      "run_id": "52755",
+      "address": "700 Block Brookhill Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC13,EC2",
+      "units": "EC13,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52755"
+    }
   }
 ]
