@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52742"
     }
+  },
+  {
+    "runNumber": "52745",
+    "rawCode": "FSMO",
+    "timestamp": "2026-09-22T15:22:54.789350-04:00",
+    "address": "200 Old Todds Road",
+    "extra": {
+      "incidentNumber": "52745",
+      "run_id": "52745",
+      "address": "200 Old Todds Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E09,L06,201",
+      "units": "E02,E09,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-52745"
+    }
   }
 ]
