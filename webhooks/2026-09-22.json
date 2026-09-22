@@ -3232,5 +3232,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52782"
     }
+  },
+  {
+    "runNumber": "52781",
+    "rawCode": "MED",
+    "timestamp": "2026-09-22T19:17:24.166223-04:00",
+    "address": "Floral Park & Elizabeth Street",
+    "extra": {
+      "incidentNumber": "52781",
+      "run_id": "52781",
+      "address": "Floral Park & Elizabeth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4,241",
+      "units": "EC4,241",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-52781"
+    }
   }
 ]
