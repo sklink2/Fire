@@ -4662,5 +4662,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-52621"
     }
+  },
+  {
+    "runNumber": "52622",
+    "rawCode": "MED",
+    "timestamp": "2026-09-21T22:19:30.398864-04:00",
+    "address": "100 Block Ash Rapids",
+    "extra": {
+      "incidentNumber": "52622",
+      "run_id": "52622",
+      "address": "100 Block Ash Rapids",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52622"
+    }
   }
 ]
