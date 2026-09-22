@@ -1956,5 +1956,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-52724"
     }
+  },
+  {
+    "runNumber": "52725",
+    "rawCode": "MED",
+    "timestamp": "2026-09-22T13:43:43.859181-04:00",
+    "address": "1200 Block Embry Avenue",
+    "extra": {
+      "incidentNumber": "52725",
+      "run_id": "52725",
+      "address": "1200 Block Embry Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52725"
+    }
   }
 ]
