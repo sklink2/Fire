@@ -4332,5 +4332,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52606"
     }
+  },
+  {
+    "runNumber": "52607",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-21T21:11:55.010167-04:00",
+    "address": "381 Virginia Avenue",
+    "extra": {
+      "incidentNumber": "52607",
+      "run_id": "52607",
+      "address": "381 Virginia Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E11,L02,204",
+      "units": "E06,E11,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-52607"
+    }
   }
 ]
