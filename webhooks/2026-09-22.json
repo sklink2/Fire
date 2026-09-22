@@ -3210,5 +3210,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52780"
     }
+  },
+  {
+    "runNumber": "52782",
+    "rawCode": "FGAO",
+    "timestamp": "2026-09-22T19:17:19.759434-04:00",
+    "address": "869 Sparta Court",
+    "extra": {
+      "incidentNumber": "52782",
+      "run_id": "52782",
+      "address": "869 Sparta Court",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,E13",
+      "units": "E10,E13",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52782"
+    }
   }
 ]
