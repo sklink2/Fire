@@ -1318,5 +1318,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52697"
     }
+  },
+  {
+    "runNumber": "52696",
+    "rawCode": "MED",
+    "timestamp": "2026-09-22T11:19:31.429797-04:00",
+    "address": "3000 Block Kirklevington Drive",
+    "extra": {
+      "incidentNumber": "52696",
+      "run_id": "52696",
+      "address": "3000 Block Kirklevington Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E22,EC6",
+      "units": "E07,E22,EC6",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52696"
+    }
   }
 ]
