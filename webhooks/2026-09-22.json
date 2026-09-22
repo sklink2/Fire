@@ -2220,5 +2220,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52736"
     }
+  },
+  {
+    "runNumber": "52738",
+    "rawCode": "MED",
+    "timestamp": "2026-09-22T14:55:50.598433-04:00",
+    "address": "W Maxwell Street & S Broadway",
+    "extra": {
+      "incidentNumber": "52738",
+      "run_id": "52738",
+      "address": "W Maxwell Street & S Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "RS1",
+      "units": "RS1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52738"
+    }
   }
 ]
