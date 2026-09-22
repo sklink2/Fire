@@ -4794,5 +4794,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-52627"
     }
+  },
+  {
+    "runNumber": "52628",
+    "rawCode": "FMEA",
+    "timestamp": "2026-09-21T23:04:36.506352-04:00",
+    "address": "4005 Whitewater Drive",
+    "extra": {
+      "incidentNumber": "52628",
+      "run_id": "52628",
+      "address": "4005 Whitewater Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22",
+      "units": "E22",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52628"
+    }
   }
 ]
