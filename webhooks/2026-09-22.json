@@ -2462,5 +2462,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-52747"
     }
+  },
+  {
+    "runNumber": "52748",
+    "rawCode": "MED",
+    "timestamp": "2026-09-22T15:45:26.089859-04:00",
+    "address": "200 Block Rugby Road",
+    "extra": {
+      "incidentNumber": "52748",
+      "run_id": "52748",
+      "address": "200 Block Rugby Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52748"
+    }
   }
 ]
