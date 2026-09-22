@@ -1692,5 +1692,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-52713"
     }
+  },
+  {
+    "runNumber": "52712",
+    "rawCode": "MED",
+    "timestamp": "2026-09-22T12:49:45.718045-04:00",
+    "address": "3600 Block Nicholasville Road",
+    "extra": {
+      "incidentNumber": "52712",
+      "run_id": "52712",
+      "address": "3600 Block Nicholasville Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52712"
+    }
   }
 ]
