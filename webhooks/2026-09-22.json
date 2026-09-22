@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52677"
     }
+  },
+  {
+    "runNumber": "52678",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-22T08:50:45.509446-04:00",
+    "address": "185 Pasadena Drive",
+    "extra": {
+      "incidentNumber": "52678",
+      "run_id": "52678",
+      "address": "185 Pasadena Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,E20,L02,EC13,204,220",
+      "units": "E15,E20,L02,EC13,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-52678"
+    }
   }
 ]
