@@ -4904,5 +4904,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52633"
     }
+  },
+  {
+    "runNumber": "52632",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-21T23:45:13.833977-04:00",
+    "address": "132 Sherman Avenue",
+    "extra": {
+      "incidentNumber": "52632",
+      "run_id": "52632",
+      "address": "132 Sherman Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E09,L02,205",
+      "units": "E05,E09,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-52632"
+    }
   }
 ]
