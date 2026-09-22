@@ -2066,5 +2066,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52729"
     }
+  },
+  {
+    "runNumber": "52728",
+    "rawCode": "MED",
+    "timestamp": "2026-09-22T14:01:51.154543-04:00",
+    "address": "2400 Block Mirahill Drive",
+    "extra": {
+      "incidentNumber": "52728",
+      "run_id": "52728",
+      "address": "2400 Block Mirahill Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52728"
+    }
   }
 ]
