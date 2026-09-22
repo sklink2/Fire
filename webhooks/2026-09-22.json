@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52757"
     }
+  },
+  {
+    "runNumber": "52758",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-22T16:48:33.600550-04:00",
+    "address": "521 S Broadway",
+    "extra": {
+      "incidentNumber": "52758",
+      "run_id": "52758",
+      "address": "521 S Broadway",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,L01",
+      "units": "E06,L01",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52758"
+    }
   }
 ]
