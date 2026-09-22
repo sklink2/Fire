@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52698"
     }
+  },
+  {
+    "runNumber": "52699",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-22T11:28:32.208598-04:00",
+    "address": "751 Elizabeth Street",
+    "extra": {
+      "incidentNumber": "52699",
+      "run_id": "52699",
+      "address": "751 Elizabeth Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,L01,202",
+      "units": "E05,E06,L01,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-52699"
+    }
   }
 ]
