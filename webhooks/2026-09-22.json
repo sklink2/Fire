@@ -1714,5 +1714,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52712"
     }
+  },
+  {
+    "runNumber": "52715",
+    "rawCode": "MED",
+    "timestamp": "2026-09-22T12:54:08.947872-04:00",
+    "address": "1800 Block Dunkirk Drive",
+    "extra": {
+      "incidentNumber": "52715",
+      "run_id": "52715",
+      "address": "1800 Block Dunkirk Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52715"
+    }
   }
 ]
