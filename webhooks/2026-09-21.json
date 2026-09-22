@@ -4178,5 +4178,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52600"
     }
+  },
+  {
+    "runNumber": "52599",
+    "rawCode": "MED",
+    "timestamp": "2026-09-21T20:31:23.210925-04:00",
+    "address": "800 Block Georgetown Street",
+    "extra": {
+      "incidentNumber": "52599",
+      "run_id": "52599",
+      "address": "800 Block Georgetown Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52599"
+    }
   }
 ]
