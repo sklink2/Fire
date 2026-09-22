@@ -3364,5 +3364,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52787"
     }
+  },
+  {
+    "runNumber": "52789",
+    "rawCode": "MED",
+    "timestamp": "2026-09-22T19:48:53.945221-04:00",
+    "address": "200 Block Vanderbilt Drive",
+    "extra": {
+      "incidentNumber": "52789",
+      "run_id": "52789",
+      "address": "200 Block Vanderbilt Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52789"
+    }
   }
 ]
