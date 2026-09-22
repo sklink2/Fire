@@ -2506,5 +2506,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52749"
     }
+  },
+  {
+    "runNumber": "52751",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-22T15:54:32.729022-04:00",
+    "address": "2025 Daniel Court",
+    "extra": {
+      "incidentNumber": "52751",
+      "run_id": "52751",
+      "address": "2025 Daniel Court",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E14,L04,EC1,204,220",
+      "units": "E06,E14,L04,EC1,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-52751"
+    }
   }
 ]
