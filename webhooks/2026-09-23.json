@@ -1428,5 +1428,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52883"
     }
+  },
+  {
+    "runNumber": "52885",
+    "rawCode": "MED",
+    "timestamp": "2026-09-23T09:42:58.114970-04:00",
+    "address": "600 Block Rosewood Drive",
+    "extra": {
+      "incidentNumber": "52885",
+      "run_id": "52885",
+      "address": "600 Block Rosewood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L05,EC11",
+      "units": "L05,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52885"
+    }
   }
 ]
