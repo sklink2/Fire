@@ -1802,5 +1802,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52900"
     }
+  },
+  {
+    "runNumber": "52903",
+    "rawCode": "MED",
+    "timestamp": "2026-09-23T11:04:05.878323-04:00",
+    "address": "300 Block Fox Harbour Drive",
+    "extra": {
+      "incidentNumber": "52903",
+      "run_id": "52903",
+      "address": "300 Block Fox Harbour Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC5",
+      "units": "E15,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52903"
+    }
   }
 ]
