@@ -1560,5 +1560,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52888"
     }
+  },
+  {
+    "runNumber": "52890",
+    "rawCode": "MED",
+    "timestamp": "2026-09-23T10:09:58.601392-04:00",
+    "address": "1100 Block Muir Station Road",
+    "extra": {
+      "incidentNumber": "52890",
+      "run_id": "52890",
+      "address": "1100 Block Muir Station Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC11",
+      "units": "E08,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52890"
+    }
   }
 ]
