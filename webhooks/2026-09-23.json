@@ -2264,5 +2264,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-52922"
     }
+  },
+  {
+    "runNumber": "52923",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-23T13:23:52.558592-04:00",
+    "address": "2729 Red Leaf Drive",
+    "extra": {
+      "incidentNumber": "52923",
+      "run_id": "52923",
+      "address": "2729 Red Leaf Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21",
+      "units": "E21",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52923"
+    }
   }
 ]
