@@ -3518,5 +3518,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52980"
     }
+  },
+  {
+    "runNumber": "52981",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-23T18:25:54.768337-04:00",
+    "address": "3316 Beacon Street",
+    "extra": {
+      "incidentNumber": "52981",
+      "run_id": "52981",
+      "address": "3316 Beacon Street",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12",
+      "units": "E12",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52981"
+    }
   }
 ]
