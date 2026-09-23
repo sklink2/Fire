@@ -328,5 +328,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52833"
     }
+  },
+  {
+    "runNumber": "52835",
+    "rawCode": "MED",
+    "timestamp": "2026-09-23T02:52:40.860877-04:00",
+    "address": "400 Block Denton Trail",
+    "extra": {
+      "incidentNumber": "52835",
+      "run_id": "52835",
+      "address": "400 Block Denton Trail",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52835"
+    }
   }
 ]
