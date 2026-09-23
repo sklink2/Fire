@@ -20,5 +20,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52820"
     }
+  },
+  {
+    "runNumber": "52821",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-23T00:10:22.070066-04:00",
+    "address": "3005 Water Tower Drive",
+    "extra": {
+      "incidentNumber": "52821",
+      "run_id": "52821",
+      "address": "3005 Water Tower Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,E20,L04,203",
+      "units": "E14,E20,L04,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-52821"
+    }
   }
 ]
