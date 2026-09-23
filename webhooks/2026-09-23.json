@@ -152,5 +152,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52827"
     }
+  },
+  {
+    "runNumber": "52826",
+    "rawCode": "MED",
+    "timestamp": "2026-09-23T01:04:31.161626-04:00",
+    "address": "400 Block Rose Lane",
+    "extra": {
+      "incidentNumber": "52826",
+      "run_id": "52826",
+      "address": "400 Block Rose Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,EC7",
+      "units": "E05,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52826"
+    }
   }
 ]
