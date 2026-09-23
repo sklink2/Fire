@@ -1362,5 +1362,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52880"
     }
+  },
+  {
+    "runNumber": "52881",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-23T09:24:56.505316-04:00",
+    "address": "1107 Texaco Road",
+    "extra": {
+      "incidentNumber": "52881",
+      "run_id": "52881",
+      "address": "1107 Texaco Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E13,L03,EC10,203,220",
+      "units": "E06,E13,L03,EC10,203,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,203",
+      "dedupeKey": "INCIDENT-52881"
+    }
   }
 ]
