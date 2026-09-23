@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52957"
     }
+  },
+  {
+    "runNumber": "52956",
+    "rawCode": "MED",
+    "timestamp": "2026-09-23T16:06:13.088414-04:00",
+    "address": "800 Block W High Street",
+    "extra": {
+      "incidentNumber": "52956",
+      "run_id": "52956",
+      "address": "800 Block W High Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10,RS1",
+      "units": "EC10,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52956"
+    }
   }
 ]
