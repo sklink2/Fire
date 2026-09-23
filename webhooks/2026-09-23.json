@@ -262,5 +262,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52831"
     }
+  },
+  {
+    "runNumber": "52832",
+    "rawCode": "MED",
+    "timestamp": "2026-09-23T02:34:38.881324-04:00",
+    "address": "2300 Block Hartland Parkside Drive",
+    "extra": {
+      "incidentNumber": "52832",
+      "run_id": "52832",
+      "address": "2300 Block Hartland Parkside Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52832"
+    }
   }
 ]
