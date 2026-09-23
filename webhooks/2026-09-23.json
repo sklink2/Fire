@@ -3760,5 +3760,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52991"
     }
+  },
+  {
+    "runNumber": "52993",
+    "rawCode": "MED",
+    "timestamp": "2026-09-23T19:19:59.984978-04:00",
+    "address": "4800 Block Clifford Circle",
+    "extra": {
+      "incidentNumber": "52993",
+      "run_id": "52993",
+      "address": "4800 Block Clifford Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2,CRT1",
+      "units": "EC2,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52993"
+    }
   }
 ]
