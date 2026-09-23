@@ -4024,5 +4024,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-52817"
     }
+  },
+  {
+    "runNumber": "52818",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-22T23:43:20.445143-04:00",
+    "address": "329 S Martin Luther King Boulevard",
+    "extra": {
+      "incidentNumber": "52818",
+      "run_id": "52818",
+      "address": "329 S Martin Luther King Boulevard",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E05,E06,L01,205",
+      "units": "E01,E05,E06,L01,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-52818"
+    }
   }
 ]
