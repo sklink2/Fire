@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52903"
     }
+  },
+  {
+    "runNumber": "52902",
+    "rawCode": "MED",
+    "timestamp": "2026-09-23T11:04:08.988736-04:00",
+    "address": "700 Block Willow Oak Circle",
+    "extra": {
+      "incidentNumber": "52902",
+      "run_id": "52902",
+      "address": "700 Block Willow Oak Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52902"
+    }
   }
 ]
