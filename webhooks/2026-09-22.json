@@ -3826,5 +3826,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52808"
     }
+  },
+  {
+    "runNumber": "52810",
+    "rawCode": "MED",
+    "timestamp": "2026-09-22T22:44:42.631108-04:00",
+    "address": "600 Block E Sixth Street",
+    "extra": {
+      "incidentNumber": "52810",
+      "run_id": "52810",
+      "address": "600 Block E Sixth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L01,EC8",
+      "units": "L01,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52810"
+    }
   }
 ]
