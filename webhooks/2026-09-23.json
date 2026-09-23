@@ -1472,5 +1472,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52884"
     }
+  },
+  {
+    "runNumber": "52887",
+    "rawCode": "MED",
+    "timestamp": "2026-09-23T09:56:27.585658-04:00",
+    "address": "S Limestone & Rose Street",
+    "extra": {
+      "incidentNumber": "52887",
+      "run_id": "52887",
+      "address": "S Limestone & Rose Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,EC2,CRT1",
+      "units": "E12,EC2,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52887"
+    }
   }
 ]
