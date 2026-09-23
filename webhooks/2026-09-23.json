@@ -3188,5 +3188,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52965"
     }
+  },
+  {
+    "runNumber": "52967",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-23T16:46:45.699789-04:00",
+    "address": "120 E Main Street",
+    "extra": {
+      "incidentNumber": "52967",
+      "run_id": "52967",
+      "address": "120 E Main Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,L01,205",
+      "units": "E05,E06,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-52967"
+    }
   }
 ]
