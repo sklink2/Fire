@@ -2836,5 +2836,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52949"
     }
+  },
+  {
+    "runNumber": "52950",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-23T15:39:08.504625-04:00",
+    "address": "649 N Limestone",
+    "extra": {
+      "incidentNumber": "52950",
+      "run_id": "52950",
+      "address": "649 N Limestone",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E04,L01,205",
+      "units": "E01,E04,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-52950"
+    }
   }
 ]
