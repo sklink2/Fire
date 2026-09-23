@@ -1230,5 +1230,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52876"
     }
+  },
+  {
+    "runNumber": "52875",
+    "rawCode": "MED",
+    "timestamp": "2026-09-23T08:48:52.787645-04:00",
+    "address": "1200 Block S Broadway",
+    "extra": {
+      "incidentNumber": "52875",
+      "run_id": "52875",
+      "address": "1200 Block S Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52875"
+    }
   }
 ]
