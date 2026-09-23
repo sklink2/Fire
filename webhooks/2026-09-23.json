@@ -416,5 +416,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52839"
     }
+  },
+  {
+    "runNumber": "52838",
+    "rawCode": "MED",
+    "timestamp": "2026-09-23T03:37:50.972356-04:00",
+    "address": "600 Block Marshall Lane",
+    "extra": {
+      "incidentNumber": "52838",
+      "run_id": "52838",
+      "address": "600 Block Marshall Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52838"
+    }
   }
 ]
