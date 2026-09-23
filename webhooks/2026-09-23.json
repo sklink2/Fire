@@ -2198,5 +2198,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52919"
     }
+  },
+  {
+    "runNumber": "52921",
+    "rawCode": "MED",
+    "timestamp": "2026-09-23T13:10:19.785315-04:00",
+    "address": "300 Block Huguelet Drive",
+    "extra": {
+      "incidentNumber": "52921",
+      "run_id": "52921",
+      "address": "300 Block Huguelet Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52921"
+    }
   }
 ]
