@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52851"
     }
+  },
+  {
+    "runNumber": "52853",
+    "rawCode": "MED",
+    "timestamp": "2026-09-23T06:11:02.383042-04:00",
+    "address": "E Third Street & Nelson Avenue",
+    "extra": {
+      "incidentNumber": "52853",
+      "run_id": "52853",
+      "address": "E Third Street & Nelson Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52853"
+    }
   }
 ]
