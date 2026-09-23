@@ -3782,5 +3782,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52993"
     }
+  },
+  {
+    "runNumber": "52992",
+    "rawCode": "MED",
+    "timestamp": "2026-09-23T19:20:03.178108-04:00",
+    "address": "600 Block Emerson Drive",
+    "extra": {
+      "incidentNumber": "52992",
+      "run_id": "52992",
+      "address": "600 Block Emerson Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52992"
+    }
   }
 ]
