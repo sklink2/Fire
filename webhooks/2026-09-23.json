@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52927"
     }
+  },
+  {
+    "runNumber": "52926",
+    "rawCode": "MED",
+    "timestamp": "2026-09-23T13:46:26.296454-04:00",
+    "address": "2200 Block Richmond Road",
+    "extra": {
+      "incidentNumber": "52926",
+      "run_id": "52926",
+      "address": "2200 Block Richmond Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52926"
+    }
   }
 ]
