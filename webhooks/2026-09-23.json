@@ -1516,5 +1516,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52886"
     }
+  },
+  {
+    "runNumber": "52889",
+    "rawCode": "FFIA",
+    "timestamp": "2026-09-23T10:05:30.448726-04:00",
+    "address": "2185 Polo Club Boulevard",
+    "extra": {
+      "incidentNumber": "52889",
+      "run_id": "52889",
+      "address": "2185 Polo Club Boulevard",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17,E21,L06,205",
+      "units": "E17,E21,L06,205",
+      "unitCount": "4",
+      "primaryTopic": "FFIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-52889"
+    }
   }
 ]
