@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52861"
     }
+  },
+  {
+    "runNumber": "52863",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-23T07:27:40.104435-04:00",
+    "address": "Leestown Road & N Forbes Road",
+    "extra": {
+      "incidentNumber": "52863",
+      "run_id": "52863",
+      "address": "Leestown Road & N Forbes Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,EC1,EC3",
+      "units": "E13,EC1,EC3",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52863"
+    }
   }
 ]
