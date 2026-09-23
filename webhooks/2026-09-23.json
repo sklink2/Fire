@@ -3210,5 +3210,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-52967"
     }
+  },
+  {
+    "runNumber": "52966",
+    "rawCode": "MED",
+    "timestamp": "2026-09-23T16:46:49.864181-04:00",
+    "address": "400 Block E Sixth Street",
+    "extra": {
+      "incidentNumber": "52966",
+      "run_id": "52966",
+      "address": "400 Block E Sixth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC10",
+      "units": "E01,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52966"
+    }
   }
 ]
