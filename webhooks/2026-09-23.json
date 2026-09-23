@@ -372,5 +372,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52836"
     }
+  },
+  {
+    "runNumber": "52837",
+    "rawCode": "FSTR",
+    "timestamp": "2026-09-23T03:01:45.155899-04:00",
+    "address": "3170 Mapleleaf Drive",
+    "extra": {
+      "incidentNumber": "52837",
+      "run_id": "52837",
+      "address": "3170 Mapleleaf Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E08,E16,E21,L05,L06,EC11,201,202,220,241,RS1",
+      "units": "E02,E08,E16,E21,L05,L06,EC11,201,202,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,202",
+      "dedupeKey": "INCIDENT-52837"
+    }
   }
 ]
