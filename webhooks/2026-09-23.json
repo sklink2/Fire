@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52992"
     }
+  },
+  {
+    "runNumber": "52995",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-23T19:24:31.449992-04:00",
+    "address": "3533 Laredo Drive",
+    "extra": {
+      "incidentNumber": "52995",
+      "run_id": "52995",
+      "address": "3533 Laredo Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E18,L07,202",
+      "units": "E09,E18,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-52995"
+    }
   }
 ]
