@@ -2242,5 +2242,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-52920"
     }
+  },
+  {
+    "runNumber": "52922",
+    "rawCode": "FSIA",
+    "timestamp": "2026-09-23T13:19:22.625237-04:00",
+    "address": "201 W Loudon Avenue",
+    "extra": {
+      "incidentNumber": "52922",
+      "run_id": "52922",
+      "address": "201 W Loudon Avenue",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E18,201",
+      "units": "E04,E18,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-52922"
+    }
   }
 ]
