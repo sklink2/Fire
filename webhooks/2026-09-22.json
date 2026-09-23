@@ -3430,5 +3430,27 @@
       "commandUnits": "241,220,201,205",
       "dedupeKey": "INCIDENT-52790"
     }
+  },
+  {
+    "runNumber": "52792",
+    "rawCode": "MED",
+    "timestamp": "2026-09-22T20:15:57.310673-04:00",
+    "address": "700 Block Terrace View Drive",
+    "extra": {
+      "incidentNumber": "52792",
+      "run_id": "52792",
+      "address": "700 Block Terrace View Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-52792"
+    }
   }
 ]
