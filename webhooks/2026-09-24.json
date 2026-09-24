@@ -3188,5 +3188,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53177"
     }
+  },
+  {
+    "runNumber": "53176",
+    "rawCode": "FMEA",
+    "timestamp": "2026-09-24T16:54:03.000638-04:00",
+    "address": "444 Ferguson Street",
+    "extra": {
+      "incidentNumber": "53176",
+      "run_id": "53176",
+      "address": "444 Ferguson Street",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "RS1",
+      "units": "RS1",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53176"
+    }
   }
 ]
