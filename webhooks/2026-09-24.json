@@ -1692,5 +1692,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-53109"
     }
+  },
+  {
+    "runNumber": "53108",
+    "rawCode": "FSMO",
+    "timestamp": "2026-09-24T11:24:57.999889-04:00",
+    "address": "236 Bolivar Street",
+    "extra": {
+      "incidentNumber": "53108",
+      "run_id": "53108",
+      "address": "236 Bolivar Street",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E06,L02,204",
+      "units": "E04,E06,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-53108"
+    }
   }
 ]
