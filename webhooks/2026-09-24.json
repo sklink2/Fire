@@ -790,5 +790,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53069"
     }
+  },
+  {
+    "runNumber": "53070",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-24T07:07:50.346013-04:00",
+    "address": "2305 Palumbo Drive",
+    "extra": {
+      "incidentNumber": "53070",
+      "run_id": "53070",
+      "address": "2305 Palumbo Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E09,L05,201",
+      "units": "E02,E09,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-53070"
+    }
   }
 ]
