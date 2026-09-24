@@ -2594,5 +2594,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53150"
     }
+  },
+  {
+    "runNumber": "53149",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T14:29:44.854762-04:00",
+    "address": "500 Block S Broadway",
+    "extra": {
+      "incidentNumber": "53149",
+      "run_id": "53149",
+      "address": "500 Block S Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC7,RS1",
+      "units": "EC7,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53149"
+    }
   }
 ]
