@@ -2638,5 +2638,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53152"
     }
+  },
+  {
+    "runNumber": "53151",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T14:38:45.788459-04:00",
+    "address": "700 Block Red Mile Road",
+    "extra": {
+      "incidentNumber": "53151",
+      "run_id": "53151",
+      "address": "700 Block Red Mile Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,EC5,241",
+      "units": "E04,EC5,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-53151"
+    }
   }
 ]
