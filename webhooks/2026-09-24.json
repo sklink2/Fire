@@ -3430,5 +3430,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-53188"
     }
+  },
+  {
+    "runNumber": "53190",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T18:19:36.809397-04:00",
+    "address": "200 Block Southpoint Drive",
+    "extra": {
+      "incidentNumber": "53190",
+      "run_id": "53190",
+      "address": "200 Block Southpoint Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53190"
+    }
   }
 ]
