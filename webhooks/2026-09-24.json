@@ -1890,5 +1890,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53119"
     }
+  },
+  {
+    "runNumber": "53118",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T12:00:57.122547-04:00",
+    "address": "200 Block Preston Avenue",
+    "extra": {
+      "incidentNumber": "53118",
+      "run_id": "53118",
+      "address": "200 Block Preston Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC3,CRT1",
+      "units": "EC3,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53118"
+    }
   }
 ]
