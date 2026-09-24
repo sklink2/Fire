@@ -526,5 +526,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53056"
     }
+  },
+  {
+    "runNumber": "53058",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T05:24:09.009451-04:00",
+    "address": "Prescott Lane & Sonoma Place",
+    "extra": {
+      "incidentNumber": "53058",
+      "run_id": "53058",
+      "address": "Prescott Lane & Sonoma Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53058"
+    }
   }
 ]
