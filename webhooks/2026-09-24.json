@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53153"
     }
+  },
+  {
+    "runNumber": "53154",
+    "rawCode": "FSTR",
+    "timestamp": "2026-09-24T14:56:46.893368-04:00",
+    "address": "3353 Malone Drive",
+    "extra": {
+      "incidentNumber": "53154",
+      "run_id": "53154",
+      "address": "3353 Malone Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E12,E14,E20,L04,L07,EC12,203,204,220,241,RS1",
+      "units": "E11,E12,E14,E20,L04,L07,EC12,203,204,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,203,204",
+      "dedupeKey": "INCIDENT-53154"
+    }
   }
 ]
