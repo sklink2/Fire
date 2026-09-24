@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53111"
     }
+  },
+  {
+    "runNumber": "53112",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T11:33:50.847916-04:00",
+    "address": "400 Block Columbia Avenue",
+    "extra": {
+      "incidentNumber": "53112",
+      "run_id": "53112",
+      "address": "400 Block Columbia Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC12",
+      "units": "E05,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53112"
+    }
   }
 ]
