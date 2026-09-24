@@ -4662,5 +4662,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53032"
     }
+  },
+  {
+    "runNumber": "53025",
+    "rawCode": "FSTRW",
+    "timestamp": "2026-09-23T23:59:32.761056-04:00",
+    "address": "218 E Seventh Street",
+    "extra": {
+      "incidentNumber": "53025",
+      "run_id": "53025",
+      "address": "218 E Seventh Street",
+      "rawType": "FSTRW",
+      "typeCode": "FSTRW",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E04,L01,EC1,205,433",
+      "units": "E01,E04,L01,EC1,205,433",
+      "unitCount": "6",
+      "primaryTopic": "FSTRW",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-53025"
+    }
   }
 ]
