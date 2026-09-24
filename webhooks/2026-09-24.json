@@ -2726,5 +2726,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53157"
     }
+  },
+  {
+    "runNumber": "53156",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T15:01:17.540508-04:00",
+    "address": "3400 Block Lyon Drive",
+    "extra": {
+      "incidentNumber": "53156",
+      "run_id": "53156",
+      "address": "3400 Block Lyon Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC7",
+      "units": "E15,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53156"
+    }
   }
 ]
