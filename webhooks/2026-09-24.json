@@ -2814,5 +2814,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-53159"
     }
+  },
+  {
+    "runNumber": "53162",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T15:28:17.593648-04:00",
+    "address": "1600 Block Mcgrathiana Parkway",
+    "extra": {
+      "incidentNumber": "53162",
+      "run_id": "53162",
+      "address": "1600 Block Mcgrathiana Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53162"
+    }
   }
 ]
