@@ -3716,5 +3716,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-53201"
     }
+  },
+  {
+    "runNumber": "53200",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-09-24T19:22:52.522539-04:00",
+    "address": "1973 Cambridge Drive",
+    "extra": {
+      "incidentNumber": "53200",
+      "run_id": "53200",
+      "address": "1973 Cambridge Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14",
+      "units": "E14",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53200"
+    }
   }
 ]
