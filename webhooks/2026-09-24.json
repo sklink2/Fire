@@ -878,5 +878,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53073"
     }
+  },
+  {
+    "runNumber": "53074",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T08:06:26.188122-04:00",
+    "address": "200 Block Walton Avenue",
+    "extra": {
+      "incidentNumber": "53074",
+      "run_id": "53074",
+      "address": "200 Block Walton Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53074"
+    }
   }
 ]
