@@ -3342,5 +3342,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53185"
     }
+  },
+  {
+    "runNumber": "53184",
+    "rawCode": "FDET",
+    "timestamp": "2026-09-24T17:43:35.477410-04:00",
+    "address": "3353 Malone Drive",
+    "extra": {
+      "incidentNumber": "53184",
+      "run_id": "53184",
+      "address": "3353 Malone Drive",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "T1",
+      "units": "T1",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53184"
+    }
   }
 ]
