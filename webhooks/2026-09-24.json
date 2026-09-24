@@ -3144,5 +3144,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53175"
     }
+  },
+  {
+    "runNumber": "53178",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T16:53:57.034787-04:00",
+    "address": "100 Block W Short Street",
+    "extra": {
+      "incidentNumber": "53178",
+      "run_id": "53178",
+      "address": "100 Block W Short Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53178"
+    }
   }
 ]
