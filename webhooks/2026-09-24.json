@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53160"
     }
+  },
+  {
+    "runNumber": "53159",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-24T15:10:20.192385-04:00",
+    "address": "2342 Patchen Wilkes Drive",
+    "extra": {
+      "incidentNumber": "53159",
+      "run_id": "53159",
+      "address": "2342 Patchen Wilkes Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E09,L05,EC8,201",
+      "units": "E02,E09,L05,EC8,201",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-53159"
+    }
   }
 ]
