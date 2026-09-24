@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53079"
     }
+  },
+  {
+    "runNumber": "53080",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T08:42:31.197130-04:00",
+    "address": "3400 Block Old Clubhouse Lane",
+    "extra": {
+      "incidentNumber": "53080",
+      "run_id": "53080",
+      "address": "3400 Block Old Clubhouse Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC35",
+      "units": "EC35",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53080"
+    }
   }
 ]
