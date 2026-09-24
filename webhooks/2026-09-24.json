@@ -372,5 +372,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53049"
     }
+  },
+  {
+    "runNumber": "53051",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T03:44:55.918508-04:00",
+    "address": "1500 Block Kilkenny Drive",
+    "extra": {
+      "incidentNumber": "53051",
+      "run_id": "53051",
+      "address": "1500 Block Kilkenny Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53051"
+    }
   }
 ]
