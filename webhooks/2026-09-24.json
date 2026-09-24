@@ -2660,5 +2660,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-53151"
     }
+  },
+  {
+    "runNumber": "53153",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T14:52:11.409265-04:00",
+    "address": "2100 Block N Broadway",
+    "extra": {
+      "incidentNumber": "53153",
+      "run_id": "53153",
+      "address": "2100 Block N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC8",
+      "units": "E08,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53153"
+    }
   }
 ]
