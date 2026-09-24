@@ -1472,5 +1472,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53098"
     }
+  },
+  {
+    "runNumber": "53101",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-24T10:44:17.410662-04:00",
+    "address": "508 Chinoe Road",
+    "extra": {
+      "incidentNumber": "53101",
+      "run_id": "53101",
+      "address": "508 Chinoe Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E09,L05,EC4,203,220",
+      "units": "E06,E09,L05,EC4,203,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,203",
+      "dedupeKey": "INCIDENT-53101"
+    }
   }
 ]
