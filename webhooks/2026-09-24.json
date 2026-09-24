@@ -3320,5 +3320,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-53183"
     }
+  },
+  {
+    "runNumber": "53185",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T17:43:32.907281-04:00",
+    "address": "900 Block Lucy Lane",
+    "extra": {
+      "incidentNumber": "53185",
+      "run_id": "53185",
+      "address": "900 Block Lucy Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53185"
+    }
   }
 ]
