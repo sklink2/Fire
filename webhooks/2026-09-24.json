@@ -1714,5 +1714,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-53108"
     }
+  },
+  {
+    "runNumber": "53111",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T11:29:19.490876-04:00",
+    "address": "1400 Block Antique Drive",
+    "extra": {
+      "incidentNumber": "53111",
+      "run_id": "53111",
+      "address": "1400 Block Antique Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53111"
+    }
   }
 ]
