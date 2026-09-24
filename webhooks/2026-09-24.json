@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53115"
     }
+  },
+  {
+    "runNumber": "53114",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T11:42:56.629121-04:00",
+    "address": "1400 Block N Broadway",
+    "extra": {
+      "incidentNumber": "53114",
+      "run_id": "53114",
+      "address": "1400 Block N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53114"
+    }
   }
 ]
