@@ -1406,5 +1406,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53095"
     }
+  },
+  {
+    "runNumber": "53097",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T10:30:43.716584-04:00",
+    "address": "100 Block Ashton Drive",
+    "extra": {
+      "incidentNumber": "53097",
+      "run_id": "53097",
+      "address": "100 Block Ashton Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53097"
+    }
   }
 ]
