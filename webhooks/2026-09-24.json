@@ -2440,5 +2440,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-53143"
     }
+  },
+  {
+    "runNumber": "53145",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-09-24T13:44:34.972174-04:00",
+    "address": "115 W Loudon Avenue",
+    "extra": {
+      "incidentNumber": "53145",
+      "run_id": "53145",
+      "address": "115 W Loudon Avenue",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01",
+      "units": "L01",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53145"
+    }
   }
 ]
