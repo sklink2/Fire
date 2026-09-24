@@ -1494,5 +1494,27 @@
       "commandUnits": "220,203",
       "dedupeKey": "INCIDENT-53101"
     }
+  },
+  {
+    "runNumber": "53100",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T10:44:21.981090-04:00",
+    "address": "400 Block Wilson Downing Road",
+    "extra": {
+      "incidentNumber": "53100",
+      "run_id": "53100",
+      "address": "400 Block Wilson Downing Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53100"
+    }
   }
 ]
