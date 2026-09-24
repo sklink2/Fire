@@ -108,5 +108,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53037"
     }
+  },
+  {
+    "runNumber": "53038",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-24T01:20:43.173432-04:00",
+    "address": "1333 Centre Parkway",
+    "extra": {
+      "incidentNumber": "53038",
+      "run_id": "53038",
+      "address": "1333 Centre Parkway",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,E20,L07,EC2,202,220",
+      "units": "E07,E20,L07,EC2,202,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-53038"
+    }
   }
 ]
