@@ -4530,5 +4530,27 @@
       "commandUnits": "241,220,201,205",
       "dedupeKey": "INCIDENT-53025"
     }
+  },
+  {
+    "runNumber": "53029",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-09-23T23:05:26.627036-04:00",
+    "address": "135 Chantilly Street",
+    "extra": {
+      "incidentNumber": "53029",
+      "run_id": "53029",
+      "address": "135 Chantilly Street",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14",
+      "units": "E14",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53029"
+    }
   }
 ]
