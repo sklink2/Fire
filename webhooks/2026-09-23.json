@@ -4112,5 +4112,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53007"
     }
+  },
+  {
+    "runNumber": "53008",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-23T20:36:39.430709-04:00",
+    "address": "1508 Carner Blf",
+    "extra": {
+      "incidentNumber": "53008",
+      "run_id": "53008",
+      "address": "1508 Carner Blf",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC3",
+      "units": "E02,EC3",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53008"
+    }
   }
 ]
