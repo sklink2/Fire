@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53106"
     }
+  },
+  {
+    "runNumber": "53105",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T11:15:52.294401-04:00",
+    "address": "1400 Block Grant Drive",
+    "extra": {
+      "incidentNumber": "53105",
+      "run_id": "53105",
+      "address": "1400 Block Grant Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC3",
+      "units": "E10,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53105"
+    }
   }
 ]
