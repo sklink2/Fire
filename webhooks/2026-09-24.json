@@ -1362,5 +1362,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53093"
     }
+  },
+  {
+    "runNumber": "53096",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-24T10:26:13.633962-04:00",
+    "address": "575 Horton Court",
+    "extra": {
+      "incidentNumber": "53096",
+      "run_id": "53096",
+      "address": "575 Horton Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,E13,L03,203",
+      "units": "E10,E13,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-53096"
+    }
   }
 ]
