@@ -1076,5 +1076,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53082"
     }
+  },
+  {
+    "runNumber": "53083",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T09:09:34.022947-04:00",
+    "address": "1500 Block Versailles Road",
+    "extra": {
+      "incidentNumber": "53083",
+      "run_id": "53083",
+      "address": "1500 Block Versailles Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC12",
+      "units": "E24,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53083"
+    }
   }
 ]
