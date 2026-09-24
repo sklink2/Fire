@@ -2528,5 +2528,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-53146"
     }
+  },
+  {
+    "runNumber": "53147",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-24T13:53:36.700546-04:00",
+    "address": "447 Pennsylvania Avenue",
+    "extra": {
+      "incidentNumber": "53147",
+      "run_id": "53147",
+      "address": "447 Pennsylvania Avenue",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E06,L03,L05,EC6,203,220",
+      "units": "E05,E06,L03,L05,EC6,203,220",
+      "unitCount": "7",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,203",
+      "dedupeKey": "INCIDENT-53147"
+    }
   }
 ]
