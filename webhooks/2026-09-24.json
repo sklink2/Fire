@@ -1164,5 +1164,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53087"
     }
+  },
+  {
+    "runNumber": "53086",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T09:18:38.083920-04:00",
+    "address": "600 Block Golf Town Circle",
+    "extra": {
+      "incidentNumber": "53086",
+      "run_id": "53086",
+      "address": "600 Block Golf Town Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53086"
+    }
   }
 ]
