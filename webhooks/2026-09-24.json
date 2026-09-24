@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53121"
     }
+  },
+  {
+    "runNumber": "53123",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T12:27:57.813954-04:00",
+    "address": "300 Block Linden Walk",
+    "extra": {
+      "incidentNumber": "53123",
+      "run_id": "53123",
+      "address": "300 Block Linden Walk",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC3",
+      "units": "E05,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53123"
+    }
   }
 ]
