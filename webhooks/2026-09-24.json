@@ -3408,5 +3408,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53187"
     }
+  },
+  {
+    "runNumber": "53188",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-24T18:15:08.073171-04:00",
+    "address": "3897 Aria Lane",
+    "extra": {
+      "incidentNumber": "53188",
+      "run_id": "53188",
+      "address": "3897 Aria Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E15,L02,202",
+      "units": "E11,E15,L02,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-53188"
+    }
   }
 ]
