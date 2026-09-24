@@ -1142,5 +1142,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53084"
     }
+  },
+  {
+    "runNumber": "53087",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T09:18:35.562442-04:00",
+    "address": "300 Block Park View Avenue",
+    "extra": {
+      "incidentNumber": "53087",
+      "run_id": "53087",
+      "address": "300 Block Park View Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53087"
+    }
   }
 ]
