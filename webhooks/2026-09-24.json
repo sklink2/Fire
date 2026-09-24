@@ -130,5 +130,27 @@
       "commandUnits": "220,202",
       "dedupeKey": "INCIDENT-53038"
     }
+  },
+  {
+    "runNumber": "53040",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T01:34:12.432836-04:00",
+    "address": "1100 Block S Broadway",
+    "extra": {
+      "incidentNumber": "53040",
+      "run_id": "53040",
+      "address": "1100 Block S Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53040"
+    }
   }
 ]
