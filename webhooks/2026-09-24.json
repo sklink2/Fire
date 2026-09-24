@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53078"
     }
+  },
+  {
+    "runNumber": "53079",
+    "rawCode": "FCAR",
+    "timestamp": "2026-09-24T08:38:00.269547-04:00",
+    "address": "436 Robertson Street",
+    "extra": {
+      "incidentNumber": "53079",
+      "run_id": "53079",
+      "address": "436 Robertson Street",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L03",
+      "units": "L03",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53079"
+    }
   }
 ]
