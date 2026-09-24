@@ -4640,5 +4640,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53031"
     }
+  },
+  {
+    "runNumber": "53032",
+    "rawCode": "MED",
+    "timestamp": "2026-09-23T23:27:57.968558-04:00",
+    "address": "2800 Block Alumni Drive",
+    "extra": {
+      "incidentNumber": "53032",
+      "run_id": "53032",
+      "address": "2800 Block Alumni Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53032"
+    }
   }
 ]
