@@ -2550,5 +2550,27 @@
       "commandUnits": "220,203",
       "dedupeKey": "INCIDENT-53147"
     }
+  },
+  {
+    "runNumber": "53148",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T13:58:05.496460-04:00",
+    "address": "700 Block Elizabeth Street",
+    "extra": {
+      "incidentNumber": "53148",
+      "run_id": "53148",
+      "address": "700 Block Elizabeth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC13,RS1",
+      "units": "EC13,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53148"
+    }
   }
 ]
