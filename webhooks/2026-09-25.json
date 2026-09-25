@@ -3782,5 +3782,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53411"
     }
+  },
+  {
+    "runNumber": "53413",
+    "rawCode": "MED",
+    "timestamp": "2026-09-25T19:16:31.708705-04:00",
+    "address": "1500 Block Jacks Creek Pike",
+    "extra": {
+      "incidentNumber": "53413",
+      "run_id": "53413",
+      "address": "1500 Block Jacks Creek Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E18,EC11",
+      "units": "E18,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53413"
+    }
   }
 ]
