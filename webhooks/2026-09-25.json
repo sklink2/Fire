@@ -790,5 +790,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53274"
     }
+  },
+  {
+    "runNumber": "53279",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-25T08:27:13.497211-04:00",
+    "address": "Manchester Street & Oliver Lewis W",
+    "extra": {
+      "incidentNumber": "53279",
+      "run_id": "53279",
+      "address": "Manchester Street & Oliver Lewis W",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10,RS1",
+      "units": "EC10,RS1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53279"
+    }
   }
 ]
