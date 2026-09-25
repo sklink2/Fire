@@ -1230,5 +1230,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-53296"
     }
+  },
+  {
+    "runNumber": "53299",
+    "rawCode": "MED",
+    "timestamp": "2026-09-25T10:06:26.061166-04:00",
+    "address": "2300 Block Professional Heights Drive",
+    "extra": {
+      "incidentNumber": "53299",
+      "run_id": "53299",
+      "address": "2300 Block Professional Heights Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,EC9",
+      "units": "E12,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53299"
+    }
   }
 ]
