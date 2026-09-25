@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53271"
     }
+  },
+  {
+    "runNumber": "53273",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-25T08:18:13.140853-04:00",
+    "address": "Beacon Hill Road & Lane Allen Road",
+    "extra": {
+      "incidentNumber": "53273",
+      "run_id": "53273",
+      "address": "Beacon Hill Road & Lane Allen Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L02,EC12",
+      "units": "L02,EC12",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53273"
+    }
   }
 ]
