@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53316"
     }
+  },
+  {
+    "runNumber": "53315",
+    "rawCode": "MED",
+    "timestamp": "2026-09-25T11:18:39.055552-04:00",
+    "address": "4600 Block Fitzroy Court",
+    "extra": {
+      "incidentNumber": "53315",
+      "run_id": "53315",
+      "address": "4600 Block Fitzroy Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53315"
+    }
   }
 ]
