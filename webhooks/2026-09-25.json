@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53272"
     }
+  },
+  {
+    "runNumber": "53274",
+    "rawCode": "MED",
+    "timestamp": "2026-09-25T08:22:43.394888-04:00",
+    "address": "4000 Block Palmetto Springs Way",
+    "extra": {
+      "incidentNumber": "53274",
+      "run_id": "53274",
+      "address": "4000 Block Palmetto Springs Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L04,EC9,CRT1",
+      "units": "L04,EC9,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53274"
+    }
   }
 ]
