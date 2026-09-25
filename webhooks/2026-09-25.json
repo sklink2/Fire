@@ -2484,5 +2484,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53355"
     }
+  },
+  {
+    "runNumber": "53354",
+    "rawCode": "MED",
+    "timestamp": "2026-09-25T14:18:56.991457-04:00",
+    "address": "500 Block Kingston Road",
+    "extra": {
+      "incidentNumber": "53354",
+      "run_id": "53354",
+      "address": "500 Block Kingston Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53354"
+    }
   }
 ]
