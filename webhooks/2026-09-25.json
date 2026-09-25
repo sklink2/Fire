@@ -2594,5 +2594,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53359"
     }
+  },
+  {
+    "runNumber": "53362",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-25T14:50:29.654157-04:00",
+    "address": "170 N Eagle Creek Drive",
+    "extra": {
+      "incidentNumber": "53362",
+      "run_id": "53362",
+      "address": "170 N Eagle Creek Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E21,L06,202",
+      "units": "E09,E21,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-53362"
+    }
   }
 ]
