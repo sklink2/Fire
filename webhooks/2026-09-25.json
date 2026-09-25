@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53320"
     }
+  },
+  {
+    "runNumber": "53321",
+    "rawCode": "FSTR",
+    "timestamp": "2026-09-25T11:45:40.884008-04:00",
+    "address": "666 Montclair Drive",
+    "extra": {
+      "incidentNumber": "53321",
+      "run_id": "53321",
+      "address": "666 Montclair Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,E09,E12,L02,L07,EC11,EC12,204,205,220,241,RS1",
+      "units": "E05,E06,E09,E12,L02,L07,EC11,EC12,204,205,220,241,RS1",
+      "unitCount": "13",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,204,205",
+      "dedupeKey": "INCIDENT-53321"
+    }
   }
 ]
