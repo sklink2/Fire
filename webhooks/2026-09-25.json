@@ -3694,5 +3694,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-53408"
     }
+  },
+  {
+    "runNumber": "53407",
+    "rawCode": "MED",
+    "timestamp": "2026-09-25T18:58:39.186386-04:00",
+    "address": "1400 Block Alexandria Drive",
+    "extra": {
+      "incidentNumber": "53407",
+      "run_id": "53407",
+      "address": "1400 Block Alexandria Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53407"
+    }
   }
 ]
