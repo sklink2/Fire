@@ -3980,5 +3980,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53214"
     }
+  },
+  {
+    "runNumber": "53213",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T20:48:28.534912-04:00",
+    "address": "900 Block Hammock Oak Lane",
+    "extra": {
+      "incidentNumber": "53213",
+      "run_id": "53213",
+      "address": "900 Block Hammock Oak Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L07,EC13",
+      "units": "L07,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53213"
+    }
   }
 ]
