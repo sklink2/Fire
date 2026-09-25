@@ -2682,5 +2682,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-53364"
     }
+  },
+  {
+    "runNumber": "53363",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-25T14:55:03.475285-04:00",
+    "address": "Manchester Street & S Forbes Road",
+    "extra": {
+      "incidentNumber": "53363",
+      "run_id": "53363",
+      "address": "Manchester Street & S Forbes Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,EC5",
+      "units": "E13,EC5",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53363"
+    }
   }
 ]
