@@ -3848,5 +3848,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53207"
     }
+  },
+  {
+    "runNumber": "53208",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T20:16:50.103179-04:00",
+    "address": "300 Block Sherman Avenue",
+    "extra": {
+      "incidentNumber": "53208",
+      "run_id": "53208",
+      "address": "300 Block Sherman Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53208"
+    }
   }
 ]
