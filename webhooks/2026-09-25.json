@@ -2726,5 +2726,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53365"
     }
+  },
+  {
+    "runNumber": "53366",
+    "rawCode": "MED",
+    "timestamp": "2026-09-25T15:08:33.078622-04:00",
+    "address": "300 Block Elaine Drive",
+    "extra": {
+      "incidentNumber": "53366",
+      "run_id": "53366",
+      "address": "300 Block Elaine Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC12,241",
+      "units": "E11,EC12,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-53366"
+    }
   }
 ]
