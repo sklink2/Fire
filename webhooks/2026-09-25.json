@@ -3562,5 +3562,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-53402"
     }
+  },
+  {
+    "runNumber": "53403",
+    "rawCode": "MED",
+    "timestamp": "2026-09-25T18:40:28.368681-04:00",
+    "address": "3700 Block Belleau Wood Drive",
+    "extra": {
+      "incidentNumber": "53403",
+      "run_id": "53403",
+      "address": "3700 Block Belleau Wood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E22,EC4",
+      "units": "E22,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53403"
+    }
   }
 ]
