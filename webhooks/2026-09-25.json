@@ -3584,5 +3584,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53403"
     }
+  },
+  {
+    "runNumber": "53401",
+    "rawCode": "MED",
+    "timestamp": "2026-09-25T18:40:31.471583-04:00",
+    "address": "1200 Block Liggett Street",
+    "extra": {
+      "incidentNumber": "53401",
+      "run_id": "53401",
+      "address": "1200 Block Liggett Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,EC6",
+      "units": "E13,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53401"
+    }
   }
 ]
