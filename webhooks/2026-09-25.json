@@ -3056,5 +3056,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53378"
     }
+  },
+  {
+    "runNumber": "53381",
+    "rawCode": "FELS",
+    "timestamp": "2026-09-25T16:20:41.531166-04:00",
+    "address": "1511 Aristides Boulevard",
+    "extra": {
+      "incidentNumber": "53381",
+      "run_id": "53381",
+      "address": "1511 Aristides Boulevard",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,L03,203",
+      "units": "E13,L03,203",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-53381"
+    }
   }
 ]
