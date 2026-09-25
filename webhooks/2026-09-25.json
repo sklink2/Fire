@@ -3276,5 +3276,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53390"
     }
+  },
+  {
+    "runNumber": "53392",
+    "rawCode": "MED",
+    "timestamp": "2026-09-25T17:28:21.080391-04:00",
+    "address": "1600 Block Royal Wood Court",
+    "extra": {
+      "incidentNumber": "53392",
+      "run_id": "53392",
+      "address": "1600 Block Royal Wood Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC4,CRT1",
+      "units": "E09,EC4,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53392"
+    }
   }
 ]
