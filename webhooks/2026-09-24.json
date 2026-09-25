@@ -4156,5 +4156,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53221"
     }
+  },
+  {
+    "runNumber": "53222",
+    "rawCode": "MED",
+    "timestamp": "2026-09-24T21:38:00.925818-04:00",
+    "address": "W Short Street & N Broadway",
+    "extra": {
+      "incidentNumber": "53222",
+      "run_id": "53222",
+      "address": "W Short Street & N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,EC10",
+      "units": "E04,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53222"
+    }
   }
 ]
