@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53205"
     }
+  },
+  {
+    "runNumber": "53206",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-24T20:03:18.969397-04:00",
+    "address": "2228 Clays Mill Road",
+    "extra": {
+      "incidentNumber": "53206",
+      "run_id": "53206",
+      "address": "2228 Clays Mill Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,EC12",
+      "units": "E12,EC12",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53206"
+    }
   }
 ]
