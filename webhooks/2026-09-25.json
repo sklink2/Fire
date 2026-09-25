@@ -3826,5 +3826,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53412"
     }
+  },
+  {
+    "runNumber": "53414",
+    "rawCode": "MED",
+    "timestamp": "2026-09-25T19:21:03.015911-04:00",
+    "address": "3400 Block Belvoir Drive",
+    "extra": {
+      "incidentNumber": "53414",
+      "run_id": "53414",
+      "address": "3400 Block Belvoir Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53414"
+    }
   }
 ]
