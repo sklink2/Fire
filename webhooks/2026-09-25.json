@@ -1802,5 +1802,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53323"
     }
+  },
+  {
+    "runNumber": "53324",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-25T12:08:11.286438-04:00",
+    "address": "423 Delcamp Drive",
+    "extra": {
+      "incidentNumber": "53324",
+      "run_id": "53324",
+      "address": "423 Delcamp Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E08,L01,203",
+      "units": "E04,E08,L01,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-53324"
+    }
   }
 ]
