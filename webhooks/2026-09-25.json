@@ -680,5 +680,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-53270"
     }
+  },
+  {
+    "runNumber": "53269",
+    "rawCode": "FSTR",
+    "timestamp": "2026-09-25T08:00:23.500441-04:00",
+    "address": "Paris Pike & Walmac Lane",
+    "extra": {
+      "incidentNumber": "53269",
+      "run_id": "53269",
+      "address": "Paris Pike & Walmac Lane",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E04,E08,E13,E19,L03,L05,T1,EC3,EC8,201,205,220,241,RS1",
+      "units": "E01,E04,E08,E13,E19,L03,L05,T1,EC3,EC8,201,205,220,241,RS1",
+      "unitCount": "15",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,205",
+      "dedupeKey": "INCIDENT-53269"
+    }
   }
 ]
