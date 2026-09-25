@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53345"
     }
+  },
+  {
+    "runNumber": "53346",
+    "rawCode": "MED",
+    "timestamp": "2026-09-25T13:29:18.636405-04:00",
+    "address": "2800 Block Satin Leaf Park",
+    "extra": {
+      "incidentNumber": "53346",
+      "run_id": "53346",
+      "address": "2800 Block Satin Leaf Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC8",
+      "units": "E24,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53346"
+    }
   }
 ]
