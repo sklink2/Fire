@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53347"
     }
+  },
+  {
+    "runNumber": "53348",
+    "rawCode": "MED",
+    "timestamp": "2026-09-25T13:38:21.553291-04:00",
+    "address": "100 Block E Maxwell Street",
+    "extra": {
+      "incidentNumber": "53348",
+      "run_id": "53348",
+      "address": "100 Block E Maxwell Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1,RS1",
+      "units": "EC1,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53348"
+    }
   }
 ]
