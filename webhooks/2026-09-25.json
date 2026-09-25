@@ -3210,5 +3210,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53387"
     }
+  },
+  {
+    "runNumber": "53389",
+    "rawCode": "MED",
+    "timestamp": "2026-09-25T17:05:48.267252-04:00",
+    "address": "1200 Block Centre Parkway",
+    "extra": {
+      "incidentNumber": "53389",
+      "run_id": "53389",
+      "address": "1200 Block Centre Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53389"
+    }
   }
 ]
