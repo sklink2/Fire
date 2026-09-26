@@ -2748,5 +2748,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53578"
     }
+  },
+  {
+    "runNumber": "53577",
+    "rawCode": "MED",
+    "timestamp": "2026-09-26T13:59:09.349269-04:00",
+    "address": "800 Block E High Street",
+    "extra": {
+      "incidentNumber": "53577",
+      "run_id": "53577",
+      "address": "800 Block E High Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,EC2",
+      "units": "E05,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53577"
+    }
   }
 ]
