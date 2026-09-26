@@ -1252,5 +1252,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53511"
     }
+  },
+  {
+    "runNumber": "53510",
+    "rawCode": "MED",
+    "timestamp": "2026-09-26T08:34:31.466175-04:00",
+    "address": "4100 Block Sperling Drive",
+    "extra": {
+      "incidentNumber": "53510",
+      "run_id": "53510",
+      "address": "4100 Block Sperling Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53510"
+    }
   }
 ]
