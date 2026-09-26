@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53613"
     }
+  },
+  {
+    "runNumber": "53614",
+    "rawCode": "MED",
+    "timestamp": "2026-09-26T17:08:23.352649-04:00",
+    "address": "300 Block Southland Drive",
+    "extra": {
+      "incidentNumber": "53614",
+      "run_id": "53614",
+      "address": "300 Block Southland Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,EC12",
+      "units": "E12,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53614"
+    }
   }
 ]
