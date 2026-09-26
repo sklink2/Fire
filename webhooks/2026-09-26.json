@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53497"
     }
+  },
+  {
+    "runNumber": "53498",
+    "rawCode": "FDUM",
+    "timestamp": "2026-09-26T07:26:50.792983-04:00",
+    "address": "848 Nandino Boulevard",
+    "extra": {
+      "incidentNumber": "53498",
+      "run_id": "53498",
+      "address": "848 Nandino Boulevard",
+      "rawType": "FDUM",
+      "typeCode": "FDUM",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10",
+      "units": "E10",
+      "unitCount": "1",
+      "primaryTopic": "FDUM",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53498"
+    }
   }
 ]
