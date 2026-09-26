@@ -878,5 +878,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53495"
     }
+  },
+  {
+    "runNumber": "53496",
+    "rawCode": "MED",
+    "timestamp": "2026-09-26T06:28:13.997352-04:00",
+    "address": "1000 Block Highland Park Drive",
+    "extra": {
+      "incidentNumber": "53496",
+      "run_id": "53496",
+      "address": "1000 Block Highland Park Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53496"
+    }
   }
 ]
