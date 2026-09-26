@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53582"
     }
+  },
+  {
+    "runNumber": "53584",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-26T14:26:06.015003-04:00",
+    "address": "4200 Saron Drive",
+    "extra": {
+      "incidentNumber": "53584",
+      "run_id": "53584",
+      "address": "4200 Saron Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC4",
+      "units": "E22,EC4",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53584"
+    }
   }
 ]
