@@ -4090,5 +4090,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-53426"
     }
+  },
+  {
+    "runNumber": "53425",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-09-25T20:33:14.131861-04:00",
+    "address": "2250 Walnut Grove Lane",
+    "extra": {
+      "incidentNumber": "53425",
+      "run_id": "53425",
+      "address": "2250 Walnut Grove Lane",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E17",
+      "units": "E17",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53425"
+    }
   }
 ]
