@@ -4244,5 +4244,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53431"
     }
+  },
+  {
+    "runNumber": "53433",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-25T21:04:42.544455-04:00",
+    "address": "5763 Versailles Road",
+    "extra": {
+      "incidentNumber": "53433",
+      "run_id": "53433",
+      "address": "5763 Versailles Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53433"
+    }
   }
 ]
