@@ -328,5 +328,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53470"
     }
+  },
+  {
+    "runNumber": "53471",
+    "rawCode": "MED",
+    "timestamp": "2026-09-26T02:06:45.694927-04:00",
+    "address": "3900 Block Crosby Drive",
+    "extra": {
+      "incidentNumber": "53471",
+      "run_id": "53471",
+      "address": "3900 Block Crosby Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E22,EC13",
+      "units": "E22,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53471"
+    }
   }
 ]
