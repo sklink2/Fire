@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53478"
     }
+  },
+  {
+    "runNumber": "53477",
+    "rawCode": "MED",
+    "timestamp": "2026-09-26T02:47:24.518517-04:00",
+    "address": "2000 Block Richmond Road",
+    "extra": {
+      "incidentNumber": "53477",
+      "run_id": "53477",
+      "address": "2000 Block Richmond Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53477"
+    }
   }
 ]
