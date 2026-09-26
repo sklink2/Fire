@@ -1846,5 +1846,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53536"
     }
+  },
+  {
+    "runNumber": "53535",
+    "rawCode": "MED",
+    "timestamp": "2026-09-26T10:58:46.887067-04:00",
+    "address": "400 Block Harbison Road",
+    "extra": {
+      "incidentNumber": "53535",
+      "run_id": "53535",
+      "address": "400 Block Harbison Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "T1,EC7",
+      "units": "T1,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53535"
+    }
   }
 ]
