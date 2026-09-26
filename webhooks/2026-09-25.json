@@ -4134,5 +4134,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53427"
     }
+  },
+  {
+    "runNumber": "53428",
+    "rawCode": "FCSR",
+    "timestamp": "2026-09-25T20:42:15.979630-04:00",
+    "address": "1139 Redwood Drive",
+    "extra": {
+      "incidentNumber": "53428",
+      "run_id": "53428",
+      "address": "1139 Redwood Drive",
+      "rawType": "FCSR",
+      "typeCode": "FCSR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E10,E13,L03,EC6,201,203,HM1,220,241,RS1",
+      "units": "E08,E10,E13,L03,EC6,201,203,HM1,220,241,RS1",
+      "unitCount": "11",
+      "primaryTopic": "FCSR",
+      "commandUnits": "241,220,201,203",
+      "dedupeKey": "INCIDENT-53428"
+    }
   }
 ]
