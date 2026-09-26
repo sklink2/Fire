@@ -2066,5 +2066,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53545"
     }
+  },
+  {
+    "runNumber": "53548",
+    "rawCode": "MED",
+    "timestamp": "2026-09-26T11:39:17.958482-04:00",
+    "address": "4800 Block Hartland Parkway",
+    "extra": {
+      "incidentNumber": "53548",
+      "run_id": "53548",
+      "address": "4800 Block Hartland Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L07,EC1",
+      "units": "L07,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53548"
+    }
   }
 ]
