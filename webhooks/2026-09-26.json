@@ -1032,5 +1032,27 @@
       "commandUnits": "220",
       "dedupeKey": "INCIDENT-53501"
     }
+  },
+  {
+    "runNumber": "53503",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-09-26T07:53:53.480946-04:00",
+    "address": "1012 Old Wood Court",
+    "extra": {
+      "incidentNumber": "53503",
+      "run_id": "53503",
+      "address": "1012 Old Wood Court",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22",
+      "units": "E22",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53503"
+    }
   }
 ]
