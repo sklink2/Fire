@@ -2242,5 +2242,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53553"
     }
+  },
+  {
+    "runNumber": "53558",
+    "rawCode": "MED",
+    "timestamp": "2026-09-26T12:15:21.812842-04:00",
+    "address": "3300 Block Nicholasville Road",
+    "extra": {
+      "incidentNumber": "53558",
+      "run_id": "53558",
+      "address": "3300 Block Nicholasville Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC20",
+      "units": "E20,EC20",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53558"
+    }
   }
 ]
