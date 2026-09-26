@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53524"
     }
+  },
+  {
+    "runNumber": "53523",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-26T10:00:11.572516-04:00",
+    "address": "117 E Seventh Street",
+    "extra": {
+      "incidentNumber": "53523",
+      "run_id": "53523",
+      "address": "117 E Seventh Street",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L01",
+      "units": "L01",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53523"
+    }
   }
 ]
