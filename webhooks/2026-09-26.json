@@ -3276,5 +3276,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53601"
     }
+  },
+  {
+    "runNumber": "53602",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-09-26T16:05:19.538958-04:00",
+    "address": "3645 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "53602",
+      "run_id": "53602",
+      "address": "3645 Nicholasville Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,L04,EC13,204,241,RS1",
+      "units": "E15,L04,EC13,204,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,204",
+      "dedupeKey": "INCIDENT-53602"
+    }
   }
 ]
