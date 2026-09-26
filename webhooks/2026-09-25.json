@@ -4068,5 +4068,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-53424"
     }
+  },
+  {
+    "runNumber": "53426",
+    "rawCode": "FSIA",
+    "timestamp": "2026-09-25T20:33:10.614921-04:00",
+    "address": "Centre Parkway & Olympia Road",
+    "extra": {
+      "incidentNumber": "53426",
+      "run_id": "53426",
+      "address": "Centre Parkway & Olympia Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E16,202",
+      "units": "E07,E16,202",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-53426"
+    }
   }
 ]
