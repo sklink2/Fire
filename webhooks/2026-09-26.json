@@ -3650,5 +3650,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53619"
     }
+  },
+  {
+    "runNumber": "53618",
+    "rawCode": "MED",
+    "timestamp": "2026-09-26T17:21:58.429388-04:00",
+    "address": "4100 Block Victoria Way",
+    "extra": {
+      "incidentNumber": "53618",
+      "run_id": "53618",
+      "address": "4100 Block Victoria Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC9",
+      "units": "E22,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53618"
+    }
   }
 ]
