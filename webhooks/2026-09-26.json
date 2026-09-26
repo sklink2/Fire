@@ -3298,5 +3298,27 @@
       "commandUnits": "241,204",
       "dedupeKey": "INCIDENT-53602"
     }
+  },
+  {
+    "runNumber": "53603",
+    "rawCode": "MED",
+    "timestamp": "2026-09-26T16:14:17.265319-04:00",
+    "address": "1500 Block Montrose Drive",
+    "extra": {
+      "incidentNumber": "53603",
+      "run_id": "53603",
+      "address": "1500 Block Montrose Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53603"
+    }
   }
 ]
