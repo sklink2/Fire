@@ -3936,5 +3936,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-53418"
     }
+  },
+  {
+    "runNumber": "53419",
+    "rawCode": "FELS",
+    "timestamp": "2026-09-25T20:01:37.429404-04:00",
+    "address": "340 Legion Drive",
+    "extra": {
+      "incidentNumber": "53419",
+      "run_id": "53419",
+      "address": "340 Legion Drive",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L04,204,RS1",
+      "units": "L04,204,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-53419"
+    }
   }
 ]
