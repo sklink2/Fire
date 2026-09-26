@@ -1406,5 +1406,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53516"
     }
+  },
+  {
+    "runNumber": "53515",
+    "rawCode": "FMEA",
+    "timestamp": "2026-09-26T09:01:34.147378-04:00",
+    "address": "2250 Leestown Road",
+    "extra": {
+      "incidentNumber": "53515",
+      "run_id": "53515",
+      "address": "2250 Leestown Road",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24",
+      "units": "E24",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53515"
+    }
   }
 ]
