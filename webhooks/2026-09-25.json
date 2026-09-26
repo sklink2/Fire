@@ -4332,5 +4332,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53434"
     }
+  },
+  {
+    "runNumber": "53437",
+    "rawCode": "MED",
+    "timestamp": "2026-09-25T21:22:45.766601-04:00",
+    "address": "400 Block Chair Avenue",
+    "extra": {
+      "incidentNumber": "53437",
+      "run_id": "53437",
+      "address": "400 Block Chair Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12,RS1",
+      "units": "EC12,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53437"
+    }
   }
 ]
