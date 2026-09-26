@@ -4112,5 +4112,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-53641"
     }
+  },
+  {
+    "runNumber": "53642",
+    "rawCode": "MED",
+    "timestamp": "2026-09-26T19:19:07.033747-04:00",
+    "address": "2800 Block Hanna Place",
+    "extra": {
+      "incidentNumber": "53642",
+      "run_id": "53642",
+      "address": "2800 Block Hanna Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53642"
+    }
   }
 ]
