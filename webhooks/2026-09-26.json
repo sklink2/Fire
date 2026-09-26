@@ -900,5 +900,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53496"
     }
+  },
+  {
+    "runNumber": "53497",
+    "rawCode": "MED",
+    "timestamp": "2026-09-26T07:13:20.406057-04:00",
+    "address": "3300 Block Paris Pike",
+    "extra": {
+      "incidentNumber": "53497",
+      "run_id": "53497",
+      "address": "3300 Block Paris Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53497"
+    }
   }
 ]
