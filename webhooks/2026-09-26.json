@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53498"
     }
+  },
+  {
+    "runNumber": "53499",
+    "rawCode": "FSIA",
+    "timestamp": "2026-09-26T07:35:54.328626-04:00",
+    "address": "360 W Loudon Avenue",
+    "extra": {
+      "incidentNumber": "53499",
+      "run_id": "53499",
+      "address": "360 W Loudon Avenue",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E08,205",
+      "units": "E04,E08,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-53499"
+    }
   }
 ]
