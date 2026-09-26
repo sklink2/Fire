@@ -1142,5 +1142,27 @@
       "commandUnits": "241,201",
       "dedupeKey": "INCIDENT-53505"
     }
+  },
+  {
+    "runNumber": "53506",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-26T08:11:57.323789-04:00",
+    "address": "3105 Spurr Road",
+    "extra": {
+      "incidentNumber": "53506",
+      "run_id": "53506",
+      "address": "3105 Spurr Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,E24,L03,203",
+      "units": "E13,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-53506"
+    }
   }
 ]
