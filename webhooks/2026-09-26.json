@@ -4090,5 +4090,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53640"
     }
+  },
+  {
+    "runNumber": "53641",
+    "rawCode": "FMIS",
+    "timestamp": "2026-09-26T19:10:07.307035-04:00",
+    "address": "645 Winnie Street",
+    "extra": {
+      "incidentNumber": "53641",
+      "run_id": "53641",
+      "address": "645 Winnie Street",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,204",
+      "units": "E11,204",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-53641"
+    }
   }
 ]
