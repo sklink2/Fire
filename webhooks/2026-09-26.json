@@ -152,5 +152,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53462"
     }
+  },
+  {
+    "runNumber": "53465",
+    "rawCode": "MED",
+    "timestamp": "2026-09-26T00:50:07.019712-04:00",
+    "address": "3400 Block Kenesaw Drive",
+    "extra": {
+      "incidentNumber": "53465",
+      "run_id": "53465",
+      "address": "3400 Block Kenesaw Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53465"
+    }
   }
 ]
