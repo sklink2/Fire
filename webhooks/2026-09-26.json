@@ -3936,5 +3936,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53633"
     }
+  },
+  {
+    "runNumber": "53632",
+    "rawCode": "MED",
+    "timestamp": "2026-09-26T18:43:05.576160-04:00",
+    "address": "500 Block S Upper Street",
+    "extra": {
+      "incidentNumber": "53632",
+      "run_id": "53632",
+      "address": "500 Block S Upper Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC7,RS1",
+      "units": "EC7,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53632"
+    }
   }
 ]
