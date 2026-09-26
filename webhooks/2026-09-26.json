@@ -2924,5 +2924,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53586"
     }
+  },
+  {
+    "runNumber": "53585",
+    "rawCode": "MED",
+    "timestamp": "2026-09-26T14:30:38.314954-04:00",
+    "address": "100 Block Codell Drive",
+    "extra": {
+      "incidentNumber": "53585",
+      "run_id": "53585",
+      "address": "100 Block Codell Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53585"
+    }
   }
 ]
