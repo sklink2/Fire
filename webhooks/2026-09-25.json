@@ -4156,5 +4156,27 @@
       "commandUnits": "241,220,201,203",
       "dedupeKey": "INCIDENT-53428"
     }
+  },
+  {
+    "runNumber": "53429",
+    "rawCode": "MED",
+    "timestamp": "2026-09-25T20:46:41.518910-04:00",
+    "address": "200 Block W Short Street",
+    "extra": {
+      "incidentNumber": "53429",
+      "run_id": "53429",
+      "address": "200 Block W Short Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,EC1",
+      "units": "E04,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53429"
+    }
   }
 ]
