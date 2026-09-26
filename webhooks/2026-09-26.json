@@ -4266,5 +4266,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53648"
     }
+  },
+  {
+    "runNumber": "53650",
+    "rawCode": "MED",
+    "timestamp": "2026-09-26T19:46:09.763214-04:00",
+    "address": "700 Block Wyndham Hills Drive",
+    "extra": {
+      "incidentNumber": "53650",
+      "run_id": "53650",
+      "address": "700 Block Wyndham Hills Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC2",
+      "units": "E15,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53650"
+    }
   }
 ]
