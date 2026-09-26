@@ -3122,5 +3122,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-53594"
     }
+  },
+  {
+    "runNumber": "53596",
+    "rawCode": "MED",
+    "timestamp": "2026-09-26T15:33:43.106177-04:00",
+    "address": "W Fourth Street & N Broadway",
+    "extra": {
+      "incidentNumber": "53596",
+      "run_id": "53596",
+      "address": "W Fourth Street & N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53596"
+    }
   }
 ]
