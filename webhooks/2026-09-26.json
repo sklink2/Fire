@@ -526,5 +526,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53477"
     }
+  },
+  {
+    "runNumber": "53480",
+    "rawCode": "MED",
+    "timestamp": "2026-09-26T03:00:51.522195-04:00",
+    "address": "400 Block Dabney Drive",
+    "extra": {
+      "incidentNumber": "53480",
+      "run_id": "53480",
+      "address": "400 Block Dabney Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53480"
+    }
   }
 ]
