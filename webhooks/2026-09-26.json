@@ -2110,5 +2110,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53547"
     }
+  },
+  {
+    "runNumber": "53549",
+    "rawCode": "FOTS",
+    "timestamp": "2026-09-26T11:48:20.922830-04:00",
+    "address": "2113 Paige Court",
+    "extra": {
+      "incidentNumber": "53549",
+      "run_id": "53549",
+      "address": "2113 Paige Court",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07",
+      "units": "E07",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53549"
+    }
   }
 ]
