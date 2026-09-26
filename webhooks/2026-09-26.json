@@ -2616,5 +2616,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53573"
     }
+  },
+  {
+    "runNumber": "53572",
+    "rawCode": "FMIS",
+    "timestamp": "2026-09-26T13:36:34.103653-04:00",
+    "address": "1008 Moylan Lane",
+    "extra": {
+      "incidentNumber": "53572",
+      "run_id": "53572",
+      "address": "1008 Moylan Lane",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,202",
+      "units": "E20,202",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-53572"
+    }
   }
 ]
