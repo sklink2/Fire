@@ -306,5 +306,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-53703"
     }
+  },
+  {
+    "runNumber": "53704",
+    "rawCode": "FBGL",
+    "timestamp": "2026-09-27T01:51:22.391694-04:00",
+    "address": "Nelson Avenue & E Third Street",
+    "extra": {
+      "incidentNumber": "53704",
+      "run_id": "53704",
+      "address": "Nelson Avenue & E Third Street",
+      "rawType": "FBGL",
+      "typeCode": "FBGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "FBGL",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53704"
+    }
   }
 ]
