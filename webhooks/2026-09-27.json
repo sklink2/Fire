@@ -174,5 +174,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53697"
     }
+  },
+  {
+    "runNumber": "53698",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-27T00:52:44.708409-04:00",
+    "address": "280 E High Street",
+    "extra": {
+      "incidentNumber": "53698",
+      "run_id": "53698",
+      "address": "280 E High Street",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05",
+      "units": "E05",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53698"
+    }
   }
 ]
