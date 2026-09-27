@@ -4772,5 +4772,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53675"
     }
+  },
+  {
+    "runNumber": "53674",
+    "rawCode": "MED",
+    "timestamp": "2026-09-26T22:05:58.574410-04:00",
+    "address": "100 Block Garrett Avenue",
+    "extra": {
+      "incidentNumber": "53674",
+      "run_id": "53674",
+      "address": "100 Block Garrett Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,EC5,CRT1",
+      "units": "E14,EC5,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53674"
+    }
   }
 ]
