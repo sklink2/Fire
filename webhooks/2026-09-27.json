@@ -328,5 +328,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53704"
     }
+  },
+  {
+    "runNumber": "53705",
+    "rawCode": "MED",
+    "timestamp": "2026-09-27T01:55:52.092044-04:00",
+    "address": "300 Block W Short Street",
+    "extra": {
+      "incidentNumber": "53705",
+      "run_id": "53705",
+      "address": "300 Block W Short Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53705"
+    }
   }
 ]
