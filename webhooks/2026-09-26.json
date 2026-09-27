@@ -4684,5 +4684,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53669"
     }
+  },
+  {
+    "runNumber": "53668",
+    "rawCode": "MED",
+    "timestamp": "2026-09-26T21:38:55.860986-04:00",
+    "address": "400 Block Peachtree Road",
+    "extra": {
+      "incidentNumber": "53668",
+      "run_id": "53668",
+      "address": "400 Block Peachtree Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L05,EC2",
+      "units": "L05,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53668"
+    }
   }
 ]
