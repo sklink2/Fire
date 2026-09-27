@@ -2770,5 +2770,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53814"
     }
+  },
+  {
+    "runNumber": "53817",
+    "rawCode": "MED",
+    "timestamp": "2026-09-27T16:30:34.439179-04:00",
+    "address": "900 Block Stonewall Road",
+    "extra": {
+      "incidentNumber": "53817",
+      "run_id": "53817",
+      "address": "900 Block Stonewall Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,EC12",
+      "units": "E14,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53817"
+    }
   }
 ]
