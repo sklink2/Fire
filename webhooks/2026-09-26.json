@@ -4640,5 +4640,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-53667"
     }
+  },
+  {
+    "runNumber": "53666",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-26T21:34:25.793458-04:00",
+    "address": "Henry Clay Boulevard & Liberty Road",
+    "extra": {
+      "incidentNumber": "53666",
+      "run_id": "53666",
+      "address": "Henry Clay Boulevard & Liberty Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53666"
+    }
   }
 ]
