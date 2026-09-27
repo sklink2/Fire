@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53705"
     }
+  },
+  {
+    "runNumber": "53706",
+    "rawCode": "MED",
+    "timestamp": "2026-09-27T02:00:22.938148-04:00",
+    "address": "500 Block Maryland Avenue",
+    "extra": {
+      "incidentNumber": "53706",
+      "run_id": "53706",
+      "address": "500 Block Maryland Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53706"
+    }
   }
 ]
