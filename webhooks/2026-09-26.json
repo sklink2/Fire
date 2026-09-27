@@ -4618,5 +4618,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53665"
     }
+  },
+  {
+    "runNumber": "53667",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-26T21:34:21.714270-04:00",
+    "address": "817 Gerardi Road",
+    "extra": {
+      "incidentNumber": "53667",
+      "run_id": "53667",
+      "address": "817 Gerardi Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E21,L06,201",
+      "units": "E09,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-53667"
+    }
   }
 ]
