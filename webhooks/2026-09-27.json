@@ -1362,5 +1362,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53750"
     }
+  },
+  {
+    "runNumber": "53752",
+    "rawCode": "MED",
+    "timestamp": "2026-09-27T10:52:24.831331-04:00",
+    "address": "600 Block W Main Street",
+    "extra": {
+      "incidentNumber": "53752",
+      "run_id": "53752",
+      "address": "600 Block W Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53752"
+    }
   }
 ]
