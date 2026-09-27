@@ -438,5 +438,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53707"
     }
+  },
+  {
+    "runNumber": "53710",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-27T02:54:30.270354-04:00",
+    "address": "1180 Newtown Pike",
+    "extra": {
+      "incidentNumber": "53710",
+      "run_id": "53710",
+      "address": "1180 Newtown Pike",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E10,L03,203",
+      "units": "E04,E10,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-53710"
+    }
   }
 ]
