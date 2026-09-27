@@ -3188,5 +3188,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53835"
     }
+  },
+  {
+    "runNumber": "53836",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-27T18:45:51.647256-04:00",
+    "address": "1946 Vicksburg Road",
+    "extra": {
+      "incidentNumber": "53836",
+      "run_id": "53836",
+      "address": "1946 Vicksburg Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,E20,L04,EC12,204,220",
+      "units": "E14,E20,L04,EC12,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-53836"
+    }
   }
 ]
