@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53768"
     }
+  },
+  {
+    "runNumber": "53769",
+    "rawCode": "MED",
+    "timestamp": "2026-09-27T12:22:34.574080-04:00",
+    "address": "3700 Block Lady Di Lane",
+    "extra": {
+      "incidentNumber": "53769",
+      "run_id": "53769",
+      "address": "3700 Block Lady Di Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L07,EC4",
+      "units": "L07,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53769"
+    }
   }
 ]
