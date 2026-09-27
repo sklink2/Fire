@@ -3210,5 +3210,27 @@
       "commandUnits": "220,204",
       "dedupeKey": "INCIDENT-53836"
     }
+  },
+  {
+    "runNumber": "53837",
+    "rawCode": "MED",
+    "timestamp": "2026-09-27T18:54:51.991536-04:00",
+    "address": "2800 Block Palumbo Drive",
+    "extra": {
+      "incidentNumber": "53837",
+      "run_id": "53837",
+      "address": "2800 Block Palumbo Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC2",
+      "units": "E21,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53837"
+    }
   }
 ]
