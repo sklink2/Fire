@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53770"
     }
+  },
+  {
+    "runNumber": "53771",
+    "rawCode": "MED",
+    "timestamp": "2026-09-27T12:45:08.116604-04:00",
+    "address": "3000 Block Becky Sue Lane",
+    "extra": {
+      "incidentNumber": "53771",
+      "run_id": "53771",
+      "address": "3000 Block Becky Sue Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E19,EC3",
+      "units": "E19,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53771"
+    }
   }
 ]
