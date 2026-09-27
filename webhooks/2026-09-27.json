@@ -3320,5 +3320,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53841"
     }
+  },
+  {
+    "runNumber": "53843",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-09-27T19:26:28.718278-04:00",
+    "address": "Richmond Road & E New Circle Ram",
+    "extra": {
+      "incidentNumber": "53843",
+      "run_id": "53843",
+      "address": "Richmond Road & E New Circle Ram",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,L06,EC2,202,241,RS1",
+      "units": "E09,L06,EC2,202,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-53843"
+    }
   }
 ]
