@@ -878,5 +878,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53729"
     }
+  },
+  {
+    "runNumber": "53731",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-27T07:06:58.910514-04:00",
+    "address": "1003 Gainesway Drive",
+    "extra": {
+      "incidentNumber": "53731",
+      "run_id": "53731",
+      "address": "1003 Gainesway Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,EC9",
+      "units": "E07,EC9",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53731"
+    }
   }
 ]
