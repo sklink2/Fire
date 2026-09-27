@@ -3254,5 +3254,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-53839"
     }
+  },
+  {
+    "runNumber": "53838",
+    "rawCode": "FUTL",
+    "timestamp": "2026-09-27T18:59:27.195064-04:00",
+    "address": "1510 Versailles Road",
+    "extra": {
+      "incidentNumber": "53838",
+      "run_id": "53838",
+      "address": "1510 Versailles Road",
+      "rawType": "FUTL",
+      "typeCode": "FUTL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L04",
+      "units": "L04",
+      "unitCount": "1",
+      "primaryTopic": "FUTL",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53838"
+    }
   }
 ]
