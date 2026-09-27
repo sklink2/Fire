@@ -2308,5 +2308,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53794"
     }
+  },
+  {
+    "runNumber": "53795",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-27T14:42:22.206982-04:00",
+    "address": "4236 Hampton Ridge",
+    "extra": {
+      "incidentNumber": "53795",
+      "run_id": "53795",
+      "address": "4236 Hampton Ridge",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E20,L04,204",
+      "units": "E11,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-53795"
+    }
   }
 ]
