@@ -1428,5 +1428,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53754"
     }
+  },
+  {
+    "runNumber": "53753",
+    "rawCode": "MED",
+    "timestamp": "2026-09-27T10:57:00.545859-04:00",
+    "address": "1000 Block Stonecrop Drive",
+    "extra": {
+      "incidentNumber": "53753",
+      "run_id": "53753",
+      "address": "1000 Block Stonecrop Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53753"
+    }
   }
 ]
