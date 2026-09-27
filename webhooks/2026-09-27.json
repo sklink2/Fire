@@ -2638,5 +2638,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-53810"
     }
+  },
+  {
+    "runNumber": "53809",
+    "rawCode": "MED",
+    "timestamp": "2026-09-27T16:03:36.222685-04:00",
+    "address": "1400 Block Boardwalk",
+    "extra": {
+      "incidentNumber": "53809",
+      "run_id": "53809",
+      "address": "1400 Block Boardwalk",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53809"
+    }
   }
 ]
