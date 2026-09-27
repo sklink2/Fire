@@ -196,5 +196,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53698"
     }
+  },
+  {
+    "runNumber": "53701",
+    "rawCode": "MED",
+    "timestamp": "2026-09-27T01:01:45.876383-04:00",
+    "address": "200 Block State Street",
+    "extra": {
+      "incidentNumber": "53701",
+      "run_id": "53701",
+      "address": "200 Block State Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,EC12",
+      "units": "E06,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53701"
+    }
   }
 ]
