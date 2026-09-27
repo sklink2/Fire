@@ -2924,5 +2924,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53822"
     }
+  },
+  {
+    "runNumber": "53823",
+    "rawCode": "MED",
+    "timestamp": "2026-09-27T17:24:40.182280-04:00",
+    "address": "600 Block Tallow Court",
+    "extra": {
+      "incidentNumber": "53823",
+      "run_id": "53823",
+      "address": "600 Block Tallow Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53823"
+    }
   }
 ]
