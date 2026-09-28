@@ -1208,5 +1208,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53955"
     }
+  },
+  {
+    "runNumber": "53954",
+    "rawCode": "MED",
+    "timestamp": "2026-09-28T09:52:07.887330-04:00",
+    "address": "2400 Block Members Way",
+    "extra": {
+      "incidentNumber": "53954",
+      "run_id": "53954",
+      "address": "2400 Block Members Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC7",
+      "units": "E20,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53954"
+    }
   }
 ]
