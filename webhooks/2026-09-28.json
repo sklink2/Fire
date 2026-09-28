@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53971"
     }
+  },
+  {
+    "runNumber": "53973",
+    "rawCode": "MED",
+    "timestamp": "2026-09-28T11:22:13.568400-04:00",
+    "address": "100 Block E Tiverton Way",
+    "extra": {
+      "incidentNumber": "53973",
+      "run_id": "53973",
+      "address": "100 Block E Tiverton Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E22,EC9",
+      "units": "E22,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53973"
+    }
   }
 ]
