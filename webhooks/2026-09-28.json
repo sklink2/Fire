@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53931"
     }
+  },
+  {
+    "runNumber": "53933",
+    "rawCode": "MED",
+    "timestamp": "2026-09-28T07:27:47.400637-04:00",
+    "address": "1700 Block Yorktown Road",
+    "extra": {
+      "incidentNumber": "53933",
+      "run_id": "53933",
+      "address": "1700 Block Yorktown Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC12",
+      "units": "E14,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53933"
+    }
   }
 ]
