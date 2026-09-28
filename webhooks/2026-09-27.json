@@ -3606,5 +3606,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53858"
     }
+  },
+  {
+    "runNumber": "53857",
+    "rawCode": "MED",
+    "timestamp": "2026-09-27T20:25:03.506125-04:00",
+    "address": "3100 Block Tiburon Way",
+    "extra": {
+      "incidentNumber": "53857",
+      "run_id": "53857",
+      "address": "3100 Block Tiburon Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC10",
+      "units": "E24,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53857"
+    }
   }
 ]
