@@ -2308,5 +2308,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-54003"
     }
+  },
+  {
+    "runNumber": "54004",
+    "rawCode": "MED",
+    "timestamp": "2026-09-28T13:37:27.614205-04:00",
+    "address": "E Main Street & N Martin Luther Ki",
+    "extra": {
+      "incidentNumber": "54004",
+      "run_id": "54004",
+      "address": "E Main Street & N Martin Luther Ki",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54004"
+    }
   }
 ]
