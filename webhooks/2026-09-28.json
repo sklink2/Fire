@@ -3166,5 +3166,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54042"
     }
+  },
+  {
+    "runNumber": "54044",
+    "rawCode": "FFIA",
+    "timestamp": "2026-09-28T16:55:51.435947-04:00",
+    "address": "636 Snowy Egret Way",
+    "extra": {
+      "incidentNumber": "54044",
+      "run_id": "54044",
+      "address": "636 Snowy Egret Way",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E16,L06,202",
+      "units": "E07,E16,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FFIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-54044"
+    }
   }
 ]
