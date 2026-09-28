@@ -1516,5 +1516,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53969"
     }
+  },
+  {
+    "runNumber": "53968",
+    "rawCode": "MED",
+    "timestamp": "2026-09-28T11:08:44.957048-04:00",
+    "address": "500 Block Lisa Drive",
+    "extra": {
+      "incidentNumber": "53968",
+      "run_id": "53968",
+      "address": "500 Block Lisa Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E19,EC6",
+      "units": "E19,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53968"
+    }
   }
 ]
