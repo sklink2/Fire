@@ -2132,5 +2132,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53994"
     }
+  },
+  {
+    "runNumber": "53991",
+    "rawCode": "MED",
+    "timestamp": "2026-09-28T12:38:50.413439-04:00",
+    "address": "900 Block Street Martins Avenue",
+    "extra": {
+      "incidentNumber": "53991",
+      "run_id": "53991",
+      "address": "900 Block Street Martins Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC5",
+      "units": "E10,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53991"
+    }
   }
 ]
