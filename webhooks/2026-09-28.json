@@ -548,5 +548,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53922"
     }
+  },
+  {
+    "runNumber": "53921",
+    "rawCode": "MED",
+    "timestamp": "2026-09-28T04:50:02.952161-04:00",
+    "address": "S Limestone & Pine Street",
+    "extra": {
+      "incidentNumber": "53921",
+      "run_id": "53921",
+      "address": "S Limestone & Pine Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53921"
+    }
   }
 ]
