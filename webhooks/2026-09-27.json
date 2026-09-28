@@ -4024,5 +4024,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53875"
     }
+  },
+  {
+    "runNumber": "53878",
+    "rawCode": "FSIA",
+    "timestamp": "2026-09-27T21:50:41.235635-04:00",
+    "address": "820 Whitney Avenue",
+    "extra": {
+      "incidentNumber": "53878",
+      "run_id": "53878",
+      "address": "820 Whitney Avenue",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E10,205",
+      "units": "E04,E10,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-53878"
+    }
   }
 ]
