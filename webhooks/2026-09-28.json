@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53917"
     }
+  },
+  {
+    "runNumber": "53918",
+    "rawCode": "MED",
+    "timestamp": "2026-09-28T04:27:27.366864-04:00",
+    "address": "1000 Block N Broadway",
+    "extra": {
+      "incidentNumber": "53918",
+      "run_id": "53918",
+      "address": "1000 Block N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53918"
+    }
   }
 ]
