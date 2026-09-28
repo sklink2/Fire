@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54015"
     }
+  },
+  {
+    "runNumber": "54014",
+    "rawCode": "FFIA",
+    "timestamp": "2026-09-28T14:22:36.232559-04:00",
+    "address": "1794 Beacon Hill Road",
+    "extra": {
+      "incidentNumber": "54014",
+      "run_id": "54014",
+      "address": "1794 Beacon Hill Road",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E12,L04,204",
+      "units": "E11,E12,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FFIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-54014"
+    }
   }
 ]
