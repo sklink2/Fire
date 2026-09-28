@@ -1120,5 +1120,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53949"
     }
+  },
+  {
+    "runNumber": "53948",
+    "rawCode": "FSMO",
+    "timestamp": "2026-09-28T09:02:37.421667-04:00",
+    "address": "2193 Shaker Run Road",
+    "extra": {
+      "incidentNumber": "53948",
+      "run_id": "53948",
+      "address": "2193 Shaker Run Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E21,L05,202",
+      "units": "E02,E21,L05,202",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-53948"
+    }
   }
 ]
