@@ -1098,5 +1098,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-53950"
     }
+  },
+  {
+    "runNumber": "53949",
+    "rawCode": "MED",
+    "timestamp": "2026-09-28T09:02:33.067454-04:00",
+    "address": "400 Block Weston Park",
+    "extra": {
+      "incidentNumber": "53949",
+      "run_id": "53949",
+      "address": "400 Block Weston Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC11",
+      "units": "E09,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53949"
+    }
   }
 ]
