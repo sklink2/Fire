@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53944"
     }
+  },
+  {
+    "runNumber": "53943",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-28T08:44:30.341982-04:00",
+    "address": "343 N Limestone",
+    "extra": {
+      "incidentNumber": "53943",
+      "run_id": "53943",
+      "address": "343 N Limestone",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,L01,205",
+      "units": "E01,L01,205",
+      "unitCount": "3",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-53943"
+    }
   }
 ]
