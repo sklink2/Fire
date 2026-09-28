@@ -3518,5 +3518,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54061"
     }
+  },
+  {
+    "runNumber": "54060",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-28T18:48:38.094414-04:00",
+    "address": "2032 Blairmore Road",
+    "extra": {
+      "incidentNumber": "54060",
+      "run_id": "54060",
+      "address": "2032 Blairmore Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E21,L02,201",
+      "units": "E05,E21,L02,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-54060"
+    }
   }
 ]
