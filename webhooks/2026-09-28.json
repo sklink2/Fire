@@ -3276,5 +3276,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54049"
     }
+  },
+  {
+    "runNumber": "54048",
+    "rawCode": "FASS",
+    "timestamp": "2026-09-28T17:18:30.051925-04:00",
+    "address": "S Limestone & Avenue Of Champi",
+    "extra": {
+      "incidentNumber": "54048",
+      "run_id": "54048",
+      "address": "S Limestone & Avenue Of Champi",
+      "rawType": "FASS",
+      "typeCode": "FASS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC6,205",
+      "units": "EC6,205",
+      "unitCount": "2",
+      "primaryTopic": "FASS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-54048"
+    }
   }
 ]
