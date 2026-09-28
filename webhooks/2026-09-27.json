@@ -4090,5 +4090,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53876"
     }
+  },
+  {
+    "runNumber": "53880",
+    "rawCode": "MED",
+    "timestamp": "2026-09-27T21:59:42.126678-04:00",
+    "address": "3600 Block Claredon Drive",
+    "extra": {
+      "incidentNumber": "53880",
+      "run_id": "53880",
+      "address": "3600 Block Claredon Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC9",
+      "units": "E16,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53880"
+    }
   }
 ]
