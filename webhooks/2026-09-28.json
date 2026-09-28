@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54001"
     }
+  },
+  {
+    "runNumber": "54003",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-28T13:32:58.026231-04:00",
+    "address": "300 Alumni Drive",
+    "extra": {
+      "incidentNumber": "54003",
+      "run_id": "54003",
+      "address": "300 Alumni Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E07,L02,204",
+      "units": "E06,E07,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-54003"
+    }
   }
 ]
