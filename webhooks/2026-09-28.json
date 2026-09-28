@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54007"
     }
+  },
+  {
+    "runNumber": "54009",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-28T14:00:00.946502-04:00",
+    "address": "2050 Versailles Road",
+    "extra": {
+      "incidentNumber": "54009",
+      "run_id": "54009",
+      "address": "2050 Versailles Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E14,L04,203",
+      "units": "E11,E14,L04,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-54009"
+    }
   }
 ]
