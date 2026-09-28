@@ -3782,5 +3782,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54071"
     }
+  },
+  {
+    "runNumber": "54070",
+    "rawCode": "MED",
+    "timestamp": "2026-09-28T19:38:11.364940-04:00",
+    "address": "300 Block Wilson Downing Road",
+    "extra": {
+      "incidentNumber": "54070",
+      "run_id": "54070",
+      "address": "300 Block Wilson Downing Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC12",
+      "units": "E15,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54070"
+    }
   }
 ]
