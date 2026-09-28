@@ -2572,5 +2572,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-54014"
     }
+  },
+  {
+    "runNumber": "54016",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-28T14:27:04.940565-04:00",
+    "address": "Charles Avenue & Ash Street",
+    "extra": {
+      "incidentNumber": "54016",
+      "run_id": "54016",
+      "address": "Charles Avenue & Ash Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC1,203",
+      "units": "E10,EC1,203",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-54016"
+    }
   }
 ]
