@@ -2858,5 +2858,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54030"
     }
+  },
+  {
+    "runNumber": "54029",
+    "rawCode": "MED",
+    "timestamp": "2026-09-28T15:30:15.323089-04:00",
+    "address": "4900 Block Jacks Creek Pike",
+    "extra": {
+      "incidentNumber": "54029",
+      "run_id": "54029",
+      "address": "4900 Block Jacks Creek Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E18,EC11",
+      "units": "E18,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54029"
+    }
   }
 ]
