@@ -2506,5 +2506,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54013"
     }
+  },
+  {
+    "runNumber": "54012",
+    "rawCode": "MED",
+    "timestamp": "2026-09-28T14:18:05.910595-04:00",
+    "address": "2600 Block Wilhite Court",
+    "extra": {
+      "incidentNumber": "54012",
+      "run_id": "54012",
+      "address": "2600 Block Wilhite Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54012"
+    }
   }
 ]
