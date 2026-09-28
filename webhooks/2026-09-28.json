@@ -3386,5 +3386,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54053"
     }
+  },
+  {
+    "runNumber": "54055",
+    "rawCode": "FSIA",
+    "timestamp": "2026-09-28T18:17:01.179490-04:00",
+    "address": "Man O War Boulevard & Belleau Wood",
+    "extra": {
+      "incidentNumber": "54055",
+      "run_id": "54055",
+      "address": "Man O War Boulevard & Belleau Wood",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,E22,202",
+      "units": "E16,E22,202",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-54055"
+    }
   }
 ]
