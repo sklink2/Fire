@@ -2726,5 +2726,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54023"
     }
+  },
+  {
+    "runNumber": "54022",
+    "rawCode": "MED",
+    "timestamp": "2026-09-28T14:58:42.008918-04:00",
+    "address": "N Martin Luther King Boulevard & E",
+    "extra": {
+      "incidentNumber": "54022",
+      "run_id": "54022",
+      "address": "N Martin Luther King Boulevard & E",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC6,CRT1",
+      "units": "E01,EC6,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54022"
+    }
   }
 ]
