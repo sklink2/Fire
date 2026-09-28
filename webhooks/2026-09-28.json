@@ -2418,5 +2418,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-54009"
     }
+  },
+  {
+    "runNumber": "54008",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-09-28T14:00:07.998276-04:00",
+    "address": "1151 Delong Road",
+    "extra": {
+      "incidentNumber": "54008",
+      "run_id": "54008",
+      "address": "1151 Delong Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,L05,L07,EC4,202,241",
+      "units": "E16,L05,L07,EC4,202,241",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-54008"
+    }
   }
 ]
