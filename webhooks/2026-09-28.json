@@ -1252,5 +1252,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-53953"
     }
+  },
+  {
+    "runNumber": "53956",
+    "rawCode": "MED",
+    "timestamp": "2026-09-28T10:01:04.010584-04:00",
+    "address": "100 Block Life Lane",
+    "extra": {
+      "incidentNumber": "53956",
+      "run_id": "53956",
+      "address": "100 Block Life Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC1",
+      "units": "E09,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53956"
+    }
   }
 ]
