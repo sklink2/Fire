@@ -1868,5 +1868,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-53983"
     }
+  },
+  {
+    "runNumber": "53984",
+    "rawCode": "MED",
+    "timestamp": "2026-09-28T11:58:16.113002-04:00",
+    "address": "500 Block Winter Hill Lane",
+    "extra": {
+      "incidentNumber": "53984",
+      "run_id": "53984",
+      "address": "500 Block Winter Hill Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "255",
+      "units": "255",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53984"
+    }
   }
 ]
