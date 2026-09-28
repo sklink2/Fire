@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53941"
     }
+  },
+  {
+    "runNumber": "53944",
+    "rawCode": "MED",
+    "timestamp": "2026-09-28T08:44:26.778222-04:00",
+    "address": "1000 Block Eastland Drive",
+    "extra": {
+      "incidentNumber": "53944",
+      "run_id": "53944",
+      "address": "1000 Block Eastland Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53944"
+    }
   }
 ]
