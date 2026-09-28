@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53974"
     }
+  },
+  {
+    "runNumber": "53976",
+    "rawCode": "MED",
+    "timestamp": "2026-09-28T11:35:43.524734-04:00",
+    "address": "300 Block Ohio Street",
+    "extra": {
+      "incidentNumber": "53976",
+      "run_id": "53976",
+      "address": "300 Block Ohio Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L01,EC1",
+      "units": "L01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53976"
+    }
   }
 ]
