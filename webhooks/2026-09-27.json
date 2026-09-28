@@ -3716,5 +3716,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53859"
     }
+  },
+  {
+    "runNumber": "53861",
+    "rawCode": "MED",
+    "timestamp": "2026-09-27T20:43:03.613522-04:00",
+    "address": "1800 Block Georgetown Road",
+    "extra": {
+      "incidentNumber": "53861",
+      "run_id": "53861",
+      "address": "1800 Block Georgetown Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC8",
+      "units": "E10,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53861"
+    }
   }
 ]
