@@ -1802,5 +1802,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53982"
     }
+  },
+  {
+    "runNumber": "53981",
+    "rawCode": "MED",
+    "timestamp": "2026-09-28T11:44:48.193695-04:00",
+    "address": "500 Block W Second Street",
+    "extra": {
+      "incidentNumber": "53981",
+      "run_id": "53981",
+      "address": "500 Block W Second Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,EC10",
+      "units": "E13,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53981"
+    }
   }
 ]
