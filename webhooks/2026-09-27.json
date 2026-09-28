@@ -4354,5 +4354,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53889"
     }
+  },
+  {
+    "runNumber": "53891",
+    "rawCode": "MED",
+    "timestamp": "2026-09-27T23:29:51.535091-04:00",
+    "address": "400 Block E High Street",
+    "extra": {
+      "incidentNumber": "53891",
+      "run_id": "53891",
+      "address": "400 Block E High Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53891"
+    }
   }
 ]
