@@ -1538,5 +1538,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53968"
     }
+  },
+  {
+    "runNumber": "53967",
+    "rawCode": "MED",
+    "timestamp": "2026-09-28T11:08:48.302633-04:00",
+    "address": "1700 Block Nicholasville Road",
+    "extra": {
+      "incidentNumber": "53967",
+      "run_id": "53967",
+      "address": "1700 Block Nicholasville Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,EC10",
+      "units": "E06,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53967"
+    }
   }
 ]
