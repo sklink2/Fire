@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-53940"
     }
+  },
+  {
+    "runNumber": "53939",
+    "rawCode": "MED",
+    "timestamp": "2026-09-28T08:30:58.914842-04:00",
+    "address": "200 Block Lakeshore Drive",
+    "extra": {
+      "incidentNumber": "53939",
+      "run_id": "53939",
+      "address": "200 Block Lakeshore Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,CRT1",
+      "units": "E09,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-53939"
+    }
   }
 ]
