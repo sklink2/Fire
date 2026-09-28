@@ -3298,5 +3298,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-54048"
     }
+  },
+  {
+    "runNumber": "54051",
+    "rawCode": "MED",
+    "timestamp": "2026-09-28T17:49:57.385381-04:00",
+    "address": "400 Block Stone Creek Drive",
+    "extra": {
+      "incidentNumber": "54051",
+      "run_id": "54051",
+      "address": "400 Block Stone Creek Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54051"
+    }
   }
 ]
