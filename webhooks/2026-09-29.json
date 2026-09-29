@@ -3078,5 +3078,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54236"
     }
+  },
+  {
+    "runNumber": "54238",
+    "rawCode": "FFIA",
+    "timestamp": "2026-09-29T16:08:59.227353-04:00",
+    "address": "1109 Winburn Drive",
+    "extra": {
+      "incidentNumber": "54238",
+      "run_id": "54238",
+      "address": "1109 Winburn Drive",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E19,L03,205",
+      "units": "E08,E19,L03,205",
+      "unitCount": "4",
+      "primaryTopic": "FFIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-54238"
+    }
   }
 ]
