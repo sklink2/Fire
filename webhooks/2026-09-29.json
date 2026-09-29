@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54131"
     }
+  },
+  {
+    "runNumber": "54133",
+    "rawCode": "MED",
+    "timestamp": "2026-09-29T07:44:01.548845-04:00",
+    "address": "300 Block Scott Street",
+    "extra": {
+      "incidentNumber": "54133",
+      "run_id": "54133",
+      "address": "300 Block Scott Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,EC7",
+      "units": "E06,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54133"
+    }
   }
 ]
