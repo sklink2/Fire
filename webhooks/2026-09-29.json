@@ -1054,5 +1054,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54148"
     }
+  },
+  {
+    "runNumber": "54151",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-29T09:18:43.544493-04:00",
+    "address": "S Upper Street & W High Street",
+    "extra": {
+      "incidentNumber": "54151",
+      "run_id": "54151",
+      "address": "S Upper Street & W High Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,EC3",
+      "units": "E06,EC3",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54151"
+    }
   }
 ]
