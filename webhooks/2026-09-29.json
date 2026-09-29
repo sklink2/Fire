@@ -3540,5 +3540,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-54260"
     }
+  },
+  {
+    "runNumber": "54259",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-09-29T18:10:48.116137-04:00",
+    "address": "3833 Barnard Drive",
+    "extra": {
+      "incidentNumber": "54259",
+      "run_id": "54259",
+      "address": "3833 Barnard Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21",
+      "units": "E21",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54259"
+    }
   }
 ]
