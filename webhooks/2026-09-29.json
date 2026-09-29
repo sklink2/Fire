@@ -1516,5 +1516,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-54168"
     }
+  },
+  {
+    "runNumber": "54167",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-09-29T10:53:29.561646-04:00",
+    "address": "248 Perry Street",
+    "extra": {
+      "incidentNumber": "54167",
+      "run_id": "54167",
+      "address": "248 Perry Street",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05",
+      "units": "E05",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54167"
+    }
   }
 ]
