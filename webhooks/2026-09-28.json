@@ -3892,5 +3892,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54074"
     }
+  },
+  {
+    "runNumber": "54076",
+    "rawCode": "FBAS",
+    "timestamp": "2026-09-28T20:05:14.764315-04:00",
+    "address": "283 Hightower Road",
+    "extra": {
+      "incidentNumber": "54076",
+      "run_id": "54076",
+      "address": "283 Hightower Road",
+      "rawType": "FBAS",
+      "typeCode": "FBAS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC9,202,241",
+      "units": "E15,EC9,202,241",
+      "unitCount": "4",
+      "primaryTopic": "FBAS",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-54076"
+    }
   }
 ]
