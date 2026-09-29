@@ -2220,5 +2220,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54199"
     }
+  },
+  {
+    "runNumber": "54200",
+    "rawCode": "MED",
+    "timestamp": "2026-09-29T13:40:11.508615-04:00",
+    "address": "3300 Block Blackford Parkway",
+    "extra": {
+      "incidentNumber": "54200",
+      "run_id": "54200",
+      "address": "3300 Block Blackford Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17,EC8",
+      "units": "E17,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54200"
+    }
   }
 ]
