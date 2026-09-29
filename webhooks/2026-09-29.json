@@ -3738,5 +3738,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54268"
     }
+  },
+  {
+    "runNumber": "54267",
+    "rawCode": "FOTS",
+    "timestamp": "2026-09-29T19:13:57.128881-04:00",
+    "address": "1725 N Broadway",
+    "extra": {
+      "incidentNumber": "54267",
+      "run_id": "54267",
+      "address": "1725 N Broadway",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54267"
+    }
   }
 ]
