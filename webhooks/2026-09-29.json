@@ -2726,5 +2726,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54222"
     }
+  },
+  {
+    "runNumber": "54221",
+    "rawCode": "MED",
+    "timestamp": "2026-09-29T15:19:28.951723-04:00",
+    "address": "300 Block Quinton Court",
+    "extra": {
+      "incidentNumber": "54221",
+      "run_id": "54221",
+      "address": "300 Block Quinton Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC21,EC5",
+      "units": "E09,EC21,EC5",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54221"
+    }
   }
 ]
