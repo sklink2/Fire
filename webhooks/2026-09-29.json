@@ -3518,5 +3518,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54258"
     }
+  },
+  {
+    "runNumber": "54260",
+    "rawCode": "FFIA",
+    "timestamp": "2026-09-29T18:10:44.270725-04:00",
+    "address": "1101 Beaumont Centre Lane",
+    "extra": {
+      "incidentNumber": "54260",
+      "run_id": "54260",
+      "address": "1101 Beaumont Centre Lane",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,E20,L04,204",
+      "units": "E12,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FFIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-54260"
+    }
   }
 ]
