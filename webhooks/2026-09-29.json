@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54116"
     }
+  },
+  {
+    "runNumber": "54118",
+    "rawCode": "FINV",
+    "timestamp": "2026-09-29T04:30:08.955583-04:00",
+    "address": "2079 Tamarack Drive",
+    "extra": {
+      "incidentNumber": "54118",
+      "run_id": "54118",
+      "address": "2079 Tamarack Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,L04",
+      "units": "E11,L04",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54118"
+    }
   }
 ]
