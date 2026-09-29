@@ -1538,5 +1538,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54167"
     }
+  },
+  {
+    "runNumber": "54169",
+    "rawCode": "MED",
+    "timestamp": "2026-09-29T10:57:55.206002-04:00",
+    "address": "800 Block Oak Hill Drive",
+    "extra": {
+      "incidentNumber": "54169",
+      "run_id": "54169",
+      "address": "800 Block Oak Hill Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC3",
+      "units": "E01,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54169"
+    }
   }
 ]
