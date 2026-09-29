@@ -1230,5 +1230,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54155"
     }
+  },
+  {
+    "runNumber": "54158",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-29T09:41:20.662153-04:00",
+    "address": "1555 E New Circle Road",
+    "extra": {
+      "incidentNumber": "54158",
+      "run_id": "54158",
+      "address": "1555 E New Circle Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E16,L05,201,220",
+      "units": "E02,E16,L05,201,220",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-54158"
+    }
   }
 ]
