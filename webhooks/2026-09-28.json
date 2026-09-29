@@ -3914,5 +3914,27 @@
       "commandUnits": "241,202",
       "dedupeKey": "INCIDENT-54076"
     }
+  },
+  {
+    "runNumber": "54077",
+    "rawCode": "FFIA",
+    "timestamp": "2026-09-28T20:14:14.681599-04:00",
+    "address": "3524 Creekwood Drive",
+    "extra": {
+      "incidentNumber": "54077",
+      "run_id": "54077",
+      "address": "3524 Creekwood Drive",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E22,L07,201",
+      "units": "E07,E22,L07,201",
+      "unitCount": "4",
+      "primaryTopic": "FFIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-54077"
+    }
   }
 ]
