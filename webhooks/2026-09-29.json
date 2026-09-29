@@ -1868,5 +1868,27 @@
       "commandUnits": "241,202",
       "dedupeKey": "INCIDENT-54181"
     }
+  },
+  {
+    "runNumber": "54184",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-29T12:28:02.417170-04:00",
+    "address": "3791 Kenesaw Drive",
+    "extra": {
+      "incidentNumber": "54184",
+      "run_id": "54184",
+      "address": "3791 Kenesaw Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16",
+      "units": "E16",
+      "unitCount": "1",
+      "primaryTopic": "FPRT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54184"
+    }
   }
 ]
