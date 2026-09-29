@@ -1758,5 +1758,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54178"
     }
+  },
+  {
+    "runNumber": "54179",
+    "rawCode": "FELF",
+    "timestamp": "2026-09-29T12:01:03.207110-04:00",
+    "address": "506 Library Drive",
+    "extra": {
+      "incidentNumber": "54179",
+      "run_id": "54179",
+      "address": "506 Library Drive",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,L02,204",
+      "units": "E05,E06,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-54179"
+    }
   }
 ]
