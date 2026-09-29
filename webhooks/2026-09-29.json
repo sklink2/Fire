@@ -1494,5 +1494,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54165"
     }
+  },
+  {
+    "runNumber": "54168",
+    "rawCode": "FSMO",
+    "timestamp": "2026-09-29T10:53:25.211207-04:00",
+    "address": "300 Alumni Drive",
+    "extra": {
+      "incidentNumber": "54168",
+      "run_id": "54168",
+      "address": "300 Alumni Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E07,L02,204",
+      "units": "E06,E07,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-54168"
+    }
   }
 ]
