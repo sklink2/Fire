@@ -3210,5 +3210,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-54244"
     }
+  },
+  {
+    "runNumber": "54245",
+    "rawCode": "MED",
+    "timestamp": "2026-09-29T17:16:36.015107-04:00",
+    "address": "500 Block E High Street",
+    "extra": {
+      "incidentNumber": "54245",
+      "run_id": "54245",
+      "address": "500 Block E High Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54245"
+    }
   }
 ]
