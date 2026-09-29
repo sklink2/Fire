@@ -3936,5 +3936,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-54077"
     }
+  },
+  {
+    "runNumber": "54078",
+    "rawCode": "MED",
+    "timestamp": "2026-09-28T20:18:43.925027-04:00",
+    "address": "400 Block Chestnut Street",
+    "extra": {
+      "incidentNumber": "54078",
+      "run_id": "54078",
+      "address": "400 Block Chestnut Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC3",
+      "units": "E01,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54078"
+    }
   }
 ]
