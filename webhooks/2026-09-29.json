@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54138"
     }
+  },
+  {
+    "runNumber": "54137",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-29T08:06:38.637106-04:00",
+    "address": "2003 Liberty Road",
+    "extra": {
+      "incidentNumber": "54137",
+      "run_id": "54137",
+      "address": "2003 Liberty Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E09,L05,201",
+      "units": "E02,E09,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-54137"
+    }
   }
 ]
