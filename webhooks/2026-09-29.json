@@ -3122,5 +3122,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54240"
     }
+  },
+  {
+    "runNumber": "54239",
+    "rawCode": "FVIS",
+    "timestamp": "2026-09-29T16:22:34.392883-04:00",
+    "address": "1009 Crimson Creek Drive",
+    "extra": {
+      "incidentNumber": "54239",
+      "run_id": "54239",
+      "address": "1009 Crimson Creek Drive",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E21,L06,EC4,202,RS1",
+      "units": "E09,E21,L06,EC4,202,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-54239"
+    }
   }
 ]
