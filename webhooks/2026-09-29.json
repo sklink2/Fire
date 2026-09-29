@@ -3364,5 +3364,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54252"
     }
+  },
+  {
+    "runNumber": "54251",
+    "rawCode": "MED",
+    "timestamp": "2026-09-29T17:34:40.111009-04:00",
+    "address": "500 Block Lima Drive",
+    "extra": {
+      "incidentNumber": "54251",
+      "run_id": "54251",
+      "address": "500 Block Lima Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,EC3",
+      "units": "E10,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54251"
+    }
   }
 ]
