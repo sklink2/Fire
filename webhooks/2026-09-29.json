@@ -1846,5 +1846,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54182"
     }
+  },
+  {
+    "runNumber": "54181",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-09-29T12:19:12.372098-04:00",
+    "address": "3100 Richmond Road",
+    "extra": {
+      "incidentNumber": "54181",
+      "run_id": "54181",
+      "address": "3100 Richmond Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,L05,EC8,202,241,RS1",
+      "units": "E13,L05,EC8,202,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-54181"
+    }
   }
 ]
