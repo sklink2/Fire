@@ -1802,5 +1802,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54180"
     }
+  },
+  {
+    "runNumber": "54183",
+    "rawCode": "MED",
+    "timestamp": "2026-09-29T12:19:02.435851-04:00",
+    "address": "2100 Block Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "54183",
+      "run_id": "54183",
+      "address": "2100 Block Harrodsburg Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L04,EC5",
+      "units": "L04,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54183"
+    }
   }
 ]
