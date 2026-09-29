@@ -2902,5 +2902,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54227"
     }
+  },
+  {
+    "runNumber": "54231",
+    "rawCode": "MED",
+    "timestamp": "2026-09-29T15:41:56.895109-04:00",
+    "address": "800 Block N Broadway",
+    "extra": {
+      "incidentNumber": "54231",
+      "run_id": "54231",
+      "address": "800 Block N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC5",
+      "units": "E08,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54231"
+    }
   }
 ]
