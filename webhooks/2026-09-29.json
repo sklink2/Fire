@@ -1780,5 +1780,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-54179"
     }
+  },
+  {
+    "runNumber": "54180",
+    "rawCode": "MED",
+    "timestamp": "2026-09-29T12:10:02.347972-04:00",
+    "address": "2000 Block Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "54180",
+      "run_id": "54180",
+      "address": "2000 Block Harrodsburg Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54180"
+    }
   }
 ]
