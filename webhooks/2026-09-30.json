@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54390"
     }
+  },
+  {
+    "runNumber": "54389",
+    "rawCode": "FELS",
+    "timestamp": "2026-09-30T10:56:07.415802-04:00",
+    "address": "500 S Upper Street",
+    "extra": {
+      "incidentNumber": "54389",
+      "run_id": "54389",
+      "address": "500 S Upper Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L02,205,RS1",
+      "units": "L02,205,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-54389"
+    }
   }
 ]
