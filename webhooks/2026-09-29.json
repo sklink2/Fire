@@ -4376,5 +4376,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54295"
     }
+  },
+  {
+    "runNumber": "54297",
+    "rawCode": "FSIA",
+    "timestamp": "2026-09-29T22:41:14.625918-04:00",
+    "address": "1012 Tatesbrook Drive",
+    "extra": {
+      "incidentNumber": "54297",
+      "run_id": "54297",
+      "address": "1012 Tatesbrook Drive",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,E16,202",
+      "units": "E07,E16,202",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-54297"
+    }
   }
 ]
