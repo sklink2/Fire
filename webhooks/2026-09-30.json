@@ -4376,5 +4376,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54500"
     }
+  },
+  {
+    "runNumber": "54502",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-30T19:16:27.821110-04:00",
+    "address": "949 Meadow Lane",
+    "extra": {
+      "incidentNumber": "54502",
+      "run_id": "54502",
+      "address": "949 Meadow Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E08,L05,201",
+      "units": "E02,E08,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-54502"
+    }
   }
 ]
