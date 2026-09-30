@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54325"
     }
+  },
+  {
+    "runNumber": "54327",
+    "rawCode": "FVIS",
+    "timestamp": "2026-09-30T02:40:11.088694-04:00",
+    "address": "1900 Newtown Pike",
+    "extra": {
+      "incidentNumber": "54327",
+      "run_id": "54327",
+      "address": "1900 Newtown Pike",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E10,L03,EC6,203,RS1",
+      "units": "E08,E10,L03,EC6,203,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-54327"
+    }
   }
 ]
