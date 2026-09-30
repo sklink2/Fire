@@ -3056,5 +3056,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54440"
     }
+  },
+  {
+    "runNumber": "54443",
+    "rawCode": "MED",
+    "timestamp": "2026-09-30T14:54:56.564935-04:00",
+    "address": "2000 Block Street Christopher Drive",
+    "extra": {
+      "incidentNumber": "54443",
+      "run_id": "54443",
+      "address": "2000 Block Street Christopher Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L05,EC8",
+      "units": "L05,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54443"
+    }
   }
 ]
