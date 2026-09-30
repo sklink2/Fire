@@ -3650,5 +3650,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54467"
     }
+  },
+  {
+    "runNumber": "54468",
+    "rawCode": "FASS",
+    "timestamp": "2026-09-30T16:25:07.705790-04:00",
+    "address": "Versailles / Woodford Co Line",
+    "extra": {
+      "incidentNumber": "54468",
+      "run_id": "54468",
+      "address": "Versailles / Woodford Co Line",
+      "rawType": "FASS",
+      "typeCode": "FASS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "203",
+      "units": "203",
+      "unitCount": "1",
+      "primaryTopic": "FASS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-54468"
+    }
   }
 ]
