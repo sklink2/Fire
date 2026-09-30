@@ -4200,5 +4200,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54287"
     }
+  },
+  {
+    "runNumber": "54288",
+    "rawCode": "MED",
+    "timestamp": "2026-09-29T21:42:36.933347-04:00",
+    "address": "700 Block Maple Ridge Lane",
+    "extra": {
+      "incidentNumber": "54288",
+      "run_id": "54288",
+      "address": "700 Block Maple Ridge Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,EC2",
+      "units": "E21,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54288"
+    }
   }
 ]
