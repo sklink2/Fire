@@ -86,5 +86,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54310"
     }
+  },
+  {
+    "runNumber": "54312",
+    "rawCode": "MED",
+    "timestamp": "2026-09-30T00:42:56.462080-04:00",
+    "address": "1000 Block Red Mile Road",
+    "extra": {
+      "incidentNumber": "54312",
+      "run_id": "54312",
+      "address": "1000 Block Red Mile Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54312"
+    }
   }
 ]
