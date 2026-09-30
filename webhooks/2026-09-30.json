@@ -2088,5 +2088,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-54398"
     }
+  },
+  {
+    "runNumber": "54402",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-09-30T11:50:09.672334-04:00",
+    "address": "529 Sandalwood Drive",
+    "extra": {
+      "incidentNumber": "54402",
+      "run_id": "54402",
+      "address": "529 Sandalwood Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54402"
+    }
   }
 ]
