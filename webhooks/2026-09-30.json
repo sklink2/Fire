@@ -372,5 +372,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54324"
     }
+  },
+  {
+    "runNumber": "54323",
+    "rawCode": "FSIA",
+    "timestamp": "2026-09-30T02:31:14.571084-04:00",
+    "address": "Stolen Horse Trce & Moon Rise",
+    "extra": {
+      "incidentNumber": "54323",
+      "run_id": "54323",
+      "address": "Stolen Horse Trce & Moon Rise",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17,E21,201",
+      "units": "E17,E21,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-54323"
+    }
   }
 ]
