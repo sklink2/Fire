@@ -2220,5 +2220,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54405"
     }
+  },
+  {
+    "runNumber": "54401",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-30T12:12:45.767044-04:00",
+    "address": "N Broadway & W Fourth Street",
+    "extra": {
+      "incidentNumber": "54401",
+      "run_id": "54401",
+      "address": "N Broadway & W Fourth Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01,EC6,240",
+      "units": "L01,EC6,240",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54401"
+    }
   }
 ]
