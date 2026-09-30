@@ -592,5 +592,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54332"
     }
+  },
+  {
+    "runNumber": "54333",
+    "rawCode": "FSTR",
+    "timestamp": "2026-09-30T03:47:48.997258-04:00",
+    "address": "615 Halifax Drive",
+    "extra": {
+      "incidentNumber": "54333",
+      "run_id": "54333",
+      "address": "615 Halifax Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E12,E15,E20,L04,L07,EC9,202,204,220,241,RS1",
+      "units": "E09,E12,E15,E20,L04,L07,EC9,202,204,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,202,204",
+      "dedupeKey": "INCIDENT-54333"
+    }
   }
 ]
