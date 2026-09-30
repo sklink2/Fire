@@ -1076,5 +1076,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54355"
     }
+  },
+  {
+    "runNumber": "54354",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-30T08:09:27.223036-04:00",
+    "address": "801 N Broadway",
+    "extra": {
+      "incidentNumber": "54354",
+      "run_id": "54354",
+      "address": "801 N Broadway",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,EC8,205,241,414",
+      "units": "E04,EC8,205,241,414",
+      "unitCount": "5",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241,205",
+      "dedupeKey": "INCIDENT-54354"
+    }
   }
 ]
