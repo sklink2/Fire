@@ -3672,5 +3672,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-54468"
     }
+  },
+  {
+    "runNumber": "54470",
+    "rawCode": "MED",
+    "timestamp": "2026-09-30T16:29:36.399764-04:00",
+    "address": "900 Block Aurora Avenue",
+    "extra": {
+      "incidentNumber": "54470",
+      "run_id": "54470",
+      "address": "900 Block Aurora Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC7,CRT1",
+      "units": "EC7,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54470"
+    }
   }
 ]
