@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54348"
     }
+  },
+  {
+    "runNumber": "54349",
+    "rawCode": "FVIS",
+    "timestamp": "2026-09-30T07:24:10.177541-04:00",
+    "address": "N Upper Street & W Main Street",
+    "extra": {
+      "incidentNumber": "54349",
+      "run_id": "54349",
+      "address": "N Upper Street & W Main Street",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E13,L01,EC1,205,RS1",
+      "units": "E01,E13,L01,EC1,205,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-54349"
+    }
   }
 ]
