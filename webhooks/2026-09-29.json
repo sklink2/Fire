@@ -4398,5 +4398,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-54297"
     }
+  },
+  {
+    "runNumber": "54296",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-09-29T22:41:17.958743-04:00",
+    "address": "3824 Camelot Drive",
+    "extra": {
+      "incidentNumber": "54296",
+      "run_id": "54296",
+      "address": "3824 Camelot Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22",
+      "units": "E22",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54296"
+    }
   }
 ]
