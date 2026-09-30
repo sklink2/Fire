@@ -3364,5 +3364,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54453"
     }
+  },
+  {
+    "runNumber": "54458",
+    "rawCode": "MED",
+    "timestamp": "2026-09-30T15:40:02.167713-04:00",
+    "address": "300 Block W Maxwell Street",
+    "extra": {
+      "incidentNumber": "54458",
+      "run_id": "54458",
+      "address": "300 Block W Maxwell Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10,RS1",
+      "units": "EC10,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54458"
+    }
   }
 ]
