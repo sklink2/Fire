@@ -1428,5 +1428,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54370"
     }
+  },
+  {
+    "runNumber": "54373",
+    "rawCode": "MED",
+    "timestamp": "2026-09-30T09:39:24.365232-04:00",
+    "address": "1800 Block Marlboro Drive",
+    "extra": {
+      "incidentNumber": "54373",
+      "run_id": "54373",
+      "address": "1800 Block Marlboro Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,EC3",
+      "units": "E04,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54373"
+    }
   }
 ]
