@@ -1912,5 +1912,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-54391"
     }
+  },
+  {
+    "runNumber": "54392",
+    "rawCode": "MED",
+    "timestamp": "2026-09-30T11:05:03.379400-04:00",
+    "address": "2200 Block Chamblee Lane",
+    "extra": {
+      "incidentNumber": "54392",
+      "run_id": "54392",
+      "address": "2200 Block Chamblee Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L04,EC9",
+      "units": "L04,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54392"
+    }
   }
 ]
