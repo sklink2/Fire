@@ -4464,5 +4464,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54504"
     }
+  },
+  {
+    "runNumber": "54505",
+    "rawCode": "MED",
+    "timestamp": "2026-09-30T19:47:59.578655-04:00",
+    "address": "300 Block Codell Drive",
+    "extra": {
+      "incidentNumber": "54505",
+      "run_id": "54505",
+      "address": "300 Block Codell Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54505"
+    }
   }
 ]
