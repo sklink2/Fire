@@ -4112,5 +4112,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-54488"
     }
+  },
+  {
+    "runNumber": "54489",
+    "rawCode": "MED",
+    "timestamp": "2026-09-30T18:17:47.258996-04:00",
+    "address": "1100 Block Winburn Drive",
+    "extra": {
+      "incidentNumber": "54489",
+      "run_id": "54489",
+      "address": "1100 Block Winburn Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54489"
+    }
   }
 ]
