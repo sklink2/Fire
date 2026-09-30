@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54429"
     }
+  },
+  {
+    "runNumber": "54433",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-30T14:05:21.616391-04:00",
+    "address": "2500 Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "54433",
+      "run_id": "54433",
+      "address": "2500 Harrodsburg Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FPRT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54433"
+    }
   }
 ]
