@@ -3298,5 +3298,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54451"
     }
+  },
+  {
+    "runNumber": "54455",
+    "rawCode": "FNGL",
+    "timestamp": "2026-09-30T15:26:32.663919-04:00",
+    "address": "128 Clyde Street",
+    "extra": {
+      "incidentNumber": "54455",
+      "run_id": "54455",
+      "address": "128 Clyde Street",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,E13,EC6,205,220",
+      "units": "E10,E13,EC6,205,220",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-54455"
+    }
   }
 ]
