@@ -3716,5 +3716,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54471"
     }
+  },
+  {
+    "runNumber": "54468",
+    "rawCode": "FBERTH",
+    "timestamp": "2026-09-30T16:34:10.374639-04:00",
+    "address": "Versailles / Woodford Co Line",
+    "extra": {
+      "incidentNumber": "54468",
+      "run_id": "54468",
+      "address": "Versailles / Woodford Co Line",
+      "rawType": "FBERTH",
+      "typeCode": "FBERTH",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,E21,T1,203,230",
+      "units": "E14,E21,T1,203,230",
+      "unitCount": "5",
+      "primaryTopic": "FBERTH",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-54468"
+    }
   }
 ]
