@@ -2440,5 +2440,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-54408"
     }
+  },
+  {
+    "runNumber": "54415",
+    "rawCode": "FVEA",
+    "timestamp": "2026-09-30T12:57:45.302357-04:00",
+    "address": "4000 Leestown Road",
+    "extra": {
+      "incidentNumber": "54415",
+      "run_id": "54415",
+      "address": "4000 Leestown Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,EC1",
+      "units": "E13,EC1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54415"
+    }
   }
 ]
