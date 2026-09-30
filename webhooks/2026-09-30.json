@@ -174,5 +174,27 @@
       "commandUnits": "220,202",
       "dedupeKey": "INCIDENT-54313"
     }
+  },
+  {
+    "runNumber": "54314",
+    "rawCode": "MED",
+    "timestamp": "2026-09-30T01:09:58.743431-04:00",
+    "address": "3500 Block Laredo Drive",
+    "extra": {
+      "incidentNumber": "54314",
+      "run_id": "54314",
+      "address": "3500 Block Laredo Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54314"
+    }
   }
 ]
