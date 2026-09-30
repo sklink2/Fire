@@ -4398,5 +4398,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-54502"
     }
+  },
+  {
+    "runNumber": "54501",
+    "rawCode": "FBGL",
+    "timestamp": "2026-09-30T19:16:31.664752-04:00",
+    "address": "769 Dakota Street",
+    "extra": {
+      "incidentNumber": "54501",
+      "run_id": "54501",
+      "address": "769 Dakota Street",
+      "rawType": "FBGL",
+      "typeCode": "FBGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "FBGL",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54501"
+    }
   }
 ]
