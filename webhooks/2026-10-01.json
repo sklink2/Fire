@@ -2748,5 +2748,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-54665"
     }
+  },
+  {
+    "runNumber": "54664",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-01T16:34:53.420812-04:00",
+    "address": "E New Circle Road & Nicholasvill",
+    "extra": {
+      "incidentNumber": "54664",
+      "run_id": "54664",
+      "address": "E New Circle Road & Nicholasvill",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54664"
+    }
   }
 ]
