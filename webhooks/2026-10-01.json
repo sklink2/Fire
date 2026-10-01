@@ -2264,5 +2264,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54642"
     }
+  },
+  {
+    "runNumber": "54644",
+    "rawCode": "MED",
+    "timestamp": "2026-10-01T15:21:14.972856-04:00",
+    "address": "2000 Block Von List Way",
+    "extra": {
+      "incidentNumber": "54644",
+      "run_id": "54644",
+      "address": "2000 Block Von List Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54644"
+    }
   }
 ]
