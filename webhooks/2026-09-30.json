@@ -4794,5 +4794,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54518"
     }
+  },
+  {
+    "runNumber": "54519",
+    "rawCode": "FSIA",
+    "timestamp": "2026-09-30T21:18:13.004161-04:00",
+    "address": "Haley Road & Rockwell Road",
+    "extra": {
+      "incidentNumber": "54519",
+      "run_id": "54519",
+      "address": "Haley Road & Rockwell Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,E23,201",
+      "units": "E17,E23,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-54519"
+    }
   }
 ]
