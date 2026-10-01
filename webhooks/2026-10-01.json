@@ -2132,5 +2132,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54636"
     }
+  },
+  {
+    "runNumber": "54637",
+    "rawCode": "MED",
+    "timestamp": "2026-10-01T14:30:39.615130-04:00",
+    "address": "100 Block Cisco Road",
+    "extra": {
+      "incidentNumber": "54637",
+      "run_id": "54637",
+      "address": "100 Block Cisco Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,L05,EC8,201",
+      "units": "E02,L05,EC8,201",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-54637"
+    }
   }
 ]
