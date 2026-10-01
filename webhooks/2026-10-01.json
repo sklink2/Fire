@@ -306,5 +306,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54551"
     }
+  },
+  {
+    "runNumber": "54552",
+    "rawCode": "FSTR",
+    "timestamp": "2026-10-01T02:56:24.181796-04:00",
+    "address": "741 Price Avenue",
+    "extra": {
+      "incidentNumber": "54552",
+      "run_id": "54552",
+      "address": "741 Price Avenue",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E04,E08,E13,L01,L03,EC3,EC6,201,205,220,241,RS1",
+      "units": "E01,E04,E08,E13,L01,L03,EC3,EC6,201,205,220,241,RS1",
+      "unitCount": "13",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,205",
+      "dedupeKey": "INCIDENT-54552"
+    }
   }
 ]
