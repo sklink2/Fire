@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54647"
     }
+  },
+  {
+    "runNumber": "54646",
+    "rawCode": "FOTS",
+    "timestamp": "2026-10-01T15:24:38.667218-04:00",
+    "address": "1530 Roanoke Road",
+    "extra": {
+      "incidentNumber": "54646",
+      "run_id": "54646",
+      "address": "1530 Roanoke Road",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54646"
+    }
   }
 ]
