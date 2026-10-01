@@ -3188,5 +3188,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54683"
     }
+  },
+  {
+    "runNumber": "54684",
+    "rawCode": "MED",
+    "timestamp": "2026-10-01T18:01:39.939038-04:00",
+    "address": "700 Block Manchester Street",
+    "extra": {
+      "incidentNumber": "54684",
+      "run_id": "54684",
+      "address": "700 Block Manchester Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10,RS1",
+      "units": "EC10,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54684"
+    }
   }
 ]
