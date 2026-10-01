@@ -1714,5 +1714,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54619"
     }
+  },
+  {
+    "runNumber": "54618",
+    "rawCode": "MED",
+    "timestamp": "2026-10-01T12:55:59.807077-04:00",
+    "address": "200 Block Riviera Court",
+    "extra": {
+      "incidentNumber": "54618",
+      "run_id": "54618",
+      "address": "200 Block Riviera Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC11",
+      "units": "E02,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54618"
+    }
   }
 ]
