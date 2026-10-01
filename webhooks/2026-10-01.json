@@ -240,5 +240,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54549"
     }
+  },
+  {
+    "runNumber": "54548",
+    "rawCode": "MED",
+    "timestamp": "2026-10-01T02:11:18.170350-04:00",
+    "address": "1800 Block Old Paris Road",
+    "extra": {
+      "incidentNumber": "54548",
+      "run_id": "54548",
+      "address": "1800 Block Old Paris Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC6",
+      "units": "E08,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54548"
+    }
   }
 ]
