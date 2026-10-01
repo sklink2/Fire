@@ -2594,5 +2594,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-54656"
     }
+  },
+  {
+    "runNumber": "54658",
+    "rawCode": "FSTR",
+    "timestamp": "2026-10-01T16:11:27.988279-04:00",
+    "address": "2885 Winter Garden",
+    "extra": {
+      "incidentNumber": "54658",
+      "run_id": "54658",
+      "address": "2885 Winter Garden",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E12,E15,E16,L06,L07,EC2,EC7,205,220,241,RS1",
+      "units": "E07,E12,E15,E16,L06,L07,EC2,EC7,205,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,205",
+      "dedupeKey": "INCIDENT-54658"
+    }
   }
 ]
