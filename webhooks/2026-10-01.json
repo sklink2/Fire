@@ -394,5 +394,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-54555"
     }
+  },
+  {
+    "runNumber": "54556",
+    "rawCode": "MED",
+    "timestamp": "2026-10-01T04:31:00.959871-04:00",
+    "address": "Monticello Boulevard & Boston Road",
+    "extra": {
+      "incidentNumber": "54556",
+      "run_id": "54556",
+      "address": "Monticello Boulevard & Boston Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15",
+      "units": "E15",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54556"
+    }
   }
 ]
