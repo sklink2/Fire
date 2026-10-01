@@ -3210,5 +3210,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54684"
     }
+  },
+  {
+    "runNumber": "54685",
+    "rawCode": "MED",
+    "timestamp": "2026-10-01T18:08:23.030568-04:00",
+    "address": "2600 Block Ruby River Drive",
+    "extra": {
+      "incidentNumber": "54685",
+      "run_id": "54685",
+      "address": "2600 Block Ruby River Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC6,241",
+      "units": "E24,EC6,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-54685"
+    }
   }
 ]
