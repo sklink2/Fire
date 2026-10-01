@@ -174,5 +174,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54544"
     }
+  },
+  {
+    "runNumber": "54546",
+    "rawCode": "MED",
+    "timestamp": "2026-10-01T01:53:11.339514-04:00",
+    "address": "1300 Block Dale Drive",
+    "extra": {
+      "incidentNumber": "54546",
+      "run_id": "54546",
+      "address": "1300 Block Dale Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54546"
+    }
   }
 ]
