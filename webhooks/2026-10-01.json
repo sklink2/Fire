@@ -2572,5 +2572,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54657"
     }
+  },
+  {
+    "runNumber": "54656",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-01T16:08:07.320817-04:00",
+    "address": "2370 Lake Park Road",
+    "extra": {
+      "incidentNumber": "54656",
+      "run_id": "54656",
+      "address": "2370 Lake Park Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E09,E21,L05,202",
+      "units": "E02,E09,E21,L05,202",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-54656"
+    }
   }
 ]
