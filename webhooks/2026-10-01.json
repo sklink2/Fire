@@ -3408,5 +3408,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-54693"
     }
+  },
+  {
+    "runNumber": "54694",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-01T19:28:34.839896-04:00",
+    "address": "2171 Christian Road",
+    "extra": {
+      "incidentNumber": "54694",
+      "run_id": "54694",
+      "address": "2171 Christian Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E21,201",
+      "units": "E02,E21,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-54694"
+    }
   }
 ]
