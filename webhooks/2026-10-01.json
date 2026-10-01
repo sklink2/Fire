@@ -1846,5 +1846,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54622"
     }
+  },
+  {
+    "runNumber": "54621",
+    "rawCode": "MED",
+    "timestamp": "2026-10-01T13:09:34.384550-04:00",
+    "address": "1100 Block Oatlands Park",
+    "extra": {
+      "incidentNumber": "54621",
+      "run_id": "54621",
+      "address": "1100 Block Oatlands Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC13",
+      "units": "E21,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54621"
+    }
   }
 ]
