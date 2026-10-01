@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54621"
     }
+  },
+  {
+    "runNumber": "54625",
+    "rawCode": "FMEA",
+    "timestamp": "2026-10-01T13:22:59.143653-04:00",
+    "address": "749 W Main Street",
+    "extra": {
+      "incidentNumber": "54625",
+      "run_id": "54625",
+      "address": "749 W Main Street",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54625"
+    }
   }
 ]
