@@ -2726,5 +2726,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54663"
     }
+  },
+  {
+    "runNumber": "54665",
+    "rawCode": "FVIS",
+    "timestamp": "2026-10-01T16:34:48.700992-04:00",
+    "address": "1601 Maywick View Lane",
+    "extra": {
+      "incidentNumber": "54665",
+      "run_id": "54665",
+      "address": "1601 Maywick View Lane",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,E14,L04,EC5,204",
+      "units": "E12,E14,L04,EC5,204",
+      "unitCount": "5",
+      "primaryTopic": "FVIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-54665"
+    }
   }
 ]
