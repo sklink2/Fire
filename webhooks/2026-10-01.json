@@ -372,5 +372,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54553"
     }
+  },
+  {
+    "runNumber": "54555",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-01T03:59:28.964717-04:00",
+    "address": "W Main Street & N Broadway",
+    "extra": {
+      "incidentNumber": "54555",
+      "run_id": "54555",
+      "address": "W Main Street & N Broadway",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10,241,RS1",
+      "units": "EC10,241,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-54555"
+    }
   }
 ]
