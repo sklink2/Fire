@@ -108,5 +108,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-54542"
     }
+  },
+  {
+    "runNumber": "54543",
+    "rawCode": "MED",
+    "timestamp": "2026-10-01T01:03:35.296555-04:00",
+    "address": "Harry Street & W Seventh Street",
+    "extra": {
+      "incidentNumber": "54543",
+      "run_id": "54543",
+      "address": "Harry Street & W Seventh Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54543"
+    }
   }
 ]
