@@ -1076,5 +1076,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-54586"
     }
+  },
+  {
+    "runNumber": "54588",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-01T10:00:07.517450-04:00",
+    "address": "316 Harvard Drive",
+    "extra": {
+      "incidentNumber": "54588",
+      "run_id": "54588",
+      "address": "316 Harvard Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC4",
+      "units": "E15,EC4",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54588"
+    }
   }
 ]
