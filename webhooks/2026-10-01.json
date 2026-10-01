@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54666"
     }
+  },
+  {
+    "runNumber": "54670",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-01T16:54:52.561945-04:00",
+    "address": "2773 Goldenrod Lane",
+    "extra": {
+      "incidentNumber": "54670",
+      "run_id": "54670",
+      "address": "2773 Goldenrod Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,E24,L03,203",
+      "units": "E10,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-54670"
+    }
   }
 ]
