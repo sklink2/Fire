@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54609"
     }
+  },
+  {
+    "runNumber": "54610",
+    "rawCode": "MED",
+    "timestamp": "2026-10-01T12:33:23.413991-04:00",
+    "address": "600 Block Pebble Creek Drive",
+    "extra": {
+      "incidentNumber": "54610",
+      "run_id": "54610",
+      "address": "600 Block Pebble Creek Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54610"
+    }
   }
 ]
