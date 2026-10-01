@@ -2550,5 +2550,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-54655"
     }
+  },
+  {
+    "runNumber": "54657",
+    "rawCode": "MED",
+    "timestamp": "2026-10-01T16:08:03.466837-04:00",
+    "address": "200 Block Price Road",
+    "extra": {
+      "incidentNumber": "54657",
+      "run_id": "54657",
+      "address": "200 Block Price Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13",
+      "units": "E13",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54657"
+    }
   }
 ]
