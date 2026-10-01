@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54579"
     }
+  },
+  {
+    "runNumber": "54582",
+    "rawCode": "MED",
+    "timestamp": "2026-10-01T09:28:34.871114-04:00",
+    "address": "3100 Block Combs Ferry Road",
+    "extra": {
+      "incidentNumber": "54582",
+      "run_id": "54582",
+      "address": "3100 Block Combs Ferry Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54582"
+    }
   }
 ]
