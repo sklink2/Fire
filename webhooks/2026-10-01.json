@@ -3166,5 +3166,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54682"
     }
+  },
+  {
+    "runNumber": "54683",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-01T17:58:19.679601-04:00",
+    "address": "4024 Weber Way",
+    "extra": {
+      "incidentNumber": "54683",
+      "run_id": "54683",
+      "address": "4024 Weber Way",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54683"
+    }
   }
 ]
