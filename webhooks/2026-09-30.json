@@ -4574,5 +4574,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54508"
     }
+  },
+  {
+    "runNumber": "54510",
+    "rawCode": "FPRT",
+    "timestamp": "2026-09-30T20:28:44.871804-04:00",
+    "address": "320 Preston Avenue",
+    "extra": {
+      "incidentNumber": "54510",
+      "run_id": "54510",
+      "address": "320 Preston Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E09,L02,205",
+      "units": "E05,E09,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-54510"
+    }
   }
 ]
