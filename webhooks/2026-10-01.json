@@ -3518,5 +3518,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54697"
     }
+  },
+  {
+    "runNumber": "54696",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-01T19:45:30.143701-04:00",
+    "address": "1333 Centre Parkway",
+    "extra": {
+      "incidentNumber": "54696",
+      "run_id": "54696",
+      "address": "1333 Centre Parkway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E16,L06,202",
+      "units": "E09,E16,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-54696"
+    }
   }
 ]
