@@ -1054,5 +1054,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54585"
     }
+  },
+  {
+    "runNumber": "54586",
+    "rawCode": "FELS",
+    "timestamp": "2026-10-01T09:55:38.034871-04:00",
+    "address": "866 Malabu Drive",
+    "extra": {
+      "incidentNumber": "54586",
+      "run_id": "54586",
+      "address": "866 Malabu Drive",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,L07,201",
+      "units": "E09,L07,201",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-54586"
+    }
   }
 ]
