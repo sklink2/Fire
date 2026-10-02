@@ -1296,5 +1296,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-54801"
     }
+  },
+  {
+    "runNumber": "54802",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-02T10:04:09.829957-04:00",
+    "address": "Richmond Road & E New Circle Ram",
+    "extra": {
+      "incidentNumber": "54802",
+      "run_id": "54802",
+      "address": "Richmond Road & E New Circle Ram",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54802"
+    }
   }
 ]
