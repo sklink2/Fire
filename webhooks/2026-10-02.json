@@ -3782,5 +3782,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54911"
     }
+  },
+  {
+    "runNumber": "54912",
+    "rawCode": "FELS",
+    "timestamp": "2026-10-02T18:58:52.492851-04:00",
+    "address": "344 S Martin Luther King Boulevard",
+    "extra": {
+      "incidentNumber": "54912",
+      "run_id": "54912",
+      "address": "344 S Martin Luther King Boulevard",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L02,205,RS1",
+      "units": "L02,205,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-54912"
+    }
   }
 ]
