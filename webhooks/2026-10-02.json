@@ -3848,5 +3848,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54914"
     }
+  },
+  {
+    "runNumber": "54915",
+    "rawCode": "MED",
+    "timestamp": "2026-10-02T19:22:16.814052-04:00",
+    "address": "3300 Block Squire Creek Way",
+    "extra": {
+      "incidentNumber": "54915",
+      "run_id": "54915",
+      "address": "3300 Block Squire Creek Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,EC2",
+      "units": "E16,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54915"
+    }
   }
 ]
