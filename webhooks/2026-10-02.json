@@ -2748,5 +2748,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-54865"
     }
+  },
+  {
+    "runNumber": "54864",
+    "rawCode": "MED",
+    "timestamp": "2026-10-02T15:08:19.715218-04:00",
+    "address": "1000 Block Fisk Court",
+    "extra": {
+      "incidentNumber": "54864",
+      "run_id": "54864",
+      "address": "1000 Block Fisk Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54864"
+    }
   }
 ]
