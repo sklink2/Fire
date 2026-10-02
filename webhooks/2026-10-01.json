@@ -3892,5 +3892,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54714"
     }
+  },
+  {
+    "runNumber": "54713",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-01T21:18:58.551835-04:00",
+    "address": "3712 Wembley Lane",
+    "extra": {
+      "incidentNumber": "54713",
+      "run_id": "54713",
+      "address": "3712 Wembley Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E16,L07,202",
+      "units": "E09,E16,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-54713"
+    }
   }
 ]
