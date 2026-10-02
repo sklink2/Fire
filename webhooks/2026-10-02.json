@@ -1824,5 +1824,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-54823"
     }
+  },
+  {
+    "runNumber": "54824",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-02T12:21:11.969175-04:00",
+    "address": "1050 Della Drive",
+    "extra": {
+      "incidentNumber": "54824",
+      "run_id": "54824",
+      "address": "1050 Della Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E14,L04,205",
+      "units": "E01,E14,L04,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-54824"
+    }
   }
 ]
