@@ -1604,5 +1604,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54814"
     }
+  },
+  {
+    "runNumber": "54816",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-02T11:54:25.913840-04:00",
+    "address": "Tates Creek Road & Man O War Blv",
+    "extra": {
+      "incidentNumber": "54816",
+      "run_id": "54816",
+      "address": "Tates Creek Road & Man O War Blv",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,E16,202",
+      "units": "E15,E16,202",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-54816"
+    }
   }
 ]
