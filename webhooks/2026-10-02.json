@@ -3914,5 +3914,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54918"
     }
+  },
+  {
+    "runNumber": "54917",
+    "rawCode": "MED",
+    "timestamp": "2026-10-02T19:32:18.818090-04:00",
+    "address": "200 Block Chippendale Circle",
+    "extra": {
+      "incidentNumber": "54917",
+      "run_id": "54917",
+      "address": "200 Block Chippendale Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC11",
+      "units": "E02,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54917"
+    }
   }
 ]
