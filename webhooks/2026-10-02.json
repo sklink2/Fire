@@ -3144,5 +3144,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54882"
     }
+  },
+  {
+    "runNumber": "54883",
+    "rawCode": "MED",
+    "timestamp": "2026-10-02T16:35:08.820759-04:00",
+    "address": "2500 Block Abbeywood Place",
+    "extra": {
+      "incidentNumber": "54883",
+      "run_id": "54883",
+      "address": "2500 Block Abbeywood Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54883"
+    }
   }
 ]
