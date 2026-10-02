@@ -3430,5 +3430,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54896"
     }
+  },
+  {
+    "runNumber": "54895",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-02T17:48:44.802446-04:00",
+    "address": "Liberty Road & E New Circle Road",
+    "extra": {
+      "incidentNumber": "54895",
+      "run_id": "54895",
+      "address": "Liberty Road & E New Circle Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E21,201",
+      "units": "E02,E21,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-54895"
+    }
   }
 ]
