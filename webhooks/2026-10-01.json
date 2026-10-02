@@ -3738,5 +3738,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54707"
     }
+  },
+  {
+    "runNumber": "54708",
+    "rawCode": "MED",
+    "timestamp": "2026-10-01T20:52:09.217240-04:00",
+    "address": "1500 Block Conservation Way",
+    "extra": {
+      "incidentNumber": "54708",
+      "run_id": "54708",
+      "address": "1500 Block Conservation Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC11,201",
+      "units": "E21,EC11,201",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-54708"
+    }
   }
 ]
