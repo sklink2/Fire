@@ -1978,5 +1978,27 @@
       "commandUnits": "220,202",
       "dedupeKey": "INCIDENT-54829"
     }
+  },
+  {
+    "runNumber": "54831",
+    "rawCode": "MED",
+    "timestamp": "2026-10-02T12:57:54.718336-04:00",
+    "address": "3300 Block Commodore Drive",
+    "extra": {
+      "incidentNumber": "54831",
+      "run_id": "54831",
+      "address": "3300 Block Commodore Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,EC4",
+      "units": "E07,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54831"
+    }
   }
 ]
