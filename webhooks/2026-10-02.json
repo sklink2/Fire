@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54830"
     }
+  },
+  {
+    "runNumber": "54829",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-02T12:51:23.462975-04:00",
+    "address": "3901 Rapid Run Drive",
+    "extra": {
+      "incidentNumber": "54829",
+      "run_id": "54829",
+      "address": "3901 Rapid Run Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,E22,L06,EC13,202,220",
+      "units": "E16,E22,L06,EC13,202,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-54829"
+    }
   }
 ]
