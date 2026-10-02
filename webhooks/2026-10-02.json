@@ -1560,5 +1560,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-54811"
     }
+  },
+  {
+    "runNumber": "54813",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-10-02T11:44:24.166657-04:00",
+    "address": "1349 Centre Parkway",
+    "extra": {
+      "incidentNumber": "54813",
+      "run_id": "54813",
+      "address": "1349 Centre Parkway",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07",
+      "units": "E07",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54813"
+    }
   }
 ]
