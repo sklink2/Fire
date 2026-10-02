@@ -834,5 +834,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54778"
     }
+  },
+  {
+    "runNumber": "54777",
+    "rawCode": "MED",
+    "timestamp": "2026-10-02T06:53:41.005979-04:00",
+    "address": "100 Block Montmullin Street",
+    "extra": {
+      "incidentNumber": "54777",
+      "run_id": "54777",
+      "address": "100 Block Montmullin Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54777"
+    }
   }
 ]
