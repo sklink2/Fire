@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54772"
     }
+  },
+  {
+    "runNumber": "54773",
+    "rawCode": "MED",
+    "timestamp": "2026-10-02T06:13:34.773234-04:00",
+    "address": "800 Block Old Todds Road",
+    "extra": {
+      "incidentNumber": "54773",
+      "run_id": "54773",
+      "address": "800 Block Old Todds Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54773"
+    }
   }
 ]
