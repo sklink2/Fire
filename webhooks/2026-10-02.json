@@ -2220,5 +2220,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54841"
     }
+  },
+  {
+    "runNumber": "54842",
+    "rawCode": "MED",
+    "timestamp": "2026-10-02T13:24:39.490880-04:00",
+    "address": "Newtown Pike & W Second Street",
+    "extra": {
+      "incidentNumber": "54842",
+      "run_id": "54842",
+      "address": "Newtown Pike & W Second Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,EC1,CRT1",
+      "units": "E13,EC1,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54842"
+    }
   }
 ]
