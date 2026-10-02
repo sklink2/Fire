@@ -3826,5 +3826,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54711"
     }
+  },
+  {
+    "runNumber": "54712",
+    "rawCode": "FELF",
+    "timestamp": "2026-10-01T21:15:32.992363-04:00",
+    "address": "843 S Broadway",
+    "extra": {
+      "incidentNumber": "54712",
+      "run_id": "54712",
+      "address": "843 S Broadway",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E11,L01,204",
+      "units": "E06,E11,L01,204",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-54712"
+    }
   }
 ]
