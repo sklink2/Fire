@@ -636,5 +636,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54767"
     }
+  },
+  {
+    "runNumber": "54769",
+    "rawCode": "MED",
+    "timestamp": "2026-10-02T05:46:50.993862-04:00",
+    "address": "400 Block Granard Avenue",
+    "extra": {
+      "incidentNumber": "54769",
+      "run_id": "54769",
+      "address": "400 Block Granard Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54769"
+    }
   }
 ]
