@@ -1846,5 +1846,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-54824"
     }
+  },
+  {
+    "runNumber": "54826",
+    "rawCode": "MED",
+    "timestamp": "2026-10-02T12:24:30.444250-04:00",
+    "address": "1700 Block Elverton Road",
+    "extra": {
+      "incidentNumber": "54826",
+      "run_id": "54826",
+      "address": "1700 Block Elverton Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54826"
+    }
   }
 ]
