@@ -3716,5 +3716,27 @@
       "commandUnits": "220,201",
       "dedupeKey": "INCIDENT-54706"
     }
+  },
+  {
+    "runNumber": "54707",
+    "rawCode": "MED",
+    "timestamp": "2026-10-01T20:42:05.723538-04:00",
+    "address": "2100 Block Allegheny Way",
+    "extra": {
+      "incidentNumber": "54707",
+      "run_id": "54707",
+      "address": "2100 Block Allegheny Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54707"
+    }
   }
 ]
