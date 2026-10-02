@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54787"
     }
+  },
+  {
+    "runNumber": "54786",
+    "rawCode": "MED",
+    "timestamp": "2026-10-02T08:27:18.318971-04:00",
+    "address": "1300 Block Silver Springs Drive",
+    "extra": {
+      "incidentNumber": "54786",
+      "run_id": "54786",
+      "address": "1300 Block Silver Springs Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L03,EC10",
+      "units": "L03,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54786"
+    }
   }
 ]
