@@ -4134,5 +4134,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54725"
     }
+  },
+  {
+    "runNumber": "54727",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-01T22:05:42.924418-04:00",
+    "address": "704 Whitney Woods Place",
+    "extra": {
+      "incidentNumber": "54727",
+      "run_id": "54727",
+      "address": "704 Whitney Woods Place",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E13,L01,EC5,203,220",
+      "units": "E06,E13,L01,EC5,203,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,203",
+      "dedupeKey": "INCIDENT-54727"
+    }
   }
 ]
