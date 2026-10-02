@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54781"
     }
+  },
+  {
+    "runNumber": "54782",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-02T08:07:10.944887-04:00",
+    "address": "1210 Lakewood Drive",
+    "extra": {
+      "incidentNumber": "54782",
+      "run_id": "54782",
+      "address": "1210 Lakewood Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07",
+      "units": "E07",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54782"
+    }
   }
 ]
