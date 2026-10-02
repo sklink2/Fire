@@ -2902,5 +2902,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54871"
     }
+  },
+  {
+    "runNumber": "54872",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-10-02T15:48:23.161666-04:00",
+    "address": "7090 Athens Boonesboro Road",
+    "extra": {
+      "incidentNumber": "54872",
+      "run_id": "54872",
+      "address": "7090 Athens Boonesboro Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E18,L06,EC8,201,241,RS1",
+      "units": "E18,L06,EC8,201,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-54872"
+    }
   }
 ]
