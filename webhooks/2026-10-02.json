@@ -3562,5 +3562,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-54901"
     }
+  },
+  {
+    "runNumber": "54902",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-02T18:22:06.835399-04:00",
+    "address": "1125 Lantern Creek Court",
+    "extra": {
+      "incidentNumber": "54902",
+      "run_id": "54902",
+      "address": "1125 Lantern Creek Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E22,L04,204",
+      "units": "E09,E22,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-54902"
+    }
   }
 ]
