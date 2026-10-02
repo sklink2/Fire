@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54769"
     }
+  },
+  {
+    "runNumber": "54770",
+    "rawCode": "MED",
+    "timestamp": "2026-10-02T05:56:51.960845-04:00",
+    "address": "300 Block Princess Arch Lane",
+    "extra": {
+      "incidentNumber": "54770",
+      "run_id": "54770",
+      "address": "300 Block Princess Arch Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54770"
+    }
   }
 ]
