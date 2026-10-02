@@ -1626,5 +1626,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-54816"
     }
+  },
+  {
+    "runNumber": "54815",
+    "rawCode": "MED",
+    "timestamp": "2026-10-02T11:54:29.132743-04:00",
+    "address": "900 Block Charwood Drive",
+    "extra": {
+      "incidentNumber": "54815",
+      "run_id": "54815",
+      "address": "900 Block Charwood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC2",
+      "units": "E22,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54815"
+    }
   }
 ]
