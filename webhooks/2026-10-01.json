@@ -3694,5 +3694,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54705"
     }
+  },
+  {
+    "runNumber": "54706",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-01T20:28:47.992353-04:00",
+    "address": "125 Street Phillip Drive",
+    "extra": {
+      "incidentNumber": "54706",
+      "run_id": "54706",
+      "address": "125 Street Phillip Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E09,L02,EC4,201,220",
+      "units": "E02,E09,L02,EC4,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-54706"
+    }
   }
 ]
