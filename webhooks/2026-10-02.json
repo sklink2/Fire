@@ -1714,5 +1714,27 @@
       "commandUnits": "241,220,202,204",
       "dedupeKey": "INCIDENT-54816"
     }
+  },
+  {
+    "runNumber": "54819",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-02T12:11:07.836161-04:00",
+    "address": "4029 Palomar Boulevard",
+    "extra": {
+      "incidentNumber": "54819",
+      "run_id": "54819",
+      "address": "4029 Palomar Boulevard",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54819"
+    }
   }
 ]
