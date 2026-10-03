@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55043"
     }
+  },
+  {
+    "runNumber": "55042",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-03T10:57:59.946320-04:00",
+    "address": "3182 Georgetown Road",
+    "extra": {
+      "incidentNumber": "55042",
+      "run_id": "55042",
+      "address": "3182 Georgetown Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "T1,EC3",
+      "units": "T1,EC3",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55042"
+    }
   }
 ]
