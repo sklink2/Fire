@@ -2484,5 +2484,27 @@
       "commandUnits": "220,205",
       "dedupeKey": "INCIDENT-55069"
     }
+  },
+  {
+    "runNumber": "55068",
+    "rawCode": "MED",
+    "timestamp": "2026-10-03T13:25:12.843533-04:00",
+    "address": "3200 Block Valhalla Drive",
+    "extra": {
+      "incidentNumber": "55068",
+      "run_id": "55068",
+      "address": "3200 Block Valhalla Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC2",
+      "units": "E21,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55068"
+    }
   }
 ]
