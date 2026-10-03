@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55077"
     }
+  },
+  {
+    "runNumber": "55079",
+    "rawCode": "MED",
+    "timestamp": "2026-10-03T14:11:47.998522-04:00",
+    "address": "300 Block Valley Brook Drive",
+    "extra": {
+      "incidentNumber": "55079",
+      "run_id": "55079",
+      "address": "300 Block Valley Brook Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC3",
+      "units": "E24,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55079"
+    }
   }
 ]
