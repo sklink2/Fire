@@ -2704,5 +2704,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55079"
     }
+  },
+  {
+    "runNumber": "55078",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-03T14:11:54.631084-04:00",
+    "address": "3660 Boston Road",
+    "extra": {
+      "incidentNumber": "55078",
+      "run_id": "55078",
+      "address": "3660 Boston Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,E20,L04,EC9,202,220",
+      "units": "E15,E20,L04,EC9,202,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-55078"
+    }
   }
 ]
