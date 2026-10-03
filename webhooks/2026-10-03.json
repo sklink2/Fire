@@ -262,5 +262,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54967"
     }
+  },
+  {
+    "runNumber": "54968",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-03T01:56:34.867402-04:00",
+    "address": "1750 Pleasant Ridge Drive",
+    "extra": {
+      "incidentNumber": "54968",
+      "run_id": "54968",
+      "address": "1750 Pleasant Ridge Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,L06",
+      "units": "E21,L06",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54968"
+    }
   }
 ]
