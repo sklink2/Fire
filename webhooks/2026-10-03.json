@@ -2154,5 +2154,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55053"
     }
+  },
+  {
+    "runNumber": "55055",
+    "rawCode": "MED",
+    "timestamp": "2026-10-03T12:21:30.150628-04:00",
+    "address": "300 Block Lakeshore Drive",
+    "extra": {
+      "incidentNumber": "55055",
+      "run_id": "55055",
+      "address": "300 Block Lakeshore Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55055"
+    }
   }
 ]
