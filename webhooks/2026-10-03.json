@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54970"
     }
+  },
+  {
+    "runNumber": "54972",
+    "rawCode": "MED",
+    "timestamp": "2026-10-03T02:23:19.652937-04:00",
+    "address": "1000 Block Marco Lane",
+    "extra": {
+      "incidentNumber": "54972",
+      "run_id": "54972",
+      "address": "1000 Block Marco Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,EC2",
+      "units": "E21,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54972"
+    }
   }
 ]
