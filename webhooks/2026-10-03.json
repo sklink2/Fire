@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55030"
     }
+  },
+  {
+    "runNumber": "55032",
+    "rawCode": "MED",
+    "timestamp": "2026-10-03T10:27:55.548795-04:00",
+    "address": "600 Block Ohio Street",
+    "extra": {
+      "incidentNumber": "55032",
+      "run_id": "55032",
+      "address": "600 Block Ohio Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC10,EC11,205,241,RS1",
+      "units": "E21,EC10,EC11,205,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,205",
+      "dedupeKey": "INCIDENT-55032"
+    }
   }
 ]
