@@ -1934,5 +1934,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55044"
     }
+  },
+  {
+    "runNumber": "55045",
+    "rawCode": "MED",
+    "timestamp": "2026-10-03T11:17:59.789691-04:00",
+    "address": "2400 Block Dittany Lane",
+    "extra": {
+      "incidentNumber": "55045",
+      "run_id": "55045",
+      "address": "2400 Block Dittany Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC10",
+      "units": "E24,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55045"
+    }
   }
 ]
