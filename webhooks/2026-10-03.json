@@ -1032,5 +1032,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55002"
     }
+  },
+  {
+    "runNumber": "55003",
+    "rawCode": "MED",
+    "timestamp": "2026-10-03T07:37:27.184588-04:00",
+    "address": "400 Block Southridge Drive",
+    "extra": {
+      "incidentNumber": "55003",
+      "run_id": "55003",
+      "address": "400 Block Southridge Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC8",
+      "units": "E08,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55003"
+    }
   }
 ]
