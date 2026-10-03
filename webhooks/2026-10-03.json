@@ -944,5 +944,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-54998"
     }
+  },
+  {
+    "runNumber": "54999",
+    "rawCode": "MED",
+    "timestamp": "2026-10-03T07:07:24.448930-04:00",
+    "address": "1800 Block Gerald Drive",
+    "extra": {
+      "incidentNumber": "54999",
+      "run_id": "54999",
+      "address": "1800 Block Gerald Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54999"
+    }
   }
 ]
