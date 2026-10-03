@@ -4464,5 +4464,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-54942"
     }
+  },
+  {
+    "runNumber": "54941",
+    "rawCode": "MED",
+    "timestamp": "2026-10-02T21:52:43.945201-04:00",
+    "address": "200 Block E Seventh Street",
+    "extra": {
+      "incidentNumber": "54941",
+      "run_id": "54941",
+      "address": "200 Block E Seventh Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L01,EC1",
+      "units": "L01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54941"
+    }
   }
 ]
