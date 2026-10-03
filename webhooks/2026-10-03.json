@@ -614,5 +614,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54983"
     }
+  },
+  {
+    "runNumber": "54984",
+    "rawCode": "MED",
+    "timestamp": "2026-10-03T03:53:31.418861-04:00",
+    "address": "1000 Block Lemon Rue Way",
+    "extra": {
+      "incidentNumber": "54984",
+      "run_id": "54984",
+      "address": "1000 Block Lemon Rue Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC13",
+      "units": "E22,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54984"
+    }
   }
 ]
