@@ -4244,5 +4244,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54932"
     }
+  },
+  {
+    "runNumber": "54933",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-02T21:02:32.660059-04:00",
+    "address": "3082 Clair Road",
+    "extra": {
+      "incidentNumber": "54933",
+      "run_id": "54933",
+      "address": "3082 Clair Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,E21,L07,202",
+      "units": "E07,E21,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-54933"
+    }
   }
 ]
