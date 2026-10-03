@@ -2814,5 +2814,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-55083"
     }
+  },
+  {
+    "runNumber": "55084",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-03T14:51:47.121628-04:00",
+    "address": "340 Hilltop Avenue",
+    "extra": {
+      "incidentNumber": "55084",
+      "run_id": "55084",
+      "address": "340 Hilltop Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E06,E11,L02,204",
+      "units": "E05,E06,E11,L02,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-55084"
+    }
   }
 ]
