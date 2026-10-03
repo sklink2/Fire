@@ -3254,5 +3254,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55102"
     }
+  },
+  {
+    "runNumber": "55104",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-10-03T16:08:41.007074-04:00",
+    "address": "318 Southland Drive",
+    "extra": {
+      "incidentNumber": "55104",
+      "run_id": "55104",
+      "address": "318 Southland Drive",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E12,L02,EC10,EC9,205,241,RS1",
+      "units": "E11,E12,L02,EC10,EC9,205,241,RS1",
+      "unitCount": "8",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,205",
+      "dedupeKey": "INCIDENT-55104"
+    }
   }
 ]
