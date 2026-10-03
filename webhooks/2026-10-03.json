@@ -2396,5 +2396,27 @@
       "commandUnits": "241,202",
       "dedupeKey": "INCIDENT-55063"
     }
+  },
+  {
+    "runNumber": "55066",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-03T13:04:56.905014-04:00",
+    "address": "3400 Delong Road",
+    "extra": {
+      "incidentNumber": "55066",
+      "run_id": "55066",
+      "address": "3400 Delong Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E18,E22,L02,201",
+      "units": "E18,E22,L02,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-55066"
+    }
   }
 ]
