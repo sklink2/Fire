@@ -4442,5 +4442,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54940"
     }
+  },
+  {
+    "runNumber": "54942",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-02T21:52:39.627484-04:00",
+    "address": "4176 Palmetto Drive",
+    "extra": {
+      "incidentNumber": "54942",
+      "run_id": "54942",
+      "address": "4176 Palmetto Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,E20,L04,204",
+      "units": "E11,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-54942"
+    }
   }
 ]
