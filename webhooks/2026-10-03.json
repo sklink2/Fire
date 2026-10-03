@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55091"
     }
+  },
+  {
+    "runNumber": "55090",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-03T15:08:32.461342-04:00",
+    "address": "3770 Forest Green Drive",
+    "extra": {
+      "incidentNumber": "55090",
+      "run_id": "55090",
+      "address": "3770 Forest Green Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,L07",
+      "units": "E22,L07",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55090"
+    }
   }
 ]
