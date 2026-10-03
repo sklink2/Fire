@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55065"
     }
+  },
+  {
+    "runNumber": "55070",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-03T13:25:01.125623-04:00",
+    "address": "3709 Weston Court",
+    "extra": {
+      "incidentNumber": "55070",
+      "run_id": "55070",
+      "address": "3709 Weston Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E15,L05,201",
+      "units": "E05,E15,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-55070"
+    }
   }
 ]
