@@ -3122,5 +3122,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-55096"
     }
+  },
+  {
+    "runNumber": "55098",
+    "rawCode": "MED",
+    "timestamp": "2026-10-03T15:45:14.158594-04:00",
+    "address": "2000 Block Shaker Run Road",
+    "extra": {
+      "incidentNumber": "55098",
+      "run_id": "55098",
+      "address": "2000 Block Shaker Run Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L06,EC3",
+      "units": "L06,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55098"
+    }
   }
 ]
