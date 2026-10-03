@@ -4354,5 +4354,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54936"
     }
+  },
+  {
+    "runNumber": "54937",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-02T21:35:58.181572-04:00",
+    "address": "650 Tower Plz",
+    "extra": {
+      "incidentNumber": "54937",
+      "run_id": "54937",
+      "address": "650 Tower Plz",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E04,E09,L01,205",
+      "units": "E01,E04,E09,L01,205",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-54937"
+    }
   }
 ]
