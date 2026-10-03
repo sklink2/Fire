@@ -1406,5 +1406,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55020"
     }
+  },
+  {
+    "runNumber": "55019",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-03T09:34:29.964258-04:00",
+    "address": "429 Ohio Street",
+    "extra": {
+      "incidentNumber": "55019",
+      "run_id": "55019",
+      "address": "429 Ohio Street",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55019"
+    }
   }
 ]
