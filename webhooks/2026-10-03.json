@@ -3672,5 +3672,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55121"
     }
+  },
+  {
+    "runNumber": "55122",
+    "rawCode": "FELS",
+    "timestamp": "2026-10-03T17:55:33.591464-04:00",
+    "address": "1950 Newtown Pike",
+    "extra": {
+      "incidentNumber": "55122",
+      "run_id": "55122",
+      "address": "1950 Newtown Pike",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,L03,205",
+      "units": "E08,L03,205",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-55122"
+    }
   }
 ]
