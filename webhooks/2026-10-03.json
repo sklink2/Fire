@@ -3320,5 +3320,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55107"
     }
+  },
+  {
+    "runNumber": "55106",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-03T16:15:20.650945-04:00",
+    "address": "1598 Grant Drive",
+    "extra": {
+      "incidentNumber": "55106",
+      "run_id": "55106",
+      "address": "1598 Grant Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E10,L03,201",
+      "units": "E08,E10,L03,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-55106"
+    }
   }
 ]
