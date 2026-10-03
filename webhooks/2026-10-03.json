@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55081"
     }
+  },
+  {
+    "runNumber": "55083",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-03T14:45:07.366470-04:00",
+    "address": "Liberty Road & Fortune Drive",
+    "extra": {
+      "incidentNumber": "55083",
+      "run_id": "55083",
+      "address": "Liberty Road & Fortune Drive",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E21,201",
+      "units": "E09,E21,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-55083"
+    }
   }
 ]
