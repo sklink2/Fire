@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55062"
     }
+  },
+  {
+    "runNumber": "55064",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-03T12:58:17.972918-04:00",
+    "address": "809 Sugarbush Trail",
+    "extra": {
+      "incidentNumber": "55064",
+      "run_id": "55064",
+      "address": "809 Sugarbush Trail",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E21,L06,201",
+      "units": "E09,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-55064"
+    }
   }
 ]
