@@ -1340,5 +1340,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-55015"
     }
+  },
+  {
+    "runNumber": "55017",
+    "rawCode": "MED",
+    "timestamp": "2026-10-03T09:24:20.599921-04:00",
+    "address": "600 Block Rolling Creek Lane",
+    "extra": {
+      "incidentNumber": "55017",
+      "run_id": "55017",
+      "address": "600 Block Rolling Creek Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,EC9",
+      "units": "E07,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55017"
+    }
   }
 ]
