@@ -4002,5 +4002,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55137"
     }
+  },
+  {
+    "runNumber": "55136",
+    "rawCode": "FGAO",
+    "timestamp": "2026-10-03T19:42:40.749734-04:00",
+    "address": "815 Campbell Lane",
+    "extra": {
+      "incidentNumber": "55136",
+      "run_id": "55136",
+      "address": "815 Campbell Lane",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E21",
+      "units": "E02,E21",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55136"
+    }
   }
 ]
