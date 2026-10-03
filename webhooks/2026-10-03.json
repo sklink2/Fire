@@ -1604,5 +1604,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55029"
     }
+  },
+  {
+    "runNumber": "55030",
+    "rawCode": "MED",
+    "timestamp": "2026-10-03T10:21:10.983842-04:00",
+    "address": "500 Block Cane Run Road",
+    "extra": {
+      "incidentNumber": "55030",
+      "run_id": "55030",
+      "address": "500 Block Cane Run Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1,CRT1",
+      "units": "EC1,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55030"
+    }
   }
 ]
