@@ -4310,5 +4310,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54935"
     }
+  },
+  {
+    "runNumber": "54934",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-10-02T21:22:39.693313-04:00",
+    "address": "201 W Loudon Avenue",
+    "extra": {
+      "incidentNumber": "54934",
+      "run_id": "54934",
+      "address": "201 W Loudon Avenue",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,L01,EC8,205,241,RS1",
+      "units": "E08,L01,EC8,205,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,205",
+      "dedupeKey": "INCIDENT-54934"
+    }
   }
 ]
