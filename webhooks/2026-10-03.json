@@ -2374,5 +2374,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-55064"
     }
+  },
+  {
+    "runNumber": "55063",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-10-03T12:58:25.662804-04:00",
+    "address": "3509 Linilo Court",
+    "extra": {
+      "incidentNumber": "55063",
+      "run_id": "55063",
+      "address": "3509 Linilo Court",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,L07,EC13,202,241,RS1",
+      "units": "E16,L07,EC13,202,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-55063"
+    }
   }
 ]
