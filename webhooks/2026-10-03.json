@@ -2594,5 +2594,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55073"
     }
+  },
+  {
+    "runNumber": "55074",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-03T14:01:46.969870-04:00",
+    "address": "2554 Danielle Lane",
+    "extra": {
+      "incidentNumber": "55074",
+      "run_id": "55074",
+      "address": "2554 Danielle Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E09,L01,201",
+      "units": "E05,E09,L01,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-55074"
+    }
   }
 ]
