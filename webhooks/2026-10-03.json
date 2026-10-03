@@ -2462,5 +2462,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-55070"
     }
+  },
+  {
+    "runNumber": "55069",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-03T13:25:07.985755-04:00",
+    "address": "2472 Franks Way",
+    "extra": {
+      "incidentNumber": "55069",
+      "run_id": "55069",
+      "address": "2472 Franks Way",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E17,L06,EC3,205,220",
+      "units": "E02,E17,L06,EC3,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-55069"
+    }
   }
 ]
