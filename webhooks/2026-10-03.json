@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55021"
     }
+  },
+  {
+    "runNumber": "55020",
+    "rawCode": "MED",
+    "timestamp": "2026-10-03T09:34:27.523236-04:00",
+    "address": "2900 Block Tabor Oaks Lane",
+    "extra": {
+      "incidentNumber": "55020",
+      "run_id": "55020",
+      "address": "2900 Block Tabor Oaks Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55020"
+    }
   }
 ]
