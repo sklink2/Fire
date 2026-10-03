@@ -3606,5 +3606,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55114"
     }
+  },
+  {
+    "runNumber": "55120",
+    "rawCode": "MED",
+    "timestamp": "2026-10-03T17:42:11.608293-04:00",
+    "address": "700 Block Seattle Drive",
+    "extra": {
+      "incidentNumber": "55120",
+      "run_id": "55120",
+      "address": "700 Block Seattle Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "CRT1",
+      "units": "CRT1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55120"
+    }
   }
 ]
