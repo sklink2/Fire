@@ -1296,5 +1296,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55014"
     }
+  },
+  {
+    "runNumber": "55016",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-03T09:21:02.288402-04:00",
+    "address": "3060 Fieldstone Way",
+    "extra": {
+      "incidentNumber": "55016",
+      "run_id": "55016",
+      "address": "3060 Fieldstone Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E14,E15,L04,204",
+      "units": "E11,E14,E15,L04,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-55016"
+    }
   }
 ]
