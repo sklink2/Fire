@@ -856,5 +856,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-54994"
     }
+  },
+  {
+    "runNumber": "54996",
+    "rawCode": "MED",
+    "timestamp": "2026-10-03T06:13:55.859374-04:00",
+    "address": "600 Block N Upper Street",
+    "extra": {
+      "incidentNumber": "54996",
+      "run_id": "54996",
+      "address": "600 Block N Upper Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-54996"
+    }
   }
 ]
