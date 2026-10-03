@@ -2616,5 +2616,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-55074"
     }
+  },
+  {
+    "runNumber": "55076",
+    "rawCode": "MED",
+    "timestamp": "2026-10-03T14:05:05.724331-04:00",
+    "address": "800 Block Chevy Chase Place",
+    "extra": {
+      "incidentNumber": "55076",
+      "run_id": "55076",
+      "address": "800 Block Chevy Chase Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55076"
+    }
   }
 ]
