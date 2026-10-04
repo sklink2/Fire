@@ -1714,5 +1714,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-55237"
     }
+  },
+  {
+    "runNumber": "55239",
+    "rawCode": "MED",
+    "timestamp": "2026-10-04T13:28:32.188124-04:00",
+    "address": "600 Block Cardinal Lane",
+    "extra": {
+      "incidentNumber": "55239",
+      "run_id": "55239",
+      "address": "600 Block Cardinal Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,L04,EC12",
+      "units": "E12,L04,EC12",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55239"
+    }
   }
 ]
