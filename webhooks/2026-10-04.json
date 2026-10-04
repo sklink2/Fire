@@ -1186,5 +1186,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55215"
     }
+  },
+  {
+    "runNumber": "55216",
+    "rawCode": "MED",
+    "timestamp": "2026-10-04T10:38:04.764245-04:00",
+    "address": "600 Block Lombardy Drive",
+    "extra": {
+      "incidentNumber": "55216",
+      "run_id": "55216",
+      "address": "600 Block Lombardy Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC3",
+      "units": "E02,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55216"
+    }
   }
 ]
