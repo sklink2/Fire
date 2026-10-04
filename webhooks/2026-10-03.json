@@ -4376,5 +4376,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55154"
     }
+  },
+  {
+    "runNumber": "55155",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-03T21:46:10.768057-04:00",
+    "address": "201 Lakeshore Drive",
+    "extra": {
+      "incidentNumber": "55155",
+      "run_id": "55155",
+      "address": "201 Lakeshore Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E09,L02,201",
+      "units": "E05,E09,L02,201",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-55155"
+    }
   }
 ]
