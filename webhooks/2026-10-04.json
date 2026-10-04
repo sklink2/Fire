@@ -1978,5 +1978,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55249"
     }
+  },
+  {
+    "runNumber": "55251",
+    "rawCode": "MED",
+    "timestamp": "2026-10-04T14:25:20.848038-04:00",
+    "address": "2300 Block Stonewood Lane",
+    "extra": {
+      "incidentNumber": "55251",
+      "run_id": "55251",
+      "address": "2300 Block Stonewood Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55251"
+    }
   }
 ]
