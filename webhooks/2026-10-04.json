@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55270"
     }
+  },
+  {
+    "runNumber": "55269",
+    "rawCode": "FOTS",
+    "timestamp": "2026-10-04T16:29:00.566659-04:00",
+    "address": "1317 Centre Parkway",
+    "extra": {
+      "incidentNumber": "55269",
+      "run_id": "55269",
+      "address": "1317 Centre Parkway",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16",
+      "units": "E16",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55269"
+    }
   }
 ]
