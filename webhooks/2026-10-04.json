@@ -1802,5 +1802,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-55242"
     }
+  },
+  {
+    "runNumber": "55244",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-04T13:55:17.198549-04:00",
+    "address": "1974 Alice Drive",
+    "extra": {
+      "incidentNumber": "55244",
+      "run_id": "55244",
+      "address": "1974 Alice Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC10",
+      "units": "E24,EC10",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55244"
+    }
   }
 ]
