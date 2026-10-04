@@ -1494,5 +1494,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55229"
     }
+  },
+  {
+    "runNumber": "55228",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-04T11:58:19.339280-04:00",
+    "address": "1865 Hill Rise Drive",
+    "extra": {
+      "incidentNumber": "55228",
+      "run_id": "55228",
+      "address": "1865 Hill Rise Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,E14,L01,204",
+      "units": "E13,E14,L01,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-55228"
+    }
   }
 ]
