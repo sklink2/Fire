@@ -3078,5 +3078,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55298"
     }
+  },
+  {
+    "runNumber": "55302",
+    "rawCode": "FSTR",
+    "timestamp": "2026-10-04T19:32:48.104061-04:00",
+    "address": "570 E Main Street",
+    "extra": {
+      "incidentNumber": "55302",
+      "run_id": "55302",
+      "address": "570 E Main Street",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E05,E06,E09,L01,L02,EC10,201,205,220,241,RS1",
+      "units": "E01,E05,E06,E09,L01,L02,EC10,201,205,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,205",
+      "dedupeKey": "INCIDENT-55302"
+    }
   }
 ]
