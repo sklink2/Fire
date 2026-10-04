@@ -2242,5 +2242,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-55262"
     }
+  },
+  {
+    "runNumber": "55264",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-04T15:48:52.615591-04:00",
+    "address": "2575 Palumbo Drive",
+    "extra": {
+      "incidentNumber": "55264",
+      "run_id": "55264",
+      "address": "2575 Palumbo Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E16,L06,201",
+      "units": "E02,E16,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-55264"
+    }
   }
 ]
