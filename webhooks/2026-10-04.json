@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55275"
     }
+  },
+  {
+    "runNumber": "55276",
+    "rawCode": "MED",
+    "timestamp": "2026-10-04T17:19:06.083834-04:00",
+    "address": "1400 Block Etawah Drive",
+    "extra": {
+      "incidentNumber": "55276",
+      "run_id": "55276",
+      "address": "1400 Block Etawah Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55276"
+    }
   }
 ]
