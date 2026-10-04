@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55272"
     }
+  },
+  {
+    "runNumber": "55271",
+    "rawCode": "MED",
+    "timestamp": "2026-10-04T16:32:20.378271-04:00",
+    "address": "500 Block Glenbrook Street",
+    "extra": {
+      "incidentNumber": "55271",
+      "run_id": "55271",
+      "address": "500 Block Glenbrook Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55271"
+    }
   }
 ]
