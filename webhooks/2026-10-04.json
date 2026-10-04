@@ -2946,5 +2946,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55295"
     }
+  },
+  {
+    "runNumber": "55294",
+    "rawCode": "MED",
+    "timestamp": "2026-10-04T18:56:04.253922-04:00",
+    "address": "3400 Block Scottish Trce",
+    "extra": {
+      "incidentNumber": "55294",
+      "run_id": "55294",
+      "address": "3400 Block Scottish Trce",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L06,EC11,201,241",
+      "units": "L06,EC11,201,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-55294"
+    }
   }
 ]
