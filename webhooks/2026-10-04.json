@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55265"
     }
+  },
+  {
+    "runNumber": "55267",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-04T16:12:16.380858-04:00",
+    "address": "287 Lake Wales Drive",
+    "extra": {
+      "incidentNumber": "55267",
+      "run_id": "55267",
+      "address": "287 Lake Wales Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16",
+      "units": "E16",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55267"
+    }
   }
 ]
