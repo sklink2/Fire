@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55184"
     }
+  },
+  {
+    "runNumber": "55185",
+    "rawCode": "MED",
+    "timestamp": "2026-10-04T04:13:48.927345-04:00",
+    "address": "400 Block Elm Street",
+    "extra": {
+      "incidentNumber": "55185",
+      "run_id": "55185",
+      "address": "400 Block Elm Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,EC6",
+      "units": "E04,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55185"
+    }
   }
 ]
