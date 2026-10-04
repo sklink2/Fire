@@ -1604,5 +1604,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-55233"
     }
+  },
+  {
+    "runNumber": "55235",
+    "rawCode": "MED",
+    "timestamp": "2026-10-04T12:51:47.225372-04:00",
+    "address": "1700 Block Beacon Hill Road",
+    "extra": {
+      "incidentNumber": "55235",
+      "run_id": "55235",
+      "address": "1700 Block Beacon Hill Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55235"
+    }
   }
 ]
