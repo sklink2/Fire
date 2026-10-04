@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55241"
     }
+  },
+  {
+    "runNumber": "55242",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-04T13:45:15.165161-04:00",
+    "address": "2109 Cornerstone Drive",
+    "extra": {
+      "incidentNumber": "55242",
+      "run_id": "55242",
+      "address": "2109 Cornerstone Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E08,L05,201",
+      "units": "E02,E08,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-55242"
+    }
   }
 ]
