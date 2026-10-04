@@ -746,5 +746,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55196"
     }
+  },
+  {
+    "runNumber": "55197",
+    "rawCode": "FMIS",
+    "timestamp": "2026-10-04T07:41:00.022798-04:00",
+    "address": "361 Larkwood Drive",
+    "extra": {
+      "incidentNumber": "55197",
+      "run_id": "55197",
+      "address": "361 Larkwood Drive",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,201",
+      "units": "E09,201",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-55197"
+    }
   }
 ]
