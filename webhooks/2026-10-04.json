@@ -2968,5 +2968,27 @@
       "commandUnits": "241,201",
       "dedupeKey": "INCIDENT-55294"
     }
+  },
+  {
+    "runNumber": "55296",
+    "rawCode": "MED",
+    "timestamp": "2026-10-04T18:59:21.447217-04:00",
+    "address": "200 Block Delmar Avenue",
+    "extra": {
+      "incidentNumber": "55296",
+      "run_id": "55296",
+      "address": "200 Block Delmar Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55296"
+    }
   }
 ]
