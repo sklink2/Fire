@@ -4552,5 +4552,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55162"
     }
+  },
+  {
+    "runNumber": "55163",
+    "rawCode": "MED",
+    "timestamp": "2026-10-03T23:43:06.555922-04:00",
+    "address": "1900 Block Alice Drive",
+    "extra": {
+      "incidentNumber": "55163",
+      "run_id": "55163",
+      "address": "1900 Block Alice Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55163"
+    }
   }
 ]
