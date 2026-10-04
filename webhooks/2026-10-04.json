@@ -2264,5 +2264,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-55264"
     }
+  },
+  {
+    "runNumber": "55263",
+    "rawCode": "MED",
+    "timestamp": "2026-10-04T15:48:54.594866-04:00",
+    "address": "400 Block Lin Wal Road",
+    "extra": {
+      "incidentNumber": "55263",
+      "run_id": "55263",
+      "address": "400 Block Lin Wal Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC8",
+      "units": "E08,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55263"
+    }
   }
 ]
