@@ -482,5 +482,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55185"
     }
+  },
+  {
+    "runNumber": "55186",
+    "rawCode": "FMIS",
+    "timestamp": "2026-10-04T04:27:11.634406-04:00",
+    "address": "1510 Versailles Road",
+    "extra": {
+      "incidentNumber": "55186",
+      "run_id": "55186",
+      "address": "1510 Versailles Road",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,203",
+      "units": "E14,203",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-55186"
+    }
   }
 ]
