@@ -1252,5 +1252,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55218"
     }
+  },
+  {
+    "runNumber": "55217",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-04T10:41:28.511004-04:00",
+    "address": "1825 Liberty Road",
+    "extra": {
+      "incidentNumber": "55217",
+      "run_id": "55217",
+      "address": "1825 Liberty Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E17,L05,205",
+      "units": "E01,E17,L05,205",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-55217"
+    }
   }
 ]
