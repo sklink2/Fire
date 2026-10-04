@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55235"
     }
+  },
+  {
+    "runNumber": "55234",
+    "rawCode": "MED",
+    "timestamp": "2026-10-04T12:51:49.162749-04:00",
+    "address": "700 Block Providence Road",
+    "extra": {
+      "incidentNumber": "55234",
+      "run_id": "55234",
+      "address": "700 Block Providence Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55234"
+    }
   }
 ]
