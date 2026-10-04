@@ -812,5 +812,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-55197"
     }
+  },
+  {
+    "runNumber": "55199",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-10-04T08:07:44.635105-04:00",
+    "address": "442 Windfield Place",
+    "extra": {
+      "incidentNumber": "55199",
+      "run_id": "55199",
+      "address": "442 Windfield Place",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21",
+      "units": "E21",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55199"
+    }
   }
 ]
