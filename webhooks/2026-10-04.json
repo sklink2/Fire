@@ -416,5 +416,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55182"
     }
+  },
+  {
+    "runNumber": "55183",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-04T03:30:24.636043-04:00",
+    "address": "809 Revere Run Drive",
+    "extra": {
+      "incidentNumber": "55183",
+      "run_id": "55183",
+      "address": "809 Revere Run Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E21,L06,EC11,201,220",
+      "units": "E02,E21,L06,EC11,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-55183"
+    }
   }
 ]
