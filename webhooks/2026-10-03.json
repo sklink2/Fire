@@ -4156,5 +4156,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55145"
     }
+  },
+  {
+    "runNumber": "55144",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-03T20:49:24.236876-04:00",
+    "address": "2031 Summerhayes Court",
+    "extra": {
+      "incidentNumber": "55144",
+      "run_id": "55144",
+      "address": "2031 Summerhayes Court",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,L04",
+      "units": "E20,L04",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55144"
+    }
   }
 ]
