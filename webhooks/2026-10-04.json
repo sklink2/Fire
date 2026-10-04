@@ -1428,5 +1428,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-55226"
     }
+  },
+  {
+    "runNumber": "55225",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-04T11:41:37.549395-04:00",
+    "address": "5076 Ravens Bend Court",
+    "extra": {
+      "incidentNumber": "55225",
+      "run_id": "55225",
+      "address": "5076 Ravens Bend Court",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L07",
+      "units": "L07",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55225"
+    }
   }
 ]
