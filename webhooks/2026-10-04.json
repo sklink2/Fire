@@ -1516,5 +1516,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-55228"
     }
+  },
+  {
+    "runNumber": "55230",
+    "rawCode": "MED",
+    "timestamp": "2026-10-04T12:01:38.265740-04:00",
+    "address": "3800 Block Wem Drive",
+    "extra": {
+      "incidentNumber": "55230",
+      "run_id": "55230",
+      "address": "3800 Block Wem Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55230"
+    }
   }
 ]
