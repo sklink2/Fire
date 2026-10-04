@@ -900,5 +900,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55202"
     }
+  },
+  {
+    "runNumber": "55203",
+    "rawCode": "FMEA",
+    "timestamp": "2026-10-04T08:47:49.070706-04:00",
+    "address": "3051 Rio Dosa Drive",
+    "extra": {
+      "incidentNumber": "55203",
+      "run_id": "55203",
+      "address": "3051 Rio Dosa Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09",
+      "units": "E09",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55203"
+    }
   }
 ]
