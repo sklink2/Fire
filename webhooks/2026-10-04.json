@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55206"
     }
+  },
+  {
+    "runNumber": "55208",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-04T09:31:16.619327-04:00",
+    "address": "4617 Walnut Creek Drive",
+    "extra": {
+      "incidentNumber": "55208",
+      "run_id": "55208",
+      "address": "4617 Walnut Creek Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09",
+      "units": "E09",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55208"
+    }
   }
 ]
