@@ -130,5 +130,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55350"
     }
+  },
+  {
+    "runNumber": "55349",
+    "rawCode": "MED",
+    "timestamp": "2026-10-05T00:33:32.677865-04:00",
+    "address": "3200 Block Nantucket Drive",
+    "extra": {
+      "incidentNumber": "55349",
+      "run_id": "55349",
+      "address": "3200 Block Nantucket Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,EC4,241",
+      "units": "E07,EC4,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-55349"
+    }
   }
 ]
