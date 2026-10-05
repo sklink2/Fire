@@ -3650,5 +3650,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55326"
     }
+  },
+  {
+    "runNumber": "55328",
+    "rawCode": "MED",
+    "timestamp": "2026-10-04T22:36:34.691901-04:00",
+    "address": "300 Block Lima Drive",
+    "extra": {
+      "incidentNumber": "55328",
+      "run_id": "55328",
+      "address": "300 Block Lima Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55328"
+    }
   }
 ]
