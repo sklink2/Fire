@@ -636,5 +636,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55372"
     }
+  },
+  {
+    "runNumber": "55373",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-05T05:10:51.044044-04:00",
+    "address": "1104 Kavenaugh Lane",
+    "extra": {
+      "incidentNumber": "55373",
+      "run_id": "55373",
+      "address": "1104 Kavenaugh Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E21,L06,201",
+      "units": "E09,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-55373"
+    }
   }
 ]
