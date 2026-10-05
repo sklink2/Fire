@@ -1890,5 +1890,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55430"
     }
+  },
+  {
+    "runNumber": "55429",
+    "rawCode": "MED",
+    "timestamp": "2026-10-05T11:38:33.265283-04:00",
+    "address": "Lansdowne Drive & Thistleton Drive",
+    "extra": {
+      "incidentNumber": "55429",
+      "run_id": "55429",
+      "address": "Lansdowne Drive & Thistleton Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC12,CRT1",
+      "units": "EC12,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55429"
+    }
   }
 ]
