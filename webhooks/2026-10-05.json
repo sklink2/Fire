@@ -1186,5 +1186,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-55398"
     }
+  },
+  {
+    "runNumber": "55400",
+    "rawCode": "MED",
+    "timestamp": "2026-10-05T08:38:04.428829-04:00",
+    "address": "2200 Block Jimtown Lane",
+    "extra": {
+      "incidentNumber": "55400",
+      "run_id": "55400",
+      "address": "2200 Block Jimtown Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E19,EC1",
+      "units": "E19,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55400"
+    }
   }
 ]
