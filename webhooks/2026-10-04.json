@@ -3892,5 +3892,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55337"
     }
+  },
+  {
+    "runNumber": "55340",
+    "rawCode": "MED",
+    "timestamp": "2026-10-04T23:23:20.576048-04:00",
+    "address": "1600 Block Crossen Way",
+    "extra": {
+      "incidentNumber": "55340",
+      "run_id": "55340",
+      "address": "1600 Block Crossen Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55340"
+    }
   }
 ]
