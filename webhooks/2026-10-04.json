@@ -3276,5 +3276,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55311"
     }
+  },
+  {
+    "runNumber": "55310",
+    "rawCode": "MED",
+    "timestamp": "2026-10-04T20:53:00.964215-04:00",
+    "address": "2100 Block Manor Drive",
+    "extra": {
+      "incidentNumber": "55310",
+      "run_id": "55310",
+      "address": "2100 Block Manor Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC8",
+      "units": "E09,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55310"
+    }
   }
 ]
