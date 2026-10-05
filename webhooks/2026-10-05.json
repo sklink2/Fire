@@ -1560,5 +1560,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55413"
     }
+  },
+  {
+    "runNumber": "55415",
+    "rawCode": "MED",
+    "timestamp": "2026-10-05T10:08:17.200500-04:00",
+    "address": "500 Block Sandalwood Drive",
+    "extra": {
+      "incidentNumber": "55415",
+      "run_id": "55415",
+      "address": "500 Block Sandalwood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55415"
+    }
   }
 ]
