@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55390"
     }
+  },
+  {
+    "runNumber": "55392",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-05T08:01:18.098819-04:00",
+    "address": "673 Providence Road",
+    "extra": {
+      "incidentNumber": "55392",
+      "run_id": "55392",
+      "address": "673 Providence Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E07,L02,204",
+      "units": "E05,E07,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-55392"
+    }
   }
 ]
