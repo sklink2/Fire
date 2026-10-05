@@ -3738,5 +3738,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-55330"
     }
+  },
+  {
+    "runNumber": "55331",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-04T22:56:38.342688-04:00",
+    "address": "340 Hilltop Avenue",
+    "extra": {
+      "incidentNumber": "55331",
+      "run_id": "55331",
+      "address": "340 Hilltop Avenue",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E12,205",
+      "units": "E01,E12,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-55331"
+    }
   }
 ]
