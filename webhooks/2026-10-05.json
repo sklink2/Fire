@@ -1846,5 +1846,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55427"
     }
+  },
+  {
+    "runNumber": "55428",
+    "rawCode": "MED",
+    "timestamp": "2026-10-05T11:28:28.482476-04:00",
+    "address": "500 Block Anniston Drive",
+    "extra": {
+      "incidentNumber": "55428",
+      "run_id": "55428",
+      "address": "500 Block Anniston Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC3",
+      "units": "E02,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55428"
+    }
   }
 ]
