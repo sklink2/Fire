@@ -328,5 +328,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-55357"
     }
+  },
+  {
+    "runNumber": "55359",
+    "rawCode": "MED",
+    "timestamp": "2026-10-05T01:33:40.173188-04:00",
+    "address": "400 Block Roosevelt Boulevard",
+    "extra": {
+      "incidentNumber": "55359",
+      "run_id": "55359",
+      "address": "400 Block Roosevelt Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55359"
+    }
   }
 ]
