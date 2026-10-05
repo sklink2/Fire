@@ -2968,5 +2968,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55476"
     }
+  },
+  {
+    "runNumber": "55477",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-05T15:59:05.384192-04:00",
+    "address": "633 Lombardy Drive",
+    "extra": {
+      "incidentNumber": "55477",
+      "run_id": "55477",
+      "address": "633 Lombardy Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E08,L05,EC2,201,220",
+      "units": "E02,E08,L05,EC2,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-55477"
+    }
   }
 ]
