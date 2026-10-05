@@ -2176,5 +2176,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-55441"
     }
+  },
+  {
+    "runNumber": "55443",
+    "rawCode": "MED",
+    "timestamp": "2026-10-05T13:15:23.910558-04:00",
+    "address": "2500 Block Rockaway Place",
+    "extra": {
+      "incidentNumber": "55443",
+      "run_id": "55443",
+      "address": "2500 Block Rockaway Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,EC3",
+      "units": "E24,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55443"
+    }
   }
 ]
