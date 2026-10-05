@@ -4002,5 +4002,27 @@
       "commandUnits": "220,204",
       "dedupeKey": "INCIDENT-55342"
     }
+  },
+  {
+    "runNumber": "55343",
+    "rawCode": "MED",
+    "timestamp": "2026-10-04T23:53:24.638894-04:00",
+    "address": "400 Block Price Road",
+    "extra": {
+      "incidentNumber": "55343",
+      "run_id": "55343",
+      "address": "400 Block Price Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC3",
+      "units": "E10,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55343"
+    }
   }
 ]
