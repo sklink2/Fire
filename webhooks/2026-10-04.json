@@ -3980,5 +3980,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55341"
     }
+  },
+  {
+    "runNumber": "55342",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-04T23:46:43.943541-04:00",
+    "address": "1120 University Drive",
+    "extra": {
+      "incidentNumber": "55342",
+      "run_id": "55342",
+      "address": "1120 University Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,L02,EC12,204,220",
+      "units": "E05,E06,L02,EC12,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-55342"
+    }
   }
 ]
