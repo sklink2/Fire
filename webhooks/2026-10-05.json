@@ -1230,5 +1230,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55399"
     }
+  },
+  {
+    "runNumber": "55402",
+    "rawCode": "MED",
+    "timestamp": "2026-10-05T08:51:27.799928-04:00",
+    "address": "3400 Block Halifax Court",
+    "extra": {
+      "incidentNumber": "55402",
+      "run_id": "55402",
+      "address": "3400 Block Halifax Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC4",
+      "units": "E20,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55402"
+    }
   }
 ]
