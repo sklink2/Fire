@@ -3364,5 +3364,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-55495"
     }
+  },
+  {
+    "runNumber": "55494",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-05T17:52:46.051836-04:00",
+    "address": "64 Wb / 86.8 Mm",
+    "extra": {
+      "incidentNumber": "55494",
+      "run_id": "55494",
+      "address": "64 Wb / 86.8 Mm",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17,E23,EC3",
+      "units": "E17,E23,EC3",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55494"
+    }
   }
 ]
