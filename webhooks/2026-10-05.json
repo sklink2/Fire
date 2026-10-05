@@ -306,5 +306,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55358"
     }
+  },
+  {
+    "runNumber": "55357",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-10-05T01:16:58.753832-04:00",
+    "address": "Tates Creek Road & Laredo Drive",
+    "extra": {
+      "incidentNumber": "55357",
+      "run_id": "55357",
+      "address": "Tates Creek Road & Laredo Drive",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E22,EC4,202",
+      "units": "E22,EC4,202",
+      "unitCount": "3",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-55357"
+    }
   }
 ]
