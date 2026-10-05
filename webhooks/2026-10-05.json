@@ -2902,5 +2902,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-55472"
     }
+  },
+  {
+    "runNumber": "55475",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-05T15:45:44.587978-04:00",
+    "address": "Newtown Pass & Newtown Springs",
+    "extra": {
+      "incidentNumber": "55475",
+      "run_id": "55475",
+      "address": "Newtown Pass & Newtown Springs",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55475"
+    }
   }
 ]
