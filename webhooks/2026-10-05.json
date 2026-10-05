@@ -3166,5 +3166,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55485"
     }
+  },
+  {
+    "runNumber": "55486",
+    "rawCode": "MED",
+    "timestamp": "2026-10-05T16:32:30.726118-04:00",
+    "address": "1600 Block Grant Drive",
+    "extra": {
+      "incidentNumber": "55486",
+      "run_id": "55486",
+      "address": "1600 Block Grant Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,EC5",
+      "units": "E10,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55486"
+    }
   }
 ]
