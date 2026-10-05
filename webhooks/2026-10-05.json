@@ -1956,5 +1956,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-55432"
     }
+  },
+  {
+    "runNumber": "55435",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-05T11:55:11.796549-04:00",
+    "address": "685 S Limestone",
+    "extra": {
+      "incidentNumber": "55435",
+      "run_id": "55435",
+      "address": "685 S Limestone",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,EC7",
+      "units": "E04,EC7",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55435"
+    }
   }
 ]
