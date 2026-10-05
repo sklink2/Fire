@@ -240,5 +240,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55354"
     }
+  },
+  {
+    "runNumber": "55356",
+    "rawCode": "MED",
+    "timestamp": "2026-10-05T01:03:35.337796-04:00",
+    "address": "900 Block Charles Avenue",
+    "extra": {
+      "incidentNumber": "55356",
+      "run_id": "55356",
+      "address": "900 Block Charles Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10",
+      "units": "E10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55356"
+    }
   }
 ]
