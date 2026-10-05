@@ -3716,5 +3716,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55329"
     }
+  },
+  {
+    "runNumber": "55330",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-04T22:53:17.657387-04:00",
+    "address": "701 Sports Center Drive",
+    "extra": {
+      "incidentNumber": "55330",
+      "run_id": "55330",
+      "address": "701 Sports Center Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,E11,L02,204",
+      "units": "E05,E06,E11,L02,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-55330"
+    }
   }
 ]
