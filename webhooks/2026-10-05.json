@@ -2044,5 +2044,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55436"
     }
+  },
+  {
+    "runNumber": "55432",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-05T12:05:14.767547-04:00",
+    "address": "800 Rose Street",
+    "extra": {
+      "incidentNumber": "55432",
+      "run_id": "55432",
+      "address": "800 Rose Street",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,E11,L02,205,220",
+      "units": "E05,E06,E11,L02,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-55432"
+    }
   }
 ]
