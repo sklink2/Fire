@@ -3276,5 +3276,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55490"
     }
+  },
+  {
+    "runNumber": "55492",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-05T17:22:36.927903-04:00",
+    "address": "250 W Main Street",
+    "extra": {
+      "incidentNumber": "55492",
+      "run_id": "55492",
+      "address": "250 W Main Street",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E06,L01",
+      "units": "E04,E06,L01",
+      "unitCount": "3",
+      "primaryTopic": "FSMO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55492"
+    }
   }
 ]
