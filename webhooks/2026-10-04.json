@@ -3364,5 +3364,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55313"
     }
+  },
+  {
+    "runNumber": "55314",
+    "rawCode": "MED",
+    "timestamp": "2026-10-04T21:19:42.771724-04:00",
+    "address": "2000 Block Cambridge Drive",
+    "extra": {
+      "incidentNumber": "55314",
+      "run_id": "55314",
+      "address": "2000 Block Cambridge Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC12",
+      "units": "E14,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55314"
+    }
   }
 ]
