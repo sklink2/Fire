@@ -1802,5 +1802,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55425"
     }
+  },
+  {
+    "runNumber": "55426",
+    "rawCode": "MED",
+    "timestamp": "2026-10-05T11:01:46.566600-04:00",
+    "address": "1500 Block Bluebird Lane",
+    "extra": {
+      "incidentNumber": "55426",
+      "run_id": "55426",
+      "address": "1500 Block Bluebird Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,EC10",
+      "units": "E06,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55426"
+    }
   }
 ]
