@@ -3760,5 +3760,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55512"
     }
+  },
+  {
+    "runNumber": "55513",
+    "rawCode": "MED",
+    "timestamp": "2026-10-05T19:26:16.966094-04:00",
+    "address": "3700 Block Bold Bidder Drive",
+    "extra": {
+      "incidentNumber": "55513",
+      "run_id": "55513",
+      "address": "3700 Block Bold Bidder Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC13,202,241",
+      "units": "E22,EC13,202,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-55513"
+    }
   }
 ]
