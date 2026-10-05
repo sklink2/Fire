@@ -548,5 +548,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55368"
     }
+  },
+  {
+    "runNumber": "55370",
+    "rawCode": "MED",
+    "timestamp": "2026-10-05T04:34:05.687386-04:00",
+    "address": "400 Block Waller Avenue",
+    "extra": {
+      "incidentNumber": "55370",
+      "run_id": "55370",
+      "address": "400 Block Waller Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55370"
+    }
   }
 ]
