@@ -3562,5 +3562,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55322"
     }
+  },
+  {
+    "runNumber": "55323",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-04T22:13:11.108338-04:00",
+    "address": "344 S Martin Luther King Boulevard",
+    "extra": {
+      "incidentNumber": "55323",
+      "run_id": "55323",
+      "address": "344 S Martin Luther King Boulevard",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,L02,EC7,205,220",
+      "units": "E05,E06,L02,EC7,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-55323"
+    }
   }
 ]
