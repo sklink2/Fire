@@ -3452,5 +3452,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55497"
     }
+  },
+  {
+    "runNumber": "55499",
+    "rawCode": "MED",
+    "timestamp": "2026-10-05T18:09:25.907367-04:00",
+    "address": "100 Block Rand Avenue",
+    "extra": {
+      "incidentNumber": "55499",
+      "run_id": "55499",
+      "address": "100 Block Rand Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55499"
+    }
   }
 ]
