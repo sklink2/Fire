@@ -3342,5 +3342,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55493"
     }
+  },
+  {
+    "runNumber": "55495",
+    "rawCode": "FELF",
+    "timestamp": "2026-10-05T17:52:43.999508-04:00",
+    "address": "1575 Heron Lane",
+    "extra": {
+      "incidentNumber": "55495",
+      "run_id": "55495",
+      "address": "1575 Heron Lane",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E11,L04,204",
+      "units": "E06,E11,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-55495"
+    }
   }
 ]
