@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55664"
     }
+  },
+  {
+    "runNumber": "55663",
+    "rawCode": "MED",
+    "timestamp": "2026-10-06T14:02:30.126579-04:00",
+    "address": "1000 Block N Limestone",
+    "extra": {
+      "incidentNumber": "55663",
+      "run_id": "55663",
+      "address": "1000 Block N Limestone",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01,EC3",
+      "units": "L01,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55663"
+    }
   }
 ]
