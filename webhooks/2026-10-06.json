@@ -2836,5 +2836,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-55685"
     }
+  },
+  {
+    "runNumber": "55686",
+    "rawCode": "FVLA",
+    "timestamp": "2026-10-06T15:56:03.789879-04:00",
+    "address": "5641 Ware Road",
+    "extra": {
+      "incidentNumber": "55686",
+      "run_id": "55686",
+      "address": "5641 Ware Road",
+      "rawType": "FVLA",
+      "typeCode": "FVLA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E17,E21,L06,T1,201",
+      "units": "E08,E17,E21,L06,T1,201",
+      "unitCount": "6",
+      "primaryTopic": "FVLA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-55686"
+    }
   }
 ]
