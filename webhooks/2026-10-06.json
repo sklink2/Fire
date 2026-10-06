@@ -2660,5 +2660,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-55677"
     }
+  },
+  {
+    "runNumber": "55679",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-06T15:15:56.589212-04:00",
+    "address": "Man O War Boulevard & Beaver Creek",
+    "extra": {
+      "incidentNumber": "55679",
+      "run_id": "55679",
+      "address": "Man O War Boulevard & Beaver Creek",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E21,201",
+      "units": "E09,E21,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-55679"
+    }
   }
 ]
