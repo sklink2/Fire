@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55637"
     }
+  },
+  {
+    "runNumber": "55636",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-06T11:25:25.423314-04:00",
+    "address": "3110 Wall Street",
+    "extra": {
+      "incidentNumber": "55636",
+      "run_id": "55636",
+      "address": "3110 Wall Street",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55636"
+    }
   }
 ]
