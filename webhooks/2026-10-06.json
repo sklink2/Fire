@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55718"
     }
+  },
+  {
+    "runNumber": "55717",
+    "rawCode": "MED",
+    "timestamp": "2026-10-06T18:16:26.906318-04:00",
+    "address": "200 Block Warnock Street",
+    "extra": {
+      "incidentNumber": "55717",
+      "run_id": "55717",
+      "address": "200 Block Warnock Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01,EC20,EC7,241",
+      "units": "L01,EC20,EC7,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-55717"
+    }
   }
 ]
