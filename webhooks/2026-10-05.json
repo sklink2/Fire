@@ -4464,5 +4464,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55544"
     }
+  },
+  {
+    "runNumber": "55540",
+    "rawCode": "FSTRW",
+    "timestamp": "2026-10-05T22:03:20.089652-04:00",
+    "address": "448 Hollow Creek Road",
+    "extra": {
+      "incidentNumber": "55540",
+      "run_id": "55540",
+      "address": "448 Hollow Creek Road",
+      "rawType": "FSTRW",
+      "typeCode": "FSTRW",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E04,E08,E13,L02,L05,EC10,EC6,201,203,200,220,RS1",
+      "units": "E02,E04,E08,E13,L02,L05,EC10,EC6,201,203,200,220,RS1",
+      "unitCount": "13",
+      "primaryTopic": "FSTRW",
+      "commandUnits": "220,200,201,203",
+      "dedupeKey": "INCIDENT-55540"
+    }
   }
 ]
