@@ -4728,5 +4728,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-55554"
     }
+  },
+  {
+    "runNumber": "55556",
+    "rawCode": "FCAR",
+    "timestamp": "2026-10-05T23:33:30.942427-04:00",
+    "address": "421 Whitfield Drive",
+    "extra": {
+      "incidentNumber": "55556",
+      "run_id": "55556",
+      "address": "421 Whitfield Drive",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L07",
+      "units": "L07",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55556"
+    }
   }
 ]
