@@ -2484,5 +2484,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-55669"
     }
+  },
+  {
+    "runNumber": "55670",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-06T14:42:32.561204-04:00",
+    "address": "135 Bradley Lane",
+    "extra": {
+      "incidentNumber": "55670",
+      "run_id": "55670",
+      "address": "135 Bradley Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,E24,L03,203",
+      "units": "E13,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-55670"
+    }
   }
 ]
