@@ -3452,5 +3452,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55713"
     }
+  },
+  {
+    "runNumber": "55714",
+    "rawCode": "FVLA",
+    "timestamp": "2026-10-06T17:56:21.371411-04:00",
+    "address": "75 Sb / 108.0 Mm (Man O War",
+    "extra": {
+      "incidentNumber": "55714",
+      "run_id": "55714",
+      "address": "75 Sb / 108.0 Mm (Man O War",
+      "rawType": "FVLA",
+      "typeCode": "FVLA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E21,L06,T1,201",
+      "units": "E08,E21,L06,T1,201",
+      "unitCount": "5",
+      "primaryTopic": "FVLA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-55714"
+    }
   }
 ]
