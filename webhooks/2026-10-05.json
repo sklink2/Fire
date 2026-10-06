@@ -4244,5 +4244,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55535"
     }
+  },
+  {
+    "runNumber": "55534",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-05T21:03:12.750634-04:00",
+    "address": "825 Bennett Avenue",
+    "extra": {
+      "incidentNumber": "55534",
+      "run_id": "55534",
+      "address": "825 Bennett Avenue",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E13,L01,EC7,203,220",
+      "units": "E06,E13,L01,EC7,203,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,203",
+      "dedupeKey": "INCIDENT-55534"
+    }
   }
 ]
