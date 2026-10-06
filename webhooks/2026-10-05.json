@@ -4090,5 +4090,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55525"
     }
+  },
+  {
+    "runNumber": "55528",
+    "rawCode": "MED",
+    "timestamp": "2026-10-05T20:06:21.283550-04:00",
+    "address": "400 Block Julia Way",
+    "extra": {
+      "incidentNumber": "55528",
+      "run_id": "55528",
+      "address": "400 Block Julia Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55528"
+    }
   }
 ]
