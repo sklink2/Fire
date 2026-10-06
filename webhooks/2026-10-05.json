@@ -4706,5 +4706,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55555"
     }
+  },
+  {
+    "runNumber": "55554",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-05T23:23:32.298817-04:00",
+    "address": "470 Rose Lane",
+    "extra": {
+      "incidentNumber": "55554",
+      "run_id": "55554",
+      "address": "470 Rose Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,L02,204",
+      "units": "E05,E06,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-55554"
+    }
   }
 ]
