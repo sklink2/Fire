@@ -878,5 +878,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55595"
     }
+  },
+  {
+    "runNumber": "55599",
+    "rawCode": "MED",
+    "timestamp": "2026-10-06T08:28:17.412695-04:00",
+    "address": "2300 Block Cosimo Way",
+    "extra": {
+      "incidentNumber": "55599",
+      "run_id": "55599",
+      "address": "2300 Block Cosimo Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55599"
+    }
   }
 ]
