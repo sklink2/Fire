@@ -3738,5 +3738,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55727"
     }
+  },
+  {
+    "runNumber": "55727",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-06T19:29:56.727511-04:00",
+    "address": "E New Circle Road & Family Circle",
+    "extra": {
+      "incidentNumber": "55727",
+      "run_id": "55727",
+      "address": "E New Circle Road & Family Circle",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,L05,EC8,241",
+      "units": "E02,L05,EC8,241",
+      "unitCount": "4",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-55727"
+    }
   }
 ]
