@@ -2088,5 +2088,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55652"
     }
+  },
+  {
+    "runNumber": "55651",
+    "rawCode": "MED",
+    "timestamp": "2026-10-06T13:12:20.978036-04:00",
+    "address": "100 Block E Third Street",
+    "extra": {
+      "incidentNumber": "55651",
+      "run_id": "55651",
+      "address": "100 Block E Third Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01,EC7",
+      "units": "L01,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55651"
+    }
   }
 ]
