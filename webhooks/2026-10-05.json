@@ -4574,5 +4574,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-55548"
     }
+  },
+  {
+    "runNumber": "55549",
+    "rawCode": "MED",
+    "timestamp": "2026-10-05T22:46:44.267579-04:00",
+    "address": "500 Block Rogers Road",
+    "extra": {
+      "incidentNumber": "55549",
+      "run_id": "55549",
+      "address": "500 Block Rogers Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55549"
+    }
   }
 ]
