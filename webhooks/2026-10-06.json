@@ -3078,5 +3078,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55696"
     }
+  },
+  {
+    "runNumber": "55697",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-06T16:36:09.199634-04:00",
+    "address": "695 Winnie Street",
+    "extra": {
+      "incidentNumber": "55697",
+      "run_id": "55697",
+      "address": "695 Winnie Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E11,L02,204",
+      "units": "E06,E11,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-55697"
+    }
   }
 ]
