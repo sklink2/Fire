@@ -306,5 +306,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-55571"
     }
+  },
+  {
+    "runNumber": "55572",
+    "rawCode": "MED",
+    "timestamp": "2026-10-06T04:04:12.774274-04:00",
+    "address": "400 Block Chinoe Road",
+    "extra": {
+      "incidentNumber": "55572",
+      "run_id": "55572",
+      "address": "400 Block Chinoe Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55572"
+    }
   }
 ]
