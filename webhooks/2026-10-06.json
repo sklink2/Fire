@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55667"
     }
+  },
+  {
+    "runNumber": "55668",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-06T14:25:50.328164-04:00",
+    "address": "5635 Sulphur Well Road",
+    "extra": {
+      "incidentNumber": "55668",
+      "run_id": "55668",
+      "address": "5635 Sulphur Well Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,E18,201",
+      "units": "E17,E18,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-55668"
+    }
   }
 ]
