@@ -3672,5 +3672,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55723"
     }
+  },
+  {
+    "runNumber": "55725",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-06T19:09:55.348743-04:00",
+    "address": "524 Angliana Avenue",
+    "extra": {
+      "incidentNumber": "55725",
+      "run_id": "55725",
+      "address": "524 Angliana Avenue",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E10,L03,EC10,204,220",
+      "units": "E06,E10,L03,EC10,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-55725"
+    }
   }
 ]
