@@ -4200,5 +4200,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55531"
     }
+  },
+  {
+    "runNumber": "55533",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-10-05T20:53:09.700338-04:00",
+    "address": "802 W Maxwell Street",
+    "extra": {
+      "incidentNumber": "55533",
+      "run_id": "55533",
+      "address": "802 W Maxwell Street",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,L01,EC10,EC7,204,241,RS1",
+      "units": "E04,L01,EC10,EC7,204,241,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,204",
+      "dedupeKey": "INCIDENT-55533"
+    }
   }
 ]
