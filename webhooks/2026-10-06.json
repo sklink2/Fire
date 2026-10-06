@@ -3342,5 +3342,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55707"
     }
+  },
+  {
+    "runNumber": "55711",
+    "rawCode": "FMIS",
+    "timestamp": "2026-10-06T17:12:56.056615-04:00",
+    "address": "1245 Ak Sar Ben Park",
+    "extra": {
+      "incidentNumber": "55711",
+      "run_id": "55711",
+      "address": "1245 Ak Sar Ben Park",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,202",
+      "units": "E16,202",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-55711"
+    }
   }
 ]
