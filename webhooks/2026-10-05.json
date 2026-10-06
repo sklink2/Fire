@@ -4552,5 +4552,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55547"
     }
+  },
+  {
+    "runNumber": "55548",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-05T22:43:23.230003-04:00",
+    "address": "2350 Grey Lag Way",
+    "extra": {
+      "incidentNumber": "55548",
+      "run_id": "55548",
+      "address": "2350 Grey Lag Way",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E21,205",
+      "units": "E09,E21,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-55548"
+    }
   }
 ]
