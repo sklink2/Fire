@@ -4354,5 +4354,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55538"
     }
+  },
+  {
+    "runNumber": "55540",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-05T21:49:57.493925-04:00",
+    "address": "448 Hollow Creek Road",
+    "extra": {
+      "incidentNumber": "55540",
+      "run_id": "55540",
+      "address": "448 Hollow Creek Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E08,203",
+      "units": "E02,E08,203",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-55540"
+    }
   }
 ]
