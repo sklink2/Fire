@@ -1802,5 +1802,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55638"
     }
+  },
+  {
+    "runNumber": "55639",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-06T11:55:28.810010-04:00",
+    "address": "3605 Amick Way",
+    "extra": {
+      "incidentNumber": "55639",
+      "run_id": "55639",
+      "address": "3605 Amick Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,E21,L06,201",
+      "units": "E12,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-55639"
+    }
   }
 ]
