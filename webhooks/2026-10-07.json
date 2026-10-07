@@ -1604,5 +1604,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55828"
     }
+  },
+  {
+    "runNumber": "55831",
+    "rawCode": "MED",
+    "timestamp": "2026-10-07T11:25:36.243302-04:00",
+    "address": "2500 Block Sungale Court",
+    "extra": {
+      "incidentNumber": "55831",
+      "run_id": "55831",
+      "address": "2500 Block Sungale Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC5",
+      "units": "E20,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55831"
+    }
   }
 ]
