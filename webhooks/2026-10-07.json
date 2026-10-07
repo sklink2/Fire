@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55863"
     }
+  },
+  {
+    "runNumber": "55864",
+    "rawCode": "FSTR",
+    "timestamp": "2026-10-07T14:46:09.011792-04:00",
+    "address": "4701 Paris Pike",
+    "extra": {
+      "incidentNumber": "55864",
+      "run_id": "55864",
+      "address": "4701 Paris Pike",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E10,E13,E17,E19,L01,L03,T1,EC10,EC3,201,205,220,241,RS1",
+      "units": "E08,E10,E13,E17,E19,L01,L03,T1,EC10,EC3,201,205,220,241,RS1",
+      "unitCount": "15",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,205",
+      "dedupeKey": "INCIDENT-55864"
+    }
   }
 ]
