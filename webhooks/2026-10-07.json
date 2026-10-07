@@ -1054,5 +1054,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55799"
     }
+  },
+  {
+    "runNumber": "55802",
+    "rawCode": "FLOI",
+    "timestamp": "2026-10-07T09:52:03.594657-04:00",
+    "address": "585 W Main Street",
+    "extra": {
+      "incidentNumber": "55802",
+      "run_id": "55802",
+      "address": "585 W Main Street",
+      "rawType": "FLOI",
+      "typeCode": "FLOI",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L02",
+      "units": "L02",
+      "unitCount": "1",
+      "primaryTopic": "FLOI",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55802"
+    }
   }
 ]
