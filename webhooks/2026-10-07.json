@@ -1670,5 +1670,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55829"
     }
+  },
+  {
+    "runNumber": "55833",
+    "rawCode": "MED",
+    "timestamp": "2026-10-07T11:42:20.874690-04:00",
+    "address": "200 Block Mandalay Road",
+    "extra": {
+      "incidentNumber": "55833",
+      "run_id": "55833",
+      "address": "200 Block Mandalay Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "T1,EC13",
+      "units": "T1,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55833"
+    }
   }
 ]
