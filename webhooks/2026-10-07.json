@@ -3078,5 +3078,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55896"
     }
+  },
+  {
+    "runNumber": "55898",
+    "rawCode": "MED",
+    "timestamp": "2026-10-07T16:59:45.897674-04:00",
+    "address": "1500 Block Halsted Court",
+    "extra": {
+      "incidentNumber": "55898",
+      "run_id": "55898",
+      "address": "1500 Block Halsted Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC3,CRT1",
+      "units": "E02,EC3,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55898"
+    }
   }
 ]
