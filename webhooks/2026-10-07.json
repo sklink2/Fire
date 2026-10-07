@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55917"
     }
+  },
+  {
+    "runNumber": "55919",
+    "rawCode": "MED",
+    "timestamp": "2026-10-07T18:33:22.044688-04:00",
+    "address": "3700 Block Red River Drive",
+    "extra": {
+      "incidentNumber": "55919",
+      "run_id": "55919",
+      "address": "3700 Block Red River Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55919"
+    }
   }
 ]
