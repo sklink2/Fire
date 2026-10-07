@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55787"
     }
+  },
+  {
+    "runNumber": "55786",
+    "rawCode": "MED",
+    "timestamp": "2026-10-07T08:48:36.290903-04:00",
+    "address": "100 Block Wilton Avenue",
+    "extra": {
+      "incidentNumber": "55786",
+      "run_id": "55786",
+      "address": "100 Block Wilton Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,EC10",
+      "units": "E13,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55786"
+    }
   }
 ]
