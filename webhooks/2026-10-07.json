@@ -2374,5 +2374,27 @@
       "commandUnits": "241,220,201,205",
       "dedupeKey": "INCIDENT-55864"
     }
+  },
+  {
+    "runNumber": "55866",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-07T14:49:28.648993-04:00",
+    "address": "2265 Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "55866",
+      "run_id": "55866",
+      "address": "2265 Harrodsburg Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E12,E20,L04,204",
+      "units": "E11,E12,E20,L04,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-55866"
+    }
   }
 ]
