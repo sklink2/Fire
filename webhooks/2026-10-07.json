@@ -3716,5 +3716,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55926"
     }
+  },
+  {
+    "runNumber": "55927",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-07T19:13:29.907649-04:00",
+    "address": "524 Angliana Avenue",
+    "extra": {
+      "incidentNumber": "55927",
+      "run_id": "55927",
+      "address": "524 Angliana Avenue",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E13,204",
+      "units": "E11,E13,204",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-55927"
+    }
   }
 ]
