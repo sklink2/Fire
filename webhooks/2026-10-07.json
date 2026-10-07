@@ -2418,5 +2418,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55865"
     }
+  },
+  {
+    "runNumber": "55869",
+    "rawCode": "FSTR",
+    "timestamp": "2026-10-07T14:56:10.468057-04:00",
+    "address": "2204 Azalea Drive",
+    "extra": {
+      "incidentNumber": "55869",
+      "run_id": "55869",
+      "address": "2204 Azalea Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E07,E14,E15,L02,L07,EC5,202,205",
+      "units": "E06,E07,E14,E15,L02,L07,EC5,202,205",
+      "unitCount": "9",
+      "primaryTopic": "FSTR",
+      "commandUnits": "202,205",
+      "dedupeKey": "INCIDENT-55869"
+    }
   }
 ]
