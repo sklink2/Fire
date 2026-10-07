@@ -3474,5 +3474,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55915"
     }
+  },
+  {
+    "runNumber": "55916",
+    "rawCode": "MED",
+    "timestamp": "2026-10-07T18:16:39.341612-04:00",
+    "address": "2900 Block Trailside Drive",
+    "extra": {
+      "incidentNumber": "55916",
+      "run_id": "55916",
+      "address": "2900 Block Trailside Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC10",
+      "units": "E24,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55916"
+    }
   }
 ]
