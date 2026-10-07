@@ -900,5 +900,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55793"
     }
+  },
+  {
+    "runNumber": "55795",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-07T09:25:19.963557-04:00",
+    "address": "1850 Bryant Road",
+    "extra": {
+      "incidentNumber": "55795",
+      "run_id": "55795",
+      "address": "1850 Bryant Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E17,E21,L06,201",
+      "units": "E17,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-55795"
+    }
   }
 ]
