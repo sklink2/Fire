@@ -3056,5 +3056,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55897"
     }
+  },
+  {
+    "runNumber": "55896",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-07T16:53:07.697235-04:00",
+    "address": "1177 Redwood Circle",
+    "extra": {
+      "incidentNumber": "55896",
+      "run_id": "55896",
+      "address": "1177 Redwood Circle",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,L03",
+      "units": "E10,L03",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55896"
+    }
   }
 ]
