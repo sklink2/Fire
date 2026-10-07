@@ -2396,5 +2396,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-55866"
     }
+  },
+  {
+    "runNumber": "55865",
+    "rawCode": "MED",
+    "timestamp": "2026-10-07T14:49:31.257788-04:00",
+    "address": "600 Block Hidden Point Drive",
+    "extra": {
+      "incidentNumber": "55865",
+      "run_id": "55865",
+      "address": "600 Block Hidden Point Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55865"
+    }
   }
 ]
