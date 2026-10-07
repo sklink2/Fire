@@ -1714,5 +1714,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55832"
     }
+  },
+  {
+    "runNumber": "55834",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-07T11:45:41.035398-04:00",
+    "address": "1401 Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "55834",
+      "run_id": "55834",
+      "address": "1401 Harrodsburg Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E11,E12,L04,204",
+      "units": "E06,E11,E12,L04,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-55834"
+    }
   }
 ]
