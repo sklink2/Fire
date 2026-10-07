@@ -3276,5 +3276,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-55907"
     }
+  },
+  {
+    "runNumber": "55906",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-07T17:29:52.875357-04:00",
+    "address": "S Broadway & American Avenue",
+    "extra": {
+      "incidentNumber": "55906",
+      "run_id": "55906",
+      "address": "S Broadway & American Avenue",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC1",
+      "units": "E11,EC1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55906"
+    }
   }
 ]
