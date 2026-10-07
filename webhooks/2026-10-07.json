@@ -1230,5 +1230,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-55809"
     }
+  },
+  {
+    "runNumber": "55811",
+    "rawCode": "MED",
+    "timestamp": "2026-10-07T10:18:47.114444-04:00",
+    "address": "700 Block N Broadway",
+    "extra": {
+      "incidentNumber": "55811",
+      "run_id": "55811",
+      "address": "700 Block N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,EC8",
+      "units": "E04,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55811"
+    }
   }
 ]
