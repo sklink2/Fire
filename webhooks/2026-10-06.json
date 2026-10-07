@@ -4310,5 +4310,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55752"
     }
+  },
+  {
+    "runNumber": "55753",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-06T23:37:13.803316-04:00",
+    "address": "E Fourth Street & Race Street",
+    "extra": {
+      "incidentNumber": "55753",
+      "run_id": "55753",
+      "address": "E Fourth Street & Race Street",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E05,205",
+      "units": "E01,E05,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-55753"
+    }
   }
 ]
