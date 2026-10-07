@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55784"
     }
+  },
+  {
+    "runNumber": "55783",
+    "rawCode": "FGAO",
+    "timestamp": "2026-10-07T08:08:30.118208-04:00",
+    "address": "1563 Heron Lane",
+    "extra": {
+      "incidentNumber": "55783",
+      "run_id": "55783",
+      "address": "1563 Heron Lane",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E20",
+      "units": "E11,E20",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55783"
+    }
   }
 ]
