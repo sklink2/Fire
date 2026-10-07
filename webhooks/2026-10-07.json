@@ -922,5 +922,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-55795"
     }
+  },
+  {
+    "runNumber": "55796",
+    "rawCode": "MED",
+    "timestamp": "2026-10-07T09:28:40.091560-04:00",
+    "address": "Alexandria Drive & Enterprise Court",
+    "extra": {
+      "incidentNumber": "55796",
+      "run_id": "55796",
+      "address": "Alexandria Drive & Enterprise Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1,CRT1",
+      "units": "EC1,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55796"
+    }
   }
 ]
