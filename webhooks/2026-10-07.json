@@ -3496,5 +3496,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55916"
     }
+  },
+  {
+    "runNumber": "55918",
+    "rawCode": "FMIS",
+    "timestamp": "2026-10-07T18:20:00.555078-04:00",
+    "address": "126 Wilton Avenue",
+    "extra": {
+      "incidentNumber": "55918",
+      "run_id": "55918",
+      "address": "126 Wilton Avenue",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,203",
+      "units": "E13,203",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-55918"
+    }
   }
 ]
