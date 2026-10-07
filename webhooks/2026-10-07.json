@@ -790,5 +790,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55789"
     }
+  },
+  {
+    "runNumber": "55790",
+    "rawCode": "FWID",
+    "timestamp": "2026-10-07T08:58:36.277364-04:00",
+    "address": "1014 Mcclain Drive",
+    "extra": {
+      "incidentNumber": "55790",
+      "run_id": "55790",
+      "address": "1014 Mcclain Drive",
+      "rawType": "FWID",
+      "typeCode": "FWID",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "FWID",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55790"
+    }
   }
 ]
