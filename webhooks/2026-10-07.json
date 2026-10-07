@@ -526,5 +526,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55777"
     }
+  },
+  {
+    "runNumber": "55778",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-07T07:15:00.486149-04:00",
+    "address": "2416 San Milano Place",
+    "extra": {
+      "incidentNumber": "55778",
+      "run_id": "55778",
+      "address": "2416 San Milano Place",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E21,L05,201",
+      "units": "E02,E21,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-55778"
+    }
   }
 ]
