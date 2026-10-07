@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55798"
     }
+  },
+  {
+    "runNumber": "55801",
+    "rawCode": "MED",
+    "timestamp": "2026-10-07T09:45:22.524285-04:00",
+    "address": "200 Block Lexington Green Circle",
+    "extra": {
+      "incidentNumber": "55801",
+      "run_id": "55801",
+      "address": "200 Block Lexington Green Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC4",
+      "units": "E20,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55801"
+    }
   }
 ]
