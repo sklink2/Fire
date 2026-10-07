@@ -3914,5 +3914,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55935"
     }
+  },
+  {
+    "runNumber": "55936",
+    "rawCode": "FSTR",
+    "timestamp": "2026-10-07T19:56:55.642401-04:00",
+    "address": "941 Ridgebrook Road",
+    "extra": {
+      "incidentNumber": "55936",
+      "run_id": "55936",
+      "address": "941 Ridgebrook Road",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E08,E09,E21,L05,L06,EC3,201,202,205,241,RS1",
+      "units": "E02,E08,E09,E21,L05,L06,EC3,201,202,205,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,201,202,205",
+      "dedupeKey": "INCIDENT-55936"
+    }
   }
 ]
