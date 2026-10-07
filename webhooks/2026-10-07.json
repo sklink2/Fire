@@ -1186,5 +1186,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55806"
     }
+  },
+  {
+    "runNumber": "55808",
+    "rawCode": "MED",
+    "timestamp": "2026-10-07T10:08:45.480178-04:00",
+    "address": "100 Block Arceme Avenue",
+    "extra": {
+      "incidentNumber": "55808",
+      "run_id": "55808",
+      "address": "100 Block Arceme Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L01,EC3",
+      "units": "L01,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55808"
+    }
   }
 ]
