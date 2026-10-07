@@ -3298,5 +3298,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55906"
     }
+  },
+  {
+    "runNumber": "55908",
+    "rawCode": "FELF",
+    "timestamp": "2026-10-07T17:33:11.280160-04:00",
+    "address": "1317 Centre Parkway",
+    "extra": {
+      "incidentNumber": "55908",
+      "run_id": "55908",
+      "address": "1317 Centre Parkway",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E16,L07,202",
+      "units": "E07,E16,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-55908"
+    }
   }
 ]
