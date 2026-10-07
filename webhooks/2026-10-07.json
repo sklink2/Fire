@@ -2220,5 +2220,27 @@
       "commandUnits": "220,204",
       "dedupeKey": "INCIDENT-55857"
     }
+  },
+  {
+    "runNumber": "55858",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-07T13:45:58.091976-04:00",
+    "address": "602 Judy Lane",
+    "extra": {
+      "incidentNumber": "55858",
+      "run_id": "55858",
+      "address": "602 Judy Lane",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55858"
+    }
   }
 ]
