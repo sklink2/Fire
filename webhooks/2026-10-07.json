@@ -2198,5 +2198,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55856"
     }
+  },
+  {
+    "runNumber": "55857",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-07T13:39:18.211802-04:00",
+    "address": "3475 Lyon Drive",
+    "extra": {
+      "incidentNumber": "55857",
+      "run_id": "55857",
+      "address": "3475 Lyon Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E20,L04,EC5,204,220",
+      "units": "E11,E20,L04,EC5,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-55857"
+    }
   }
 ]
