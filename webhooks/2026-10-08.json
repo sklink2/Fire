@@ -438,5 +438,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55984"
     }
+  },
+  {
+    "runNumber": "55985",
+    "rawCode": "MED",
+    "timestamp": "2026-10-08T03:28:03.948756-04:00",
+    "address": "1800 Block Normandy Road",
+    "extra": {
+      "incidentNumber": "55985",
+      "run_id": "55985",
+      "address": "1800 Block Normandy Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55985"
+    }
   }
 ]
