@@ -790,5 +790,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55999"
     }
+  },
+  {
+    "runNumber": "56001",
+    "rawCode": "MED",
+    "timestamp": "2026-10-08T06:28:31.164122-04:00",
+    "address": "900 Block Springwood Court",
+    "extra": {
+      "incidentNumber": "56001",
+      "run_id": "56001",
+      "address": "900 Block Springwood Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56001"
+    }
   }
 ]
