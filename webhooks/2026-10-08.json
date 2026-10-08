@@ -2462,5 +2462,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-56074"
     }
+  },
+  {
+    "runNumber": "56075",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-08T13:32:58.652159-04:00",
+    "address": "1376 Silver Springs Drive",
+    "extra": {
+      "incidentNumber": "56075",
+      "run_id": "56075",
+      "address": "1376 Silver Springs Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E13,L03,203",
+      "units": "E04,E13,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-56075"
+    }
   }
 ]
