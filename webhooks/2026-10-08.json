@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56007"
     }
+  },
+  {
+    "runNumber": "56008",
+    "rawCode": "MED",
+    "timestamp": "2026-10-08T07:15:18.646902-04:00",
+    "address": "400 Block S Broadway",
+    "extra": {
+      "incidentNumber": "56008",
+      "run_id": "56008",
+      "address": "400 Block S Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56008"
+    }
   }
 ]
