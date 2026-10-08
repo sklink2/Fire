@@ -3694,5 +3694,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56130"
     }
+  },
+  {
+    "runNumber": "56131",
+    "rawCode": "FELF",
+    "timestamp": "2026-10-08T17:46:56.439225-04:00",
+    "address": "1304 Robertson Avenue",
+    "extra": {
+      "incidentNumber": "56131",
+      "run_id": "56131",
+      "address": "1304 Robertson Avenue",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E09,L02,201",
+      "units": "E05,E09,L02,201",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-56131"
+    }
   }
 ]
