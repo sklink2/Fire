@@ -3430,5 +3430,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56116"
     }
+  },
+  {
+    "runNumber": "56121",
+    "rawCode": "MED",
+    "timestamp": "2026-10-08T17:06:50.557302-04:00",
+    "address": "600 Block Lisa Court",
+    "extra": {
+      "incidentNumber": "56121",
+      "run_id": "56121",
+      "address": "600 Block Lisa Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC11",
+      "units": "E08,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56121"
+    }
   }
 ]
