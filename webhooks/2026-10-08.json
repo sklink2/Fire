@@ -2044,5 +2044,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56055"
     }
+  },
+  {
+    "runNumber": "56056",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-08T11:56:02.848297-04:00",
+    "address": "1825 Hopemont Court",
+    "extra": {
+      "incidentNumber": "56056",
+      "run_id": "56056",
+      "address": "1825 Hopemont Court",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,L02",
+      "units": "E20,L02",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56056"
+    }
   }
 ]
