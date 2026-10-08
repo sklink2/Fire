@@ -3716,5 +3716,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-56131"
     }
+  },
+  {
+    "runNumber": "56132",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-08T17:50:17.742171-04:00",
+    "address": "169 Deweese Street",
+    "extra": {
+      "incidentNumber": "56132",
+      "run_id": "56132",
+      "address": "169 Deweese Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E13,L01,203",
+      "units": "E06,E13,L01,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-56132"
+    }
   }
 ]
