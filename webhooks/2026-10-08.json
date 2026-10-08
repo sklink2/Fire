@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56077"
     }
+  },
+  {
+    "runNumber": "56079",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-08T13:52:59.679496-04:00",
+    "address": "2432 Regency Road",
+    "extra": {
+      "incidentNumber": "56079",
+      "run_id": "56079",
+      "address": "2432 Regency Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,E15,L04,204",
+      "units": "E12,E15,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-56079"
+    }
   }
 ]
