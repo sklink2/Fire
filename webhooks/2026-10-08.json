@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55995"
     }
+  },
+  {
+    "runNumber": "55998",
+    "rawCode": "MED",
+    "timestamp": "2026-10-08T06:01:47.494092-04:00",
+    "address": "800 Block Malabu Drive",
+    "extra": {
+      "incidentNumber": "55998",
+      "run_id": "55998",
+      "address": "800 Block Malabu Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,EC4",
+      "units": "E07,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55998"
+    }
   }
 ]
