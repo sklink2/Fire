@@ -328,5 +328,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55980"
     }
+  },
+  {
+    "runNumber": "55976",
+    "rawCode": "FSTRW",
+    "timestamp": "2026-10-08T02:37:54.981743-04:00",
+    "address": "1881 Plaudit Place",
+    "extra": {
+      "incidentNumber": "55976",
+      "run_id": "55976",
+      "address": "1881 Plaudit Place",
+      "rawType": "FSTRW",
+      "typeCode": "FSTRW",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E17,E21,L05,L06,EC11,201,202,RS1,434",
+      "units": "E02,E17,E21,L05,L06,EC11,201,202,RS1,434",
+      "unitCount": "10",
+      "primaryTopic": "FSTRW",
+      "commandUnits": "201,202",
+      "dedupeKey": "INCIDENT-55976"
+    }
   }
 ]
