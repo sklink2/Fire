@@ -1296,5 +1296,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56023"
     }
+  },
+  {
+    "runNumber": "56025",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-08T09:08:58.642399-04:00",
+    "address": "808 Whitney Avenue",
+    "extra": {
+      "incidentNumber": "56025",
+      "run_id": "56025",
+      "address": "808 Whitney Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E19,L03,203",
+      "units": "E01,E19,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-56025"
+    }
   }
 ]
