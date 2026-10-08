@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55997"
     }
+  },
+  {
+    "runNumber": "55996",
+    "rawCode": "MED",
+    "timestamp": "2026-10-08T05:48:27.105375-04:00",
+    "address": "1900 Block Westminster Drive",
+    "extra": {
+      "incidentNumber": "55996",
+      "run_id": "55996",
+      "address": "1900 Block Westminster Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55996"
+    }
   }
 ]
