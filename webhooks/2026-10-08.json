@@ -1714,5 +1714,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56042"
     }
+  },
+  {
+    "runNumber": "56043",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-08T10:52:34.040575-04:00",
+    "address": "3801 Mall Road",
+    "extra": {
+      "incidentNumber": "56043",
+      "run_id": "56043",
+      "address": "3801 Mall Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,E15,L04,204",
+      "units": "E07,E15,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-56043"
+    }
   }
 ]
