@@ -1494,5 +1494,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56032"
     }
+  },
+  {
+    "runNumber": "56033",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-08T09:59:06.199320-04:00",
+    "address": "150 N Eagle Creek Drive",
+    "extra": {
+      "incidentNumber": "56033",
+      "run_id": "56033",
+      "address": "150 N Eagle Creek Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E16,E21,L06,201",
+      "units": "E05,E16,E21,L06,201",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-56033"
+    }
   }
 ]
