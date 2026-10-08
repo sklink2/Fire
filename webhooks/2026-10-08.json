@@ -592,5 +592,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55991"
     }
+  },
+  {
+    "runNumber": "55992",
+    "rawCode": "MED",
+    "timestamp": "2026-10-08T05:35:03.319555-04:00",
+    "address": "600 Block Springhurst Drive",
+    "extra": {
+      "incidentNumber": "55992",
+      "run_id": "55992",
+      "address": "600 Block Springhurst Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55992"
+    }
   }
 ]
