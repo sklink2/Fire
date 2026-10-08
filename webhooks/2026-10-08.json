@@ -3650,5 +3650,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56128"
     }
+  },
+  {
+    "runNumber": "56129",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-08T17:40:14.951041-04:00",
+    "address": "551 W Sixth Street",
+    "extra": {
+      "incidentNumber": "56129",
+      "run_id": "56129",
+      "address": "551 W Sixth Street",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E02,205",
+      "units": "E01,E02,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-56129"
+    }
   }
 ]
