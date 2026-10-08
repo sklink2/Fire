@@ -988,5 +988,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-56009"
     }
+  },
+  {
+    "runNumber": "56010",
+    "rawCode": "FBGL",
+    "timestamp": "2026-10-08T07:42:04.642008-04:00",
+    "address": "W Second Street & Saunier Street",
+    "extra": {
+      "incidentNumber": "56010",
+      "run_id": "56010",
+      "address": "W Second Street & Saunier Street",
+      "rawType": "FBGL",
+      "typeCode": "FBGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06",
+      "units": "E06",
+      "unitCount": "1",
+      "primaryTopic": "FBGL",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56010"
+    }
   }
 ]
