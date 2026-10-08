@@ -1142,5 +1142,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56014"
     }
+  },
+  {
+    "runNumber": "56017",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-08T08:22:11.583332-04:00",
+    "address": "1120 University Drive",
+    "extra": {
+      "incidentNumber": "56017",
+      "run_id": "56017",
+      "address": "1120 University Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E05,E12,L02,204",
+      "units": "E01,E05,E12,L02,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-56017"
+    }
   }
 ]
