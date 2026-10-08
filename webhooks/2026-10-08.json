@@ -1428,5 +1428,27 @@
       "commandUnits": "241,202",
       "dedupeKey": "INCIDENT-56029"
     }
+  },
+  {
+    "runNumber": "56031",
+    "rawCode": "MED",
+    "timestamp": "2026-10-08T09:39:01.662511-04:00",
+    "address": "3300 Block Featherston Drive",
+    "extra": {
+      "incidentNumber": "56031",
+      "run_id": "56031",
+      "address": "3300 Block Featherston Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56031"
+    }
   }
 ]
