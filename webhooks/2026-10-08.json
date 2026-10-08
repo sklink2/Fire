@@ -284,5 +284,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55978"
     }
+  },
+  {
+    "runNumber": "55979",
+    "rawCode": "MED",
+    "timestamp": "2026-10-08T02:11:09.520493-04:00",
+    "address": "3300 Block Pepperhill Road",
+    "extra": {
+      "incidentNumber": "55979",
+      "run_id": "55979",
+      "address": "3300 Block Pepperhill Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55979"
+    }
   }
 ]
