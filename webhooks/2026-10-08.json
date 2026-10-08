@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-55986"
     }
+  },
+  {
+    "runNumber": "55988",
+    "rawCode": "MED",
+    "timestamp": "2026-10-08T04:51:34.992416-04:00",
+    "address": "2000 Block Rainbow Road",
+    "extra": {
+      "incidentNumber": "55988",
+      "run_id": "55988",
+      "address": "2000 Block Rainbow Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,EC12",
+      "units": "E12,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-55988"
+    }
   }
 ]
