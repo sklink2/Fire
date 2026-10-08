@@ -1978,5 +1978,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56052"
     }
+  },
+  {
+    "runNumber": "56051",
+    "rawCode": "MED",
+    "timestamp": "2026-10-08T11:29:23.171895-04:00",
+    "address": "2200 Block Pierson Drive",
+    "extra": {
+      "incidentNumber": "56051",
+      "run_id": "56051",
+      "address": "2200 Block Pierson Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,CRT1",
+      "units": "E02,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56051"
+    }
   }
 ]
