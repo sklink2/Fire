@@ -2594,5 +2594,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56303"
     }
+  },
+  {
+    "runNumber": "56306",
+    "rawCode": "MED",
+    "timestamp": "2026-10-09T15:56:57.363405-04:00",
+    "address": "1900 Block N Broadway",
+    "extra": {
+      "incidentNumber": "56306",
+      "run_id": "56306",
+      "address": "1900 Block N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC10",
+      "units": "E08,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56306"
+    }
   }
 ]
