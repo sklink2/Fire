@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56216"
     }
+  },
+  {
+    "runNumber": "56218",
+    "rawCode": "MED",
+    "timestamp": "2026-10-09T05:32:02.360806-04:00",
+    "address": "200 Block Forest Hill Drive",
+    "extra": {
+      "incidentNumber": "56218",
+      "run_id": "56218",
+      "address": "200 Block Forest Hill Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56218"
+    }
   }
 ]
