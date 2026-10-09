@@ -3496,5 +3496,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56344"
     }
+  },
+  {
+    "runNumber": "56346",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-09T19:30:49.469401-04:00",
+    "address": "Mockingbird Lane & Street Joseph Drive",
+    "extra": {
+      "incidentNumber": "56346",
+      "run_id": "56346",
+      "address": "Mockingbird Lane & Street Joseph Drive",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E12,204",
+      "units": "E11,E12,204",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-56346"
+    }
   }
 ]
