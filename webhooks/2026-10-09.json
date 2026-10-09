@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56249"
     }
+  },
+  {
+    "runNumber": "56248",
+    "rawCode": "MED",
+    "timestamp": "2026-10-09T10:26:13.175479-04:00",
+    "address": "100 Block W Third Street",
+    "extra": {
+      "incidentNumber": "56248",
+      "run_id": "56248",
+      "address": "100 Block W Third Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56248"
+    }
   }
 ]
