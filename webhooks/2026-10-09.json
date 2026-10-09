@@ -1252,5 +1252,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56243"
     }
+  },
+  {
+    "runNumber": "56244",
+    "rawCode": "FVLA",
+    "timestamp": "2026-10-09T10:12:48.801952-04:00",
+    "address": "360 Thompson Road",
+    "extra": {
+      "incidentNumber": "56244",
+      "run_id": "56244",
+      "address": "360 Thompson Road",
+      "rawType": "FVLA",
+      "typeCode": "FVLA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,E24,L03,203",
+      "units": "E13,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FVLA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-56244"
+    }
   }
 ]
