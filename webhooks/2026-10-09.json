@@ -3628,5 +3628,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-56351"
     }
+  },
+  {
+    "runNumber": "56352",
+    "rawCode": "MED",
+    "timestamp": "2026-10-09T19:54:12.792751-04:00",
+    "address": "1200 Block Cherbourg Road",
+    "extra": {
+      "incidentNumber": "56352",
+      "run_id": "56352",
+      "address": "1200 Block Cherbourg Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56352"
+    }
   }
 ]
