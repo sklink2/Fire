@@ -394,5 +394,27 @@
       "commandUnits": "241,205",
       "dedupeKey": "INCIDENT-56204"
     }
+  },
+  {
+    "runNumber": "56206",
+    "rawCode": "MED",
+    "timestamp": "2026-10-09T02:08:12.746890-04:00",
+    "address": "300 Block Woodcross Place",
+    "extra": {
+      "incidentNumber": "56206",
+      "run_id": "56206",
+      "address": "300 Block Woodcross Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56206"
+    }
   }
 ]
