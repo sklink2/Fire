@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56218"
     }
+  },
+  {
+    "runNumber": "56219",
+    "rawCode": "MED",
+    "timestamp": "2026-10-09T05:48:46.806906-04:00",
+    "address": "2400 Block Millbrook Drive",
+    "extra": {
+      "incidentNumber": "56219",
+      "run_id": "56219",
+      "address": "2400 Block Millbrook Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,EC12",
+      "units": "E12,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56219"
+    }
   }
 ]
