@@ -4728,5 +4728,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56176"
     }
+  },
+  {
+    "runNumber": "56179",
+    "rawCode": "FELS",
+    "timestamp": "2026-10-08T22:07:37.553804-04:00",
+    "address": "1003 N Limestone",
+    "extra": {
+      "incidentNumber": "56179",
+      "run_id": "56179",
+      "address": "1003 N Limestone",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,L01,205",
+      "units": "E08,L01,205",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-56179"
+    }
   }
 ]
