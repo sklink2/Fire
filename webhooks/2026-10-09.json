@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56262"
     }
+  },
+  {
+    "runNumber": "56265",
+    "rawCode": "MED",
+    "timestamp": "2026-10-09T12:06:23.318555-04:00",
+    "address": "4600 Block Monterey Court",
+    "extra": {
+      "incidentNumber": "56265",
+      "run_id": "56265",
+      "address": "4600 Block Monterey Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56265"
+    }
   }
 ]
