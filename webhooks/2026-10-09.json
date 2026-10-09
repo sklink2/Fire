@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56219"
     }
+  },
+  {
+    "runNumber": "56221",
+    "rawCode": "MED",
+    "timestamp": "2026-10-09T05:55:26.710157-04:00",
+    "address": "100 Block Rosemary Avenue",
+    "extra": {
+      "incidentNumber": "56221",
+      "run_id": "56221",
+      "address": "100 Block Rosemary Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56221"
+    }
   }
 ]
