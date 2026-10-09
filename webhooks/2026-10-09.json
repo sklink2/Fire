@@ -790,5 +790,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56223"
     }
+  },
+  {
+    "runNumber": "56222",
+    "rawCode": "MED",
+    "timestamp": "2026-10-09T06:28:54.783069-04:00",
+    "address": "100 Block Jesselin Drive",
+    "extra": {
+      "incidentNumber": "56222",
+      "run_id": "56222",
+      "address": "100 Block Jesselin Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,EC9",
+      "units": "E12,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56222"
+    }
   }
 ]
