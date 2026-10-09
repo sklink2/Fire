@@ -526,5 +526,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56211"
     }
+  },
+  {
+    "runNumber": "56212",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-10-09T03:55:10.150634-04:00",
+    "address": "Leestown Road & W New Circle Ram",
+    "extra": {
+      "incidentNumber": "56212",
+      "run_id": "56212",
+      "address": "Leestown Road & W New Circle Ram",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,L03,EC6,203,241,RS1",
+      "units": "E13,L03,EC6,203,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-56212"
+    }
   }
 ]
