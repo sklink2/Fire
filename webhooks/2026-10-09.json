@@ -3232,5 +3232,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-56333"
     }
+  },
+  {
+    "runNumber": "56332",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-09T18:27:21.074677-04:00",
+    "address": "541 Lisa Drive",
+    "extra": {
+      "incidentNumber": "56332",
+      "run_id": "56332",
+      "address": "541 Lisa Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E19,L05,201",
+      "units": "E08,E19,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-56332"
+    }
   }
 ]
