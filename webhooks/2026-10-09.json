@@ -3606,5 +3606,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56350"
     }
+  },
+  {
+    "runNumber": "56351",
+    "rawCode": "FVIS",
+    "timestamp": "2026-10-09T19:44:12.805043-04:00",
+    "address": "895 N Broadway",
+    "extra": {
+      "incidentNumber": "56351",
+      "run_id": "56351",
+      "address": "895 N Broadway",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E12,L01,EC1,201,RS1",
+      "units": "E08,E12,L01,EC1,201,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-56351"
+    }
   }
 ]
