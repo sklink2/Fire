@@ -2682,5 +2682,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-56309"
     }
+  },
+  {
+    "runNumber": "56310",
+    "rawCode": "MED",
+    "timestamp": "2026-10-09T16:13:40.934374-04:00",
+    "address": "1600 Block Versailles Road",
+    "extra": {
+      "incidentNumber": "56310",
+      "run_id": "56310",
+      "address": "1600 Block Versailles Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56310"
+    }
   }
 ]
