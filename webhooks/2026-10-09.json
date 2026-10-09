@@ -438,5 +438,27 @@
       "commandUnits": "201,202,203",
       "dedupeKey": "INCIDENT-56208"
     }
+  },
+  {
+    "runNumber": "56207",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-09T02:11:37.070008-04:00",
+    "address": "1337 Devonport Drive",
+    "extra": {
+      "incidentNumber": "56207",
+      "run_id": "56207",
+      "address": "1337 Devonport Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,E20,L04,EC5,204,220",
+      "units": "E14,E20,L04,EC5,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-56207"
+    }
   }
 ]
