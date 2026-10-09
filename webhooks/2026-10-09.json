@@ -416,5 +416,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56206"
     }
+  },
+  {
+    "runNumber": "56208",
+    "rawCode": "FSTR",
+    "timestamp": "2026-10-09T02:11:33.701181-04:00",
+    "address": "1341 Alexandria Drive",
+    "extra": {
+      "incidentNumber": "56208",
+      "run_id": "56208",
+      "address": "1341 Alexandria Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E11,E12,E13,L01,L03,EC12,201,202,203,RS1",
+      "units": "E08,E11,E12,E13,L01,L03,EC12,201,202,203,RS1",
+      "unitCount": "11",
+      "primaryTopic": "FSTR",
+      "commandUnits": "201,202,203",
+      "dedupeKey": "INCIDENT-56208"
+    }
   }
 ]
