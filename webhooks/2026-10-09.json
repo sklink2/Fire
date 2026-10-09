@@ -2022,5 +2022,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56279"
     }
+  },
+  {
+    "runNumber": "56280",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-09T13:53:20.951436-04:00",
+    "address": "1792 Alysheba Way",
+    "extra": {
+      "incidentNumber": "56280",
+      "run_id": "56280",
+      "address": "1792 Alysheba Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,E21,L06,201",
+      "units": "E17,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-56280"
+    }
   }
 ]
