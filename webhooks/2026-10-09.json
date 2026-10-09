@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56318"
     }
+  },
+  {
+    "runNumber": "56292",
+    "rawCode": "FSTRW",
+    "timestamp": "2026-10-09T17:00:28.569015-04:00",
+    "address": "5055 Old Frankfort Pike",
+    "extra": {
+      "incidentNumber": "56292",
+      "run_id": "56292",
+      "address": "5055 Old Frankfort Pike",
+      "rawType": "FSTRW",
+      "typeCode": "FSTRW",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,E13,E14,E24,L03,L04,T1,EC5,EC8,203,205,EC30",
+      "units": "E10,E13,E14,E24,L03,L04,T1,EC5,EC8,203,205,EC30",
+      "unitCount": "12",
+      "primaryTopic": "FSTRW",
+      "commandUnits": "203,205",
+      "dedupeKey": "INCIDENT-56292"
+    }
   }
 ]
