@@ -1516,5 +1516,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56254"
     }
+  },
+  {
+    "runNumber": "56256",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-09T10:46:13.634698-04:00",
+    "address": "2797 Trailwood Lane",
+    "extra": {
+      "incidentNumber": "56256",
+      "run_id": "56256",
+      "address": "2797 Trailwood Lane",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24",
+      "units": "E24",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56256"
+    }
   }
 ]
