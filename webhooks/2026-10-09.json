@@ -1604,5 +1604,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56260"
     }
+  },
+  {
+    "runNumber": "56261",
+    "rawCode": "MED",
+    "timestamp": "2026-10-09T11:42:59.608699-04:00",
+    "address": "100 Block Dennis Drive",
+    "extra": {
+      "incidentNumber": "56261",
+      "run_id": "56261",
+      "address": "100 Block Dennis Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC4",
+      "units": "E15,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56261"
+    }
   }
 ]
