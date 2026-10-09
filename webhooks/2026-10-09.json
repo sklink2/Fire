@@ -1274,5 +1274,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-56244"
     }
+  },
+  {
+    "runNumber": "56246",
+    "rawCode": "MED",
+    "timestamp": "2026-10-09T10:19:28.841638-04:00",
+    "address": "4600 Block Collinswood Drive",
+    "extra": {
+      "incidentNumber": "56246",
+      "run_id": "56246",
+      "address": "4600 Block Collinswood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56246"
+    }
   }
 ]
