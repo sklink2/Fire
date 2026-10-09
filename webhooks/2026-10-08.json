@@ -4464,5 +4464,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56165"
     }
+  },
+  {
+    "runNumber": "56166",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-08T20:40:44.245751-04:00",
+    "address": "Centre Parkway & Caulder Road",
+    "extra": {
+      "incidentNumber": "56166",
+      "run_id": "56166",
+      "address": "Centre Parkway & Caulder Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,E16,202",
+      "units": "E07,E16,202",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-56166"
+    }
   }
 ]
