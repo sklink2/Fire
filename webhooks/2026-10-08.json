@@ -4750,5 +4750,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-56179"
     }
+  },
+  {
+    "runNumber": "56178",
+    "rawCode": "MED",
+    "timestamp": "2026-10-08T22:07:39.880132-04:00",
+    "address": "500 Block Quin Shearer Court",
+    "extra": {
+      "incidentNumber": "56178",
+      "run_id": "56178",
+      "address": "500 Block Quin Shearer Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,EC10",
+      "units": "E04,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56178"
+    }
   }
 ]
