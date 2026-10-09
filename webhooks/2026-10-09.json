@@ -2220,5 +2220,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56285"
     }
+  },
+  {
+    "runNumber": "56289",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-09T14:33:27.522874-04:00",
+    "address": "201 Castlewood Drive",
+    "extra": {
+      "incidentNumber": "56289",
+      "run_id": "56289",
+      "address": "201 Castlewood Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E08,L01,205",
+      "units": "E01,E08,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-56289"
+    }
   }
 ]
