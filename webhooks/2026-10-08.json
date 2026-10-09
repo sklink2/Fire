@@ -4552,5 +4552,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56170"
     }
+  },
+  {
+    "runNumber": "56169",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-08T21:04:10.558592-04:00",
+    "address": "2412 Creekview Court",
+    "extra": {
+      "incidentNumber": "56169",
+      "run_id": "56169",
+      "address": "2412 Creekview Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,E20,L04,204",
+      "units": "E11,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-56169"
+    }
   }
 ]
