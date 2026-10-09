@@ -2198,5 +2198,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56286"
     }
+  },
+  {
+    "runNumber": "56285",
+    "rawCode": "MED",
+    "timestamp": "2026-10-09T14:30:12.711497-04:00",
+    "address": "600 Block Lakeshore Drive",
+    "extra": {
+      "incidentNumber": "56285",
+      "run_id": "56285",
+      "address": "600 Block Lakeshore Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56285"
+    }
   }
 ]
