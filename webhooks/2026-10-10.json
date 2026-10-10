@@ -2066,5 +2066,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56488"
     }
+  },
+  {
+    "runNumber": "56490",
+    "rawCode": "MED",
+    "timestamp": "2026-10-10T14:16:52.524931-04:00",
+    "address": "Fire5",
+    "extra": {
+      "incidentNumber": "56490",
+      "run_id": "56490",
+      "address": "Fire5",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "203",
+      "units": "203",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-56490"
+    }
   }
 ]
