@@ -3892,5 +3892,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56363"
     }
+  },
+  {
+    "runNumber": "56364",
+    "rawCode": "FSTR",
+    "timestamp": "2026-10-09T21:01:01.971401-04:00",
+    "address": "1101 Winbak Way",
+    "extra": {
+      "incidentNumber": "56364",
+      "run_id": "56364",
+      "address": "1101 Winbak Way",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E11,E12,E13,L01,L02,EC12,204,205,220,241",
+      "units": "E06,E11,E12,E13,L01,L02,EC12,204,205,220,241",
+      "unitCount": "11",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,204,205",
+      "dedupeKey": "INCIDENT-56364"
+    }
   }
 ]
