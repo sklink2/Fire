@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56480"
     }
+  },
+  {
+    "runNumber": "56481",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-10T13:13:22.943293-04:00",
+    "address": "4078 Finn Way",
+    "extra": {
+      "incidentNumber": "56481",
+      "run_id": "56481",
+      "address": "4078 Finn Way",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,E20,L04,EC9,204,220",
+      "units": "E15,E20,L04,EC9,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-56481"
+    }
   }
 ]
