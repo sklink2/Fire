@@ -3188,5 +3188,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56539"
     }
+  },
+  {
+    "runNumber": "56540",
+    "rawCode": "FFIA",
+    "timestamp": "2026-10-10T19:04:17.341198-04:00",
+    "address": "1916 Sandersville Road",
+    "extra": {
+      "incidentNumber": "56540",
+      "run_id": "56540",
+      "address": "1916 Sandersville Road",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E10,L03,205",
+      "units": "E08,E10,L03,205",
+      "unitCount": "4",
+      "primaryTopic": "FFIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-56540"
+    }
   }
 ]
