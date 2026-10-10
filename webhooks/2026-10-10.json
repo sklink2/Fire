@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56426"
     }
+  },
+  {
+    "runNumber": "56427",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-10T05:55:39.170214-04:00",
+    "address": "832 Marcellus Drive",
+    "extra": {
+      "incidentNumber": "56427",
+      "run_id": "56427",
+      "address": "832 Marcellus Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,L05",
+      "units": "E02,L05",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56427"
+    }
   }
 ]
