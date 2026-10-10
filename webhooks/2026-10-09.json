@@ -4178,5 +4178,27 @@
       "commandUnits": "241,220,203,205",
       "dedupeKey": "INCIDENT-56375"
     }
+  },
+  {
+    "runNumber": "56377",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-09T21:47:49.946501-04:00",
+    "address": "Man O War Boulevard & S 75 Ramp",
+    "extra": {
+      "incidentNumber": "56377",
+      "run_id": "56377",
+      "address": "Man O War Boulevard & S 75 Ramp",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,E21,EC11,EC7,241",
+      "units": "E17,E21,EC11,EC7,241",
+      "unitCount": "5",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-56377"
+    }
   }
 ]
