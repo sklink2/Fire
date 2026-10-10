@@ -240,5 +240,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56405"
     }
+  },
+  {
+    "runNumber": "56407",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-10T02:01:44.563932-04:00",
+    "address": "695 Laco Drive",
+    "extra": {
+      "incidentNumber": "56407",
+      "run_id": "56407",
+      "address": "695 Laco Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,EC5",
+      "units": "E13,EC5",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56407"
+    }
   }
 ]
