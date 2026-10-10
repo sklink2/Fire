@@ -4024,5 +4024,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56370"
     }
+  },
+  {
+    "runNumber": "56369",
+    "rawCode": "FOTS",
+    "timestamp": "2026-10-09T21:14:25.098851-04:00",
+    "address": "1101 Winbak Way",
+    "extra": {
+      "incidentNumber": "56369",
+      "run_id": "56369",
+      "address": "1101 Winbak Way",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,EC12",
+      "units": "E06,EC12",
+      "unitCount": "2",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56369"
+    }
   }
 ]
