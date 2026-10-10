@@ -2902,5 +2902,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56527"
     }
+  },
+  {
+    "runNumber": "56526",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-10T18:00:49.176834-04:00",
+    "address": "Winchester Road & Elkhorn Road",
+    "extra": {
+      "incidentNumber": "56526",
+      "run_id": "56526",
+      "address": "Winchester Road & Elkhorn Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC3,201",
+      "units": "E02,EC3,201",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-56526"
+    }
   }
 ]
