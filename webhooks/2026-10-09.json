@@ -4156,5 +4156,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56374"
     }
+  },
+  {
+    "runNumber": "56375",
+    "rawCode": "FSTR",
+    "timestamp": "2026-10-09T21:37:47.581856-04:00",
+    "address": "650 Tower Plz",
+    "extra": {
+      "incidentNumber": "56375",
+      "run_id": "56375",
+      "address": "650 Tower Plz",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E06,E08,E10,E13,L01,L03,EC5,EC7,203,205,220,241,RS1",
+      "units": "E04,E06,E08,E10,E13,L01,L03,EC5,EC7,203,205,220,241,RS1",
+      "unitCount": "14",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,203,205",
+      "dedupeKey": "INCIDENT-56375"
+    }
   }
 ]
