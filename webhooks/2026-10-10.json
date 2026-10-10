@@ -2836,5 +2836,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-56523"
     }
+  },
+  {
+    "runNumber": "56525",
+    "rawCode": "MED",
+    "timestamp": "2026-10-10T17:40:45.615937-04:00",
+    "address": "3800 Block Plantation Drive",
+    "extra": {
+      "incidentNumber": "56525",
+      "run_id": "56525",
+      "address": "3800 Block Plantation Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L04,EC12",
+      "units": "L04,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56525"
+    }
   }
 ]
