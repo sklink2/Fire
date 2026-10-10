@@ -4420,5 +4420,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56386"
     }
+  },
+  {
+    "runNumber": "56389",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-09T22:54:38.154390-04:00",
+    "address": "4372 Clemens Drive",
+    "extra": {
+      "incidentNumber": "56389",
+      "run_id": "56389",
+      "address": "4372 Clemens Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,E20,L04,EC9,204,220",
+      "units": "E15,E20,L04,EC9,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-56389"
+    }
   }
 ]
