@@ -3078,5 +3078,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56534"
     }
+  },
+  {
+    "runNumber": "56536",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-10T18:44:14.966984-04:00",
+    "address": "3051 Rio Dosa Drive",
+    "extra": {
+      "incidentNumber": "56536",
+      "run_id": "56536",
+      "address": "3051 Rio Dosa Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,L06",
+      "units": "E21,L06",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56536"
+    }
   }
 ]
