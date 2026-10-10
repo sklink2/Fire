@@ -2242,5 +2242,27 @@
       "commandUnits": "220",
       "dedupeKey": "INCIDENT-56496"
     }
+  },
+  {
+    "runNumber": "56495",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-10T14:53:45.000227-04:00",
+    "address": "Harrodsburg Road & Beaumont Cent",
+    "extra": {
+      "incidentNumber": "56495",
+      "run_id": "56495",
+      "address": "Harrodsburg Road & Beaumont Cent",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L04,EC12",
+      "units": "L04,EC12",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56495"
+    }
   }
 ]
