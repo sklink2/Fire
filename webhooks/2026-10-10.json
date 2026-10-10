@@ -1912,5 +1912,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56482"
     }
+  },
+  {
+    "runNumber": "56484",
+    "rawCode": "MED",
+    "timestamp": "2026-10-10T13:33:25.265270-04:00",
+    "address": "200 Block Patchen Drive",
+    "extra": {
+      "incidentNumber": "56484",
+      "run_id": "56484",
+      "address": "200 Block Patchen Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56484"
+    }
   }
 ]
