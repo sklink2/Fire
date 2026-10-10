@@ -2198,5 +2198,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-56490"
     }
+  },
+  {
+    "runNumber": "56497",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-10T14:53:39.989001-04:00",
+    "address": "451 Roosevelt Boulevard",
+    "extra": {
+      "incidentNumber": "56497",
+      "run_id": "56497",
+      "address": "451 Roosevelt Boulevard",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E10,L03,205",
+      "units": "E04,E10,L03,205",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-56497"
+    }
   }
 ]
