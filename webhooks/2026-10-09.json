@@ -3760,5 +3760,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56358"
     }
+  },
+  {
+    "runNumber": "56357",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-09T20:17:39.681113-04:00",
+    "address": "644 Ballard Street",
+    "extra": {
+      "incidentNumber": "56357",
+      "run_id": "56357",
+      "address": "644 Ballard Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E06,L03,203",
+      "units": "E04,E06,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-56357"
+    }
   }
 ]
