@@ -2088,5 +2088,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-56490"
     }
+  },
+  {
+    "runNumber": "56491",
+    "rawCode": "MED",
+    "timestamp": "2026-10-10T14:30:15.457387-04:00",
+    "address": "900 Block Wolf Run Drive",
+    "extra": {
+      "incidentNumber": "56491",
+      "run_id": "56491",
+      "address": "900 Block Wolf Run Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC5,CRT1",
+      "units": "E14,EC5,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56491"
+    }
   }
 ]
