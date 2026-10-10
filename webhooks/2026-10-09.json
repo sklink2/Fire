@@ -3936,5 +3936,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56365"
     }
+  },
+  {
+    "runNumber": "56368",
+    "rawCode": "MED",
+    "timestamp": "2026-10-09T21:07:40.845932-04:00",
+    "address": "600 Block Morgan Hills Drive",
+    "extra": {
+      "incidentNumber": "56368",
+      "run_id": "56368",
+      "address": "600 Block Morgan Hills Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L05,EC10",
+      "units": "L05,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56368"
+    }
   }
 ]
