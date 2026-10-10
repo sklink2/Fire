@@ -1714,5 +1714,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-56473"
     }
+  },
+  {
+    "runNumber": "56475",
+    "rawCode": "MED",
+    "timestamp": "2026-10-10T12:19:53.247208-04:00",
+    "address": "2400 Block Feathersound Way",
+    "extra": {
+      "incidentNumber": "56475",
+      "run_id": "56475",
+      "address": "2400 Block Feathersound Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC3",
+      "units": "E24,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56475"
+    }
   }
 ]
