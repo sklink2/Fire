@@ -3914,5 +3914,27 @@
       "commandUnits": "241,220,204,205",
       "dedupeKey": "INCIDENT-56364"
     }
+  },
+  {
+    "runNumber": "56365",
+    "rawCode": "MED",
+    "timestamp": "2026-10-09T21:04:21.464972-04:00",
+    "address": "2300 Block Lake Park Road",
+    "extra": {
+      "incidentNumber": "56365",
+      "run_id": "56365",
+      "address": "2300 Block Lake Park Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC2",
+      "units": "E02,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56365"
+    }
   }
 ]
