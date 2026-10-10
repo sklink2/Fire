@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56503"
     }
+  },
+  {
+    "runNumber": "56504",
+    "rawCode": "FVIS",
+    "timestamp": "2026-10-10T16:03:49.022621-04:00",
+    "address": "3650 Tates Creek Road",
+    "extra": {
+      "incidentNumber": "56504",
+      "run_id": "56504",
+      "address": "3650 Tates Creek Road",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E09,L07,EC13,202,RS1",
+      "units": "E07,E09,L07,EC13,202,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-56504"
+    }
   }
 ]
