@@ -4266,5 +4266,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56379"
     }
+  },
+  {
+    "runNumber": "56380",
+    "rawCode": "MED",
+    "timestamp": "2026-10-09T22:09:21.713934-04:00",
+    "address": "1800 Block Pleasant Ridge Drive",
+    "extra": {
+      "incidentNumber": "56380",
+      "run_id": "56380",
+      "address": "1800 Block Pleasant Ridge Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56380"
+    }
   }
 ]
