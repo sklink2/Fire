@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56418"
     }
+  },
+  {
+    "runNumber": "56419",
+    "rawCode": "MED",
+    "timestamp": "2026-10-10T03:48:39.217240-04:00",
+    "address": "300 Block S Upper Street",
+    "extra": {
+      "incidentNumber": "56419",
+      "run_id": "56419",
+      "address": "300 Block S Upper Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "RS1",
+      "units": "RS1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56419"
+    }
   }
 ]
