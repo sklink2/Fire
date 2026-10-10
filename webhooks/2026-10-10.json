@@ -2726,5 +2726,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56521"
     }
+  },
+  {
+    "runNumber": "56520",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-10T17:27:24.344714-04:00",
+    "address": "110 Forest Avenue",
+    "extra": {
+      "incidentNumber": "56520",
+      "run_id": "56520",
+      "address": "110 Forest Avenue",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,EC7",
+      "units": "E05,EC7",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56520"
+    }
   }
 ]
