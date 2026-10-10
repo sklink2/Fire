@@ -570,5 +570,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56423"
     }
+  },
+  {
+    "runNumber": "56422",
+    "rawCode": "MED",
+    "timestamp": "2026-10-10T04:05:23.664548-04:00",
+    "address": "400 Block Speigle Street",
+    "extra": {
+      "incidentNumber": "56422",
+      "run_id": "56422",
+      "address": "400 Block Speigle Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56422"
+    }
   }
 ]
