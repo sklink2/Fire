@@ -4288,5 +4288,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56380"
     }
+  },
+  {
+    "runNumber": "56383",
+    "rawCode": "FSTR",
+    "timestamp": "2026-10-09T22:14:32.983007-04:00",
+    "address": "2432 Pierson Drive",
+    "extra": {
+      "incidentNumber": "56383",
+      "run_id": "56383",
+      "address": "2432 Pierson Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E08,E13,E19,L01,L05,EC10,201,205,220,RS1",
+      "units": "E02,E08,E13,E19,L01,L05,EC10,201,205,220,RS1",
+      "unitCount": "11",
+      "primaryTopic": "FSTR",
+      "commandUnits": "220,201,205",
+      "dedupeKey": "INCIDENT-56383"
+    }
   }
 ]
