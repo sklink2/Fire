@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56472"
     }
+  },
+  {
+    "runNumber": "56473",
+    "rawCode": "FELF",
+    "timestamp": "2026-10-10T12:09:53.596291-04:00",
+    "address": "1214 Richmond Road",
+    "extra": {
+      "incidentNumber": "56473",
+      "run_id": "56473",
+      "address": "1214 Richmond Road",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,E13,L02,202",
+      "units": "E05,E06,E13,L02,202",
+      "unitCount": "5",
+      "primaryTopic": "FELF",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-56473"
+    }
   }
 ]
