@@ -3276,5 +3276,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56543"
     }
+  },
+  {
+    "runNumber": "56544",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-10T19:34:21.553656-04:00",
+    "address": "510 Hollow Creek Road",
+    "extra": {
+      "incidentNumber": "56544",
+      "run_id": "56544",
+      "address": "510 Hollow Creek Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E10,L03,205",
+      "units": "E08,E10,L03,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-56544"
+    }
   }
 ]
