@@ -262,5 +262,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56407"
     }
+  },
+  {
+    "runNumber": "56409",
+    "rawCode": "FMIS",
+    "timestamp": "2026-10-10T02:21:45.007301-04:00",
+    "address": "1611 Norwood Circle",
+    "extra": {
+      "incidentNumber": "56409",
+      "run_id": "56409",
+      "address": "1611 Norwood Circle",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,202",
+      "units": "E16,202",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-56409"
+    }
   }
 ]
