@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56360"
     }
+  },
+  {
+    "runNumber": "56359",
+    "rawCode": "MED",
+    "timestamp": "2026-10-09T20:30:59.098698-04:00",
+    "address": "600 Block Marshall Lane",
+    "extra": {
+      "incidentNumber": "56359",
+      "run_id": "56359",
+      "address": "600 Block Marshall Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56359"
+    }
   }
 ]
