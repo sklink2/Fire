@@ -3364,5 +3364,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56746"
     }
+  },
+  {
+    "runNumber": "56747",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-11T18:24:30.679584-04:00",
+    "address": "464 W Second Street",
+    "extra": {
+      "incidentNumber": "56747",
+      "run_id": "56747",
+      "address": "464 W Second Street",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E06,L01,EC1,205,220",
+      "units": "E04,E06,L01,EC1,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-56747"
+    }
   }
 ]
