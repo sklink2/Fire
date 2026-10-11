@@ -636,5 +636,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56626"
     }
+  },
+  {
+    "runNumber": "56625",
+    "rawCode": "MED",
+    "timestamp": "2026-10-11T03:12:11.814049-04:00",
+    "address": "200 Block Waller Avenue",
+    "extra": {
+      "incidentNumber": "56625",
+      "run_id": "56625",
+      "address": "200 Block Waller Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56625"
+    }
   }
 ]
