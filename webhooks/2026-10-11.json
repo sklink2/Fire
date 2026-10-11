@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56658"
     }
+  },
+  {
+    "runNumber": "56660",
+    "rawCode": "MED",
+    "timestamp": "2026-10-11T08:56:21.881852-04:00",
+    "address": "600 Block E High Street",
+    "extra": {
+      "incidentNumber": "56660",
+      "run_id": "56660",
+      "address": "600 Block E High Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,EC2",
+      "units": "E05,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56660"
+    }
   }
 ]
