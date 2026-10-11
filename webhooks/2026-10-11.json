@@ -1670,5 +1670,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56672"
     }
+  },
+  {
+    "runNumber": "56673",
+    "rawCode": "MED",
+    "timestamp": "2026-10-11T10:19:52.296305-04:00",
+    "address": "500 Block Judy Lane",
+    "extra": {
+      "incidentNumber": "56673",
+      "run_id": "56673",
+      "address": "500 Block Judy Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56673"
+    }
   }
 ]
