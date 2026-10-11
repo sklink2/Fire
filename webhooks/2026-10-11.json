@@ -900,5 +900,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56637"
     }
+  },
+  {
+    "runNumber": "56638",
+    "rawCode": "MED",
+    "timestamp": "2026-10-11T05:22:29.101390-04:00",
+    "address": "300 Block S Mill Street",
+    "extra": {
+      "incidentNumber": "56638",
+      "run_id": "56638",
+      "address": "300 Block S Mill Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56638"
+    }
   }
 ]
