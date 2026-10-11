@@ -2066,5 +2066,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-56689"
     }
+  },
+  {
+    "runNumber": "56691",
+    "rawCode": "MED",
+    "timestamp": "2026-10-11T12:40:17.211836-04:00",
+    "address": "700 Block Ward Drive",
+    "extra": {
+      "incidentNumber": "56691",
+      "run_id": "56691",
+      "address": "700 Block Ward Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56691"
+    }
   }
 ]
