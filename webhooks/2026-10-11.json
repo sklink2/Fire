@@ -2286,5 +2286,27 @@
       "commandUnits": "201,203",
       "dedupeKey": "INCIDENT-56699"
     }
+  },
+  {
+    "runNumber": "56698",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-11T13:23:48.973949-04:00",
+    "address": "Eastland Parkway & E New Circle R",
+    "extra": {
+      "incidentNumber": "56698",
+      "run_id": "56698",
+      "address": "Eastland Parkway & E New Circle R",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC3",
+      "units": "E02,EC3",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56698"
+    }
   }
 ]
