@@ -3958,5 +3958,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56575"
     }
+  },
+  {
+    "runNumber": "56574",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-10T22:01:26.241084-04:00",
+    "address": "1143 Centre Parkway",
+    "extra": {
+      "incidentNumber": "56574",
+      "run_id": "56574",
+      "address": "1143 Centre Parkway",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E16,L07,202",
+      "units": "E07,E16,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-56574"
+    }
   }
 ]
