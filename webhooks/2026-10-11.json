@@ -3100,5 +3100,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-56735"
     }
+  },
+  {
+    "runNumber": "56737",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-11T17:31:03.609732-04:00",
+    "address": "1626 Norwood Circle",
+    "extra": {
+      "incidentNumber": "56737",
+      "run_id": "56737",
+      "address": "1626 Norwood Circle",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,E22,L07,EC13,202,220",
+      "units": "E16,E22,L07,EC13,202,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-56737"
+    }
   }
 ]
