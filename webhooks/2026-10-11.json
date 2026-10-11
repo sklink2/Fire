@@ -1450,5 +1450,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-56663"
     }
+  },
+  {
+    "runNumber": "56662",
+    "rawCode": "MED",
+    "timestamp": "2026-10-11T09:09:44.466163-04:00",
+    "address": "400 Block Hawkins Avenue",
+    "extra": {
+      "incidentNumber": "56662",
+      "run_id": "56662",
+      "address": "400 Block Hawkins Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56662"
+    }
   }
 ]
