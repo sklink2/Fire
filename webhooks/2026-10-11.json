@@ -3584,5 +3584,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56756"
     }
+  },
+  {
+    "runNumber": "56757",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-11T19:24:40.013879-04:00",
+    "address": "747 Whitney Avenue",
+    "extra": {
+      "incidentNumber": "56757",
+      "run_id": "56757",
+      "address": "747 Whitney Avenue",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E10,L03,EC6,203",
+      "units": "E04,E10,L03,EC6,203",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-56757"
+    }
   }
 ]
