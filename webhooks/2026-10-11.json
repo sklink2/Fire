@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56681"
     }
+  },
+  {
+    "runNumber": "56682",
+    "rawCode": "MED",
+    "timestamp": "2026-10-11T11:26:44.789118-04:00",
+    "address": "2400 Block Pierson Drive",
+    "extra": {
+      "incidentNumber": "56682",
+      "run_id": "56682",
+      "address": "2400 Block Pierson Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC1,EC6,201,241",
+      "units": "E08,EC1,EC6,201,241",
+      "unitCount": "5",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-56682"
+    }
   }
 ]
