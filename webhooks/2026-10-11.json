@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56657"
     }
+  },
+  {
+    "runNumber": "56659",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-11T08:53:01.914849-04:00",
+    "address": "709 Turf Court",
+    "extra": {
+      "incidentNumber": "56659",
+      "run_id": "56659",
+      "address": "709 Turf Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,E16,L02,201",
+      "units": "E07,E16,L02,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-56659"
+    }
   }
 ]
