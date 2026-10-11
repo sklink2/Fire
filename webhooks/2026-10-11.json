@@ -1164,5 +1164,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56649"
     }
+  },
+  {
+    "runNumber": "56650",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-11T08:06:14.563847-04:00",
+    "address": "4000 Terminal Drive",
+    "extra": {
+      "incidentNumber": "56650",
+      "run_id": "56650",
+      "address": "4000 Terminal Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,E20,L04,203",
+      "units": "E14,E20,L04,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-56650"
+    }
   }
 ]
