@@ -2572,5 +2572,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56711"
     }
+  },
+  {
+    "runNumber": "56712",
+    "rawCode": "MED",
+    "timestamp": "2026-10-11T14:37:18.126076-04:00",
+    "address": "3500 Block Lyon Drive",
+    "extra": {
+      "incidentNumber": "56712",
+      "run_id": "56712",
+      "address": "3500 Block Lyon Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56712"
+    }
   }
 ]
