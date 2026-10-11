@@ -240,5 +240,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56606"
     }
+  },
+  {
+    "runNumber": "56608",
+    "rawCode": "MED",
+    "timestamp": "2026-10-11T00:35:08.383693-04:00",
+    "address": "800 Block Westchester Drive",
+    "extra": {
+      "incidentNumber": "56608",
+      "run_id": "56608",
+      "address": "800 Block Westchester Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56608"
+    }
   }
 ]
