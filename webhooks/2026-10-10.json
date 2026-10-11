@@ -3936,5 +3936,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56573"
     }
+  },
+  {
+    "runNumber": "56575",
+    "rawCode": "MED",
+    "timestamp": "2026-10-10T22:01:24.297545-04:00",
+    "address": "3800 Block Dicksonia Drive",
+    "extra": {
+      "incidentNumber": "56575",
+      "run_id": "56575",
+      "address": "3800 Block Dicksonia Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56575"
+    }
   }
 ]
