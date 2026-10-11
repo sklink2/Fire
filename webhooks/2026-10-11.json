@@ -328,5 +328,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56612"
     }
+  },
+  {
+    "runNumber": "56611",
+    "rawCode": "MED",
+    "timestamp": "2026-10-11T01:08:32.891244-04:00",
+    "address": "100 Block Market Street",
+    "extra": {
+      "incidentNumber": "56611",
+      "run_id": "56611",
+      "address": "100 Block Market Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56611"
+    }
   }
 ]
