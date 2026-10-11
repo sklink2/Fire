@@ -1934,5 +1934,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56684"
     }
+  },
+  {
+    "runNumber": "56685",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-11T11:53:29.006196-04:00",
+    "address": "224 E High Street",
+    "extra": {
+      "incidentNumber": "56685",
+      "run_id": "56685",
+      "address": "224 E High Street",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E05,L02,201",
+      "units": "E01,E05,L02,201",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-56685"
+    }
   }
 ]
