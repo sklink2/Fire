@@ -3980,5 +3980,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-56574"
     }
+  },
+  {
+    "runNumber": "56577",
+    "rawCode": "MED",
+    "timestamp": "2026-10-10T22:08:04.206426-04:00",
+    "address": "400 Block Redding Road",
+    "extra": {
+      "incidentNumber": "56577",
+      "run_id": "56577",
+      "address": "400 Block Redding Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E22,EC11",
+      "units": "E22,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56577"
+    }
   }
 ]
