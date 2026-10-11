@@ -3650,5 +3650,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56560"
     }
+  },
+  {
+    "runNumber": "56561",
+    "rawCode": "MED",
+    "timestamp": "2026-10-10T20:51:13.387132-04:00",
+    "address": "2500 Block Checkerberry Drive",
+    "extra": {
+      "incidentNumber": "56561",
+      "run_id": "56561",
+      "address": "2500 Block Checkerberry Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC3,241",
+      "units": "E21,EC3,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-56561"
+    }
   }
 ]
