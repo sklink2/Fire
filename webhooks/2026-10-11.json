@@ -746,5 +746,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56630"
     }
+  },
+  {
+    "runNumber": "56631",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-11T04:25:40.464652-04:00",
+    "address": "201 Simpson Avenue",
+    "extra": {
+      "incidentNumber": "56631",
+      "run_id": "56631",
+      "address": "201 Simpson Avenue",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56631"
+    }
   }
 ]
