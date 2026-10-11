@@ -4134,5 +4134,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56582"
     }
+  },
+  {
+    "runNumber": "56583",
+    "rawCode": "MED",
+    "timestamp": "2026-10-10T22:38:10.121068-04:00",
+    "address": "1000 Block Industry Road",
+    "extra": {
+      "incidentNumber": "56583",
+      "run_id": "56583",
+      "address": "1000 Block Industry Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC3",
+      "units": "E02,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56583"
+    }
   }
 ]
