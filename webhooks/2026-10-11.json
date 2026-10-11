@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56611"
     }
+  },
+  {
+    "runNumber": "56613",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-11T01:11:52.150104-04:00",
+    "address": "768 Winchester Road",
+    "extra": {
+      "incidentNumber": "56613",
+      "run_id": "56613",
+      "address": "768 Winchester Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02",
+      "units": "E02",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56613"
+    }
   }
 ]
