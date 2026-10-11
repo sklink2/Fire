@@ -3606,5 +3606,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56558"
     }
+  },
+  {
+    "runNumber": "56559",
+    "rawCode": "FDET",
+    "timestamp": "2026-10-10T20:41:12.818720-04:00",
+    "address": "501 S Limestone",
+    "extra": {
+      "incidentNumber": "56559",
+      "run_id": "56559",
+      "address": "501 S Limestone",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E06,E11,204",
+      "units": "E04,E06,E11,204",
+      "unitCount": "4",
+      "primaryTopic": "FDET",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-56559"
+    }
   }
 ]
