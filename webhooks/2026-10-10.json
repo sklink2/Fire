@@ -4024,5 +4024,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-56576"
     }
+  },
+  {
+    "runNumber": "56578",
+    "rawCode": "FMEA",
+    "timestamp": "2026-10-10T22:11:24.296589-04:00",
+    "address": "2677 Flying Ebony Drive",
+    "extra": {
+      "incidentNumber": "56578",
+      "run_id": "56578",
+      "address": "2677 Flying Ebony Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21",
+      "units": "E21",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56578"
+    }
   }
 ]
