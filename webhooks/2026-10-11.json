@@ -526,5 +526,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-56620"
     }
+  },
+  {
+    "runNumber": "56621",
+    "rawCode": "MED",
+    "timestamp": "2026-10-11T02:38:44.809965-04:00",
+    "address": "S Limestone & W Maxwell Street",
+    "extra": {
+      "incidentNumber": "56621",
+      "run_id": "56621",
+      "address": "S Limestone & W Maxwell Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,EC7",
+      "units": "E06,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56621"
+    }
   }
 ]
