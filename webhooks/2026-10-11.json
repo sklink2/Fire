@@ -1560,5 +1560,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56667"
     }
+  },
+  {
+    "runNumber": "56668",
+    "rawCode": "MED",
+    "timestamp": "2026-10-11T09:49:47.614891-04:00",
+    "address": "2600 Block Sandersville Road",
+    "extra": {
+      "incidentNumber": "56668",
+      "run_id": "56668",
+      "address": "2600 Block Sandersville Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56668"
+    }
   }
 ]
