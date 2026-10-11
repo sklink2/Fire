@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56625"
     }
+  },
+  {
+    "runNumber": "56627",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-11T03:18:51.361436-04:00",
+    "address": "205 E Short Street",
+    "extra": {
+      "incidentNumber": "56627",
+      "run_id": "56627",
+      "address": "205 E Short Street",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56627"
+    }
   }
 ]
