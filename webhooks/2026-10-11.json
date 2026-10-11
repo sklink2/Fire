@@ -2308,5 +2308,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56698"
     }
+  },
+  {
+    "runNumber": "56701",
+    "rawCode": "MED",
+    "timestamp": "2026-10-11T13:37:07.336654-04:00",
+    "address": "1500 Block Anniston Drive",
+    "extra": {
+      "incidentNumber": "56701",
+      "run_id": "56701",
+      "address": "1500 Block Anniston Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56701"
+    }
   }
 ]
