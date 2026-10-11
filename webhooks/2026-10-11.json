@@ -1802,5 +1802,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56678"
     }
+  },
+  {
+    "runNumber": "56679",
+    "rawCode": "MED",
+    "timestamp": "2026-10-11T10:59:59.590139-04:00",
+    "address": "400 Block W Main Street",
+    "extra": {
+      "incidentNumber": "56679",
+      "run_id": "56679",
+      "address": "400 Block W Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56679"
+    }
   }
 ]
