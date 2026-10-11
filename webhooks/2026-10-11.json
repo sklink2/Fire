@@ -1186,5 +1186,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-56650"
     }
+  },
+  {
+    "runNumber": "56651",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-11T08:19:38.041354-04:00",
+    "address": "2828 Yellowstone Parkway",
+    "extra": {
+      "incidentNumber": "56651",
+      "run_id": "56651",
+      "address": "2828 Yellowstone Parkway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E16,L06,202",
+      "units": "E09,E16,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-56651"
+    }
   }
 ]
