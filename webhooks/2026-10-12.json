@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56904"
     }
+  },
+  {
+    "runNumber": "56903",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-12T15:00:55.223685-04:00",
+    "address": "1201 N Broadway",
+    "extra": {
+      "incidentNumber": "56903",
+      "run_id": "56903",
+      "address": "1201 N Broadway",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC21",
+      "units": "E08,EC21",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56903"
+    }
   }
 ]
