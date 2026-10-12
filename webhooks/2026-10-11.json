@@ -4112,5 +4112,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-56781"
     }
+  },
+  {
+    "runNumber": "56780",
+    "rawCode": "MED",
+    "timestamp": "2026-10-11T22:21:46.823633-04:00",
+    "address": "200 Block Legends Lane",
+    "extra": {
+      "incidentNumber": "56780",
+      "run_id": "56780",
+      "address": "200 Block Legends Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56780"
+    }
   }
 ]
