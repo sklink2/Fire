@@ -2132,5 +2132,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56889"
     }
+  },
+  {
+    "runNumber": "56890",
+    "rawCode": "FCMS",
+    "timestamp": "2026-10-12T14:10:46.750673-04:00",
+    "address": "1968 Kingtree Drive",
+    "extra": {
+      "incidentNumber": "56890",
+      "run_id": "56890",
+      "address": "1968 Kingtree Drive",
+      "rawType": "FCMS",
+      "typeCode": "FCMS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,L05,EC8,205,241",
+      "units": "E08,L05,EC8,205,241",
+      "unitCount": "5",
+      "primaryTopic": "FCMS",
+      "commandUnits": "241,205",
+      "dedupeKey": "INCIDENT-56890"
+    }
   }
 ]
