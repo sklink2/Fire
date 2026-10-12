@@ -3474,5 +3474,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56951"
     }
+  },
+  {
+    "runNumber": "56950",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-12T17:41:20.431977-04:00",
+    "address": "3175 Beaumont Centre Circle",
+    "extra": {
+      "incidentNumber": "56950",
+      "run_id": "56950",
+      "address": "3175 Beaumont Centre Circle",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,E14,L04,204",
+      "units": "E12,E14,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-56950"
+    }
   }
 ]
