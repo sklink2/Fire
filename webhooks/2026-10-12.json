@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56822"
     }
+  },
+  {
+    "runNumber": "56823",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-12T07:56:30.895662-04:00",
+    "address": "4000 Terminal Drive",
+    "extra": {
+      "incidentNumber": "56823",
+      "run_id": "56823",
+      "address": "4000 Terminal Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,E14,L04,203",
+      "units": "E13,E14,L04,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-56823"
+    }
   }
 ]
