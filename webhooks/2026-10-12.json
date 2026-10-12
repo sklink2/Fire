@@ -1758,5 +1758,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56872"
     }
+  },
+  {
+    "runNumber": "56874",
+    "rawCode": "MED",
+    "timestamp": "2026-10-12T12:50:33.439476-04:00",
+    "address": "4700 Block Old Richmond Road",
+    "extra": {
+      "incidentNumber": "56874",
+      "run_id": "56874",
+      "address": "4700 Block Old Richmond Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC2,241",
+      "units": "E09,EC2,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-56874"
+    }
   }
 ]
