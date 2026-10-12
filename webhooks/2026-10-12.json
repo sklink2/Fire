@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56877"
     }
+  },
+  {
+    "runNumber": "56878",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-12T13:07:17.508121-04:00",
+    "address": "4081 Buttermilk Road",
+    "extra": {
+      "incidentNumber": "56878",
+      "run_id": "56878",
+      "address": "4081 Buttermilk Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E17,L06,EC8,201,220",
+      "units": "E16,E17,L06,EC8,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-56878"
+    }
   }
 ]
