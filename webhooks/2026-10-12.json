@@ -2088,5 +2088,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56887"
     }
+  },
+  {
+    "runNumber": "56888",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-12T13:54:03.668669-04:00",
+    "address": "2000 Winchester Road",
+    "extra": {
+      "incidentNumber": "56888",
+      "run_id": "56888",
+      "address": "2000 Winchester Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L05",
+      "units": "L05",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56888"
+    }
   }
 ]
