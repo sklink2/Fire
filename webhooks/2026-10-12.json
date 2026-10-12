@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56897"
     }
+  },
+  {
+    "runNumber": "56900",
+    "rawCode": "MED",
+    "timestamp": "2026-10-12T14:44:10.654865-04:00",
+    "address": "3800 Block N Cleveland Road",
+    "extra": {
+      "incidentNumber": "56900",
+      "run_id": "56900",
+      "address": "3800 Block N Cleveland Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E23,EC13",
+      "units": "E23,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56900"
+    }
   }
 ]
