@@ -790,5 +790,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56827"
     }
+  },
+  {
+    "runNumber": "56828",
+    "rawCode": "MED",
+    "timestamp": "2026-10-12T08:23:13.943337-04:00",
+    "address": "700 Block Downs Avenue",
+    "extra": {
+      "incidentNumber": "56828",
+      "run_id": "56828",
+      "address": "700 Block Downs Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56828"
+    }
   }
 ]
