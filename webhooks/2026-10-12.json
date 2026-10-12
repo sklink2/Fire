@@ -1670,5 +1670,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56869"
     }
+  },
+  {
+    "runNumber": "56868",
+    "rawCode": "MED",
+    "timestamp": "2026-10-12T12:03:47.135735-04:00",
+    "address": "500 Block Albany Road",
+    "extra": {
+      "incidentNumber": "56868",
+      "run_id": "56868",
+      "address": "500 Block Albany Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "CRT1",
+      "units": "CRT1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56868"
+    }
   }
 ]
