@@ -2594,5 +2594,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-56909"
     }
+  },
+  {
+    "runNumber": "56911",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-12T15:30:56.749147-04:00",
+    "address": "1997 Justice Drive",
+    "extra": {
+      "incidentNumber": "56911",
+      "run_id": "56911",
+      "address": "1997 Justice Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E18,L05,201",
+      "units": "E05,E18,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-56911"
+    }
   }
 ]
