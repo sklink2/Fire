@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56880"
     }
+  },
+  {
+    "runNumber": "56884",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-12T13:30:40.540722-04:00",
+    "address": "3365 Hunter Road",
+    "extra": {
+      "incidentNumber": "56884",
+      "run_id": "56884",
+      "address": "3365 Hunter Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E20,L07,202",
+      "units": "E07,E20,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-56884"
+    }
   }
 ]
