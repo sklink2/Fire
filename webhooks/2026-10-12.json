@@ -2880,5 +2880,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-56926"
     }
+  },
+  {
+    "runNumber": "56925",
+    "rawCode": "MED",
+    "timestamp": "2026-10-12T16:11:07.272441-04:00",
+    "address": "2900 Block Middlesex Court",
+    "extra": {
+      "incidentNumber": "56925",
+      "run_id": "56925",
+      "address": "2900 Block Middlesex Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56925"
+    }
   }
 ]
