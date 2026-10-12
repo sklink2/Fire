@@ -2572,5 +2572,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56910"
     }
+  },
+  {
+    "runNumber": "56909",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-12T15:27:38.462814-04:00",
+    "address": "2153 Island Drive",
+    "extra": {
+      "incidentNumber": "56909",
+      "run_id": "56909",
+      "address": "2153 Island Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E21,L06,EC1,202",
+      "units": "E02,E21,L06,EC1,202",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-56909"
+    }
   }
 ]
