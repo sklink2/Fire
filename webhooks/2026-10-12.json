@@ -3342,5 +3342,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56944"
     }
+  },
+  {
+    "runNumber": "56946",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-12T17:24:35.323110-04:00",
+    "address": "2429 Flying Ebony Drive",
+    "extra": {
+      "incidentNumber": "56946",
+      "run_id": "56946",
+      "address": "2429 Flying Ebony Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E16,L06,202",
+      "units": "E09,E16,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-56946"
+    }
   }
 ]
