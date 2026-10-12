@@ -878,5 +878,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-56831"
     }
+  },
+  {
+    "runNumber": "56833",
+    "rawCode": "MED",
+    "timestamp": "2026-10-12T09:13:21.171096-04:00",
+    "address": "600 Block Hollow Creek Road",
+    "extra": {
+      "incidentNumber": "56833",
+      "run_id": "56833",
+      "address": "600 Block Hollow Creek Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56833"
+    }
   }
 ]
