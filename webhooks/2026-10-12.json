@@ -1230,5 +1230,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56849"
     }
+  },
+  {
+    "runNumber": "56848",
+    "rawCode": "MED",
+    "timestamp": "2026-10-12T10:16:52.598710-04:00",
+    "address": "2000 Block Leestown Road",
+    "extra": {
+      "incidentNumber": "56848",
+      "run_id": "56848",
+      "address": "2000 Block Leestown Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC3",
+      "units": "E05,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56848"
+    }
   }
 ]
