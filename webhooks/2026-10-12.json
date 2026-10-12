@@ -3496,5 +3496,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-56950"
     }
+  },
+  {
+    "runNumber": "56953",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-12T17:48:00.456230-04:00",
+    "address": "1762 Russell Cave Road",
+    "extra": {
+      "incidentNumber": "56953",
+      "run_id": "56953",
+      "address": "1762 Russell Cave Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,E19,L03,201",
+      "units": "E10,E19,L03,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-56953"
+    }
   }
 ]
