@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56919"
     }
+  },
+  {
+    "runNumber": "56920",
+    "rawCode": "MED",
+    "timestamp": "2026-10-12T16:01:02.291945-04:00",
+    "address": "500 Block Southpoint Drive",
+    "extra": {
+      "incidentNumber": "56920",
+      "run_id": "56920",
+      "address": "500 Block Southpoint Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC2",
+      "units": "E22,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56920"
+    }
   }
 ]
