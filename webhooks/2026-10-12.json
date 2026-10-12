@@ -1186,5 +1186,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56846"
     }
+  },
+  {
+    "runNumber": "56845",
+    "rawCode": "FCAR",
+    "timestamp": "2026-10-12T10:06:51.546775-04:00",
+    "address": "3085 Paris Pike",
+    "extra": {
+      "incidentNumber": "56845",
+      "run_id": "56845",
+      "address": "3085 Paris Pike",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L03",
+      "units": "L03",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56845"
+    }
   }
 ]
