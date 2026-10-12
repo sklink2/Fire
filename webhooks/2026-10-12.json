@@ -570,5 +570,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56816"
     }
+  },
+  {
+    "runNumber": "56817",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-12T07:13:03.207477-04:00",
+    "address": "4999 Hartland Parkway",
+    "extra": {
+      "incidentNumber": "56817",
+      "run_id": "56817",
+      "address": "4999 Hartland Parkway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E22,L07,202",
+      "units": "E16,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-56817"
+    }
   }
 ]
