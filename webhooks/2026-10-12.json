@@ -1318,5 +1318,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56853"
     }
+  },
+  {
+    "runNumber": "56852",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-12T10:30:13.748313-04:00",
+    "address": "2324 Woodfield Circle",
+    "extra": {
+      "incidentNumber": "56852",
+      "run_id": "56852",
+      "address": "2324 Woodfield Circle",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E22,202",
+      "units": "E16,E22,202",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-56852"
+    }
   }
 ]
