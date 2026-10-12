@@ -2638,5 +2638,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56912"
     }
+  },
+  {
+    "runNumber": "56913",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-12T15:41:00.197990-04:00",
+    "address": "360 W Loudon Avenue",
+    "extra": {
+      "incidentNumber": "56913",
+      "run_id": "56913",
+      "address": "360 W Loudon Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E10,L03,205",
+      "units": "E04,E10,L03,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-56913"
+    }
   }
 ]
