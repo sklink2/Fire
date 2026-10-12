@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56820"
     }
+  },
+  {
+    "runNumber": "56822",
+    "rawCode": "MED",
+    "timestamp": "2026-10-12T07:46:28.501091-04:00",
+    "address": "3800 Block Merridew Way",
+    "extra": {
+      "incidentNumber": "56822",
+      "run_id": "56822",
+      "address": "3800 Block Merridew Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56822"
+    }
   }
 ]
