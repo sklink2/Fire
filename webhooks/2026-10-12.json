@@ -2022,5 +2022,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56882"
     }
+  },
+  {
+    "runNumber": "56885",
+    "rawCode": "MED",
+    "timestamp": "2026-10-12T13:34:00.614532-04:00",
+    "address": "500 Block E Second Street",
+    "extra": {
+      "incidentNumber": "56885",
+      "run_id": "56885",
+      "address": "500 Block E Second Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC7",
+      "units": "E05,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56885"
+    }
   }
 ]
