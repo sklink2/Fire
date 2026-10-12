@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56855"
     }
+  },
+  {
+    "runNumber": "56856",
+    "rawCode": "MED",
+    "timestamp": "2026-10-12T10:40:14.315240-04:00",
+    "address": "1600 Block Villa Medici Pass",
+    "extra": {
+      "incidentNumber": "56856",
+      "run_id": "56856",
+      "address": "1600 Block Villa Medici Pass",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC1",
+      "units": "E21,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56856"
+    }
   }
 ]
