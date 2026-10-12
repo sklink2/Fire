@@ -3298,5 +3298,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56941"
     }
+  },
+  {
+    "runNumber": "56943",
+    "rawCode": "FFIA",
+    "timestamp": "2026-10-12T17:11:13.652136-04:00",
+    "address": "1825 Liberty Road",
+    "extra": {
+      "incidentNumber": "56943",
+      "run_id": "56943",
+      "address": "1825 Liberty Road",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E09,L01,201",
+      "units": "E02,E09,L01,201",
+      "unitCount": "4",
+      "primaryTopic": "FFIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-56943"
+    }
   }
 ]
