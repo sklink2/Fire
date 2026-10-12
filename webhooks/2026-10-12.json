@@ -1890,5 +1890,27 @@
       "commandUnits": "220,201",
       "dedupeKey": "INCIDENT-56878"
     }
+  },
+  {
+    "runNumber": "56879",
+    "rawCode": "MED",
+    "timestamp": "2026-10-12T13:20:37.424173-04:00",
+    "address": "3500 Block Willow Spring",
+    "extra": {
+      "incidentNumber": "56879",
+      "run_id": "56879",
+      "address": "3500 Block Willow Spring",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC6,241",
+      "units": "E21,EC6,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-56879"
+    }
   }
 ]
