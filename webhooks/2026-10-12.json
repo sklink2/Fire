@@ -328,5 +328,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56805"
     }
+  },
+  {
+    "runNumber": "56806",
+    "rawCode": "MED",
+    "timestamp": "2026-10-12T04:32:43.788063-04:00",
+    "address": "900 Block Pine Bloom Drive",
+    "extra": {
+      "incidentNumber": "56806",
+      "run_id": "56806",
+      "address": "900 Block Pine Bloom Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC5",
+      "units": "E20,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56806"
+    }
   }
 ]
