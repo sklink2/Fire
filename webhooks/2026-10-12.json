@@ -1340,5 +1340,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-56852"
     }
+  },
+  {
+    "runNumber": "56854",
+    "rawCode": "MED",
+    "timestamp": "2026-10-12T10:33:32.049349-04:00",
+    "address": "100 Block Venture Court",
+    "extra": {
+      "incidentNumber": "56854",
+      "run_id": "56854",
+      "address": "100 Block Venture Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56854"
+    }
   }
 ]
