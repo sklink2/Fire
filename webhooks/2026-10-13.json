@@ -3100,5 +3100,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-57147"
     }
+  },
+  {
+    "runNumber": "57148",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-13T17:38:03.288718-04:00",
+    "address": "638 Cardinal Lane",
+    "extra": {
+      "incidentNumber": "57148",
+      "run_id": "57148",
+      "address": "638 Cardinal Lane",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E20,L04,EC12,204,220",
+      "units": "E11,E20,L04,EC12,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-57148"
+    }
   }
 ]
