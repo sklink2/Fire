@@ -3144,5 +3144,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57151"
     }
+  },
+  {
+    "runNumber": "57150",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-13T17:41:25.020440-04:00",
+    "address": "559 S Forbes Road",
+    "extra": {
+      "incidentNumber": "57150",
+      "run_id": "57150",
+      "address": "559 S Forbes Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E14,L01,205",
+      "units": "E04,E14,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-57150"
+    }
   }
 ]
