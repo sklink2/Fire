@@ -218,5 +218,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57015"
     }
+  },
+  {
+    "runNumber": "57013",
+    "rawCode": "MED",
+    "timestamp": "2026-10-13T03:12:42.152546-04:00",
+    "address": "1000 Block Griffin Gate Drive",
+    "extra": {
+      "incidentNumber": "57013",
+      "run_id": "57013",
+      "address": "1000 Block Griffin Gate Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57013"
+    }
   }
 ]
