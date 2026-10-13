@@ -526,5 +526,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57028"
     }
+  },
+  {
+    "runNumber": "57029",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-13T07:29:59.255760-04:00",
+    "address": "4400 Briar Hill Road",
+    "extra": {
+      "incidentNumber": "57029",
+      "run_id": "57029",
+      "address": "4400 Briar Hill Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E17,E23,EC11,201,241",
+      "units": "E17,E23,EC11,201,241",
+      "unitCount": "5",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-57029"
+    }
   }
 ]
