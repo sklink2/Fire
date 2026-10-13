@@ -4574,5 +4574,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57002"
     }
+  },
+  {
+    "runNumber": "57001",
+    "rawCode": "MED",
+    "timestamp": "2026-10-12T23:35:32.465200-04:00",
+    "address": "300 Block Stoneybrook Drive",
+    "extra": {
+      "incidentNumber": "57001",
+      "run_id": "57001",
+      "address": "300 Block Stoneybrook Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57001"
+    }
   }
 ]
