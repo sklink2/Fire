@@ -4640,5 +4640,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57005"
     }
+  },
+  {
+    "runNumber": "57004",
+    "rawCode": "MED",
+    "timestamp": "2026-10-12T23:42:13.150635-04:00",
+    "address": "2900 Block Summerfield Drive",
+    "extra": {
+      "incidentNumber": "57004",
+      "run_id": "57004",
+      "address": "2900 Block Summerfield Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "T1,EC3",
+      "units": "T1,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57004"
+    }
   }
 ]
