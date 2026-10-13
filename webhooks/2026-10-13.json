@@ -1252,5 +1252,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57061"
     }
+  },
+  {
+    "runNumber": "57063",
+    "rawCode": "MED",
+    "timestamp": "2026-10-13T10:43:46.984593-04:00",
+    "address": "900 Block Tearose Drive",
+    "extra": {
+      "incidentNumber": "57063",
+      "run_id": "57063",
+      "address": "900 Block Tearose Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC9",
+      "units": "E11,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57063"
+    }
   }
 ]
