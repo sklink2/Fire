@@ -4530,5 +4530,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56998"
     }
+  },
+  {
+    "runNumber": "56999",
+    "rawCode": "MED",
+    "timestamp": "2026-10-12T23:15:26.846075-04:00",
+    "address": "100 Block Alamo Drive",
+    "extra": {
+      "incidentNumber": "56999",
+      "run_id": "56999",
+      "address": "100 Block Alamo Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC10,EC6",
+      "units": "E24,EC10,EC6",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-56999"
+    }
   }
 ]
