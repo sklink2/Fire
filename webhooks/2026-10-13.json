@@ -3562,5 +3562,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57169"
     }
+  },
+  {
+    "runNumber": "57170",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-13T19:48:23.639122-04:00",
+    "address": "Street Joseph Drive & Bob O Link Drive",
+    "extra": {
+      "incidentNumber": "57170",
+      "run_id": "57170",
+      "address": "Street Joseph Drive & Bob O Link Drive",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E12,204",
+      "units": "E11,E12,204",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-57170"
+    }
   }
 ]
