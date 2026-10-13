@@ -42,5 +42,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-57003"
     }
+  },
+  {
+    "runNumber": "57008",
+    "rawCode": "MED",
+    "timestamp": "2026-10-13T00:15:35.657941-04:00",
+    "address": "1500 Block Aristides Boulevard",
+    "extra": {
+      "incidentNumber": "57008",
+      "run_id": "57008",
+      "address": "1500 Block Aristides Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57008"
+    }
   }
 ]
