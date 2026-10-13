@@ -2836,5 +2836,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57134"
     }
+  },
+  {
+    "runNumber": "57135",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-13T16:21:15.543421-04:00",
+    "address": "506 Reed Lane",
+    "extra": {
+      "incidentNumber": "57135",
+      "run_id": "57135",
+      "address": "506 Reed Lane",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E12,204",
+      "units": "E11,E12,204",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-57135"
+    }
   }
 ]
