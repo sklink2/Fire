@@ -4178,5 +4178,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-56982"
     }
+  },
+  {
+    "runNumber": "56983",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-12T20:08:19.577173-04:00",
+    "address": "690 Mason Headley Road",
+    "extra": {
+      "incidentNumber": "56983",
+      "run_id": "56983",
+      "address": "690 Mason Headley Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E11,E12,L04,204",
+      "units": "E06,E11,E12,L04,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-56983"
+    }
   }
 ]
