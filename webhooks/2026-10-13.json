@@ -2968,5 +2968,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57141"
     }
+  },
+  {
+    "runNumber": "57142",
+    "rawCode": "FBAS",
+    "timestamp": "2026-10-13T17:07:59.244839-04:00",
+    "address": "305 Harvard Drive",
+    "extra": {
+      "incidentNumber": "57142",
+      "run_id": "57142",
+      "address": "305 Harvard Drive",
+      "rawType": "FBAS",
+      "typeCode": "FBAS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E22,EC9,202",
+      "units": "E22,EC9,202",
+      "unitCount": "3",
+      "primaryTopic": "FBAS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-57142"
+    }
   }
 ]
