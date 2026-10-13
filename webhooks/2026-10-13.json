@@ -570,5 +570,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57030"
     }
+  },
+  {
+    "runNumber": "57031",
+    "rawCode": "MED",
+    "timestamp": "2026-10-13T07:46:39.618538-04:00",
+    "address": "1000 Block E New Circle Road",
+    "extra": {
+      "incidentNumber": "57031",
+      "run_id": "57031",
+      "address": "1000 Block E New Circle Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC3",
+      "units": "E02,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57031"
+    }
   }
 ]
