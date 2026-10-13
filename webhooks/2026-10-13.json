@@ -1934,5 +1934,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57091"
     }
+  },
+  {
+    "runNumber": "57093",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-13T13:10:47.139856-04:00",
+    "address": "1060 Chinoe Road",
+    "extra": {
+      "incidentNumber": "57093",
+      "run_id": "57093",
+      "address": "1060 Chinoe Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E09,L07,202",
+      "units": "E07,E09,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-57093"
+    }
   }
 ]
