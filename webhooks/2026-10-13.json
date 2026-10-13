@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57046"
     }
+  },
+  {
+    "runNumber": "57047",
+    "rawCode": "MED",
+    "timestamp": "2026-10-13T09:53:38.852297-04:00",
+    "address": "200 Block Broadview Drive",
+    "extra": {
+      "incidentNumber": "57047",
+      "run_id": "57047",
+      "address": "200 Block Broadview Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC8",
+      "units": "E08,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57047"
+    }
   }
 ]
