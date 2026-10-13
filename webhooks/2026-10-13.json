@@ -1142,5 +1142,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57056"
     }
+  },
+  {
+    "runNumber": "57055",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-13T10:27:11.563892-04:00",
+    "address": "679 Lima Drive",
+    "extra": {
+      "incidentNumber": "57055",
+      "run_id": "57055",
+      "address": "679 Lima Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "FPRT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57055"
+    }
   }
 ]
