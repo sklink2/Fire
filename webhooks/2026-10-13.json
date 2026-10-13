@@ -900,5 +900,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57045"
     }
+  },
+  {
+    "runNumber": "57046",
+    "rawCode": "MED",
+    "timestamp": "2026-10-13T09:46:58.598826-04:00",
+    "address": "400 Block Ohio Street",
+    "extra": {
+      "incidentNumber": "57046",
+      "run_id": "57046",
+      "address": "400 Block Ohio Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC6",
+      "units": "E01,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57046"
+    }
   }
 ]
