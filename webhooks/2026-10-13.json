@@ -2198,5 +2198,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-57102"
     }
+  },
+  {
+    "runNumber": "57105",
+    "rawCode": "FELS",
+    "timestamp": "2026-10-13T14:07:36.994013-04:00",
+    "address": "1734 Eastland Court",
+    "extra": {
+      "incidentNumber": "57105",
+      "run_id": "57105",
+      "address": "1734 Eastland Court",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,L05,201",
+      "units": "E08,L05,201",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-57105"
+    }
   }
 ]
