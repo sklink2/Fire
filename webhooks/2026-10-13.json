@@ -1450,5 +1450,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57070"
     }
+  },
+  {
+    "runNumber": "57069",
+    "rawCode": "FELS",
+    "timestamp": "2026-10-13T10:50:32.757918-04:00",
+    "address": "140 E Main Street",
+    "extra": {
+      "incidentNumber": "57069",
+      "run_id": "57069",
+      "address": "140 E Main Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,L02,202",
+      "units": "E12,L02,202",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-57069"
+    }
   }
 ]
