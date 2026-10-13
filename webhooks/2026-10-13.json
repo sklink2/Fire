@@ -3254,5 +3254,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-57154"
     }
+  },
+  {
+    "runNumber": "57156",
+    "rawCode": "MED",
+    "timestamp": "2026-10-13T18:11:28.622067-04:00",
+    "address": "500 Block Bryanwood Parkway",
+    "extra": {
+      "incidentNumber": "57156",
+      "run_id": "57156",
+      "address": "500 Block Bryanwood Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC8",
+      "units": "E08,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57156"
+    }
   }
 ]
