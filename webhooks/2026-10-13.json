@@ -1956,5 +1956,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-57093"
     }
+  },
+  {
+    "runNumber": "57094",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-13T13:17:27.615113-04:00",
+    "address": "229 Kingsway Drive",
+    "extra": {
+      "incidentNumber": "57094",
+      "run_id": "57094",
+      "address": "229 Kingsway Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E05,L02,205",
+      "units": "E01,E05,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-57094"
+    }
   }
 ]
