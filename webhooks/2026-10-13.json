@@ -1978,5 +1978,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-57094"
     }
+  },
+  {
+    "runNumber": "57095",
+    "rawCode": "FGAO",
+    "timestamp": "2026-10-13T13:24:10.054574-04:00",
+    "address": "3478 Greentree Road",
+    "extra": {
+      "incidentNumber": "57095",
+      "run_id": "57095",
+      "address": "3478 Greentree Road",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,E22",
+      "units": "E20,E22",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57095"
+    }
   }
 ]
