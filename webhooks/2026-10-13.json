@@ -20,5 +20,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57007"
     }
+  },
+  {
+    "runNumber": "57003",
+    "rawCode": "MED",
+    "timestamp": "2026-10-13T00:12:15.823225-04:00",
+    "address": "900 Block Darley Drive",
+    "extra": {
+      "incidentNumber": "57003",
+      "run_id": "57003",
+      "address": "900 Block Darley Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC1,201",
+      "units": "E02,EC1,201",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-57003"
+    }
   }
 ]
