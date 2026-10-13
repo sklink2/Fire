@@ -416,5 +416,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57023"
     }
+  },
+  {
+    "runNumber": "57025",
+    "rawCode": "MED",
+    "timestamp": "2026-10-13T05:29:38.073937-04:00",
+    "address": "1600 Block Nicholasville Road",
+    "extra": {
+      "incidentNumber": "57025",
+      "run_id": "57025",
+      "address": "1600 Block Nicholasville Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,EC7",
+      "units": "E12,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57025"
+    }
   }
 ]
