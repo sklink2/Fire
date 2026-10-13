@@ -2484,5 +2484,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-57117"
     }
+  },
+  {
+    "runNumber": "57119",
+    "rawCode": "MED",
+    "timestamp": "2026-10-13T15:14:26.207049-04:00",
+    "address": "2200 Block Leestown Road",
+    "extra": {
+      "incidentNumber": "57119",
+      "run_id": "57119",
+      "address": "2200 Block Leestown Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,EC5",
+      "units": "E13,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57119"
+    }
   }
 ]
