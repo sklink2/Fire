@@ -2220,5 +2220,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-57105"
     }
+  },
+  {
+    "runNumber": "57107",
+    "rawCode": "MED",
+    "timestamp": "2026-10-13T14:24:17.541136-04:00",
+    "address": "600 Block Sayre Avenue",
+    "extra": {
+      "incidentNumber": "57107",
+      "run_id": "57107",
+      "address": "600 Block Sayre Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,EC6",
+      "units": "E05,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57107"
+    }
   }
 ]
