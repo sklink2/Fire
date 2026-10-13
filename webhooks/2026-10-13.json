@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57131"
     }
+  },
+  {
+    "runNumber": "57133",
+    "rawCode": "MED",
+    "timestamp": "2026-10-13T16:14:32.731802-04:00",
+    "address": "3100 Block High Ridge Drive",
+    "extra": {
+      "incidentNumber": "57133",
+      "run_id": "57133",
+      "address": "3100 Block High Ridge Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC13,CRT1",
+      "units": "EC13,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57133"
+    }
   }
 ]
