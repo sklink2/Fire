@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57050"
     }
+  },
+  {
+    "runNumber": "57052",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-13T10:13:42.771342-04:00",
+    "address": "4551 Winchester Road",
+    "extra": {
+      "incidentNumber": "57052",
+      "run_id": "57052",
+      "address": "4551 Winchester Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E09,L05,201",
+      "units": "E02,E09,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-57052"
+    }
   }
 ]
