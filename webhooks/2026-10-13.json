@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57036"
     }
+  },
+  {
+    "runNumber": "57035",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-13T08:36:51.822822-04:00",
+    "address": "313 Twin Spires Trail",
+    "extra": {
+      "incidentNumber": "57035",
+      "run_id": "57035",
+      "address": "313 Twin Spires Trail",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E22",
+      "units": "E22",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57035"
+    }
   }
 ]
