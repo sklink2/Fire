@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57067"
     }
+  },
+  {
+    "runNumber": "57066",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-13T10:47:12.924004-04:00",
+    "address": "535 W Second Street",
+    "extra": {
+      "incidentNumber": "57066",
+      "run_id": "57066",
+      "address": "535 W Second Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E04,L01,205",
+      "units": "E01,E04,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-57066"
+    }
   }
 ]
