@@ -2132,5 +2132,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57100"
     }
+  },
+  {
+    "runNumber": "57104",
+    "rawCode": "MED",
+    "timestamp": "2026-10-13T14:04:15.972084-04:00",
+    "address": "1100 Block Bridlewood Lane",
+    "extra": {
+      "incidentNumber": "57104",
+      "run_id": "57104",
+      "address": "1100 Block Bridlewood Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L07,EC13",
+      "units": "L07,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57104"
+    }
   }
 ]
