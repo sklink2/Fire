@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57180"
     }
+  },
+  {
+    "runNumber": "57182",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-13T20:58:33.795918-04:00",
+    "address": "344 S Martin Luther King Boulevard",
+    "extra": {
+      "incidentNumber": "57182",
+      "run_id": "57182",
+      "address": "344 S Martin Luther King Boulevard",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E05,E06,L02,205",
+      "units": "E01,E05,E06,L02,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-57182"
+    }
   }
 ]
