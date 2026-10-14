@@ -438,5 +438,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57221"
     }
+  },
+  {
+    "runNumber": "57222",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-14T05:06:28.279230-04:00",
+    "address": "3490 Winthrop Drive",
+    "extra": {
+      "incidentNumber": "57222",
+      "run_id": "57222",
+      "address": "3490 Winthrop Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,E20,L04,EC13,202,220",
+      "units": "E15,E20,L04,EC13,202,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-57222"
+    }
   }
 ]
