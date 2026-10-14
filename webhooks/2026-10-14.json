@@ -1978,5 +1978,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-57293"
     }
+  },
+  {
+    "runNumber": "57292",
+    "rawCode": "FELS",
+    "timestamp": "2026-10-14T13:04:22.519363-04:00",
+    "address": "465 Rose Street",
+    "extra": {
+      "incidentNumber": "57292",
+      "run_id": "57292",
+      "address": "465 Rose Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,L02,201",
+      "units": "E12,L02,201",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-57292"
+    }
   }
 ]
