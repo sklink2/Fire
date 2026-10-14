@@ -3826,5 +3826,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-57182"
     }
+  },
+  {
+    "runNumber": "57181",
+    "rawCode": "MED",
+    "timestamp": "2026-10-13T20:58:36.322868-04:00",
+    "address": "800 Block Glasford Sq",
+    "extra": {
+      "incidentNumber": "57181",
+      "run_id": "57181",
+      "address": "800 Block Glasford Sq",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57181"
+    }
   }
 ]
