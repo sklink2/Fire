@@ -2462,5 +2462,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-57316"
     }
+  },
+  {
+    "runNumber": "57315",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-14T14:31:17.727952-04:00",
+    "address": "6940 Man O War Boulevard",
+    "extra": {
+      "incidentNumber": "57315",
+      "run_id": "57315",
+      "address": "6940 Man O War Boulevard",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E17,L06,201",
+      "units": "E02,E17,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-57315"
+    }
   }
 ]
