@@ -3518,5 +3518,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57363"
     }
+  },
+  {
+    "runNumber": "57365",
+    "rawCode": "MED",
+    "timestamp": "2026-10-14T18:18:25.604288-04:00",
+    "address": "600 Block Winter Hill Lane",
+    "extra": {
+      "incidentNumber": "57365",
+      "run_id": "57365",
+      "address": "600 Block Winter Hill Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57365"
+    }
   }
 ]
