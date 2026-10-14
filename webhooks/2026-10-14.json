@@ -3650,5 +3650,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57370"
     }
+  },
+  {
+    "runNumber": "57369",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-10-14T18:28:31.445577-04:00",
+    "address": "4601 Spears Road",
+    "extra": {
+      "incidentNumber": "57369",
+      "run_id": "57369",
+      "address": "4601 Spears Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,L07,EC7,202,241",
+      "units": "E22,L07,EC7,202,241",
+      "unitCount": "5",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-57369"
+    }
   }
 ]
