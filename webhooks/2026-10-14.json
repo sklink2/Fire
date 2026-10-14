@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57307"
     }
+  },
+  {
+    "runNumber": "57306",
+    "rawCode": "MED",
+    "timestamp": "2026-10-14T13:51:08.312001-04:00",
+    "address": "4300 Block Ridgewater Drive",
+    "extra": {
+      "incidentNumber": "57306",
+      "run_id": "57306",
+      "address": "4300 Block Ridgewater Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC1,241",
+      "units": "E22,EC1,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-57306"
+    }
   }
 ]
