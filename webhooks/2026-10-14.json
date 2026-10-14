@@ -3562,5 +3562,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57364"
     }
+  },
+  {
+    "runNumber": "57366",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-10-14T18:21:46.859555-04:00",
+    "address": "2969 Blackford Parkway",
+    "extra": {
+      "incidentNumber": "57366",
+      "run_id": "57366",
+      "address": "2969 Blackford Parkway",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17,L06,EC1,201,241,RS1",
+      "units": "E17,L06,EC1,201,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-57366"
+    }
   }
 ]
