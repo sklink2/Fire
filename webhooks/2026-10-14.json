@@ -2660,5 +2660,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57324"
     }
+  },
+  {
+    "runNumber": "57327",
+    "rawCode": "FVIS",
+    "timestamp": "2026-10-14T15:38:02.823194-04:00",
+    "address": "185 E New Circle Road",
+    "extra": {
+      "incidentNumber": "57327",
+      "run_id": "57327",
+      "address": "185 E New Circle Road",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E13,L05,EC8,201,RS1",
+      "units": "E04,E13,L05,EC8,201,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-57327"
+    }
   }
 ]
