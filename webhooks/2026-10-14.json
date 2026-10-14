@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57261"
     }
+  },
+  {
+    "runNumber": "57264",
+    "rawCode": "MED",
+    "timestamp": "2026-10-14T09:57:09.871585-04:00",
+    "address": "1300 Block Trent Boulevard",
+    "extra": {
+      "incidentNumber": "57264",
+      "run_id": "57264",
+      "address": "1300 Block Trent Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC9",
+      "units": "E22,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57264"
+    }
   }
 ]
