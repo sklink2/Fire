@@ -2682,5 +2682,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-57327"
     }
+  },
+  {
+    "runNumber": "57326",
+    "rawCode": "MED",
+    "timestamp": "2026-10-14T15:38:05.326282-04:00",
+    "address": "400 Block Dallas Avenue",
+    "extra": {
+      "incidentNumber": "57326",
+      "run_id": "57326",
+      "address": "400 Block Dallas Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC2",
+      "units": "E02,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57326"
+    }
   }
 ]
