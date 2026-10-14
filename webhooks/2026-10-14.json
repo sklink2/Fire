@@ -2594,5 +2594,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57321"
     }
+  },
+  {
+    "runNumber": "57322",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-14T15:21:21.750208-04:00",
+    "address": "4701 Waterside Court",
+    "extra": {
+      "incidentNumber": "57322",
+      "run_id": "57322",
+      "address": "4701 Waterside Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,E20,L07,204",
+      "units": "E15,E20,L07,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-57322"
+    }
   }
 ]
