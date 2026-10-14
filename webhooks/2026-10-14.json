@@ -790,5 +790,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57237"
     }
+  },
+  {
+    "runNumber": "57238",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-14T08:06:52.434284-04:00",
+    "address": "2316 Ice House Way",
+    "extra": {
+      "incidentNumber": "57238",
+      "run_id": "57238",
+      "address": "2316 Ice House Way",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17,L06",
+      "units": "E17,L06",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57238"
+    }
   }
 ]
