@@ -3034,5 +3034,27 @@
       "commandUnits": "241,220,202",
       "dedupeKey": "INCIDENT-57341"
     }
+  },
+  {
+    "runNumber": "57342",
+    "rawCode": "MED",
+    "timestamp": "2026-10-14T16:41:31.786801-04:00",
+    "address": "200 Block E Tiverton Way",
+    "extra": {
+      "incidentNumber": "57342",
+      "run_id": "57342",
+      "address": "200 Block E Tiverton Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L07,EC5",
+      "units": "L07,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57342"
+    }
   }
 ]
