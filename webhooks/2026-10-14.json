@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57309"
     }
+  },
+  {
+    "runNumber": "57308",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-14T13:57:50.352738-04:00",
+    "address": "459 Greenwood Avenue",
+    "extra": {
+      "incidentNumber": "57308",
+      "run_id": "57308",
+      "address": "459 Greenwood Avenue",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E06,L01,EC1,205",
+      "units": "E04,E06,L01,EC1,205",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-57308"
+    }
   }
 ]
