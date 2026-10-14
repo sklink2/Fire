@@ -2022,5 +2022,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-57295"
     }
+  },
+  {
+    "runNumber": "57294",
+    "rawCode": "MED",
+    "timestamp": "2026-10-14T13:07:43.377760-04:00",
+    "address": "700 Block Rose Street",
+    "extra": {
+      "incidentNumber": "57294",
+      "run_id": "57294",
+      "address": "700 Block Rose Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57294"
+    }
   }
 ]
