@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57334"
     }
+  },
+  {
+    "runNumber": "57335",
+    "rawCode": "MED",
+    "timestamp": "2026-10-14T16:04:46.129021-04:00",
+    "address": "300 Block Burley Avenue",
+    "extra": {
+      "incidentNumber": "57335",
+      "run_id": "57335",
+      "address": "300 Block Burley Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,EC7,CRT1",
+      "units": "E06,EC7,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57335"
+    }
   }
 ]
