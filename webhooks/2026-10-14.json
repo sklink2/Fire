@@ -1956,5 +1956,27 @@
       "commandUnits": "241,202",
       "dedupeKey": "INCIDENT-57291"
     }
+  },
+  {
+    "runNumber": "57293",
+    "rawCode": "FELS",
+    "timestamp": "2026-10-14T13:04:19.739860-04:00",
+    "address": "1160 University Drive",
+    "extra": {
+      "incidentNumber": "57293",
+      "run_id": "57293",
+      "address": "1160 University Drive",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,L01,203",
+      "units": "E09,L01,203",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-57293"
+    }
   }
 ]
