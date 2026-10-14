@@ -1142,5 +1142,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57252"
     }
+  },
+  {
+    "runNumber": "57254",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-14T09:13:42.691558-04:00",
+    "address": "1030 Monarch Street",
+    "extra": {
+      "incidentNumber": "57254",
+      "run_id": "57254",
+      "address": "1030 Monarch Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,E14,L02,204",
+      "units": "E12,E14,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-57254"
+    }
   }
 ]
