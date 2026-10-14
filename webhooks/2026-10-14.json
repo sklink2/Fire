@@ -2418,5 +2418,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57312"
     }
+  },
+  {
+    "runNumber": "57313",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-14T14:27:53.107857-04:00",
+    "address": "330 Newtown Pike",
+    "extra": {
+      "incidentNumber": "57313",
+      "run_id": "57313",
+      "address": "330 Newtown Pike",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E05,L03,203",
+      "units": "E01,E05,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-57313"
+    }
   }
 ]
