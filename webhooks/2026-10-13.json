@@ -4046,5 +4046,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-57192"
     }
+  },
+  {
+    "runNumber": "57191",
+    "rawCode": "FVEH",
+    "timestamp": "2026-10-13T22:08:46.007467-04:00",
+    "address": "965 Wyndham Hills Drive",
+    "extra": {
+      "incidentNumber": "57191",
+      "run_id": "57191",
+      "address": "965 Wyndham Hills Drive",
+      "rawType": "FVEH",
+      "typeCode": "FVEH",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,E20",
+      "units": "E15,E20",
+      "unitCount": "2",
+      "primaryTopic": "FVEH",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57191"
+    }
   }
 ]
