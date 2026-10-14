@@ -2044,5 +2044,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57294"
     }
+  },
+  {
+    "runNumber": "57296",
+    "rawCode": "FELS",
+    "timestamp": "2026-10-14T13:11:00.489206-04:00",
+    "address": "405 Rose Street",
+    "extra": {
+      "incidentNumber": "57296",
+      "run_id": "57296",
+      "address": "405 Rose Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,L05,201",
+      "units": "E08,L05,201",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-57296"
+    }
   }
 ]
