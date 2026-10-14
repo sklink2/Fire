@@ -240,5 +240,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57212"
     }
+  },
+  {
+    "runNumber": "57213",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-14T02:26:02.931396-04:00",
+    "address": "1801 Alexandria Drive",
+    "extra": {
+      "incidentNumber": "57213",
+      "run_id": "57213",
+      "address": "1801 Alexandria Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E14,L04,204",
+      "units": "E11,E14,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-57213"
+    }
   }
 ]
