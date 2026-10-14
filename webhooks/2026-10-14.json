@@ -2000,5 +2000,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-57292"
     }
+  },
+  {
+    "runNumber": "57295",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-14T13:07:40.965731-04:00",
+    "address": "750 Rose Street",
+    "extra": {
+      "incidentNumber": "57295",
+      "run_id": "57295",
+      "address": "750 Rose Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,L03,205",
+      "units": "E05,E06,L03,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-57295"
+    }
   }
 ]
