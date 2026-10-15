@@ -2462,5 +2462,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-57523"
     }
+  },
+  {
+    "runNumber": "57526",
+    "rawCode": "MED",
+    "timestamp": "2026-10-15T14:44:49.174310-04:00",
+    "address": "2900 Block Sandersville Road",
+    "extra": {
+      "incidentNumber": "57526",
+      "run_id": "57526",
+      "address": "2900 Block Sandersville Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC3",
+      "units": "E24,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57526"
+    }
   }
 ]
