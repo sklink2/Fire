@@ -3870,5 +3870,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57379"
     }
+  },
+  {
+    "runNumber": "57381",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-14T20:15:24.647239-04:00",
+    "address": "360 W Loudon Avenue",
+    "extra": {
+      "incidentNumber": "57381",
+      "run_id": "57381",
+      "address": "360 W Loudon Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E10,L03,203",
+      "units": "E08,E10,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-57381"
+    }
   }
 ]
