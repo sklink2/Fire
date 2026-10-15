@@ -2572,5 +2572,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-57528"
     }
+  },
+  {
+    "runNumber": "57527",
+    "rawCode": "MED",
+    "timestamp": "2026-10-15T14:51:34.952452-04:00",
+    "address": "2000 Block Polk Lane",
+    "extra": {
+      "incidentNumber": "57527",
+      "run_id": "57527",
+      "address": "2000 Block Polk Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC10",
+      "units": "E10,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57527"
+    }
   }
 ]
