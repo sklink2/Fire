@@ -1010,5 +1010,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-57460"
     }
+  },
+  {
+    "runNumber": "57459",
+    "rawCode": "MED",
+    "timestamp": "2026-10-15T09:54:09.621075-04:00",
+    "address": "1800 Block Russell Cave Road",
+    "extra": {
+      "incidentNumber": "57459",
+      "run_id": "57459",
+      "address": "1800 Block Russell Cave Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E19,EC2",
+      "units": "E19,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57459"
+    }
   }
 ]
