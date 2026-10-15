@@ -1934,5 +1934,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57501"
     }
+  },
+  {
+    "runNumber": "57500",
+    "rawCode": "MED",
+    "timestamp": "2026-10-15T13:14:38.502687-04:00",
+    "address": "3700 Block Kevin Court",
+    "extra": {
+      "incidentNumber": "57500",
+      "run_id": "57500",
+      "address": "3700 Block Kevin Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57500"
+    }
   }
 ]
