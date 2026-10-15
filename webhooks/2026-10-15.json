@@ -3012,5 +3012,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57547"
     }
+  },
+  {
+    "runNumber": "57549",
+    "rawCode": "MED",
+    "timestamp": "2026-10-15T16:01:42.169372-04:00",
+    "address": "300 Block S Broadway Park",
+    "extra": {
+      "incidentNumber": "57549",
+      "run_id": "57549",
+      "address": "300 Block S Broadway Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC8,RS1",
+      "units": "EC8,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57549"
+    }
   }
 ]
