@@ -3606,5 +3606,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57575"
     }
+  },
+  {
+    "runNumber": "57576",
+    "rawCode": "MED",
+    "timestamp": "2026-10-15T18:22:03.346817-04:00",
+    "address": "300 Block Bent Bough Place",
+    "extra": {
+      "incidentNumber": "57576",
+      "run_id": "57576",
+      "address": "300 Block Bent Bough Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2,CRT1",
+      "units": "EC2,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57576"
+    }
   }
 ]
