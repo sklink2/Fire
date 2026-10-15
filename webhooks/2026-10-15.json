@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57490"
     }
+  },
+  {
+    "runNumber": "57492",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-15T12:37:50.752993-04:00",
+    "address": "494 Huntington Court",
+    "extra": {
+      "incidentNumber": "57492",
+      "run_id": "57492",
+      "address": "494 Huntington Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,E21,L06,205",
+      "units": "E14,E21,L06,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-57492"
+    }
   }
 ]
