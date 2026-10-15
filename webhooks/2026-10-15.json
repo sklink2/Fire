@@ -2264,5 +2264,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57516"
     }
+  },
+  {
+    "runNumber": "57515",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-15T14:04:46.008432-04:00",
+    "address": "300 E Main Street",
+    "extra": {
+      "incidentNumber": "57515",
+      "run_id": "57515",
+      "address": "300 E Main Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01,EC8",
+      "units": "L01,EC8",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57515"
+    }
   }
 ]
