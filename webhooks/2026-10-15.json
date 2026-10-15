@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57515"
     }
+  },
+  {
+    "runNumber": "57517",
+    "rawCode": "FOTS",
+    "timestamp": "2026-10-15T14:11:24.923983-04:00",
+    "address": "1000 S Limestone",
+    "extra": {
+      "incidentNumber": "57517",
+      "run_id": "57517",
+      "address": "1000 S Limestone",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "204",
+      "units": "204",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-57517"
+    }
   }
 ]
