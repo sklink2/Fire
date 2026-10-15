@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57447"
     }
+  },
+  {
+    "runNumber": "57446",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-15T08:40:36.836437-04:00",
+    "address": "219 E Third Street",
+    "extra": {
+      "incidentNumber": "57446",
+      "run_id": "57446",
+      "address": "219 E Third Street",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "220,117",
+      "units": "220,117",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-57446"
+    }
   }
 ]
