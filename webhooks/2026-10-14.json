@@ -4420,5 +4420,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-57402"
     }
+  },
+  {
+    "runNumber": "57404",
+    "rawCode": "MED",
+    "timestamp": "2026-10-14T21:58:58.430025-04:00",
+    "address": "900 Block Maywick Drive",
+    "extra": {
+      "incidentNumber": "57404",
+      "run_id": "57404",
+      "address": "900 Block Maywick Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57404"
+    }
   }
 ]
