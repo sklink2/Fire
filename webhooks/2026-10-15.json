@@ -196,5 +196,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-57421"
     }
+  },
+  {
+    "runNumber": "57423",
+    "rawCode": "MED",
+    "timestamp": "2026-10-15T01:39:30.595667-04:00",
+    "address": "400 Block S Ashland Avenue",
+    "extra": {
+      "incidentNumber": "57423",
+      "run_id": "57423",
+      "address": "400 Block S Ashland Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,EC7",
+      "units": "E05,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57423"
+    }
   }
 ]
