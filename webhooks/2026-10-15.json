@@ -3672,5 +3672,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-57579"
     }
+  },
+  {
+    "runNumber": "57578",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-15T18:28:48.055753-04:00",
+    "address": "1812 Blue Ridge Drive",
+    "extra": {
+      "incidentNumber": "57578",
+      "run_id": "57578",
+      "address": "1812 Blue Ridge Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E10,L03,201",
+      "units": "E08,E10,L03,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-57578"
+    }
   }
 ]
