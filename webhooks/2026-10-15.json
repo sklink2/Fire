@@ -2220,5 +2220,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57513"
     }
+  },
+  {
+    "runNumber": "57514",
+    "rawCode": "MED",
+    "timestamp": "2026-10-15T14:01:24.157770-04:00",
+    "address": "100 Block Canebrake Drive",
+    "extra": {
+      "incidentNumber": "57514",
+      "run_id": "57514",
+      "address": "100 Block Canebrake Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "220",
+      "units": "220",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-57514"
+    }
   }
 ]
