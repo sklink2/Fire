@@ -4398,5 +4398,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-57403"
     }
+  },
+  {
+    "runNumber": "57402",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-14T21:55:40.885366-04:00",
+    "address": "1349 Centre Parkway",
+    "extra": {
+      "incidentNumber": "57402",
+      "run_id": "57402",
+      "address": "1349 Centre Parkway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,E16,L07,202",
+      "units": "E07,E16,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-57402"
+    }
   }
 ]
