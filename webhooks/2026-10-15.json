@@ -262,5 +262,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57425"
     }
+  },
+  {
+    "runNumber": "57426",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-15T02:06:15.798150-04:00",
+    "address": "3270 Alcott Place",
+    "extra": {
+      "incidentNumber": "57426",
+      "run_id": "57426",
+      "address": "3270 Alcott Place",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17",
+      "units": "E17",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57426"
+    }
   }
 ]
