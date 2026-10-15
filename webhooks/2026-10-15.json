@@ -3408,5 +3408,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-57565"
     }
+  },
+  {
+    "runNumber": "57568",
+    "rawCode": "FSCU",
+    "timestamp": "2026-10-15T17:28:34.222047-04:00",
+    "address": "E Main Street & Rose Street",
+    "extra": {
+      "incidentNumber": "57568",
+      "run_id": "57568",
+      "address": "E Main Street & Rose Street",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05",
+      "units": "E05",
+      "unitCount": "1",
+      "primaryTopic": "FSCU",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57568"
+    }
   }
 ]
