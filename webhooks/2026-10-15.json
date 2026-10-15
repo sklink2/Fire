@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57519"
     }
+  },
+  {
+    "runNumber": "57514",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-15T14:24:48.023583-04:00",
+    "address": "100 Canebrake Drive",
+    "extra": {
+      "incidentNumber": "57514",
+      "run_id": "57514",
+      "address": "100 Canebrake Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "220",
+      "units": "220",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-57514"
+    }
   }
 ]
