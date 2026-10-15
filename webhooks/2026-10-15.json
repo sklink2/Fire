@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57489"
     }
+  },
+  {
+    "runNumber": "57491",
+    "rawCode": "MED",
+    "timestamp": "2026-10-15T12:31:09.807946-04:00",
+    "address": "1100 Block Taborlake Drive",
+    "extra": {
+      "incidentNumber": "57491",
+      "run_id": "57491",
+      "address": "1100 Block Taborlake Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57491"
+    }
   }
 ]
