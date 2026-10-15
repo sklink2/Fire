@@ -108,5 +108,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57419"
     }
+  },
+  {
+    "runNumber": "57418",
+    "rawCode": "MED",
+    "timestamp": "2026-10-15T00:29:21.380188-04:00",
+    "address": "300 Block Quinton Court",
+    "extra": {
+      "incidentNumber": "57418",
+      "run_id": "57418",
+      "address": "300 Block Quinton Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57418"
+    }
   }
 ]
