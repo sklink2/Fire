@@ -2330,5 +2330,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-57518"
     }
+  },
+  {
+    "runNumber": "57519",
+    "rawCode": "MED",
+    "timestamp": "2026-10-15T14:21:26.704657-04:00",
+    "address": "500 Block Newtown Pike",
+    "extra": {
+      "incidentNumber": "57519",
+      "run_id": "57519",
+      "address": "500 Block Newtown Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,EC3",
+      "units": "E04,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57519"
+    }
   }
 ]
