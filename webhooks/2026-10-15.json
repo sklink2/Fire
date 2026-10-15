@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57484"
     }
+  },
+  {
+    "runNumber": "57485",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-15T12:07:48.245406-04:00",
+    "address": "361 Huguelet Drive",
+    "extra": {
+      "incidentNumber": "57485",
+      "run_id": "57485",
+      "address": "361 Huguelet Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E06,L02,204",
+      "units": "E04,E06,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-57485"
+    }
   }
 ]
