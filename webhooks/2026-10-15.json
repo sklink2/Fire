@@ -1186,5 +1186,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57467"
     }
+  },
+  {
+    "runNumber": "57469",
+    "rawCode": "MED",
+    "timestamp": "2026-10-15T10:50:54.837781-04:00",
+    "address": "200 Block Mcconnells Trce",
+    "extra": {
+      "incidentNumber": "57469",
+      "run_id": "57469",
+      "address": "200 Block Mcconnells Trce",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57469"
+    }
   }
 ]
