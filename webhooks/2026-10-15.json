@@ -812,5 +812,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57450"
     }
+  },
+  {
+    "runNumber": "57451",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-10-15T09:03:59.537853-04:00",
+    "address": "W New Circle Road & Boardwalk",
+    "extra": {
+      "incidentNumber": "57451",
+      "run_id": "57451",
+      "address": "W New Circle Road & Boardwalk",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,L01,EC1,201,241,RS1",
+      "units": "E08,L01,EC1,201,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-57451"
+    }
   }
 ]
