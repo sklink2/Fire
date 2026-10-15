@@ -3496,5 +3496,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57569"
     }
+  },
+  {
+    "runNumber": "57571",
+    "rawCode": "FMIS",
+    "timestamp": "2026-10-15T17:35:15.192717-04:00",
+    "address": "3304 Oaklyn Court",
+    "extra": {
+      "incidentNumber": "57571",
+      "run_id": "57571",
+      "address": "3304 Oaklyn Court",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,202,CRT1",
+      "units": "E16,202,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "FMIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-57571"
+    }
   }
 ]
