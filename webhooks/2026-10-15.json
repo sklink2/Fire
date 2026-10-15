@@ -1318,5 +1318,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57473"
     }
+  },
+  {
+    "runNumber": "57472",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-15T11:07:40.674968-04:00",
+    "address": "3752 Horsemint Trail",
+    "extra": {
+      "incidentNumber": "57472",
+      "run_id": "57472",
+      "address": "3752 Horsemint Trail",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E18,L06,202",
+      "units": "E09,E18,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-57472"
+    }
   }
 ]
