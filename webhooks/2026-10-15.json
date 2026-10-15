@@ -2374,5 +2374,27 @@
       "commandUnits": "220",
       "dedupeKey": "INCIDENT-57514"
     }
+  },
+  {
+    "runNumber": "57520",
+    "rawCode": "MED",
+    "timestamp": "2026-10-15T14:31:29.329649-04:00",
+    "address": "1400 Block Huntsville Drive",
+    "extra": {
+      "incidentNumber": "57520",
+      "run_id": "57520",
+      "address": "1400 Block Huntsville Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L05,EC8,CRT1",
+      "units": "L05,EC8,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57520"
+    }
   }
 ]
