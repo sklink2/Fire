@@ -2308,5 +2308,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-57517"
     }
+  },
+  {
+    "runNumber": "57518",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-15T14:14:44.974853-04:00",
+    "address": "408 Pennsylvania Court",
+    "extra": {
+      "incidentNumber": "57518",
+      "run_id": "57518",
+      "address": "408 Pennsylvania Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E12,L02,205",
+      "units": "E06,E12,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-57518"
+    }
   }
 ]
