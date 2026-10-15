@@ -4530,5 +4530,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57408"
     }
+  },
+  {
+    "runNumber": "57409",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-14T23:05:49.456724-04:00",
+    "address": "420 Transylvania Park",
+    "extra": {
+      "incidentNumber": "57409",
+      "run_id": "57409",
+      "address": "420 Transylvania Park",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,L02,EC7,205,220",
+      "units": "E05,E06,L02,EC7,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-57409"
+    }
   }
 ]
