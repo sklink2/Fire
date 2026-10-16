@@ -3474,5 +3474,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57793"
     }
+  },
+  {
+    "runNumber": "57799",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-16T18:59:09.293317-04:00",
+    "address": "1987 N Broadway",
+    "extra": {
+      "incidentNumber": "57799",
+      "run_id": "57799",
+      "address": "1987 N Broadway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E10,L03,201",
+      "units": "E08,E10,L03,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-57799"
+    }
   }
 ]
