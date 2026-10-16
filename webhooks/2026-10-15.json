@@ -4266,5 +4266,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57606"
     }
+  },
+  {
+    "runNumber": "57605",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-15T20:42:27.581772-04:00",
+    "address": "915 Murray Drive",
+    "extra": {
+      "incidentNumber": "57605",
+      "run_id": "57605",
+      "address": "915 Murray Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E08,L05,201",
+      "units": "E02,E08,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-57605"
+    }
   }
 ]
