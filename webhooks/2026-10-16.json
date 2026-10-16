@@ -3650,5 +3650,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57804"
     }
+  },
+  {
+    "runNumber": "57806",
+    "rawCode": "MED",
+    "timestamp": "2026-10-16T19:29:12.806083-04:00",
+    "address": "Liberty Road & Fortune Drive",
+    "extra": {
+      "incidentNumber": "57806",
+      "run_id": "57806",
+      "address": "Liberty Road & Fortune Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57806"
+    }
   }
 ]
