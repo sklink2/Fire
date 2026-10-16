@@ -1208,5 +1208,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57694"
     }
+  },
+  {
+    "runNumber": "57696",
+    "rawCode": "MED",
+    "timestamp": "2026-10-16T10:01:07.489322-04:00",
+    "address": "700 Block Harrison Trce",
+    "extra": {
+      "incidentNumber": "57696",
+      "run_id": "57696",
+      "address": "700 Block Harrison Trce",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57696"
+    }
   }
 ]
