@@ -3122,5 +3122,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57783"
     }
+  },
+  {
+    "runNumber": "57782",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-16T17:35:37.009129-04:00",
+    "address": "645 Winnie Street",
+    "extra": {
+      "incidentNumber": "57782",
+      "run_id": "57782",
+      "address": "645 Winnie Street",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E11,L02,204",
+      "units": "E06,E11,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-57782"
+    }
   }
 ]
