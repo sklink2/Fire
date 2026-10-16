@@ -4310,5 +4310,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57604"
     }
+  },
+  {
+    "runNumber": "57609",
+    "rawCode": "MED",
+    "timestamp": "2026-10-15T20:49:03.147168-04:00",
+    "address": "3700 Block Palomar Centre Drive",
+    "extra": {
+      "incidentNumber": "57609",
+      "run_id": "57609",
+      "address": "3700 Block Palomar Centre Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,EC21",
+      "units": "E20,EC21",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57609"
+    }
   }
 ]
