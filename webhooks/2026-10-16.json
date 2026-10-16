@@ -174,5 +174,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57647"
     }
+  },
+  {
+    "runNumber": "57648",
+    "rawCode": "MED",
+    "timestamp": "2026-10-16T00:46:21.200704-04:00",
+    "address": "600 Block Shelby Street",
+    "extra": {
+      "incidentNumber": "57648",
+      "run_id": "57648",
+      "address": "600 Block Shelby Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57648"
+    }
   }
 ]
