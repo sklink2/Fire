@@ -2110,5 +2110,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-57736"
     }
+  },
+  {
+    "runNumber": "57738",
+    "rawCode": "FMEA",
+    "timestamp": "2026-10-16T13:38:18.730805-04:00",
+    "address": "1447 Antique Drive",
+    "extra": {
+      "incidentNumber": "57738",
+      "run_id": "57738",
+      "address": "1447 Antique Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L03",
+      "units": "L03",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57738"
+    }
   }
 ]
