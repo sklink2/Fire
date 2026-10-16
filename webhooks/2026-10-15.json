@@ -4288,5 +4288,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-57605"
     }
+  },
+  {
+    "runNumber": "57604",
+    "rawCode": "MED",
+    "timestamp": "2026-10-15T20:42:30.581935-04:00",
+    "address": "0 Block Street Joseph Drive",
+    "extra": {
+      "incidentNumber": "57604",
+      "run_id": "57604",
+      "address": "0 Block Street Joseph Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57604"
+    }
   }
 ]
