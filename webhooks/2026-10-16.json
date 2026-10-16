@@ -3672,5 +3672,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57806"
     }
+  },
+  {
+    "runNumber": "57808",
+    "rawCode": "MED",
+    "timestamp": "2026-10-16T19:35:54.185922-04:00",
+    "address": "200 Block American Avenue",
+    "extra": {
+      "incidentNumber": "57808",
+      "run_id": "57808",
+      "address": "200 Block American Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57808"
+    }
   }
 ]
