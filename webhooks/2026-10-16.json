@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57772"
     }
+  },
+  {
+    "runNumber": "57771",
+    "rawCode": "MED",
+    "timestamp": "2026-10-16T16:22:05.133936-04:00",
+    "address": "4200 Block Saron Drive",
+    "extra": {
+      "incidentNumber": "57771",
+      "run_id": "57771",
+      "address": "4200 Block Saron Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57771"
+    }
   }
 ]
