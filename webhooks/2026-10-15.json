@@ -4750,5 +4750,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57627"
     }
+  },
+  {
+    "runNumber": "57628",
+    "rawCode": "MED",
+    "timestamp": "2026-10-15T22:56:02.536504-04:00",
+    "address": "3200 Block Caddo Lake Court",
+    "extra": {
+      "incidentNumber": "57628",
+      "run_id": "57628",
+      "address": "3200 Block Caddo Lake Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57628"
+    }
   }
 ]
