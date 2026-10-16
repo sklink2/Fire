@@ -1142,5 +1142,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57692"
     }
+  },
+  {
+    "runNumber": "57693",
+    "rawCode": "MED",
+    "timestamp": "2026-10-16T09:21:00.584243-04:00",
+    "address": "3000 Block Raven Creek Drive",
+    "extra": {
+      "incidentNumber": "57693",
+      "run_id": "57693",
+      "address": "3000 Block Raven Creek Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E18,EC13",
+      "units": "E18,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57693"
+    }
   }
 ]
