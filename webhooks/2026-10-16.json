@@ -2088,5 +2088,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57735"
     }
+  },
+  {
+    "runNumber": "57736",
+    "rawCode": "MED",
+    "timestamp": "2026-10-16T13:34:58.749027-04:00",
+    "address": "1400 Block Leestown Road",
+    "extra": {
+      "incidentNumber": "57736",
+      "run_id": "57736",
+      "address": "1400 Block Leestown Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,EC1,203",
+      "units": "E13,EC1,203",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-57736"
+    }
   }
 ]
