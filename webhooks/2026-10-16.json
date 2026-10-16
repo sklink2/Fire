@@ -2616,5 +2616,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57759"
     }
+  },
+  {
+    "runNumber": "57760",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-16T15:18:33.912063-04:00",
+    "address": "2656 Chant Court",
+    "extra": {
+      "incidentNumber": "57760",
+      "run_id": "57760",
+      "address": "2656 Chant Court",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC11,241",
+      "units": "E09,EC11,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-57760"
+    }
   }
 ]
