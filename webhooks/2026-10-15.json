@@ -4134,5 +4134,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57600"
     }
+  },
+  {
+    "runNumber": "57599",
+    "rawCode": "MED",
+    "timestamp": "2026-10-15T20:25:41.218248-04:00",
+    "address": "2500 Block Mable Lane",
+    "extra": {
+      "incidentNumber": "57599",
+      "run_id": "57599",
+      "address": "2500 Block Mable Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "T1,EC11",
+      "units": "T1,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57599"
+    }
   }
 ]
