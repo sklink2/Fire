@@ -3716,5 +3716,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57807"
     }
+  },
+  {
+    "runNumber": "57809",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-16T19:39:14.504943-04:00",
+    "address": "2676 Old Rosebud Road",
+    "extra": {
+      "incidentNumber": "57809",
+      "run_id": "57809",
+      "address": "2676 Old Rosebud Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E21,L06,201",
+      "units": "E09,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-57809"
+    }
   }
 ]
