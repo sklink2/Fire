@@ -4464,5 +4464,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57614"
     }
+  },
+  {
+    "runNumber": "57615",
+    "rawCode": "FMIS",
+    "timestamp": "2026-10-15T21:19:09.103397-04:00",
+    "address": "2788 Trailwood Lane",
+    "extra": {
+      "incidentNumber": "57615",
+      "run_id": "57615",
+      "address": "2788 Trailwood Lane",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,203",
+      "units": "E24,203",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-57615"
+    }
   }
 ]
