@@ -3452,5 +3452,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-57796"
     }
+  },
+  {
+    "runNumber": "57793",
+    "rawCode": "FDET",
+    "timestamp": "2026-10-16T18:55:47.537188-04:00",
+    "address": "435 W High Street",
+    "extra": {
+      "incidentNumber": "57793",
+      "run_id": "57793",
+      "address": "435 W High Street",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57793"
+    }
   }
 ]
