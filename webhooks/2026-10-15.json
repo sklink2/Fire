@@ -4178,5 +4178,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-57601"
     }
+  },
+  {
+    "runNumber": "57603",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-15T20:35:41.067697-04:00",
+    "address": "460 Transport Court",
+    "extra": {
+      "incidentNumber": "57603",
+      "run_id": "57603",
+      "address": "460 Transport Court",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC7",
+      "units": "E10,EC7",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57603"
+    }
   }
 ]
