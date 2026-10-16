@@ -3100,5 +3100,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57781"
     }
+  },
+  {
+    "runNumber": "57783",
+    "rawCode": "MED",
+    "timestamp": "2026-10-16T17:35:33.280278-04:00",
+    "address": "1900 Block Cambridge Drive",
+    "extra": {
+      "incidentNumber": "57783",
+      "run_id": "57783",
+      "address": "1900 Block Cambridge Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,EC10",
+      "units": "E13,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57783"
+    }
   }
 ]
