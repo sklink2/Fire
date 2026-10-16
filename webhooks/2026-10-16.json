@@ -1516,5 +1516,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57708"
     }
+  },
+  {
+    "runNumber": "57710",
+    "rawCode": "MED",
+    "timestamp": "2026-10-16T11:01:15.807124-04:00",
+    "address": "1000 Block Patricia Lane",
+    "extra": {
+      "incidentNumber": "57710",
+      "run_id": "57710",
+      "address": "1000 Block Patricia Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L03,EC1",
+      "units": "L03,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57710"
+    }
   }
 ]
