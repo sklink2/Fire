@@ -2748,5 +2748,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-57976"
     }
+  },
+  {
+    "runNumber": "57975",
+    "rawCode": "FMIS",
+    "timestamp": "2026-10-17T17:59:14.917202-04:00",
+    "address": "305 Harvard Drive",
+    "extra": {
+      "incidentNumber": "57975",
+      "run_id": "57975",
+      "address": "305 Harvard Drive",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,202",
+      "units": "E15,202",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-57975"
+    }
   }
 ]
