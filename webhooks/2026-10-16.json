@@ -4156,5 +4156,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57828"
     }
+  },
+  {
+    "runNumber": "57829",
+    "rawCode": "MED",
+    "timestamp": "2026-10-16T21:42:51.649777-04:00",
+    "address": "2800 Block Majestic View Walk",
+    "extra": {
+      "incidentNumber": "57829",
+      "run_id": "57829",
+      "address": "2800 Block Majestic View Walk",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "T1,EC6",
+      "units": "T1,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57829"
+    }
   }
 ]
