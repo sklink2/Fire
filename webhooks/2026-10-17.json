@@ -1076,5 +1076,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57898"
     }
+  },
+  {
+    "runNumber": "57900",
+    "rawCode": "MED",
+    "timestamp": "2026-10-17T10:14:42.442860-04:00",
+    "address": "1600 Block Lindy Lane",
+    "extra": {
+      "incidentNumber": "57900",
+      "run_id": "57900",
+      "address": "1600 Block Lindy Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57900"
+    }
   }
 ]
