@@ -4046,5 +4046,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-57823"
     }
+  },
+  {
+    "runNumber": "57824",
+    "rawCode": "MED",
+    "timestamp": "2026-10-16T21:06:05.630035-04:00",
+    "address": "600 Block Sherard Circle",
+    "extra": {
+      "incidentNumber": "57824",
+      "run_id": "57824",
+      "address": "600 Block Sherard Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E22,EC4",
+      "units": "E22,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57824"
+    }
   }
 ]
