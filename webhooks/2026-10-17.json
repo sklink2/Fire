@@ -1164,5 +1164,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57902"
     }
+  },
+  {
+    "runNumber": "57903",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-17T10:28:03.024080-04:00",
+    "address": "121 Washington Avenue",
+    "extra": {
+      "incidentNumber": "57903",
+      "run_id": "57903",
+      "address": "121 Washington Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E11,L02,205",
+      "units": "E06,E11,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-57903"
+    }
   }
 ]
