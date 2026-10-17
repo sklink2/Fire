@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57884"
     }
+  },
+  {
+    "runNumber": "57885",
+    "rawCode": "FDET",
+    "timestamp": "2026-10-17T08:21:06.871311-04:00",
+    "address": "1631 Old Frankfort Pike",
+    "extra": {
+      "incidentNumber": "57885",
+      "run_id": "57885",
+      "address": "1631 Old Frankfort Pike",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,HM1",
+      "units": "E20,HM1",
+      "unitCount": "2",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57885"
+    }
   }
 ]
