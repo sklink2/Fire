@@ -2990,5 +2990,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-57986"
     }
+  },
+  {
+    "runNumber": "57988",
+    "rawCode": "MED",
+    "timestamp": "2026-10-17T19:06:02.631817-04:00",
+    "address": "3200 Block Roxburg Drive",
+    "extra": {
+      "incidentNumber": "57988",
+      "run_id": "57988",
+      "address": "3200 Block Roxburg Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57988"
+    }
   }
 ]
