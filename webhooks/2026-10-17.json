@@ -988,5 +988,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-57895"
     }
+  },
+  {
+    "runNumber": "57894",
+    "rawCode": "MED",
+    "timestamp": "2026-10-17T09:51:20.576092-04:00",
+    "address": "2300 Block Huntly Place",
+    "extra": {
+      "incidentNumber": "57894",
+      "run_id": "57894",
+      "address": "2300 Block Huntly Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57894"
+    }
   }
 ]
