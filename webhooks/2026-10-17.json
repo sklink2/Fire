@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57873"
     }
+  },
+  {
+    "runNumber": "57872",
+    "rawCode": "MED",
+    "timestamp": "2026-10-17T03:50:28.185760-04:00",
+    "address": "200 Block E Fourth Street",
+    "extra": {
+      "incidentNumber": "57872",
+      "run_id": "57872",
+      "address": "200 Block E Fourth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57872"
+    }
   }
 ]
