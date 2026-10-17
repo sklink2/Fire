@@ -2594,5 +2594,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57968"
     }
+  },
+  {
+    "runNumber": "57969",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-17T17:29:07.999158-04:00",
+    "address": "424 W Fourth Street",
+    "extra": {
+      "incidentNumber": "57969",
+      "run_id": "57969",
+      "address": "424 W Fourth Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E08,E10,L01,205",
+      "units": "E01,E08,E10,L01,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-57969"
+    }
   }
 ]
