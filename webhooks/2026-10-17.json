@@ -2770,5 +2770,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-57975"
     }
+  },
+  {
+    "runNumber": "57977",
+    "rawCode": "MED",
+    "timestamp": "2026-10-17T18:12:35.728485-04:00",
+    "address": "200 Block Hillcrest Avenue",
+    "extra": {
+      "incidentNumber": "57977",
+      "run_id": "57977",
+      "address": "200 Block Hillcrest Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1,CRT1",
+      "units": "EC1,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57977"
+    }
   }
 ]
