@@ -2968,5 +2968,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57985"
     }
+  },
+  {
+    "runNumber": "57986",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-17T18:56:01.970263-04:00",
+    "address": "667 Hi Crest Drive",
+    "extra": {
+      "incidentNumber": "57986",
+      "run_id": "57986",
+      "address": "667 Hi Crest Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E08,L05,201",
+      "units": "E02,E08,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-57986"
+    }
   }
 ]
