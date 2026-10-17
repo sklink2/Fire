@@ -2132,5 +2132,27 @@
       "commandUnits": "220,204",
       "dedupeKey": "INCIDENT-57946"
     }
+  },
+  {
+    "runNumber": "57948",
+    "rawCode": "MED",
+    "timestamp": "2026-10-17T15:18:49.267920-04:00",
+    "address": "1200 Block Raeford Lane",
+    "extra": {
+      "incidentNumber": "57948",
+      "run_id": "57948",
+      "address": "1200 Block Raeford Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57948"
+    }
   }
 ]
