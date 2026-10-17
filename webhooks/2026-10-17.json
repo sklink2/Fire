@@ -2110,5 +2110,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57945"
     }
+  },
+  {
+    "runNumber": "57946",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-17T15:02:05.393190-04:00",
+    "address": "1492 Elizabeth Street",
+    "extra": {
+      "incidentNumber": "57946",
+      "run_id": "57946",
+      "address": "1492 Elizabeth Street",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E12,L02,204,220",
+      "units": "E06,E12,L02,204,220",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-57946"
+    }
   }
 ]
