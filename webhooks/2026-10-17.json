@@ -1098,5 +1098,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57900"
     }
+  },
+  {
+    "runNumber": "57899",
+    "rawCode": "MED",
+    "timestamp": "2026-10-17T10:14:44.054890-04:00",
+    "address": "1000 Block Heather Hills Lane",
+    "extra": {
+      "incidentNumber": "57899",
+      "run_id": "57899",
+      "address": "1000 Block Heather Hills Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,EC10",
+      "units": "E10,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57899"
+    }
   }
 ]
