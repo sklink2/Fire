@@ -4618,5 +4618,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57849"
     }
+  },
+  {
+    "runNumber": "57850",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-16T23:43:11.078715-04:00",
+    "address": "597 S Upper Street",
+    "extra": {
+      "incidentNumber": "57850",
+      "run_id": "57850",
+      "address": "597 S Upper Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,L02,204",
+      "units": "E05,E06,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-57850"
+    }
   }
 ]
