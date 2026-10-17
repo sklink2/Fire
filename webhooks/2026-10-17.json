@@ -1802,5 +1802,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-57930"
     }
+  },
+  {
+    "runNumber": "57932",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-10-17T13:35:15.468479-04:00",
+    "address": "4305 River Oak Trail",
+    "extra": {
+      "incidentNumber": "57932",
+      "run_id": "57932",
+      "address": "4305 River Oak Trail",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22",
+      "units": "E22",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57932"
+    }
   }
 ]
