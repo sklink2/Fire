@@ -3804,5 +3804,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-57812"
     }
+  },
+  {
+    "runNumber": "57813",
+    "rawCode": "MED",
+    "timestamp": "2026-10-16T20:15:59.495781-04:00",
+    "address": "300 Block E Vine Street",
+    "extra": {
+      "incidentNumber": "57813",
+      "run_id": "57813",
+      "address": "300 Block E Vine Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,EC7",
+      "units": "E05,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57813"
+    }
   }
 ]
