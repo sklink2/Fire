@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57931"
     }
+  },
+  {
+    "runNumber": "57930",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-17T13:18:32.646358-04:00",
+    "address": "200 Big Run Road",
+    "extra": {
+      "incidentNumber": "57930",
+      "run_id": "57930",
+      "address": "200 Big Run Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,E20,204",
+      "units": "E12,E20,204",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-57930"
+    }
   }
 ]
