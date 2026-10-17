@@ -3078,5 +3078,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-57991"
     }
+  },
+  {
+    "runNumber": "57990",
+    "rawCode": "MED",
+    "timestamp": "2026-10-17T19:32:48.133408-04:00",
+    "address": "1700 Block Eastland Court",
+    "extra": {
+      "incidentNumber": "57990",
+      "run_id": "57990",
+      "address": "1700 Block Eastland Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57990"
+    }
   }
 ]
