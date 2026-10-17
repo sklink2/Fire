@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57870"
     }
+  },
+  {
+    "runNumber": "57871",
+    "rawCode": "MED",
+    "timestamp": "2026-10-17T03:30:22.137170-04:00",
+    "address": "200 Block Long Branch Lane",
+    "extra": {
+      "incidentNumber": "57871",
+      "run_id": "57871",
+      "address": "200 Block Long Branch Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57871"
+    }
   }
 ]
