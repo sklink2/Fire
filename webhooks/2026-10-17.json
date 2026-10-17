@@ -20,5 +20,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-57851"
     }
+  },
+  {
+    "runNumber": "57852",
+    "rawCode": "MED",
+    "timestamp": "2026-10-17T00:09:55.336254-04:00",
+    "address": "300 Block Bainbridge Drive",
+    "extra": {
+      "incidentNumber": "57852",
+      "run_id": "57852",
+      "address": "300 Block Bainbridge Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57852"
+    }
   }
 ]
