@@ -1186,5 +1186,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-57903"
     }
+  },
+  {
+    "runNumber": "57904",
+    "rawCode": "FCAR",
+    "timestamp": "2026-10-17T10:31:23.090442-04:00",
+    "address": "3272 Featherston Drive",
+    "extra": {
+      "incidentNumber": "57904",
+      "run_id": "57904",
+      "address": "3272 Featherston Drive",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L07",
+      "units": "L07",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57904"
+    }
   }
 ]
