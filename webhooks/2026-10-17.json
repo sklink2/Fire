@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57912"
     }
+  },
+  {
+    "runNumber": "57913",
+    "rawCode": "MED",
+    "timestamp": "2026-10-17T11:14:51.534257-04:00",
+    "address": "2900 Block Richmond Road",
+    "extra": {
+      "incidentNumber": "57913",
+      "run_id": "57913",
+      "address": "2900 Block Richmond Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2,RS1",
+      "units": "EC2,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57913"
+    }
   }
 ]
