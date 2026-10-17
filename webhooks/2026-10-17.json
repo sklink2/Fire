@@ -614,5 +614,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-57877"
     }
+  },
+  {
+    "runNumber": "57878",
+    "rawCode": "MED",
+    "timestamp": "2026-10-17T06:37:30.365176-04:00",
+    "address": "1300 Block Gainesway Drive",
+    "extra": {
+      "incidentNumber": "57878",
+      "run_id": "57878",
+      "address": "1300 Block Gainesway Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC4",
+      "units": "E16,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-57878"
+    }
   }
 ]
