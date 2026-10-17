@@ -1032,5 +1032,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-57897"
     }
+  },
+  {
+    "runNumber": "57896",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-17T09:58:01.135845-04:00",
+    "address": "2331 Fortune Drive",
+    "extra": {
+      "incidentNumber": "57896",
+      "run_id": "57896",
+      "address": "2331 Fortune Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L05,EC3,241",
+      "units": "L05,EC3,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-57896"
+    }
   }
 ]
