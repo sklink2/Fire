@@ -174,5 +174,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-58034"
     }
+  },
+  {
+    "runNumber": "58033",
+    "rawCode": "MED",
+    "timestamp": "2026-10-18T00:43:37.926798-04:00",
+    "address": "300 Block W New Circle Road",
+    "extra": {
+      "incidentNumber": "58033",
+      "run_id": "58033",
+      "address": "300 Block W New Circle Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58033"
+    }
   }
 ]
