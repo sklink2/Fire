@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58060"
     }
+  },
+  {
+    "runNumber": "58061",
+    "rawCode": "MED",
+    "timestamp": "2026-10-18T03:54:07.035311-04:00",
+    "address": "500 Block Shelby Street",
+    "extra": {
+      "incidentNumber": "58061",
+      "run_id": "58061",
+      "address": "500 Block Shelby Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58061"
+    }
   }
 ]
