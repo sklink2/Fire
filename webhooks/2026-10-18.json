@@ -3210,5 +3210,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58171"
     }
+  },
+  {
+    "runNumber": "58170",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-18T16:56:09.153137-04:00",
+    "address": "312 Linden Walk",
+    "extra": {
+      "incidentNumber": "58170",
+      "run_id": "58170",
+      "address": "312 Linden Walk",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E06,L02,205",
+      "units": "E01,E06,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-58170"
+    }
   }
 ]
