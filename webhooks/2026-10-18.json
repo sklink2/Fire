@@ -1054,5 +1054,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58073"
     }
+  },
+  {
+    "runNumber": "58074",
+    "rawCode": "FSTR",
+    "timestamp": "2026-10-18T06:04:24.541706-04:00",
+    "address": "2223 Devonport Drive",
+    "extra": {
+      "incidentNumber": "58074",
+      "run_id": "58074",
+      "address": "2223 Devonport Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,E12,E13,E14,L01,L04,EC5,203,204,220,241,RS1",
+      "units": "E11,E12,E13,E14,L01,L04,EC5,203,204,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,203,204",
+      "dedupeKey": "INCIDENT-58074"
+    }
   }
 ]
