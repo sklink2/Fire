@@ -3386,5 +3386,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58179"
     }
+  },
+  {
+    "runNumber": "58180",
+    "rawCode": "FMIS",
+    "timestamp": "2026-10-18T17:39:32.393568-04:00",
+    "address": "1524 Pine Meadow Road",
+    "extra": {
+      "incidentNumber": "58180",
+      "run_id": "58180",
+      "address": "1524 Pine Meadow Road",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,204",
+      "units": "E14,204",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-58180"
+    }
   }
 ]
