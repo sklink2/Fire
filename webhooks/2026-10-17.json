@@ -3408,5 +3408,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58005"
     }
+  },
+  {
+    "runNumber": "58004",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-10-17T21:49:51.682965-04:00",
+    "address": "75 Sb / 113.0 Mm (Paris Pike",
+    "extra": {
+      "incidentNumber": "58004",
+      "run_id": "58004",
+      "address": "75 Sb / 113.0 Mm (Paris Pike",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E08,L03,EC3,201,241,RS1",
+      "units": "E02,E08,L03,EC3,201,241,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-58004"
+    }
   }
 ]
