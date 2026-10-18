@@ -3474,5 +3474,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-58007"
     }
+  },
+  {
+    "runNumber": "58009",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-17T22:19:55.263335-04:00",
+    "address": "502 Columbia Avenue",
+    "extra": {
+      "incidentNumber": "58009",
+      "run_id": "58009",
+      "address": "502 Columbia Avenue",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E05,L02,EC1,205",
+      "units": "E02,E05,L02,EC1,205",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-58009"
+    }
   }
 ]
