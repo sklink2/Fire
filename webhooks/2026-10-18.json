@@ -2198,5 +2198,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58124"
     }
+  },
+  {
+    "runNumber": "58126",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-10-18T12:22:05.207781-04:00",
+    "address": "3051 Leestown Road",
+    "extra": {
+      "incidentNumber": "58126",
+      "run_id": "58126",
+      "address": "3051 Leestown Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,E24,L01,L04,EC1,EC6,203,220,241,RS1",
+      "units": "E13,E24,L01,L04,EC1,EC6,203,220,241,RS1",
+      "unitCount": "10",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,220,203",
+      "dedupeKey": "INCIDENT-58126"
+    }
   }
 ]
