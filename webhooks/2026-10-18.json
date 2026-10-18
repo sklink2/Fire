@@ -3628,5 +3628,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58192"
     }
+  },
+  {
+    "runNumber": "58193",
+    "rawCode": "MED",
+    "timestamp": "2026-10-18T18:46:23.416916-04:00",
+    "address": "2700 Block Sullivans Trce",
+    "extra": {
+      "incidentNumber": "58193",
+      "run_id": "58193",
+      "address": "2700 Block Sullivans Trce",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC3",
+      "units": "E24,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58193"
+    }
   }
 ]
