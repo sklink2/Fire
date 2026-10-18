@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58156"
     }
+  },
+  {
+    "runNumber": "58157",
+    "rawCode": "MED",
+    "timestamp": "2026-10-18T15:55:57.323178-04:00",
+    "address": "100 Block Trade Street",
+    "extra": {
+      "incidentNumber": "58157",
+      "run_id": "58157",
+      "address": "100 Block Trade Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58157"
+    }
   }
 ]
