@@ -3452,5 +3452,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58006"
     }
+  },
+  {
+    "runNumber": "58007",
+    "rawCode": "FFIA",
+    "timestamp": "2026-10-17T22:09:51.836780-04:00",
+    "address": "1685 Alexandria Drive",
+    "extra": {
+      "incidentNumber": "58007",
+      "run_id": "58007",
+      "address": "1685 Alexandria Drive",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,E14,L04,204",
+      "units": "E11,E14,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FFIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-58007"
+    }
   }
 ]
