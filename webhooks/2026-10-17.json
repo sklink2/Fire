@@ -3386,5 +3386,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58004"
     }
+  },
+  {
+    "runNumber": "58005",
+    "rawCode": "MED",
+    "timestamp": "2026-10-17T21:49:49.522090-04:00",
+    "address": "400 Block W Third Street",
+    "extra": {
+      "incidentNumber": "58005",
+      "run_id": "58005",
+      "address": "400 Block W Third Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58005"
+    }
   }
 ]
