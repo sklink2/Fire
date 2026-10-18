@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58132"
     }
+  },
+  {
+    "runNumber": "58133",
+    "rawCode": "FMEA",
+    "timestamp": "2026-10-18T13:02:09.404781-04:00",
+    "address": "4205 Reserve Road",
+    "extra": {
+      "incidentNumber": "58133",
+      "run_id": "58133",
+      "address": "4205 Reserve Road",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L04,220",
+      "units": "L04,220",
+      "unitCount": "2",
+      "primaryTopic": "FMEA",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-58133"
+    }
   }
 ]
