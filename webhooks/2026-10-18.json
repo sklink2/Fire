@@ -1230,5 +1230,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58082"
     }
+  },
+  {
+    "runNumber": "58081",
+    "rawCode": "MED",
+    "timestamp": "2026-10-18T07:28:02.807567-04:00",
+    "address": "200 Block Arceme Avenue",
+    "extra": {
+      "incidentNumber": "58081",
+      "run_id": "58081",
+      "address": "200 Block Arceme Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58081"
+    }
   }
 ]
