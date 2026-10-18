@@ -3320,5 +3320,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58176"
     }
+  },
+  {
+    "runNumber": "58178",
+    "rawCode": "MED",
+    "timestamp": "2026-10-18T17:22:51.792933-04:00",
+    "address": "1900 Block Deauville Drive",
+    "extra": {
+      "incidentNumber": "58178",
+      "run_id": "58178",
+      "address": "1900 Block Deauville Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58178"
+    }
   }
 ]
