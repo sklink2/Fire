@@ -3254,5 +3254,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-57997"
     }
+  },
+  {
+    "runNumber": "58000",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-17T21:29:45.168851-04:00",
+    "address": "326 S Martin Luther King Boulevard",
+    "extra": {
+      "incidentNumber": "58000",
+      "run_id": "58000",
+      "address": "326 S Martin Luther King Boulevard",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E06,L01,EC7,205,220",
+      "units": "E01,E06,L01,EC7,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-58000"
+    }
   }
 ]
