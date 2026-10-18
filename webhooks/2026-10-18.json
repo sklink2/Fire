@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58056"
     }
+  },
+  {
+    "runNumber": "58057",
+    "rawCode": "MED",
+    "timestamp": "2026-10-18T03:27:22.240176-04:00",
+    "address": "200 Block S Hanover Avenue",
+    "extra": {
+      "incidentNumber": "58057",
+      "run_id": "58057",
+      "address": "200 Block S Hanover Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,EC2,241",
+      "units": "E05,EC2,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-58057"
+    }
   }
 ]
