@@ -108,5 +108,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-58030"
     }
+  },
+  {
+    "runNumber": "58029",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-18T00:13:34.343973-04:00",
+    "address": "1060 Cross Keys Road",
+    "extra": {
+      "incidentNumber": "58029",
+      "run_id": "58029",
+      "address": "1060 Cross Keys Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11",
+      "units": "E11",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58029"
+    }
   }
 ]
