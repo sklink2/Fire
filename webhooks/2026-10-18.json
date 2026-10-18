@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58160"
     }
+  },
+  {
+    "runNumber": "58162",
+    "rawCode": "FASS",
+    "timestamp": "2026-10-18T16:29:22.475024-04:00",
+    "address": "368 Pinewood Court",
+    "extra": {
+      "incidentNumber": "58162",
+      "run_id": "58162",
+      "address": "368 Pinewood Court",
+      "rawType": "FASS",
+      "typeCode": "FASS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC12,201",
+      "units": "E21,EC12,201",
+      "unitCount": "3",
+      "primaryTopic": "FASS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-58162"
+    }
   }
 ]
