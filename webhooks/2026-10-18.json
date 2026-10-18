@@ -3716,5 +3716,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58196"
     }
+  },
+  {
+    "runNumber": "58198",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-18T19:23:08.790612-04:00",
+    "address": "Newtown Pike & N 75",
+    "extra": {
+      "incidentNumber": "58198",
+      "run_id": "58198",
+      "address": "Newtown Pike & N 75",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E10,EC12",
+      "units": "E08,E10,EC12",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58198"
+    }
   }
 ]
