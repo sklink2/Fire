@@ -1516,5 +1516,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58095"
     }
+  },
+  {
+    "runNumber": "58096",
+    "rawCode": "MED",
+    "timestamp": "2026-10-18T09:24:58.035747-04:00",
+    "address": "1100 Block Appian Crossing Way",
+    "extra": {
+      "incidentNumber": "58096",
+      "run_id": "58096",
+      "address": "1100 Block Appian Crossing Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC13",
+      "units": "E22,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58096"
+    }
   }
 ]
