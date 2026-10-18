@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58186"
     }
+  },
+  {
+    "runNumber": "58188",
+    "rawCode": "MED",
+    "timestamp": "2026-10-18T18:16:17.823353-04:00",
+    "address": "2400 Block Sir Barton Way",
+    "extra": {
+      "incidentNumber": "58188",
+      "run_id": "58188",
+      "address": "2400 Block Sir Barton Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58188"
+    }
   }
 ]
