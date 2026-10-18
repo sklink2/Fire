@@ -3826,5 +3826,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58024"
     }
+  },
+  {
+    "runNumber": "58023",
+    "rawCode": "MED",
+    "timestamp": "2026-10-17T23:46:48.181947-04:00",
+    "address": "4300 Block Clearwater Way",
+    "extra": {
+      "incidentNumber": "58023",
+      "run_id": "58023",
+      "address": "4300 Block Clearwater Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58023"
+    }
   }
 ]
