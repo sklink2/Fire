@@ -3628,5 +3628,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-58014"
     }
+  },
+  {
+    "runNumber": "58016",
+    "rawCode": "MED",
+    "timestamp": "2026-10-17T23:13:21.636061-04:00",
+    "address": "3300 Block Mathern Trail",
+    "extra": {
+      "incidentNumber": "58016",
+      "run_id": "58016",
+      "address": "3300 Block Mathern Trail",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58016"
+    }
   }
 ]
