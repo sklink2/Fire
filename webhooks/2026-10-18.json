@@ -152,5 +152,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58032"
     }
+  },
+  {
+    "runNumber": "58034",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-18T00:43:36.278491-04:00",
+    "address": "Versailles Road & Garrett Avenue",
+    "extra": {
+      "incidentNumber": "58034",
+      "run_id": "58034",
+      "address": "Versailles Road & Garrett Avenue",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,EC5,241",
+      "units": "E14,EC5,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-58034"
+    }
   }
 ]
