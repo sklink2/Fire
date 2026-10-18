@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58140"
     }
+  },
+  {
+    "runNumber": "58141",
+    "rawCode": "MED",
+    "timestamp": "2026-10-18T14:02:20.699313-04:00",
+    "address": "200 Block E High Street",
+    "extra": {
+      "incidentNumber": "58141",
+      "run_id": "58141",
+      "address": "200 Block E High Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L02,EC10",
+      "units": "L02,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58141"
+    }
   }
 ]
