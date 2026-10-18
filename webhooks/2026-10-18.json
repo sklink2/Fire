@@ -1846,5 +1846,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58110"
     }
+  },
+  {
+    "runNumber": "58111",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-18T11:11:54.864492-04:00",
+    "address": "571 W Short Street",
+    "extra": {
+      "incidentNumber": "58111",
+      "run_id": "58111",
+      "address": "571 W Short Street",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,E13,L01,EC12,203,220",
+      "units": "E10,E13,L01,EC12,203,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,203",
+      "dedupeKey": "INCIDENT-58111"
+    }
   }
 ]
