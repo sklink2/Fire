@@ -1076,5 +1076,27 @@
       "commandUnits": "241,220,203,204",
       "dedupeKey": "INCIDENT-58074"
     }
+  },
+  {
+    "runNumber": "58075",
+    "rawCode": "FMEA",
+    "timestamp": "2026-10-18T06:07:44.342159-04:00",
+    "address": "5900 Russell Cave Road",
+    "extra": {
+      "incidentNumber": "58075",
+      "run_id": "58075",
+      "address": "5900 Russell Cave Road",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E19",
+      "units": "E19",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58075"
+    }
   }
 ]
