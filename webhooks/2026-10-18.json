@@ -1120,5 +1120,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58076"
     }
+  },
+  {
+    "runNumber": "58077",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-18T06:27:49.733162-04:00",
+    "address": "3304 Fall Court",
+    "extra": {
+      "incidentNumber": "58077",
+      "run_id": "58077",
+      "address": "3304 Fall Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,E22,L07,202",
+      "units": "E16,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-58077"
+    }
   }
 ]
