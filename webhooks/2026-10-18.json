@@ -86,5 +86,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58031"
     }
+  },
+  {
+    "runNumber": "58030",
+    "rawCode": "MED",
+    "timestamp": "2026-10-18T00:13:32.509877-04:00",
+    "address": "200 Block Thompson Road",
+    "extra": {
+      "incidentNumber": "58030",
+      "run_id": "58030",
+      "address": "200 Block Thompson Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,EC10,241",
+      "units": "E13,EC10,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-58030"
+    }
   }
 ]
