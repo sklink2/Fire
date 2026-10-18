@@ -1296,5 +1296,27 @@
       "commandUnits": "220,202",
       "dedupeKey": "INCIDENT-58085"
     }
+  },
+  {
+    "runNumber": "58084",
+    "rawCode": "MED",
+    "timestamp": "2026-10-18T07:44:44.592858-04:00",
+    "address": "4200 Block Southmoor Park",
+    "extra": {
+      "incidentNumber": "58084",
+      "run_id": "58084",
+      "address": "4200 Block Southmoor Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58084"
+    }
   }
 ]
