@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58200"
     }
+  },
+  {
+    "runNumber": "58202",
+    "rawCode": "MED",
+    "timestamp": "2026-10-18T19:56:34.255882-04:00",
+    "address": "300 Block Peachtree Road",
+    "extra": {
+      "incidentNumber": "58202",
+      "run_id": "58202",
+      "address": "300 Block Peachtree Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58202"
+    }
   }
 ]
