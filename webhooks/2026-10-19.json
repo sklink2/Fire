@@ -2858,5 +2858,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-58379"
     }
+  },
+  {
+    "runNumber": "58381",
+    "rawCode": "MED",
+    "timestamp": "2026-10-19T17:23:08.858576-04:00",
+    "address": "700 Block Broadmoor Place",
+    "extra": {
+      "incidentNumber": "58381",
+      "run_id": "58381",
+      "address": "700 Block Broadmoor Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L06,EC11",
+      "units": "L06,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58381"
+    }
   }
 ]
