@@ -4574,5 +4574,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58238"
     }
+  },
+  {
+    "runNumber": "58237",
+    "rawCode": "MED",
+    "timestamp": "2026-10-18T22:57:05.886600-04:00",
+    "address": "300 Block E Short Street",
+    "extra": {
+      "incidentNumber": "58237",
+      "run_id": "58237",
+      "address": "300 Block E Short Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC1",
+      "units": "E05,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58237"
+    }
   }
 ]
