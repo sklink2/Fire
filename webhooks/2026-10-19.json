@@ -900,5 +900,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58287"
     }
+  },
+  {
+    "runNumber": "58289",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-19T09:15:19.120141-04:00",
+    "address": "715 Golfview Drive",
+    "extra": {
+      "incidentNumber": "58289",
+      "run_id": "58289",
+      "address": "715 Golfview Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E05,L03,205",
+      "units": "E04,E05,L03,205",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-58289"
+    }
   }
 ]
