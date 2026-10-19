@@ -4002,5 +4002,27 @@
       "commandUnits": "220,202",
       "dedupeKey": "INCIDENT-58210"
     }
+  },
+  {
+    "runNumber": "58212",
+    "rawCode": "MED",
+    "timestamp": "2026-10-18T20:50:03.680433-04:00",
+    "address": "1600 Block Brittany Lane",
+    "extra": {
+      "incidentNumber": "58212",
+      "run_id": "58212",
+      "address": "1600 Block Brittany Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,EC8",
+      "units": "E14,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58212"
+    }
   }
 ]
