@@ -372,5 +372,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58262"
     }
+  },
+  {
+    "runNumber": "58263",
+    "rawCode": "FGAO",
+    "timestamp": "2026-10-19T04:58:00.741222-04:00",
+    "address": "101 W Loudon Avenue",
+    "extra": {
+      "incidentNumber": "58263",
+      "run_id": "58263",
+      "address": "101 W Loudon Avenue",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E08",
+      "units": "E02,E08",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58263"
+    }
   }
 ]
