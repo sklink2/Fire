@@ -3430,5 +3430,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58406"
     }
+  },
+  {
+    "runNumber": "58407",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-19T19:43:31.689817-04:00",
+    "address": "3129 Starling Drive",
+    "extra": {
+      "incidentNumber": "58407",
+      "run_id": "58407",
+      "address": "3129 Starling Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E15,L07,202",
+      "units": "E07,E15,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-58407"
+    }
   }
 ]
