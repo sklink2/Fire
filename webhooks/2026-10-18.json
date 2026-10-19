@@ -4178,5 +4178,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58219"
     }
+  },
+  {
+    "runNumber": "58218",
+    "rawCode": "FMIS",
+    "timestamp": "2026-10-18T21:13:27.240479-04:00",
+    "address": "2008 Shaker Run Road",
+    "extra": {
+      "incidentNumber": "58218",
+      "run_id": "58218",
+      "address": "2008 Shaker Run Road",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,201",
+      "units": "E21,201",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-58218"
+    }
   }
 ]
