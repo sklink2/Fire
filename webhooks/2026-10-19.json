@@ -2836,5 +2836,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58380"
     }
+  },
+  {
+    "runNumber": "58379",
+    "rawCode": "FELF",
+    "timestamp": "2026-10-19T17:16:31.017743-04:00",
+    "address": "2024 Mark Avenue",
+    "extra": {
+      "incidentNumber": "58379",
+      "run_id": "58379",
+      "address": "2024 Mark Avenue",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,E24,L03,203",
+      "units": "E10,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-58379"
+    }
   }
 ]
