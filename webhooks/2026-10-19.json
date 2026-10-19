@@ -218,5 +218,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58255"
     }
+  },
+  {
+    "runNumber": "58256",
+    "rawCode": "MED",
+    "timestamp": "2026-10-19T02:34:18.081885-04:00",
+    "address": "3200 Block Wellington Lane",
+    "extra": {
+      "incidentNumber": "58256",
+      "run_id": "58256",
+      "address": "3200 Block Wellington Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,EC9",
+      "units": "E20,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58256"
+    }
   }
 ]
