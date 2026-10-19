@@ -2462,5 +2462,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58360"
     }
+  },
+  {
+    "runNumber": "58362",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-10-19T15:46:16.898295-04:00",
+    "address": "Nicholasville Road & Moore Drive",
+    "extra": {
+      "incidentNumber": "58362",
+      "run_id": "58362",
+      "address": "Nicholasville Road & Moore Drive",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,L04,EC9,204,241,RS1",
+      "units": "E15,L04,EC9,204,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,204",
+      "dedupeKey": "INCIDENT-58362"
+    }
   }
 ]
