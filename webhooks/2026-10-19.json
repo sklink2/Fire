@@ -3452,5 +3452,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-58407"
     }
+  },
+  {
+    "runNumber": "58408",
+    "rawCode": "MED",
+    "timestamp": "2026-10-19T19:46:51.393437-04:00",
+    "address": "2100 Block Hackney Place",
+    "extra": {
+      "incidentNumber": "58408",
+      "run_id": "58408",
+      "address": "2100 Block Hackney Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58408"
+    }
   }
 ]
