@@ -856,5 +856,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-58285"
     }
+  },
+  {
+    "runNumber": "58286",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-19T08:58:37.633182-04:00",
+    "address": "354 Foreman Avenue",
+    "extra": {
+      "incidentNumber": "58286",
+      "run_id": "58286",
+      "address": "354 Foreman Avenue",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E22,L01,EC7,205,220",
+      "units": "E06,E22,L01,EC7,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-58286"
+    }
   }
 ]
