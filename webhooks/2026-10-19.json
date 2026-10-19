@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58320"
     }
+  },
+  {
+    "runNumber": "58319",
+    "rawCode": "MED",
+    "timestamp": "2026-10-19T12:02:28.369563-04:00",
+    "address": "700 Block Dakota Street",
+    "extra": {
+      "incidentNumber": "58319",
+      "run_id": "58319",
+      "address": "700 Block Dakota Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L06,EC10",
+      "units": "L06,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58319"
+    }
   }
 ]
