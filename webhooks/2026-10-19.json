@@ -922,5 +922,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-58289"
     }
+  },
+  {
+    "runNumber": "58290",
+    "rawCode": "MED",
+    "timestamp": "2026-10-19T09:38:43.513442-04:00",
+    "address": "1300 Block Centre Parkway",
+    "extra": {
+      "incidentNumber": "58290",
+      "run_id": "58290",
+      "address": "1300 Block Centre Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58290"
+    }
   }
 ]
