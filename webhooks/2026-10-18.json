@@ -3980,5 +3980,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58209"
     }
+  },
+  {
+    "runNumber": "58210",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-18T20:46:42.706397-04:00",
+    "address": "1094 Rockbridge Road",
+    "extra": {
+      "incidentNumber": "58210",
+      "run_id": "58210",
+      "address": "1094 Rockbridge Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E16,L07,EC4,202,220",
+      "units": "E07,E16,L07,EC4,202,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-58210"
+    }
   }
 ]
