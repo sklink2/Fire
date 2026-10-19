@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58291"
     }
+  },
+  {
+    "runNumber": "58293",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-19T09:48:44.208446-04:00",
+    "address": "Chinoe Road & Cochran Road",
+    "extra": {
+      "incidentNumber": "58293",
+      "run_id": "58293",
+      "address": "Chinoe Road & Cochran Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,EC9,204",
+      "units": "E05,EC9,204",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-58293"
+    }
   }
 ]
