@@ -4662,5 +4662,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58240"
     }
+  },
+  {
+    "runNumber": "58241",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-18T23:30:30.324054-04:00",
+    "address": "105 Sand Lake Drive",
+    "extra": {
+      "incidentNumber": "58241",
+      "run_id": "58241",
+      "address": "105 Sand Lake Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E16,L06,202",
+      "units": "E09,E16,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-58241"
+    }
   }
 ]
