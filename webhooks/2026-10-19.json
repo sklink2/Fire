@@ -636,5 +636,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58275"
     }
+  },
+  {
+    "runNumber": "58276",
+    "rawCode": "FELF",
+    "timestamp": "2026-10-19T08:01:49.587394-04:00",
+    "address": "221 Broadview Drive",
+    "extra": {
+      "incidentNumber": "58276",
+      "run_id": "58276",
+      "address": "221 Broadview Drive",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E10,L05,201",
+      "units": "E08,E10,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-58276"
+    }
   }
 ]
