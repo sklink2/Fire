@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58370"
     }
+  },
+  {
+    "runNumber": "58372",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-19T16:46:23.923065-04:00",
+    "address": "723 Hambrick Avenue",
+    "extra": {
+      "incidentNumber": "58372",
+      "run_id": "58372",
+      "address": "723 Hambrick Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E05,L02,205",
+      "units": "E01,E05,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-58372"
+    }
   }
 ]
