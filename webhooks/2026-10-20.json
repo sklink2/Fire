@@ -3342,5 +3342,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58600"
     }
+  },
+  {
+    "runNumber": "58602",
+    "rawCode": "MED",
+    "timestamp": "2026-10-20T17:10:08.134077-04:00",
+    "address": "4200 Block Forsythe Drive",
+    "extra": {
+      "incidentNumber": "58602",
+      "run_id": "58602",
+      "address": "4200 Block Forsythe Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L04,EC10",
+      "units": "L04,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58602"
+    }
   }
 ]
