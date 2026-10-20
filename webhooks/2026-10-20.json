@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58564"
     }
+  },
+  {
+    "runNumber": "58566",
+    "rawCode": "MED",
+    "timestamp": "2026-10-20T14:16:22.423353-04:00",
+    "address": "3400 Block Lansdowne Drive",
+    "extra": {
+      "incidentNumber": "58566",
+      "run_id": "58566",
+      "address": "3400 Block Lansdowne Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,EC2",
+      "units": "E07,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58566"
+    }
   }
 ]
