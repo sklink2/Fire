@@ -2462,5 +2462,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58559"
     }
+  },
+  {
+    "runNumber": "58561",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-20T13:52:57.282241-04:00",
+    "address": "1160 University Drive",
+    "extra": {
+      "incidentNumber": "58561",
+      "run_id": "58561",
+      "address": "1160 University Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E11,L02,204",
+      "units": "E05,E11,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-58561"
+    }
   }
 ]
