@@ -2286,5 +2286,27 @@
       "commandUnits": "220,202",
       "dedupeKey": "INCIDENT-58553"
     }
+  },
+  {
+    "runNumber": "58552",
+    "rawCode": "MED",
+    "timestamp": "2026-10-20T12:49:31.290292-04:00",
+    "address": "3800 Block Camelot Drive",
+    "extra": {
+      "incidentNumber": "58552",
+      "run_id": "58552",
+      "address": "3800 Block Camelot Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58552"
+    }
   }
 ]
