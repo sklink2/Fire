@@ -856,5 +856,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-58487"
     }
+  },
+  {
+    "runNumber": "58486",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-10-20T07:28:47.483149-04:00",
+    "address": "471 Price Road",
+    "extra": {
+      "incidentNumber": "58486",
+      "run_id": "58486",
+      "address": "471 Price Road",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L03",
+      "units": "L03",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58486"
+    }
   }
 ]
