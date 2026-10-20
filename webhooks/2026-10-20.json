@@ -2308,5 +2308,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58552"
     }
+  },
+  {
+    "runNumber": "58554",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-20T12:56:10.282926-04:00",
+    "address": "1555 Georgetown Road",
+    "extra": {
+      "incidentNumber": "58554",
+      "run_id": "58554",
+      "address": "1555 Georgetown Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E24,L03,203",
+      "units": "E08,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-58554"
+    }
   }
 ]
