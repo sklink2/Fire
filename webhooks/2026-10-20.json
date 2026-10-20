@@ -1450,5 +1450,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58514"
     }
+  },
+  {
+    "runNumber": "58513",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-20T10:09:09.671334-04:00",
+    "address": "Richmond Road & Shriners Lane",
+    "extra": {
+      "incidentNumber": "58513",
+      "run_id": "58513",
+      "address": "Richmond Road & Shriners Lane",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC10,241",
+      "units": "E08,EC10,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-58513"
+    }
   }
 ]
