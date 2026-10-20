@@ -4046,5 +4046,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58632"
     }
+  },
+  {
+    "runNumber": "58633",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-20T19:43:50.282693-04:00",
+    "address": "412 Elm Tree Lane",
+    "extra": {
+      "incidentNumber": "58633",
+      "run_id": "58633",
+      "address": "412 Elm Tree Lane",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E05,L01,205",
+      "units": "E01,E05,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-58633"
+    }
   }
 ]
