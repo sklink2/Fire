@@ -2528,5 +2528,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-58563"
     }
+  },
+  {
+    "runNumber": "58564",
+    "rawCode": "MED",
+    "timestamp": "2026-10-20T14:13:02.424469-04:00",
+    "address": "3500 Block Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "58564",
+      "run_id": "58564",
+      "address": "3500 Block Harrodsburg Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58564"
+    }
   }
 ]
