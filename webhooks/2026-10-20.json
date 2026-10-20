@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58522"
     }
+  },
+  {
+    "runNumber": "58523",
+    "rawCode": "MED",
+    "timestamp": "2026-10-20T10:35:47.290911-04:00",
+    "address": "300 Block Harvard Drive",
+    "extra": {
+      "incidentNumber": "58523",
+      "run_id": "58523",
+      "address": "300 Block Harvard Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "CRT1",
+      "units": "CRT1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58523"
+    }
   }
 ]
