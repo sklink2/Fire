@@ -3870,5 +3870,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58624"
     }
+  },
+  {
+    "runNumber": "58627",
+    "rawCode": "MED",
+    "timestamp": "2026-10-20T19:13:45.426407-04:00",
+    "address": "Athens Boonesboro Road & Old Ric",
+    "extra": {
+      "incidentNumber": "58627",
+      "run_id": "58627",
+      "address": "Athens Boonesboro Road & Old Ric",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2,241",
+      "units": "E09,EC2,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-58627"
+    }
   }
 ]
