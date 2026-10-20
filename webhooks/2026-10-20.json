@@ -1120,5 +1120,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58499"
     }
+  },
+  {
+    "runNumber": "58500",
+    "rawCode": "MED",
+    "timestamp": "2026-10-20T08:48:51.339166-04:00",
+    "address": "800 Block Ridgebrook Road",
+    "extra": {
+      "incidentNumber": "58500",
+      "run_id": "58500",
+      "address": "800 Block Ridgebrook Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC4",
+      "units": "E08,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58500"
+    }
   }
 ]
