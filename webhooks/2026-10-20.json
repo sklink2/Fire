@@ -1032,5 +1032,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58495"
     }
+  },
+  {
+    "runNumber": "58496",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-20T08:25:29.306832-04:00",
+    "address": "Waller Avenue & Elizabeth Street",
+    "extra": {
+      "incidentNumber": "58496",
+      "run_id": "58496",
+      "address": "Waller Avenue & Elizabeth Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,EC12,241",
+      "units": "E06,EC12,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-58496"
+    }
   }
 ]
