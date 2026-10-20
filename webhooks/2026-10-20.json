@@ -1252,5 +1252,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58504"
     }
+  },
+  {
+    "runNumber": "58506",
+    "rawCode": "MED",
+    "timestamp": "2026-10-20T09:25:36.999488-04:00",
+    "address": "E Seventh Street & Maple Avenue",
+    "extra": {
+      "incidentNumber": "58506",
+      "run_id": "58506",
+      "address": "E Seventh Street & Maple Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,EC1",
+      "units": "E05,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58506"
+    }
   }
 ]
