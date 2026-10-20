@@ -284,5 +284,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58461"
     }
+  },
+  {
+    "runNumber": "58462",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-20T02:24:33.570114-04:00",
+    "address": "441 Redding Road",
+    "extra": {
+      "incidentNumber": "58462",
+      "run_id": "58462",
+      "address": "441 Redding Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,L07,EC4,202,220",
+      "units": "E07,L07,EC4,202,220",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-58462"
+    }
   }
 ]
