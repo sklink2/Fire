@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58535"
     }
+  },
+  {
+    "runNumber": "58538",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-20T11:45:58.674436-04:00",
+    "address": "2285 Executive Drive",
+    "extra": {
+      "incidentNumber": "58538",
+      "run_id": "58538",
+      "address": "2285 Executive Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E08,E17,L05,201",
+      "units": "E02,E08,E17,L05,201",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-58538"
+    }
   }
 ]
