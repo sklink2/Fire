@@ -3782,5 +3782,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58619"
     }
+  },
+  {
+    "runNumber": "58622",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-20T18:50:22.132322-04:00",
+    "address": "1812 Gerald Drive",
+    "extra": {
+      "incidentNumber": "58622",
+      "run_id": "58622",
+      "address": "1812 Gerald Drive",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E19,205",
+      "units": "E08,E19,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-58622"
+    }
   }
 ]
