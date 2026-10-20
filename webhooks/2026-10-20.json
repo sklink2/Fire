@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58481"
     }
+  },
+  {
+    "runNumber": "58480",
+    "rawCode": "MED",
+    "timestamp": "2026-10-20T06:35:13.491448-04:00",
+    "address": "1200 Block Mt Rushmore Way",
+    "extra": {
+      "incidentNumber": "58480",
+      "run_id": "58480",
+      "address": "1200 Block Mt Rushmore Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58480"
+    }
   }
 ]
