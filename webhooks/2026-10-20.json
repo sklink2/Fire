@@ -2330,5 +2330,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-58554"
     }
+  },
+  {
+    "runNumber": "58556",
+    "rawCode": "MED",
+    "timestamp": "2026-10-20T13:16:11.895138-04:00",
+    "address": "1900 Block Leitner Court",
+    "extra": {
+      "incidentNumber": "58556",
+      "run_id": "58556",
+      "address": "1900 Block Leitner Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58556"
+    }
   }
 ]
