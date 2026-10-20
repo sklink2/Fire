@@ -636,5 +636,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58476"
     }
+  },
+  {
+    "runNumber": "58478",
+    "rawCode": "MED",
+    "timestamp": "2026-10-20T05:51:44.142269-04:00",
+    "address": "700 Block Shelby Avenue",
+    "extra": {
+      "incidentNumber": "58478",
+      "run_id": "58478",
+      "address": "700 Block Shelby Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58478"
+    }
   }
 ]
