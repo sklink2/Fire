@@ -3232,5 +3232,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58594"
     }
+  },
+  {
+    "runNumber": "58597",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-20T16:50:07.051081-04:00",
+    "address": "75 Sb / 112.0 Mm",
+    "extra": {
+      "incidentNumber": "58597",
+      "run_id": "58597",
+      "address": "75 Sb / 112.0 Mm",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E10,EC3",
+      "units": "E08,E10,EC3",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58597"
+    }
   }
 ]
