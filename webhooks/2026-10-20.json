@@ -64,5 +64,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58451"
     }
+  },
+  {
+    "runNumber": "58450",
+    "rawCode": "MED",
+    "timestamp": "2026-10-20T00:20:55.153780-04:00",
+    "address": "200 Block Sutton Place",
+    "extra": {
+      "incidentNumber": "58450",
+      "run_id": "58450",
+      "address": "200 Block Sutton Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC12",
+      "units": "E14,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58450"
+    }
   }
 ]
