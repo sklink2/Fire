@@ -3474,5 +3474,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58606"
     }
+  },
+  {
+    "runNumber": "58608",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-20T17:40:11.979390-04:00",
+    "address": "2040 Larkspur Drive",
+    "extra": {
+      "incidentNumber": "58608",
+      "run_id": "58608",
+      "address": "2040 Larkspur Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,E12,L04,204",
+      "units": "E11,E12,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-58608"
+    }
   }
 ]
