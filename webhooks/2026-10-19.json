@@ -3716,5 +3716,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58419"
     }
+  },
+  {
+    "runNumber": "58420",
+    "rawCode": "MED",
+    "timestamp": "2026-10-19T20:40:21.297852-04:00",
+    "address": "300 Block Bassett Avenue",
+    "extra": {
+      "incidentNumber": "58420",
+      "run_id": "58420",
+      "address": "300 Block Bassett Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58420"
+    }
   }
 ]
