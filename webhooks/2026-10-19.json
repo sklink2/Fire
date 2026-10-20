@@ -3672,5 +3672,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58418"
     }
+  },
+  {
+    "runNumber": "58417",
+    "rawCode": "FSTR",
+    "timestamp": "2026-10-19T20:13:38.722867-04:00",
+    "address": "2708 Burnt Mill Road",
+    "extra": {
+      "incidentNumber": "58417",
+      "run_id": "58417",
+      "address": "2708 Burnt Mill Road",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E13,E14,E24,L01,L03,EC2,203,205,220,241,RS1",
+      "units": "E08,E13,E14,E24,L01,L03,EC2,203,205,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,203,205",
+      "dedupeKey": "INCIDENT-58417"
+    }
   }
 ]
