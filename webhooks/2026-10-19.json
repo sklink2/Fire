@@ -3694,5 +3694,27 @@
       "commandUnits": "241,220,203,205",
       "dedupeKey": "INCIDENT-58417"
     }
+  },
+  {
+    "runNumber": "58419",
+    "rawCode": "MED",
+    "timestamp": "2026-10-19T20:23:36.761190-04:00",
+    "address": "200 Block Creekside Court",
+    "extra": {
+      "incidentNumber": "58419",
+      "run_id": "58419",
+      "address": "200 Block Creekside Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC6",
+      "units": "E14,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58419"
+    }
   }
 ]
