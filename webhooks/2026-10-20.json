@@ -746,5 +746,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-58483"
     }
+  },
+  {
+    "runNumber": "58482",
+    "rawCode": "FGAO",
+    "timestamp": "2026-10-20T06:41:54.810712-04:00",
+    "address": "2292 Guilford Lane",
+    "extra": {
+      "incidentNumber": "58482",
+      "run_id": "58482",
+      "address": "2292 Guilford Lane",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,E20",
+      "units": "E14,E20",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58482"
+    }
   }
 ]
