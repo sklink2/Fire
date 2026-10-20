@@ -834,5 +834,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58488"
     }
+  },
+  {
+    "runNumber": "58487",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-20T07:28:44.257179-04:00",
+    "address": "3780 Blue Bonnet Drive",
+    "extra": {
+      "incidentNumber": "58487",
+      "run_id": "58487",
+      "address": "3780 Blue Bonnet Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,E20,L04,202",
+      "units": "E15,E20,L04,202",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-58487"
+    }
   }
 ]
