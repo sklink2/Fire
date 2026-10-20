@@ -4288,5 +4288,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58445"
     }
+  },
+  {
+    "runNumber": "58444",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-19T23:24:09.196730-04:00",
+    "address": "456 Rose Lane",
+    "extra": {
+      "incidentNumber": "58444",
+      "run_id": "58444",
+      "address": "456 Rose Lane",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,L02,205",
+      "units": "E05,E06,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-58444"
+    }
   }
 ]
