@@ -1648,5 +1648,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58523"
     }
+  },
+  {
+    "runNumber": "58524",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-20T10:39:09.089471-04:00",
+    "address": "Eastland Parkway & Raleigh Road",
+    "extra": {
+      "incidentNumber": "58524",
+      "run_id": "58524",
+      "address": "Eastland Parkway & Raleigh Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E09,201",
+      "units": "E02,E09,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-58524"
+    }
   }
 ]
