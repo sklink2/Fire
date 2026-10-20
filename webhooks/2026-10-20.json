@@ -3914,5 +3914,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58626"
     }
+  },
+  {
+    "runNumber": "58625",
+    "rawCode": "MED",
+    "timestamp": "2026-10-20T19:13:49.544081-04:00",
+    "address": "W Main Street & S Upper Street",
+    "extra": {
+      "incidentNumber": "58625",
+      "run_id": "58625",
+      "address": "W Main Street & S Upper Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58625"
+    }
   }
 ]
