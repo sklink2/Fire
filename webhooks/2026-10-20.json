@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58509"
     }
+  },
+  {
+    "runNumber": "58510",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-20T09:59:01.923128-04:00",
+    "address": "205 Southland Drive",
+    "extra": {
+      "incidentNumber": "58510",
+      "run_id": "58510",
+      "address": "205 Southland Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,EC5,EC9",
+      "units": "E06,EC5,EC9",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58510"
+    }
   }
 ]
