@@ -3320,5 +3320,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58599"
     }
+  },
+  {
+    "runNumber": "58600",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-20T17:06:47.668716-04:00",
+    "address": "Trade Street & Merchant Street",
+    "extra": {
+      "incidentNumber": "58600",
+      "run_id": "58600",
+      "address": "Trade Street & Merchant Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58600"
+    }
   }
 ]
