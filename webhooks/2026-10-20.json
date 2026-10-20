@@ -790,5 +790,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58484"
     }
+  },
+  {
+    "runNumber": "58485",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-20T07:15:16.509070-04:00",
+    "address": "139 Burley Avenue",
+    "extra": {
+      "incidentNumber": "58485",
+      "run_id": "58485",
+      "address": "139 Burley Avenue",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11",
+      "units": "E11",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58485"
+    }
   }
 ]
