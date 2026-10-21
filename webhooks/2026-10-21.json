@@ -526,5 +526,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58693"
     }
+  },
+  {
+    "runNumber": "58696",
+    "rawCode": "FVIS",
+    "timestamp": "2026-10-21T06:15:26.641261-04:00",
+    "address": "2911 Clays Mill Road",
+    "extra": {
+      "incidentNumber": "58696",
+      "run_id": "58696",
+      "address": "2911 Clays Mill Road",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,E20,L04,EC9,204,RS1",
+      "units": "E12,E20,L04,EC9,204,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-58696"
+    }
   }
 ]
