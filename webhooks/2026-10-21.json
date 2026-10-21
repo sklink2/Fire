@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58699"
     }
+  },
+  {
+    "runNumber": "58700",
+    "rawCode": "MED",
+    "timestamp": "2026-10-21T07:05:32.888533-04:00",
+    "address": "1600 Block Mccullough Drive",
+    "extra": {
+      "incidentNumber": "58700",
+      "run_id": "58700",
+      "address": "1600 Block Mccullough Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58700"
+    }
   }
 ]
