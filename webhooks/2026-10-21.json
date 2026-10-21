@@ -3562,5 +3562,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58833"
     }
+  },
+  {
+    "runNumber": "58834",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-21T19:07:25.008781-04:00",
+    "address": "1417 Pleasant Ridge Drive",
+    "extra": {
+      "incidentNumber": "58834",
+      "run_id": "58834",
+      "address": "1417 Pleasant Ridge Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E17,L06,EC11,201,220",
+      "units": "E02,E17,L06,EC11,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-58834"
+    }
   }
 ]
