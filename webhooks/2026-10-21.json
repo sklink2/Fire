@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58700"
     }
+  },
+  {
+    "runNumber": "58701",
+    "rawCode": "MED",
+    "timestamp": "2026-10-21T07:15:34.871694-04:00",
+    "address": "1700 Block Banbury Court",
+    "extra": {
+      "incidentNumber": "58701",
+      "run_id": "58701",
+      "address": "1700 Block Banbury Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58701"
+    }
   }
 ]
