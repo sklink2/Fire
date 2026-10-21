@@ -746,5 +746,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58706"
     }
+  },
+  {
+    "runNumber": "58705",
+    "rawCode": "MED",
+    "timestamp": "2026-10-21T07:25:38.702868-04:00",
+    "address": "3400 Block Freeland Court",
+    "extra": {
+      "incidentNumber": "58705",
+      "run_id": "58705",
+      "address": "3400 Block Freeland Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,EC4",
+      "units": "E07,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58705"
+    }
   }
 ]
