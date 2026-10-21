@@ -284,5 +284,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58682"
     }
+  },
+  {
+    "runNumber": "58683",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-21T03:21:39.494029-04:00",
+    "address": "1021 Wyndham Hills Drive",
+    "extra": {
+      "incidentNumber": "58683",
+      "run_id": "58683",
+      "address": "1021 Wyndham Hills Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,E20,L04,204",
+      "units": "E15,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-58683"
+    }
   }
 ]
