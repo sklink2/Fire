@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58711"
     }
+  },
+  {
+    "runNumber": "58713",
+    "rawCode": "MED",
+    "timestamp": "2026-10-21T08:09:02.611473-04:00",
+    "address": "5600 Block Briar Hill Road",
+    "extra": {
+      "incidentNumber": "58713",
+      "run_id": "58713",
+      "address": "5600 Block Briar Hill Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,EC10",
+      "units": "E17,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58713"
+    }
   }
 ]
