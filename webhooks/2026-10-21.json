@@ -2484,5 +2484,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58783"
     }
+  },
+  {
+    "runNumber": "58787",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-21T15:06:47.063034-04:00",
+    "address": "751 Rose Street",
+    "extra": {
+      "incidentNumber": "58787",
+      "run_id": "58787",
+      "address": "751 Rose Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E11,E12,L02,205",
+      "units": "E05,E11,E12,L02,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-58787"
+    }
   }
 ]
