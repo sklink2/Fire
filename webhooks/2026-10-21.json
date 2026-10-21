@@ -2418,5 +2418,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58781"
     }
+  },
+  {
+    "runNumber": "58782",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-21T14:46:43.721208-04:00",
+    "address": "869 Sparta Court",
+    "extra": {
+      "incidentNumber": "58782",
+      "run_id": "58782",
+      "address": "869 Sparta Court",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E06,L01,EC12,204,220",
+      "units": "E01,E06,L01,EC12,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-58782"
+    }
   }
 ]
