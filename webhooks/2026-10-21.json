@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58701"
     }
+  },
+  {
+    "runNumber": "58702",
+    "rawCode": "MED",
+    "timestamp": "2026-10-21T07:22:16.906682-04:00",
+    "address": "1000 Block Russell Cave Road",
+    "extra": {
+      "incidentNumber": "58702",
+      "run_id": "58702",
+      "address": "1000 Block Russell Cave Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC1",
+      "units": "E08,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58702"
+    }
   }
 ]
