@@ -3650,5 +3650,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58837"
     }
+  },
+  {
+    "runNumber": "58838",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-21T19:37:30.598981-04:00",
+    "address": "1853 Sandersville Road",
+    "extra": {
+      "incidentNumber": "58838",
+      "run_id": "58838",
+      "address": "1853 Sandersville Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E08,L03,203",
+      "units": "E04,E08,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-58838"
+    }
   }
 ]
