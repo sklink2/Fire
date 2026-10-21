@@ -2110,5 +2110,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58766"
     }
+  },
+  {
+    "runNumber": "58767",
+    "rawCode": "FOTS",
+    "timestamp": "2026-10-21T12:53:06.450642-04:00",
+    "address": "3001 Arrowhead Drive",
+    "extra": {
+      "incidentNumber": "58767",
+      "run_id": "58767",
+      "address": "3001 Arrowhead Drive",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "RS1",
+      "units": "RS1",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58767"
+    }
   }
 ]
