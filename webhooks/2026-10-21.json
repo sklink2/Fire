@@ -2946,5 +2946,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-58805"
     }
+  },
+  {
+    "runNumber": "58806",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-21T17:10:25.294998-04:00",
+    "address": "Alexandria Drive & Trailwood Lane",
+    "extra": {
+      "incidentNumber": "58806",
+      "run_id": "58806",
+      "address": "Alexandria Drive & Trailwood Lane",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC6,241",
+      "units": "E24,EC6,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-58806"
+    }
   }
 ]
