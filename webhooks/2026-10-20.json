@@ -4530,5 +4530,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-58657"
     }
+  },
+  {
+    "runNumber": "58656",
+    "rawCode": "MED",
+    "timestamp": "2026-10-20T22:14:14.410547-04:00",
+    "address": "200 Block W New Circle Road",
+    "extra": {
+      "incidentNumber": "58656",
+      "run_id": "58656",
+      "address": "200 Block W New Circle Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC6",
+      "units": "E08,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58656"
+    }
   }
 ]
