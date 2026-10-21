@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58715"
     }
+  },
+  {
+    "runNumber": "58716",
+    "rawCode": "FGAO",
+    "timestamp": "2026-10-21T08:32:26.800540-04:00",
+    "address": "217 Woodspoint Road",
+    "extra": {
+      "incidentNumber": "58716",
+      "run_id": "58716",
+      "address": "217 Woodspoint Road",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E06",
+      "units": "E05,E06",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58716"
+    }
   }
 ]
