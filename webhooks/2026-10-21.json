@@ -3408,5 +3408,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58826"
     }
+  },
+  {
+    "runNumber": "58828",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-21T18:33:58.268357-04:00",
+    "address": "3624 Timbrook Court",
+    "extra": {
+      "incidentNumber": "58828",
+      "run_id": "58828",
+      "address": "3624 Timbrook Court",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E22,L04,204",
+      "units": "E16,E22,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-58828"
+    }
   }
 ]
