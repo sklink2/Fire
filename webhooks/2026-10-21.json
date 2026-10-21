@@ -812,5 +812,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58703"
     }
+  },
+  {
+    "runNumber": "58708",
+    "rawCode": "MED",
+    "timestamp": "2026-10-21T07:32:17.484939-04:00",
+    "address": "3100 Block Grantham Way",
+    "extra": {
+      "incidentNumber": "58708",
+      "run_id": "58708",
+      "address": "3100 Block Grantham Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58708"
+    }
   }
 ]
