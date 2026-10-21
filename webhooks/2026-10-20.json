@@ -4684,5 +4684,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58660"
     }
+  },
+  {
+    "runNumber": "58661",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-20T23:01:01.094047-04:00",
+    "address": "111 Avenue Of Champions",
+    "extra": {
+      "incidentNumber": "58661",
+      "run_id": "58661",
+      "address": "111 Avenue Of Champions",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E05,E06,L02,205",
+      "units": "E01,E05,E06,L02,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-58661"
+    }
   }
 ]
