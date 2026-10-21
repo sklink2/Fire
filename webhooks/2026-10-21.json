@@ -2594,5 +2594,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58790"
     }
+  },
+  {
+    "runNumber": "58789",
+    "rawCode": "MED",
+    "timestamp": "2026-10-21T15:10:11.938130-04:00",
+    "address": "100 Block Quebec Way",
+    "extra": {
+      "incidentNumber": "58789",
+      "run_id": "58789",
+      "address": "100 Block Quebec Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC13",
+      "units": "EC13",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58789"
+    }
   }
 ]
