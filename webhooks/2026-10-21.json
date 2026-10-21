@@ -1648,5 +1648,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58745"
     }
+  },
+  {
+    "runNumber": "58749",
+    "rawCode": "MED",
+    "timestamp": "2026-10-21T11:59:37.649539-04:00",
+    "address": "2100 Block Azalea Drive",
+    "extra": {
+      "incidentNumber": "58749",
+      "run_id": "58749",
+      "address": "2100 Block Azalea Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,EC2",
+      "units": "E11,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58749"
+    }
   }
 ]
