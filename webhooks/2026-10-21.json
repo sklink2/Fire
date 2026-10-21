@@ -108,5 +108,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58673"
     }
+  },
+  {
+    "runNumber": "58674",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-21T01:18:01.098290-04:00",
+    "address": "64 Wb / 87.0 Mm (Haley Road",
+    "extra": {
+      "incidentNumber": "58674",
+      "run_id": "58674",
+      "address": "64 Wb / 87.0 Mm (Haley Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17,E23,201",
+      "units": "E17,E23,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-58674"
+    }
   }
 ]
