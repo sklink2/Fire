@@ -2924,5 +2924,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58804"
     }
+  },
+  {
+    "runNumber": "58805",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-21T17:00:22.317933-04:00",
+    "address": "3904 Hillside Drive",
+    "extra": {
+      "incidentNumber": "58805",
+      "run_id": "58805",
+      "address": "3904 Hillside Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,E20,L04,204",
+      "units": "E15,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-58805"
+    }
   }
 ]
