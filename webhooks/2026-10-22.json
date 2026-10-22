@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58944"
     }
+  },
+  {
+    "runNumber": "58945",
+    "rawCode": "FVNS",
+    "timestamp": "2026-10-22T10:06:22.294910-04:00",
+    "address": "Jaggie Fox Way & Maggard Drive",
+    "extra": {
+      "incidentNumber": "58945",
+      "run_id": "58945",
+      "address": "Jaggie Fox Way & Maggard Drive",
+      "rawType": "FVNS",
+      "typeCode": "FVNS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E24,L03,EC6,203",
+      "units": "E08,E24,L03,EC6,203",
+      "unitCount": "5",
+      "primaryTopic": "FVNS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-58945"
+    }
   }
 ]
