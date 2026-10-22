@@ -196,5 +196,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58881"
     }
+  },
+  {
+    "runNumber": "58880",
+    "rawCode": "MED",
+    "timestamp": "2026-10-22T00:38:21.510707-04:00",
+    "address": "200 Block Fairdale Drive",
+    "extra": {
+      "incidentNumber": "58880",
+      "run_id": "58880",
+      "address": "200 Block Fairdale Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58880"
+    }
   }
 ]
