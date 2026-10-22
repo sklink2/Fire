@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58903"
     }
+  },
+  {
+    "runNumber": "58904",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-22T06:32:29.554976-04:00",
+    "address": "3716 Trent Circle",
+    "extra": {
+      "incidentNumber": "58904",
+      "run_id": "58904",
+      "address": "3716 Trent Circle",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E22,L07,202",
+      "units": "E16,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-58904"
+    }
   }
 ]
