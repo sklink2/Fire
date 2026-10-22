@@ -416,5 +416,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58891"
     }
+  },
+  {
+    "runNumber": "58892",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-22T03:45:25.215932-04:00",
+    "address": "626 Seattle Drive",
+    "extra": {
+      "incidentNumber": "58892",
+      "run_id": "58892",
+      "address": "626 Seattle Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,E20,L04,204",
+      "units": "E12,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-58892"
+    }
   }
 ]
