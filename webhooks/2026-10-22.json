@@ -3232,5 +3232,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59019"
     }
+  },
+  {
+    "runNumber": "59021",
+    "rawCode": "FMIS",
+    "timestamp": "2026-10-22T15:33:53.898103-04:00",
+    "address": "1045 Highgrove Circle",
+    "extra": {
+      "incidentNumber": "59021",
+      "run_id": "59021",
+      "address": "1045 Highgrove Circle",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E22,202",
+      "units": "E22,202",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-59021"
+    }
   }
 ]
