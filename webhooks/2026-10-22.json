@@ -4222,5 +4222,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59057"
     }
+  },
+  {
+    "runNumber": "59065",
+    "rawCode": "FSTR",
+    "timestamp": "2026-10-22T19:11:06.672544-04:00",
+    "address": "2200 Tracery Oaks Drive",
+    "extra": {
+      "incidentNumber": "59065",
+      "run_id": "59065",
+      "address": "2200 Tracery Oaks Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E09,E12,E13,L02,L04,EC21,204,205,220,241,RS1",
+      "units": "E04,E09,E12,E13,L02,L04,EC21,204,205,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,204,205",
+      "dedupeKey": "INCIDENT-59065"
+    }
   }
 ]
