@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58980"
     }
+  },
+  {
+    "runNumber": "58981",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-22T12:00:01.174728-04:00",
+    "address": "150 W Lowry Lane",
+    "extra": {
+      "incidentNumber": "58981",
+      "run_id": "58981",
+      "address": "150 W Lowry Lane",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L04,EC3,241",
+      "units": "L04,EC3,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-58981"
+    }
   }
 ]
