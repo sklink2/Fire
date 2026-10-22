@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59009"
     }
+  },
+  {
+    "runNumber": "59008",
+    "rawCode": "MED",
+    "timestamp": "2026-10-22T14:33:46.053286-04:00",
+    "address": "3400 Block Pimlico Parkway",
+    "extra": {
+      "incidentNumber": "59008",
+      "run_id": "59008",
+      "address": "3400 Block Pimlico Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59008"
+    }
   }
 ]
