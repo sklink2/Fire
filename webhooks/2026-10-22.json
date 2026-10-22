@@ -2418,5 +2418,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-58981"
     }
+  },
+  {
+    "runNumber": "58982",
+    "rawCode": "MED",
+    "timestamp": "2026-10-22T12:03:20.774245-04:00",
+    "address": "2200 Block Stone Garden Lane",
+    "extra": {
+      "incidentNumber": "58982",
+      "run_id": "58982",
+      "address": "2200 Block Stone Garden Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC13",
+      "units": "E14,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58982"
+    }
   }
 ]
