@@ -2704,5 +2704,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-58994"
     }
+  },
+  {
+    "runNumber": "58993",
+    "rawCode": "MED",
+    "timestamp": "2026-10-22T13:10:19.269888-04:00",
+    "address": "200 Block Shriners Lane",
+    "extra": {
+      "incidentNumber": "58993",
+      "run_id": "58993",
+      "address": "200 Block Shriners Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58993"
+    }
   }
 ]
