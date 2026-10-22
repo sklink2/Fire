@@ -240,5 +240,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58883"
     }
+  },
+  {
+    "runNumber": "58885",
+    "rawCode": "MED",
+    "timestamp": "2026-10-22T01:28:22.971093-04:00",
+    "address": "2700 Block Jessica Lane",
+    "extra": {
+      "incidentNumber": "58885",
+      "run_id": "58885",
+      "address": "2700 Block Jessica Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58885"
+    }
   }
 ]
