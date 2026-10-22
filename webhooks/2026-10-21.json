@@ -3958,5 +3958,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58851"
     }
+  },
+  {
+    "runNumber": "58853",
+    "rawCode": "FELF",
+    "timestamp": "2026-10-21T21:11:03.527572-04:00",
+    "address": "2840 Hanna Place",
+    "extra": {
+      "incidentNumber": "58853",
+      "run_id": "58853",
+      "address": "2840 Hanna Place",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L06,201",
+      "units": "L06,201",
+      "unitCount": "2",
+      "primaryTopic": "FELF",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-58853"
+    }
   }
 ]
