@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58947"
     }
+  },
+  {
+    "runNumber": "58952",
+    "rawCode": "MED",
+    "timestamp": "2026-10-22T10:19:45.274903-04:00",
+    "address": "4100 Block Bridle Ridge Lane",
+    "extra": {
+      "incidentNumber": "58952",
+      "run_id": "58952",
+      "address": "4100 Block Bridle Ridge Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC5,CRT1",
+      "units": "EC5,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58952"
+    }
   }
 ]
