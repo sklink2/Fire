@@ -2858,5 +2858,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59002"
     }
+  },
+  {
+    "runNumber": "59005",
+    "rawCode": "FVLA",
+    "timestamp": "2026-10-22T14:23:43.896334-04:00",
+    "address": "5854 Todds Road",
+    "extra": {
+      "incidentNumber": "59005",
+      "run_id": "59005",
+      "address": "5854 Todds Road",
+      "rawType": "FVLA",
+      "typeCode": "FVLA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E17,E18,E21,L05,T1,201",
+      "units": "E17,E18,E21,L05,T1,201",
+      "unitCount": "6",
+      "primaryTopic": "FVLA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-59005"
+    }
   }
 ]
