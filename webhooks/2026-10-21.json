@@ -3980,5 +3980,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-58853"
     }
+  },
+  {
+    "runNumber": "58852",
+    "rawCode": "MED",
+    "timestamp": "2026-10-21T21:11:05.498574-04:00",
+    "address": "2000 Block New Orleans Drive",
+    "extra": {
+      "incidentNumber": "58852",
+      "run_id": "58852",
+      "address": "2000 Block New Orleans Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58852"
+    }
   }
 ]
