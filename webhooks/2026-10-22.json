@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58895"
     }
+  },
+  {
+    "runNumber": "58896",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-22T05:02:17.497448-04:00",
+    "address": "626 Seattle Drive",
+    "extra": {
+      "incidentNumber": "58896",
+      "run_id": "58896",
+      "address": "626 Seattle Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,L04",
+      "units": "E20,L04",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58896"
+    }
   }
 ]
