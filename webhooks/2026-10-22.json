@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58954"
     }
+  },
+  {
+    "runNumber": "58953",
+    "rawCode": "MED",
+    "timestamp": "2026-10-22T10:23:07.643773-04:00",
+    "address": "700 Block Henry Clay Boulevard",
+    "extra": {
+      "incidentNumber": "58953",
+      "run_id": "58953",
+      "address": "700 Block Henry Clay Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58953"
+    }
   }
 ]
