@@ -218,5 +218,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58880"
     }
+  },
+  {
+    "runNumber": "58883",
+    "rawCode": "MED",
+    "timestamp": "2026-10-22T00:44:57.350420-04:00",
+    "address": "2000 Block Coburn Boulevard",
+    "extra": {
+      "incidentNumber": "58883",
+      "run_id": "58883",
+      "address": "2000 Block Coburn Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58883"
+    }
   }
 ]
