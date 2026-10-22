@@ -900,5 +900,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-58913"
     }
+  },
+  {
+    "runNumber": "58914",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-22T07:42:41.037117-04:00",
+    "address": "Jacks Creek Pike & Kiddville L",
+    "extra": {
+      "incidentNumber": "58914",
+      "run_id": "58914",
+      "address": "Jacks Creek Pike & Kiddville L",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E18,202",
+      "units": "E09,E18,202",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-58914"
+    }
   }
 ]
