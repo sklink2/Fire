@@ -3474,5 +3474,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59029"
     }
+  },
+  {
+    "runNumber": "59031",
+    "rawCode": "MED",
+    "timestamp": "2026-10-22T16:30:42.165154-04:00",
+    "address": "2900 Block Peaks Mill Drive",
+    "extra": {
+      "incidentNumber": "59031",
+      "run_id": "59031",
+      "address": "2900 Block Peaks Mill Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC1",
+      "units": "E24,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59031"
+    }
   }
 ]
