@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58978"
     }
+  },
+  {
+    "runNumber": "58977",
+    "rawCode": "MED",
+    "timestamp": "2026-10-22T11:46:40.320618-04:00",
+    "address": "3200 Block Ridgecane Road",
+    "extra": {
+      "incidentNumber": "58977",
+      "run_id": "58977",
+      "address": "3200 Block Ridgecane Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC21",
+      "units": "E20,EC21",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58977"
+    }
   }
 ]
