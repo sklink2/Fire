@@ -438,5 +438,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-58892"
     }
+  },
+  {
+    "runNumber": "58893",
+    "rawCode": "MED",
+    "timestamp": "2026-10-22T04:28:51.040047-04:00",
+    "address": "400 Block E Maxwell Street",
+    "extra": {
+      "incidentNumber": "58893",
+      "run_id": "58893",
+      "address": "400 Block E Maxwell Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC1",
+      "units": "E05,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58893"
+    }
   }
 ]
