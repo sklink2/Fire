@@ -3606,5 +3606,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59036"
     }
+  },
+  {
+    "runNumber": "59037",
+    "rawCode": "MED",
+    "timestamp": "2026-10-22T17:17:29.123157-04:00",
+    "address": "1700 Block Mercer Road",
+    "extra": {
+      "incidentNumber": "59037",
+      "run_id": "59037",
+      "address": "1700 Block Mercer Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC5,203,241",
+      "units": "E10,EC5,203,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-59037"
+    }
   }
 ]
