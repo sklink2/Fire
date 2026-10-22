@@ -2506,5 +2506,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58985"
     }
+  },
+  {
+    "runNumber": "58986",
+    "rawCode": "MED",
+    "timestamp": "2026-10-22T12:33:24.832836-04:00",
+    "address": "300 Block E Third Street",
+    "extra": {
+      "incidentNumber": "58986",
+      "run_id": "58986",
+      "address": "300 Block E Third Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC7",
+      "units": "E01,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58986"
+    }
   }
 ]
