@@ -526,5 +526,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-58896"
     }
+  },
+  {
+    "runNumber": "58897",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-22T05:25:39.948488-04:00",
+    "address": "612 Cecil Way",
+    "extra": {
+      "incidentNumber": "58897",
+      "run_id": "58897",
+      "address": "612 Cecil Way",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,L04",
+      "units": "E20,L04",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-58897"
+    }
   }
 ]
