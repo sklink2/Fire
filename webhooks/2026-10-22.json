@@ -4508,5 +4508,27 @@
       "commandUnits": "241,220,201,202",
       "dedupeKey": "INCIDENT-59070"
     }
+  },
+  {
+    "runNumber": "59076",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-22T20:14:37.837723-04:00",
+    "address": "1132 Kees Road",
+    "extra": {
+      "incidentNumber": "59076",
+      "run_id": "59076",
+      "address": "1132 Kees Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E10,L03,EC3,203",
+      "units": "E08,E10,L03,EC3,203",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-59076"
+    }
   }
 ]
