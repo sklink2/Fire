@@ -746,5 +746,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59149"
     }
+  },
+  {
+    "runNumber": "59150",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-23T09:29:54.370713-04:00",
+    "address": "2381 Buena Vista Road",
+    "extra": {
+      "incidentNumber": "59150",
+      "run_id": "59150",
+      "address": "2381 Buena Vista Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,E17,L05",
+      "units": "E13,E17,L05",
+      "unitCount": "3",
+      "primaryTopic": "FPRT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59150"
+    }
   }
 ]
