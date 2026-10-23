@@ -5300,5 +5300,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59111"
     }
+  },
+  {
+    "runNumber": "59112",
+    "rawCode": "FGAO",
+    "timestamp": "2026-10-22T23:35:07.765852-04:00",
+    "address": "1161 Centre Parkway",
+    "extra": {
+      "incidentNumber": "59112",
+      "run_id": "59112",
+      "address": "1161 Centre Parkway",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E16",
+      "units": "E07,E16",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59112"
+    }
   }
 ]
