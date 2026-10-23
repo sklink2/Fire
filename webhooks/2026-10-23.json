@@ -1978,5 +1978,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59203"
     }
+  },
+  {
+    "runNumber": "59205",
+    "rawCode": "MED",
+    "timestamp": "2026-10-23T14:34:00.170967-04:00",
+    "address": "700 Block Ward Drive",
+    "extra": {
+      "incidentNumber": "59205",
+      "run_id": "59205",
+      "address": "700 Block Ward Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC8",
+      "units": "E08,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59205"
+    }
   }
 ]
