@@ -592,5 +592,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59142"
     }
+  },
+  {
+    "runNumber": "59143",
+    "rawCode": "MED",
+    "timestamp": "2026-10-23T08:43:05.030477-04:00",
+    "address": "600 Block Anniston Drive",
+    "extra": {
+      "incidentNumber": "59143",
+      "run_id": "59143",
+      "address": "600 Block Anniston Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L05,EC8",
+      "units": "L05,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59143"
+    }
   }
 ]
