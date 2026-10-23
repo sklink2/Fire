@@ -1494,5 +1494,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59182"
     }
+  },
+  {
+    "runNumber": "59181",
+    "rawCode": "MED",
+    "timestamp": "2026-10-23T11:50:16.521640-04:00",
+    "address": "1900 Block Bryant Road",
+    "extra": {
+      "incidentNumber": "59181",
+      "run_id": "59181",
+      "address": "1900 Block Bryant Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "255",
+      "units": "255",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59181"
+    }
   }
 ]
