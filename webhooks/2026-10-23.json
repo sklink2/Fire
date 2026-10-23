@@ -2814,5 +2814,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59240"
     }
+  },
+  {
+    "runNumber": "59241",
+    "rawCode": "FELF",
+    "timestamp": "2026-10-23T18:34:37.432767-04:00",
+    "address": "165 Constitution Street",
+    "extra": {
+      "incidentNumber": "59241",
+      "run_id": "59241",
+      "address": "165 Constitution Street",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E05,L01,205",
+      "units": "E01,E05,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-59241"
+    }
   }
 ]
