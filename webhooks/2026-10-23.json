@@ -2836,5 +2836,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-59241"
     }
+  },
+  {
+    "runNumber": "59243",
+    "rawCode": "MED",
+    "timestamp": "2026-10-23T18:41:17.660664-04:00",
+    "address": "2700 Block Michelle Park",
+    "extra": {
+      "incidentNumber": "59243",
+      "run_id": "59243",
+      "address": "2700 Block Michelle Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,EC5",
+      "units": "E24,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59243"
+    }
   }
 ]
