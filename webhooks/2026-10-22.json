@@ -4662,5 +4662,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59082"
     }
+  },
+  {
+    "runNumber": "59083",
+    "rawCode": "MED",
+    "timestamp": "2026-10-22T20:51:21.700996-04:00",
+    "address": "3300 Block Malone Drive",
+    "extra": {
+      "incidentNumber": "59083",
+      "run_id": "59083",
+      "address": "3300 Block Malone Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC5",
+      "units": "E11,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59083"
+    }
   }
 ]
