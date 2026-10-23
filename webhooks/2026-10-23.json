@@ -2770,5 +2770,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59239"
     }
+  },
+  {
+    "runNumber": "59239",
+    "rawCode": "FDET",
+    "timestamp": "2026-10-23T18:21:12.842678-04:00",
+    "address": "200 Shives Drive",
+    "extra": {
+      "incidentNumber": "59239",
+      "run_id": "59239",
+      "address": "200 Shives Drive",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC33",
+      "units": "EC33",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59239"
+    }
   }
 ]
