@@ -1208,5 +1208,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59170"
     }
+  },
+  {
+    "runNumber": "59169",
+    "rawCode": "MED",
+    "timestamp": "2026-10-23T10:43:28.163498-04:00",
+    "address": "2700 Block Old Rosebud Road",
+    "extra": {
+      "incidentNumber": "59169",
+      "run_id": "59169",
+      "address": "2700 Block Old Rosebud Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L05,EC13",
+      "units": "L05,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59169"
+    }
   }
 ]
