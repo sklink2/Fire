@@ -636,5 +636,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59146"
     }
+  },
+  {
+    "runNumber": "59145",
+    "rawCode": "FSTR",
+    "timestamp": "2026-10-23T08:56:30.673953-04:00",
+    "address": "2937 Richmond Road",
+    "extra": {
+      "incidentNumber": "59145",
+      "run_id": "59145",
+      "address": "2937 Richmond Road",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E07,E12,E22,L02,L06,EC13,EC2,201,202,241,RS1",
+      "units": "E05,E07,E12,E22,L02,L06,EC13,EC2,201,202,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,201,202",
+      "dedupeKey": "INCIDENT-59145"
+    }
   }
 ]
