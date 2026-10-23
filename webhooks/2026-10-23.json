@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59156"
     }
+  },
+  {
+    "runNumber": "59157",
+    "rawCode": "MED",
+    "timestamp": "2026-10-23T10:09:59.486947-04:00",
+    "address": "300 Block Given Avenue",
+    "extra": {
+      "incidentNumber": "59157",
+      "run_id": "59157",
+      "address": "300 Block Given Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC8",
+      "units": "E01,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59157"
+    }
   }
 ]
