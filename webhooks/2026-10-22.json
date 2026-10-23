@@ -5344,5 +5344,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59115"
     }
+  },
+  {
+    "runNumber": "59114",
+    "rawCode": "MED",
+    "timestamp": "2026-10-22T23:38:29.500627-04:00",
+    "address": "600 Block Woodland Avenue",
+    "extra": {
+      "incidentNumber": "59114",
+      "run_id": "59114",
+      "address": "600 Block Woodland Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59114"
+    }
   }
 ]
