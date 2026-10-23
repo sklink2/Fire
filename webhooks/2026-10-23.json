@@ -1450,5 +1450,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59179"
     }
+  },
+  {
+    "runNumber": "59180",
+    "rawCode": "MED",
+    "timestamp": "2026-10-23T11:40:14.379614-04:00",
+    "address": "300 Block Pleasant Pointe Drive",
+    "extra": {
+      "incidentNumber": "59180",
+      "run_id": "59180",
+      "address": "300 Block Pleasant Pointe Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59180"
+    }
   }
 ]
