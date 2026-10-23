@@ -2462,5 +2462,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59226"
     }
+  },
+  {
+    "runNumber": "59227",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-10-23T16:44:20.622748-04:00",
+    "address": "Versailles Road & Man O War Boulevard",
+    "extra": {
+      "incidentNumber": "59227",
+      "run_id": "59227",
+      "address": "Versailles Road & Man O War Boulevard",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,L04,EC5,203,241,RS1",
+      "units": "E14,L04,EC5,203,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-59227"
+    }
   }
 ]
