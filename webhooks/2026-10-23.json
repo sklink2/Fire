@@ -1120,5 +1120,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59165"
     }
+  },
+  {
+    "runNumber": "59164",
+    "rawCode": "MED",
+    "timestamp": "2026-10-23T10:36:48.357013-04:00",
+    "address": "200 Block Southland Drive",
+    "extra": {
+      "incidentNumber": "59164",
+      "run_id": "59164",
+      "address": "200 Block Southland Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,EC5",
+      "units": "E12,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59164"
+    }
   }
 ]
