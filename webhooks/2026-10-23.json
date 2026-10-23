@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59218"
     }
+  },
+  {
+    "runNumber": "59220",
+    "rawCode": "FELS",
+    "timestamp": "2026-10-23T15:34:09.776735-04:00",
+    "address": "170 N Eagle Creek Drive",
+    "extra": {
+      "incidentNumber": "59220",
+      "run_id": "59220",
+      "address": "170 N Eagle Creek Drive",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,L06,205",
+      "units": "E09,L06,205",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-59220"
+    }
   }
 ]
