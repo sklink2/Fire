@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59185"
     }
+  },
+  {
+    "runNumber": "59186",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-23T12:16:58.225999-04:00",
+    "address": "1253 Industry Road",
+    "extra": {
+      "incidentNumber": "59186",
+      "run_id": "59186",
+      "address": "1253 Industry Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59186"
+    }
   }
 ]
