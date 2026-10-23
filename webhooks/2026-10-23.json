@@ -2616,5 +2616,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59235"
     }
+  },
+  {
+    "runNumber": "59234",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-23T17:41:09.486988-04:00",
+    "address": "430 N Broadway",
+    "extra": {
+      "incidentNumber": "59234",
+      "run_id": "59234",
+      "address": "430 N Broadway",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E06,L01,EC1,205,220",
+      "units": "E04,E06,L01,EC1,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-59234"
+    }
   }
 ]
