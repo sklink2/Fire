@@ -2308,5 +2308,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-59220"
     }
+  },
+  {
+    "runNumber": "59219",
+    "rawCode": "MED",
+    "timestamp": "2026-10-23T15:34:12.000477-04:00",
+    "address": "100 Block Shoreside Drive",
+    "extra": {
+      "incidentNumber": "59219",
+      "run_id": "59219",
+      "address": "100 Block Shoreside Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59219"
+    }
   }
 ]
