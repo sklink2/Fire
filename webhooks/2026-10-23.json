@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59187"
     }
+  },
+  {
+    "runNumber": "59190",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-23T12:57:03.912192-04:00",
+    "address": "5350 Athens Boonesboro Road",
+    "extra": {
+      "incidentNumber": "59190",
+      "run_id": "59190",
+      "address": "5350 Athens Boonesboro Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E18,L06,EC2,205,220",
+      "units": "E02,E18,L06,EC2,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-59190"
+    }
   }
 ]
