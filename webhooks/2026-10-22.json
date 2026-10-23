@@ -4376,5 +4376,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59071"
     }
+  },
+  {
+    "runNumber": "59070",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-22T20:01:19.181381-04:00",
+    "address": "3333 Squire Creek Way",
+    "extra": {
+      "incidentNumber": "59070",
+      "run_id": "59070",
+      "address": "3333 Squire Creek Way",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E18,E22,L07,202",
+      "units": "E18,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-59070"
+    }
   }
 ]
