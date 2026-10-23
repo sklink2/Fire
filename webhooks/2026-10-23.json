@@ -2924,5 +2924,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59245"
     }
+  },
+  {
+    "runNumber": "59248",
+    "rawCode": "FMIS",
+    "timestamp": "2026-10-23T19:01:18.763074-04:00",
+    "address": "413 Meadow Valley Road",
+    "extra": {
+      "incidentNumber": "59248",
+      "run_id": "59248",
+      "address": "413 Meadow Valley Road",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,203",
+      "units": "E04,203",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-59248"
+    }
   }
 ]
