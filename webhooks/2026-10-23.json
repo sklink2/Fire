@@ -1890,5 +1890,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59200"
     }
+  },
+  {
+    "runNumber": "59201",
+    "rawCode": "MED",
+    "timestamp": "2026-10-23T14:17:15.660421-04:00",
+    "address": "3400 Block Samford Court",
+    "extra": {
+      "incidentNumber": "59201",
+      "run_id": "59201",
+      "address": "3400 Block Samford Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2,241",
+      "units": "E09,EC2,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-59201"
+    }
   }
 ]
