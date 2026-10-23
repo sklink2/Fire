@@ -5146,5 +5146,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59104"
     }
+  },
+  {
+    "runNumber": "59105",
+    "rawCode": "MED",
+    "timestamp": "2026-10-22T22:55:01.909715-04:00",
+    "address": "200 Block Linwood Drive",
+    "extra": {
+      "incidentNumber": "59105",
+      "run_id": "59105",
+      "address": "200 Block Linwood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59105"
+    }
   }
 ]
