@@ -3694,5 +3694,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-59280"
     }
+  },
+  {
+    "runNumber": "59281",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-23T22:21:49.044885-04:00",
+    "address": "N Broadway & Ballpark Drive",
+    "extra": {
+      "incidentNumber": "59281",
+      "run_id": "59281",
+      "address": "N Broadway & Ballpark Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59281"
+    }
   }
 ]
