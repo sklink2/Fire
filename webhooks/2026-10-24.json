@@ -746,5 +746,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59326"
     }
+  },
+  {
+    "runNumber": "59328",
+    "rawCode": "MED",
+    "timestamp": "2026-10-24T07:29:55.498736-04:00",
+    "address": "400 Block Nelson Avenue",
+    "extra": {
+      "incidentNumber": "59328",
+      "run_id": "59328",
+      "address": "400 Block Nelson Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC3,CRT1",
+      "units": "EC3,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59328"
+    }
   }
 ]
