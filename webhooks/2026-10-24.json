@@ -1274,5 +1274,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59350"
     }
+  },
+  {
+    "runNumber": "59352",
+    "rawCode": "MED",
+    "timestamp": "2026-10-24T10:37:00.307537-04:00",
+    "address": "300 Block Driftwood Place",
+    "extra": {
+      "incidentNumber": "59352",
+      "run_id": "59352",
+      "address": "300 Block Driftwood Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC11",
+      "units": "E09,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59352"
+    }
   }
 ]
