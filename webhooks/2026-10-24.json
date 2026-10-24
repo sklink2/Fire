@@ -2374,5 +2374,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59399"
     }
+  },
+  {
+    "runNumber": "59401",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-24T14:30:58.644938-04:00",
+    "address": "4238 Saron Drive",
+    "extra": {
+      "incidentNumber": "59401",
+      "run_id": "59401",
+      "address": "4238 Saron Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E22,L07,204",
+      "units": "E16,E22,L07,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-59401"
+    }
   }
 ]
