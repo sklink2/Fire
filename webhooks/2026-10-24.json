@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59416"
     }
+  },
+  {
+    "runNumber": "59419",
+    "rawCode": "MED",
+    "timestamp": "2026-10-24T15:21:03.197402-04:00",
+    "address": "2300 Block Nancy Lane",
+    "extra": {
+      "incidentNumber": "59419",
+      "run_id": "59419",
+      "address": "2300 Block Nancy Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59419"
+    }
   }
 ]
