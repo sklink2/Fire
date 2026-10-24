@@ -3584,5 +3584,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59454"
     }
+  },
+  {
+    "runNumber": "59456",
+    "rawCode": "FVEH",
+    "timestamp": "2026-10-24T18:11:25.847579-04:00",
+    "address": "75 Sb / 102.4 Mm",
+    "extra": {
+      "incidentNumber": "59456",
+      "run_id": "59456",
+      "address": "75 Sb / 102.4 Mm",
+      "rawType": "FVEH",
+      "typeCode": "FVEH",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E18",
+      "units": "E09,E18",
+      "unitCount": "2",
+      "primaryTopic": "FVEH",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59456"
+    }
   }
 ]
