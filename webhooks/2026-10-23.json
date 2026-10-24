@@ -3232,5 +3232,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-59260"
     }
+  },
+  {
+    "runNumber": "59259",
+    "rawCode": "FVIS",
+    "timestamp": "2026-10-23T20:11:33.204701-04:00",
+    "address": "3220 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "59259",
+      "run_id": "59259",
+      "address": "3220 Nicholasville Road",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E12,E15,L07,EC7,204,RS1",
+      "units": "E09,E12,E15,L07,EC7,204,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-59259"
+    }
   }
 ]
