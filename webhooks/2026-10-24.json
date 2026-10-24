@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59324"
     }
+  },
+  {
+    "runNumber": "59325",
+    "rawCode": "MED",
+    "timestamp": "2026-10-24T06:56:30.083636-04:00",
+    "address": "500 Block W Sixth Street",
+    "extra": {
+      "incidentNumber": "59325",
+      "run_id": "59325",
+      "address": "500 Block W Sixth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,EC1",
+      "units": "E04,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59325"
+    }
   }
 ]
