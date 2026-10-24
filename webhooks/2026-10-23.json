@@ -3320,5 +3320,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59265"
     }
+  },
+  {
+    "runNumber": "59264",
+    "rawCode": "FELS",
+    "timestamp": "2026-10-23T20:21:36.102412-04:00",
+    "address": "530 E High Street",
+    "extra": {
+      "incidentNumber": "59264",
+      "run_id": "59264",
+      "address": "530 E High Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,L02,202",
+      "units": "E13,L02,202",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-59264"
+    }
   }
 ]
