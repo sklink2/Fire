@@ -2000,5 +2000,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59383"
     }
+  },
+  {
+    "runNumber": "59385",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-24T13:40:47.624210-04:00",
+    "address": "977 Sunny Slope Trce",
+    "extra": {
+      "incidentNumber": "59385",
+      "run_id": "59385",
+      "address": "977 Sunny Slope Trce",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,E20,L04,204",
+      "units": "E15,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-59385"
+    }
   }
 ]
