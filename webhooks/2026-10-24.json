@@ -1098,5 +1098,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59342"
     }
+  },
+  {
+    "runNumber": "59343",
+    "rawCode": "MED",
+    "timestamp": "2026-10-24T09:40:12.923828-04:00",
+    "address": "900 Block Fiddler Creek Way",
+    "extra": {
+      "incidentNumber": "59343",
+      "run_id": "59343",
+      "address": "900 Block Fiddler Creek Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC4",
+      "units": "E22,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59343"
+    }
   }
 ]
