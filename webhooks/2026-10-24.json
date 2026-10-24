@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59376"
     }
+  },
+  {
+    "runNumber": "59375",
+    "rawCode": "MED",
+    "timestamp": "2026-10-24T12:40:42.396159-04:00",
+    "address": "1000 Block Birch Drive",
+    "extra": {
+      "incidentNumber": "59375",
+      "run_id": "59375",
+      "address": "1000 Block Birch Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59375"
+    }
   }
 ]
