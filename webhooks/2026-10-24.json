@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59336"
     }
+  },
+  {
+    "runNumber": "59338",
+    "rawCode": "MED",
+    "timestamp": "2026-10-24T08:40:05.014283-04:00",
+    "address": "2000 Block Versailles Road",
+    "extra": {
+      "incidentNumber": "59338",
+      "run_id": "59338",
+      "address": "2000 Block Versailles Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,EC1",
+      "units": "E14,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59338"
+    }
   }
 ]
