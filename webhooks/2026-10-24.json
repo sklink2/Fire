@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59422"
     }
+  },
+  {
+    "runNumber": "59424",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-24T15:44:27.944877-04:00",
+    "address": "1435 Alexandria Drive",
+    "extra": {
+      "incidentNumber": "59424",
+      "run_id": "59424",
+      "address": "1435 Alexandria Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E20,L04,EC11,203",
+      "units": "E11,E20,L04,EC11,203",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-59424"
+    }
   }
 ]
