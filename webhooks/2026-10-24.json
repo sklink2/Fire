@@ -86,5 +86,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59297"
     }
+  },
+  {
+    "runNumber": "59296",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-24T00:48:52.564714-04:00",
+    "address": "112 Lucille Drive",
+    "extra": {
+      "incidentNumber": "59296",
+      "run_id": "59296",
+      "address": "112 Lucille Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,E24,L03,203",
+      "units": "E13,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-59296"
+    }
   }
 ]
