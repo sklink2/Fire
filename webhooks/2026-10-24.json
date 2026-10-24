@@ -2264,5 +2264,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59395"
     }
+  },
+  {
+    "runNumber": "59394",
+    "rawCode": "MED",
+    "timestamp": "2026-10-24T14:07:36.123011-04:00",
+    "address": "3700 Block Trent Circle",
+    "extra": {
+      "incidentNumber": "59394",
+      "run_id": "59394",
+      "address": "3700 Block Trent Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59394"
+    }
   }
 ]
