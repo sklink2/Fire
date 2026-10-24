@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59274"
     }
+  },
+  {
+    "runNumber": "59273",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-23T21:25:03.709429-04:00",
+    "address": "Oliver Lewis Way & Manchester",
+    "extra": {
+      "incidentNumber": "59273",
+      "run_id": "59273",
+      "address": "Oliver Lewis Way & Manchester",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1,EC12,RS1",
+      "units": "EC1,EC12,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59273"
+    }
   }
 ]
