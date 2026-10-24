@@ -3474,5 +3474,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59450"
     }
+  },
+  {
+    "runNumber": "59451",
+    "rawCode": "FELS",
+    "timestamp": "2026-10-24T17:41:22.292977-04:00",
+    "address": "505 W Main Street",
+    "extra": {
+      "incidentNumber": "59451",
+      "run_id": "59451",
+      "address": "505 W Main Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01,203,RS1",
+      "units": "L01,203,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-59451"
+    }
   }
 ]
