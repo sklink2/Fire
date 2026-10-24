@@ -878,5 +878,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59332"
     }
+  },
+  {
+    "runNumber": "59333",
+    "rawCode": "MED",
+    "timestamp": "2026-10-24T08:13:21.295657-04:00",
+    "address": "600 Block Big Bear Lane",
+    "extra": {
+      "incidentNumber": "59333",
+      "run_id": "59333",
+      "address": "600 Block Big Bear Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC4",
+      "units": "E22,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59333"
+    }
   }
 ]
