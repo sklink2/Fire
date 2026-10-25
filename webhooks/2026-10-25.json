@@ -1428,5 +1428,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-59573"
     }
+  },
+  {
+    "runNumber": "59574",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-25T09:40:28.181850-04:00",
+    "address": "2277 Danforth Drive",
+    "extra": {
+      "incidentNumber": "59574",
+      "run_id": "59574",
+      "address": "2277 Danforth Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10",
+      "units": "E10",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59574"
+    }
   }
 ]
