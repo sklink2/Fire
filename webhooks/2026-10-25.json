@@ -1560,5 +1560,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59579"
     }
+  },
+  {
+    "runNumber": "59580",
+    "rawCode": "FELF",
+    "timestamp": "2026-10-25T10:30:34.338638-04:00",
+    "address": "824 Ward Drive",
+    "extra": {
+      "incidentNumber": "59580",
+      "run_id": "59580",
+      "address": "824 Ward Drive",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E19,L05,201",
+      "units": "E02,E19,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-59580"
+    }
   }
 ]
