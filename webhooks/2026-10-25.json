@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59591"
     }
+  },
+  {
+    "runNumber": "59592",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-25T11:37:26.555911-04:00",
+    "address": "1041 Meadow Lane",
+    "extra": {
+      "incidentNumber": "59592",
+      "run_id": "59592",
+      "address": "1041 Meadow Lane",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E23,L05,205",
+      "units": "E02,E23,L05,205",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-59592"
+    }
   }
 ]
