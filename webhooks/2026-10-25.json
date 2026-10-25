@@ -3518,5 +3518,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59669"
     }
+  },
+  {
+    "runNumber": "59668",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-25T19:11:52.341642-04:00",
+    "address": "908 Chinoe Court",
+    "extra": {
+      "incidentNumber": "59668",
+      "run_id": "59668",
+      "address": "908 Chinoe Court",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E09,202",
+      "units": "E07,E09,202",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-59668"
+    }
   }
 ]
