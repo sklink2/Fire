@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59681"
     }
+  },
+  {
+    "runNumber": "59682",
+    "rawCode": "MED",
+    "timestamp": "2026-10-25T19:58:35.354890-04:00",
+    "address": "1700 Block Old Paris Road",
+    "extra": {
+      "incidentNumber": "59682",
+      "run_id": "59682",
+      "address": "1700 Block Old Paris Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59682"
+    }
   }
 ]
