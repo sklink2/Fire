@@ -2726,5 +2726,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59631"
     }
+  },
+  {
+    "runNumber": "59633",
+    "rawCode": "FDET",
+    "timestamp": "2026-10-25T15:44:38.768994-04:00",
+    "address": "Barr Street & N Limestone",
+    "extra": {
+      "incidentNumber": "59633",
+      "run_id": "59633",
+      "address": "Barr Street & N Limestone",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,EC6",
+      "units": "E06,EC6",
+      "unitCount": "2",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59633"
+    }
   }
 ]
