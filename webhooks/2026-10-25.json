@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59531"
     }
+  },
+  {
+    "runNumber": "59533",
+    "rawCode": "MED",
+    "timestamp": "2026-10-25T02:19:21.895478-04:00",
+    "address": "3000 Block Tuscaloosa Lane",
+    "extra": {
+      "incidentNumber": "59533",
+      "run_id": "59533",
+      "address": "3000 Block Tuscaloosa Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC13",
+      "units": "EC13",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59533"
+    }
   }
 ]
