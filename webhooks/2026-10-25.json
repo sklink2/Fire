@@ -2572,5 +2572,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59624"
     }
+  },
+  {
+    "runNumber": "59626",
+    "rawCode": "MED",
+    "timestamp": "2026-10-25T15:27:55.928534-04:00",
+    "address": "300 Block Jefferson Street",
+    "extra": {
+      "incidentNumber": "59626",
+      "run_id": "59626",
+      "address": "300 Block Jefferson Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,EC10,241",
+      "units": "E04,EC10,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-59626"
+    }
   }
 ]
