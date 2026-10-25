@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59615"
     }
+  },
+  {
+    "runNumber": "59616",
+    "rawCode": "FFIA",
+    "timestamp": "2026-10-25T14:04:27.575238-04:00",
+    "address": "607 Addison Avenue",
+    "extra": {
+      "incidentNumber": "59616",
+      "run_id": "59616",
+      "address": "607 Addison Avenue",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E11,L02,203",
+      "units": "E06,E11,L02,203",
+      "unitCount": "4",
+      "primaryTopic": "FFIA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-59616"
+    }
   }
 ]
