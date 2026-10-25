@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59541"
     }
+  },
+  {
+    "runNumber": "59542",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-25T03:56:17.014136-04:00",
+    "address": "75 Sb / 97.8 Mm (Clays Ferry B",
+    "extra": {
+      "incidentNumber": "59542",
+      "run_id": "59542",
+      "address": "75 Sb / 97.8 Mm (Clays Ferry B",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E18,EC2",
+      "units": "E09,E18,EC2",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59542"
+    }
   }
 ]
