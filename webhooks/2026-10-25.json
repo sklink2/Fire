@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59550"
     }
+  },
+  {
+    "runNumber": "59551",
+    "rawCode": "MED",
+    "timestamp": "2026-10-25T06:16:39.758526-04:00",
+    "address": "500 Block E Third Street",
+    "extra": {
+      "incidentNumber": "59551",
+      "run_id": "59551",
+      "address": "500 Block E Third Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59551"
+    }
   }
 ]
