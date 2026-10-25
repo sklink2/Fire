@@ -2022,5 +2022,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59598"
     }
+  },
+  {
+    "runNumber": "59602",
+    "rawCode": "MED",
+    "timestamp": "2026-10-25T12:37:32.272208-04:00",
+    "address": "1700 Block Jennifer Road",
+    "extra": {
+      "incidentNumber": "59602",
+      "run_id": "59602",
+      "address": "1700 Block Jennifer Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59602"
+    }
   }
 ]
