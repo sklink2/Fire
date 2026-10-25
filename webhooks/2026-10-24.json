@@ -4662,5 +4662,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59504"
     }
+  },
+  {
+    "runNumber": "59505",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-24T23:08:50.725711-04:00",
+    "address": "1011 S Broadway",
+    "extra": {
+      "incidentNumber": "59505",
+      "run_id": "59505",
+      "address": "1011 S Broadway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E11,L02,204",
+      "units": "E06,E11,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-59505"
+    }
   }
 ]
