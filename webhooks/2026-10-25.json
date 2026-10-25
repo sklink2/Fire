@@ -2044,5 +2044,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59602"
     }
+  },
+  {
+    "runNumber": "59601",
+    "rawCode": "FELS",
+    "timestamp": "2026-10-25T12:37:34.053753-04:00",
+    "address": "3051 Rio Dosa Drive",
+    "extra": {
+      "incidentNumber": "59601",
+      "run_id": "59601",
+      "address": "3051 Rio Dosa Drive",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,L06,202",
+      "units": "E09,L06,202",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-59601"
+    }
   }
 ]
