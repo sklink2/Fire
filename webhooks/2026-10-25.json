@@ -2770,5 +2770,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-59634"
     }
+  },
+  {
+    "runNumber": "59635",
+    "rawCode": "MED",
+    "timestamp": "2026-10-25T16:31:26.620863-04:00",
+    "address": "700 Block Orlean Circle",
+    "extra": {
+      "incidentNumber": "59635",
+      "run_id": "59635",
+      "address": "700 Block Orlean Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59635"
+    }
   }
 ]
