@@ -2748,5 +2748,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59633"
     }
+  },
+  {
+    "runNumber": "59634",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-25T16:04:41.337653-04:00",
+    "address": "101 W Short Street",
+    "extra": {
+      "incidentNumber": "59634",
+      "run_id": "59634",
+      "address": "101 W Short Street",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E04,L01,205",
+      "units": "E01,E04,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-59634"
+    }
   }
 ]
