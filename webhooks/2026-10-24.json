@@ -4200,5 +4200,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59483"
     }
+  },
+  {
+    "runNumber": "59484",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-24T21:21:57.002054-04:00",
+    "address": "160 Oliver Lewis Way",
+    "extra": {
+      "incidentNumber": "59484",
+      "run_id": "59484",
+      "address": "160 Oliver Lewis Way",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1,RS1",
+      "units": "EC1,RS1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59484"
+    }
   }
 ]
