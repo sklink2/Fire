@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59584"
     }
+  },
+  {
+    "runNumber": "59586",
+    "rawCode": "FELS",
+    "timestamp": "2026-10-25T11:07:19.224407-04:00",
+    "address": "2050 Versailles Road",
+    "extra": {
+      "incidentNumber": "59586",
+      "run_id": "59586",
+      "address": "2050 Versailles Road",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,L04,205",
+      "units": "E13,L04,205",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-59586"
+    }
   }
 ]
