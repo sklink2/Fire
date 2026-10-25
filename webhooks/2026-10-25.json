@@ -3122,5 +3122,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-59649"
     }
+  },
+  {
+    "runNumber": "59651",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-25T17:54:56.959259-04:00",
+    "address": "E New Circle Road & Meadow Lane",
+    "extra": {
+      "incidentNumber": "59651",
+      "run_id": "59651",
+      "address": "E New Circle Road & Meadow Lane",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC3",
+      "units": "E02,EC3",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59651"
+    }
   }
 ]
