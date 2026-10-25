@@ -2594,5 +2594,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-59626"
     }
+  },
+  {
+    "runNumber": "59629",
+    "rawCode": "MED",
+    "timestamp": "2026-10-25T15:34:35.977121-04:00",
+    "address": "Oldham Avenue & E High Street",
+    "extra": {
+      "incidentNumber": "59629",
+      "run_id": "59629",
+      "address": "Oldham Avenue & E High Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,EC2",
+      "units": "E05,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59629"
+    }
   }
 ]
