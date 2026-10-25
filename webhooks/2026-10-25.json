@@ -3408,5 +3408,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59662"
     }
+  },
+  {
+    "runNumber": "59666",
+    "rawCode": "MED",
+    "timestamp": "2026-10-25T18:51:46.203384-04:00",
+    "address": "500 Block De Roode Street",
+    "extra": {
+      "incidentNumber": "59666",
+      "run_id": "59666",
+      "address": "500 Block De Roode Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,EC22",
+      "units": "E06,EC22",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59666"
+    }
   }
 ]
