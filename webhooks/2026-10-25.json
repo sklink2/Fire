@@ -3826,5 +3826,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59682"
     }
+  },
+  {
+    "runNumber": "59684",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-25T20:01:55.950954-04:00",
+    "address": "151 Eastern Avenue",
+    "extra": {
+      "incidentNumber": "59684",
+      "run_id": "59684",
+      "address": "151 Eastern Avenue",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E06,L01,EC2,205,220",
+      "units": "E01,E06,L01,EC2,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-59684"
+    }
   }
 ]
