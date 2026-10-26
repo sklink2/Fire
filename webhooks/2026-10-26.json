@@ -3452,5 +3452,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59865"
     }
+  },
+  {
+    "runNumber": "59868",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-26T19:18:48.899694-04:00",
+    "address": "432 Hawkins Avenue",
+    "extra": {
+      "incidentNumber": "59868",
+      "run_id": "59868",
+      "address": "432 Hawkins Avenue",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E05,205",
+      "units": "E01,E05,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-59868"
+    }
   }
 ]
