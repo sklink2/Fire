@@ -3144,5 +3144,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-59852"
     }
+  },
+  {
+    "runNumber": "59854",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-26T17:55:16.532283-04:00",
+    "address": "1700 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "59854",
+      "run_id": "59854",
+      "address": "1700 Nicholasville Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,L02,205",
+      "units": "E06,L02,205",
+      "unitCount": "3",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-59854"
+    }
   }
 ]
