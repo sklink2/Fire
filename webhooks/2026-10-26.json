@@ -1868,5 +1868,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-59795"
     }
+  },
+  {
+    "runNumber": "59794",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-26T13:24:36.634450-04:00",
+    "address": "2200 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "59794",
+      "run_id": "59794",
+      "address": "2200 Nicholasville Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E12,L04,EC9,204,220",
+      "units": "E06,E12,L04,EC9,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-59794"
+    }
   }
 ]
