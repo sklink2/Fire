@@ -1164,5 +1164,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59762"
     }
+  },
+  {
+    "runNumber": "59763",
+    "rawCode": "MED",
+    "timestamp": "2026-10-26T10:00:45.358593-04:00",
+    "address": "4200 Block Clemens Drive",
+    "extra": {
+      "incidentNumber": "59763",
+      "run_id": "59763",
+      "address": "4200 Block Clemens Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC12",
+      "units": "E15,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59763"
+    }
   }
 ]
