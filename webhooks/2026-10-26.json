@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59755"
     }
+  },
+  {
+    "runNumber": "59754",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-26T08:50:38.764579-04:00",
+    "address": "438 Greenwood Avenue",
+    "extra": {
+      "incidentNumber": "59754",
+      "run_id": "59754",
+      "address": "438 Greenwood Avenue",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E06,L03,EC3,203,220",
+      "units": "E04,E06,L03,EC3,203,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,203",
+      "dedupeKey": "INCIDENT-59754"
+    }
   }
 ]
