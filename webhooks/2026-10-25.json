@@ -4222,5 +4222,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59701"
     }
+  },
+  {
+    "runNumber": "59700",
+    "rawCode": "MED",
+    "timestamp": "2026-10-25T22:05:38.881137-04:00",
+    "address": "100 Block E Sixth Street",
+    "extra": {
+      "incidentNumber": "59700",
+      "run_id": "59700",
+      "address": "100 Block E Sixth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC3",
+      "units": "E01,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59700"
+    }
   }
 ]
