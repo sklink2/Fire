@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59739"
     }
+  },
+  {
+    "runNumber": "59741",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-26T07:47:05.606905-04:00",
+    "address": "768 Newtown Springs Drive",
+    "extra": {
+      "incidentNumber": "59741",
+      "run_id": "59741",
+      "address": "768 Newtown Springs Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,E24,L03,EC7,203,220",
+      "units": "E10,E24,L03,EC7,203,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,203",
+      "dedupeKey": "INCIDENT-59741"
+    }
   }
 ]
