@@ -2638,5 +2638,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59829"
     }
+  },
+  {
+    "runNumber": "59830",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-26T16:31:44.312432-04:00",
+    "address": "189 Beverly Avenue",
+    "extra": {
+      "incidentNumber": "59830",
+      "run_id": "59830",
+      "address": "189 Beverly Avenue",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,L05,EC3,203,220",
+      "units": "E04,L05,EC3,203,220",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,203",
+      "dedupeKey": "INCIDENT-59830"
+    }
   }
 ]
