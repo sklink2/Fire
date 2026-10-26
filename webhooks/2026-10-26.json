@@ -2858,5 +2858,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59840"
     }
+  },
+  {
+    "runNumber": "59839",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-26T17:11:52.693340-04:00",
+    "address": "1601 Tates Creek Road",
+    "extra": {
+      "incidentNumber": "59839",
+      "run_id": "59839",
+      "address": "1601 Tates Creek Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E07,L02,202",
+      "units": "E05,E07,L02,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-59839"
+    }
   }
 ]
