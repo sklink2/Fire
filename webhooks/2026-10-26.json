@@ -2572,5 +2572,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59826"
     }
+  },
+  {
+    "runNumber": "59827",
+    "rawCode": "MED",
+    "timestamp": "2026-10-26T16:18:19.420120-04:00",
+    "address": "100 Block Beverly Avenue",
+    "extra": {
+      "incidentNumber": "59827",
+      "run_id": "59827",
+      "address": "100 Block Beverly Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC8",
+      "units": "E08,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59827"
+    }
   }
 ]
