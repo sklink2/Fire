@@ -1120,5 +1120,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59761"
     }
+  },
+  {
+    "runNumber": "59760",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-26T09:47:23.728927-04:00",
+    "address": "841 Corporate Drive",
+    "extra": {
+      "incidentNumber": "59760",
+      "run_id": "59760",
+      "address": "841 Corporate Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,E20,L07,EC12,204",
+      "units": "E11,E20,L07,EC12,204",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-59760"
+    }
   }
 ]
