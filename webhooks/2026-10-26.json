@@ -724,5 +724,27 @@
       "commandUnits": "241,201",
       "dedupeKey": "INCIDENT-59739"
     }
+  },
+  {
+    "runNumber": "59743",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-26T07:53:46.085159-04:00",
+    "address": "4568 Georgetown Road",
+    "extra": {
+      "incidentNumber": "59743",
+      "run_id": "59743",
+      "address": "4568 Georgetown Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "T1,EC5",
+      "units": "T1,EC5",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59743"
+    }
   }
 ]
