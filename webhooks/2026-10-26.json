@@ -1846,5 +1846,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59792"
     }
+  },
+  {
+    "runNumber": "59795",
+    "rawCode": "FVIS",
+    "timestamp": "2026-10-26T13:24:33.504522-04:00",
+    "address": "282 E Fifth Street",
+    "extra": {
+      "incidentNumber": "59795",
+      "run_id": "59795",
+      "address": "282 E Fifth Street",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E08,L01,EC10,205,RS1",
+      "units": "E04,E08,L01,EC10,205,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-59795"
+    }
   }
 ]
