@@ -1208,5 +1208,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59764"
     }
+  },
+  {
+    "runNumber": "59765",
+    "rawCode": "MED",
+    "timestamp": "2026-10-26T10:07:26.165588-04:00",
+    "address": "100 Block Bruce Street",
+    "extra": {
+      "incidentNumber": "59765",
+      "run_id": "59765",
+      "address": "100 Block Bruce Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L03,EC1",
+      "units": "L03,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59765"
+    }
   }
 ]
