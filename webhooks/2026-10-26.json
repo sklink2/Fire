@@ -2220,5 +2220,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59811"
     }
+  },
+  {
+    "runNumber": "59810",
+    "rawCode": "MED",
+    "timestamp": "2026-10-26T14:58:10.207956-04:00",
+    "address": "1100 Block Henderson Drive",
+    "extra": {
+      "incidentNumber": "59810",
+      "run_id": "59810",
+      "address": "1100 Block Henderson Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC13",
+      "units": "E22,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59810"
+    }
   }
 ]
