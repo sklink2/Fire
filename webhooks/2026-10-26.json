@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59793"
     }
+  },
+  {
+    "runNumber": "59792",
+    "rawCode": "MED",
+    "timestamp": "2026-10-26T13:21:14.287153-04:00",
+    "address": "2100 Block Street Christopher Drive",
+    "extra": {
+      "incidentNumber": "59792",
+      "run_id": "59792",
+      "address": "2100 Block Street Christopher Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L05,EC13,CRT1",
+      "units": "L05,EC13,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59792"
+    }
   }
 ]
