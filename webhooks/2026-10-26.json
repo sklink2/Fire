@@ -130,5 +130,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59715"
     }
+  },
+  {
+    "runNumber": "59716",
+    "rawCode": "MED",
+    "timestamp": "2026-10-26T01:06:04.706348-04:00",
+    "address": "400 Block Woodview Drive",
+    "extra": {
+      "incidentNumber": "59716",
+      "run_id": "59716",
+      "address": "400 Block Woodview Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC13",
+      "units": "EC13",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59716"
+    }
   }
 ]
