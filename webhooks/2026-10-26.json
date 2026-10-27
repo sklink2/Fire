@@ -4046,5 +4046,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-59891"
     }
+  },
+  {
+    "runNumber": "59893",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-26T21:22:27.514500-04:00",
+    "address": "Nicholasville Road & Wilson Down",
+    "extra": {
+      "incidentNumber": "59893",
+      "run_id": "59893",
+      "address": "Nicholasville Road & Wilson Down",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,L04",
+      "units": "E15,L04",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59893"
+    }
   }
 ]
