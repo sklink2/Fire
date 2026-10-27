@@ -2264,5 +2264,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60010"
     }
+  },
+  {
+    "runNumber": "60011",
+    "rawCode": "MED",
+    "timestamp": "2026-10-27T13:58:17.777073-04:00",
+    "address": "2000 Block Winchester Road",
+    "extra": {
+      "incidentNumber": "60011",
+      "run_id": "60011",
+      "address": "2000 Block Winchester Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L05,EC2",
+      "units": "L05,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60011"
+    }
   }
 ]
