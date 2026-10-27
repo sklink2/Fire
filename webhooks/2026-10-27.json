@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59953"
     }
+  },
+  {
+    "runNumber": "59956",
+    "rawCode": "MED",
+    "timestamp": "2026-10-27T08:40:51.135786-04:00",
+    "address": "900 Block Edgewater Drive",
+    "extra": {
+      "incidentNumber": "59956",
+      "run_id": "59956",
+      "address": "900 Block Edgewater Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59956"
+    }
   }
 ]
