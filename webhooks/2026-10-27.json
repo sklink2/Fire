@@ -834,5 +834,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59949"
     }
+  },
+  {
+    "runNumber": "59948",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-27T07:24:02.817677-04:00",
+    "address": "434 Hawkins Avenue",
+    "extra": {
+      "incidentNumber": "59948",
+      "run_id": "59948",
+      "address": "434 Hawkins Avenue",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E05,205",
+      "units": "E01,E05,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-59948"
+    }
   }
 ]
