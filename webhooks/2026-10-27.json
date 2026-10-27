@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60018"
     }
+  },
+  {
+    "runNumber": "60019",
+    "rawCode": "MED",
+    "timestamp": "2026-10-27T14:45:03.995916-04:00",
+    "address": "3100 Block Wall Street",
+    "extra": {
+      "incidentNumber": "60019",
+      "run_id": "60019",
+      "address": "3100 Block Wall Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60019"
+    }
   }
 ]
