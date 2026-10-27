@@ -1912,5 +1912,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59993"
     }
+  },
+  {
+    "runNumber": "59995",
+    "rawCode": "MED",
+    "timestamp": "2026-10-27T12:01:20.918144-04:00",
+    "address": "1800 Block Marietta Drive",
+    "extra": {
+      "incidentNumber": "59995",
+      "run_id": "59995",
+      "address": "1800 Block Marietta Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L05,EC6",
+      "units": "L05,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59995"
+    }
   }
 ]
