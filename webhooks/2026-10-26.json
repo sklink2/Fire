@@ -4398,5 +4398,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59908"
     }
+  },
+  {
+    "runNumber": "59909",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-26T23:16:05.214360-04:00",
+    "address": "2223 Devonport Drive",
+    "extra": {
+      "incidentNumber": "59909",
+      "run_id": "59909",
+      "address": "2223 Devonport Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,E20,L04,EC5,204,220",
+      "units": "E14,E20,L04,EC5,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-59909"
+    }
   }
 ]
