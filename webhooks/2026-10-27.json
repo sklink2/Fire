@@ -3122,5 +3122,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60050"
     }
+  },
+  {
+    "runNumber": "60052",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-27T17:28:46.943894-04:00",
+    "address": "405 Lenney Drive",
+    "extra": {
+      "incidentNumber": "60052",
+      "run_id": "60052",
+      "address": "405 Lenney Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E12,L04,204",
+      "units": "E07,E12,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-60052"
+    }
   }
 ]
