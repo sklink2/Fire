@@ -284,5 +284,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-59924"
     }
+  },
+  {
+    "runNumber": "59925",
+    "rawCode": "MED",
+    "timestamp": "2026-10-27T04:06:47.840294-04:00",
+    "address": "3300 Block Spangler Drive",
+    "extra": {
+      "incidentNumber": "59925",
+      "run_id": "59925",
+      "address": "3300 Block Spangler Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC4,241",
+      "units": "E22,EC4,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-59925"
+    }
   }
 ]
