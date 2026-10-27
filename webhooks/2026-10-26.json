@@ -4178,5 +4178,27 @@
       "commandUnits": "220,204",
       "dedupeKey": "INCIDENT-59897"
     }
+  },
+  {
+    "runNumber": "59899",
+    "rawCode": "MED",
+    "timestamp": "2026-10-26T21:52:31.620567-04:00",
+    "address": "800 Block Charwood Drive",
+    "extra": {
+      "incidentNumber": "59899",
+      "run_id": "59899",
+      "address": "800 Block Charwood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L07,EC13",
+      "units": "L07,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59899"
+    }
   }
 ]
