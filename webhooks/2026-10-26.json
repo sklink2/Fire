@@ -3914,5 +3914,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59885"
     }
+  },
+  {
+    "runNumber": "59887",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-26T20:59:02.140526-04:00",
+    "address": "2031 Royster Road",
+    "extra": {
+      "incidentNumber": "59887",
+      "run_id": "59887",
+      "address": "2031 Royster Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17",
+      "units": "E17",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59887"
+    }
   }
 ]
