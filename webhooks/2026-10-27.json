@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60013"
     }
+  },
+  {
+    "runNumber": "60014",
+    "rawCode": "FMEA",
+    "timestamp": "2026-10-27T14:18:22.615010-04:00",
+    "address": "501 Green Valley Drive",
+    "extra": {
+      "incidentNumber": "60014",
+      "run_id": "60014",
+      "address": "501 Green Valley Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "T1",
+      "units": "T1",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60014"
+    }
   }
 ]
