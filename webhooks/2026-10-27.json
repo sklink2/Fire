@@ -2924,5 +2924,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-60039"
     }
+  },
+  {
+    "runNumber": "60042",
+    "rawCode": "MED",
+    "timestamp": "2026-10-27T16:32:00.436554-04:00",
+    "address": "1200 Block Angus Trail",
+    "extra": {
+      "incidentNumber": "60042",
+      "run_id": "60042",
+      "address": "1200 Block Angus Trail",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L06,EC13",
+      "units": "L06,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60042"
+    }
   }
 ]
