@@ -4200,5 +4200,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59899"
     }
+  },
+  {
+    "runNumber": "59900",
+    "rawCode": "MED",
+    "timestamp": "2026-10-26T22:15:53.606853-04:00",
+    "address": "600 Block Maple Avenue",
+    "extra": {
+      "incidentNumber": "59900",
+      "run_id": "59900",
+      "address": "600 Block Maple Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59900"
+    }
   }
 ]
