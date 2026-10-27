@@ -4266,5 +4266,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59901"
     }
+  },
+  {
+    "runNumber": "59903",
+    "rawCode": "MED",
+    "timestamp": "2026-10-26T22:39:19.559476-04:00",
+    "address": "100 Block Barr Street",
+    "extra": {
+      "incidentNumber": "59903",
+      "run_id": "59903",
+      "address": "100 Block Barr Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59903"
+    }
   }
 ]
