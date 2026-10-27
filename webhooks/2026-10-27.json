@@ -2946,5 +2946,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60042"
     }
+  },
+  {
+    "runNumber": "60044",
+    "rawCode": "FVIS",
+    "timestamp": "2026-10-27T16:35:20.583064-04:00",
+    "address": "4617 Thornwood Circle",
+    "extra": {
+      "incidentNumber": "60044",
+      "run_id": "60044",
+      "address": "4617 Thornwood Circle",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E22,L07,EC4,202,RS1",
+      "units": "E09,E22,L07,EC4,202,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-60044"
+    }
   }
 ]
