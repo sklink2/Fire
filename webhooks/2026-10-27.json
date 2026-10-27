@@ -2968,5 +2968,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-60044"
     }
+  },
+  {
+    "runNumber": "60043",
+    "rawCode": "MED",
+    "timestamp": "2026-10-27T16:35:23.339847-04:00",
+    "address": "300 Block Bob O Link Drive",
+    "extra": {
+      "incidentNumber": "60043",
+      "run_id": "60043",
+      "address": "300 Block Bob O Link Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,EC8",
+      "units": "E11,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60043"
+    }
   }
 ]
