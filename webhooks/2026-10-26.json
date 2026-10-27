@@ -4354,5 +4354,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-59904"
     }
+  },
+  {
+    "runNumber": "59907",
+    "rawCode": "MED",
+    "timestamp": "2026-10-26T22:55:59.789537-04:00",
+    "address": "100 Block N Mt Tabor Road",
+    "extra": {
+      "incidentNumber": "59907",
+      "run_id": "59907",
+      "address": "100 Block N Mt Tabor Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59907"
+    }
   }
 ]
