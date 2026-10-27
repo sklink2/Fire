@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-59953"
     }
+  },
+  {
+    "runNumber": "59953",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-27T08:30:50.478291-04:00",
+    "address": "2495 Palumbo Drive",
+    "extra": {
+      "incidentNumber": "59953",
+      "run_id": "59953",
+      "address": "2495 Palumbo Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02",
+      "units": "E02",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-59953"
+    }
   }
 ]
