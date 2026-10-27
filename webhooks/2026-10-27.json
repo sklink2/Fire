@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60028"
     }
+  },
+  {
+    "runNumber": "60030",
+    "rawCode": "MED",
+    "timestamp": "2026-10-27T15:21:50.580927-04:00",
+    "address": "100 Block Washington Avenue",
+    "extra": {
+      "incidentNumber": "60030",
+      "run_id": "60030",
+      "address": "100 Block Washington Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,EC4",
+      "units": "E11,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60030"
+    }
   }
 ]
