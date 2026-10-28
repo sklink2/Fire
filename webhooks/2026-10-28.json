@@ -108,5 +108,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60111"
     }
+  },
+  {
+    "runNumber": "60112",
+    "rawCode": "MED",
+    "timestamp": "2026-10-28T02:00:06.594467-04:00",
+    "address": "1200 Block E New Circle Road",
+    "extra": {
+      "incidentNumber": "60112",
+      "run_id": "60112",
+      "address": "1200 Block E New Circle Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC2",
+      "units": "E02,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60112"
+    }
   }
 ]
