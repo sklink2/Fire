@@ -812,5 +812,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-60143"
     }
+  },
+  {
+    "runNumber": "60145",
+    "rawCode": "FVEH",
+    "timestamp": "2026-10-28T09:24:34.401937-04:00",
+    "address": "75 Sb / 110.0 Mm (Winchester R",
+    "extra": {
+      "incidentNumber": "60145",
+      "run_id": "60145",
+      "address": "75 Sb / 110.0 Mm (Winchester R",
+      "rawType": "FVEH",
+      "typeCode": "FVEH",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E10",
+      "units": "E08,E10",
+      "unitCount": "2",
+      "primaryTopic": "FVEH",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60145"
+    }
   }
 ]
