@@ -2110,5 +2110,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60202"
     }
+  },
+  {
+    "runNumber": "60201",
+    "rawCode": "MED",
+    "timestamp": "2026-10-28T13:35:13.537084-04:00",
+    "address": "400 Block Price Road",
+    "extra": {
+      "incidentNumber": "60201",
+      "run_id": "60201",
+      "address": "400 Block Price Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC5",
+      "units": "E10,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60201"
+    }
   }
 ]
