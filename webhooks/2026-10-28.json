@@ -3760,5 +3760,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60278"
     }
+  },
+  {
+    "runNumber": "60280",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-28T19:12:43.427124-04:00",
+    "address": "580 Bryanwood Parkway",
+    "extra": {
+      "incidentNumber": "60280",
+      "run_id": "60280",
+      "address": "580 Bryanwood Parkway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E08,L05,201",
+      "units": "E02,E08,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-60280"
+    }
   }
 ]
