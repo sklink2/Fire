@@ -3848,5 +3848,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-60281"
     }
+  },
+  {
+    "runNumber": "60283",
+    "rawCode": "FELS",
+    "timestamp": "2026-10-28T19:29:23.635629-04:00",
+    "address": "1349 Centre Parkway",
+    "extra": {
+      "incidentNumber": "60283",
+      "run_id": "60283",
+      "address": "1349 Centre Parkway",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,L06,205",
+      "units": "E08,L06,205",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-60283"
+    }
   }
 ]
