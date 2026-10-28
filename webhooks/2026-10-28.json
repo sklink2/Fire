@@ -3826,5 +3826,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-60282"
     }
+  },
+  {
+    "runNumber": "60281",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-28T19:19:25.736383-04:00",
+    "address": "3981 Weber Way",
+    "extra": {
+      "incidentNumber": "60281",
+      "run_id": "60281",
+      "address": "3981 Weber Way",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E22,L07,EC10,202",
+      "units": "E06,E22,L07,EC10,202",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-60281"
+    }
   }
 ]
