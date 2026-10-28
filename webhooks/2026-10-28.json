@@ -3364,5 +3364,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60260"
     }
+  },
+  {
+    "runNumber": "60262",
+    "rawCode": "MED",
+    "timestamp": "2026-10-28T18:02:33.928801-04:00",
+    "address": "1000 Block Wellington Way",
+    "extra": {
+      "incidentNumber": "60262",
+      "run_id": "60262",
+      "address": "1000 Block Wellington Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC5,CRT1",
+      "units": "EC5,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60262"
+    }
   }
 ]
