@@ -2858,5 +2858,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60236"
     }
+  },
+  {
+    "runNumber": "60238",
+    "rawCode": "MED",
+    "timestamp": "2026-10-28T16:28:58.156795-04:00",
+    "address": "1200 Block Bordeaux Drive",
+    "extra": {
+      "incidentNumber": "60238",
+      "run_id": "60238",
+      "address": "1200 Block Bordeaux Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC10",
+      "units": "E14,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60238"
+    }
   }
 ]
