@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60181"
     }
+  },
+  {
+    "runNumber": "60180",
+    "rawCode": "MED",
+    "timestamp": "2026-10-28T12:35:04.294465-04:00",
+    "address": "700 Block Shaker Drive",
+    "extra": {
+      "incidentNumber": "60180",
+      "run_id": "60180",
+      "address": "700 Block Shaker Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC6",
+      "units": "E11,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60180"
+    }
   }
 ]
