@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60213"
     }
+  },
+  {
+    "runNumber": "60214",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-28T14:28:38.761818-04:00",
+    "address": "1105 Centre Parkway",
+    "extra": {
+      "incidentNumber": "60214",
+      "run_id": "60214",
+      "address": "1105 Centre Parkway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E16,L07,202",
+      "units": "E07,E16,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-60214"
+    }
   }
 ]
