@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60279"
     }
+  },
+  {
+    "runNumber": "60282",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-28T19:19:23.185038-04:00",
+    "address": "3824 Camelot Drive",
+    "extra": {
+      "incidentNumber": "60282",
+      "run_id": "60282",
+      "address": "3824 Camelot Drive",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E16,201",
+      "units": "E09,E16,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-60282"
+    }
   }
 ]
