@@ -4134,5 +4134,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60097"
     }
+  },
+  {
+    "runNumber": "60096",
+    "rawCode": "MED",
+    "timestamp": "2026-10-27T22:56:18.606905-04:00",
+    "address": "3200 Block Darlington Circle",
+    "extra": {
+      "incidentNumber": "60096",
+      "run_id": "60096",
+      "address": "3200 Block Darlington Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60096"
+    }
   }
 ]
