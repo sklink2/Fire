@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60193"
     }
+  },
+  {
+    "runNumber": "60196",
+    "rawCode": "MED",
+    "timestamp": "2026-10-28T13:18:28.381808-04:00",
+    "address": "2800 Block Dan Patch Drive",
+    "extra": {
+      "incidentNumber": "60196",
+      "run_id": "60196",
+      "address": "2800 Block Dan Patch Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "T1,EC9",
+      "units": "T1,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60196"
+    }
   }
 ]
