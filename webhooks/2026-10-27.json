@@ -4310,5 +4310,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60104"
     }
+  },
+  {
+    "runNumber": "60106",
+    "rawCode": "MED",
+    "timestamp": "2026-10-27T23:49:44.636236-04:00",
+    "address": "600 Block Mt Vernon Drive",
+    "extra": {
+      "incidentNumber": "60106",
+      "run_id": "60106",
+      "address": "600 Block Mt Vernon Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC1",
+      "units": "E05,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60106"
+    }
   }
 ]
