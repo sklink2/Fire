@@ -1714,5 +1714,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60182"
     }
+  },
+  {
+    "runNumber": "60185",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-28T12:41:42.147285-04:00",
+    "address": "Military Pike & James Lane",
+    "extra": {
+      "incidentNumber": "60185",
+      "run_id": "60185",
+      "address": "Military Pike & James Lane",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,E15,203",
+      "units": "E13,E15,203",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-60185"
+    }
   }
 ]
