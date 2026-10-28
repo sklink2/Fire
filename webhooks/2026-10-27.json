@@ -3870,5 +3870,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60085"
     }
+  },
+  {
+    "runNumber": "60084",
+    "rawCode": "FELF",
+    "timestamp": "2026-10-27T21:06:04.403083-04:00",
+    "address": "301 Hollyhill Drive",
+    "extra": {
+      "incidentNumber": "60084",
+      "run_id": "60084",
+      "address": "301 Hollyhill Drive",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E12,L04,204",
+      "units": "E11,E12,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-60084"
+    }
   }
 ]
