@@ -4266,5 +4266,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60102"
     }
+  },
+  {
+    "runNumber": "60103",
+    "rawCode": "MED",
+    "timestamp": "2026-10-27T23:36:23.024010-04:00",
+    "address": "700 Block Gatehouse Place",
+    "extra": {
+      "incidentNumber": "60103",
+      "run_id": "60103",
+      "address": "700 Block Gatehouse Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC8",
+      "units": "E09,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60103"
+    }
   }
 ]
