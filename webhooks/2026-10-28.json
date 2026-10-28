@@ -1230,5 +1230,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60164"
     }
+  },
+  {
+    "runNumber": "60163",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-28T11:28:14.820004-04:00",
+    "address": "Newtown Pike & Georgetown Street",
+    "extra": {
+      "incidentNumber": "60163",
+      "run_id": "60163",
+      "address": "Newtown Pike & Georgetown Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L03,EC10,EC8",
+      "units": "L03,EC10,EC8",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60163"
+    }
   }
 ]
