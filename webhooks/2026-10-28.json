@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60152"
     }
+  },
+  {
+    "runNumber": "60153",
+    "rawCode": "MED",
+    "timestamp": "2026-10-28T10:34:44.208207-04:00",
+    "address": "3200 Block Mt Foraker Drive",
+    "extra": {
+      "incidentNumber": "60153",
+      "run_id": "60153",
+      "address": "3200 Block Mt Foraker Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC2",
+      "units": "E16,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60153"
+    }
   }
 ]
