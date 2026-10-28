@@ -4178,5 +4178,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60098"
     }
+  },
+  {
+    "runNumber": "60099",
+    "rawCode": "MED",
+    "timestamp": "2026-10-27T23:06:17.407713-04:00",
+    "address": "1000 Block Kees Road",
+    "extra": {
+      "incidentNumber": "60099",
+      "run_id": "60099",
+      "address": "1000 Block Kees Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60099"
+    }
   }
 ]
