@@ -1362,5 +1362,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60168"
     }
+  },
+  {
+    "runNumber": "60170",
+    "rawCode": "MED",
+    "timestamp": "2026-10-28T11:48:14.997636-04:00",
+    "address": "400 Block Southland Drive",
+    "extra": {
+      "incidentNumber": "60170",
+      "run_id": "60170",
+      "address": "400 Block Southland Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60170"
+    }
   }
 ]
