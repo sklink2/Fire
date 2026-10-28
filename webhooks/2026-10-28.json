@@ -3628,5 +3628,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60272"
     }
+  },
+  {
+    "runNumber": "60275",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-28T18:52:39.897422-04:00",
+    "address": "1380 Commons Lane",
+    "extra": {
+      "incidentNumber": "60275",
+      "run_id": "60275",
+      "address": "1380 Commons Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E13,L01,203",
+      "units": "E04,E13,L01,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-60275"
+    }
   }
 ]
