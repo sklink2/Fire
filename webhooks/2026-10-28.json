@@ -3408,5 +3408,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60261"
     }
+  },
+  {
+    "runNumber": "60263",
+    "rawCode": "MED",
+    "timestamp": "2026-10-28T18:05:53.513282-04:00",
+    "address": "600 Block Bizzell Drive",
+    "extra": {
+      "incidentNumber": "60263",
+      "run_id": "60263",
+      "address": "600 Block Bizzell Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC6",
+      "units": "E14,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60263"
+    }
   }
 ]
