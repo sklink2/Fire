@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60238"
     }
+  },
+  {
+    "runNumber": "60237",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-28T16:29:00.893854-04:00",
+    "address": "704 Bullock Place",
+    "extra": {
+      "incidentNumber": "60237",
+      "run_id": "60237",
+      "address": "704 Bullock Place",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E05,L02,205",
+      "units": "E01,E05,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-60237"
+    }
   }
 ]
