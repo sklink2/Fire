@@ -394,5 +394,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60124"
     }
+  },
+  {
+    "runNumber": "60125",
+    "rawCode": "MED",
+    "timestamp": "2026-10-28T06:44:11.340544-04:00",
+    "address": "1100 Block Orion Way",
+    "extra": {
+      "incidentNumber": "60125",
+      "run_id": "60125",
+      "address": "1100 Block Orion Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60125"
+    }
   }
 ]
