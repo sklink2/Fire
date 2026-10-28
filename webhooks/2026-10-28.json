@@ -2022,5 +2022,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60198"
     }
+  },
+  {
+    "runNumber": "60197",
+    "rawCode": "MED",
+    "timestamp": "2026-10-28T13:28:33.491067-04:00",
+    "address": "1100 Block Bryan Avenue",
+    "extra": {
+      "incidentNumber": "60197",
+      "run_id": "60197",
+      "address": "1100 Block Bryan Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC2",
+      "units": "E08,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60197"
+    }
   }
 ]
