@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60222"
     }
+  },
+  {
+    "runNumber": "60223",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-28T15:08:43.862977-04:00",
+    "address": "796 Laurel Hill Road",
+    "extra": {
+      "incidentNumber": "60223",
+      "run_id": "60223",
+      "address": "796 Laurel Hill Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,E14,L04,204",
+      "units": "E12,E14,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-60223"
+    }
   }
 ]
