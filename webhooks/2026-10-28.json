@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60129"
     }
+  },
+  {
+    "runNumber": "60130",
+    "rawCode": "MED",
+    "timestamp": "2026-10-28T07:00:52.726729-04:00",
+    "address": "700 Block Eureka Springs Drive",
+    "extra": {
+      "incidentNumber": "60130",
+      "run_id": "60130",
+      "address": "700 Block Eureka Springs Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60130"
+    }
   }
 ]
