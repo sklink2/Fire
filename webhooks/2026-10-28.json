@@ -3210,5 +3210,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60252"
     }
+  },
+  {
+    "runNumber": "60254",
+    "rawCode": "MED",
+    "timestamp": "2026-10-28T17:45:49.399130-04:00",
+    "address": "4300 Block Shelby Lane",
+    "extra": {
+      "incidentNumber": "60254",
+      "run_id": "60254",
+      "address": "4300 Block Shelby Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC11",
+      "units": "E16,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60254"
+    }
   }
 ]
