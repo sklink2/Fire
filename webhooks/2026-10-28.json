@@ -3650,5 +3650,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-60275"
     }
+  },
+  {
+    "runNumber": "60274",
+    "rawCode": "MED",
+    "timestamp": "2026-10-28T18:52:42.633758-04:00",
+    "address": "5500 Block Jacks Creek Pike",
+    "extra": {
+      "incidentNumber": "60274",
+      "run_id": "60274",
+      "address": "5500 Block Jacks Creek Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E18,EC6",
+      "units": "E18,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60274"
+    }
   }
 ]
