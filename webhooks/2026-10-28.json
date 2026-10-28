@@ -2902,5 +2902,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-60237"
     }
+  },
+  {
+    "runNumber": "60240",
+    "rawCode": "MED",
+    "timestamp": "2026-10-28T16:32:19.034987-04:00",
+    "address": "2300 Block Elkhorn Road",
+    "extra": {
+      "incidentNumber": "60240",
+      "run_id": "60240",
+      "address": "2300 Block Elkhorn Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02",
+      "units": "E02",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60240"
+    }
   }
 ]
