@@ -3430,5 +3430,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60263"
     }
+  },
+  {
+    "runNumber": "60264",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-28T18:12:33.984189-04:00",
+    "address": "4009 Boston Road",
+    "extra": {
+      "incidentNumber": "60264",
+      "run_id": "60264",
+      "address": "4009 Boston Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,L02",
+      "units": "E05,L02",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60264"
+    }
   }
 ]
