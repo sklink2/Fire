@@ -526,5 +526,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60130"
     }
+  },
+  {
+    "runNumber": "60131",
+    "rawCode": "FFIA",
+    "timestamp": "2026-10-28T07:10:54.129470-04:00",
+    "address": "371 Radcliffe Road",
+    "extra": {
+      "incidentNumber": "60131",
+      "run_id": "60131",
+      "address": "371 Radcliffe Road",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E10,L03,201",
+      "units": "E08,E10,L03,201",
+      "unitCount": "4",
+      "primaryTopic": "FFIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-60131"
+    }
   }
 ]
