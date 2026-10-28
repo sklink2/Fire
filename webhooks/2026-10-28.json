@@ -2814,5 +2814,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60235"
     }
+  },
+  {
+    "runNumber": "60234",
+    "rawCode": "FOTS",
+    "timestamp": "2026-10-28T16:22:19.549815-04:00",
+    "address": "116 Hanson Circle",
+    "extra": {
+      "incidentNumber": "60234",
+      "run_id": "60234",
+      "address": "116 Hanson Circle",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13",
+      "units": "E13",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60234"
+    }
   }
 ]
