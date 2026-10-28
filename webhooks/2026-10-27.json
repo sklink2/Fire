@@ -3848,5 +3848,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60083"
     }
+  },
+  {
+    "runNumber": "60085",
+    "rawCode": "MED",
+    "timestamp": "2026-10-27T21:06:01.407977-04:00",
+    "address": "4100 Block Starrush Place",
+    "extra": {
+      "incidentNumber": "60085",
+      "run_id": "60085",
+      "address": "4100 Block Starrush Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC2",
+      "units": "E21,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60085"
+    }
   }
 ]
