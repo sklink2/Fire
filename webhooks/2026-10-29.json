@@ -3782,5 +3782,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-60497"
     }
+  },
+  {
+    "runNumber": "60498",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-29T18:49:35.542997-04:00",
+    "address": "140 Patterson Drive",
+    "extra": {
+      "incidentNumber": "60498",
+      "run_id": "60498",
+      "address": "140 Patterson Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E11,L02,EC7,204,220",
+      "units": "E06,E11,L02,EC7,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-60498"
+    }
   }
 ]
