@@ -4090,5 +4090,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-60293"
     }
+  },
+  {
+    "runNumber": "60295",
+    "rawCode": "MED",
+    "timestamp": "2026-10-28T20:26:12.556538-04:00",
+    "address": "64 Eb / 87.0 Mm (Haley Road",
+    "extra": {
+      "incidentNumber": "60295",
+      "run_id": "60295",
+      "address": "64 Eb / 87.0 Mm (Haley Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E08,EC3",
+      "units": "E02,E08,EC3",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60295"
+    }
   }
 ]
