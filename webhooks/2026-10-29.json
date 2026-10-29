@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60361"
     }
+  },
+  {
+    "runNumber": "60362",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-29T07:47:51.279684-04:00",
+    "address": "760 Elizabeth Street",
+    "extra": {
+      "incidentNumber": "60362",
+      "run_id": "60362",
+      "address": "760 Elizabeth Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E11,E12,L02,204",
+      "units": "E06,E11,E12,L02,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-60362"
+    }
   }
 ]
