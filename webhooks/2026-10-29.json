@@ -3144,5 +3144,27 @@
       "commandUnits": "241,203",
       "dedupeKey": "INCIDENT-60468"
     }
+  },
+  {
+    "runNumber": "60471",
+    "rawCode": "MED",
+    "timestamp": "2026-10-29T16:49:18.435954-04:00",
+    "address": "100 Block Conn Terrace",
+    "extra": {
+      "incidentNumber": "60471",
+      "run_id": "60471",
+      "address": "100 Block Conn Terrace",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,EC10",
+      "units": "E06,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60471"
+    }
   }
 ]
