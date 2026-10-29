@@ -1648,5 +1648,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60401"
     }
+  },
+  {
+    "runNumber": "60402",
+    "rawCode": "MED",
+    "timestamp": "2026-10-29T11:18:25.074523-04:00",
+    "address": "N Broadway & Morrison Avenue",
+    "extra": {
+      "incidentNumber": "60402",
+      "run_id": "60402",
+      "address": "N Broadway & Morrison Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC3,EC6",
+      "units": "EC3,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60402"
+    }
   }
 ]
