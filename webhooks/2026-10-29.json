@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60405"
     }
+  },
+  {
+    "runNumber": "60407",
+    "rawCode": "MED",
+    "timestamp": "2026-10-29T11:35:11.004248-04:00",
+    "address": "1000 Block Duval Street",
+    "extra": {
+      "incidentNumber": "60407",
+      "run_id": "60407",
+      "address": "1000 Block Duval Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC4",
+      "units": "E22,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60407"
+    }
   }
 ]
