@@ -4266,5 +4266,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60301"
     }
+  },
+  {
+    "runNumber": "60303",
+    "rawCode": "FELF",
+    "timestamp": "2026-10-28T20:56:16.463002-04:00",
+    "address": "211 Pine Street",
+    "extra": {
+      "incidentNumber": "60303",
+      "run_id": "60303",
+      "address": "211 Pine Street",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E06,L02,205",
+      "units": "E04,E06,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-60303"
+    }
   }
 ]
