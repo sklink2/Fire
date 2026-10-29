@@ -3452,5 +3452,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60483"
     }
+  },
+  {
+    "runNumber": "60484",
+    "rawCode": "MED",
+    "timestamp": "2026-10-29T17:46:05.217101-04:00",
+    "address": "1000 Block Turnbridge Road",
+    "extra": {
+      "incidentNumber": "60484",
+      "run_id": "60484",
+      "address": "1000 Block Turnbridge Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC11",
+      "units": "E22,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60484"
+    }
   }
 ]
