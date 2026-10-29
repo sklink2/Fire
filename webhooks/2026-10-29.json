@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60442"
     }
+  },
+  {
+    "runNumber": "60441",
+    "rawCode": "MED",
+    "timestamp": "2026-10-29T14:55:40.421710-04:00",
+    "address": "800 Block Wyndham Hills Drive",
+    "extra": {
+      "incidentNumber": "60441",
+      "run_id": "60441",
+      "address": "800 Block Wyndham Hills Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC2,CRT1",
+      "units": "E22,EC2,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60441"
+    }
   }
 ]
