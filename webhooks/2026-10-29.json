@@ -2572,5 +2572,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60444"
     }
+  },
+  {
+    "runNumber": "60443",
+    "rawCode": "MED",
+    "timestamp": "2026-10-29T14:59:01.533636-04:00",
+    "address": "2200 Block Alexandria Drive",
+    "extra": {
+      "incidentNumber": "60443",
+      "run_id": "60443",
+      "address": "2200 Block Alexandria Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60443"
+    }
   }
 ]
