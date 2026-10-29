@@ -3496,5 +3496,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60485"
     }
+  },
+  {
+    "runNumber": "60486",
+    "rawCode": "MED",
+    "timestamp": "2026-10-29T17:52:47.320146-04:00",
+    "address": "600 Block Mitchell Avenue",
+    "extra": {
+      "incidentNumber": "60486",
+      "run_id": "60486",
+      "address": "600 Block Mitchell Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60486"
+    }
   }
 ]
