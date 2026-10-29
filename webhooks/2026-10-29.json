@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60411"
     }
+  },
+  {
+    "runNumber": "60412",
+    "rawCode": "MED",
+    "timestamp": "2026-10-29T12:01:52.764022-04:00",
+    "address": "200 Block Richardson Place",
+    "extra": {
+      "incidentNumber": "60412",
+      "run_id": "60412",
+      "address": "200 Block Richardson Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC9",
+      "units": "E09,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60412"
+    }
   }
 ]
