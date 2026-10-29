@@ -2594,5 +2594,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60443"
     }
+  },
+  {
+    "runNumber": "60447",
+    "rawCode": "MED",
+    "timestamp": "2026-10-29T15:09:03.145627-04:00",
+    "address": "1700 Block Sharkey Way",
+    "extra": {
+      "incidentNumber": "60447",
+      "run_id": "60447",
+      "address": "1700 Block Sharkey Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,EC9",
+      "units": "E13,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60447"
+    }
   }
 ]
