@@ -4398,5 +4398,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60308"
     }
+  },
+  {
+    "runNumber": "60309",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-28T21:33:01.676805-04:00",
+    "address": "Versailles Road & Garrett Avenue",
+    "extra": {
+      "incidentNumber": "60309",
+      "run_id": "60309",
+      "address": "Versailles Road & Garrett Avenue",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E14,203",
+      "units": "E04,E14,203",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-60309"
+    }
   }
 ]
