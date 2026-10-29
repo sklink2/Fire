@@ -1032,5 +1032,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60372"
     }
+  },
+  {
+    "runNumber": "60374",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-29T08:54:42.312887-04:00",
+    "address": "650 Tower Plz",
+    "extra": {
+      "incidentNumber": "60374",
+      "run_id": "60374",
+      "address": "650 Tower Plz",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E04,E13,L01,203",
+      "units": "E01,E04,E13,L01,203",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-60374"
+    }
   }
 ]
