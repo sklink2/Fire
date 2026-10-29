@@ -1560,5 +1560,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60395"
     }
+  },
+  {
+    "runNumber": "60398",
+    "rawCode": "MED",
+    "timestamp": "2026-10-29T10:55:01.093921-04:00",
+    "address": "100 Block Masterson Station Drive",
+    "extra": {
+      "incidentNumber": "60398",
+      "run_id": "60398",
+      "address": "100 Block Masterson Station Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,EC13,241",
+      "units": "E24,EC13,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-60398"
+    }
   }
 ]
