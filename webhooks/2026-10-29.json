@@ -306,5 +306,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60340"
     }
+  },
+  {
+    "runNumber": "60341",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-10-29T02:07:01.625745-04:00",
+    "address": "6102 Tates Creek Road",
+    "extra": {
+      "incidentNumber": "60341",
+      "run_id": "60341",
+      "address": "6102 Tates Creek Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E22,L07,EC13,202,241,RS1",
+      "units": "E22,L07,EC13,202,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-60341"
+    }
   }
 ]
