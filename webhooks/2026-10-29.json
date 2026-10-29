@@ -2220,5 +2220,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60427"
     }
+  },
+  {
+    "runNumber": "60428",
+    "rawCode": "MED",
+    "timestamp": "2026-10-29T13:38:47.429412-04:00",
+    "address": "1600 Block Mercer Road",
+    "extra": {
+      "incidentNumber": "60428",
+      "run_id": "60428",
+      "address": "1600 Block Mercer Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L03,EC6",
+      "units": "L03,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60428"
+    }
   }
 ]
