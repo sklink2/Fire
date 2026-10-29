@@ -4178,5 +4178,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-60298"
     }
+  },
+  {
+    "runNumber": "60299",
+    "rawCode": "FCAR",
+    "timestamp": "2026-10-28T20:39:32.589839-04:00",
+    "address": "1805 Oxford Circle",
+    "extra": {
+      "incidentNumber": "60299",
+      "run_id": "60299",
+      "address": "1805 Oxford Circle",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L01",
+      "units": "L01",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60299"
+    }
   }
 ]
