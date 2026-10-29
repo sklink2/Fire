@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60437"
     }
+  },
+  {
+    "runNumber": "60436",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-29T14:42:20.792068-04:00",
+    "address": "1253 Marlena Lane",
+    "extra": {
+      "incidentNumber": "60436",
+      "run_id": "60436",
+      "address": "1253 Marlena Lane",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,E24,L03,203",
+      "units": "E10,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-60436"
+    }
   }
 ]
