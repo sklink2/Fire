@@ -4002,5 +4002,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60289"
     }
+  },
+  {
+    "runNumber": "60291",
+    "rawCode": "FSIA",
+    "timestamp": "2026-10-28T20:16:10.336677-04:00",
+    "address": "3460 Campus Way",
+    "extra": {
+      "incidentNumber": "60291",
+      "run_id": "60291",
+      "address": "3460 Campus Way",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,E22,202",
+      "units": "E16,E22,202",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-60291"
+    }
   }
 ]
