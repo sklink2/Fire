@@ -262,5 +262,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-60338"
     }
+  },
+  {
+    "runNumber": "60339",
+    "rawCode": "FMEA",
+    "timestamp": "2026-10-29T01:23:34.645124-04:00",
+    "address": "137 Rose Street",
+    "extra": {
+      "incidentNumber": "60339",
+      "run_id": "60339",
+      "address": "137 Rose Street",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60339"
+    }
   }
 ]
