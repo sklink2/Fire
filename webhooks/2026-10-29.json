@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60399"
     }
+  },
+  {
+    "runNumber": "60401",
+    "rawCode": "MED",
+    "timestamp": "2026-10-29T11:05:04.867569-04:00",
+    "address": "2900 Block Trailwood Lane",
+    "extra": {
+      "incidentNumber": "60401",
+      "run_id": "60401",
+      "address": "2900 Block Trailwood Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "T1,EC12",
+      "units": "T1,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60401"
+    }
   }
 ]
