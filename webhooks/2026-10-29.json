@@ -372,5 +372,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60343"
     }
+  },
+  {
+    "runNumber": "60344",
+    "rawCode": "MED",
+    "timestamp": "2026-10-29T03:07:10.461137-04:00",
+    "address": "1000 Block Claiborne Way",
+    "extra": {
+      "incidentNumber": "60344",
+      "run_id": "60344",
+      "address": "1000 Block Claiborne Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC13",
+      "units": "EC13",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60344"
+    }
   }
 ]
