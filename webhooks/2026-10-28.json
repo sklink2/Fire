@@ -4200,5 +4200,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60299"
     }
+  },
+  {
+    "runNumber": "60300",
+    "rawCode": "MED",
+    "timestamp": "2026-10-28T20:42:52.947149-04:00",
+    "address": "1500 Block Hill View Place",
+    "extra": {
+      "incidentNumber": "60300",
+      "run_id": "60300",
+      "address": "1500 Block Hill View Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2,RS1",
+      "units": "EC2,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60300"
+    }
   }
 ]
