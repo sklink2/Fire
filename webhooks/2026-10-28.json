@@ -4486,5 +4486,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60313"
     }
+  },
+  {
+    "runNumber": "60312",
+    "rawCode": "MED",
+    "timestamp": "2026-10-28T21:53:06.412751-04:00",
+    "address": "2600 Block Kearney Ridge Boulevard",
+    "extra": {
+      "incidentNumber": "60312",
+      "run_id": "60312",
+      "address": "2600 Block Kearney Ridge Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "T1,EC3",
+      "units": "T1,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60312"
+    }
   }
 ]
