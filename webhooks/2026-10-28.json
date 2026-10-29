@@ -4156,5 +4156,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60296"
     }
+  },
+  {
+    "runNumber": "60298",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-28T20:36:12.927535-04:00",
+    "address": "Keeneland Boulevard & Versailles Road",
+    "extra": {
+      "incidentNumber": "60298",
+      "run_id": "60298",
+      "address": "Keeneland Boulevard & Versailles Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,EC10,203",
+      "units": "E13,EC10,203",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-60298"
+    }
   }
 ]
