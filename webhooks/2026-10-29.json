@@ -3430,5 +3430,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60481"
     }
+  },
+  {
+    "runNumber": "60483",
+    "rawCode": "MED",
+    "timestamp": "2026-10-29T17:39:25.784803-04:00",
+    "address": "600 Block Tower Plz",
+    "extra": {
+      "incidentNumber": "60483",
+      "run_id": "60483",
+      "address": "600 Block Tower Plz",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60483"
+    }
   }
 ]
