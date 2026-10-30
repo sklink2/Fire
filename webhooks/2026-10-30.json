@@ -2638,5 +2638,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60659"
     }
+  },
+  {
+    "runNumber": "60660",
+    "rawCode": "FBAS",
+    "timestamp": "2026-10-30T15:56:07.498807-04:00",
+    "address": "117 Hagerman Court",
+    "extra": {
+      "incidentNumber": "60660",
+      "run_id": "60660",
+      "address": "117 Hagerman Court",
+      "rawType": "FBAS",
+      "typeCode": "FBAS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC7,205",
+      "units": "E05,EC7,205",
+      "unitCount": "3",
+      "primaryTopic": "FBAS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-60660"
+    }
   }
 ]
