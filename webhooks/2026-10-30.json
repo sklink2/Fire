@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60617"
     }
+  },
+  {
+    "runNumber": "60618",
+    "rawCode": "MED",
+    "timestamp": "2026-10-30T12:48:56.921252-04:00",
+    "address": "600 Block Northside Drive",
+    "extra": {
+      "incidentNumber": "60618",
+      "run_id": "60618",
+      "address": "600 Block Northside Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60618"
+    }
   }
 ]
