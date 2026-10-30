@@ -3980,5 +3980,27 @@
       "commandUnits": "241,201,204",
       "dedupeKey": "INCIDENT-60720"
     }
+  },
+  {
+    "runNumber": "60719",
+    "rawCode": "FMEA",
+    "timestamp": "2026-10-30T19:30:04.400241-04:00",
+    "address": "1040 Cross Keys Road",
+    "extra": {
+      "incidentNumber": "60719",
+      "run_id": "60719",
+      "address": "1040 Cross Keys Road",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11",
+      "units": "E11",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60719"
+    }
   }
 ]
