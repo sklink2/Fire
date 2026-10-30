@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60556"
     }
+  },
+  {
+    "runNumber": "60555",
+    "rawCode": "MED",
+    "timestamp": "2026-10-30T03:24:17.448042-04:00",
+    "address": "2100 Block Meeting Street",
+    "extra": {
+      "incidentNumber": "60555",
+      "run_id": "60555",
+      "address": "2100 Block Meeting Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60555"
+    }
   }
 ]
