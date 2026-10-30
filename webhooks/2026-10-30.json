@@ -1538,5 +1538,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60608"
     }
+  },
+  {
+    "runNumber": "60609",
+    "rawCode": "MED",
+    "timestamp": "2026-10-30T11:18:44.558728-04:00",
+    "address": "1100 Block Monarch Street",
+    "extra": {
+      "incidentNumber": "60609",
+      "run_id": "60609",
+      "address": "1100 Block Monarch Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60609"
+    }
   }
 ]
