@@ -4134,5 +4134,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60515"
     }
+  },
+  {
+    "runNumber": "60514",
+    "rawCode": "MED",
+    "timestamp": "2026-10-29T20:49:57.077082-04:00",
+    "address": "300 Block The Grange Lane",
+    "extra": {
+      "incidentNumber": "60514",
+      "run_id": "60514",
+      "address": "300 Block The Grange Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60514"
+    }
   }
 ]
