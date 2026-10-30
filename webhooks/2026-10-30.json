@@ -1714,5 +1714,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-60616"
     }
+  },
+  {
+    "runNumber": "60617",
+    "rawCode": "MED",
+    "timestamp": "2026-10-30T12:22:13.403423-04:00",
+    "address": "4000 Block Mooncoin Way",
+    "extra": {
+      "incidentNumber": "60617",
+      "run_id": "60617",
+      "address": "4000 Block Mooncoin Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60617"
+    }
   }
 ]
