@@ -1032,5 +1032,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60581"
     }
+  },
+  {
+    "runNumber": "60585",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-30T08:04:54.782701-04:00",
+    "address": "1045 Brentwood Court",
+    "extra": {
+      "incidentNumber": "60585",
+      "run_id": "60585",
+      "address": "1045 Brentwood Court",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10",
+      "units": "E10",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60585"
+    }
   }
 ]
