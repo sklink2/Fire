@@ -2264,5 +2264,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60643"
     }
+  },
+  {
+    "runNumber": "60642",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-30T14:49:18.125441-04:00",
+    "address": "1021 N Limestone",
+    "extra": {
+      "incidentNumber": "60642",
+      "run_id": "60642",
+      "address": "1021 N Limestone",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E08,L01,205",
+      "units": "E01,E08,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-60642"
+    }
   }
 ]
