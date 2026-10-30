@@ -3892,5 +3892,27 @@
       "commandUnits": "220,205",
       "dedupeKey": "INCIDENT-60716"
     }
+  },
+  {
+    "runNumber": "60715",
+    "rawCode": "MED",
+    "timestamp": "2026-10-30T19:23:19.514744-04:00",
+    "address": "100 Block Loneta Avenue",
+    "extra": {
+      "incidentNumber": "60715",
+      "run_id": "60715",
+      "address": "100 Block Loneta Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC3",
+      "units": "E01,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60715"
+    }
   }
 ]
