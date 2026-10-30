@@ -4420,5 +4420,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60527"
     }
+  },
+  {
+    "runNumber": "60526",
+    "rawCode": "MED",
+    "timestamp": "2026-10-29T22:16:50.655142-04:00",
+    "address": "300 Block S Martin Luther King Boulevard",
+    "extra": {
+      "incidentNumber": "60526",
+      "run_id": "60526",
+      "address": "300 Block S Martin Luther King Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,EC10",
+      "units": "E06,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60526"
+    }
   }
 ]
