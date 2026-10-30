@@ -3562,5 +3562,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60701"
     }
+  },
+  {
+    "runNumber": "60700",
+    "rawCode": "MED",
+    "timestamp": "2026-10-30T18:29:47.360046-04:00",
+    "address": "200 Block Sherman Avenue",
+    "extra": {
+      "incidentNumber": "60700",
+      "run_id": "60700",
+      "address": "200 Block Sherman Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC1",
+      "units": "E09,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60700"
+    }
   }
 ]
