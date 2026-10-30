@@ -3958,5 +3958,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60721"
     }
+  },
+  {
+    "runNumber": "60720",
+    "rawCode": "FSTR",
+    "timestamp": "2026-10-30T19:29:58.659154-04:00",
+    "address": "8650 Durbin Lane",
+    "extra": {
+      "incidentNumber": "60720",
+      "run_id": "60720",
+      "address": "8650 Durbin Lane",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E16,E17,E18,E21,L02,L06,T1,EC11,EC2,201,204,241,RS1",
+      "units": "E08,E16,E17,E18,E21,L02,L06,T1,EC11,EC2,201,204,241,RS1",
+      "unitCount": "14",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,201,204",
+      "dedupeKey": "INCIDENT-60720"
+    }
   }
 ]
