@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60648"
     }
+  },
+  {
+    "runNumber": "60651",
+    "rawCode": "FCAR",
+    "timestamp": "2026-10-30T15:19:21.302746-04:00",
+    "address": "3416 Freeland Drive",
+    "extra": {
+      "incidentNumber": "60651",
+      "run_id": "60651",
+      "address": "3416 Freeland Drive",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L07",
+      "units": "L07",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60651"
+    }
   }
 ]
