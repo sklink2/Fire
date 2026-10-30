@@ -1912,5 +1912,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60627"
     }
+  },
+  {
+    "runNumber": "60626",
+    "rawCode": "FELF",
+    "timestamp": "2026-10-30T13:19:03.811590-04:00",
+    "address": "3401 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "60626",
+      "run_id": "60626",
+      "address": "3401 Nicholasville Road",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E15,L04,204",
+      "units": "E07,E15,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-60626"
+    }
   }
 ]
