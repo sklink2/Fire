@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60712"
     }
+  },
+  {
+    "runNumber": "60711",
+    "rawCode": "MED",
+    "timestamp": "2026-10-30T19:06:33.884468-04:00",
+    "address": "600 Block Cecil Way",
+    "extra": {
+      "incidentNumber": "60711",
+      "run_id": "60711",
+      "address": "600 Block Cecil Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,EC5",
+      "units": "E20,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60711"
+    }
   }
 ]
