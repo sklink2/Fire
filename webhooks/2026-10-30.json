@@ -108,5 +108,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60545"
     }
+  },
+  {
+    "runNumber": "60544",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-30T00:57:14.539433-04:00",
+    "address": "1601 Mercer Road",
+    "extra": {
+      "incidentNumber": "60544",
+      "run_id": "60544",
+      "address": "1601 Mercer Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,E24,L03,203",
+      "units": "E10,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-60544"
+    }
   }
 ]
