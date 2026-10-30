@@ -3738,5 +3738,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60709"
     }
+  },
+  {
+    "runNumber": "60708",
+    "rawCode": "MED",
+    "timestamp": "2026-10-30T18:59:53.064811-04:00",
+    "address": "400 Block Morrison Avenue",
+    "extra": {
+      "incidentNumber": "60708",
+      "run_id": "60708",
+      "address": "400 Block Morrison Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,EC3",
+      "units": "E04,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60708"
+    }
   }
 ]
