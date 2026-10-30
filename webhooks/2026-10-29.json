@@ -4486,5 +4486,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60529"
     }
+  },
+  {
+    "runNumber": "60530",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-29T22:40:13.154094-04:00",
+    "address": "E Fifth Street & N Limestone",
+    "extra": {
+      "incidentNumber": "60530",
+      "run_id": "60530",
+      "address": "E Fifth Street & N Limestone",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L01,EC3",
+      "units": "L01,EC3",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60530"
+    }
   }
 ]
