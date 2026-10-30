@@ -3144,5 +3144,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60680"
     }
+  },
+  {
+    "runNumber": "60669",
+    "rawCode": "FSTRW",
+    "timestamp": "2026-10-30T17:22:56.734176-04:00",
+    "address": "1968 Edgeworth Drive",
+    "extra": {
+      "incidentNumber": "60669",
+      "run_id": "60669",
+      "address": "1968 Edgeworth Drive",
+      "rawType": "FSTRW",
+      "typeCode": "FSTRW",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E08,E09,E10,L03,L05,EC8,201,200,RS1,432",
+      "units": "E02,E08,E09,E10,L03,L05,EC8,201,200,RS1,432",
+      "unitCount": "11",
+      "primaryTopic": "FSTRW",
+      "commandUnits": "200,201",
+      "dedupeKey": "INCIDENT-60669"
+    }
   }
 ]
