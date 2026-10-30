@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60622"
     }
+  },
+  {
+    "runNumber": "60623",
+    "rawCode": "MED",
+    "timestamp": "2026-10-30T13:02:18.640604-04:00",
+    "address": "300 Block Dudley Road",
+    "extra": {
+      "incidentNumber": "60623",
+      "run_id": "60623",
+      "address": "300 Block Dudley Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60623"
+    }
   }
 ]
