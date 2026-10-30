@@ -1758,5 +1758,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60618"
     }
+  },
+  {
+    "runNumber": "60621",
+    "rawCode": "MED",
+    "timestamp": "2026-10-30T12:55:39.131699-04:00",
+    "address": "2200 Block War Admiral Way",
+    "extra": {
+      "incidentNumber": "60621",
+      "run_id": "60621",
+      "address": "2200 Block War Admiral Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC11",
+      "units": "E02,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60621"
+    }
   }
 ]
