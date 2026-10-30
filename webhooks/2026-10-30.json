@@ -3166,5 +3166,27 @@
       "commandUnits": "200,201",
       "dedupeKey": "INCIDENT-60669"
     }
+  },
+  {
+    "runNumber": "60684",
+    "rawCode": "FDUM",
+    "timestamp": "2026-10-30T17:33:00.073315-04:00",
+    "address": "E Maxwell Street & S Limestone",
+    "extra": {
+      "incidentNumber": "60684",
+      "run_id": "60684",
+      "address": "E Maxwell Street & S Limestone",
+      "rawType": "FDUM",
+      "typeCode": "FDUM",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06",
+      "units": "E06",
+      "unitCount": "1",
+      "primaryTopic": "FDUM",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60684"
+    }
   }
 ]
