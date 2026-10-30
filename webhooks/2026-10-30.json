@@ -482,5 +482,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60562"
     }
+  },
+  {
+    "runNumber": "60561",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-30T04:54:33.332701-04:00",
+    "address": "E Main Street & N Ashland Avenue",
+    "extra": {
+      "incidentNumber": "60561",
+      "run_id": "60561",
+      "address": "E Main Street & N Ashland Avenue",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,EC1",
+      "units": "E05,EC1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60561"
+    }
   }
 ]
