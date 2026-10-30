@@ -1274,5 +1274,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60594"
     }
+  },
+  {
+    "runNumber": "60596",
+    "rawCode": "MED",
+    "timestamp": "2026-10-30T09:45:08.523845-04:00",
+    "address": "3300 Block Sweet Clover Lane",
+    "extra": {
+      "incidentNumber": "60596",
+      "run_id": "60596",
+      "address": "3300 Block Sweet Clover Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60596"
+    }
   }
 ]
