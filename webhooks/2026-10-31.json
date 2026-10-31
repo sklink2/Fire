@@ -812,5 +812,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60803"
     }
+  },
+  {
+    "runNumber": "60804",
+    "rawCode": "FSTR",
+    "timestamp": "2026-10-31T03:14:28.852598-04:00",
+    "address": "2604 Mable Lane",
+    "extra": {
+      "incidentNumber": "60804",
+      "run_id": "60804",
+      "address": "2604 Mable Lane",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E10,E13,E24,L01,L03,EC3,EC6,203,205,220,241,RS1",
+      "units": "E08,E10,E13,E24,L01,L03,EC3,EC6,203,205,220,241,RS1",
+      "unitCount": "13",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,203,205",
+      "dedupeKey": "INCIDENT-60804"
+    }
   }
 ]
