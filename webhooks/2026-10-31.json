@@ -1604,5 +1604,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60840"
     }
+  },
+  {
+    "runNumber": "60839",
+    "rawCode": "FINV",
+    "timestamp": "2026-10-31T08:11:52.340997-04:00",
+    "address": "3424 Sutherland Drive",
+    "extra": {
+      "incidentNumber": "60839",
+      "run_id": "60839",
+      "address": "3424 Sutherland Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,L07",
+      "units": "E07,L07",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60839"
+    }
   }
 ]
