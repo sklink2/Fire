@@ -856,5 +856,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60805"
     }
+  },
+  {
+    "runNumber": "60806",
+    "rawCode": "MED",
+    "timestamp": "2026-10-31T03:21:07.543665-04:00",
+    "address": "1100 Block University Drive",
+    "extra": {
+      "incidentNumber": "60806",
+      "run_id": "60806",
+      "address": "1100 Block University Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,EC10",
+      "units": "E06,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60806"
+    }
   }
 ]
