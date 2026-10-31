@@ -262,5 +262,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-60779"
     }
+  },
+  {
+    "runNumber": "60778",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-31T00:47:25.870826-04:00",
+    "address": "E New Circle Road & E New Circle",
+    "extra": {
+      "incidentNumber": "60778",
+      "run_id": "60778",
+      "address": "E New Circle Road & E New Circle",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC13",
+      "units": "E09,EC13",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60778"
+    }
   }
 ]
