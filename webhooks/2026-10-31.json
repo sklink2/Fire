@@ -2792,5 +2792,27 @@
       "commandUnits": "220,203,204",
       "dedupeKey": "INCIDENT-60892"
     }
+  },
+  {
+    "runNumber": "60895",
+    "rawCode": "MED",
+    "timestamp": "2026-10-31T13:49:25.579705-04:00",
+    "address": "5000 Block Ivybridge Drive",
+    "extra": {
+      "incidentNumber": "60895",
+      "run_id": "60895",
+      "address": "5000 Block Ivybridge Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E22,EC5,CRT1",
+      "units": "E22,EC5,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60895"
+    }
   }
 ]
