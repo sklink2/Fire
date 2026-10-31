@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60797"
     }
+  },
+  {
+    "runNumber": "60798",
+    "rawCode": "MED",
+    "timestamp": "2026-10-31T02:57:42.778326-04:00",
+    "address": "400 Block Park Avenue",
+    "extra": {
+      "incidentNumber": "60798",
+      "run_id": "60798",
+      "address": "400 Block Park Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC7",
+      "units": "E05,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60798"
+    }
   }
 ]
