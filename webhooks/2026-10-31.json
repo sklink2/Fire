@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60890"
     }
+  },
+  {
+    "runNumber": "60889",
+    "rawCode": "FSTR",
+    "timestamp": "2026-10-31T13:36:03.009780-04:00",
+    "address": "2710 Chant Court",
+    "extra": {
+      "incidentNumber": "60889",
+      "run_id": "60889",
+      "address": "2710 Chant Court",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E09,E16,E21,L05,L06,EC11,201,205,220,241,RS1",
+      "units": "E07,E09,E16,E21,L05,L06,EC11,201,205,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,205",
+      "dedupeKey": "INCIDENT-60889"
+    }
   }
 ]
