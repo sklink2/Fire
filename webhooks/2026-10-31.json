@@ -4178,5 +4178,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60956"
     }
+  },
+  {
+    "runNumber": "60955",
+    "rawCode": "MED",
+    "timestamp": "2026-10-31T18:23:29.890468-04:00",
+    "address": "100 Block Moore Drive",
+    "extra": {
+      "incidentNumber": "60955",
+      "run_id": "60955",
+      "address": "100 Block Moore Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC13",
+      "units": "E15,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60955"
+    }
   }
 ]
