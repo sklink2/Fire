@@ -3144,5 +3144,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60910"
     }
+  },
+  {
+    "runNumber": "60911",
+    "rawCode": "MED",
+    "timestamp": "2026-10-31T15:36:21.095258-04:00",
+    "address": "700 Block Pioneer Lane",
+    "extra": {
+      "incidentNumber": "60911",
+      "run_id": "60911",
+      "address": "700 Block Pioneer Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60911"
+    }
   }
 ]
