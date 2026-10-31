@@ -1032,5 +1032,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60813"
     }
+  },
+  {
+    "runNumber": "60809",
+    "rawCode": "MED",
+    "timestamp": "2026-10-31T04:07:55.992397-04:00",
+    "address": "500 Block Sheridan Drive",
+    "extra": {
+      "incidentNumber": "60809",
+      "run_id": "60809",
+      "address": "500 Block Sheridan Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,EC12",
+      "units": "E12,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60809"
+    }
   }
 ]
