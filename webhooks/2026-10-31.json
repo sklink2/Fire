@@ -3254,5 +3254,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60916"
     }
+  },
+  {
+    "runNumber": "60915",
+    "rawCode": "MED",
+    "timestamp": "2026-10-31T15:56:26.606994-04:00",
+    "address": "1200 Block Venetian Circle",
+    "extra": {
+      "incidentNumber": "60915",
+      "run_id": "60915",
+      "address": "1200 Block Venetian Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60915"
+    }
   }
 ]
