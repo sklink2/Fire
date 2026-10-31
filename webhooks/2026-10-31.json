@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60799"
     }
+  },
+  {
+    "runNumber": "60802",
+    "rawCode": "MED",
+    "timestamp": "2026-10-31T03:04:24.116669-04:00",
+    "address": "800 Block S Broadway",
+    "extra": {
+      "incidentNumber": "60802",
+      "run_id": "60802",
+      "address": "800 Block S Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1,EC10",
+      "units": "EC1,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60802"
+    }
   }
 ]
