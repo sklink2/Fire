@@ -4200,5 +4200,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60729"
     }
+  },
+  {
+    "runNumber": "60730",
+    "rawCode": "MED",
+    "timestamp": "2026-10-30T21:00:10.710663-04:00",
+    "address": "W Second Street & Market Street",
+    "extra": {
+      "incidentNumber": "60730",
+      "run_id": "60730",
+      "address": "W Second Street & Market Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60730"
+    }
   }
 ]
