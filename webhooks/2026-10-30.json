@@ -4684,5 +4684,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60750"
     }
+  },
+  {
+    "runNumber": "60751",
+    "rawCode": "MED",
+    "timestamp": "2026-10-30T22:33:41.938896-04:00",
+    "address": "100 Block Pine Street",
+    "extra": {
+      "incidentNumber": "60751",
+      "run_id": "60751",
+      "address": "100 Block Pine Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,EC10",
+      "units": "E06,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60751"
+    }
   }
 ]
