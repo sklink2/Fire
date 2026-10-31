@@ -4398,5 +4398,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60964"
     }
+  },
+  {
+    "runNumber": "60966",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-31T19:16:55.928604-04:00",
+    "address": "Sir Barton Way & Man O War Blv",
+    "extra": {
+      "incidentNumber": "60966",
+      "run_id": "60966",
+      "address": "Sir Barton Way & Man O War Blv",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L06,EC2,241",
+      "units": "L06,EC2,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-60966"
+    }
   }
 ]
