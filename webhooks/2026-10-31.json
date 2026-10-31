@@ -988,5 +988,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-60811"
     }
+  },
+  {
+    "runNumber": "60812",
+    "rawCode": "MED",
+    "timestamp": "2026-10-31T04:04:34.154845-04:00",
+    "address": "100 Block Avenue Of Champions",
+    "extra": {
+      "incidentNumber": "60812",
+      "run_id": "60812",
+      "address": "100 Block Avenue Of Champions",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,EC10",
+      "units": "E06,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60812"
+    }
   }
 ]
