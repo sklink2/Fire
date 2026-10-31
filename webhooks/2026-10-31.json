@@ -4530,5 +4530,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60971"
     }
+  },
+  {
+    "runNumber": "60972",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-31T19:50:19.419253-04:00",
+    "address": "935 Red Mile Road",
+    "extra": {
+      "incidentNumber": "60972",
+      "run_id": "60972",
+      "address": "935 Red Mile Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E11,L02,204",
+      "units": "E06,E11,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-60972"
+    }
   }
 ]
