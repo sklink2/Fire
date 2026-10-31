@@ -394,5 +394,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60785"
     }
+  },
+  {
+    "runNumber": "60786",
+    "rawCode": "MED",
+    "timestamp": "2026-10-31T01:50:51.236413-04:00",
+    "address": "300 Block Hilltop Avenue",
+    "extra": {
+      "incidentNumber": "60786",
+      "run_id": "60786",
+      "address": "300 Block Hilltop Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC12,241",
+      "units": "E05,EC12,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-60786"
+    }
   }
 ]
