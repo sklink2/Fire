@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60801"
     }
+  },
+  {
+    "runNumber": "60800",
+    "rawCode": "MED",
+    "timestamp": "2026-10-31T03:04:27.335009-04:00",
+    "address": "500 Block Kildare Court",
+    "extra": {
+      "incidentNumber": "60800",
+      "run_id": "60800",
+      "address": "500 Block Kildare Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60800"
+    }
   }
 ]
