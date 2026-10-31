@@ -1472,5 +1472,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60832"
     }
+  },
+  {
+    "runNumber": "60834",
+    "rawCode": "FDET",
+    "timestamp": "2026-10-31T07:25:02.809354-04:00",
+    "address": "3439 Old Clubhouse Lane",
+    "extra": {
+      "incidentNumber": "60834",
+      "run_id": "60834",
+      "address": "3439 Old Clubhouse Lane",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,202",
+      "units": "E10,202",
+      "unitCount": "2",
+      "primaryTopic": "FDET",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-60834"
+    }
   }
 ]
