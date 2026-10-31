@@ -2924,5 +2924,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60900"
     }
+  },
+  {
+    "runNumber": "60901",
+    "rawCode": "MED",
+    "timestamp": "2026-10-31T14:42:52.987018-04:00",
+    "address": "200 Block Bolivar Street",
+    "extra": {
+      "incidentNumber": "60901",
+      "run_id": "60901",
+      "address": "200 Block Bolivar Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,EC10",
+      "units": "E06,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60901"
+    }
   }
 ]
