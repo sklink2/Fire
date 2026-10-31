@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60872"
     }
+  },
+  {
+    "runNumber": "60873",
+    "rawCode": "FVEA",
+    "timestamp": "2026-10-31T12:22:29.414333-04:00",
+    "address": "Jefferson Street & W Third Street",
+    "extra": {
+      "incidentNumber": "60873",
+      "run_id": "60873",
+      "address": "Jefferson Street & W Third Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60873"
+    }
   }
 ]
