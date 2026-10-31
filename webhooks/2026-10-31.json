@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60878"
     }
+  },
+  {
+    "runNumber": "60879",
+    "rawCode": "MED",
+    "timestamp": "2026-10-31T12:49:14.323459-04:00",
+    "address": "500 Block Georgetown Street",
+    "extra": {
+      "incidentNumber": "60879",
+      "run_id": "60879",
+      "address": "500 Block Georgetown Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L03,EC6",
+      "units": "L03,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60879"
+    }
   }
 ]
