@@ -2814,5 +2814,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60895"
     }
+  },
+  {
+    "runNumber": "60896",
+    "rawCode": "MED",
+    "timestamp": "2026-10-31T13:52:45.494602-04:00",
+    "address": "1800 Block Alysheba Way",
+    "extra": {
+      "incidentNumber": "60896",
+      "run_id": "60896",
+      "address": "1800 Block Alysheba Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC11",
+      "units": "E16,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60896"
+    }
   }
 ]
