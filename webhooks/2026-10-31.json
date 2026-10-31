@@ -2770,5 +2770,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60893"
     }
+  },
+  {
+    "runNumber": "60892",
+    "rawCode": "FSTR",
+    "timestamp": "2026-10-31T13:46:10.221372-04:00",
+    "address": "448 Rookwood Parkway",
+    "extra": {
+      "incidentNumber": "60892",
+      "run_id": "60892",
+      "address": "448 Rookwood Parkway",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E04,E08,E13,L01,L02,EC3,203,204,220",
+      "units": "E01,E04,E08,E13,L01,L02,EC3,203,204,220",
+      "unitCount": "10",
+      "primaryTopic": "FSTR",
+      "commandUnits": "220,203,204",
+      "dedupeKey": "INCIDENT-60892"
+    }
   }
 ]
