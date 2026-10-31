@@ -4904,5 +4904,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60760"
     }
+  },
+  {
+    "runNumber": "60759",
+    "rawCode": "FASS",
+    "timestamp": "2026-10-30T22:57:07.263640-04:00",
+    "address": "150 N Eagle Creek Drive",
+    "extra": {
+      "incidentNumber": "60759",
+      "run_id": "60759",
+      "address": "150 N Eagle Creek Drive",
+      "rawType": "FASS",
+      "typeCode": "FASS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "FASS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60759"
+    }
   }
 ]
