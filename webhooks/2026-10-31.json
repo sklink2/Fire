@@ -1186,5 +1186,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-60819"
     }
+  },
+  {
+    "runNumber": "60820",
+    "rawCode": "MED",
+    "timestamp": "2026-10-31T04:51:21.263251-04:00",
+    "address": "400 Block Channing Way",
+    "extra": {
+      "incidentNumber": "60820",
+      "run_id": "60820",
+      "address": "400 Block Channing Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC2",
+      "units": "E16,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60820"
+    }
   }
 ]
