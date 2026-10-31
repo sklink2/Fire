@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60796"
     }
+  },
+  {
+    "runNumber": "60797",
+    "rawCode": "MED",
+    "timestamp": "2026-10-31T02:41:01.290731-04:00",
+    "address": "200 Block W Main Street",
+    "extra": {
+      "incidentNumber": "60797",
+      "run_id": "60797",
+      "address": "200 Block W Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60797"
+    }
   }
 ]
