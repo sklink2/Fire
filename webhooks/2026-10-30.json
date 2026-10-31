@@ -4728,5 +4728,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60752"
     }
+  },
+  {
+    "runNumber": "60754",
+    "rawCode": "MED",
+    "timestamp": "2026-10-30T22:40:23.897967-04:00",
+    "address": "500 Block Freeman Drive",
+    "extra": {
+      "incidentNumber": "60754",
+      "run_id": "60754",
+      "address": "500 Block Freeman Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC6",
+      "units": "E08,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60754"
+    }
   }
 ]
