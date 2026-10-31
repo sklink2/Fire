@@ -152,5 +152,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-60771"
     }
+  },
+  {
+    "runNumber": "60774",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-31T00:30:42.015609-04:00",
+    "address": "441 Coventry Court",
+    "extra": {
+      "incidentNumber": "60774",
+      "run_id": "60774",
+      "address": "441 Coventry Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,E15,L04,204",
+      "units": "E12,E15,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-60774"
+    }
   }
 ]
