@@ -1890,5 +1890,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60852"
     }
+  },
+  {
+    "runNumber": "60853",
+    "rawCode": "MED",
+    "timestamp": "2026-10-31T09:58:47.973118-04:00",
+    "address": "3200 Block Bowie Drive",
+    "extra": {
+      "incidentNumber": "60853",
+      "run_id": "60853",
+      "address": "3200 Block Bowie Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60853"
+    }
   }
 ]
