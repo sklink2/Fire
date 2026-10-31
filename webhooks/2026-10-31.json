@@ -218,5 +218,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-60777"
     }
+  },
+  {
+    "runNumber": "60776",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-10-31T00:37:23.859981-04:00",
+    "address": "3827 Northampton Drive",
+    "extra": {
+      "incidentNumber": "60776",
+      "run_id": "60776",
+      "address": "3827 Northampton Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22",
+      "units": "E22",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60776"
+    }
   }
 ]
