@@ -1362,5 +1362,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61091"
     }
+  },
+  {
+    "runNumber": "61093",
+    "rawCode": "MED",
+    "timestamp": "2026-11-01T08:09:01.500489-05:00",
+    "address": "600 Block Camino Drive",
+    "extra": {
+      "incidentNumber": "61093",
+      "run_id": "61093",
+      "address": "600 Block Camino Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61093"
+    }
   }
 ]
