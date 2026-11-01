@@ -5212,5 +5212,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61002"
     }
+  },
+  {
+    "runNumber": "61001",
+    "rawCode": "MED",
+    "timestamp": "2026-10-31T22:20:41.394462-04:00",
+    "address": "2500 Block Walnut Grove Lane",
+    "extra": {
+      "incidentNumber": "61001",
+      "run_id": "61001",
+      "address": "2500 Block Walnut Grove Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61001"
+    }
   }
 ]
