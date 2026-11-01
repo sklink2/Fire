@@ -2594,5 +2594,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-61146"
     }
+  },
+  {
+    "runNumber": "61147",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-01T13:46:33.085290-05:00",
+    "address": "1301 Centre Parkway",
+    "extra": {
+      "incidentNumber": "61147",
+      "run_id": "61147",
+      "address": "1301 Centre Parkway",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,E22,L04,204",
+      "units": "E16,E22,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-61147"
+    }
   }
 ]
