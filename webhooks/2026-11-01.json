@@ -1274,5 +1274,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61088"
     }
+  },
+  {
+    "runNumber": "61090",
+    "rawCode": "MED",
+    "timestamp": "2026-11-01T07:28:56.591436-05:00",
+    "address": "1000 Block Merrick Drive",
+    "extra": {
+      "incidentNumber": "61090",
+      "run_id": "61090",
+      "address": "1000 Block Merrick Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61090"
+    }
   }
 ]
