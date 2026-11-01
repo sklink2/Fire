@@ -5300,5 +5300,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61004"
     }
+  },
+  {
+    "runNumber": "61005",
+    "rawCode": "MED",
+    "timestamp": "2026-10-31T22:37:22.726482-04:00",
+    "address": "2800 Block Yellowstone Parkway",
+    "extra": {
+      "incidentNumber": "61005",
+      "run_id": "61005",
+      "address": "2800 Block Yellowstone Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC1",
+      "units": "E16,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61005"
+    }
   }
 ]
