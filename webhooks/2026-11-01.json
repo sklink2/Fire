@@ -2154,5 +2154,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61127"
     }
+  },
+  {
+    "runNumber": "61128",
+    "rawCode": "MED",
+    "timestamp": "2026-11-01T12:23:00.665945-05:00",
+    "address": "2600 Block Quincy Court",
+    "extra": {
+      "incidentNumber": "61128",
+      "run_id": "61128",
+      "address": "2600 Block Quincy Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61128"
+    }
   }
 ]
