@@ -3562,5 +3562,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-61191"
     }
+  },
+  {
+    "runNumber": "61190",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-11-01T17:50:32.929011-05:00",
+    "address": "274 Mcconnells Trce",
+    "extra": {
+      "incidentNumber": "61190",
+      "run_id": "61190",
+      "address": "274 Mcconnells Trce",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24",
+      "units": "E24",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61190"
+    }
   }
 ]
