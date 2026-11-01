@@ -4728,5 +4728,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60981"
     }
+  },
+  {
+    "runNumber": "60980",
+    "rawCode": "FSMO",
+    "timestamp": "2026-10-31T20:43:49.585251-04:00",
+    "address": "431 Rogers Road",
+    "extra": {
+      "incidentNumber": "60980",
+      "run_id": "60980",
+      "address": "431 Rogers Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E10,L03,201",
+      "units": "E08,E10,L03,201",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-60980"
+    }
   }
 ]
