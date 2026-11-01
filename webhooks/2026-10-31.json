@@ -4992,5 +4992,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60990"
     }
+  },
+  {
+    "runNumber": "60992",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-31T21:43:54.868405-04:00",
+    "address": "1045 Turnbridge Road",
+    "extra": {
+      "incidentNumber": "60992",
+      "run_id": "60992",
+      "address": "1045 Turnbridge Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,E22,L07,EC13,202,220",
+      "units": "E16,E22,L07,EC13,202,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-60992"
+    }
   }
 ]
