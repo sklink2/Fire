@@ -5014,5 +5014,27 @@
       "commandUnits": "220,202",
       "dedupeKey": "INCIDENT-60992"
     }
+  },
+  {
+    "runNumber": "60993",
+    "rawCode": "MED",
+    "timestamp": "2026-10-31T21:50:34.708118-04:00",
+    "address": "300 Block Taylor Drive",
+    "extra": {
+      "incidentNumber": "60993",
+      "run_id": "60993",
+      "address": "300 Block Taylor Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,EC6,CRT1",
+      "units": "E13,EC6,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60993"
+    }
   }
 ]
