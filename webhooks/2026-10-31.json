@@ -5652,5 +5652,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61020"
     }
+  },
+  {
+    "runNumber": "61021",
+    "rawCode": "FNGL",
+    "timestamp": "2026-10-31T23:40:54.079687-04:00",
+    "address": "955 Tarr Trce",
+    "extra": {
+      "incidentNumber": "61021",
+      "run_id": "61021",
+      "address": "955 Tarr Trce",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E06,L02,EC7,203,220",
+      "units": "E04,E06,L02,EC7,203,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,203",
+      "dedupeKey": "INCIDENT-61021"
+    }
   }
 ]
