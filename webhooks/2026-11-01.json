@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61104"
     }
+  },
+  {
+    "runNumber": "61105",
+    "rawCode": "MED",
+    "timestamp": "2026-11-01T09:25:54.823555-05:00",
+    "address": "600 Block Estrella Drive",
+    "extra": {
+      "incidentNumber": "61105",
+      "run_id": "61105",
+      "address": "600 Block Estrella Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,EC6,241",
+      "units": "E24,EC6,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-61105"
+    }
   }
 ]
