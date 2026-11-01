@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61134"
     }
+  },
+  {
+    "runNumber": "61135",
+    "rawCode": "MED",
+    "timestamp": "2026-11-01T13:03:05.110299-05:00",
+    "address": "100 Block W Maxwell Street",
+    "extra": {
+      "incidentNumber": "61135",
+      "run_id": "61135",
+      "address": "100 Block W Maxwell Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61135"
+    }
   }
 ]
