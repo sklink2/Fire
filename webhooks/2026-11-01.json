@@ -1318,5 +1318,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61089"
     }
+  },
+  {
+    "runNumber": "61092",
+    "rawCode": "MED",
+    "timestamp": "2026-11-01T08:05:41.044313-05:00",
+    "address": "3800 Block Wentworth Place",
+    "extra": {
+      "incidentNumber": "61092",
+      "run_id": "61092",
+      "address": "3800 Block Wentworth Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61092"
+    }
   }
 ]
