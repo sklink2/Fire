@@ -5608,5 +5608,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61018"
     }
+  },
+  {
+    "runNumber": "61019",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-10-31T23:24:09.710604-04:00",
+    "address": "W Main Street & N Mill Street",
+    "extra": {
+      "incidentNumber": "61019",
+      "run_id": "61019",
+      "address": "W Main Street & N Mill Street",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,L01,EC4,EC8,205,RS1",
+      "units": "E01,L01,EC4,EC8,205,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-61019"
+    }
   }
 ]
