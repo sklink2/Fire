@@ -2924,5 +2924,27 @@
       "commandUnits": "220,202",
       "dedupeKey": "INCIDENT-61161"
     }
+  },
+  {
+    "runNumber": "61162",
+    "rawCode": "MED",
+    "timestamp": "2026-11-01T14:43:21.312117-05:00",
+    "address": "300 Block E Second Street",
+    "extra": {
+      "incidentNumber": "61162",
+      "run_id": "61162",
+      "address": "300 Block E Second Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61162"
+    }
   }
 ]
