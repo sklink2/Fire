@@ -4904,5 +4904,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-60986"
     }
+  },
+  {
+    "runNumber": "60988",
+    "rawCode": "MED",
+    "timestamp": "2026-10-31T21:03:49.353257-04:00",
+    "address": "2000 Block Blackhorse Lane",
+    "extra": {
+      "incidentNumber": "60988",
+      "run_id": "60988",
+      "address": "2000 Block Blackhorse Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC5",
+      "units": "E20,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-60988"
+    }
   }
 ]
