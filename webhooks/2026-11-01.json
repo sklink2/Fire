@@ -3782,5 +3782,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-61200"
     }
+  },
+  {
+    "runNumber": "61201",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-01T18:50:39.339802-05:00",
+    "address": "369 Mulberry Drive",
+    "extra": {
+      "incidentNumber": "61201",
+      "run_id": "61201",
+      "address": "369 Mulberry Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E09,L05,EC2,201,220",
+      "units": "E02,E09,L05,EC2,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-61201"
+    }
   }
 ]
