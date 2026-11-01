@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61111"
     }
+  },
+  {
+    "runNumber": "61113",
+    "rawCode": "FSTR",
+    "timestamp": "2026-11-01T10:06:01.272156-05:00",
+    "address": "757 Wyndham Hills Drive",
+    "extra": {
+      "incidentNumber": "61113",
+      "run_id": "61113",
+      "address": "757 Wyndham Hills Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,E20,E22,241",
+      "units": "E15,E20,E22,241",
+      "unitCount": "4",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-61113"
+    }
   }
 ]
