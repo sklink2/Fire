@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61115"
     }
+  },
+  {
+    "runNumber": "61114",
+    "rawCode": "MED",
+    "timestamp": "2026-11-01T10:16:05.922858-05:00",
+    "address": "700 Block Dolan Lane",
+    "extra": {
+      "incidentNumber": "61114",
+      "run_id": "61114",
+      "address": "700 Block Dolan Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L03,EC5",
+      "units": "L03,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61114"
+    }
   }
 ]
