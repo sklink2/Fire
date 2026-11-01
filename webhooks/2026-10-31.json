@@ -5432,5 +5432,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61009"
     }
+  },
+  {
+    "runNumber": "61011",
+    "rawCode": "MED",
+    "timestamp": "2026-10-31T22:54:04.644828-04:00",
+    "address": "500 Block Emerson Drive",
+    "extra": {
+      "incidentNumber": "61011",
+      "run_id": "61011",
+      "address": "500 Block Emerson Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61011"
+    }
   }
 ]
