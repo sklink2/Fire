@@ -5476,5 +5476,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61012"
     }
+  },
+  {
+    "runNumber": "61013",
+    "rawCode": "MED",
+    "timestamp": "2026-10-31T23:00:45.934167-04:00",
+    "address": "Yellowstone Parkway & Sterlington",
+    "extra": {
+      "incidentNumber": "61013",
+      "run_id": "61013",
+      "address": "Yellowstone Parkway & Sterlington",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC21,EC3",
+      "units": "E16,EC21,EC3",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61013"
+    }
   }
 ]
