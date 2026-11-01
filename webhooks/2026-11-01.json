@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61102"
     }
+  },
+  {
+    "runNumber": "61103",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-01T09:15:51.919465-05:00",
+    "address": "944 Lily Drive",
+    "extra": {
+      "incidentNumber": "61103",
+      "run_id": "61103",
+      "address": "944 Lily Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,E20,L04,204",
+      "units": "E14,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-61103"
+    }
   }
 ]
