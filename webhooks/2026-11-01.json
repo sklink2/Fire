@@ -1802,5 +1802,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-61113"
     }
+  },
+  {
+    "runNumber": "61112",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-01T10:06:03.318431-05:00",
+    "address": "N 75 Ramp & N Broadway",
+    "extra": {
+      "incidentNumber": "61112",
+      "run_id": "61112",
+      "address": "N 75 Ramp & N Broadway",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E13,EC2",
+      "units": "E01,E13,EC2",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61112"
+    }
   }
 ]
