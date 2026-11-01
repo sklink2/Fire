@@ -4882,5 +4882,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-60987"
     }
+  },
+  {
+    "runNumber": "60986",
+    "rawCode": "FPRT",
+    "timestamp": "2026-10-31T21:00:31.870823-04:00",
+    "address": "3475 Spurr Road",
+    "extra": {
+      "incidentNumber": "60986",
+      "run_id": "60986",
+      "address": "3475 Spurr Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,E24,L03,203",
+      "units": "E10,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-60986"
+    }
   }
 ]
