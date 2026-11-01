@@ -1648,5 +1648,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-61105"
     }
+  },
+  {
+    "runNumber": "61107",
+    "rawCode": "MED",
+    "timestamp": "2026-11-01T09:32:34.813676-05:00",
+    "address": "300 Block Waller Avenue",
+    "extra": {
+      "incidentNumber": "61107",
+      "run_id": "61107",
+      "address": "300 Block Waller Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC7",
+      "units": "EC7",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61107"
+    }
   }
 ]
