@@ -3100,5 +3100,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61388"
     }
+  },
+  {
+    "runNumber": "61390",
+    "rawCode": "MED",
+    "timestamp": "2026-11-02T15:20:23.516731-05:00",
+    "address": "2000 Block Gainesville Court",
+    "extra": {
+      "incidentNumber": "61390",
+      "run_id": "61390",
+      "address": "2000 Block Gainesville Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01,EC3",
+      "units": "L01,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61390"
+    }
   }
 ]
