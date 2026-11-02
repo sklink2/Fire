@@ -3628,5 +3628,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61412"
     }
+  },
+  {
+    "runNumber": "61413",
+    "rawCode": "FSTR",
+    "timestamp": "2026-11-02T17:07:18.781976-05:00",
+    "address": "Arrowhead Drive & Apache Trail",
+    "extra": {
+      "incidentNumber": "61413",
+      "run_id": "61413",
+      "address": "Arrowhead Drive & Apache Trail",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E12,E13,E20,L02,L04,EC5,203,204,220,241,RS1",
+      "units": "E11,E12,E13,E20,L02,L04,EC5,203,204,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,203,204",
+      "dedupeKey": "INCIDENT-61413"
+    }
   }
 ]
