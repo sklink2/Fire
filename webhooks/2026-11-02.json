@@ -3914,5 +3914,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61424"
     }
+  },
+  {
+    "runNumber": "61428",
+    "rawCode": "FCMS",
+    "timestamp": "2026-11-02T17:57:28.246358-05:00",
+    "address": "1825 Liberty Road",
+    "extra": {
+      "incidentNumber": "61428",
+      "run_id": "61428",
+      "address": "1825 Liberty Road",
+      "rawType": "FCMS",
+      "typeCode": "FCMS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,L05,EC2,205,220,241",
+      "units": "E02,L05,EC2,205,220,241",
+      "unitCount": "6",
+      "primaryTopic": "FCMS",
+      "commandUnits": "241,220,205",
+      "dedupeKey": "INCIDENT-61428"
+    }
   }
 ]
