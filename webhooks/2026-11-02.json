@@ -3936,5 +3936,27 @@
       "commandUnits": "241,220,205",
       "dedupeKey": "INCIDENT-61428"
     }
+  },
+  {
+    "runNumber": "61427",
+    "rawCode": "FASS",
+    "timestamp": "2026-11-02T17:57:28.517189-05:00",
+    "address": "Iron Works Pike & Kenney Lane",
+    "extra": {
+      "incidentNumber": "61427",
+      "run_id": "61427",
+      "address": "Iron Works Pike & Kenney Lane",
+      "rawType": "FASS",
+      "typeCode": "FASS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "201",
+      "units": "201",
+      "unitCount": "1",
+      "primaryTopic": "FASS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-61427"
+    }
   }
 ]
