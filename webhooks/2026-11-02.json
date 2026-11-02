@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61328"
     }
+  },
+  {
+    "runNumber": "61329",
+    "rawCode": "MED",
+    "timestamp": "2026-11-02T10:29:37.294257-05:00",
+    "address": "2700 Block Liberty Road",
+    "extra": {
+      "incidentNumber": "61329",
+      "run_id": "61329",
+      "address": "2700 Block Liberty Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC8",
+      "units": "E21,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61329"
+    }
   }
 ]
