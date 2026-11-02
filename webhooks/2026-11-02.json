@@ -372,5 +372,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61266"
     }
+  },
+  {
+    "runNumber": "61267",
+    "rawCode": "MED",
+    "timestamp": "2026-11-02T03:01:50.474687-05:00",
+    "address": "1000 Block Meadow Lane",
+    "extra": {
+      "incidentNumber": "61267",
+      "run_id": "61267",
+      "address": "1000 Block Meadow Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L05,EC8",
+      "units": "L05,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61267"
+    }
   }
 ]
