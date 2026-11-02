@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61337"
     }
+  },
+  {
+    "runNumber": "61336",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-02T10:59:45.497855-05:00",
+    "address": "5445 Spirit Ridge Lane",
+    "extra": {
+      "incidentNumber": "61336",
+      "run_id": "61336",
+      "address": "5445 Spirit Ridge Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E22,L07,202",
+      "units": "E16,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-61336"
+    }
   }
 ]
