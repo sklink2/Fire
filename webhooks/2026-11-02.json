@@ -1076,5 +1076,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61298"
     }
+  },
+  {
+    "runNumber": "61297",
+    "rawCode": "MED",
+    "timestamp": "2026-11-02T07:39:15.776346-05:00",
+    "address": "Honey Jay Court & Centre Parkway",
+    "extra": {
+      "incidentNumber": "61297",
+      "run_id": "61297",
+      "address": "Honey Jay Court & Centre Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC4,202,241",
+      "units": "E16,EC4,202,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-61297"
+    }
   }
 ]
