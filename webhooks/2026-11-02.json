@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61294"
     }
+  },
+  {
+    "runNumber": "61293",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-02T07:29:11.762077-05:00",
+    "address": "1049 Ridgetree Lane",
+    "extra": {
+      "incidentNumber": "61293",
+      "run_id": "61293",
+      "address": "1049 Ridgetree Lane",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61293"
+    }
   }
 ]
