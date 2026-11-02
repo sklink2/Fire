@@ -4156,5 +4156,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61218"
     }
+  },
+  {
+    "runNumber": "61217",
+    "rawCode": "MED",
+    "timestamp": "2026-11-01T20:44:17.129345-05:00",
+    "address": "100 Block Towne Center Drive",
+    "extra": {
+      "incidentNumber": "61217",
+      "run_id": "61217",
+      "address": "100 Block Towne Center Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC6,241",
+      "units": "EC6,241",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-61217"
+    }
   }
 ]
