@@ -262,5 +262,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-61260"
     }
+  },
+  {
+    "runNumber": "61262",
+    "rawCode": "MED",
+    "timestamp": "2026-11-02T01:55:02.970749-05:00",
+    "address": "300 Block Christy Allyn Court",
+    "extra": {
+      "incidentNumber": "61262",
+      "run_id": "61262",
+      "address": "300 Block Christy Allyn Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61262"
+    }
   }
 ]
