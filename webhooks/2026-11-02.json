@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61332"
     }
+  },
+  {
+    "runNumber": "61333",
+    "rawCode": "MED",
+    "timestamp": "2026-11-02T10:46:22.613433-05:00",
+    "address": "1500 Block Lindy Lane",
+    "extra": {
+      "incidentNumber": "61333",
+      "run_id": "61333",
+      "address": "1500 Block Lindy Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61333"
+    }
   }
 ]
