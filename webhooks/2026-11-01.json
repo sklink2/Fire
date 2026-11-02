@@ -4090,5 +4090,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61214"
     }
+  },
+  {
+    "runNumber": "61215",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-01T20:14:13.118560-05:00",
+    "address": "1401 Leestown Road",
+    "extra": {
+      "incidentNumber": "61215",
+      "run_id": "61215",
+      "address": "1401 Leestown Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,E13,L03,EC10,203,220",
+      "units": "E10,E13,L03,EC10,203,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,203",
+      "dedupeKey": "INCIDENT-61215"
+    }
   }
 ]
