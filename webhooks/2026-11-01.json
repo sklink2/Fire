@@ -4112,5 +4112,27 @@
       "commandUnits": "220,203",
       "dedupeKey": "INCIDENT-61215"
     }
+  },
+  {
+    "runNumber": "61216",
+    "rawCode": "FSTR",
+    "timestamp": "2026-11-01T20:20:54.999543-05:00",
+    "address": "4400 Briar Hill Road",
+    "extra": {
+      "incidentNumber": "61216",
+      "run_id": "61216",
+      "address": "4400 Briar Hill Road",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E09,E17,E21,E23,L01,L05,T1,EC3,EC8,204,205,241,RS1",
+      "units": "E08,E09,E17,E21,E23,L01,L05,T1,EC3,EC8,204,205,241,RS1",
+      "unitCount": "14",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,204,205",
+      "dedupeKey": "INCIDENT-61216"
+    }
   }
 ]
