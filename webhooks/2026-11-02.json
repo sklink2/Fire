@@ -812,5 +812,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61286"
     }
+  },
+  {
+    "runNumber": "61287",
+    "rawCode": "MED",
+    "timestamp": "2026-11-02T07:02:29.042362-05:00",
+    "address": "100 Block Rose Street",
+    "extra": {
+      "incidentNumber": "61287",
+      "run_id": "61287",
+      "address": "100 Block Rose Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61287"
+    }
   }
 ]
