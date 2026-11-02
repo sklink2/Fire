@@ -3320,5 +3320,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61398"
     }
+  },
+  {
+    "runNumber": "61400",
+    "rawCode": "MED",
+    "timestamp": "2026-11-02T16:10:31.960519-05:00",
+    "address": "100 Block Suburban Court",
+    "extra": {
+      "incidentNumber": "61400",
+      "run_id": "61400",
+      "address": "100 Block Suburban Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61400"
+    }
   }
 ]
