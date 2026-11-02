@@ -4046,5 +4046,27 @@
       "commandUnits": "220,201",
       "dedupeKey": "INCIDENT-61212"
     }
+  },
+  {
+    "runNumber": "61213",
+    "rawCode": "FCAR",
+    "timestamp": "2026-11-01T19:57:30.832331-05:00",
+    "address": "171 E Sixth Street",
+    "extra": {
+      "incidentNumber": "61213",
+      "run_id": "61213",
+      "address": "171 E Sixth Street",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L01",
+      "units": "L01",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61213"
+    }
   }
 ]
