@@ -1516,5 +1516,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61316"
     }
+  },
+  {
+    "runNumber": "61318",
+    "rawCode": "MED",
+    "timestamp": "2026-11-02T09:12:46.826394-05:00",
+    "address": "200 Block Walton Avenue",
+    "extra": {
+      "incidentNumber": "61318",
+      "run_id": "61318",
+      "address": "200 Block Walton Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC4",
+      "units": "E01,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61318"
+    }
   }
 ]
