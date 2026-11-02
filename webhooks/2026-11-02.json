@@ -2000,5 +2000,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61335"
     }
+  },
+  {
+    "runNumber": "61339",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-02T11:06:24.410181-05:00",
+    "address": "2409 Greatstone Pt",
+    "extra": {
+      "incidentNumber": "61339",
+      "run_id": "61339",
+      "address": "2409 Greatstone Pt",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E12,L04,204",
+      "units": "E11,E12,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-61339"
+    }
   }
 ]
