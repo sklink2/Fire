@@ -328,5 +328,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-61264"
     }
+  },
+  {
+    "runNumber": "61265",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-02T02:45:09.061288-05:00",
+    "address": "555 Haskins Drive",
+    "extra": {
+      "incidentNumber": "61265",
+      "run_id": "61265",
+      "address": "555 Haskins Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E10,L03,205",
+      "units": "E04,E10,L03,205",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-61265"
+    }
   }
 ]
