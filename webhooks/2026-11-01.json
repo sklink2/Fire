@@ -4442,5 +4442,27 @@
       "commandUnits": "241,220,202,204",
       "dedupeKey": "INCIDENT-61230"
     }
+  },
+  {
+    "runNumber": "61230",
+    "rawCode": "FSTRW",
+    "timestamp": "2026-11-01T21:51:07.937333-05:00",
+    "address": "1306 Stephen Foster Drive",
+    "extra": {
+      "incidentNumber": "61230",
+      "run_id": "61230",
+      "address": "1306 Stephen Foster Drive",
+      "rawType": "FSTRW",
+      "typeCode": "FSTRW",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,E09,E16,E22,L04,L07,EC2,EC9,202,204,200,220,241,RS1",
+      "units": "E07,E09,E16,E22,L04,L07,EC2,EC9,202,204,200,220,241,RS1",
+      "unitCount": "14",
+      "primaryTopic": "FSTRW",
+      "commandUnits": "241,220,200,202,204",
+      "dedupeKey": "INCIDENT-61230"
+    }
   }
 ]
