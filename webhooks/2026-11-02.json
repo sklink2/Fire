@@ -2946,5 +2946,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61381"
     }
+  },
+  {
+    "runNumber": "61382",
+    "rawCode": "FELS",
+    "timestamp": "2026-11-02T14:53:39.554986-05:00",
+    "address": "800 Rose Street",
+    "extra": {
+      "incidentNumber": "61382",
+      "run_id": "61382",
+      "address": "800 Rose Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L02,204,RS1",
+      "units": "L02,204,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-61382"
+    }
   }
 ]
