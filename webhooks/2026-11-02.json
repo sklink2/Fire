@@ -1164,5 +1164,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61300"
     }
+  },
+  {
+    "runNumber": "61299",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-11-02T07:52:36.043176-05:00",
+    "address": "Citation Boulevard & Sandersville R",
+    "extra": {
+      "incidentNumber": "61299",
+      "run_id": "61299",
+      "address": "Citation Boulevard & Sandersville R",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,L03,EC6,203,RS1",
+      "units": "E24,L03,EC6,203,RS1",
+      "unitCount": "5",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-61299"
+    }
   }
 ]
