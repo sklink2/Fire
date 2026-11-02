@@ -526,5 +526,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61273"
     }
+  },
+  {
+    "runNumber": "61274",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-02T03:58:41.082343-05:00",
+    "address": "3925 Lee Cholak Drive",
+    "extra": {
+      "incidentNumber": "61274",
+      "run_id": "61274",
+      "address": "3925 Lee Cholak Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E19,E24,L03,203",
+      "units": "E19,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-61274"
+    }
   }
 ]
