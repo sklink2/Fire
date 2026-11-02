@@ -2044,5 +2044,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61340"
     }
+  },
+  {
+    "runNumber": "61341",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-02T11:19:48.081389-05:00",
+    "address": "511 Newtown Pike",
+    "extra": {
+      "incidentNumber": "61341",
+      "run_id": "61341",
+      "address": "511 Newtown Pike",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E19,L03,205",
+      "units": "E04,E19,L03,205",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-61341"
+    }
   }
 ]
