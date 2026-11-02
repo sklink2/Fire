@@ -4794,5 +4794,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61244"
     }
+  },
+  {
+    "runNumber": "61244",
+    "rawCode": "FSTR",
+    "timestamp": "2026-11-01T23:44:42.811402-05:00",
+    "address": "625 Cardigan Court",
+    "extra": {
+      "incidentNumber": "61244",
+      "run_id": "61244",
+      "address": "625 Cardigan Court",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,E13,E15,E20,L01,L02,EC9,203,205,220,241,RS1",
+      "units": "E12,E13,E15,E20,L01,L02,EC9,203,205,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,203,205",
+      "dedupeKey": "INCIDENT-61244"
+    }
   }
 ]
