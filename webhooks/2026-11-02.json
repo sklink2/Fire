@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61324"
     }
+  },
+  {
+    "runNumber": "61325",
+    "rawCode": "MED",
+    "timestamp": "2026-11-02T09:56:13.280072-05:00",
+    "address": "5400 Block Athens Walnut Hill Pike",
+    "extra": {
+      "incidentNumber": "61325",
+      "run_id": "61325",
+      "address": "5400 Block Athens Walnut Hill Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E18,EC11",
+      "units": "E18,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61325"
+    }
   }
 ]
