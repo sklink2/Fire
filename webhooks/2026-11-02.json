@@ -3364,5 +3364,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61399"
     }
+  },
+  {
+    "runNumber": "61401",
+    "rawCode": "FELF",
+    "timestamp": "2026-11-02T16:13:53.488825-05:00",
+    "address": "1028 Armstrong Mill Road",
+    "extra": {
+      "incidentNumber": "61401",
+      "run_id": "61401",
+      "address": "1028 Armstrong Mill Road",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E22,L07,202",
+      "units": "E07,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-61401"
+    }
   }
 ]
