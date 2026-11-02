@@ -3188,5 +3188,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61393"
     }
+  },
+  {
+    "runNumber": "61392",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-11-02T15:33:47.411574-05:00",
+    "address": "Georgetown Road & Stockton Way",
+    "extra": {
+      "incidentNumber": "61392",
+      "run_id": "61392",
+      "address": "Georgetown Road & Stockton Way",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,L03,EC10,EC6,203,241,RS1",
+      "units": "E10,L03,EC10,EC6,203,241,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-61392"
+    }
   }
 ]
