@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61354"
     }
+  },
+  {
+    "runNumber": "61355",
+    "rawCode": "FSIA",
+    "timestamp": "2026-11-02T12:23:15.862780-05:00",
+    "address": "275 Newtown Pike",
+    "extra": {
+      "incidentNumber": "61355",
+      "run_id": "61355",
+      "address": "275 Newtown Pike",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E13,204",
+      "units": "E06,E13,204",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-61355"
+    }
   }
 ]
