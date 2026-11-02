@@ -4684,5 +4684,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61240"
     }
+  },
+  {
+    "runNumber": "61241",
+    "rawCode": "MED",
+    "timestamp": "2026-11-01T23:14:38.028980-05:00",
+    "address": "500 Block Ravenna Lane",
+    "extra": {
+      "incidentNumber": "61241",
+      "run_id": "61241",
+      "address": "500 Block Ravenna Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC12",
+      "units": "E15,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61241"
+    }
   }
 ]
