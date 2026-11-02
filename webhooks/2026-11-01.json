@@ -4728,5 +4728,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61242"
     }
+  },
+  {
+    "runNumber": "61243",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-01T23:28:02.206366-05:00",
+    "address": "3413 Brandon Drive",
+    "extra": {
+      "incidentNumber": "61243",
+      "run_id": "61243",
+      "address": "3413 Brandon Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L06",
+      "units": "L06",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61243"
+    }
   }
 ]
