@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61322"
     }
+  },
+  {
+    "runNumber": "61321",
+    "rawCode": "MED",
+    "timestamp": "2026-11-02T09:26:09.028282-05:00",
+    "address": "1000 Block Highgrove Circle",
+    "extra": {
+      "incidentNumber": "61321",
+      "run_id": "61321",
+      "address": "1000 Block Highgrove Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC13",
+      "units": "E22,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61321"
+    }
   }
 ]
