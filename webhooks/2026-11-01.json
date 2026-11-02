@@ -4178,5 +4178,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-61217"
     }
+  },
+  {
+    "runNumber": "61219",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-11-01T20:47:36.432374-05:00",
+    "address": "1707 Old Paris Road",
+    "extra": {
+      "incidentNumber": "61219",
+      "run_id": "61219",
+      "address": "1707 Old Paris Road",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "T1",
+      "units": "T1",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61219"
+    }
   }
 ]
