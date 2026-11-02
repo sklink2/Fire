@@ -3958,5 +3958,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-61427"
     }
+  },
+  {
+    "runNumber": "61429",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-02T18:04:08.807499-05:00",
+    "address": "301 Christy Allyn Court",
+    "extra": {
+      "incidentNumber": "61429",
+      "run_id": "61429",
+      "address": "301 Christy Allyn Court",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,L06",
+      "units": "E09,L06",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61429"
+    }
   }
 ]
