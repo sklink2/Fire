@@ -3738,5 +3738,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61417"
     }
+  },
+  {
+    "runNumber": "61419",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-02T17:30:43.030145-05:00",
+    "address": "1454 Jingle Bell Lane",
+    "extra": {
+      "incidentNumber": "61419",
+      "run_id": "61419",
+      "address": "1454 Jingle Bell Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E09,L05,201",
+      "units": "E08,E09,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-61419"
+    }
   }
 ]
