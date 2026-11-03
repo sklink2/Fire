@@ -1934,5 +1934,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-61563"
     }
+  },
+  {
+    "runNumber": "61564",
+    "rawCode": "MED",
+    "timestamp": "2026-11-03T11:30:06.012831-05:00",
+    "address": "3200 Block Drayton Place",
+    "extra": {
+      "incidentNumber": "61564",
+      "run_id": "61564",
+      "address": "3200 Block Drayton Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC1",
+      "units": "E15,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61564"
+    }
   }
 ]
