@@ -2594,5 +2594,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61593"
     }
+  },
+  {
+    "runNumber": "61594",
+    "rawCode": "FELF",
+    "timestamp": "2026-11-03T13:53:45.517274-05:00",
+    "address": "1462 Stephen Foster Drive",
+    "extra": {
+      "incidentNumber": "61594",
+      "run_id": "61594",
+      "address": "1462 Stephen Foster Drive",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,E16,L07,202",
+      "units": "E15,E16,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-61594"
+    }
   }
 ]
