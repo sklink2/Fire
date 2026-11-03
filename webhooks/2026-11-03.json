@@ -42,5 +42,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61479"
     }
+  },
+  {
+    "runNumber": "61480",
+    "rawCode": "FSIA",
+    "timestamp": "2026-11-03T00:31:50.611848-05:00",
+    "address": "Overview Drive & Boston Road",
+    "extra": {
+      "incidentNumber": "61480",
+      "run_id": "61480",
+      "address": "Overview Drive & Boston Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,E20,202",
+      "units": "E15,E20,202",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-61480"
+    }
   }
 ]
