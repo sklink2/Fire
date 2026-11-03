@@ -196,5 +196,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-61486"
     }
+  },
+  {
+    "runNumber": "61487",
+    "rawCode": "MED",
+    "timestamp": "2026-11-03T01:28:33.317056-05:00",
+    "address": "600 Block Cielo Vista Road",
+    "extra": {
+      "incidentNumber": "61487",
+      "run_id": "61487",
+      "address": "600 Block Cielo Vista Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61487"
+    }
   }
 ]
