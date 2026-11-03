@@ -4750,5 +4750,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61462"
     }
+  },
+  {
+    "runNumber": "61464",
+    "rawCode": "FBAS",
+    "timestamp": "2026-11-02T22:04:43.831975-05:00",
+    "address": "1940 Alice Drive",
+    "extra": {
+      "incidentNumber": "61464",
+      "run_id": "61464",
+      "address": "1940 Alice Drive",
+      "rawType": "FBAS",
+      "typeCode": "FBAS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC6,203",
+      "units": "E10,EC6,203",
+      "unitCount": "3",
+      "primaryTopic": "FBAS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-61464"
+    }
   }
 ]
