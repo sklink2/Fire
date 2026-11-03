@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61523"
     }
+  },
+  {
+    "runNumber": "61524",
+    "rawCode": "FELS",
+    "timestamp": "2026-11-03T08:42:59.603762-05:00",
+    "address": "400 E Third Street",
+    "extra": {
+      "incidentNumber": "61524",
+      "run_id": "61524",
+      "address": "400 E Third Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,L01,205",
+      "units": "E13,L01,205",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-61524"
+    }
   }
 ]
