@@ -152,5 +152,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61483"
     }
+  },
+  {
+    "runNumber": "61485",
+    "rawCode": "FCAR",
+    "timestamp": "2026-11-03T01:01:48.362641-05:00",
+    "address": "1201 Walnut Hill Road",
+    "extra": {
+      "incidentNumber": "61485",
+      "run_id": "61485",
+      "address": "1201 Walnut Hill Road",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L06",
+      "units": "L06",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61485"
+    }
   }
 ]
