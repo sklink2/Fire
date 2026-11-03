@@ -1120,5 +1120,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61527"
     }
+  },
+  {
+    "runNumber": "61530",
+    "rawCode": "MED",
+    "timestamp": "2026-11-03T08:59:41.600003-05:00",
+    "address": "1900 Block Laclede Court",
+    "extra": {
+      "incidentNumber": "61530",
+      "run_id": "61530",
+      "address": "1900 Block Laclede Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L03,EC22",
+      "units": "L03,EC22",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61530"
+    }
   }
 ]
