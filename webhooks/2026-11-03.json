@@ -1230,5 +1230,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-61533"
     }
+  },
+  {
+    "runNumber": "61532",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-03T09:06:23.758365-05:00",
+    "address": "490 Hart Road",
+    "extra": {
+      "incidentNumber": "61532",
+      "run_id": "61532",
+      "address": "490 Hart Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L02",
+      "units": "L02",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61532"
+    }
   }
 ]
