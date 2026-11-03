@@ -1560,5 +1560,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61547"
     }
+  },
+  {
+    "runNumber": "61546",
+    "rawCode": "MED",
+    "timestamp": "2026-11-03T10:26:34.872806-05:00",
+    "address": "3800 Block Muirfield Place",
+    "extra": {
+      "incidentNumber": "61546",
+      "run_id": "61546",
+      "address": "3800 Block Muirfield Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L06,EC11",
+      "units": "L06,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61546"
+    }
   }
 ]
