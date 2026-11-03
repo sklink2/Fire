@@ -4552,5 +4552,27 @@
       "commandUnits": "241,205",
       "dedupeKey": "INCIDENT-61455"
     }
+  },
+  {
+    "runNumber": "61454",
+    "rawCode": "MED",
+    "timestamp": "2026-11-02T20:57:56.160379-05:00",
+    "address": "1200 Block Devonport Drive",
+    "extra": {
+      "incidentNumber": "61454",
+      "run_id": "61454",
+      "address": "1200 Block Devonport Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,EC5",
+      "units": "E11,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61454"
+    }
   }
 ]
