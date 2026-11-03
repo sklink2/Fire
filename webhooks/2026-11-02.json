@@ -4398,5 +4398,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61447"
     }
+  },
+  {
+    "runNumber": "61448",
+    "rawCode": "MED",
+    "timestamp": "2026-11-02T20:24:30.566677-05:00",
+    "address": "1800 Block Balfour Drive",
+    "extra": {
+      "incidentNumber": "61448",
+      "run_id": "61448",
+      "address": "1800 Block Balfour Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC3,241",
+      "units": "E08,EC3,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-61448"
+    }
   }
 ]
