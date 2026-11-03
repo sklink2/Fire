@@ -1032,5 +1032,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-61524"
     }
+  },
+  {
+    "runNumber": "61525",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-11-03T08:46:17.969765-05:00",
+    "address": "2650 Wilhite Court",
+    "extra": {
+      "incidentNumber": "61525",
+      "run_id": "61525",
+      "address": "2650 Wilhite Court",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15",
+      "units": "E15",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61525"
+    }
   }
 ]
