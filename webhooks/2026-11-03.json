@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61539"
     }
+  },
+  {
+    "runNumber": "61540",
+    "rawCode": "MED",
+    "timestamp": "2026-11-03T09:43:08.568302-05:00",
+    "address": "500 Block Monticello Boulevard",
+    "extra": {
+      "incidentNumber": "61540",
+      "run_id": "61540",
+      "address": "500 Block Monticello Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,CRT1",
+      "units": "E15,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61540"
+    }
   }
 ]
