@@ -4200,5 +4200,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-61427"
     }
+  },
+  {
+    "runNumber": "61439",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-02T19:07:38.779596-05:00",
+    "address": "1904 Long Pond Walk",
+    "extra": {
+      "incidentNumber": "61439",
+      "run_id": "61439",
+      "address": "1904 Long Pond Walk",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L02",
+      "units": "L02",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61439"
+    }
   }
 ]
