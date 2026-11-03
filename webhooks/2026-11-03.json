@@ -1186,5 +1186,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61531"
     }
+  },
+  {
+    "runNumber": "61534",
+    "rawCode": "MED",
+    "timestamp": "2026-11-03T09:06:23.403919-05:00",
+    "address": "2000 Block Hartford Court",
+    "extra": {
+      "incidentNumber": "61534",
+      "run_id": "61534",
+      "address": "2000 Block Hartford Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L04,EC13",
+      "units": "L04,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61534"
+    }
   }
 ]
