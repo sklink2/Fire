@@ -2616,5 +2616,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-61594"
     }
+  },
+  {
+    "runNumber": "61597",
+    "rawCode": "MED",
+    "timestamp": "2026-11-03T14:03:46.184756-05:00",
+    "address": "3700 Block Lowndesboro Court",
+    "extra": {
+      "incidentNumber": "61597",
+      "run_id": "61597",
+      "address": "3700 Block Lowndesboro Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,EC4",
+      "units": "E12,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61597"
+    }
   }
 ]
