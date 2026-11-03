@@ -4486,5 +4486,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61451"
     }
+  },
+  {
+    "runNumber": "61452",
+    "rawCode": "MED",
+    "timestamp": "2026-11-02T20:51:12.850663-05:00",
+    "address": "2600 Block Abigail Way",
+    "extra": {
+      "incidentNumber": "61452",
+      "run_id": "61452",
+      "address": "2600 Block Abigail Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "T1,EC1",
+      "units": "T1,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61452"
+    }
   }
 ]
