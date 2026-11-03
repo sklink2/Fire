@@ -3782,5 +3782,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61646"
     }
+  },
+  {
+    "runNumber": "61645",
+    "rawCode": "MED",
+    "timestamp": "2026-11-03T18:04:22.895393-05:00",
+    "address": "300 Block W Loudon Avenue",
+    "extra": {
+      "incidentNumber": "61645",
+      "run_id": "61645",
+      "address": "300 Block W Loudon Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,EC12",
+      "units": "E04,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61645"
+    }
   }
 ]
