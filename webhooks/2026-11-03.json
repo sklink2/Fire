@@ -2968,5 +2968,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61609"
     }
+  },
+  {
+    "runNumber": "61611",
+    "rawCode": "MED",
+    "timestamp": "2026-11-03T15:17:16.924184-05:00",
+    "address": "100 Block S Hanover Avenue",
+    "extra": {
+      "incidentNumber": "61611",
+      "run_id": "61611",
+      "address": "100 Block S Hanover Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,EC10",
+      "units": "E05,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61611"
+    }
   }
 ]
