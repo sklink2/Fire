@@ -1670,5 +1670,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-61552"
     }
+  },
+  {
+    "runNumber": "61553",
+    "rawCode": "MED",
+    "timestamp": "2026-11-03T10:49:57.230782-05:00",
+    "address": "400 Block Southland Drive",
+    "extra": {
+      "incidentNumber": "61553",
+      "run_id": "61553",
+      "address": "400 Block Southland Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61553"
+    }
   }
 ]
