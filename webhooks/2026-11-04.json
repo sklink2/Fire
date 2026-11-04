@@ -3034,5 +3034,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61822"
     }
+  },
+  {
+    "runNumber": "61821",
+    "rawCode": "MED",
+    "timestamp": "2026-11-04T16:01:06.377081-05:00",
+    "address": "400 Block Rose Street",
+    "extra": {
+      "incidentNumber": "61821",
+      "run_id": "61821",
+      "address": "400 Block Rose Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,EC2",
+      "units": "E05,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61821"
+    }
   }
 ]
