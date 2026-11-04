@@ -3980,5 +3980,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61653"
     }
+  },
+  {
+    "runNumber": "61656",
+    "rawCode": "MED",
+    "timestamp": "2026-11-03T19:31:13.999736-05:00",
+    "address": "1600 Block Hastings Court",
+    "extra": {
+      "incidentNumber": "61656",
+      "run_id": "61656",
+      "address": "1600 Block Hastings Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61656"
+    }
   }
 ]
