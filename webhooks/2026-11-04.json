@@ -746,5 +746,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61717"
     }
+  },
+  {
+    "runNumber": "61718",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-04T07:56:28.627765-05:00",
+    "address": "2220 Elkhorn Road",
+    "extra": {
+      "incidentNumber": "61718",
+      "run_id": "61718",
+      "address": "2220 Elkhorn Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E17,L05,201",
+      "units": "E02,E17,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-61718"
+    }
   }
 ]
