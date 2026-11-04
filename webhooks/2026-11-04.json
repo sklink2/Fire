@@ -2066,5 +2066,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61777"
     }
+  },
+  {
+    "runNumber": "61779",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-04T12:50:34.426873-05:00",
+    "address": "2000 Winchester Road",
+    "extra": {
+      "incidentNumber": "61779",
+      "run_id": "61779",
+      "address": "2000 Winchester Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E17,L05,201",
+      "units": "E09,E17,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-61779"
+    }
   }
 ]
