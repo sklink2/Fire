@@ -658,5 +658,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-61713"
     }
+  },
+  {
+    "runNumber": "61714",
+    "rawCode": "MED",
+    "timestamp": "2026-11-04T07:26:26.472959-05:00",
+    "address": "1200 Block Russell Cave Road",
+    "extra": {
+      "incidentNumber": "61714",
+      "run_id": "61714",
+      "address": "1200 Block Russell Cave Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61714"
+    }
   }
 ]
