@@ -856,5 +856,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-61723"
     }
+  },
+  {
+    "runNumber": "61722",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-04T08:29:55.516804-05:00",
+    "address": "Harrodsburg Road & Lane Allen Road",
+    "extra": {
+      "incidentNumber": "61722",
+      "run_id": "61722",
+      "address": "Harrodsburg Road & Lane Allen Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,EC7",
+      "units": "E12,EC7",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61722"
+    }
   }
 ]
