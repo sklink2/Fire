@@ -1538,5 +1538,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61753"
     }
+  },
+  {
+    "runNumber": "61755",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-04T11:37:05.643173-05:00",
+    "address": "3826 Branham Park",
+    "extra": {
+      "incidentNumber": "61755",
+      "run_id": "61755",
+      "address": "3826 Branham Park",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E21,L06,202",
+      "units": "E09,E21,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-61755"
+    }
   }
 ]
