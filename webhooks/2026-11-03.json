@@ -4398,5 +4398,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61673"
     }
+  },
+  {
+    "runNumber": "61672",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-11-03T22:08:18.592437-05:00",
+    "address": "75 Nb / 110.0 Mm (Winchester R",
+    "extra": {
+      "incidentNumber": "61672",
+      "run_id": "61672",
+      "address": "75 Nb / 110.0 Mm (Winchester R",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E17,E21,L06,EC11,EC2,EC8,201,241,RS1",
+      "units": "E17,E21,L06,EC11,EC2,EC8,201,241,RS1",
+      "unitCount": "9",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-61672"
+    }
   }
 ]
