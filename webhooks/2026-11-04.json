@@ -1186,5 +1186,27 @@
       "commandUnits": "241,202",
       "dedupeKey": "INCIDENT-61736"
     }
+  },
+  {
+    "runNumber": "61738",
+    "rawCode": "MED",
+    "timestamp": "2026-11-04T09:53:28.683644-05:00",
+    "address": "2100 Block Violet Road",
+    "extra": {
+      "incidentNumber": "61738",
+      "run_id": "61738",
+      "address": "2100 Block Violet Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC4,241",
+      "units": "E20,EC4,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-61738"
+    }
   }
 ]
