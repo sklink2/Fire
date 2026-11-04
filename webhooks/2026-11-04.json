@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61792"
     }
+  },
+  {
+    "runNumber": "61791",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-04T13:47:25.088579-05:00",
+    "address": "233 Forest Park Road",
+    "extra": {
+      "incidentNumber": "61791",
+      "run_id": "61791",
+      "address": "233 Forest Park Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E11,L02,EC10,205,220",
+      "units": "E06,E11,L02,EC10,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-61791"
+    }
   }
 ]
