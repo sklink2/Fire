@@ -2902,5 +2902,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61816"
     }
+  },
+  {
+    "runNumber": "61815",
+    "rawCode": "MED",
+    "timestamp": "2026-11-04T15:31:03.230390-05:00",
+    "address": "800 Block Marcellus Drive",
+    "extra": {
+      "incidentNumber": "61815",
+      "run_id": "61815",
+      "address": "800 Block Marcellus Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61815"
+    }
   }
 ]
