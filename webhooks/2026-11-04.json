@@ -3848,5 +3848,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61859"
     }
+  },
+  {
+    "runNumber": "61858",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-04T18:18:05.723103-05:00",
+    "address": "540 E Third Street",
+    "extra": {
+      "incidentNumber": "61858",
+      "run_id": "61858",
+      "address": "540 E Third Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E05,L01,205",
+      "units": "E01,E05,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-61858"
+    }
   }
 ]
