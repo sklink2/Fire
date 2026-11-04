@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61706"
     }
+  },
+  {
+    "runNumber": "61705",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-04T05:52:52.846772-05:00",
+    "address": "684 Morgan Hills Drive",
+    "extra": {
+      "incidentNumber": "61705",
+      "run_id": "61705",
+      "address": "684 Morgan Hills Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,L05",
+      "units": "E02,L05",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61705"
+    }
   }
 ]
