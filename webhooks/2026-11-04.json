@@ -834,5 +834,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61721"
     }
+  },
+  {
+    "runNumber": "61723",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-04T08:29:55.259814-05:00",
+    "address": "401 W High Street",
+    "extra": {
+      "incidentNumber": "61723",
+      "run_id": "61723",
+      "address": "401 W High Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E06,L02,205",
+      "units": "E04,E06,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-61723"
+    }
   }
 ]
