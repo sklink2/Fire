@@ -2726,5 +2726,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61806"
     }
+  },
+  {
+    "runNumber": "61809",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-04T14:50:55.767555-05:00",
+    "address": "75 Nb / 119.0 Mm",
+    "extra": {
+      "incidentNumber": "61809",
+      "run_id": "61809",
+      "address": "75 Nb / 119.0 Mm",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E10",
+      "units": "E04,E10",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61809"
+    }
   }
 ]
