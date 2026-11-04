@@ -1164,5 +1164,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61737"
     }
+  },
+  {
+    "runNumber": "61736",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-11-04T09:50:09.209093-05:00",
+    "address": "Kiddville Lane & Jacks Creek Pik",
+    "extra": {
+      "incidentNumber": "61736",
+      "run_id": "61736",
+      "address": "Kiddville Lane & Jacks Creek Pik",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E18,L07,EC2,202,241,RS1",
+      "units": "E18,L07,EC2,202,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-61736"
+    }
   }
 ]
