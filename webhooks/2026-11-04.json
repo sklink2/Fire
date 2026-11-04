@@ -482,5 +482,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-61707"
     }
+  },
+  {
+    "runNumber": "61706",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-11-04T05:52:52.405702-05:00",
+    "address": "690 Mason Headley Road",
+    "extra": {
+      "incidentNumber": "61706",
+      "run_id": "61706",
+      "address": "690 Mason Headley Road",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11",
+      "units": "E11",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61706"
+    }
   }
 ]
