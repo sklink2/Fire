@@ -284,5 +284,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61696"
     }
+  },
+  {
+    "runNumber": "61697",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-04T03:22:28.222902-05:00",
+    "address": "300 Irvine Road",
+    "extra": {
+      "incidentNumber": "61697",
+      "run_id": "61697",
+      "address": "300 Irvine Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E09,L02,205",
+      "units": "E05,E09,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-61697"
+    }
   }
 ]
