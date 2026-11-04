@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61765"
     }
+  },
+  {
+    "runNumber": "61767",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-04T12:10:30.450922-05:00",
+    "address": "833 Nandino Boulevard",
+    "extra": {
+      "incidentNumber": "61767",
+      "run_id": "61767",
+      "address": "833 Nandino Boulevard",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,E13,L03,203",
+      "units": "E10,E13,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-61767"
+    }
   }
 ]
