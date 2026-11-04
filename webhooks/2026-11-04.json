@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61769"
     }
+  },
+  {
+    "runNumber": "61768",
+    "rawCode": "MED",
+    "timestamp": "2026-11-04T12:13:49.967696-05:00",
+    "address": "500 Block W Main Street",
+    "extra": {
+      "incidentNumber": "61768",
+      "run_id": "61768",
+      "address": "500 Block W Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17,EC1",
+      "units": "E17,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61768"
+    }
   }
 ]
