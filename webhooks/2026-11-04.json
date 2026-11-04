@@ -438,5 +438,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61703"
     }
+  },
+  {
+    "runNumber": "61704",
+    "rawCode": "MED",
+    "timestamp": "2026-11-04T04:56:04.430701-05:00",
+    "address": "600 Block Wells Court",
+    "extra": {
+      "incidentNumber": "61704",
+      "run_id": "61704",
+      "address": "600 Block Wells Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61704"
+    }
   }
 ]
