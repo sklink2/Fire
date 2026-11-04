@@ -3936,5 +3936,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61652"
     }
+  },
+  {
+    "runNumber": "61654",
+    "rawCode": "FBAS",
+    "timestamp": "2026-11-03T19:11:10.807625-05:00",
+    "address": "249 E Reynolds Road",
+    "extra": {
+      "incidentNumber": "61654",
+      "run_id": "61654",
+      "address": "249 E Reynolds Road",
+      "rawType": "FBAS",
+      "typeCode": "FBAS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC4,202",
+      "units": "E15,EC4,202",
+      "unitCount": "3",
+      "primaryTopic": "FBAS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-61654"
+    }
   }
 ]
