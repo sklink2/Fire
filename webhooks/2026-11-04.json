@@ -1208,5 +1208,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-61738"
     }
+  },
+  {
+    "runNumber": "61739",
+    "rawCode": "MED",
+    "timestamp": "2026-11-04T10:00:13.727495-05:00",
+    "address": "300 Block Locust Avenue",
+    "extra": {
+      "incidentNumber": "61739",
+      "run_id": "61739",
+      "address": "300 Block Locust Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "251",
+      "units": "251",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61739"
+    }
   }
 ]
