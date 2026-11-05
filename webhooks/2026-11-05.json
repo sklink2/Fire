@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62035"
     }
+  },
+  {
+    "runNumber": "62034",
+    "rawCode": "FASS",
+    "timestamp": "2026-11-05T13:07:39.230374-05:00",
+    "address": "S Limestone & Washington Avenue",
+    "extra": {
+      "incidentNumber": "62034",
+      "run_id": "62034",
+      "address": "S Limestone & Washington Avenue",
+      "rawType": "FASS",
+      "typeCode": "FASS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "204",
+      "units": "204",
+      "unitCount": "1",
+      "primaryTopic": "FASS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-62034"
+    }
   }
 ]
