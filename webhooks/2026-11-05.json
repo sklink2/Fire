@@ -2418,5 +2418,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62037"
     }
+  },
+  {
+    "runNumber": "62038",
+    "rawCode": "MED",
+    "timestamp": "2026-11-05T13:21:02.502573-05:00",
+    "address": "200 Block Fountain Court",
+    "extra": {
+      "incidentNumber": "62038",
+      "run_id": "62038",
+      "address": "200 Block Fountain Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC2",
+      "units": "E21,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62038"
+    }
   }
 ]
