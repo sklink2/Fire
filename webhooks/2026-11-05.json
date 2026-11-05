@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62054"
     }
+  },
+  {
+    "runNumber": "62055",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-05T14:41:13.703628-05:00",
+    "address": "1021 Majestic Drive",
+    "extra": {
+      "incidentNumber": "62055",
+      "run_id": "62055",
+      "address": "1021 Majestic Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62055"
+    }
   }
 ]
