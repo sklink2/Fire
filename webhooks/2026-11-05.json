@@ -394,5 +394,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-61944"
     }
+  },
+  {
+    "runNumber": "61946",
+    "rawCode": "MED",
+    "timestamp": "2026-11-05T04:39:42.222058-05:00",
+    "address": "200 Block Argonne Circle",
+    "extra": {
+      "incidentNumber": "61946",
+      "run_id": "61946",
+      "address": "200 Block Argonne Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,EC4",
+      "units": "E07,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61946"
+    }
   }
 ]
