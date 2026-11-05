@@ -1494,5 +1494,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-61993"
     }
+  },
+  {
+    "runNumber": "61995",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-05T10:43:56.405420-05:00",
+    "address": "210 Desha Road",
+    "extra": {
+      "incidentNumber": "61995",
+      "run_id": "61995",
+      "address": "210 Desha Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E09,L01,202",
+      "units": "E05,E09,L01,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-61995"
+    }
   }
 ]
