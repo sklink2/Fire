@@ -196,5 +196,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61934"
     }
+  },
+  {
+    "runNumber": "61936",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-05T02:26:01.965696-05:00",
+    "address": "508 E Main Street",
+    "extra": {
+      "incidentNumber": "61936",
+      "run_id": "61936",
+      "address": "508 E Main Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E05,E06,L02,205",
+      "units": "E01,E05,E06,L02,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-61936"
+    }
   }
 ]
