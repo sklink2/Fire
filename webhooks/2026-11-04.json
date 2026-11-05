@@ -5300,5 +5300,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61922"
     }
+  },
+  {
+    "runNumber": "61925",
+    "rawCode": "MED",
+    "timestamp": "2026-11-04T23:48:58.271882-05:00",
+    "address": "2500 Block Danielle Lane",
+    "extra": {
+      "incidentNumber": "61925",
+      "run_id": "61925",
+      "address": "2500 Block Danielle Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC3",
+      "units": "E02,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61925"
+    }
   }
 ]
