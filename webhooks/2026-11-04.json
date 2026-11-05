@@ -4574,5 +4574,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61891"
     }
+  },
+  {
+    "runNumber": "61890",
+    "rawCode": "MED",
+    "timestamp": "2026-11-04T20:38:28.813662-05:00",
+    "address": "100 Block Street James Drive",
+    "extra": {
+      "incidentNumber": "61890",
+      "run_id": "61890",
+      "address": "100 Block Street James Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61890"
+    }
   }
 ]
