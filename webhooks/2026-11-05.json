@@ -3540,5 +3540,27 @@
       "commandUnits": "241,201",
       "dedupeKey": "INCIDENT-62087"
     }
+  },
+  {
+    "runNumber": "62089",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-05T17:35:00.089045-05:00",
+    "address": "237 E Fifth Street",
+    "extra": {
+      "incidentNumber": "62089",
+      "run_id": "62089",
+      "address": "237 E Fifth Street",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E04,L01,205",
+      "units": "E01,E04,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-62089"
+    }
   }
 ]
