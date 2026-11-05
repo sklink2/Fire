@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61970"
     }
+  },
+  {
+    "runNumber": "61972",
+    "rawCode": "MED",
+    "timestamp": "2026-11-05T09:17:06.590639-05:00",
+    "address": "200 Block S Ashland Avenue",
+    "extra": {
+      "incidentNumber": "61972",
+      "run_id": "61972",
+      "address": "200 Block S Ashland Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L02,EC1",
+      "units": "L02,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61972"
+    }
   }
 ]
