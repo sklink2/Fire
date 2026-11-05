@@ -2902,5 +2902,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62059"
     }
+  },
+  {
+    "runNumber": "62060",
+    "rawCode": "MED",
+    "timestamp": "2026-11-05T15:21:17.723539-05:00",
+    "address": "500 Block Huntington Court",
+    "extra": {
+      "incidentNumber": "62060",
+      "run_id": "62060",
+      "address": "500 Block Huntington Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC2",
+      "units": "E21,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62060"
+    }
   }
 ]
