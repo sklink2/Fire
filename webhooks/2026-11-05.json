@@ -1076,5 +1076,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61976"
     }
+  },
+  {
+    "runNumber": "61975",
+    "rawCode": "MED",
+    "timestamp": "2026-11-05T09:33:47.263436-05:00",
+    "address": "200 Block E Third Street",
+    "extra": {
+      "incidentNumber": "61975",
+      "run_id": "61975",
+      "address": "200 Block E Third Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01,EC8",
+      "units": "L01,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61975"
+    }
   }
 ]
