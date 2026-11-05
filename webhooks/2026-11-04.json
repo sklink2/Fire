@@ -5036,5 +5036,27 @@
       "commandUnits": "220",
       "dedupeKey": "INCIDENT-61912"
     }
+  },
+  {
+    "runNumber": "61915",
+    "rawCode": "FCAR",
+    "timestamp": "2026-11-04T22:45:28.727888-05:00",
+    "address": "2005 Larkspur Drive",
+    "extra": {
+      "incidentNumber": "61915",
+      "run_id": "61915",
+      "address": "2005 Larkspur Drive",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L01",
+      "units": "L01",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61915"
+    }
   }
 ]
