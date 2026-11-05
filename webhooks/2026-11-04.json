@@ -4970,5 +4970,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61909"
     }
+  },
+  {
+    "runNumber": "61910",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-04T22:28:45.174103-05:00",
+    "address": "4057 Mooncoin Way",
+    "extra": {
+      "incidentNumber": "61910",
+      "run_id": "61910",
+      "address": "4057 Mooncoin Way",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,E22,L04,EC9,204",
+      "units": "E20,E22,L04,EC9,204",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-61910"
+    }
   }
 ]
