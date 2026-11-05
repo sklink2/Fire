@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61942"
     }
+  },
+  {
+    "runNumber": "61943",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-05T04:19:40.431325-05:00",
+    "address": "1264 E New Circle Road",
+    "extra": {
+      "incidentNumber": "61943",
+      "run_id": "61943",
+      "address": "1264 E New Circle Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02",
+      "units": "E02",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61943"
+    }
   }
 ]
