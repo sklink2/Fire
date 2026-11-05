@@ -1538,5 +1538,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61997"
     }
+  },
+  {
+    "runNumber": "61996",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-05T10:50:37.227868-05:00",
+    "address": "340 Legion Drive",
+    "extra": {
+      "incidentNumber": "61996",
+      "run_id": "61996",
+      "address": "340 Legion Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E14,203",
+      "units": "E11,E14,203",
+      "unitCount": "3",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-61996"
+    }
   }
 ]
