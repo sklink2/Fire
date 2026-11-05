@@ -1582,5 +1582,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-61992"
     }
+  },
+  {
+    "runNumber": "61998",
+    "rawCode": "MED",
+    "timestamp": "2026-11-05T10:53:58.682905-05:00",
+    "address": "500 Block N Broadway",
+    "extra": {
+      "incidentNumber": "61998",
+      "run_id": "61998",
+      "address": "500 Block N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L02,EC3,CRT1",
+      "units": "L02,EC3,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61998"
+    }
   }
 ]
