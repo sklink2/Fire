@@ -1758,5 +1758,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62006"
     }
+  },
+  {
+    "runNumber": "62008",
+    "rawCode": "MED",
+    "timestamp": "2026-11-05T11:47:25.714983-05:00",
+    "address": "1900 Block Leitner Court",
+    "extra": {
+      "incidentNumber": "62008",
+      "run_id": "62008",
+      "address": "1900 Block Leitner Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62008"
+    }
   }
 ]
