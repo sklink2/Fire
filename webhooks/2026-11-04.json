@@ -4860,5 +4860,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61904"
     }
+  },
+  {
+    "runNumber": "61905",
+    "rawCode": "FVIS",
+    "timestamp": "2026-11-04T21:51:59.133743-05:00",
+    "address": "1375 S Broadway",
+    "extra": {
+      "incidentNumber": "61905",
+      "run_id": "61905",
+      "address": "1375 S Broadway",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,E12,L04,EC7,204",
+      "units": "E11,E12,L04,EC7,204",
+      "unitCount": "5",
+      "primaryTopic": "FVIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-61905"
+    }
   }
 ]
