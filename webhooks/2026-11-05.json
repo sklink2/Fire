@@ -20,5 +20,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61928"
     }
+  },
+  {
+    "runNumber": "61927",
+    "rawCode": "MED",
+    "timestamp": "2026-11-05T00:19:04.007518-05:00",
+    "address": "300 Block E Tiverton Way",
+    "extra": {
+      "incidentNumber": "61927",
+      "run_id": "61927",
+      "address": "300 Block E Tiverton Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC9,241",
+      "units": "E15,EC9,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-61927"
+    }
   }
 ]
