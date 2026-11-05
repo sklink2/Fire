@@ -1560,5 +1560,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-61996"
     }
+  },
+  {
+    "runNumber": "61992",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-05T10:50:37.387047-05:00",
+    "address": "2397 Richmond Road",
+    "extra": {
+      "incidentNumber": "61992",
+      "run_id": "61992",
+      "address": "2397 Richmond Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,201",
+      "units": "E02,201",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-61992"
+    }
   }
 ]
