@@ -812,5 +812,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61962"
     }
+  },
+  {
+    "runNumber": "61964",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-05T08:10:15.946311-05:00",
+    "address": "5350 Kiddville Lane",
+    "extra": {
+      "incidentNumber": "61964",
+      "run_id": "61964",
+      "address": "5350 Kiddville Lane",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E18,L07,202",
+      "units": "E09,E18,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-61964"
+    }
   }
 ]
