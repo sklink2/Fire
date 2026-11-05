@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61972"
     }
+  },
+  {
+    "runNumber": "61973",
+    "rawCode": "MED",
+    "timestamp": "2026-11-05T09:30:26.510808-05:00",
+    "address": "3000 Block Pimlico Parkway",
+    "extra": {
+      "incidentNumber": "61973",
+      "run_id": "61973",
+      "address": "3000 Block Pimlico Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC4,241",
+      "units": "EC4,241",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-61973"
+    }
   }
 ]
