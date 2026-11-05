@@ -1208,5 +1208,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61981"
     }
+  },
+  {
+    "runNumber": "61982",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-05T10:00:31.665689-05:00",
+    "address": "195 N Ashland Avenue",
+    "extra": {
+      "incidentNumber": "61982",
+      "run_id": "61982",
+      "address": "195 N Ashland Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E07",
+      "units": "E02,E07",
+      "unitCount": "2",
+      "primaryTopic": "FPRT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61982"
+    }
   }
 ]
