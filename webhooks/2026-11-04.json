@@ -4926,5 +4926,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61907"
     }
+  },
+  {
+    "runNumber": "61908",
+    "rawCode": "FCMS",
+    "timestamp": "2026-11-04T22:15:22.109555-05:00",
+    "address": "3501 Pimlico Parkway",
+    "extra": {
+      "incidentNumber": "61908",
+      "run_id": "61908",
+      "address": "3501 Pimlico Parkway",
+      "rawType": "FCMS",
+      "typeCode": "FCMS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,L07,EC13,202,220,241",
+      "units": "E16,L07,EC13,202,220,241",
+      "unitCount": "6",
+      "primaryTopic": "FCMS",
+      "commandUnits": "241,220,202",
+      "dedupeKey": "INCIDENT-61908"
+    }
   }
 ]
