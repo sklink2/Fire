@@ -1406,5 +1406,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-61990"
     }
+  },
+  {
+    "runNumber": "61992",
+    "rawCode": "MED",
+    "timestamp": "2026-11-05T10:30:36.561817-05:00",
+    "address": "2300 Block Richmond Road",
+    "extra": {
+      "incidentNumber": "61992",
+      "run_id": "61992",
+      "address": "2300 Block Richmond Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,201",
+      "units": "E02,201",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-61992"
+    }
   }
 ]
