@@ -2858,5 +2858,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62057"
     }
+  },
+  {
+    "runNumber": "62058",
+    "rawCode": "MED",
+    "timestamp": "2026-11-05T15:11:17.760040-05:00",
+    "address": "100 Block Prall Street",
+    "extra": {
+      "incidentNumber": "62058",
+      "run_id": "62058",
+      "address": "100 Block Prall Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,EC7",
+      "units": "E06,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62058"
+    }
   }
 ]
