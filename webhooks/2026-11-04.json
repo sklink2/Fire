@@ -4596,5 +4596,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61890"
     }
+  },
+  {
+    "runNumber": "61894",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-04T20:41:48.164733-05:00",
+    "address": "1890 Colchester Drive",
+    "extra": {
+      "incidentNumber": "61894",
+      "run_id": "61894",
+      "address": "1890 Colchester Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E08,L03,201",
+      "units": "E01,E08,L03,201",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-61894"
+    }
   }
 ]
