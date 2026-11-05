@@ -2704,5 +2704,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62051"
     }
+  },
+  {
+    "runNumber": "62050",
+    "rawCode": "MED",
+    "timestamp": "2026-11-05T14:11:09.099602-05:00",
+    "address": "100 Block E New Circle Road",
+    "extra": {
+      "incidentNumber": "62050",
+      "run_id": "62050",
+      "address": "100 Block E New Circle Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC4",
+      "units": "E08,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62050"
+    }
   }
 ]
