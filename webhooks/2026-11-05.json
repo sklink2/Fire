@@ -2176,5 +2176,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62028"
     }
+  },
+  {
+    "runNumber": "62027",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-05T12:40:56.499695-05:00",
+    "address": "1224 Old Silo Lane",
+    "extra": {
+      "incidentNumber": "62027",
+      "run_id": "62027",
+      "address": "1224 Old Silo Lane",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L06",
+      "units": "L06",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62027"
+    }
   }
 ]
