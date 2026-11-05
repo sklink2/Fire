@@ -3518,5 +3518,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62085"
     }
+  },
+  {
+    "runNumber": "62087",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-11-05T17:28:20.248911-05:00",
+    "address": "Pleasant Ridge Drive & Autumn Rid",
+    "extra": {
+      "incidentNumber": "62087",
+      "run_id": "62087",
+      "address": "Pleasant Ridge Drive & Autumn Rid",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,L06,EC13,201,241,RS1",
+      "units": "E21,L06,EC13,201,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-62087"
+    }
   }
 ]
