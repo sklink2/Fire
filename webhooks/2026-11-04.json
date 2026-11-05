@@ -4882,5 +4882,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-61905"
     }
+  },
+  {
+    "runNumber": "61906",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-04T22:02:01.401794-05:00",
+    "address": "Sullivans Trce & Kearney Creek",
+    "extra": {
+      "incidentNumber": "61906",
+      "run_id": "61906",
+      "address": "Sullivans Trce & Kearney Creek",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24",
+      "units": "E24",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-61906"
+    }
   }
 ]
