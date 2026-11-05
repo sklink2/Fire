@@ -5014,5 +5014,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-61911"
     }
+  },
+  {
+    "runNumber": "61912",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-04T22:42:07.493808-05:00",
+    "address": "3024 Adwalton Road",
+    "extra": {
+      "incidentNumber": "61912",
+      "run_id": "61912",
+      "address": "3024 Adwalton Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E21,L06,EC11,220",
+      "units": "E02,E21,L06,EC11,220",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-61912"
+    }
   }
 ]
