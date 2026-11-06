@@ -1054,5 +1054,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-62199"
     }
+  },
+  {
+    "runNumber": "62198",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-06T07:43:48.880489-05:00",
+    "address": "1251 Beaumont Centre Lane",
+    "extra": {
+      "incidentNumber": "62198",
+      "run_id": "62198",
+      "address": "1251 Beaumont Centre Lane",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62198"
+    }
   }
 ]
