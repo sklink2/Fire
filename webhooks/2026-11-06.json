@@ -3078,5 +3078,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62288"
     }
+  },
+  {
+    "runNumber": "62292",
+    "rawCode": "FOTF",
+    "timestamp": "2026-11-06T15:58:22.708748-05:00",
+    "address": "435 W High Street",
+    "extra": {
+      "incidentNumber": "62292",
+      "run_id": "62292",
+      "address": "435 W High Street",
+      "rawType": "FOTF",
+      "typeCode": "FOTF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "220",
+      "units": "220",
+      "unitCount": "1",
+      "primaryTopic": "FOTF",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-62292"
+    }
   }
 ]
