@@ -1120,5 +1120,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62200"
     }
+  },
+  {
+    "runNumber": "62202",
+    "rawCode": "FSTR",
+    "timestamp": "2026-11-06T08:00:31.995345-05:00",
+    "address": "551 W Sixth Street",
+    "extra": {
+      "incidentNumber": "62202",
+      "run_id": "62202",
+      "address": "551 W Sixth Street",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E04,E08,E12,L01,L05,EC1,EC3,203,205,241,RS1",
+      "units": "E01,E04,E08,E12,L01,L05,EC1,EC3,203,205,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,203,205",
+      "dedupeKey": "INCIDENT-62202"
+    }
   }
 ]
