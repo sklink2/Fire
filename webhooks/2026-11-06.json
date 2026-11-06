@@ -3210,5 +3210,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-62297"
     }
+  },
+  {
+    "runNumber": "62299",
+    "rawCode": "MED",
+    "timestamp": "2026-11-06T16:38:29.087593-05:00",
+    "address": "Charity Lane & Pathfinder Circle",
+    "extra": {
+      "incidentNumber": "62299",
+      "run_id": "62299",
+      "address": "Charity Lane & Pathfinder Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,EC6,CRT1",
+      "units": "E04,EC6,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62299"
+    }
   }
 ]
