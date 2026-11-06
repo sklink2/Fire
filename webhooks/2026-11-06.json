@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62266"
     }
+  },
+  {
+    "runNumber": "62268",
+    "rawCode": "MED",
+    "timestamp": "2026-11-06T13:38:01.425226-05:00",
+    "address": "1800 Block Haverwood Park",
+    "extra": {
+      "incidentNumber": "62268",
+      "run_id": "62268",
+      "address": "1800 Block Haverwood Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC4",
+      "units": "E20,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62268"
+    }
   }
 ]
