@@ -3782,5 +3782,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62324"
     }
+  },
+  {
+    "runNumber": "62323",
+    "rawCode": "MED",
+    "timestamp": "2026-11-06T18:25:27.868293-05:00",
+    "address": "3000 Block Baptist Health Boulevard",
+    "extra": {
+      "incidentNumber": "62323",
+      "run_id": "62323",
+      "address": "3000 Block Baptist Health Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62323"
+    }
   }
 ]
