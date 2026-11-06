@@ -3980,5 +3980,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62111"
     }
+  },
+  {
+    "runNumber": "62112",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-05T20:15:22.966640-05:00",
+    "address": "W Main Street & W Vine Street",
+    "extra": {
+      "incidentNumber": "62112",
+      "run_id": "62112",
+      "address": "W Main Street & W Vine Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10,RS1",
+      "units": "EC10,RS1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62112"
+    }
   }
 ]
