@@ -482,5 +482,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62172"
     }
+  },
+  {
+    "runNumber": "62173",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-06T04:23:17.183485-05:00",
+    "address": "310 Duke Road",
+    "extra": {
+      "incidentNumber": "62173",
+      "run_id": "62173",
+      "address": "310 Duke Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E09,L02,205",
+      "units": "E05,E09,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-62173"
+    }
   }
 ]
