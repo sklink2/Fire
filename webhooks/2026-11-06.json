@@ -1032,5 +1032,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62197"
     }
+  },
+  {
+    "runNumber": "62199",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-06T07:43:48.615879-05:00",
+    "address": "2358 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "62199",
+      "run_id": "62199",
+      "address": "2358 Nicholasville Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E15,L04,EC9,202",
+      "units": "E06,E15,L04,EC9,202",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-62199"
+    }
   }
 ]
