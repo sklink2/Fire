@@ -1560,5 +1560,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62222"
     }
+  },
+  {
+    "runNumber": "62221",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-06T09:37:24.541755-05:00",
+    "address": "690 Mason Headley Road",
+    "extra": {
+      "incidentNumber": "62221",
+      "run_id": "62221",
+      "address": "690 Mason Headley Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E12,L04,EC9,204,220",
+      "units": "E06,E12,L04,EC9,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-62221"
+    }
   }
 ]
