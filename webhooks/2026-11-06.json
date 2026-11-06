@@ -2990,5 +2990,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-62289"
     }
+  },
+  {
+    "runNumber": "62288",
+    "rawCode": "MED",
+    "timestamp": "2026-11-06T15:51:43.381005-05:00",
+    "address": "Harrodsburg Road & Burbank Drive",
+    "extra": {
+      "incidentNumber": "62288",
+      "run_id": "62288",
+      "address": "Harrodsburg Road & Burbank Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62288"
+    }
   }
 ]
