@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62181"
     }
+  },
+  {
+    "runNumber": "62183",
+    "rawCode": "FMEA",
+    "timestamp": "2026-11-06T05:53:32.509526-05:00",
+    "address": "411 Southland Drive",
+    "extra": {
+      "incidentNumber": "62183",
+      "run_id": "62183",
+      "address": "411 Southland Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12",
+      "units": "E12",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62183"
+    }
   }
 ]
