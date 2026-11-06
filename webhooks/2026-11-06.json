@@ -2946,5 +2946,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62286"
     }
+  },
+  {
+    "runNumber": "62287",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-06T15:48:23.507235-05:00",
+    "address": "503 Freeman Drive",
+    "extra": {
+      "incidentNumber": "62287",
+      "run_id": "62287",
+      "address": "503 Freeman Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E10,L03,203",
+      "units": "E08,E10,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-62287"
+    }
   }
 ]
