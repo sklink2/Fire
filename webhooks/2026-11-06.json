@@ -746,5 +746,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62184"
     }
+  },
+  {
+    "runNumber": "62185",
+    "rawCode": "MED",
+    "timestamp": "2026-11-06T06:10:14.535613-05:00",
+    "address": "1800 Block Barksdale Drive",
+    "extra": {
+      "incidentNumber": "62185",
+      "run_id": "62185",
+      "address": "1800 Block Barksdale Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC10",
+      "units": "E08,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62185"
+    }
   }
 ]
