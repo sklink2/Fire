@@ -2110,5 +2110,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62246"
     }
+  },
+  {
+    "runNumber": "62248",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-06T11:51:04.838586-05:00",
+    "address": "3140 Pimlico Parkway",
+    "extra": {
+      "incidentNumber": "62248",
+      "run_id": "62248",
+      "address": "3140 Pimlico Parkway",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,220,CRT1",
+      "units": "E16,220,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "FINV",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-62248"
+    }
   }
 ]
