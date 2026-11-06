@@ -504,5 +504,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-62173"
     }
+  },
+  {
+    "runNumber": "62174",
+    "rawCode": "MED",
+    "timestamp": "2026-11-06T04:29:59.285069-05:00",
+    "address": "1500 Block Chadwick Drive",
+    "extra": {
+      "incidentNumber": "62174",
+      "run_id": "62174",
+      "address": "1500 Block Chadwick Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62174"
+    }
   }
 ]
