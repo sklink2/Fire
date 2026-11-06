@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62229"
     }
+  },
+  {
+    "runNumber": "62230",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-06T10:17:31.571331-05:00",
+    "address": "944 Dayton Avenue",
+    "extra": {
+      "incidentNumber": "62230",
+      "run_id": "62230",
+      "address": "944 Dayton Avenue",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L01",
+      "units": "L01",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62230"
+    }
   }
 ]
