@@ -3760,5 +3760,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62097"
     }
+  },
+  {
+    "runNumber": "62103",
+    "rawCode": "MED",
+    "timestamp": "2026-11-05T19:11:55.751658-05:00",
+    "address": "900 Block Winchester Road",
+    "extra": {
+      "incidentNumber": "62103",
+      "run_id": "62103",
+      "address": "900 Block Winchester Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L05,EC8",
+      "units": "L05,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62103"
+    }
   }
 ]
