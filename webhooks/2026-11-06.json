@@ -614,5 +614,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62178"
     }
+  },
+  {
+    "runNumber": "62179",
+    "rawCode": "MED",
+    "timestamp": "2026-11-06T05:40:10.795716-05:00",
+    "address": "3200 Block Dorchester Place",
+    "extra": {
+      "incidentNumber": "62179",
+      "run_id": "62179",
+      "address": "3200 Block Dorchester Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62179"
+    }
   }
 ]
