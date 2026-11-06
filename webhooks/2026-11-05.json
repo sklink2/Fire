@@ -4618,5 +4618,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62139"
     }
+  },
+  {
+    "runNumber": "62141",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-05T22:35:45.215405-05:00",
+    "address": "396 Meijer Way",
+    "extra": {
+      "incidentNumber": "62141",
+      "run_id": "62141",
+      "address": "396 Meijer Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,E20,L04,204",
+      "units": "E15,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-62141"
+    }
   }
 ]
