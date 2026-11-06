@@ -4706,5 +4706,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62143"
     }
+  },
+  {
+    "runNumber": "62144",
+    "rawCode": "MED",
+    "timestamp": "2026-11-05T23:09:10.272829-05:00",
+    "address": "200 Block Beverly Avenue",
+    "extra": {
+      "incidentNumber": "62144",
+      "run_id": "62144",
+      "address": "200 Block Beverly Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62144"
+    }
   }
 ]
