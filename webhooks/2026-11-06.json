@@ -2154,5 +2154,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62249"
     }
+  },
+  {
+    "runNumber": "62251",
+    "rawCode": "MED",
+    "timestamp": "2026-11-06T12:01:08.508450-05:00",
+    "address": "2000 Block Mark Avenue",
+    "extra": {
+      "incidentNumber": "62251",
+      "run_id": "62251",
+      "address": "2000 Block Mark Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62251"
+    }
   }
 ]
