@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62231"
     }
+  },
+  {
+    "runNumber": "62232",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-06T10:24:13.460629-05:00",
+    "address": "341 N Upper Street",
+    "extra": {
+      "incidentNumber": "62232",
+      "run_id": "62232",
+      "address": "341 N Upper Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,L02,205",
+      "units": "E01,L02,205",
+      "unitCount": "3",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-62232"
+    }
   }
 ]
