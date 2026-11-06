@@ -636,5 +636,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62179"
     }
+  },
+  {
+    "runNumber": "62180",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-11-06T05:43:31.341587-05:00",
+    "address": "Winchester Road & N 75",
+    "extra": {
+      "incidentNumber": "62180",
+      "run_id": "62180",
+      "address": "Winchester Road & N 75",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,L05,EC11,EC8,205,241,RS1",
+      "units": "E02,L05,EC11,EC8,205,241,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,205",
+      "dedupeKey": "INCIDENT-62180"
+    }
   }
 ]
