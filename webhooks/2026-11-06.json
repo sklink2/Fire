@@ -1274,5 +1274,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-62209"
     }
+  },
+  {
+    "runNumber": "62208",
+    "rawCode": "MED",
+    "timestamp": "2026-11-06T08:40:39.546425-05:00",
+    "address": "3600 Block Iron Lace Drive",
+    "extra": {
+      "incidentNumber": "62208",
+      "run_id": "62208",
+      "address": "3600 Block Iron Lace Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2,CRT1",
+      "units": "EC2,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62208"
+    }
   }
 ]
