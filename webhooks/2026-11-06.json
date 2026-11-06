@@ -3254,5 +3254,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62298"
     }
+  },
+  {
+    "runNumber": "62300",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-06T16:45:12.382576-05:00",
+    "address": "1006 Forest Lake Drive",
+    "extra": {
+      "incidentNumber": "62300",
+      "run_id": "62300",
+      "address": "1006 Forest Lake Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,E22,L07,202",
+      "units": "E16,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-62300"
+    }
   }
 ]
