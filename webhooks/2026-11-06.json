@@ -1428,5 +1428,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62215"
     }
+  },
+  {
+    "runNumber": "62216",
+    "rawCode": "MED",
+    "timestamp": "2026-11-06T09:20:43.646715-05:00",
+    "address": "1800 Block Cantrill Drive",
+    "extra": {
+      "incidentNumber": "62216",
+      "run_id": "62216",
+      "address": "1800 Block Cantrill Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC8,CRT1",
+      "units": "E02,EC8,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62216"
+    }
   }
 ]
