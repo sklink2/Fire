@@ -3584,5 +3584,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62537"
     }
+  },
+  {
+    "runNumber": "62539",
+    "rawCode": "FSIA",
+    "timestamp": "2026-11-07T18:52:28.766580-05:00",
+    "address": "1807 Marlboro Drive",
+    "extra": {
+      "incidentNumber": "62539",
+      "run_id": "62539",
+      "address": "1807 Marlboro Drive",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E10,205",
+      "units": "E08,E10,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-62539"
+    }
   }
 ]
