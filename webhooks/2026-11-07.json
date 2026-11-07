@@ -2418,5 +2418,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-62486"
     }
+  },
+  {
+    "runNumber": "62485",
+    "rawCode": "MED",
+    "timestamp": "2026-11-07T13:55:02.318578-05:00",
+    "address": "1800 Block Mccullough Drive",
+    "extra": {
+      "incidentNumber": "62485",
+      "run_id": "62485",
+      "address": "1800 Block Mccullough Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L03,EC3",
+      "units": "L03,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62485"
+    }
   }
 ]
