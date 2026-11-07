@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62455"
     }
+  },
+  {
+    "runNumber": "62458",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-07T11:24:39.706293-05:00",
+    "address": "2143 N Broadway",
+    "extra": {
+      "incidentNumber": "62458",
+      "run_id": "62458",
+      "address": "2143 N Broadway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E17,L03,204",
+      "units": "E02,E17,L03,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-62458"
+    }
   }
 ]
