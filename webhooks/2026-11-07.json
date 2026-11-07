@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62420"
     }
+  },
+  {
+    "runNumber": "62419",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-07T07:44:08.558238-05:00",
+    "address": "361 Ashmoor Drive",
+    "extra": {
+      "incidentNumber": "62419",
+      "run_id": "62419",
+      "address": "361 Ashmoor Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,E22,L07,202",
+      "units": "E15,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-62419"
+    }
   }
 ]
