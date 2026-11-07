@@ -3518,5 +3518,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62535"
     }
+  },
+  {
+    "runNumber": "62536",
+    "rawCode": "MED",
+    "timestamp": "2026-11-07T18:42:26.588088-05:00",
+    "address": "1000 Block Camellia Drive",
+    "extra": {
+      "incidentNumber": "62536",
+      "run_id": "62536",
+      "address": "1000 Block Camellia Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62536"
+    }
   }
 ]
