@@ -4750,5 +4750,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62368"
     }
+  },
+  {
+    "runNumber": "62367",
+    "rawCode": "FSIA",
+    "timestamp": "2026-11-06T22:32:43.260859-05:00",
+    "address": "1546 Astaire Drive",
+    "extra": {
+      "incidentNumber": "62367",
+      "run_id": "62367",
+      "address": "1546 Astaire Drive",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E04,201",
+      "units": "E02,E04,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-62367"
+    }
   }
 ]
