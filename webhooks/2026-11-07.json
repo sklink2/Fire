@@ -3320,5 +3320,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62526"
     }
+  },
+  {
+    "runNumber": "62529",
+    "rawCode": "FSIA",
+    "timestamp": "2026-11-07T17:55:41.242892-05:00",
+    "address": "623 Cecil Way",
+    "extra": {
+      "incidentNumber": "62529",
+      "run_id": "62529",
+      "address": "623 Cecil Way",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,E12,204",
+      "units": "E11,E12,204",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-62529"
+    }
   }
 ]
