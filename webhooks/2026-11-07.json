@@ -548,5 +548,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62400"
     }
+  },
+  {
+    "runNumber": "62402",
+    "rawCode": "FVEH",
+    "timestamp": "2026-11-07T03:46:54.714129-05:00",
+    "address": "75 Sb / 100.0 Mm",
+    "extra": {
+      "incidentNumber": "62402",
+      "run_id": "62402",
+      "address": "75 Sb / 100.0 Mm",
+      "rawType": "FVEH",
+      "typeCode": "FVEH",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E17,E18",
+      "units": "E17,E18",
+      "unitCount": "2",
+      "primaryTopic": "FVEH",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62402"
+    }
   }
 ]
