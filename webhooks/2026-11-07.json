@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62399"
     }
+  },
+  {
+    "runNumber": "62401",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-07T03:40:14.637781-05:00",
+    "address": "3898 Boston Road",
+    "extra": {
+      "incidentNumber": "62401",
+      "run_id": "62401",
+      "address": "3898 Boston Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC9",
+      "units": "E20,EC9",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62401"
+    }
   }
 ]
