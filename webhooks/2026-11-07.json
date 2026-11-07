@@ -1098,5 +1098,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62425"
     }
+  },
+  {
+    "runNumber": "62427",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-11-07T08:34:13.344260-05:00",
+    "address": "413 Marblerock Way",
+    "extra": {
+      "incidentNumber": "62427",
+      "run_id": "62427",
+      "address": "413 Marblerock Way",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,L04,EC4,202,241,RS1",
+      "units": "E15,L04,EC4,202,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-62427"
+    }
   }
 ]
