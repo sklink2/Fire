@@ -4090,5 +4090,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62337"
     }
+  },
+  {
+    "runNumber": "62339",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-06T20:09:01.854708-05:00",
+    "address": "3317 Hartston Drive",
+    "extra": {
+      "incidentNumber": "62339",
+      "run_id": "62339",
+      "address": "3317 Hartston Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,E22,L07,202",
+      "units": "E16,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-62339"
+    }
   }
 ]
