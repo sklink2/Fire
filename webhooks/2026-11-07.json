@@ -2484,5 +2484,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62487"
     }
+  },
+  {
+    "runNumber": "62489",
+    "rawCode": "MED",
+    "timestamp": "2026-11-07T14:08:26.955668-05:00",
+    "address": "100 Block Twelfth Street",
+    "extra": {
+      "incidentNumber": "62489",
+      "run_id": "62489",
+      "address": "100 Block Twelfth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC10",
+      "units": "E08,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62489"
+    }
   }
 ]
