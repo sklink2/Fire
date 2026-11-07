@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62409"
     }
+  },
+  {
+    "runNumber": "62410",
+    "rawCode": "MED",
+    "timestamp": "2026-11-07T05:47:10.898844-05:00",
+    "address": "2700 Block Mable Lane",
+    "extra": {
+      "incidentNumber": "62410",
+      "run_id": "62410",
+      "address": "2700 Block Mable Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62410"
+    }
   }
 ]
