@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62483"
     }
+  },
+  {
+    "runNumber": "62486",
+    "rawCode": "FELS",
+    "timestamp": "2026-11-07T13:55:01.563457-05:00",
+    "address": "2255 Buena Vista Road",
+    "extra": {
+      "incidentNumber": "62486",
+      "run_id": "62486",
+      "address": "2255 Buena Vista Road",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,L05,205",
+      "units": "E08,L05,205",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-62486"
+    }
   }
 ]
