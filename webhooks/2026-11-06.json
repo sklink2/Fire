@@ -4530,5 +4530,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62356"
     }
+  },
+  {
+    "runNumber": "62355",
+    "rawCode": "MED",
+    "timestamp": "2026-11-06T21:39:18.072339-05:00",
+    "address": "2000 Block Street Teresa Drive",
+    "extra": {
+      "incidentNumber": "62355",
+      "run_id": "62355",
+      "address": "2000 Block Street Teresa Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62355"
+    }
   }
 ]
