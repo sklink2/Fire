@@ -1516,5 +1516,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62444"
     }
+  },
+  {
+    "runNumber": "62446",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-07T10:31:11.681920-05:00",
+    "address": "1101 Veterans Drive",
+    "extra": {
+      "incidentNumber": "62446",
+      "run_id": "62446",
+      "address": "1101 Veterans Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,E11,L02,204",
+      "units": "E05,E06,E11,L02,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-62446"
+    }
   }
 ]
