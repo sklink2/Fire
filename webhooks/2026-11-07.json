@@ -1648,5 +1648,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-62450"
     }
+  },
+  {
+    "runNumber": "62452",
+    "rawCode": "MED",
+    "timestamp": "2026-11-07T11:01:16.374335-05:00",
+    "address": "1600 Block Jennifer Road",
+    "extra": {
+      "incidentNumber": "62452",
+      "run_id": "62452",
+      "address": "1600 Block Jennifer Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62452"
+    }
   }
 ]
