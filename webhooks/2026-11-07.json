@@ -966,5 +966,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-62419"
     }
+  },
+  {
+    "runNumber": "62421",
+    "rawCode": "MED",
+    "timestamp": "2026-11-07T07:47:28.001883-05:00",
+    "address": "1900 Block Malvern Road",
+    "extra": {
+      "incidentNumber": "62421",
+      "run_id": "62421",
+      "address": "1900 Block Malvern Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,EC12",
+      "units": "E14,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62421"
+    }
   }
 ]
