@@ -1802,5 +1802,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-62458"
     }
+  },
+  {
+    "runNumber": "62457",
+    "rawCode": "MED",
+    "timestamp": "2026-11-07T11:24:39.969033-05:00",
+    "address": "700 Block N Broadway",
+    "extra": {
+      "incidentNumber": "62457",
+      "run_id": "62457",
+      "address": "700 Block N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC3",
+      "units": "E01,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62457"
+    }
   }
 ]
