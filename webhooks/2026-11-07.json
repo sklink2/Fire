@@ -3188,5 +3188,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62520"
     }
+  },
+  {
+    "runNumber": "62521",
+    "rawCode": "FELF",
+    "timestamp": "2026-11-07T16:58:51.644956-05:00",
+    "address": "2838 Hanna Place",
+    "extra": {
+      "incidentNumber": "62521",
+      "run_id": "62521",
+      "address": "2838 Hanna Place",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E09,L06,201",
+      "units": "E02,E09,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-62521"
+    }
   }
 ]
