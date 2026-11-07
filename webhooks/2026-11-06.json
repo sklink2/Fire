@@ -4354,5 +4354,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62349"
     }
+  },
+  {
+    "runNumber": "62351",
+    "rawCode": "FELS",
+    "timestamp": "2026-11-06T21:05:51.534714-05:00",
+    "address": "300 W Vine Street",
+    "extra": {
+      "incidentNumber": "62351",
+      "run_id": "62351",
+      "address": "300 W Vine Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L02,205,RS1",
+      "units": "L02,205,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-62351"
+    }
   }
 ]
