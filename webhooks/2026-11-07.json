@@ -614,5 +614,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62403"
     }
+  },
+  {
+    "runNumber": "62405",
+    "rawCode": "MED",
+    "timestamp": "2026-11-07T04:43:41.066654-05:00",
+    "address": "1000 Block Briarwood Drive",
+    "extra": {
+      "incidentNumber": "62405",
+      "run_id": "62405",
+      "address": "1000 Block Briarwood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62405"
+    }
   }
 ]
