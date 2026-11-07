@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62449"
     }
+  },
+  {
+    "runNumber": "62450",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-07T10:51:14.316831-05:00",
+    "address": "5053 Ivybridge Drive",
+    "extra": {
+      "incidentNumber": "62450",
+      "run_id": "62450",
+      "address": "5053 Ivybridge Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,E22,L07,202",
+      "units": "E12,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-62450"
+    }
   }
 ]
