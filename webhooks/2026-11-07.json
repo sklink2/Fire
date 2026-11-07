@@ -3210,5 +3210,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-62521"
     }
+  },
+  {
+    "runNumber": "62522",
+    "rawCode": "MED",
+    "timestamp": "2026-11-07T17:12:14.099017-05:00",
+    "address": "500 Block Rhodora Ridge",
+    "extra": {
+      "incidentNumber": "62522",
+      "run_id": "62522",
+      "address": "500 Block Rhodora Ridge",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62522"
+    }
   }
 ]
