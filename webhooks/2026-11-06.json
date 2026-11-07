@@ -4838,5 +4838,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62371"
     }
+  },
+  {
+    "runNumber": "62372",
+    "rawCode": "MED",
+    "timestamp": "2026-11-06T23:22:52.927331-05:00",
+    "address": "300 Block E Fifth Street",
+    "extra": {
+      "incidentNumber": "62372",
+      "run_id": "62372",
+      "address": "300 Block E Fifth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62372"
+    }
   }
 ]
