@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62536"
     }
+  },
+  {
+    "runNumber": "62538",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-07T18:45:46.786908-05:00",
+    "address": "3621 Polo Club Boulevard",
+    "extra": {
+      "incidentNumber": "62538",
+      "run_id": "62538",
+      "address": "3621 Polo Club Boulevard",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17,E21,L06,201",
+      "units": "E17,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-62538"
+    }
   }
 ]
