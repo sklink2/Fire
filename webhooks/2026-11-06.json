@@ -4574,5 +4574,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62359"
     }
+  },
+  {
+    "runNumber": "62360",
+    "rawCode": "MED",
+    "timestamp": "2026-11-06T21:59:18.675893-05:00",
+    "address": "200 Block Clinton Road",
+    "extra": {
+      "incidentNumber": "62360",
+      "run_id": "62360",
+      "address": "200 Block Clinton Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,EC7,241",
+      "units": "E05,EC7,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-62360"
+    }
   }
 ]
