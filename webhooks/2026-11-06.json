@@ -4596,5 +4596,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-62360"
     }
+  },
+  {
+    "runNumber": "62361",
+    "rawCode": "MED",
+    "timestamp": "2026-11-06T22:19:21.974404-05:00",
+    "address": "2300 Block Mulundy Way",
+    "extra": {
+      "incidentNumber": "62361",
+      "run_id": "62361",
+      "address": "2300 Block Mulundy Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62361"
+    }
   }
 ]
