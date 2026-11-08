@@ -1494,5 +1494,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62656"
     }
+  },
+  {
+    "runNumber": "62657",
+    "rawCode": "FCAR",
+    "timestamp": "2026-11-08T10:44:45.322562-05:00",
+    "address": "1236 Summit Drive",
+    "extra": {
+      "incidentNumber": "62657",
+      "run_id": "62657",
+      "address": "1236 Summit Drive",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L02",
+      "units": "L02",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62657"
+    }
   }
 ]
