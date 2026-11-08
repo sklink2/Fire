@@ -1604,5 +1604,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62662"
     }
+  },
+  {
+    "runNumber": "62661",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-08T11:21:29.900972-05:00",
+    "address": "3395 Spangler Drive",
+    "extra": {
+      "incidentNumber": "62661",
+      "run_id": "62661",
+      "address": "3395 Spangler Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22",
+      "units": "E22",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62661"
+    }
   }
 ]
