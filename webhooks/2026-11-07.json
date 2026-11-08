@@ -4618,5 +4618,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62585"
     }
+  },
+  {
+    "runNumber": "62586",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-07T23:19:47.501457-05:00",
+    "address": "2141 Executive Drive",
+    "extra": {
+      "incidentNumber": "62586",
+      "run_id": "62586",
+      "address": "2141 Executive Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E17,201",
+      "units": "E02,E17,201",
+      "unitCount": "3",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-62586"
+    }
   }
 ]
