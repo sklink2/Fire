@@ -1076,5 +1076,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62639"
     }
+  },
+  {
+    "runNumber": "62640",
+    "rawCode": "MED",
+    "timestamp": "2026-11-08T08:24:24.709880-05:00",
+    "address": "400 Block Chelsea Woods Drive",
+    "extra": {
+      "incidentNumber": "62640",
+      "run_id": "62640",
+      "address": "400 Block Chelsea Woods Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62640"
+    }
   }
 ]
