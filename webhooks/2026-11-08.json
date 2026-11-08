@@ -2902,5 +2902,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62721"
     }
+  },
+  {
+    "runNumber": "62720",
+    "rawCode": "FSTR",
+    "timestamp": "2026-11-08T16:59:01.434181-05:00",
+    "address": "1605 Ft Sumter Drive",
+    "extra": {
+      "incidentNumber": "62720",
+      "run_id": "62720",
+      "address": "1605 Ft Sumter Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E08,E09,E13,L01,L05,EC3,201,205,220,241,RS1",
+      "units": "E02,E08,E09,E13,L01,L05,EC3,201,205,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,205",
+      "dedupeKey": "INCIDENT-62720"
+    }
   }
 ]
