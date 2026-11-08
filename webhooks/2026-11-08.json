@@ -3100,5 +3100,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62730"
     }
+  },
+  {
+    "runNumber": "62729",
+    "rawCode": "MED",
+    "timestamp": "2026-11-08T17:55:51.948709-05:00",
+    "address": "2700 Block Palumbo Drive",
+    "extra": {
+      "incidentNumber": "62729",
+      "run_id": "62729",
+      "address": "2700 Block Palumbo Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L06,EC13",
+      "units": "L06,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62729"
+    }
   }
 ]
