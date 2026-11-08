@@ -372,5 +372,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62606"
     }
+  },
+  {
+    "runNumber": "62607",
+    "rawCode": "MED",
+    "timestamp": "2026-11-08T02:20:12.109779-05:00",
+    "address": "300 Block Huguelet Drive",
+    "extra": {
+      "incidentNumber": "62607",
+      "run_id": "62607",
+      "address": "300 Block Huguelet Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,EC12",
+      "units": "E06,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62607"
+    }
   }
 ]
