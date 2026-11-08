@@ -2990,5 +2990,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-62724"
     }
+  },
+  {
+    "runNumber": "62725",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-08T17:29:05.966759-05:00",
+    "address": "685 S Limestone",
+    "extra": {
+      "incidentNumber": "62725",
+      "run_id": "62725",
+      "address": "685 S Limestone",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L02",
+      "units": "L02",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62725"
+    }
   }
 ]
