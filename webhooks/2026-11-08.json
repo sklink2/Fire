@@ -1912,5 +1912,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62675"
     }
+  },
+  {
+    "runNumber": "62676",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-08T13:38:33.358418-05:00",
+    "address": "318 E Main Street",
+    "extra": {
+      "incidentNumber": "62676",
+      "run_id": "62676",
+      "address": "318 E Main Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E05,L01,205",
+      "units": "E01,E05,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-62676"
+    }
   }
 ]
