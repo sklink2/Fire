@@ -900,5 +900,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62631"
     }
+  },
+  {
+    "runNumber": "62632",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-08T05:57:23.276800-05:00",
+    "address": "501 Henry Clay Boulevard",
+    "extra": {
+      "incidentNumber": "62632",
+      "run_id": "62632",
+      "address": "501 Henry Clay Boulevard",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E09,L05,201",
+      "units": "E01,E09,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-62632"
+    }
   }
 ]
