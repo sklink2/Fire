@@ -2066,5 +2066,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-62681"
     }
+  },
+  {
+    "runNumber": "62683",
+    "rawCode": "MED",
+    "timestamp": "2026-11-08T14:21:58.842919-05:00",
+    "address": "4500 Block Thornbridge Lane",
+    "extra": {
+      "incidentNumber": "62683",
+      "run_id": "62683",
+      "address": "4500 Block Thornbridge Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62683"
+    }
   }
 ]
