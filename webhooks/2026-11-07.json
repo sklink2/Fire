@@ -4332,5 +4332,27 @@
       "commandUnits": "220,202",
       "dedupeKey": "INCIDENT-62572"
     }
+  },
+  {
+    "runNumber": "62571",
+    "rawCode": "MED",
+    "timestamp": "2026-11-07T21:42:52.192230-05:00",
+    "address": "900 Block Fairhaven Drive",
+    "extra": {
+      "incidentNumber": "62571",
+      "run_id": "62571",
+      "address": "900 Block Fairhaven Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC13,CRT1",
+      "units": "E22,EC13,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62571"
+    }
   }
 ]
