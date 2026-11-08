@@ -4574,5 +4574,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62583"
     }
+  },
+  {
+    "runNumber": "62584",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-07T23:13:07.233174-05:00",
+    "address": "1203 Versailles Road",
+    "extra": {
+      "incidentNumber": "62584",
+      "run_id": "62584",
+      "address": "1203 Versailles Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10,241,RS1",
+      "units": "EC10,241,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-62584"
+    }
   }
 ]
