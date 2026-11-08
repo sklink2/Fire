@@ -4420,5 +4420,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62575"
     }
+  },
+  {
+    "runNumber": "62577",
+    "rawCode": "MED",
+    "timestamp": "2026-11-07T22:02:58.903624-05:00",
+    "address": "100 Block Northbay Drive",
+    "extra": {
+      "incidentNumber": "62577",
+      "run_id": "62577",
+      "address": "100 Block Northbay Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC12",
+      "units": "E15,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62577"
+    }
   }
 ]
