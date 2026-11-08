@@ -636,5 +636,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-62619"
     }
+  },
+  {
+    "runNumber": "62618",
+    "rawCode": "MED",
+    "timestamp": "2026-11-08T03:37:02.144529-05:00",
+    "address": "600 Block Murphys Run",
+    "extra": {
+      "incidentNumber": "62618",
+      "run_id": "62618",
+      "address": "600 Block Murphys Run",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62618"
+    }
   }
 ]
