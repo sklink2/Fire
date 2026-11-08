@@ -2484,5 +2484,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62701"
     }
+  },
+  {
+    "runNumber": "62703",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-08T15:45:30.642312-05:00",
+    "address": "3849 Grassy Creek Drive",
+    "extra": {
+      "incidentNumber": "62703",
+      "run_id": "62703",
+      "address": "3849 Grassy Creek Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E22,L04,EC5,204,220",
+      "units": "E16,E22,L04,EC5,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-62703"
+    }
   }
 ]
