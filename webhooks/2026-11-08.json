@@ -2968,5 +2968,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62722"
     }
+  },
+  {
+    "runNumber": "62724",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-08T17:22:26.176377-05:00",
+    "address": "3025 Blake James Drive",
+    "extra": {
+      "incidentNumber": "62724",
+      "run_id": "62724",
+      "address": "3025 Blake James Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E21,L06,201",
+      "units": "E09,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-62724"
+    }
   }
 ]
