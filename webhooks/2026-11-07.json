@@ -4200,5 +4200,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62566"
     }
+  },
+  {
+    "runNumber": "62567",
+    "rawCode": "FSIA",
+    "timestamp": "2026-11-07T21:22:49.439739-05:00",
+    "address": "Winchester Road & Sir Barton Way",
+    "extra": {
+      "incidentNumber": "62567",
+      "run_id": "62567",
+      "address": "Winchester Road & Sir Barton Way",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E17,201",
+      "units": "E02,E17,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-62567"
+    }
   }
 ]
