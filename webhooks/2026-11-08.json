@@ -3056,5 +3056,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62728"
     }
+  },
+  {
+    "runNumber": "62727",
+    "rawCode": "MED",
+    "timestamp": "2026-11-08T17:39:08.177774-05:00",
+    "address": "4200 Block Sperling Drive",
+    "extra": {
+      "incidentNumber": "62727",
+      "run_id": "62727",
+      "address": "4200 Block Sperling Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L06,EC2",
+      "units": "L06,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62727"
+    }
   }
 ]
