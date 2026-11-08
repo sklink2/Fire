@@ -2660,5 +2660,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62708"
     }
+  },
+  {
+    "runNumber": "62710",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-08T16:05:35.181792-05:00",
+    "address": "2104 Lighthouse Lane",
+    "extra": {
+      "incidentNumber": "62710",
+      "run_id": "62710",
+      "address": "2104 Lighthouse Lane",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06",
+      "units": "E06",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62710"
+    }
   }
 ]
