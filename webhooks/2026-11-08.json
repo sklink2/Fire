@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62702"
     }
+  },
+  {
+    "runNumber": "62706",
+    "rawCode": "MED",
+    "timestamp": "2026-11-08T15:48:51.771832-05:00",
+    "address": "2300 Block Grey Lag Way",
+    "extra": {
+      "incidentNumber": "62706",
+      "run_id": "62706",
+      "address": "2300 Block Grey Lag Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC3",
+      "units": "E02,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62706"
+    }
   }
 ]
