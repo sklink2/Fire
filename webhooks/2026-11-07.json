@@ -4662,5 +4662,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62587"
     }
+  },
+  {
+    "runNumber": "62588",
+    "rawCode": "MED",
+    "timestamp": "2026-11-07T23:36:29.987532-05:00",
+    "address": "500 Block Southwind Terrace",
+    "extra": {
+      "incidentNumber": "62588",
+      "run_id": "62588",
+      "address": "500 Block Southwind Terrace",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC4",
+      "units": "E22,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62588"
+    }
   }
 ]
