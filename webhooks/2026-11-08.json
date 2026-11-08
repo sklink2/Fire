@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62635"
     }
+  },
+  {
+    "runNumber": "62636",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-08T07:14:16.200523-05:00",
+    "address": "3916 Weber Way",
+    "extra": {
+      "incidentNumber": "62636",
+      "run_id": "62636",
+      "address": "3916 Weber Way",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,E20,L04,204",
+      "units": "E15,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-62636"
+    }
   }
 ]
