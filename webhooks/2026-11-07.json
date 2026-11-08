@@ -3782,5 +3782,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62548"
     }
+  },
+  {
+    "runNumber": "62547",
+    "rawCode": "MED",
+    "timestamp": "2026-11-07T19:19:12.154743-05:00",
+    "address": "1300 Block Winchester Road",
+    "extra": {
+      "incidentNumber": "62547",
+      "run_id": "62547",
+      "address": "1300 Block Winchester Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC1",
+      "units": "E02,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62547"
+    }
   }
 ]
