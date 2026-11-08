@@ -2726,5 +2726,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62713"
     }
+  },
+  {
+    "runNumber": "62712",
+    "rawCode": "MED",
+    "timestamp": "2026-11-08T16:18:54.951556-05:00",
+    "address": "100 Block W Maxwell Street",
+    "extra": {
+      "incidentNumber": "62712",
+      "run_id": "62712",
+      "address": "100 Block W Maxwell Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "RS1",
+      "units": "RS1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62712"
+    }
   }
 ]
