@@ -2594,5 +2594,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62704"
     }
+  },
+  {
+    "runNumber": "62707",
+    "rawCode": "FMIS",
+    "timestamp": "2026-11-08T15:58:54.386929-05:00",
+    "address": "1040 Cross Keys Road",
+    "extra": {
+      "incidentNumber": "62707",
+      "run_id": "62707",
+      "address": "1040 Cross Keys Road",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,204",
+      "units": "E14,204",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-62707"
+    }
   }
 ]
