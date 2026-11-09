@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62806"
     }
+  },
+  {
+    "runNumber": "62807",
+    "rawCode": "MED",
+    "timestamp": "2026-11-09T07:14:25.730195-05:00",
+    "address": "300 Block Manhattan Drive",
+    "extra": {
+      "incidentNumber": "62807",
+      "run_id": "62807",
+      "address": "300 Block Manhattan Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62807"
+    }
   }
 ]
