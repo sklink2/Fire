@@ -1098,5 +1098,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62824"
     }
+  },
+  {
+    "runNumber": "62823",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-09T08:54:38.809923-05:00",
+    "address": "235 Walton Avenue",
+    "extra": {
+      "incidentNumber": "62823",
+      "run_id": "62823",
+      "address": "235 Walton Avenue",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62823"
+    }
   }
 ]
