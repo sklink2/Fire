@@ -1912,5 +1912,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62860"
     }
+  },
+  {
+    "runNumber": "62862",
+    "rawCode": "MED",
+    "timestamp": "2026-11-09T12:25:08.546588-05:00",
+    "address": "900 Block Gregory Way",
+    "extra": {
+      "incidentNumber": "62862",
+      "run_id": "62862",
+      "address": "900 Block Gregory Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC9,CRT1",
+      "units": "EC9,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62862"
+    }
   }
 ]
