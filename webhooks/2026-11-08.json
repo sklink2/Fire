@@ -3958,5 +3958,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62767"
     }
+  },
+  {
+    "runNumber": "62768",
+    "rawCode": "MED",
+    "timestamp": "2026-11-08T23:13:15.323713-05:00",
+    "address": "400 Block Patchen Drive",
+    "extra": {
+      "incidentNumber": "62768",
+      "run_id": "62768",
+      "address": "400 Block Patchen Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62768"
+    }
   }
 ]
