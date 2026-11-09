@@ -3298,5 +3298,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62921"
     }
+  },
+  {
+    "runNumber": "62923",
+    "rawCode": "MED",
+    "timestamp": "2026-11-09T17:12:31.561913-05:00",
+    "address": "1700 Block New Orleans Court",
+    "extra": {
+      "incidentNumber": "62923",
+      "run_id": "62923",
+      "address": "1700 Block New Orleans Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC4",
+      "units": "E02,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62923"
+    }
   }
 ]
