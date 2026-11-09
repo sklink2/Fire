@@ -3386,5 +3386,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62927"
     }
+  },
+  {
+    "runNumber": "62926",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-09T17:35:58.433452-05:00",
+    "address": "512 Administration Drive",
+    "extra": {
+      "incidentNumber": "62926",
+      "run_id": "62926",
+      "address": "512 Administration Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E11,L02,EC7,204,220",
+      "units": "E06,E11,L02,EC7,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-62926"
+    }
   }
 ]
