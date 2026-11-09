@@ -64,5 +64,27 @@
       "commandUnits": "220,204",
       "dedupeKey": "INCIDENT-62774"
     }
+  },
+  {
+    "runNumber": "62775",
+    "rawCode": "MED",
+    "timestamp": "2026-11-09T01:00:09.914471-05:00",
+    "address": "1800 Block Versailles Road",
+    "extra": {
+      "incidentNumber": "62775",
+      "run_id": "62775",
+      "address": "1800 Block Versailles Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62775"
+    }
   }
 ]
