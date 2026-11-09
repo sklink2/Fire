@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62877"
     }
+  },
+  {
+    "runNumber": "62876",
+    "rawCode": "FSIA",
+    "timestamp": "2026-11-09T13:31:59.544412-05:00",
+    "address": "2088 Street Teresa Drive",
+    "extra": {
+      "incidentNumber": "62876",
+      "run_id": "62876",
+      "address": "2088 Street Teresa Drive",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E21,201",
+      "units": "E05,E21,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-62876"
+    }
   }
 ]
