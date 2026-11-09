@@ -856,5 +856,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62809"
     }
+  },
+  {
+    "runNumber": "62811",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-09T07:27:46.597847-05:00",
+    "address": "Winterberry Drive & Juniper Drive",
+    "extra": {
+      "incidentNumber": "62811",
+      "run_id": "62811",
+      "address": "Winterberry Drive & Juniper Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,EC12",
+      "units": "E12,EC12",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62811"
+    }
   }
 ]
