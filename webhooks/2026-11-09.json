@@ -2726,5 +2726,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62897"
     }
+  },
+  {
+    "runNumber": "62898",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-09T15:12:14.820822-05:00",
+    "address": "1201 Red Mile Road",
+    "extra": {
+      "incidentNumber": "62898",
+      "run_id": "62898",
+      "address": "1201 Red Mile Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E11,L02,203",
+      "units": "E06,E11,L02,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-62898"
+    }
   }
 ]
