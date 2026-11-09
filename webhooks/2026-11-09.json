@@ -1406,5 +1406,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62839"
     }
+  },
+  {
+    "runNumber": "62838",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-09T10:04:48.581288-05:00",
+    "address": "605 Hill N Dale Road",
+    "extra": {
+      "incidentNumber": "62838",
+      "run_id": "62838",
+      "address": "605 Hill N Dale Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,E20,L04,204",
+      "units": "E15,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-62838"
+    }
   }
 ]
