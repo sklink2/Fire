@@ -3232,5 +3232,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62920"
     }
+  },
+  {
+    "runNumber": "62919",
+    "rawCode": "FELS",
+    "timestamp": "2026-11-09T16:49:08.808993-05:00",
+    "address": "3060 Fieldstone Way",
+    "extra": {
+      "incidentNumber": "62919",
+      "run_id": "62919",
+      "address": "3060 Fieldstone Way",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,L04,204",
+      "units": "E12,L04,204",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-62919"
+    }
   }
 ]
