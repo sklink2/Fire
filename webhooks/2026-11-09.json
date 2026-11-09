@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62846"
     }
+  },
+  {
+    "runNumber": "62842",
+    "rawCode": "MED",
+    "timestamp": "2026-11-09T10:38:12.821002-05:00",
+    "address": "500 Block Lone Oak Drive",
+    "extra": {
+      "incidentNumber": "62842",
+      "run_id": "62842",
+      "address": "500 Block Lone Oak Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC9",
+      "units": "E20,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62842"
+    }
   }
 ]
