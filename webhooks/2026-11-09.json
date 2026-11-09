@@ -3056,5 +3056,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62912"
     }
+  },
+  {
+    "runNumber": "62914",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-09T16:29:06.657771-05:00",
+    "address": "1441 Sunshine Lane",
+    "extra": {
+      "incidentNumber": "62914",
+      "run_id": "62914",
+      "address": "1441 Sunshine Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E10,L05,201",
+      "units": "E02,E10,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-62914"
+    }
   }
 ]
