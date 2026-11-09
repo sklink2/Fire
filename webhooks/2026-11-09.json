@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62861"
     }
+  },
+  {
+    "runNumber": "62864",
+    "rawCode": "MED",
+    "timestamp": "2026-11-09T12:48:31.474922-05:00",
+    "address": "2200 Block Winterberry Drive",
+    "extra": {
+      "incidentNumber": "62864",
+      "run_id": "62864",
+      "address": "2200 Block Winterberry Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L04,EC5",
+      "units": "L04,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62864"
+    }
   }
 ]
