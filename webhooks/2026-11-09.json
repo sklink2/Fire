@@ -3650,5 +3650,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62938"
     }
+  },
+  {
+    "runNumber": "62940",
+    "rawCode": "MED",
+    "timestamp": "2026-11-09T18:46:07.831869-05:00",
+    "address": "400 Block Henry Clay Boulevard",
+    "extra": {
+      "incidentNumber": "62940",
+      "run_id": "62940",
+      "address": "400 Block Henry Clay Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62940"
+    }
   }
 ]
