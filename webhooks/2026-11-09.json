@@ -2902,5 +2902,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-62905"
     }
+  },
+  {
+    "runNumber": "62908",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-09T16:09:01.719014-05:00",
+    "address": "Harrodsburg Road & Springridge D",
+    "extra": {
+      "incidentNumber": "62908",
+      "run_id": "62908",
+      "address": "Harrodsburg Road & Springridge D",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62908"
+    }
   }
 ]
