@@ -3496,5 +3496,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-62931"
     }
+  },
+  {
+    "runNumber": "62932",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-09T17:59:21.092789-05:00",
+    "address": "1692 Mooreland Drive",
+    "extra": {
+      "incidentNumber": "62932",
+      "run_id": "62932",
+      "address": "1692 Mooreland Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E16,L07,EC9,201",
+      "units": "E07,E16,L07,EC9,201",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-62932"
+    }
   }
 ]
