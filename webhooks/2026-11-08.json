@@ -3474,5 +3474,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62746"
     }
+  },
+  {
+    "runNumber": "62747",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-08T19:39:25.809846-05:00",
+    "address": "520 Booker Street",
+    "extra": {
+      "incidentNumber": "62747",
+      "run_id": "62747",
+      "address": "520 Booker Street",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E10,L03,EC6,205,220",
+      "units": "E04,E10,L03,EC6,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-62747"
+    }
   }
 ]
