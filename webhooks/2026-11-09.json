@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62787"
     }
+  },
+  {
+    "runNumber": "62788",
+    "rawCode": "MED",
+    "timestamp": "2026-11-09T03:33:54.040155-05:00",
+    "address": "2200 Block Elkhorn Road",
+    "extra": {
+      "incidentNumber": "62788",
+      "run_id": "62788",
+      "address": "2200 Block Elkhorn Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC11",
+      "units": "E02,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62788"
+    }
   }
 ]
