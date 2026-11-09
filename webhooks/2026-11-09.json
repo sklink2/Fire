@@ -3474,5 +3474,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62929"
     }
+  },
+  {
+    "runNumber": "62931",
+    "rawCode": "FSIA",
+    "timestamp": "2026-11-09T17:49:16.666159-05:00",
+    "address": "342 Owsley Avenue",
+    "extra": {
+      "incidentNumber": "62931",
+      "run_id": "62931",
+      "address": "342 Owsley Avenue",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E05,205",
+      "units": "E01,E05,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-62931"
+    }
   }
 ]
