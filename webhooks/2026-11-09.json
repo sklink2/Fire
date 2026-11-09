@@ -3452,5 +3452,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62930"
     }
+  },
+  {
+    "runNumber": "62929",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-09T17:45:57.128356-05:00",
+    "address": "75 Nb / 113.0 Mm (Paris Pike",
+    "extra": {
+      "incidentNumber": "62929",
+      "run_id": "62929",
+      "address": "75 Nb / 113.0 Mm (Paris Pike",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E08,E17,EC13",
+      "units": "E02,E08,E17,EC13",
+      "unitCount": "4",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62929"
+    }
   }
 ]
