@@ -482,5 +482,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62794"
     }
+  },
+  {
+    "runNumber": "62793",
+    "rawCode": "MED",
+    "timestamp": "2026-11-09T04:54:05.667220-05:00",
+    "address": "2800 Block Belle Haven Place",
+    "extra": {
+      "incidentNumber": "62793",
+      "run_id": "62793",
+      "address": "2800 Block Belle Haven Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62793"
+    }
   }
 ]
