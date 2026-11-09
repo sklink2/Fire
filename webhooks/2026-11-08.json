@@ -3342,5 +3342,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62740"
     }
+  },
+  {
+    "runNumber": "62741",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-08T19:06:01.458509-05:00",
+    "address": "425 Stonehedge Place",
+    "extra": {
+      "incidentNumber": "62741",
+      "run_id": "62741",
+      "address": "425 Stonehedge Place",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E21,L06,202",
+      "units": "E09,E21,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-62741"
+    }
   }
 ]
