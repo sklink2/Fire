@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62801"
     }
+  },
+  {
+    "runNumber": "62802",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-09T06:51:01.289152-05:00",
+    "address": "Cooper Drive & University Drive",
+    "extra": {
+      "incidentNumber": "62802",
+      "run_id": "62802",
+      "address": "Cooper Drive & University Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,EC7",
+      "units": "E06,EC7",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62802"
+    }
   }
 ]
