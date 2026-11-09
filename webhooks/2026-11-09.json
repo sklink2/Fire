@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62855"
     }
+  },
+  {
+    "runNumber": "62857",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-09T11:55:02.944893-05:00",
+    "address": "753 Kingston Road",
+    "extra": {
+      "incidentNumber": "62857",
+      "run_id": "62857",
+      "address": "753 Kingston Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E19",
+      "units": "E19",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62857"
+    }
   }
 ]
