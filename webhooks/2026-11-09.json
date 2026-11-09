@@ -526,5 +526,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62795"
     }
+  },
+  {
+    "runNumber": "62796",
+    "rawCode": "MED",
+    "timestamp": "2026-11-09T05:07:29.567193-05:00",
+    "address": "700 Block Maple Avenue",
+    "extra": {
+      "incidentNumber": "62796",
+      "run_id": "62796",
+      "address": "700 Block Maple Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62796"
+    }
   }
 ]
