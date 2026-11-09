@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62900"
     }
+  },
+  {
+    "runNumber": "62901",
+    "rawCode": "MED",
+    "timestamp": "2026-11-09T15:25:35.693354-05:00",
+    "address": "900 Block Effie Road",
+    "extra": {
+      "incidentNumber": "62901",
+      "run_id": "62901",
+      "address": "900 Block Effie Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62901"
+    }
   }
 ]
