@@ -3078,5 +3078,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-62914"
     }
+  },
+  {
+    "runNumber": "62913",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-09T16:29:06.872496-05:00",
+    "address": "7933 Old Richmond Road",
+    "extra": {
+      "incidentNumber": "62913",
+      "run_id": "62913",
+      "address": "7933 Old Richmond Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E18,EC11",
+      "units": "E18,EC11",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62913"
+    }
   }
 ]
