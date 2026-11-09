@@ -3122,5 +3122,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62915"
     }
+  },
+  {
+    "runNumber": "62913",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-11-09T16:35:46.628818-05:00",
+    "address": "7933 Old Richmond Road",
+    "extra": {
+      "incidentNumber": "62913",
+      "run_id": "62913",
+      "address": "7933 Old Richmond Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E18,L06,EC11,202,241,RS1",
+      "units": "E18,L06,EC11,202,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-62913"
+    }
   }
 ]
