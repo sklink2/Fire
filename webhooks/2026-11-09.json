@@ -3430,5 +3430,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-62928"
     }
+  },
+  {
+    "runNumber": "62930",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-11-09T17:45:56.963065-05:00",
+    "address": "1532 Cantrill Drive",
+    "extra": {
+      "incidentNumber": "62930",
+      "run_id": "62930",
+      "address": "1532 Cantrill Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L05",
+      "units": "L05",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62930"
+    }
   }
 ]
