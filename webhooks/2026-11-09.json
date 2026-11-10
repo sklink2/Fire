@@ -4178,5 +4178,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-62961"
     }
+  },
+  {
+    "runNumber": "62963",
+    "rawCode": "FOTS",
+    "timestamp": "2026-11-09T20:33:02.746873-05:00",
+    "address": "S Broadway / American Avenue",
+    "extra": {
+      "incidentNumber": "62963",
+      "run_id": "62963",
+      "address": "S Broadway / American Avenue",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62963"
+    }
   }
 ]
