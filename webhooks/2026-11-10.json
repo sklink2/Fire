@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63121"
     }
+  },
+  {
+    "runNumber": "63122",
+    "rawCode": "FMEA",
+    "timestamp": "2026-11-10T15:02:31.336197-05:00",
+    "address": "333 W Vine Street",
+    "extra": {
+      "incidentNumber": "63122",
+      "run_id": "63122",
+      "address": "333 W Vine Street",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63122"
+    }
   }
 ]
