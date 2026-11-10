@@ -2704,5 +2704,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-63117"
     }
+  },
+  {
+    "runNumber": "63120",
+    "rawCode": "MED",
+    "timestamp": "2026-11-10T14:49:06.879699-05:00",
+    "address": "400 Block Lakebow Court",
+    "extra": {
+      "incidentNumber": "63120",
+      "run_id": "63120",
+      "address": "400 Block Lakebow Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63120"
+    }
   }
 ]
