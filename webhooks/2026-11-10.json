@@ -2858,5 +2858,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63125"
     }
+  },
+  {
+    "runNumber": "63124",
+    "rawCode": "MED",
+    "timestamp": "2026-11-10T15:19:12.466575-05:00",
+    "address": "2300 Block Alexandria Drive",
+    "extra": {
+      "incidentNumber": "63124",
+      "run_id": "63124",
+      "address": "2300 Block Alexandria Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63124"
+    }
   }
 ]
