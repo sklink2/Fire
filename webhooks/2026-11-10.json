@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63026"
     }
+  },
+  {
+    "runNumber": "63029",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-10T05:57:46.776321-05:00",
+    "address": "2050 Versailles Road",
+    "extra": {
+      "incidentNumber": "63029",
+      "run_id": "63029",
+      "address": "2050 Versailles Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E14,L04,204",
+      "units": "E11,E14,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-63029"
+    }
   }
 ]
