@@ -1450,5 +1450,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63060"
     }
+  },
+  {
+    "runNumber": "63062",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-10T09:44:59.310343-05:00",
+    "address": "712 Lancaster Avenue",
+    "extra": {
+      "incidentNumber": "63062",
+      "run_id": "63062",
+      "address": "712 Lancaster Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E05,L01,205",
+      "units": "E01,E05,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-63062"
+    }
   }
 ]
