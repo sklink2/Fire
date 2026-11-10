@@ -3606,5 +3606,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63158"
     }
+  },
+  {
+    "runNumber": "63160",
+    "rawCode": "MED",
+    "timestamp": "2026-11-10T18:23:00.976696-05:00",
+    "address": "3200 Block Maddenhurst Court",
+    "extra": {
+      "incidentNumber": "63160",
+      "run_id": "63160",
+      "address": "3200 Block Maddenhurst Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63160"
+    }
   }
 ]
