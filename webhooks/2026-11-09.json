@@ -3716,5 +3716,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62941"
     }
+  },
+  {
+    "runNumber": "62942",
+    "rawCode": "MED",
+    "timestamp": "2026-11-09T19:02:48.788379-05:00",
+    "address": "500 Block Elm Tree Lane",
+    "extra": {
+      "incidentNumber": "62942",
+      "run_id": "62942",
+      "address": "500 Block Elm Tree Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L01,EC1",
+      "units": "L01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62942"
+    }
   }
 ]
