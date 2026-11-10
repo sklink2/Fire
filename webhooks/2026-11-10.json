@@ -20,5 +20,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62997"
     }
+  },
+  {
+    "runNumber": "62998",
+    "rawCode": "FSTRW",
+    "timestamp": "2026-11-10T00:10:14.787799-05:00",
+    "address": "182 Carlisle Avenue",
+    "extra": {
+      "incidentNumber": "62998",
+      "run_id": "62998",
+      "address": "182 Carlisle Avenue",
+      "rawType": "FSTRW",
+      "typeCode": "FSTRW",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E02,E08,E13,L01,L05,EC1,EC8,201,205,200,220,RS1",
+      "units": "E01,E02,E08,E13,L01,L05,EC1,EC8,201,205,200,220,RS1",
+      "unitCount": "13",
+      "primaryTopic": "FSTRW",
+      "commandUnits": "220,200,201,205",
+      "dedupeKey": "INCIDENT-62998"
+    }
   }
 ]
