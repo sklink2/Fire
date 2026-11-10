@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63098"
     }
+  },
+  {
+    "runNumber": "63099",
+    "rawCode": "MED",
+    "timestamp": "2026-11-10T13:12:10.996624-05:00",
+    "address": "100 Block E Loudon Avenue",
+    "extra": {
+      "incidentNumber": "63099",
+      "run_id": "63099",
+      "address": "100 Block E Loudon Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC3",
+      "units": "E01,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63099"
+    }
   }
 ]
