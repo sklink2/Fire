@@ -614,5 +614,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63023"
     }
+  },
+  {
+    "runNumber": "63024",
+    "rawCode": "MED",
+    "timestamp": "2026-11-10T04:30:52.786405-05:00",
+    "address": "200 Block Eastern Avenue",
+    "extra": {
+      "incidentNumber": "63024",
+      "run_id": "63024",
+      "address": "200 Block Eastern Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63024"
+    }
   }
 ]
