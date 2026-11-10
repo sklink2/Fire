@@ -262,5 +262,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63008"
     }
+  },
+  {
+    "runNumber": "63009",
+    "rawCode": "MED",
+    "timestamp": "2026-11-10T01:57:11.804928-05:00",
+    "address": "100 Block Chestnut Ridge Drive",
+    "extra": {
+      "incidentNumber": "63009",
+      "run_id": "63009",
+      "address": "100 Block Chestnut Ridge Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63009"
+    }
   }
 ]
