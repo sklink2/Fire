@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63124"
     }
+  },
+  {
+    "runNumber": "63126",
+    "rawCode": "MED",
+    "timestamp": "2026-11-10T15:25:52.440032-05:00",
+    "address": "2300 Block Palumbo Drive",
+    "extra": {
+      "incidentNumber": "63126",
+      "run_id": "63126",
+      "address": "2300 Block Palumbo Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63126"
+    }
   }
 ]
