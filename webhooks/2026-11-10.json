@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63110"
     }
+  },
+  {
+    "runNumber": "63112",
+    "rawCode": "MED",
+    "timestamp": "2026-11-10T13:59:00.185829-05:00",
+    "address": "2400 Block Wanda Court",
+    "extra": {
+      "incidentNumber": "63112",
+      "run_id": "63112",
+      "address": "2400 Block Wanda Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC13",
+      "units": "E08,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63112"
+    }
   }
 ]
