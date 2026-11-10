@@ -3716,5 +3716,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63162"
     }
+  },
+  {
+    "runNumber": "63164",
+    "rawCode": "FSIA",
+    "timestamp": "2026-11-10T18:53:03.392001-05:00",
+    "address": "Old Frankfort Pike & S Yarnall",
+    "extra": {
+      "incidentNumber": "63164",
+      "run_id": "63164",
+      "address": "Old Frankfort Pike & S Yarnall",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,E24,203",
+      "units": "E13,E24,203",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-63164"
+    }
   }
 ]
