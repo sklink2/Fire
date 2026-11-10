@@ -2638,5 +2638,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63114"
     }
+  },
+  {
+    "runNumber": "63115",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-10T14:15:42.493149-05:00",
+    "address": "3852 Castlebridge Lane",
+    "extra": {
+      "incidentNumber": "63115",
+      "run_id": "63115",
+      "address": "3852 Castlebridge Lane",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L06",
+      "units": "L06",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63115"
+    }
   }
 ]
