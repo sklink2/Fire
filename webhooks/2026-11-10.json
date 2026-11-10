@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63056"
     }
+  },
+  {
+    "runNumber": "63055",
+    "rawCode": "MED",
+    "timestamp": "2026-11-10T09:01:32.618961-05:00",
+    "address": "S Limestone & Transcript Avenue",
+    "extra": {
+      "incidentNumber": "63055",
+      "run_id": "63055",
+      "address": "S Limestone & Transcript Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC7,204",
+      "units": "EC7,204",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-63055"
+    }
   }
 ]
