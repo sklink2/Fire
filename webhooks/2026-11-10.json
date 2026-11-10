@@ -130,5 +130,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63002"
     }
+  },
+  {
+    "runNumber": "63003",
+    "rawCode": "FDUM",
+    "timestamp": "2026-11-10T01:10:25.500381-05:00",
+    "address": "Park View Avenue & Bryan Avenue",
+    "extra": {
+      "incidentNumber": "63003",
+      "run_id": "63003",
+      "address": "Park View Avenue & Bryan Avenue",
+      "rawType": "FDUM",
+      "typeCode": "FDUM",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "FDUM",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63003"
+    }
   }
 ]
