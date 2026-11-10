@@ -42,5 +42,27 @@
       "commandUnits": "220,200,201,205",
       "dedupeKey": "INCIDENT-62998"
     }
+  },
+  {
+    "runNumber": "62999",
+    "rawCode": "FDUM",
+    "timestamp": "2026-11-10T00:33:41.338166-05:00",
+    "address": "N Broadway & Kenyon Road",
+    "extra": {
+      "incidentNumber": "62999",
+      "run_id": "62999",
+      "address": "N Broadway & Kenyon Road",
+      "rawType": "FDUM",
+      "typeCode": "FDUM",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "FDUM",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62999"
+    }
   }
 ]
