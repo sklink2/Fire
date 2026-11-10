@@ -548,5 +548,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-63021"
     }
+  },
+  {
+    "runNumber": "63022",
+    "rawCode": "MED",
+    "timestamp": "2026-11-10T03:34:06.252024-05:00",
+    "address": "700 Block Appletree Lane",
+    "extra": {
+      "incidentNumber": "63022",
+      "run_id": "63022",
+      "address": "700 Block Appletree Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63022"
+    }
   }
 ]
