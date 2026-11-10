@@ -3914,5 +3914,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-62951"
     }
+  },
+  {
+    "runNumber": "62950",
+    "rawCode": "FGAO",
+    "timestamp": "2026-11-09T19:46:16.637710-05:00",
+    "address": "4078 Finn Way",
+    "extra": {
+      "incidentNumber": "62950",
+      "run_id": "62950",
+      "address": "4078 Finn Way",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,E20",
+      "units": "E15,E20",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62950"
+    }
   }
 ]
