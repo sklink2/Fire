@@ -1560,5 +1560,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63065"
     }
+  },
+  {
+    "runNumber": "63066",
+    "rawCode": "MED",
+    "timestamp": "2026-11-10T10:15:03.404860-05:00",
+    "address": "3200 Block Saxon Drive",
+    "extra": {
+      "incidentNumber": "63066",
+      "run_id": "63066",
+      "address": "3200 Block Saxon Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L04,EC9",
+      "units": "L04,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63066"
+    }
   }
 ]
