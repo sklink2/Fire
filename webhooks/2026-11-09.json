@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62945"
     }
+  },
+  {
+    "runNumber": "62946",
+    "rawCode": "MED",
+    "timestamp": "2026-11-09T19:19:33.485121-05:00",
+    "address": "2200 Block Stonewood Lane",
+    "extra": {
+      "incidentNumber": "62946",
+      "run_id": "62946",
+      "address": "2200 Block Stonewood Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC2",
+      "units": "E02,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-62946"
+    }
   }
 ]
