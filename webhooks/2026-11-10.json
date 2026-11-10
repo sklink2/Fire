@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63041"
     }
+  },
+  {
+    "runNumber": "63042",
+    "rawCode": "MED",
+    "timestamp": "2026-11-10T07:51:22.860610-05:00",
+    "address": "300 Block Tulane Drive",
+    "extra": {
+      "incidentNumber": "63042",
+      "run_id": "63042",
+      "address": "300 Block Tulane Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63042"
+    }
   }
 ]
