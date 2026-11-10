@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63080"
     }
+  },
+  {
+    "runNumber": "63084",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-10T11:48:39.062415-05:00",
+    "address": "151 Larue",
+    "extra": {
+      "incidentNumber": "63084",
+      "run_id": "63084",
+      "address": "151 Larue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,E16,E22",
+      "units": "E12,E16,E22",
+      "unitCount": "3",
+      "primaryTopic": "FPRT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63084"
+    }
   }
 ]
