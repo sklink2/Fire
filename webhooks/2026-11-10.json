@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63116"
     }
+  },
+  {
+    "runNumber": "63117",
+    "rawCode": "FSIA",
+    "timestamp": "2026-11-10T14:22:24.421395-05:00",
+    "address": "509 Judy Lane",
+    "extra": {
+      "incidentNumber": "63117",
+      "run_id": "63117",
+      "address": "509 Judy Lane",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,E19,201",
+      "units": "E10,E19,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-63117"
+    }
   }
 ]
