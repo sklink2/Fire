@@ -152,5 +152,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63003"
     }
+  },
+  {
+    "runNumber": "63004",
+    "rawCode": "MED",
+    "timestamp": "2026-11-10T01:13:45.912777-05:00",
+    "address": "400 Block Darby Creek Road",
+    "extra": {
+      "incidentNumber": "63004",
+      "run_id": "63004",
+      "address": "400 Block Darby Creek Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63004"
+    }
   }
 ]
