@@ -1714,5 +1714,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63072"
     }
+  },
+  {
+    "runNumber": "63073",
+    "rawCode": "FVLA",
+    "timestamp": "2026-11-10T10:45:08.902418-05:00",
+    "address": "6174 Jacks Creek Pike",
+    "extra": {
+      "incidentNumber": "63073",
+      "run_id": "63073",
+      "address": "6174 Jacks Creek Pike",
+      "rawType": "FVLA",
+      "typeCode": "FVLA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,E22,L07,T1,202",
+      "units": "E13,E22,L07,T1,202",
+      "unitCount": "5",
+      "primaryTopic": "FVLA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-63073"
+    }
   }
 ]
