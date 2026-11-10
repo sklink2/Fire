@@ -4156,5 +4156,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-62962"
     }
+  },
+  {
+    "runNumber": "62961",
+    "rawCode": "FSIA",
+    "timestamp": "2026-11-09T20:26:22.964851-05:00",
+    "address": "1100 Horsemans Lane",
+    "extra": {
+      "incidentNumber": "62961",
+      "run_id": "62961",
+      "address": "1100 Horsemans Lane",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E13,204",
+      "units": "E11,E13,204",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-62961"
+    }
   }
 ]
