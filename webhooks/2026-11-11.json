@@ -1252,5 +1252,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-63263"
     }
+  },
+  {
+    "runNumber": "63266",
+    "rawCode": "MED",
+    "timestamp": "2026-11-11T10:38:43.023743-05:00",
+    "address": "200 Block Elmwood Drive",
+    "extra": {
+      "incidentNumber": "63266",
+      "run_id": "63266",
+      "address": "200 Block Elmwood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63266"
+    }
   }
 ]
