@@ -2902,5 +2902,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63341"
     }
+  },
+  {
+    "runNumber": "63343",
+    "rawCode": "MED",
+    "timestamp": "2026-11-11T17:13:02.007300-05:00",
+    "address": "4000 Block Terminal Drive",
+    "extra": {
+      "incidentNumber": "63343",
+      "run_id": "63343",
+      "address": "4000 Block Terminal Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63343"
+    }
   }
 ]
