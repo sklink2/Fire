@@ -174,5 +174,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63213"
     }
+  },
+  {
+    "runNumber": "63214",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-11T01:20:42.275181-05:00",
+    "address": "302 Gunn Street",
+    "extra": {
+      "incidentNumber": "63214",
+      "run_id": "63214",
+      "address": "302 Gunn Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E05,L01,205",
+      "units": "E01,E05,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-63214"
+    }
   }
 ]
