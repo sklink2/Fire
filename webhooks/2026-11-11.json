@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63281"
     }
+  },
+  {
+    "runNumber": "63282",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-11T12:09:04.658411-05:00",
+    "address": "W Loudon Avenue & N Broadway",
+    "extra": {
+      "incidentNumber": "63282",
+      "run_id": "63282",
+      "address": "W Loudon Avenue & N Broadway",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E08,L03,EC3,205",
+      "units": "E02,E08,L03,EC3,205",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-63282"
+    }
   }
 ]
