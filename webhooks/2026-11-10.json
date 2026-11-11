@@ -4574,5 +4574,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63203"
     }
+  },
+  {
+    "runNumber": "63205",
+    "rawCode": "MED",
+    "timestamp": "2026-11-10T23:47:06.884003-05:00",
+    "address": "600 Block Ice Circle",
+    "extra": {
+      "incidentNumber": "63205",
+      "run_id": "63205",
+      "address": "600 Block Ice Circle",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63205"
+    }
   }
 ]
