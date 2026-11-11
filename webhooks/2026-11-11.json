@@ -2198,5 +2198,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63308"
     }
+  },
+  {
+    "runNumber": "63309",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-11T14:12:34.884598-05:00",
+    "address": "476 Skyview Lane",
+    "extra": {
+      "incidentNumber": "63309",
+      "run_id": "63309",
+      "address": "476 Skyview Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,E24,L03,203",
+      "units": "E13,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-63309"
+    }
   }
 ]
