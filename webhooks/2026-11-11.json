@@ -2264,5 +2264,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63311"
     }
+  },
+  {
+    "runNumber": "63312",
+    "rawCode": "MED",
+    "timestamp": "2026-11-11T14:42:39.440753-05:00",
+    "address": "800 Block Meadow Lane",
+    "extra": {
+      "incidentNumber": "63312",
+      "run_id": "63312",
+      "address": "800 Block Meadow Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63312"
+    }
   }
 ]
