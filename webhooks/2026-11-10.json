@@ -4530,5 +4530,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63202"
     }
+  },
+  {
+    "runNumber": "63204",
+    "rawCode": "MED",
+    "timestamp": "2026-11-10T23:40:26.577539-05:00",
+    "address": "1800 Block Little Herb Way",
+    "extra": {
+      "incidentNumber": "63204",
+      "run_id": "63204",
+      "address": "1800 Block Little Herb Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63204"
+    }
   }
 ]
