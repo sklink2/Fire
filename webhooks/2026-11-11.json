@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63317"
     }
+  },
+  {
+    "runNumber": "63316",
+    "rawCode": "MED",
+    "timestamp": "2026-11-11T15:06:01.481351-05:00",
+    "address": "1900 Block Liberty Road",
+    "extra": {
+      "incidentNumber": "63316",
+      "run_id": "63316",
+      "address": "1900 Block Liberty Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC2,CRT1",
+      "units": "E02,EC2,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63316"
+    }
   }
 ]
