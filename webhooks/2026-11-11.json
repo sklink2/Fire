@@ -2374,5 +2374,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63316"
     }
+  },
+  {
+    "runNumber": "63315",
+    "rawCode": "MED",
+    "timestamp": "2026-11-11T15:06:01.755745-05:00",
+    "address": "3900 Block Toronto Court",
+    "extra": {
+      "incidentNumber": "63315",
+      "run_id": "63315",
+      "address": "3900 Block Toronto Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC9,241",
+      "units": "E15,EC9,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-63315"
+    }
   }
 ]
