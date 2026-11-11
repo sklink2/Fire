@@ -1142,5 +1142,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63258"
     }
+  },
+  {
+    "runNumber": "63259",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-11T10:11:56.812420-05:00",
+    "address": "440 Plainview Road",
+    "extra": {
+      "incidentNumber": "63259",
+      "run_id": "63259",
+      "address": "440 Plainview Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E16,L06,EC4,201",
+      "units": "E09,E16,L06,EC4,201",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-63259"
+    }
   }
 ]
