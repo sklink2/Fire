@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63250"
     }
+  },
+  {
+    "runNumber": "63251",
+    "rawCode": "MED",
+    "timestamp": "2026-11-11T09:18:28.744634-05:00",
+    "address": "600 Block Bellcastle Road",
+    "extra": {
+      "incidentNumber": "63251",
+      "run_id": "63251",
+      "address": "600 Block Bellcastle Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC3",
+      "units": "E02,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63251"
+    }
   }
 ]
