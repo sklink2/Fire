@@ -2506,5 +2506,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-63325"
     }
+  },
+  {
+    "runNumber": "63324",
+    "rawCode": "MED",
+    "timestamp": "2026-11-11T15:29:26.941375-05:00",
+    "address": "3300 Block Carriage Lane",
+    "extra": {
+      "incidentNumber": "63324",
+      "run_id": "63324",
+      "address": "3300 Block Carriage Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC7",
+      "units": "E16,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63324"
+    }
   }
 ]
