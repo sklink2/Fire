@@ -834,5 +834,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63244"
     }
+  },
+  {
+    "runNumber": "63243",
+    "rawCode": "MED",
+    "timestamp": "2026-11-11T08:25:03.186495-05:00",
+    "address": "4000 Block Livingston Lane",
+    "extra": {
+      "incidentNumber": "63243",
+      "run_id": "63243",
+      "address": "4000 Block Livingston Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC13",
+      "units": "E09,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63243"
+    }
   }
 ]
