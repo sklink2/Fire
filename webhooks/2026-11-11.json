@@ -1186,5 +1186,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63261"
     }
+  },
+  {
+    "runNumber": "63260",
+    "rawCode": "FCMS",
+    "timestamp": "2026-11-11T10:15:17.854200-05:00",
+    "address": "125 E Reynolds Road",
+    "extra": {
+      "incidentNumber": "63260",
+      "run_id": "63260",
+      "address": "125 E Reynolds Road",
+      "rawType": "FCMS",
+      "typeCode": "FCMS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,L04,EC12,204",
+      "units": "E15,L04,EC12,204",
+      "unitCount": "4",
+      "primaryTopic": "FCMS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-63260"
+    }
   }
 ]
