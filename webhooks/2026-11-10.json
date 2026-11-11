@@ -3892,5 +3892,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63171"
     }
+  },
+  {
+    "runNumber": "63173",
+    "rawCode": "FSIA",
+    "timestamp": "2026-11-10T19:43:11.986086-05:00",
+    "address": "165 Eddie Street",
+    "extra": {
+      "incidentNumber": "63173",
+      "run_id": "63173",
+      "address": "165 Eddie Street",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E04,205",
+      "units": "E01,E04,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-63173"
+    }
   }
 ]
