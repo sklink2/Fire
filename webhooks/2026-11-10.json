@@ -4178,5 +4178,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63185"
     }
+  },
+  {
+    "runNumber": "63187",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-10T21:56:50.173364-05:00",
+    "address": "1720 Newtown Pike",
+    "extra": {
+      "incidentNumber": "63187",
+      "run_id": "63187",
+      "address": "1720 Newtown Pike",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E10,L03,203",
+      "units": "E08,E10,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-63187"
+    }
   }
 ]
