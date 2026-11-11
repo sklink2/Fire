@@ -482,5 +482,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63227"
     }
+  },
+  {
+    "runNumber": "63229",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-11T06:01:21.545404-05:00",
+    "address": "3220 Paris Pike",
+    "extra": {
+      "incidentNumber": "63229",
+      "run_id": "63229",
+      "address": "3220 Paris Pike",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63229"
+    }
   }
 ]
