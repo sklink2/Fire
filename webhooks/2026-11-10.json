@@ -4068,5 +4068,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-63180"
     }
+  },
+  {
+    "runNumber": "63181",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-10T20:36:37.065109-05:00",
+    "address": "512 Maryland Avenue",
+    "extra": {
+      "incidentNumber": "63181",
+      "run_id": "63181",
+      "address": "512 Maryland Avenue",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,L01",
+      "units": "E04,L01",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63181"
+    }
   }
 ]
