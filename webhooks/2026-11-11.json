@@ -1230,5 +1230,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63262"
     }
+  },
+  {
+    "runNumber": "63263",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-11T10:28:39.859471-05:00",
+    "address": "1240 Kannapolis Place",
+    "extra": {
+      "incidentNumber": "63263",
+      "run_id": "63263",
+      "address": "1240 Kannapolis Place",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,E20,L04,204",
+      "units": "E12,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-63263"
+    }
   }
 ]
