@@ -2044,5 +2044,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63301"
     }
+  },
+  {
+    "runNumber": "63305",
+    "rawCode": "FSIA",
+    "timestamp": "2026-11-11T13:59:10.450957-05:00",
+    "address": "400 Rose Street",
+    "extra": {
+      "incidentNumber": "63305",
+      "run_id": "63305",
+      "address": "400 Rose Street",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E06,205",
+      "units": "E05,E06,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-63305"
+    }
   }
 ]
