@@ -1846,5 +1846,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63290"
     }
+  },
+  {
+    "runNumber": "63292",
+    "rawCode": "MED",
+    "timestamp": "2026-11-11T13:12:24.044582-05:00",
+    "address": "0 Block Quality Street",
+    "extra": {
+      "incidentNumber": "63292",
+      "run_id": "63292",
+      "address": "0 Block Quality Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63292"
+    }
   }
 ]
