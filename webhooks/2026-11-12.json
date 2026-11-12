@@ -1428,5 +1428,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63448"
     }
+  },
+  {
+    "runNumber": "63449",
+    "rawCode": "MED",
+    "timestamp": "2026-11-12T11:09:01.083162-05:00",
+    "address": "800 Block Farra Court",
+    "extra": {
+      "incidentNumber": "63449",
+      "run_id": "63449",
+      "address": "800 Block Farra Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC8,CRT1",
+      "units": "EC8,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63449"
+    }
   }
 ]
