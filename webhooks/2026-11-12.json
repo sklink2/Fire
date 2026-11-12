@@ -328,5 +328,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63399"
     }
+  },
+  {
+    "runNumber": "63400",
+    "rawCode": "MED",
+    "timestamp": "2026-11-12T03:27:52.004714-05:00",
+    "address": "600 Block Jackson Street",
+    "extra": {
+      "incidentNumber": "63400",
+      "run_id": "63400",
+      "address": "600 Block Jackson Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63400"
+    }
   }
 ]
