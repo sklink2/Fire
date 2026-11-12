@@ -3100,5 +3100,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63524"
     }
+  },
+  {
+    "runNumber": "63525",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-12T17:16:36.869901-05:00",
+    "address": "213 Blue Sky Parkway",
+    "extra": {
+      "incidentNumber": "63525",
+      "run_id": "63525",
+      "address": "213 Blue Sky Parkway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E17,L06,201",
+      "units": "E02,E17,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-63525"
+    }
   }
 ]
