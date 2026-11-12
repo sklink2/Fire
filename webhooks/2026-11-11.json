@@ -3452,5 +3452,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63368"
     }
+  },
+  {
+    "runNumber": "63369",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-11T22:03:47.272143-05:00",
+    "address": "2206 Oleander Court",
+    "extra": {
+      "incidentNumber": "63369",
+      "run_id": "63369",
+      "address": "2206 Oleander Court",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E20,L04,EC12,204,220",
+      "units": "E11,E20,L04,EC12,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-63369"
+    }
   }
 ]
