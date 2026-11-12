@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63445"
     }
+  },
+  {
+    "runNumber": "63446",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-12T11:02:22.227827-05:00",
+    "address": "535 Waller Avenue",
+    "extra": {
+      "incidentNumber": "63446",
+      "run_id": "63446",
+      "address": "535 Waller Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E11,L02,204",
+      "units": "E06,E11,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-63446"
+    }
   }
 ]
