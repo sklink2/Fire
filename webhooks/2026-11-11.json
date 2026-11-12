@@ -3254,5 +3254,27 @@
       "commandUnits": "220,204",
       "dedupeKey": "INCIDENT-63359"
     }
+  },
+  {
+    "runNumber": "63360",
+    "rawCode": "MED",
+    "timestamp": "2026-11-11T19:46:43.752384-05:00",
+    "address": "2900 Block Four Pines Drive",
+    "extra": {
+      "incidentNumber": "63360",
+      "run_id": "63360",
+      "address": "2900 Block Four Pines Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63360"
+    }
   }
 ]
