@@ -2638,5 +2638,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63503"
     }
+  },
+  {
+    "runNumber": "63505",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-12T15:26:17.873811-05:00",
+    "address": "3544 Rocky Hill Terrace",
+    "extra": {
+      "incidentNumber": "63505",
+      "run_id": "63505",
+      "address": "3544 Rocky Hill Terrace",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E15,L07,204",
+      "units": "E07,E15,L07,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-63505"
+    }
   }
 ]
