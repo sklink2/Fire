@@ -2264,5 +2264,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63486"
     }
+  },
+  {
+    "runNumber": "63488",
+    "rawCode": "MED",
+    "timestamp": "2026-11-12T14:26:10.031354-05:00",
+    "address": "400 Block Mckenna Court",
+    "extra": {
+      "incidentNumber": "63488",
+      "run_id": "63488",
+      "address": "400 Block Mckenna Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC1",
+      "units": "E08,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63488"
+    }
   }
 ]
