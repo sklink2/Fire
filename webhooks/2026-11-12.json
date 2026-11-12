@@ -1076,5 +1076,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63430"
     }
+  },
+  {
+    "runNumber": "63433",
+    "rawCode": "MED",
+    "timestamp": "2026-11-12T09:15:26.986636-05:00",
+    "address": "300 Block W Main Street",
+    "extra": {
+      "incidentNumber": "63433",
+      "run_id": "63433",
+      "address": "300 Block W Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63433"
+    }
   }
 ]
