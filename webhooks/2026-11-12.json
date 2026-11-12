@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63416"
     }
+  },
+  {
+    "runNumber": "63417",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-12T07:45:11.102756-05:00",
+    "address": "3535 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "63417",
+      "run_id": "63417",
+      "address": "3535 Nicholasville Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,E16,L04,EC4,204,220",
+      "units": "E15,E16,L04,EC4,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-63417"
+    }
   }
 ]
