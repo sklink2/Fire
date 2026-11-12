@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63400"
     }
+  },
+  {
+    "runNumber": "63401",
+    "rawCode": "MED",
+    "timestamp": "2026-11-12T03:34:34.807120-05:00",
+    "address": "4400 Block River Ridge Road",
+    "extra": {
+      "incidentNumber": "63401",
+      "run_id": "63401",
+      "address": "4400 Block River Ridge Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC9",
+      "units": "E22,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63401"
+    }
   }
 ]
