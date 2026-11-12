@@ -20,5 +20,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-63385"
     }
+  },
+  {
+    "runNumber": "63386",
+    "rawCode": "MED",
+    "timestamp": "2026-11-12T00:10:43.371549-05:00",
+    "address": "200 Block Bent Bough Place",
+    "extra": {
+      "incidentNumber": "63386",
+      "run_id": "63386",
+      "address": "200 Block Bent Bough Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,EC11",
+      "units": "E09,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63386"
+    }
   }
 ]
