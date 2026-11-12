@@ -2418,5 +2418,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63493"
     }
+  },
+  {
+    "runNumber": "63492",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-12T14:39:36.368664-05:00",
+    "address": "2181 Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "63492",
+      "run_id": "63492",
+      "address": "2181 Harrodsburg Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E12,L04,204,220",
+      "units": "E11,E12,L04,204,220",
+      "unitCount": "5",
+      "primaryTopic": "FSMO",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-63492"
+    }
   }
 ]
