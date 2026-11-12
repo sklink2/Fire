@@ -3782,5 +3782,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63384"
     }
+  },
+  {
+    "runNumber": "63383",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-11T23:44:03.509099-05:00",
+    "address": "4390 Clearwater Way",
+    "extra": {
+      "incidentNumber": "63383",
+      "run_id": "63383",
+      "address": "4390 Clearwater Way",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,E22,L07,202",
+      "units": "E16,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-63383"
+    }
   }
 ]
