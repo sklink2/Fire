@@ -856,5 +856,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63422"
     }
+  },
+  {
+    "runNumber": "63421",
+    "rawCode": "MED",
+    "timestamp": "2026-11-12T08:25:17.781520-05:00",
+    "address": "3200 Block Malone Drive",
+    "extra": {
+      "incidentNumber": "63421",
+      "run_id": "63421",
+      "address": "3200 Block Malone Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,EC5",
+      "units": "E12,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63421"
+    }
   }
 ]
