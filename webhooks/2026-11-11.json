@@ -3716,5 +3716,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63380"
     }
+  },
+  {
+    "runNumber": "63382",
+    "rawCode": "MED",
+    "timestamp": "2026-11-11T23:30:37.556615-05:00",
+    "address": "2000 Block Cambridge Drive",
+    "extra": {
+      "incidentNumber": "63382",
+      "run_id": "63382",
+      "address": "2000 Block Cambridge Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,EC12",
+      "units": "E14,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63382"
+    }
   }
 ]
