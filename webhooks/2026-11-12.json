@@ -3276,5 +3276,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63532"
     }
+  },
+  {
+    "runNumber": "63533",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-12T18:03:22.930168-05:00",
+    "address": "1935 Kingtree Drive",
+    "extra": {
+      "incidentNumber": "63533",
+      "run_id": "63533",
+      "address": "1935 Kingtree Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,E10,L05,EC6,203,220",
+      "units": "E08,E10,L05,EC6,203,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,203",
+      "dedupeKey": "INCIDENT-63533"
+    }
   }
 ]
