@@ -3078,5 +3078,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63523"
     }
+  },
+  {
+    "runNumber": "63524",
+    "rawCode": "MED",
+    "timestamp": "2026-11-12T17:06:34.562193-05:00",
+    "address": "500 Block Deaton Place",
+    "extra": {
+      "incidentNumber": "63524",
+      "run_id": "63524",
+      "address": "500 Block Deaton Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC8",
+      "units": "E21,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63524"
+    }
   }
 ]
