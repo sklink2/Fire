@@ -3232,5 +3232,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63358"
     }
+  },
+  {
+    "runNumber": "63359",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-11T19:40:04.754844-05:00",
+    "address": "840 Angliana Avenue",
+    "extra": {
+      "incidentNumber": "63359",
+      "run_id": "63359",
+      "address": "840 Angliana Avenue",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E06,L01,EC10,204,220",
+      "units": "E04,E06,L01,EC10,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-63359"
+    }
   }
 ]
