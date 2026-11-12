@@ -1802,5 +1802,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63465"
     }
+  },
+  {
+    "runNumber": "63468",
+    "rawCode": "MED",
+    "timestamp": "2026-11-12T12:35:55.738148-05:00",
+    "address": "100 Block Opportunity Way",
+    "extra": {
+      "incidentNumber": "63468",
+      "run_id": "63468",
+      "address": "100 Block Opportunity Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,EC12",
+      "units": "E13,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63468"
+    }
   }
 ]
