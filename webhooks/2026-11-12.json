@@ -2440,5 +2440,27 @@
       "commandUnits": "220,204",
       "dedupeKey": "INCIDENT-63492"
     }
+  },
+  {
+    "runNumber": "63496",
+    "rawCode": "MED",
+    "timestamp": "2026-11-12T14:59:34.400043-05:00",
+    "address": "2800 Block Alumni Drive",
+    "extra": {
+      "incidentNumber": "63496",
+      "run_id": "63496",
+      "address": "2800 Block Alumni Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63496"
+    }
   }
 ]
