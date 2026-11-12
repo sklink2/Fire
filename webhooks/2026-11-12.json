@@ -1758,5 +1758,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63463"
     }
+  },
+  {
+    "runNumber": "63462",
+    "rawCode": "MED",
+    "timestamp": "2026-11-12T12:22:32.896845-05:00",
+    "address": "1000 Block Tanbark Road",
+    "extra": {
+      "incidentNumber": "63462",
+      "run_id": "63462",
+      "address": "1000 Block Tanbark Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,EC4",
+      "units": "E07,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63462"
+    }
   }
 ]
