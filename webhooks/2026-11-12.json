@@ -3342,5 +3342,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63535"
     }
+  },
+  {
+    "runNumber": "63536",
+    "rawCode": "FSTR",
+    "timestamp": "2026-11-12T18:16:43.594147-05:00",
+    "address": "5801 Kasp Court",
+    "extra": {
+      "incidentNumber": "63536",
+      "run_id": "63536",
+      "address": "5801 Kasp Court",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E05,E13,E17,E21,L02,L06,T1,EC11,EC8,201,202,241,RS1",
+      "units": "E02,E05,E13,E17,E21,L02,L06,T1,EC11,EC8,201,202,241,RS1",
+      "unitCount": "14",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,201,202",
+      "dedupeKey": "INCIDENT-63536"
+    }
   }
 ]
