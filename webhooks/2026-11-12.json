@@ -1098,5 +1098,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63433"
     }
+  },
+  {
+    "runNumber": "63432",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-12T09:22:05.218110-05:00",
+    "address": "Georgetown / Scott Co Line",
+    "extra": {
+      "incidentNumber": "63432",
+      "run_id": "63432",
+      "address": "Georgetown / Scott Co Line",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "432",
+      "units": "432",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63432"
+    }
   }
 ]
