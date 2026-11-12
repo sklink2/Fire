@@ -3408,5 +3408,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63366"
     }
+  },
+  {
+    "runNumber": "63367",
+    "rawCode": "FELF",
+    "timestamp": "2026-11-11T21:23:41.443961-05:00",
+    "address": "1268 Marlena Lane",
+    "extra": {
+      "incidentNumber": "63367",
+      "run_id": "63367",
+      "address": "1268 Marlena Lane",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,E24,L03,203",
+      "units": "E10,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-63367"
+    }
   }
 ]
