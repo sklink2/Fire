@@ -3452,5 +3452,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63729"
     }
+  },
+  {
+    "runNumber": "63730",
+    "rawCode": "MED",
+    "timestamp": "2026-11-13T18:00:18.805952-05:00",
+    "address": "2600 Block Mable Lane",
+    "extra": {
+      "incidentNumber": "63730",
+      "run_id": "63730",
+      "address": "2600 Block Mable Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63730"
+    }
   }
 ]
