@@ -614,5 +614,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63604"
     }
+  },
+  {
+    "runNumber": "63603",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-13T07:22:01.469679-05:00",
+    "address": "2222 Coburn Boulevard",
+    "extra": {
+      "incidentNumber": "63603",
+      "run_id": "63603",
+      "address": "2222 Coburn Boulevard",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC2",
+      "units": "E09,EC2",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63603"
+    }
   }
 ]
