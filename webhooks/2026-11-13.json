@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63598"
     }
+  },
+  {
+    "runNumber": "63599",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-11-13T07:08:38.033289-05:00",
+    "address": "Russell Cave Road & Hollow Creek",
+    "extra": {
+      "incidentNumber": "63599",
+      "run_id": "63599",
+      "address": "Russell Cave Road & Hollow Creek",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,L03,EC3,201,241,RS1",
+      "units": "E08,L03,EC3,201,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-63599"
+    }
   }
 ]
