@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63591"
     }
+  },
+  {
+    "runNumber": "63592",
+    "rawCode": "MED",
+    "timestamp": "2026-11-13T04:44:57.598438-05:00",
+    "address": "2600 Block Wilhite Court",
+    "extra": {
+      "incidentNumber": "63592",
+      "run_id": "63592",
+      "address": "2600 Block Wilhite Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC9,241",
+      "units": "E15,EC9,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-63592"
+    }
   }
 ]
