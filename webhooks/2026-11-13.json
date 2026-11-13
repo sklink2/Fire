@@ -1208,5 +1208,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63630"
     }
+  },
+  {
+    "runNumber": "63631",
+    "rawCode": "MED",
+    "timestamp": "2026-11-13T09:39:00.054588-05:00",
+    "address": "75 Sb / 120.0 Mm (Iron Works",
+    "extra": {
+      "incidentNumber": "63631",
+      "run_id": "63631",
+      "address": "75 Sb / 120.0 Mm (Iron Works",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,EC2,EC22",
+      "units": "E04,EC2,EC22",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63631"
+    }
   }
 ]
