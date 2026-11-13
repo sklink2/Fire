@@ -130,5 +130,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63581"
     }
+  },
+  {
+    "runNumber": "63582",
+    "rawCode": "MED",
+    "timestamp": "2026-11-13T01:31:08.442091-05:00",
+    "address": "200 Block Blue Ribbon Lane",
+    "extra": {
+      "incidentNumber": "63582",
+      "run_id": "63582",
+      "address": "200 Block Blue Ribbon Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63582"
+    }
   }
 ]
