@@ -2022,5 +2022,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63667"
     }
+  },
+  {
+    "runNumber": "63668",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-13T11:56:00.426814-05:00",
+    "address": "209 Joey Way",
+    "extra": {
+      "incidentNumber": "63668",
+      "run_id": "63668",
+      "address": "209 Joey Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E21,L02,201",
+      "units": "E09,E21,L02,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-63668"
+    }
   }
 ]
