@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63691"
     }
+  },
+  {
+    "runNumber": "63690",
+    "rawCode": "MED",
+    "timestamp": "2026-11-13T13:56:19.301957-05:00",
+    "address": "2100 Block Street Mathilda Drive",
+    "extra": {
+      "incidentNumber": "63690",
+      "run_id": "63690",
+      "address": "2100 Block Street Mathilda Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC1",
+      "units": "E02,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63690"
+    }
   }
 ]
