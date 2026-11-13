@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63637"
     }
+  },
+  {
+    "runNumber": "63640",
+    "rawCode": "MED",
+    "timestamp": "2026-11-13T09:59:00.849332-05:00",
+    "address": "400 Block Stonehaven Drive",
+    "extra": {
+      "incidentNumber": "63640",
+      "run_id": "63640",
+      "address": "400 Block Stonehaven Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L05,EC9",
+      "units": "L05,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63640"
+    }
   }
 ]
