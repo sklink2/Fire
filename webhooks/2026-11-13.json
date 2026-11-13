@@ -3144,5 +3144,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-63716"
     }
+  },
+  {
+    "runNumber": "63717",
+    "rawCode": "MED",
+    "timestamp": "2026-11-13T16:40:07.393358-05:00",
+    "address": "3300 Block Keithshire Way",
+    "extra": {
+      "incidentNumber": "63717",
+      "run_id": "63717",
+      "address": "3300 Block Keithshire Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63717"
+    }
   }
 ]
