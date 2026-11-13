@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63618"
     }
+  },
+  {
+    "runNumber": "63617",
+    "rawCode": "MED",
+    "timestamp": "2026-11-13T08:55:34.663172-05:00",
+    "address": "100 Block Rustic Way",
+    "extra": {
+      "incidentNumber": "63617",
+      "run_id": "63617",
+      "address": "100 Block Rustic Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E19,EC3",
+      "units": "E19,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63617"
+    }
   }
 ]
