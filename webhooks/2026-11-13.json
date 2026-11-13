@@ -878,5 +878,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63615"
     }
+  },
+  {
+    "runNumber": "63616",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-13T08:48:51.894921-05:00",
+    "address": "1753 Jaggie Fox Way",
+    "extra": {
+      "incidentNumber": "63616",
+      "run_id": "63616",
+      "address": "1753 Jaggie Fox Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,E24,L03,203",
+      "units": "E10,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-63616"
+    }
   }
 ]
