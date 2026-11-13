@@ -3474,5 +3474,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63539"
     }
+  },
+  {
+    "runNumber": "63542",
+    "rawCode": "MED",
+    "timestamp": "2026-11-12T19:23:34.217281-05:00",
+    "address": "100 Block Eastern Avenue",
+    "extra": {
+      "incidentNumber": "63542",
+      "run_id": "63542",
+      "address": "100 Block Eastern Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63542"
+    }
   }
 ]
