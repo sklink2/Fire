@@ -1494,5 +1494,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63644"
     }
+  },
+  {
+    "runNumber": "63643",
+    "rawCode": "MED",
+    "timestamp": "2026-11-13T10:12:25.398320-05:00",
+    "address": "400 Block Reed Lane",
+    "extra": {
+      "incidentNumber": "63643",
+      "run_id": "63643",
+      "address": "400 Block Reed Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,EC12",
+      "units": "E12,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63643"
+    }
   }
 ]
