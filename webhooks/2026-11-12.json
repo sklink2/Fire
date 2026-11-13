@@ -4156,5 +4156,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63571"
     }
+  },
+  {
+    "runNumber": "63573",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-12T23:30:50.608693-05:00",
+    "address": "1149 Coolidge Street",
+    "extra": {
+      "incidentNumber": "63573",
+      "run_id": "63573",
+      "address": "1149 Coolidge Street",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E06,L01,203",
+      "units": "E04,E06,L01,203",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-63573"
+    }
   }
 ]
