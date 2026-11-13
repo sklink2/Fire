@@ -20,5 +20,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63576"
     }
+  },
+  {
+    "runNumber": "63577",
+    "rawCode": "MED",
+    "timestamp": "2026-11-13T00:30:58.416343-05:00",
+    "address": "400 Block Angliana Avenue",
+    "extra": {
+      "incidentNumber": "63577",
+      "run_id": "63577",
+      "address": "400 Block Angliana Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10,241,RS1",
+      "units": "EC10,241,RS1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-63577"
+    }
   }
 ]
