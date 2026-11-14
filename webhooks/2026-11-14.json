@@ -196,5 +196,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63790"
     }
+  },
+  {
+    "runNumber": "63791",
+    "rawCode": "FELF",
+    "timestamp": "2026-11-14T01:31:28.204000-05:00",
+    "address": "1156 Venetian Way",
+    "extra": {
+      "incidentNumber": "63791",
+      "run_id": "63791",
+      "address": "1156 Venetian Way",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,E16,L07,202",
+      "units": "E07,E16,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-63791"
+    }
   }
 ]
