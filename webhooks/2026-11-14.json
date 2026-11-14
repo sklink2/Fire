@@ -2946,5 +2946,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63915"
     }
+  },
+  {
+    "runNumber": "63918",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-14T17:23:48.148371-05:00",
+    "address": "4030 Tates Creek Road",
+    "extra": {
+      "incidentNumber": "63918",
+      "run_id": "63918",
+      "address": "4030 Tates Creek Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E22,L07,202",
+      "units": "E07,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-63918"
+    }
   }
 ]
