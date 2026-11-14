@@ -482,5 +482,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-63803"
     }
+  },
+  {
+    "runNumber": "63804",
+    "rawCode": "MED",
+    "timestamp": "2026-11-14T03:45:07.210886-05:00",
+    "address": "Belvoir Drive & Leawood Drive",
+    "extra": {
+      "incidentNumber": "63804",
+      "run_id": "63804",
+      "address": "Belvoir Drive & Leawood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,EC4",
+      "units": "E07,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63804"
+    }
   }
 ]
