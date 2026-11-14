@@ -1450,5 +1450,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-63848"
     }
+  },
+  {
+    "runNumber": "63847",
+    "rawCode": "FSCU",
+    "timestamp": "2026-11-14T11:26:13.571893-05:00",
+    "address": "75 Nb / 104.0 Mm (Athens Boone",
+    "extra": {
+      "incidentNumber": "63847",
+      "run_id": "63847",
+      "address": "75 Nb / 104.0 Mm (Athens Boone",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E18,E21",
+      "units": "E18,E21",
+      "unitCount": "2",
+      "primaryTopic": "FSCU",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63847"
+    }
   }
 ]
