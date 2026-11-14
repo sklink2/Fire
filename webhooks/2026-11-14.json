@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63825"
     }
+  },
+  {
+    "runNumber": "63826",
+    "rawCode": "MED",
+    "timestamp": "2026-11-14T09:09:14.595601-05:00",
+    "address": "1600 Block Gayle Drive",
+    "extra": {
+      "incidentNumber": "63826",
+      "run_id": "63826",
+      "address": "1600 Block Gayle Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63826"
+    }
   }
 ]
