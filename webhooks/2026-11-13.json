@@ -3826,5 +3826,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63747"
     }
+  },
+  {
+    "runNumber": "63748",
+    "rawCode": "FELF",
+    "timestamp": "2026-11-13T19:53:53.171745-05:00",
+    "address": "2556 Ashbrooke Drive",
+    "extra": {
+      "incidentNumber": "63748",
+      "run_id": "63748",
+      "address": "2556 Ashbrooke Drive",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,E20,L04,204",
+      "units": "E11,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-63748"
+    }
   }
 ]
