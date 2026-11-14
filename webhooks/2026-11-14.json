@@ -2132,5 +2132,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63880"
     }
+  },
+  {
+    "runNumber": "63879",
+    "rawCode": "MED",
+    "timestamp": "2026-11-14T13:13:11.195658-05:00",
+    "address": "3700 Block Wembley Lane",
+    "extra": {
+      "incidentNumber": "63879",
+      "run_id": "63879",
+      "address": "3700 Block Wembley Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC11",
+      "units": "E16,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63879"
+    }
   }
 ]
