@@ -4156,5 +4156,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63761"
     }
+  },
+  {
+    "runNumber": "63763",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-13T21:30:50.216485-05:00",
+    "address": "534 Hollow Creek Road",
+    "extra": {
+      "incidentNumber": "63763",
+      "run_id": "63763",
+      "address": "534 Hollow Creek Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E10,L03,201",
+      "units": "E08,E10,L03,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-63763"
+    }
   }
 ]
