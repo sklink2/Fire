@@ -2220,5 +2220,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63881"
     }
+  },
+  {
+    "runNumber": "63883",
+    "rawCode": "FSCU",
+    "timestamp": "2026-11-14T13:23:11.542029-05:00",
+    "address": "75 Sb / 115.0 Mm (Newtown Pike",
+    "extra": {
+      "incidentNumber": "63883",
+      "run_id": "63883",
+      "address": "75 Sb / 115.0 Mm (Newtown Pike",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E10",
+      "units": "E08,E10",
+      "unitCount": "2",
+      "primaryTopic": "FSCU",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63883"
+    }
   }
 ]
