@@ -2506,5 +2506,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63895"
     }
+  },
+  {
+    "runNumber": "63896",
+    "rawCode": "FSTR",
+    "timestamp": "2026-11-14T14:36:40.982224-05:00",
+    "address": "1340 Prather Road",
+    "extra": {
+      "incidentNumber": "63896",
+      "run_id": "63896",
+      "address": "1340 Prather Road",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E07,E09,E12,L02,L05,EC13,202,203,205,241,RS1",
+      "units": "E05,E07,E09,E12,L02,L05,EC13,202,203,205,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,202,203,205",
+      "dedupeKey": "INCIDENT-63896"
+    }
   }
 ]
