@@ -1252,5 +1252,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63838"
     }
+  },
+  {
+    "runNumber": "63839",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-14T10:26:06.603246-05:00",
+    "address": "744 Florida Street",
+    "extra": {
+      "incidentNumber": "63839",
+      "run_id": "63839",
+      "address": "744 Florida Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E10,L01,203",
+      "units": "E01,E10,L01,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-63839"
+    }
   }
 ]
