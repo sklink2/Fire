@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63802"
     }
+  },
+  {
+    "runNumber": "63803",
+    "rawCode": "FELF",
+    "timestamp": "2026-11-14T03:11:42.624688-05:00",
+    "address": "499 Conway Court",
+    "extra": {
+      "incidentNumber": "63803",
+      "run_id": "63803",
+      "address": "499 Conway Court",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,E24,L03,203",
+      "units": "E13,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-63803"
+    }
   }
 ]
