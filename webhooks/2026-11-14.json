@@ -1604,5 +1604,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63854"
     }
+  },
+  {
+    "runNumber": "63852",
+    "rawCode": "FSIA",
+    "timestamp": "2026-11-14T11:56:17.959052-05:00",
+    "address": "9079 Old Richmond Road",
+    "extra": {
+      "incidentNumber": "63852",
+      "run_id": "63852",
+      "address": "9079 Old Richmond Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,202",
+      "units": "E21,202",
+      "unitCount": "2",
+      "primaryTopic": "FSIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-63852"
+    }
   }
 ]
