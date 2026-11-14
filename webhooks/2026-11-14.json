@@ -1890,5 +1890,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63866"
     }
+  },
+  {
+    "runNumber": "63868",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-14T12:46:26.108217-05:00",
+    "address": "1138 Providence Lane",
+    "extra": {
+      "incidentNumber": "63868",
+      "run_id": "63868",
+      "address": "1138 Providence Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E07,L02,202",
+      "units": "E05,E07,L02,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-63868"
+    }
   }
 ]
