@@ -3034,5 +3034,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-63921"
     }
+  },
+  {
+    "runNumber": "63920",
+    "rawCode": "MED",
+    "timestamp": "2026-11-14T17:37:08.495288-05:00",
+    "address": "1000 Block Crescent Avenue",
+    "extra": {
+      "incidentNumber": "63920",
+      "run_id": "63920",
+      "address": "1000 Block Crescent Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63920"
+    }
   }
 ]
