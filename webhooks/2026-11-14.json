@@ -2528,5 +2528,27 @@
       "commandUnits": "241,202,203,205",
       "dedupeKey": "INCIDENT-63896"
     }
+  },
+  {
+    "runNumber": "63897",
+    "rawCode": "MED",
+    "timestamp": "2026-11-14T14:56:47.439251-05:00",
+    "address": "400 Block Fox Harbour Drive",
+    "extra": {
+      "incidentNumber": "63897",
+      "run_id": "63897",
+      "address": "400 Block Fox Harbour Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63897"
+    }
   }
 ]
