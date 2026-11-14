@@ -1670,5 +1670,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63856"
     }
+  },
+  {
+    "runNumber": "63858",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-14T12:06:20.129565-05:00",
+    "address": "198 Sherman Avenue",
+    "extra": {
+      "incidentNumber": "63858",
+      "run_id": "63858",
+      "address": "198 Sherman Avenue",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E05,L02,205",
+      "units": "E02,E05,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-63858"
+    }
   }
 ]
