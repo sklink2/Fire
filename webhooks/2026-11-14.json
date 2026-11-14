@@ -2594,5 +2594,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63899"
     }
+  },
+  {
+    "runNumber": "63900",
+    "rawCode": "MED",
+    "timestamp": "2026-11-14T15:10:07.654284-05:00",
+    "address": "200 Block Clyde Street",
+    "extra": {
+      "incidentNumber": "63900",
+      "run_id": "63900",
+      "address": "200 Block Clyde Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,EC6",
+      "units": "E13,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63900"
+    }
   }
 ]
