@@ -1208,5 +1208,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63837"
     }
+  },
+  {
+    "runNumber": "63836",
+    "rawCode": "MED",
+    "timestamp": "2026-11-14T10:12:43.670732-05:00",
+    "address": "700 Block Sherwood Drive",
+    "extra": {
+      "incidentNumber": "63836",
+      "run_id": "63836",
+      "address": "700 Block Sherwood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,EC4",
+      "units": "E07,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63836"
+    }
   }
 ]
