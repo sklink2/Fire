@@ -1054,5 +1054,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63829"
     }
+  },
+  {
+    "runNumber": "63830",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-14T09:29:20.342851-05:00",
+    "address": "3735 Palomar Centre Drive",
+    "extra": {
+      "incidentNumber": "63830",
+      "run_id": "63830",
+      "address": "3735 Palomar Centre Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,E20,L04,EC12,204,220",
+      "units": "E15,E20,L04,EC12,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-63830"
+    }
   }
 ]
