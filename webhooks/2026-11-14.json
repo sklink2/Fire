@@ -1428,5 +1428,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63846"
     }
+  },
+  {
+    "runNumber": "63848",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-14T11:26:13.244951-05:00",
+    "address": "3301 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "63848",
+      "run_id": "63848",
+      "address": "3301 Nicholasville Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,E22,L07,204",
+      "units": "E15,E22,L07,204",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-63848"
+    }
   }
 ]
