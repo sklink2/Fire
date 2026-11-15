@@ -1714,5 +1714,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-64052"
     }
+  },
+  {
+    "runNumber": "64054",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-11-15T11:19:51.287592-05:00",
+    "address": "330 Newtown Pike",
+    "extra": {
+      "incidentNumber": "64054",
+      "run_id": "64054",
+      "address": "330 Newtown Pike",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64054"
+    }
   }
 ]
