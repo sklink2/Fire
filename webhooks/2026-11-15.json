@@ -482,5 +482,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63995"
     }
+  },
+  {
+    "runNumber": "63996",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-15T02:18:30.917778-05:00",
+    "address": "551 Freeman Drive",
+    "extra": {
+      "incidentNumber": "63996",
+      "run_id": "63996",
+      "address": "551 Freeman Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E10,L03,EC6,201,220",
+      "units": "E08,E10,L03,EC6,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-63996"
+    }
   }
 ]
