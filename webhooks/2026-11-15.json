@@ -2770,5 +2770,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64100"
     }
+  },
+  {
+    "runNumber": "64101",
+    "rawCode": "MED",
+    "timestamp": "2026-11-15T16:47:20.692230-05:00",
+    "address": "100 Block Toronto Road",
+    "extra": {
+      "incidentNumber": "64101",
+      "run_id": "64101",
+      "address": "100 Block Toronto Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64101"
+    }
   }
 ]
