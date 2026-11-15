@@ -570,5 +570,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64001"
     }
+  },
+  {
+    "runNumber": "64000",
+    "rawCode": "MED",
+    "timestamp": "2026-11-15T02:58:36.833989-05:00",
+    "address": "600 Block Sheridan Drive",
+    "extra": {
+      "incidentNumber": "64000",
+      "run_id": "64000",
+      "address": "600 Block Sheridan Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64000"
+    }
   }
 ]
