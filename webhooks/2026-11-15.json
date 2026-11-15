@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64110"
     }
+  },
+  {
+    "runNumber": "64111",
+    "rawCode": "MED",
+    "timestamp": "2026-11-15T17:27:25.900325-05:00",
+    "address": "3000 Block Mapleleaf Park",
+    "extra": {
+      "incidentNumber": "64111",
+      "run_id": "64111",
+      "address": "3000 Block Mapleleaf Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC8",
+      "units": "E21,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64111"
+    }
   }
 ]
