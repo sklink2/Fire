@@ -3452,5 +3452,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-64130"
     }
+  },
+  {
+    "runNumber": "64129",
+    "rawCode": "MED",
+    "timestamp": "2026-11-15T18:57:41.491645-05:00",
+    "address": "500 Block W Third Street",
+    "extra": {
+      "incidentNumber": "64129",
+      "run_id": "64129",
+      "address": "500 Block W Third Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64129"
+    }
   }
 ]
