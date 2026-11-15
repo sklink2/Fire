@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64003"
     }
+  },
+  {
+    "runNumber": "64005",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-15T03:21:59.651669-05:00",
+    "address": "2261 Elkhorn Road",
+    "extra": {
+      "incidentNumber": "64005",
+      "run_id": "64005",
+      "address": "2261 Elkhorn Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02",
+      "units": "E02",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64005"
+    }
   }
 ]
