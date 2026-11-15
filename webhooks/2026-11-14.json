@@ -3540,5 +3540,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-63944"
     }
+  },
+  {
+    "runNumber": "63943",
+    "rawCode": "MED",
+    "timestamp": "2026-11-14T21:04:22.316655-05:00",
+    "address": "1600 Block Raleigh Road",
+    "extra": {
+      "incidentNumber": "63943",
+      "run_id": "63943",
+      "address": "1600 Block Raleigh Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63943"
+    }
   }
 ]
