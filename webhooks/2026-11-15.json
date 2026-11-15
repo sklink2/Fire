@@ -1912,5 +1912,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64061"
     }
+  },
+  {
+    "runNumber": "64060",
+    "rawCode": "MED",
+    "timestamp": "2026-11-15T12:20:01.610344-05:00",
+    "address": "100 Block Sunny Side Trail",
+    "extra": {
+      "incidentNumber": "64060",
+      "run_id": "64060",
+      "address": "100 Block Sunny Side Trail",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64060"
+    }
   }
 ]
