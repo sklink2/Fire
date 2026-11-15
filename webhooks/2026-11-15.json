@@ -1670,5 +1670,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64051"
     }
+  },
+  {
+    "runNumber": "64050",
+    "rawCode": "MED",
+    "timestamp": "2026-11-15T11:06:29.869565-05:00",
+    "address": "300 Block Hummingbird Lane",
+    "extra": {
+      "incidentNumber": "64050",
+      "run_id": "64050",
+      "address": "300 Block Hummingbird Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64050"
+    }
   }
 ]
