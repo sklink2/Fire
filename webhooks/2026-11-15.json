@@ -1076,5 +1076,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64024"
     }
+  },
+  {
+    "runNumber": "64023",
+    "rawCode": "MED",
+    "timestamp": "2026-11-15T06:49:11.935203-05:00",
+    "address": "3300 Block Tates Creek Road",
+    "extra": {
+      "incidentNumber": "64023",
+      "run_id": "64023",
+      "address": "3300 Block Tates Creek Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,EC4",
+      "units": "E07,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64023"
+    }
   }
 ]
