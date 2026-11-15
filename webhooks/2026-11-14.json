@@ -3188,5 +3188,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63928"
     }
+  },
+  {
+    "runNumber": "63927",
+    "rawCode": "MED",
+    "timestamp": "2026-11-14T19:07:22.951528-05:00",
+    "address": "3600 Block Niagara Drive",
+    "extra": {
+      "incidentNumber": "63927",
+      "run_id": "63927",
+      "address": "3600 Block Niagara Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63927"
+    }
   }
 ]
