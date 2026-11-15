@@ -3012,5 +3012,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64111"
     }
+  },
+  {
+    "runNumber": "64112",
+    "rawCode": "MED",
+    "timestamp": "2026-11-15T17:30:46.446016-05:00",
+    "address": "2000 Block Oleander Drive",
+    "extra": {
+      "incidentNumber": "64112",
+      "run_id": "64112",
+      "address": "2000 Block Oleander Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC10",
+      "units": "E20,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64112"
+    }
   }
 ]
