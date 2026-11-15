@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64019"
     }
+  },
+  {
+    "runNumber": "64018",
+    "rawCode": "MED",
+    "timestamp": "2026-11-15T05:52:23.060668-05:00",
+    "address": "200 Block W Fifth Street",
+    "extra": {
+      "incidentNumber": "64018",
+      "run_id": "64018",
+      "address": "200 Block W Fifth Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64018"
+    }
   }
 ]
