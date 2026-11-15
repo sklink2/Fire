@@ -108,5 +108,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-63978"
     }
+  },
+  {
+    "runNumber": "63979",
+    "rawCode": "MED",
+    "timestamp": "2026-11-15T00:28:14.135321-05:00",
+    "address": "100 Block Cochran Road",
+    "extra": {
+      "incidentNumber": "63979",
+      "run_id": "63979",
+      "address": "100 Block Cochran Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC4",
+      "units": "E05,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63979"
+    }
   }
 ]
