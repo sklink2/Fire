@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64018"
     }
+  },
+  {
+    "runNumber": "64021",
+    "rawCode": "MED",
+    "timestamp": "2026-11-15T05:55:44.110659-05:00",
+    "address": "4300 Block Clearwater Way",
+    "extra": {
+      "incidentNumber": "64021",
+      "run_id": "64021",
+      "address": "4300 Block Clearwater Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC13",
+      "units": "E22,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64021"
+    }
   }
 ]
