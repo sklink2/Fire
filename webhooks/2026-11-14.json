@@ -3430,5 +3430,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63939"
     }
+  },
+  {
+    "runNumber": "63940",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-14T20:24:17.101644-05:00",
+    "address": "765 Lynn Road",
+    "extra": {
+      "incidentNumber": "63940",
+      "run_id": "63940",
+      "address": "765 Lynn Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,L04",
+      "units": "E11,L04",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-63940"
+    }
   }
 ]
