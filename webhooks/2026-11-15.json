@@ -3144,5 +3144,27 @@
       "commandUnits": "241,220,204",
       "dedupeKey": "INCIDENT-64117"
     }
+  },
+  {
+    "runNumber": "64117",
+    "rawCode": "FSTRW",
+    "timestamp": "2026-11-15T17:57:32.352701-05:00",
+    "address": "2449 Doubletree Court",
+    "extra": {
+      "incidentNumber": "64117",
+      "run_id": "64117",
+      "address": "2449 Doubletree Court",
+      "rawType": "FSTRW",
+      "typeCode": "FSTRW",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E13,E15,E20,L04,L07,EC3,EC4,202,204,200,220,241,RS1",
+      "units": "E11,E13,E15,E20,L04,L07,EC3,EC4,202,204,200,220,241,RS1",
+      "unitCount": "14",
+      "primaryTopic": "FSTRW",
+      "commandUnits": "241,220,200,202,204",
+      "dedupeKey": "INCIDENT-64117"
+    }
   }
 ]
