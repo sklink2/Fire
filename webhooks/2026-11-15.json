@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64081"
     }
+  },
+  {
+    "runNumber": "64085",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-15T14:50:21.701302-05:00",
+    "address": "540 Huntersknoll Place",
+    "extra": {
+      "incidentNumber": "64085",
+      "run_id": "64085",
+      "address": "540 Huntersknoll Place",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L06",
+      "units": "L06",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64085"
+    }
   }
 ]
