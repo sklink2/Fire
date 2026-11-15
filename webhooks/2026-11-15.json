@@ -2572,5 +2572,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64091"
     }
+  },
+  {
+    "runNumber": "64093",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-15T15:43:51.289543-05:00",
+    "address": "537 W Fifth Street",
+    "extra": {
+      "incidentNumber": "64093",
+      "run_id": "64093",
+      "address": "537 W Fifth Street",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E10,L01,EC1,205,220",
+      "units": "E04,E10,L01,EC1,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-64093"
+    }
   }
 ]
