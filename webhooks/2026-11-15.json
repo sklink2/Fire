@@ -1604,5 +1604,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64047"
     }
+  },
+  {
+    "runNumber": "64048",
+    "rawCode": "MED",
+    "timestamp": "2026-11-15T10:46:26.559537-05:00",
+    "address": "100 Block Woods Avenue",
+    "extra": {
+      "incidentNumber": "64048",
+      "run_id": "64048",
+      "address": "100 Block Woods Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC8",
+      "units": "E21,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64048"
+    }
   }
 ]
