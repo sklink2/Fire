@@ -790,5 +790,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-64010"
     }
+  },
+  {
+    "runNumber": "64011",
+    "rawCode": "MED",
+    "timestamp": "2026-11-15T05:12:15.651987-05:00",
+    "address": "3300 Block Colonnade Drive",
+    "extra": {
+      "incidentNumber": "64011",
+      "run_id": "64011",
+      "address": "3300 Block Colonnade Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC4",
+      "units": "E16,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64011"
+    }
   }
 ]
