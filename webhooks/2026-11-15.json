@@ -86,5 +86,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63977"
     }
+  },
+  {
+    "runNumber": "63978",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-15T00:24:52.473274-05:00",
+    "address": "977 Della Drive",
+    "extra": {
+      "incidentNumber": "63978",
+      "run_id": "63978",
+      "address": "977 Della Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,E14,L04,204",
+      "units": "E12,E14,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-63978"
+    }
   }
 ]
