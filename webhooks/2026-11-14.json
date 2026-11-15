@@ -3518,5 +3518,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63945"
     }
+  },
+  {
+    "runNumber": "63944",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-14T21:04:22.050203-05:00",
+    "address": "460 Lucille Drive",
+    "extra": {
+      "incidentNumber": "63944",
+      "run_id": "63944",
+      "address": "460 Lucille Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,E24,L03,203",
+      "units": "E13,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-63944"
+    }
   }
 ]
