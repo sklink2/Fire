@@ -3056,5 +3056,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-64113"
     }
+  },
+  {
+    "runNumber": "64114",
+    "rawCode": "FFIA",
+    "timestamp": "2026-11-15T17:40:47.213227-05:00",
+    "address": "1587 Samara Glen Way",
+    "extra": {
+      "incidentNumber": "64114",
+      "run_id": "64114",
+      "address": "1587 Samara Glen Way",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,E22,L07,202",
+      "units": "E16,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FFIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-64114"
+    }
   }
 ]
