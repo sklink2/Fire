@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64097"
     }
+  },
+  {
+    "runNumber": "64096",
+    "rawCode": "MED",
+    "timestamp": "2026-11-15T15:53:52.090139-05:00",
+    "address": "4200 Block Saron Drive",
+    "extra": {
+      "incidentNumber": "64096",
+      "run_id": "64096",
+      "address": "4200 Block Saron Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64096"
+    }
   }
 ]
