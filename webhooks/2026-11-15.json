@@ -2000,5 +2000,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64065"
     }
+  },
+  {
+    "runNumber": "64066",
+    "rawCode": "MED",
+    "timestamp": "2026-11-15T12:53:27.003018-05:00",
+    "address": "4000 Block Boone Creek Road",
+    "extra": {
+      "incidentNumber": "64066",
+      "run_id": "64066",
+      "address": "4000 Block Boone Creek Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E21,EC11",
+      "units": "E21,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64066"
+    }
   }
 ]
