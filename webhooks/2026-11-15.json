@@ -174,5 +174,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-63980"
     }
+  },
+  {
+    "runNumber": "63982",
+    "rawCode": "FFIA",
+    "timestamp": "2026-11-15T00:34:54.174518-05:00",
+    "address": "4020 Barnard Drive",
+    "extra": {
+      "incidentNumber": "63982",
+      "run_id": "63982",
+      "address": "4020 Barnard Drive",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E21,L06,201",
+      "units": "E09,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FFIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-63982"
+    }
   }
 ]
