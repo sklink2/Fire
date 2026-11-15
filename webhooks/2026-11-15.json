@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64009"
     }
+  },
+  {
+    "runNumber": "64010",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-15T05:08:55.017665-05:00",
+    "address": "1633 Raleigh Road",
+    "extra": {
+      "incidentNumber": "64010",
+      "run_id": "64010",
+      "address": "1633 Raleigh Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E08,L05,201",
+      "units": "E02,E08,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-64010"
+    }
   }
 ]
