@@ -3188,5 +3188,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-64118"
     }
+  },
+  {
+    "runNumber": "64119",
+    "rawCode": "MED",
+    "timestamp": "2026-11-15T18:07:32.569463-05:00",
+    "address": "1100 Block Indian Mound Road",
+    "extra": {
+      "incidentNumber": "64119",
+      "run_id": "64119",
+      "address": "1100 Block Indian Mound Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64119"
+    }
   }
 ]
