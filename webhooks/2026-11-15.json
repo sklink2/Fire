@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64006"
     }
+  },
+  {
+    "runNumber": "64007",
+    "rawCode": "MED",
+    "timestamp": "2026-11-15T04:25:28.632927-05:00",
+    "address": "100 Block York Street",
+    "extra": {
+      "incidentNumber": "64007",
+      "run_id": "64007",
+      "address": "100 Block York Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64007"
+    }
   }
 ]
