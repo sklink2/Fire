@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64083"
     }
+  },
+  {
+    "runNumber": "64082",
+    "rawCode": "FOTS",
+    "timestamp": "2026-11-15T14:50:22.585412-05:00",
+    "address": "E Second Street & N Martin Luther",
+    "extra": {
+      "incidentNumber": "64082",
+      "run_id": "64082",
+      "address": "E Second Street & N Martin Luther",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64082"
+    }
   }
 ]
