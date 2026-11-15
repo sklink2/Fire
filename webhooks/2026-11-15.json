@@ -3166,5 +3166,27 @@
       "commandUnits": "241,220,200,202,204",
       "dedupeKey": "INCIDENT-64117"
     }
+  },
+  {
+    "runNumber": "64118",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-15T18:00:51.959841-05:00",
+    "address": "361 Valley Brook Drive",
+    "extra": {
+      "incidentNumber": "64118",
+      "run_id": "64118",
+      "address": "361 Valley Brook Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,E24,L03,203",
+      "units": "E10,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-64118"
+    }
   }
 ]
