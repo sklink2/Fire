@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64050"
     }
+  },
+  {
+    "runNumber": "64052",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-15T11:13:10.846655-05:00",
+    "address": "416 Cromwell Way",
+    "extra": {
+      "incidentNumber": "64052",
+      "run_id": "64052",
+      "address": "416 Cromwell Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,E22,L04,202",
+      "units": "E20,E22,L04,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-64052"
+    }
   }
 ]
