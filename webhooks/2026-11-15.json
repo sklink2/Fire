@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64021"
     }
+  },
+  {
+    "runNumber": "64020",
+    "rawCode": "MED",
+    "timestamp": "2026-11-15T05:55:44.320010-05:00",
+    "address": "500 Block Thurman Drive",
+    "extra": {
+      "incidentNumber": "64020",
+      "run_id": "64020",
+      "address": "500 Block Thurman Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64020"
+    }
   }
 ]
