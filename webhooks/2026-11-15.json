@@ -2814,5 +2814,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-64103"
     }
+  },
+  {
+    "runNumber": "64102",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-15T16:57:22.051057-05:00",
+    "address": "Sir Barton Way & Alysheba Way",
+    "extra": {
+      "incidentNumber": "64102",
+      "run_id": "64102",
+      "address": "Sir Barton Way & Alysheba Way",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L06,EC11",
+      "units": "L06,EC11",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64102"
+    }
   }
 ]
