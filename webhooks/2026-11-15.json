@@ -4442,5 +4442,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64173"
     }
+  },
+  {
+    "runNumber": "64174",
+    "rawCode": "MED",
+    "timestamp": "2026-11-15T22:54:57.062723-05:00",
+    "address": "500 Block Judy Lane",
+    "extra": {
+      "incidentNumber": "64174",
+      "run_id": "64174",
+      "address": "500 Block Judy Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64174"
+    }
   }
 ]
