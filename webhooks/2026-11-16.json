@@ -878,5 +878,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64220"
     }
+  },
+  {
+    "runNumber": "64221",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-16T08:09:42.435503-05:00",
+    "address": "1406 Cochran Road",
+    "extra": {
+      "incidentNumber": "64221",
+      "run_id": "64221",
+      "address": "1406 Cochran Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2,RS1",
+      "units": "EC2,RS1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64221"
+    }
   }
 ]
