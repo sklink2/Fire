@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64308"
     }
+  },
+  {
+    "runNumber": "64306",
+    "rawCode": "FOTS",
+    "timestamp": "2026-11-16T15:50:52.279725-05:00",
+    "address": "435 W High Street",
+    "extra": {
+      "incidentNumber": "64306",
+      "run_id": "64306",
+      "address": "435 W High Street",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "220",
+      "units": "220",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-64306"
+    }
   }
 ]
