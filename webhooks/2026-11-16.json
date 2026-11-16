@@ -988,5 +988,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64225"
     }
+  },
+  {
+    "runNumber": "64227",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-16T08:36:24.675297-05:00",
+    "address": "75 Nb / 113.0 Mm (Paris Pike",
+    "extra": {
+      "incidentNumber": "64227",
+      "run_id": "64227",
+      "address": "75 Nb / 113.0 Mm (Paris Pike",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E17,E21,EC8",
+      "units": "E17,E21,EC8",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64227"
+    }
   }
 ]
