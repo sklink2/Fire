@@ -3870,5 +3870,27 @@
       "commandUnits": "241,202",
       "dedupeKey": "INCIDENT-64148"
     }
+  },
+  {
+    "runNumber": "64150",
+    "rawCode": "FOTS",
+    "timestamp": "2026-11-15T20:44:37.440496-05:00",
+    "address": "2449 Doubletree Court",
+    "extra": {
+      "incidentNumber": "64150",
+      "run_id": "64150",
+      "address": "2449 Doubletree Court",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10",
+      "units": "E10",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64150"
+    }
   }
 ]
