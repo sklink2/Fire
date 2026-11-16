@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64212"
     }
+  },
+  {
+    "runNumber": "64214",
+    "rawCode": "MED",
+    "timestamp": "2026-11-16T07:22:52.946984-05:00",
+    "address": "600 Block Chestnut Street",
+    "extra": {
+      "incidentNumber": "64214",
+      "run_id": "64214",
+      "address": "600 Block Chestnut Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64214"
+    }
   }
 ]
