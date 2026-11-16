@@ -1098,5 +1098,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-64231"
     }
+  },
+  {
+    "runNumber": "64230",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-16T08:46:27.775725-05:00",
+    "address": "Harrodsburg Road & Old Higbee Mi",
+    "extra": {
+      "incidentNumber": "64230",
+      "run_id": "64230",
+      "address": "Harrodsburg Road & Old Higbee Mi",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC7",
+      "units": "E15,EC7",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64230"
+    }
   }
 ]
