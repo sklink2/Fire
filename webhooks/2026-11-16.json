@@ -2682,5 +2682,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-64303"
     }
+  },
+  {
+    "runNumber": "64302",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-16T15:10:45.970383-05:00",
+    "address": "2500 Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "64302",
+      "run_id": "64302",
+      "address": "2500 Harrodsburg Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64302"
+    }
   }
 ]
