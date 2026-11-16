@@ -2836,5 +2836,27 @@
       "commandUnits": "241,202",
       "dedupeKey": "INCIDENT-64310"
     }
+  },
+  {
+    "runNumber": "64309",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-16T15:54:13.006531-05:00",
+    "address": "552 Haskins Drive",
+    "extra": {
+      "incidentNumber": "64309",
+      "run_id": "64309",
+      "address": "552 Haskins Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E10,L03,EC6,205",
+      "units": "E01,E10,L03,EC6,205",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-64309"
+    }
   }
 ]
