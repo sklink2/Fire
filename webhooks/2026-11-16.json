@@ -2704,5 +2704,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64302"
     }
+  },
+  {
+    "runNumber": "64304",
+    "rawCode": "FSCU",
+    "timestamp": "2026-11-16T15:14:07.617667-05:00",
+    "address": "301 S Broadway",
+    "extra": {
+      "incidentNumber": "64304",
+      "run_id": "64304",
+      "address": "301 S Broadway",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06",
+      "units": "E06",
+      "unitCount": "1",
+      "primaryTopic": "FSCU",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64304"
+    }
   }
 ]
