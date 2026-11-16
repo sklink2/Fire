@@ -2814,5 +2814,27 @@
       "commandUnits": "220",
       "dedupeKey": "INCIDENT-64306"
     }
+  },
+  {
+    "runNumber": "64310",
+    "rawCode": "MED",
+    "timestamp": "2026-11-16T15:54:11.909306-05:00",
+    "address": "500 Block W New Circle Road",
+    "extra": {
+      "incidentNumber": "64310",
+      "run_id": "64310",
+      "address": "500 Block W New Circle Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,EC3,202,241",
+      "units": "E02,EC3,202,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-64310"
+    }
   }
 ]
