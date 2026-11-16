@@ -3386,5 +3386,27 @@
       "commandUnits": "220,201",
       "dedupeKey": "INCIDENT-64333"
     }
+  },
+  {
+    "runNumber": "64334",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-16T17:47:47.443060-05:00",
+    "address": "1301 Centre Parkway",
+    "extra": {
+      "incidentNumber": "64334",
+      "run_id": "64334",
+      "address": "1301 Centre Parkway",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,E16,L07,EC13,204",
+      "units": "E07,E16,L07,EC13,204",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-64334"
+    }
   }
 ]
