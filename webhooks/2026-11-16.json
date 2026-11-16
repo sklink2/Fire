@@ -2726,5 +2726,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64304"
     }
+  },
+  {
+    "runNumber": "64307",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-16T15:37:28.363176-05:00",
+    "address": "1020 N Broadway",
+    "extra": {
+      "incidentNumber": "64307",
+      "run_id": "64307",
+      "address": "1020 N Broadway",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,L01",
+      "units": "E08,L01",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64307"
+    }
   }
 ]
