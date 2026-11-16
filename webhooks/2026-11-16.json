@@ -3826,5 +3826,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64351"
     }
+  },
+  {
+    "runNumber": "64350",
+    "rawCode": "FDET",
+    "timestamp": "2026-11-16T18:54:38.420392-05:00",
+    "address": "721 Lakeview Drive",
+    "extra": {
+      "incidentNumber": "64350",
+      "run_id": "64350",
+      "address": "721 Lakeview Drive",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16",
+      "units": "E16",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64350"
+    }
   }
 ]
