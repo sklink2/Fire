@@ -3012,5 +3012,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64317"
     }
+  },
+  {
+    "runNumber": "64316",
+    "rawCode": "FSTRW",
+    "timestamp": "2026-11-16T16:20:56.728587-05:00",
+    "address": "721 Lakeview Drive",
+    "extra": {
+      "incidentNumber": "64316",
+      "run_id": "64316",
+      "address": "721 Lakeview Drive",
+      "rawType": "FSTRW",
+      "typeCode": "FSTRW",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E02,E08,E09,E21,L01,L05,EC4,EC8,202,204,205,200,241,RS1",
+      "units": "E01,E02,E08,E09,E21,L01,L05,EC4,EC8,202,204,205,200,241,RS1",
+      "unitCount": "15",
+      "primaryTopic": "FSTRW",
+      "commandUnits": "241,200,202,204,205",
+      "dedupeKey": "INCIDENT-64316"
+    }
   }
 ]
