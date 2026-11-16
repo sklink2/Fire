@@ -1032,5 +1032,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64226"
     }
+  },
+  {
+    "runNumber": "64228",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-16T08:39:45.986616-05:00",
+    "address": "137 Rose Street",
+    "extra": {
+      "incidentNumber": "64228",
+      "run_id": "64228",
+      "address": "137 Rose Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E11,E20,L01,205",
+      "units": "E01,E11,E20,L01,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-64228"
+    }
   }
 ]
