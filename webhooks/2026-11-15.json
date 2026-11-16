@@ -4178,5 +4178,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64162"
     }
+  },
+  {
+    "runNumber": "64161",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-15T21:51:28.120041-05:00",
+    "address": "2648 Chant Court",
+    "extra": {
+      "incidentNumber": "64161",
+      "run_id": "64161",
+      "address": "2648 Chant Court",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E09,L06,EC11,201,220",
+      "units": "E02,E09,L06,EC11,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-64161"
+    }
   }
 ]
