@@ -2990,5 +2990,27 @@
       "commandUnits": "241,202,204,205",
       "dedupeKey": "INCIDENT-64316"
     }
+  },
+  {
+    "runNumber": "64317",
+    "rawCode": "MED",
+    "timestamp": "2026-11-16T16:17:35.370332-05:00",
+    "address": "3500 Block Berwin Court",
+    "extra": {
+      "incidentNumber": "64317",
+      "run_id": "64317",
+      "address": "3500 Block Berwin Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC5,EC9",
+      "units": "E15,EC5,EC9",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64317"
+    }
   }
 ]
