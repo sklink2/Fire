@@ -1208,5 +1208,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64234"
     }
+  },
+  {
+    "runNumber": "64236",
+    "rawCode": "MED",
+    "timestamp": "2026-11-16T09:09:49.145893-05:00",
+    "address": "900 Block Manchester Street",
+    "extra": {
+      "incidentNumber": "64236",
+      "run_id": "64236",
+      "address": "900 Block Manchester Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64236"
+    }
   }
 ]
