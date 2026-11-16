@@ -1186,5 +1186,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64235"
     }
+  },
+  {
+    "runNumber": "64234",
+    "rawCode": "MED",
+    "timestamp": "2026-11-16T09:03:07.798855-05:00",
+    "address": "2400 Block Prescott Lane",
+    "extra": {
+      "incidentNumber": "64234",
+      "run_id": "64234",
+      "address": "2400 Block Prescott Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64234"
+    }
   }
 ]
