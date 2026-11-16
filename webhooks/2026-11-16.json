@@ -570,5 +570,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64205"
     }
+  },
+  {
+    "runNumber": "64206",
+    "rawCode": "MED",
+    "timestamp": "2026-11-16T05:35:59.203743-05:00",
+    "address": "600 Block Georgetown Street",
+    "extra": {
+      "incidentNumber": "64206",
+      "run_id": "64206",
+      "address": "600 Block Georgetown Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64206"
+    }
   }
 ]
