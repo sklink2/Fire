@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64132"
     }
+  },
+  {
+    "runNumber": "64135",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-15T19:07:42.947230-05:00",
+    "address": "430 Redding Road",
+    "extra": {
+      "incidentNumber": "64135",
+      "run_id": "64135",
+      "address": "430 Redding Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16",
+      "units": "E16",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64135"
+    }
   }
 ]
