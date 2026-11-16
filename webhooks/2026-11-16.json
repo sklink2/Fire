@@ -1054,5 +1054,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-64228"
     }
+  },
+  {
+    "runNumber": "64229",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-11-16T08:43:07.731634-05:00",
+    "address": "4264 Clemens Drive",
+    "extra": {
+      "incidentNumber": "64229",
+      "run_id": "64229",
+      "address": "4264 Clemens Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L04",
+      "units": "L04",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64229"
+    }
   }
 ]
