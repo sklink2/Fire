@@ -3760,5 +3760,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64348"
     }
+  },
+  {
+    "runNumber": "64345",
+    "rawCode": "FBGL",
+    "timestamp": "2026-11-16T18:34:37.735765-05:00",
+    "address": "3640 Grace Drive",
+    "extra": {
+      "incidentNumber": "64345",
+      "run_id": "64345",
+      "address": "3640 Grace Drive",
+      "rawType": "FBGL",
+      "typeCode": "FBGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E15,E20,L04,EC2,201,241,RS1",
+      "units": "E09,E15,E20,L04,EC2,201,241,RS1",
+      "unitCount": "8",
+      "primaryTopic": "FBGL",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-64345"
+    }
   }
 ]
