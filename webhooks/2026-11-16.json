@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64222"
     }
+  },
+  {
+    "runNumber": "64224",
+    "rawCode": "MED",
+    "timestamp": "2026-11-16T08:26:23.540635-05:00",
+    "address": "900 Block Whitney Avenue",
+    "extra": {
+      "incidentNumber": "64224",
+      "run_id": "64224",
+      "address": "900 Block Whitney Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L03,EC1,CRT1",
+      "units": "L03,EC1,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64224"
+    }
   }
 ]
