@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64227"
     }
+  },
+  {
+    "runNumber": "64226",
+    "rawCode": "MED",
+    "timestamp": "2026-11-16T08:36:25.307819-05:00",
+    "address": "4500 Block Graves Drive",
+    "extra": {
+      "incidentNumber": "64226",
+      "run_id": "64226",
+      "address": "4500 Block Graves Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64226"
+    }
   }
 ]
