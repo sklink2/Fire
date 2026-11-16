@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64314"
     }
+  },
+  {
+    "runNumber": "64313",
+    "rawCode": "FBAS",
+    "timestamp": "2026-11-16T15:57:32.291435-05:00",
+    "address": "483 Anniston Drive",
+    "extra": {
+      "incidentNumber": "64313",
+      "run_id": "64313",
+      "address": "483 Anniston Drive",
+      "rawType": "FBAS",
+      "typeCode": "FBAS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,EC7,203",
+      "units": "E05,EC7,203",
+      "unitCount": "3",
+      "primaryTopic": "FBAS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-64313"
+    }
   }
 ]
