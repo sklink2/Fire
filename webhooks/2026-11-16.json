@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64296"
     }
+  },
+  {
+    "runNumber": "64298",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-16T14:44:02.383776-05:00",
+    "address": "4133 Aviator Road",
+    "extra": {
+      "incidentNumber": "64298",
+      "run_id": "64298",
+      "address": "4133 Aviator Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E14,E20,L04,204",
+      "units": "E14,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-64298"
+    }
   }
 ]
