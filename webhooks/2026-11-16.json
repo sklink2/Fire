@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64208"
     }
+  },
+  {
+    "runNumber": "64210",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-16T06:39:26.192011-05:00",
+    "address": "4057 Mooncoin Way",
+    "extra": {
+      "incidentNumber": "64210",
+      "run_id": "64210",
+      "address": "4057 Mooncoin Way",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,E22,L07,202",
+      "units": "E15,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-64210"
+    }
   }
 ]
