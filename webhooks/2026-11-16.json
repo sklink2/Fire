@@ -3056,5 +3056,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64318"
     }
+  },
+  {
+    "runNumber": "64319",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-16T16:37:37.186476-05:00",
+    "address": "121 Prosperous Place",
+    "extra": {
+      "incidentNumber": "64319",
+      "run_id": "64319",
+      "address": "121 Prosperous Place",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E16,L06,204",
+      "units": "E09,E16,L06,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-64319"
+    }
   }
 ]
