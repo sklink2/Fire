@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64202"
     }
+  },
+  {
+    "runNumber": "64203",
+    "rawCode": "FELS",
+    "timestamp": "2026-11-16T04:49:10.010746-05:00",
+    "address": "690 Mason Headley Road",
+    "extra": {
+      "incidentNumber": "64203",
+      "run_id": "64203",
+      "address": "690 Mason Headley Road",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,L04,204",
+      "units": "E12,L04,204",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-64203"
+    }
   }
 ]
