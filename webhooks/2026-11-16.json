@@ -2638,5 +2638,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64300"
     }
+  },
+  {
+    "runNumber": "64301",
+    "rawCode": "MED",
+    "timestamp": "2026-11-16T15:07:25.155098-05:00",
+    "address": "800 Block Warfield Place",
+    "extra": {
+      "incidentNumber": "64301",
+      "run_id": "64301",
+      "address": "800 Block Warfield Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64301"
+    }
   }
 ]
