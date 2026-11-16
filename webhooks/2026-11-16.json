@@ -1516,5 +1516,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64249"
     }
+  },
+  {
+    "runNumber": "64250",
+    "rawCode": "MED",
+    "timestamp": "2026-11-16T10:13:18.715078-05:00",
+    "address": "600 Block Delzan Place",
+    "extra": {
+      "incidentNumber": "64250",
+      "run_id": "64250",
+      "address": "600 Block Delzan Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64250"
+    }
   }
 ]
