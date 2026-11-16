@@ -3672,5 +3672,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64346"
     }
+  },
+  {
+    "runNumber": "64345",
+    "rawCode": "FSTR",
+    "timestamp": "2026-11-16T18:27:54.773956-05:00",
+    "address": "3640 Grace Drive",
+    "extra": {
+      "incidentNumber": "64345",
+      "run_id": "64345",
+      "address": "3640 Grace Drive",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E15,E20,E21,E22,L04,L06,EC12,201,203,205,241,RS1",
+      "units": "E09,E15,E20,E21,E22,L04,L06,EC12,201,203,205,241,RS1",
+      "unitCount": "13",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,201,203,205",
+      "dedupeKey": "INCIDENT-64345"
+    }
   }
 ]
