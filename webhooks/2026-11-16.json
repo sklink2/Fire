@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64241"
     }
+  },
+  {
+    "runNumber": "64242",
+    "rawCode": "MED",
+    "timestamp": "2026-11-16T09:33:12.457628-05:00",
+    "address": "3600 Block Appian Way",
+    "extra": {
+      "incidentNumber": "64242",
+      "run_id": "64242",
+      "address": "3600 Block Appian Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC13",
+      "units": "E09,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64242"
+    }
   }
 ]
