@@ -130,5 +130,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64185"
     }
+  },
+  {
+    "runNumber": "64187",
+    "rawCode": "FSCU",
+    "timestamp": "2026-11-16T01:01:54.058644-05:00",
+    "address": "3500 Beaver Place Road",
+    "extra": {
+      "incidentNumber": "64187",
+      "run_id": "64187",
+      "address": "3500 Beaver Place Road",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15",
+      "units": "E15",
+      "unitCount": "1",
+      "primaryTopic": "FSCU",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64187"
+    }
   }
 ]
