@@ -3364,5 +3364,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64331"
     }
+  },
+  {
+    "runNumber": "64333",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-16T17:44:27.670406-05:00",
+    "address": "665 Street Anthony Drive",
+    "extra": {
+      "incidentNumber": "64333",
+      "run_id": "64333",
+      "address": "665 Street Anthony Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E08,L03,EC3,201,220",
+      "units": "E06,E08,L03,EC3,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-64333"
+    }
   }
 ]
