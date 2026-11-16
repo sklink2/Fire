@@ -3496,5 +3496,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64335"
     }
+  },
+  {
+    "runNumber": "64338",
+    "rawCode": "FELF",
+    "timestamp": "2026-11-16T18:01:11.246187-05:00",
+    "address": "1888 Goodpaster Way",
+    "extra": {
+      "incidentNumber": "64338",
+      "run_id": "64338",
+      "address": "1888 Goodpaster Way",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E17,L01,205",
+      "units": "E01,E17,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-64338"
+    }
   }
 ]
