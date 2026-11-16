@@ -3848,5 +3848,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64147"
     }
+  },
+  {
+    "runNumber": "64148",
+    "rawCode": "MED",
+    "timestamp": "2026-11-15T20:34:35.832629-05:00",
+    "address": "3500 Block Beaver Place Road",
+    "extra": {
+      "incidentNumber": "64148",
+      "run_id": "64148",
+      "address": "3500 Block Beaver Place Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,EC12,202,241",
+      "units": "E07,EC12,202,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-64148"
+    }
   }
 ]
