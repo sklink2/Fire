@@ -526,5 +526,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-64203"
     }
+  },
+  {
+    "runNumber": "64204",
+    "rawCode": "MED",
+    "timestamp": "2026-11-16T04:52:30.607494-05:00",
+    "address": "700 Block Lane Allen Road",
+    "extra": {
+      "incidentNumber": "64204",
+      "run_id": "64204",
+      "address": "700 Block Lane Allen Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64204"
+    }
   }
 ]
