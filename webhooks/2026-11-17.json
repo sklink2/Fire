@@ -1230,5 +1230,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64447"
     }
+  },
+  {
+    "runNumber": "64449",
+    "rawCode": "MED",
+    "timestamp": "2026-11-17T09:50:12.881257-05:00",
+    "address": "2500 Block Sir Barton Way",
+    "extra": {
+      "incidentNumber": "64449",
+      "run_id": "64449",
+      "address": "2500 Block Sir Barton Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC8",
+      "units": "E21,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64449"
+    }
   }
 ]
