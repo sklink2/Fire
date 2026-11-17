@@ -240,5 +240,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64403"
     }
+  },
+  {
+    "runNumber": "64404",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-17T03:32:39.193998-05:00",
+    "address": "1708 Jennifer Road",
+    "extra": {
+      "incidentNumber": "64404",
+      "run_id": "64404",
+      "address": "1708 Jennifer Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E08,L05,EC8,201,220",
+      "units": "E02,E08,L05,EC8,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-64404"
+    }
   }
 ]
