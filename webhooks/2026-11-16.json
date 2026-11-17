@@ -4178,5 +4178,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64366"
     }
+  },
+  {
+    "runNumber": "64367",
+    "rawCode": "FELF",
+    "timestamp": "2026-11-16T20:58:18.566797-05:00",
+    "address": "350 E Short Street",
+    "extra": {
+      "incidentNumber": "64367",
+      "run_id": "64367",
+      "address": "350 E Short Street",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E05,L02,205",
+      "units": "E01,E05,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-64367"
+    }
   }
 ]
