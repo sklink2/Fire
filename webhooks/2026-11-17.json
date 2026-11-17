@@ -1538,5 +1538,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64463"
     }
+  },
+  {
+    "runNumber": "64462",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-17T11:03:45.295277-05:00",
+    "address": "1030 Meadow Lane",
+    "extra": {
+      "incidentNumber": "64462",
+      "run_id": "64462",
+      "address": "1030 Meadow Lane",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E10,L03,EC6,201,220",
+      "units": "E02,E10,L03,EC6,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-64462"
+    }
   }
 ]
