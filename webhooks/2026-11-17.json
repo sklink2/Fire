@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64435"
     }
+  },
+  {
+    "runNumber": "64434",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-17T08:40:02.303627-05:00",
+    "address": "S Limestone & Cooper Drive",
+    "extra": {
+      "incidentNumber": "64434",
+      "run_id": "64434",
+      "address": "S Limestone & Cooper Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,EC7",
+      "units": "E05,EC7",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64434"
+    }
   }
 ]
