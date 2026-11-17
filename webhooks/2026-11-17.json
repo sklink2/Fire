@@ -2858,5 +2858,27 @@
       "commandUnits": "241,202",
       "dedupeKey": "INCIDENT-64522"
     }
+  },
+  {
+    "runNumber": "64523",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-17T16:07:50.528632-05:00",
+    "address": "1518 Versailles Road",
+    "extra": {
+      "incidentNumber": "64523",
+      "run_id": "64523",
+      "address": "1518 Versailles Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,E14,L01,204",
+      "units": "E13,E14,L01,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-64523"
+    }
   }
 ]
