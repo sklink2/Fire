@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64425"
     }
+  },
+  {
+    "runNumber": "64426",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-17T08:06:37.909387-05:00",
+    "address": "553 Maryland Avenue",
+    "extra": {
+      "incidentNumber": "64426",
+      "run_id": "64426",
+      "address": "553 Maryland Avenue",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64426"
+    }
   }
 ]
