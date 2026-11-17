@@ -2726,5 +2726,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64515"
     }
+  },
+  {
+    "runNumber": "64517",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-17T15:44:26.376721-05:00",
+    "address": "333 W Vine Street",
+    "extra": {
+      "incidentNumber": "64517",
+      "run_id": "64517",
+      "address": "333 W Vine Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E04,E05,L01,205",
+      "units": "E01,E04,E05,L01,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-64517"
+    }
   }
 ]
