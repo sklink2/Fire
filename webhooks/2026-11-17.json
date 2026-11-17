@@ -3584,5 +3584,27 @@
       "commandUnits": "241,204",
       "dedupeKey": "INCIDENT-64555"
     }
+  },
+  {
+    "runNumber": "64557",
+    "rawCode": "MED",
+    "timestamp": "2026-11-17T18:58:16.401398-05:00",
+    "address": "2600 Block Braden Way",
+    "extra": {
+      "incidentNumber": "64557",
+      "run_id": "64557",
+      "address": "2600 Block Braden Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64557"
+    }
   }
 ]
