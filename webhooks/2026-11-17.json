@@ -1054,5 +1054,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64440"
     }
+  },
+  {
+    "runNumber": "64441",
+    "rawCode": "MED",
+    "timestamp": "2026-11-17T09:06:46.966714-05:00",
+    "address": "2000 Block Dellwood Drive",
+    "extra": {
+      "incidentNumber": "64441",
+      "run_id": "64441",
+      "address": "2000 Block Dellwood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,EC12",
+      "units": "E12,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64441"
+    }
   }
 ]
