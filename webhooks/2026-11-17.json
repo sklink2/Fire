@@ -1120,5 +1120,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64444"
     }
+  },
+  {
+    "runNumber": "64443",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-17T09:16:47.773069-05:00",
+    "address": "Richmond Road & Water Company Drive",
+    "extra": {
+      "incidentNumber": "64443",
+      "run_id": "64443",
+      "address": "Richmond Road & Water Company Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC13",
+      "units": "E21,EC13",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64443"
+    }
   }
 ]
