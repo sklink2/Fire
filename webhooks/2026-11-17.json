@@ -2506,5 +2506,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64506"
     }
+  },
+  {
+    "runNumber": "64505",
+    "rawCode": "MED",
+    "timestamp": "2026-11-17T15:04:22.050504-05:00",
+    "address": "1000 Block Goodwin Drive",
+    "extra": {
+      "incidentNumber": "64505",
+      "run_id": "64505",
+      "address": "1000 Block Goodwin Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L05,EC1",
+      "units": "L05,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64505"
+    }
   }
 ]
