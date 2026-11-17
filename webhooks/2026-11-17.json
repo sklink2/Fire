@@ -1934,5 +1934,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64480"
     }
+  },
+  {
+    "runNumber": "64481",
+    "rawCode": "MED",
+    "timestamp": "2026-11-17T12:23:57.846712-05:00",
+    "address": "3000 Block Our Tibbs Trail",
+    "extra": {
+      "incidentNumber": "64481",
+      "run_id": "64481",
+      "address": "3000 Block Our Tibbs Trail",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "T1,EC22",
+      "units": "T1,EC22",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64481"
+    }
   }
 ]
