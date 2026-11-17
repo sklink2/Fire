@@ -3056,5 +3056,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-64530"
     }
+  },
+  {
+    "runNumber": "64532",
+    "rawCode": "FVEH",
+    "timestamp": "2026-11-17T16:51:16.600020-05:00",
+    "address": "Wayland Drive & Bryanwood Parkway",
+    "extra": {
+      "incidentNumber": "64532",
+      "run_id": "64532",
+      "address": "Wayland Drive & Bryanwood Parkway",
+      "rawType": "FVEH",
+      "typeCode": "FVEH",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02",
+      "units": "E02",
+      "unitCount": "1",
+      "primaryTopic": "FVEH",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64532"
+    }
   }
 ]
