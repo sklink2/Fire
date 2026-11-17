@@ -2924,5 +2924,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64526"
     }
+  },
+  {
+    "runNumber": "64525",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-17T16:14:31.215874-05:00",
+    "address": "480 Race Street",
+    "extra": {
+      "incidentNumber": "64525",
+      "run_id": "64525",
+      "address": "480 Race Street",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01",
+      "units": "L01",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64525"
+    }
   }
 ]
