@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64408"
     }
+  },
+  {
+    "runNumber": "64409",
+    "rawCode": "FMIS",
+    "timestamp": "2026-11-17T05:06:11.768846-05:00",
+    "address": "572 Judy Lane",
+    "extra": {
+      "incidentNumber": "64409",
+      "run_id": "64409",
+      "address": "572 Judy Lane",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,201",
+      "units": "E08,201",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-64409"
+    }
   }
 ]
