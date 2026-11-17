@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64499"
     }
+  },
+  {
+    "runNumber": "64500",
+    "rawCode": "MED",
+    "timestamp": "2026-11-17T14:34:16.735649-05:00",
+    "address": "2400 Block Mirahill Drive",
+    "extra": {
+      "incidentNumber": "64500",
+      "run_id": "64500",
+      "address": "2400 Block Mirahill Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64500"
+    }
   }
 ]
