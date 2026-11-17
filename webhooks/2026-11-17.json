@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64413"
     }
+  },
+  {
+    "runNumber": "64414",
+    "rawCode": "MED",
+    "timestamp": "2026-11-17T06:23:02.128233-05:00",
+    "address": "700 Block E Main Street",
+    "extra": {
+      "incidentNumber": "64414",
+      "run_id": "64414",
+      "address": "700 Block E Main Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05",
+      "units": "E05",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64414"
+    }
   }
 ]
