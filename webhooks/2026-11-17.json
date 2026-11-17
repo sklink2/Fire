@@ -2110,5 +2110,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64488"
     }
+  },
+  {
+    "runNumber": "64489",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-17T13:07:24.684255-05:00",
+    "address": "2205 Patchen Lake Lane",
+    "extra": {
+      "incidentNumber": "64489",
+      "run_id": "64489",
+      "address": "2205 Patchen Lake Lane",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L05",
+      "units": "L05",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64489"
+    }
   }
 ]
