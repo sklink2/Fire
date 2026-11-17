@@ -790,5 +790,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64429"
     }
+  },
+  {
+    "runNumber": "64428",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-17T08:13:19.284542-05:00",
+    "address": "9079 Old Richmond Road",
+    "extra": {
+      "incidentNumber": "64428",
+      "run_id": "64428",
+      "address": "9079 Old Richmond Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,RS1",
+      "units": "E09,RS1",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64428"
+    }
   }
 ]
