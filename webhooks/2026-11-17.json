@@ -262,5 +262,27 @@
       "commandUnits": "220,201",
       "dedupeKey": "INCIDENT-64404"
     }
+  },
+  {
+    "runNumber": "64405",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-11-17T03:35:59.552314-05:00",
+    "address": "1024 Greendale Road",
+    "extra": {
+      "incidentNumber": "64405",
+      "run_id": "64405",
+      "address": "1024 Greendale Road",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24",
+      "units": "E24",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64405"
+    }
   }
 ]
