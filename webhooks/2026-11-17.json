@@ -614,5 +614,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64420"
     }
+  },
+  {
+    "runNumber": "64421",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-17T07:16:30.307981-05:00",
+    "address": "3948 Fountainblue Lane",
+    "extra": {
+      "incidentNumber": "64421",
+      "run_id": "64421",
+      "address": "3948 Fountainblue Lane",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E20,L04,204,220",
+      "units": "E11,E20,L04,204,220",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-64421"
+    }
   }
 ]
