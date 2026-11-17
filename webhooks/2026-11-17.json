@@ -372,5 +372,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-64409"
     }
+  },
+  {
+    "runNumber": "64410",
+    "rawCode": "MED",
+    "timestamp": "2026-11-17T05:32:54.684029-05:00",
+    "address": "300 Block E Seventh Street",
+    "extra": {
+      "incidentNumber": "64410",
+      "run_id": "64410",
+      "address": "300 Block E Seventh Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64410"
+    }
   }
 ]
