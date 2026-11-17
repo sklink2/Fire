@@ -3408,5 +3408,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64547"
     }
+  },
+  {
+    "runNumber": "64546",
+    "rawCode": "MED",
+    "timestamp": "2026-11-17T18:08:10.561849-05:00",
+    "address": "3000 Block Wavecrest Way",
+    "extra": {
+      "incidentNumber": "64546",
+      "run_id": "64546",
+      "address": "3000 Block Wavecrest Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L06,EC13,CRT1",
+      "units": "L06,EC13,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64546"
+    }
   }
 ]
