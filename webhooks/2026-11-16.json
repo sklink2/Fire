@@ -4134,5 +4134,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64364"
     }
+  },
+  {
+    "runNumber": "64365",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-16T20:44:54.355200-05:00",
+    "address": "1473 Georgetown Road",
+    "extra": {
+      "incidentNumber": "64365",
+      "run_id": "64365",
+      "address": "1473 Georgetown Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E24,L03,EC8,203,220",
+      "units": "E02,E24,L03,EC8,203,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,203",
+      "dedupeKey": "INCIDENT-64365"
+    }
   }
 ]
