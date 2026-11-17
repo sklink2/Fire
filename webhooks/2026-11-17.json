@@ -3100,5 +3100,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64533"
     }
+  },
+  {
+    "runNumber": "64534",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-17T16:57:58.814626-05:00",
+    "address": "2050 Garden Springs Drive",
+    "extra": {
+      "incidentNumber": "64534",
+      "run_id": "64534",
+      "address": "2050 Garden Springs Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E12,E14,L04,204",
+      "units": "E11,E12,E14,L04,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-64534"
+    }
   }
 ]
