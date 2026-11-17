@@ -3144,5 +3144,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64535"
     }
+  },
+  {
+    "runNumber": "64536",
+    "rawCode": "MED",
+    "timestamp": "2026-11-17T17:18:01.277750-05:00",
+    "address": "W Third Street & Blackburn Avenue",
+    "extra": {
+      "incidentNumber": "64536",
+      "run_id": "64536",
+      "address": "W Third Street & Blackburn Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,EC6",
+      "units": "E04,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64536"
+    }
   }
 ]
