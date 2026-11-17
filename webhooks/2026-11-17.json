@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64427"
     }
+  },
+  {
+    "runNumber": "64429",
+    "rawCode": "MED",
+    "timestamp": "2026-11-17T08:13:18.969984-05:00",
+    "address": "100 Block Lisle Industrial Avenue",
+    "extra": {
+      "incidentNumber": "64429",
+      "run_id": "64429",
+      "address": "100 Block Lisle Industrial Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,EC6",
+      "units": "E13,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64429"
+    }
   }
 ]
