@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64428"
     }
+  },
+  {
+    "runNumber": "64439",
+    "rawCode": "FMEA",
+    "timestamp": "2026-11-17T09:00:07.336769-05:00",
+    "address": "343 Riviera Court",
+    "extra": {
+      "incidentNumber": "64439",
+      "run_id": "64439",
+      "address": "343 Riviera Court",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17",
+      "units": "E17",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64439"
+    }
   }
 ]
