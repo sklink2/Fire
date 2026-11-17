@@ -4068,5 +4068,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64362"
     }
+  },
+  {
+    "runNumber": "64361",
+    "rawCode": "MED",
+    "timestamp": "2026-11-16T20:31:32.455804-05:00",
+    "address": "900 Block Lucy Lane",
+    "extra": {
+      "incidentNumber": "64361",
+      "run_id": "64361",
+      "address": "900 Block Lucy Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC3,241",
+      "units": "EC3,241",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-64361"
+    }
   }
 ]
