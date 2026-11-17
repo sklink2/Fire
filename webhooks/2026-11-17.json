@@ -1186,5 +1186,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64446"
     }
+  },
+  {
+    "runNumber": "64448",
+    "rawCode": "MED",
+    "timestamp": "2026-11-17T09:43:32.595260-05:00",
+    "address": "300 Block Newto",
+    "extra": {
+      "incidentNumber": "64448",
+      "run_id": "64448",
+      "address": "300 Block Newto",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "CRT1",
+      "units": "CRT1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64448"
+    }
   }
 ]
