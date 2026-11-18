@@ -768,5 +768,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64637"
     }
+  },
+  {
+    "runNumber": "64638",
+    "rawCode": "MED",
+    "timestamp": "2026-11-18T07:20:08.303414-05:00",
+    "address": "6600 Block Man O War Boulevard",
+    "extra": {
+      "incidentNumber": "64638",
+      "run_id": "64638",
+      "address": "6600 Block Man O War Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E17,EC11,241",
+      "units": "E17,EC11,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-64638"
+    }
   }
 ]
