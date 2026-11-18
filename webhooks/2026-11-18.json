@@ -262,5 +262,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64614"
     }
+  },
+  {
+    "runNumber": "64616",
+    "rawCode": "MED",
+    "timestamp": "2026-11-18T03:12:50.407161-05:00",
+    "address": "2000 Block Cornerstone Drive",
+    "extra": {
+      "incidentNumber": "64616",
+      "run_id": "64616",
+      "address": "2000 Block Cornerstone Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64616"
+    }
   }
 ]
