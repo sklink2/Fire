@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64647"
     }
+  },
+  {
+    "runNumber": "64649",
+    "rawCode": "MED",
+    "timestamp": "2026-11-18T08:30:18.487708-05:00",
+    "address": "200 Block Mechanic Street",
+    "extra": {
+      "incidentNumber": "64649",
+      "run_id": "64649",
+      "address": "200 Block Mechanic Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64649"
+    }
   }
 ]
