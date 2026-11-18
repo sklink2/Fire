@@ -1032,5 +1032,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64649"
     }
+  },
+  {
+    "runNumber": "64651",
+    "rawCode": "FVIS",
+    "timestamp": "2026-11-18T08:33:38.392218-05:00",
+    "address": "4351 Clearwater Way",
+    "extra": {
+      "incidentNumber": "64651",
+      "run_id": "64651",
+      "address": "4351 Clearwater Way",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E16,L07,EC8,202,RS1",
+      "units": "E09,E16,L07,EC8,202,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-64651"
+    }
   }
 ]
