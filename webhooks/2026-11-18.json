@@ -2088,5 +2088,27 @@
       "commandUnits": "220,205",
       "dedupeKey": "INCIDENT-64697"
     }
+  },
+  {
+    "runNumber": "64699",
+    "rawCode": "MED",
+    "timestamp": "2026-11-18T12:47:37.708205-05:00",
+    "address": "100 Block Hamilton Park",
+    "extra": {
+      "incidentNumber": "64699",
+      "run_id": "64699",
+      "address": "100 Block Hamilton Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64699"
+    }
   }
 ]
