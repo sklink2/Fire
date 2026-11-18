@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64715"
     }
+  },
+  {
+    "runNumber": "64713",
+    "rawCode": "FSTRW",
+    "timestamp": "2026-11-18T14:27:54.092236-05:00",
+    "address": "347 S Upper Street",
+    "extra": {
+      "incidentNumber": "64713",
+      "run_id": "64713",
+      "address": "347 S Upper Street",
+      "rawType": "FSTRW",
+      "typeCode": "FSTRW",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E04,E05,E06,E13,L01,L02,EC1,EC7,201,205,220,241,RS1",
+      "units": "E01,E04,E05,E06,E13,L01,L02,EC1,EC7,201,205,220,241,RS1",
+      "unitCount": "14",
+      "primaryTopic": "FSTRW",
+      "commandUnits": "241,220,201,205",
+      "dedupeKey": "INCIDENT-64713"
+    }
   }
 ]
