@@ -3980,5 +3980,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64572"
     }
+  },
+  {
+    "runNumber": "64573",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-17T20:15:07.626957-05:00",
+    "address": "410 Sporting Court",
+    "extra": {
+      "incidentNumber": "64573",
+      "run_id": "64573",
+      "address": "410 Sporting Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,E20,L04,204",
+      "units": "E15,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-64573"
+    }
   }
 ]
