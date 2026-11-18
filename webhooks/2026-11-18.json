@@ -2308,5 +2308,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64705"
     }
+  },
+  {
+    "runNumber": "64708",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-18T13:27:42.167115-05:00",
+    "address": "Rose Street & Kalmia Avenue",
+    "extra": {
+      "incidentNumber": "64708",
+      "run_id": "64708",
+      "address": "Rose Street & Kalmia Avenue",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,EC1,241",
+      "units": "E05,EC1,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-64708"
+    }
   }
 ]
