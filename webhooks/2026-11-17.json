@@ -4442,5 +4442,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-64593"
     }
+  },
+  {
+    "runNumber": "64594",
+    "rawCode": "FSIA",
+    "timestamp": "2026-11-17T22:32:07.297451-05:00",
+    "address": "1819 Raleigh Road",
+    "extra": {
+      "incidentNumber": "64594",
+      "run_id": "64594",
+      "address": "1819 Raleigh Road",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E09,203",
+      "units": "E01,E09,203",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-64594"
+    }
   }
 ]
