@@ -482,5 +482,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64624"
     }
+  },
+  {
+    "runNumber": "64625",
+    "rawCode": "MED",
+    "timestamp": "2026-11-18T05:19:50.649131-05:00",
+    "address": "4100 Block Clearwater Way",
+    "extra": {
+      "incidentNumber": "64625",
+      "run_id": "64625",
+      "address": "4100 Block Clearwater Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC4",
+      "units": "E22,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64625"
+    }
   }
 ]
