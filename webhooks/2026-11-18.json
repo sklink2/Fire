@@ -1736,5 +1736,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-64681"
     }
+  },
+  {
+    "runNumber": "64683",
+    "rawCode": "MED",
+    "timestamp": "2026-11-18T11:04:02.388297-05:00",
+    "address": "1200 Block Delong Place",
+    "extra": {
+      "incidentNumber": "64683",
+      "run_id": "64683",
+      "address": "1200 Block Delong Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4,RS1",
+      "units": "EC4,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64683"
+    }
   }
 ]
