@@ -3848,5 +3848,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64567"
     }
+  },
+  {
+    "runNumber": "64566",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-17T19:28:20.798822-05:00",
+    "address": "510 Mccalls Mill Road",
+    "extra": {
+      "incidentNumber": "64566",
+      "run_id": "64566",
+      "address": "510 Mccalls Mill Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,E18,L06,205",
+      "units": "E17,E18,L06,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-64566"
+    }
   }
 ]
