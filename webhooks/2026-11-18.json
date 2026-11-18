@@ -2132,5 +2132,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64698"
     }
+  },
+  {
+    "runNumber": "64700",
+    "rawCode": "MED",
+    "timestamp": "2026-11-18T12:50:57.678268-05:00",
+    "address": "100 Block Withers Avenue",
+    "extra": {
+      "incidentNumber": "64700",
+      "run_id": "64700",
+      "address": "100 Block Withers Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64700"
+    }
   }
 ]
