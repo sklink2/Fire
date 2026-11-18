@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64663"
     }
+  },
+  {
+    "runNumber": "64664",
+    "rawCode": "MED",
+    "timestamp": "2026-11-18T09:27:07.608599-05:00",
+    "address": "2300 Block Huguenard Drive",
+    "extra": {
+      "incidentNumber": "64664",
+      "run_id": "64664",
+      "address": "2300 Block Huguenard Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC4,CRT1",
+      "units": "EC4,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64664"
+    }
   }
 ]
