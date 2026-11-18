@@ -2110,5 +2110,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64699"
     }
+  },
+  {
+    "runNumber": "64698",
+    "rawCode": "MED",
+    "timestamp": "2026-11-18T12:47:38.048806-05:00",
+    "address": "5500 Block Athens Boonesboro Road",
+    "extra": {
+      "incidentNumber": "64698",
+      "run_id": "64698",
+      "address": "5500 Block Athens Boonesboro Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E18,EC2",
+      "units": "E18,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64698"
+    }
   }
 ]
