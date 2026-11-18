@@ -2572,5 +2572,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64718"
     }
+  },
+  {
+    "runNumber": "64719",
+    "rawCode": "MED",
+    "timestamp": "2026-11-18T14:44:35.014806-05:00",
+    "address": "100 Block Church Street",
+    "extra": {
+      "incidentNumber": "64719",
+      "run_id": "64719",
+      "address": "100 Block Church Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L05,CRT1",
+      "units": "L05,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64719"
+    }
   }
 ]
