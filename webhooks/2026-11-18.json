@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64706"
     }
+  },
+  {
+    "runNumber": "64705",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-18T13:24:23.471178-05:00",
+    "address": "Richmond Road & Old Todds Road",
+    "extra": {
+      "incidentNumber": "64705",
+      "run_id": "64705",
+      "address": "Richmond Road & Old Todds Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC13",
+      "units": "E09,EC13",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64705"
+    }
   }
 ]
