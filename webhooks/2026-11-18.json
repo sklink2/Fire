@@ -856,5 +856,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64641"
     }
+  },
+  {
+    "runNumber": "64644",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-18T07:36:49.505804-05:00",
+    "address": "7667 Old Richmond Road",
+    "extra": {
+      "incidentNumber": "64644",
+      "run_id": "64644",
+      "address": "7667 Old Richmond Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E18,EC4",
+      "units": "E18,EC4",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64644"
+    }
   }
 ]
