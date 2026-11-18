@@ -812,5 +812,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64639"
     }
+  },
+  {
+    "runNumber": "64640",
+    "rawCode": "FGAO",
+    "timestamp": "2026-11-18T07:30:08.267762-05:00",
+    "address": "135 Graham Avenue",
+    "extra": {
+      "incidentNumber": "64640",
+      "run_id": "64640",
+      "address": "135 Graham Avenue",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E11",
+      "units": "E06,E11",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64640"
+    }
   }
 ]
