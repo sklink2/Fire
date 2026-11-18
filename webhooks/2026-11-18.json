@@ -3738,5 +3738,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64772"
     }
+  },
+  {
+    "runNumber": "64773",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-18T18:48:32.526295-05:00",
+    "address": "168 Towne Square Park",
+    "extra": {
+      "incidentNumber": "64773",
+      "run_id": "64773",
+      "address": "168 Towne Square Park",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,E13,L03,203",
+      "units": "E10,E13,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-64773"
+    }
   }
 ]
