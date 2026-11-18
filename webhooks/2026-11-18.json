@@ -3188,5 +3188,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-64748"
     }
+  },
+  {
+    "runNumber": "64747",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-18T17:08:18.301683-05:00",
+    "address": "100 Malabu Drive",
+    "extra": {
+      "incidentNumber": "64747",
+      "run_id": "64747",
+      "address": "100 Malabu Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,E20,L04,EC9,204,220",
+      "units": "E15,E20,L04,EC9,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-64747"
+    }
   }
 ]
