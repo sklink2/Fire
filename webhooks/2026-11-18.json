@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64690"
     }
+  },
+  {
+    "runNumber": "64693",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-18T12:14:11.407335-05:00",
+    "address": "Grand Boulevard & Old Vine Street",
+    "extra": {
+      "incidentNumber": "64693",
+      "run_id": "64693",
+      "address": "Grand Boulevard & Old Vine Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,EC7",
+      "units": "E05,EC7",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64693"
+    }
   }
 ]
