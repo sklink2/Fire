@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64738"
     }
+  },
+  {
+    "runNumber": "64741",
+    "rawCode": "MED",
+    "timestamp": "2026-11-18T16:41:35.053849-05:00",
+    "address": "6100 Block Jacks Creek Pike",
+    "extra": {
+      "incidentNumber": "64741",
+      "run_id": "64741",
+      "address": "6100 Block Jacks Creek Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E18,EC2",
+      "units": "E18,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64741"
+    }
   }
 ]
