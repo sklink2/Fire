@@ -2330,5 +2330,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-64708"
     }
+  },
+  {
+    "runNumber": "64709",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-18T13:51:08.651005-05:00",
+    "address": "2204 Winterberry Drive",
+    "extra": {
+      "incidentNumber": "64709",
+      "run_id": "64709",
+      "address": "2204 Winterberry Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,L04,220",
+      "units": "E14,L04,220",
+      "unitCount": "3",
+      "primaryTopic": "FINV",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-64709"
+    }
   }
 ]
