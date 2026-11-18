@@ -3870,5 +3870,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-64566"
     }
+  },
+  {
+    "runNumber": "64568",
+    "rawCode": "FELS",
+    "timestamp": "2026-11-17T19:45:04.327897-05:00",
+    "address": "2101 Cornerstone Drive",
+    "extra": {
+      "incidentNumber": "64568",
+      "run_id": "64568",
+      "address": "2101 Cornerstone Drive",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,L05,201",
+      "units": "E09,L05,201",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-64568"
+    }
   }
 ]
