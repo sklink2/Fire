@@ -3298,5 +3298,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64753"
     }
+  },
+  {
+    "runNumber": "64752",
+    "rawCode": "MED",
+    "timestamp": "2026-11-18T17:31:40.560515-05:00",
+    "address": "2800 Block Baybrook Road",
+    "extra": {
+      "incidentNumber": "64752",
+      "run_id": "64752",
+      "address": "2800 Block Baybrook Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC8",
+      "units": "E09,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64752"
+    }
   }
 ]
