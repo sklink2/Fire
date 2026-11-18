@@ -1604,5 +1604,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64673"
     }
+  },
+  {
+    "runNumber": "64677",
+    "rawCode": "MED",
+    "timestamp": "2026-11-18T10:17:14.010563-05:00",
+    "address": "2900 Block Tuscaloosa Lane",
+    "extra": {
+      "incidentNumber": "64677",
+      "run_id": "64677",
+      "address": "2900 Block Tuscaloosa Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC13",
+      "units": "EC13",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64677"
+    }
   }
 ]
