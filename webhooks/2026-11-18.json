@@ -3122,5 +3122,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64746"
     }
+  },
+  {
+    "runNumber": "64745",
+    "rawCode": "MED",
+    "timestamp": "2026-11-18T17:04:56.775584-05:00",
+    "address": "300 Block Blackburn Avenue",
+    "extra": {
+      "incidentNumber": "64745",
+      "run_id": "64745",
+      "address": "300 Block Blackburn Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,EC12",
+      "units": "E04,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64745"
+    }
   }
 ]
