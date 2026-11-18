@@ -4574,5 +4574,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64598"
     }
+  },
+  {
+    "runNumber": "64599",
+    "rawCode": "FSIA",
+    "timestamp": "2026-11-17T23:15:34.545590-05:00",
+    "address": "3576 Pimlico Parkway",
+    "extra": {
+      "incidentNumber": "64599",
+      "run_id": "64599",
+      "address": "3576 Pimlico Parkway",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E07,E16,202",
+      "units": "E07,E16,202",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-64599"
+    }
   }
 ]
