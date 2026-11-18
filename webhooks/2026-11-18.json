@@ -2704,5 +2704,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64723"
     }
+  },
+  {
+    "runNumber": "64726",
+    "rawCode": "MED",
+    "timestamp": "2026-11-18T15:01:18.844470-05:00",
+    "address": "400 Block Newtown Pike",
+    "extra": {
+      "incidentNumber": "64726",
+      "run_id": "64726",
+      "address": "400 Block Newtown Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05",
+      "units": "E05",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64726"
+    }
   }
 ]
