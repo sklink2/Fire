@@ -3144,5 +3144,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64745"
     }
+  },
+  {
+    "runNumber": "64744",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-18T17:04:57.127478-05:00",
+    "address": "1501 Trent Boulevard",
+    "extra": {
+      "incidentNumber": "64744",
+      "run_id": "64744",
+      "address": "1501 Trent Boulevard",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,E22,L07,202",
+      "units": "E16,E22,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-64744"
+    }
   }
 ]
