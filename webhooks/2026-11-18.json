@@ -372,5 +372,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64619"
     }
+  },
+  {
+    "runNumber": "64621",
+    "rawCode": "MED",
+    "timestamp": "2026-11-18T04:06:20.690921-05:00",
+    "address": "3500 Block Kenesaw Drive",
+    "extra": {
+      "incidentNumber": "64621",
+      "run_id": "64621",
+      "address": "3500 Block Kenesaw Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC4",
+      "units": "E16,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64621"
+    }
   }
 ]
