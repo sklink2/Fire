@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64729"
     }
+  },
+  {
+    "runNumber": "64730",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-18T15:38:05.907625-05:00",
+    "address": "3421 Country Club Drive",
+    "extra": {
+      "incidentNumber": "64730",
+      "run_id": "64730",
+      "address": "3421 Country Club Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,E21,L06,EC6,202,220",
+      "units": "E16,E21,L06,EC6,202,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-64730"
+    }
   }
 ]
