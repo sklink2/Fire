@@ -108,5 +108,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64607"
     }
+  },
+  {
+    "runNumber": "64608",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-18T01:39:16.155969-05:00",
+    "address": "1401 University Drive",
+    "extra": {
+      "incidentNumber": "64608",
+      "run_id": "64608",
+      "address": "1401 University Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E06,L02,204",
+      "units": "E05,E06,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-64608"
+    }
   }
 ]
