@@ -790,5 +790,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-64638"
     }
+  },
+  {
+    "runNumber": "64639",
+    "rawCode": "MED",
+    "timestamp": "2026-11-18T07:26:47.683926-05:00",
+    "address": "4100 Block Tradition Way",
+    "extra": {
+      "incidentNumber": "64639",
+      "run_id": "64639",
+      "address": "4100 Block Tradition Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64639"
+    }
   }
 ]
