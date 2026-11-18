@@ -2550,5 +2550,27 @@
       "commandUnits": "241,220,201,205",
       "dedupeKey": "INCIDENT-64713"
     }
+  },
+  {
+    "runNumber": "64718",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-18T14:37:53.558353-05:00",
+    "address": "Clays Mill Road & Rosemont Garde",
+    "extra": {
+      "incidentNumber": "64718",
+      "run_id": "64718",
+      "address": "Clays Mill Road & Rosemont Garde",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,EC11",
+      "units": "E11,EC11",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64718"
+    }
   }
 ]
