@@ -4464,5 +4464,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-64594"
     }
+  },
+  {
+    "runNumber": "64593",
+    "rawCode": "FSTR",
+    "timestamp": "2026-11-17T22:32:10.398921-05:00",
+    "address": "451 W New Circle Road",
+    "extra": {
+      "incidentNumber": "64593",
+      "run_id": "64593",
+      "address": "451 W New Circle Road",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E08,E10,E13,L03,L05,EC3,201,205,220,241,RS1",
+      "units": "E02,E08,E10,E13,L03,L05,EC3,201,205,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,205",
+      "dedupeKey": "INCIDENT-64593"
+    }
   }
 ]
