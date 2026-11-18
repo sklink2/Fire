@@ -1538,5 +1538,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64672"
     }
+  },
+  {
+    "runNumber": "64675",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-18T10:00:31.682803-05:00",
+    "address": "3141 Beaumont Centre Circle",
+    "extra": {
+      "incidentNumber": "64675",
+      "run_id": "64675",
+      "address": "3141 Beaumont Centre Circle",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E11,L02,203",
+      "units": "E06,E11,L02,203",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-64675"
+    }
   }
 ]
