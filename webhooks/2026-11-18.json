@@ -3672,5 +3672,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64770"
     }
+  },
+  {
+    "runNumber": "64769",
+    "rawCode": "FFIA",
+    "timestamp": "2026-11-18T18:35:12.910639-05:00",
+    "address": "1989 Cambridge Drive",
+    "extra": {
+      "incidentNumber": "64769",
+      "run_id": "64769",
+      "address": "1989 Cambridge Drive",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E14,L04,203",
+      "units": "E04,E14,L04,203",
+      "unitCount": "4",
+      "primaryTopic": "FFIA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-64769"
+    }
   }
 ]
