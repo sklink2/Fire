@@ -3562,5 +3562,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64765"
     }
+  },
+  {
+    "runNumber": "64763",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-18T18:18:30.009583-05:00",
+    "address": "S Limestone & Waller Avenue",
+    "extra": {
+      "incidentNumber": "64763",
+      "run_id": "64763",
+      "address": "S Limestone & Waller Avenue",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC7,205",
+      "units": "EC7,205",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-64763"
+    }
   }
 ]
