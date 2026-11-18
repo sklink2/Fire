@@ -3320,5 +3320,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64752"
     }
+  },
+  {
+    "runNumber": "64754",
+    "rawCode": "MED",
+    "timestamp": "2026-11-18T17:38:22.012114-05:00",
+    "address": "3500 Block Pimlico Parkway",
+    "extra": {
+      "incidentNumber": "64754",
+      "run_id": "64754",
+      "address": "3500 Block Pimlico Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC11",
+      "units": "E16,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64754"
+    }
   }
 ]
