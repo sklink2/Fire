@@ -4002,5 +4002,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-64573"
     }
+  },
+  {
+    "runNumber": "64574",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-17T20:21:48.871405-05:00",
+    "address": "703 Sports Center Drive",
+    "extra": {
+      "incidentNumber": "64574",
+      "run_id": "64574",
+      "address": "703 Sports Center Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E06,E14,L02,205",
+      "units": "E05,E06,E14,L02,205",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-64574"
+    }
   }
 ]
