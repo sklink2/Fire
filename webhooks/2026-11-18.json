@@ -2022,5 +2022,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64695"
     }
+  },
+  {
+    "runNumber": "64694",
+    "rawCode": "MED",
+    "timestamp": "2026-11-18T12:24:13.649904-05:00",
+    "address": "400 Block Plainview Road",
+    "extra": {
+      "incidentNumber": "64694",
+      "run_id": "64694",
+      "address": "400 Block Plainview Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64694"
+    }
   }
 ]
