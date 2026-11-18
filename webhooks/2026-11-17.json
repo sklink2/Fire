@@ -4420,5 +4420,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64592"
     }
+  },
+  {
+    "runNumber": "64593",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-17T22:28:47.657431-05:00",
+    "address": "451 W New Circle Road",
+    "extra": {
+      "incidentNumber": "64593",
+      "run_id": "64593",
+      "address": "451 W New Circle Road",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E10,L03,201",
+      "units": "E08,E10,L03,201",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-64593"
+    }
   }
 ]
