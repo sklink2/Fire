@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64563"
     }
+  },
+  {
+    "runNumber": "64561",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-17T19:25:03.829210-05:00",
+    "address": "137 Towne Center Drive",
+    "extra": {
+      "incidentNumber": "64561",
+      "run_id": "64561",
+      "address": "137 Towne Center Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13",
+      "units": "E13",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64561"
+    }
   }
 ]
