@@ -2066,5 +2066,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64696"
     }
+  },
+  {
+    "runNumber": "64697",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-18T12:37:37.490666-05:00",
+    "address": "329 S Martin Luther King Boulevard",
+    "extra": {
+      "incidentNumber": "64697",
+      "run_id": "64697",
+      "address": "329 S Martin Luther King Boulevard",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E06,L02,EC7,205,220",
+      "units": "E01,E06,L02,EC7,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-64697"
+    }
   }
 ]
