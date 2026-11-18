@@ -1252,5 +1252,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64660"
     }
+  },
+  {
+    "runNumber": "64659",
+    "rawCode": "MED",
+    "timestamp": "2026-11-18T08:53:42.782314-05:00",
+    "address": "800 Block National Avenue",
+    "extra": {
+      "incidentNumber": "64659",
+      "run_id": "64659",
+      "address": "800 Block National Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC7,RS1",
+      "units": "EC7,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64659"
+    }
   }
 ]
