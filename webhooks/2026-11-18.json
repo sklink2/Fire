@@ -1406,5 +1406,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64666"
     }
+  },
+  {
+    "runNumber": "64667",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-18T09:37:08.504576-05:00",
+    "address": "3330 Partner Place",
+    "extra": {
+      "incidentNumber": "64667",
+      "run_id": "64667",
+      "address": "3330 Partner Place",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,E20,L04,EC12,204,220",
+      "units": "E15,E20,L04,EC12,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-64667"
+    }
   }
 ]
