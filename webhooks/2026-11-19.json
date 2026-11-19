@@ -2044,5 +2044,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64921"
     }
+  },
+  {
+    "runNumber": "64920",
+    "rawCode": "MED",
+    "timestamp": "2026-11-19T12:04:27.122890-05:00",
+    "address": "100 Block W Lowry Lane",
+    "extra": {
+      "incidentNumber": "64920",
+      "run_id": "64920",
+      "address": "100 Block W Lowry Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,EC9",
+      "units": "E12,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64920"
+    }
   }
 ]
