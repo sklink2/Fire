@@ -3276,5 +3276,27 @@
       "commandUnits": "220,202",
       "dedupeKey": "INCIDENT-64976"
     }
+  },
+  {
+    "runNumber": "64978",
+    "rawCode": "MED",
+    "timestamp": "2026-11-19T16:01:43.907234-05:00",
+    "address": "1500 Block Newtown Pike",
+    "extra": {
+      "incidentNumber": "64978",
+      "run_id": "64978",
+      "address": "1500 Block Newtown Pike",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,EC10",
+      "units": "E10,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64978"
+    }
   }
 ]
