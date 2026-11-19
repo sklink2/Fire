@@ -108,5 +108,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-64834"
     }
+  },
+  {
+    "runNumber": "64835",
+    "rawCode": "MED",
+    "timestamp": "2026-11-19T01:39:32.082738-05:00",
+    "address": "300 Block W Vine Street",
+    "extra": {
+      "incidentNumber": "64835",
+      "run_id": "64835",
+      "address": "300 Block W Vine Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10,RS1",
+      "units": "EC10,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64835"
+    }
   }
 ]
