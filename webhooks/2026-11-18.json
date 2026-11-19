@@ -4948,5 +4948,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64827"
     }
+  },
+  {
+    "runNumber": "64828",
+    "rawCode": "FELF",
+    "timestamp": "2026-11-18T23:59:18.510758-05:00",
+    "address": "2151 Meeting Street",
+    "extra": {
+      "incidentNumber": "64828",
+      "run_id": "64828",
+      "address": "2151 Meeting Street",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E17,L05,201",
+      "units": "E02,E17,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-64828"
+    }
   }
 ]
