@@ -4662,5 +4662,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64814"
     }
+  },
+  {
+    "runNumber": "64815",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-18T22:39:06.213029-05:00",
+    "address": "447 Pennsylvania Avenue",
+    "extra": {
+      "incidentNumber": "64815",
+      "run_id": "64815",
+      "address": "447 Pennsylvania Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,E06,L02,205",
+      "units": "E05,E06,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-64815"
+    }
   }
 ]
