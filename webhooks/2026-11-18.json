@@ -4904,5 +4904,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64825"
     }
+  },
+  {
+    "runNumber": "64826",
+    "rawCode": "MED",
+    "timestamp": "2026-11-18T23:25:54.177680-05:00",
+    "address": "1500 Block Eastland Parkway",
+    "extra": {
+      "incidentNumber": "64826",
+      "run_id": "64826",
+      "address": "1500 Block Eastland Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64826"
+    }
   }
 ]
