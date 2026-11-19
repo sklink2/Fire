@@ -1142,5 +1142,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64877"
     }
+  },
+  {
+    "runNumber": "64880",
+    "rawCode": "MED",
+    "timestamp": "2026-11-19T08:30:34.085538-05:00",
+    "address": "1000 Block Whipple Court",
+    "extra": {
+      "incidentNumber": "64880",
+      "run_id": "64880",
+      "address": "1000 Block Whipple Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64880"
+    }
   }
 ]
