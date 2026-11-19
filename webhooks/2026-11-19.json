@@ -1252,5 +1252,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64885"
     }
+  },
+  {
+    "runNumber": "64884",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-19T09:03:58.902457-05:00",
+    "address": "344 Romany Road",
+    "extra": {
+      "incidentNumber": "64884",
+      "run_id": "64884",
+      "address": "344 Romany Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E07,L02,EC7,205,220",
+      "units": "E06,E07,L02,EC7,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-64884"
+    }
   }
 ]
