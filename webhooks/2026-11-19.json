@@ -1120,5 +1120,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64878"
     }
+  },
+  {
+    "runNumber": "64877",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-19T08:27:13.504194-05:00",
+    "address": "S Limestone & E Vine Street",
+    "extra": {
+      "incidentNumber": "64877",
+      "run_id": "64877",
+      "address": "S Limestone & E Vine Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10,RS1",
+      "units": "EC10,RS1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64877"
+    }
   }
 ]
