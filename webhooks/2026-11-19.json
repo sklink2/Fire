@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64934"
     }
+  },
+  {
+    "runNumber": "64939",
+    "rawCode": "MED",
+    "timestamp": "2026-11-19T12:57:56.469448-05:00",
+    "address": "1300 Block E New Circle Road",
+    "extra": {
+      "incidentNumber": "64939",
+      "run_id": "64939",
+      "address": "1300 Block E New Circle Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64939"
+    }
   }
 ]
