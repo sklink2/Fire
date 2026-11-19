@@ -4684,5 +4684,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-64815"
     }
+  },
+  {
+    "runNumber": "64816",
+    "rawCode": "FSIA",
+    "timestamp": "2026-11-18T22:42:27.475447-05:00",
+    "address": "3640 Bold Bidder Drive",
+    "extra": {
+      "incidentNumber": "64816",
+      "run_id": "64816",
+      "address": "3640 Bold Bidder Drive",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,E22,202",
+      "units": "E16,E22,202",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-64816"
+    }
   }
 ]
