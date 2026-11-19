@@ -2308,5 +2308,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64932"
     }
+  },
+  {
+    "runNumber": "64933",
+    "rawCode": "MED",
+    "timestamp": "2026-11-19T12:51:15.006983-05:00",
+    "address": "700 Block Bellaire Avenue",
+    "extra": {
+      "incidentNumber": "64933",
+      "run_id": "64933",
+      "address": "700 Block Bellaire Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64933"
+    }
   }
 ]
