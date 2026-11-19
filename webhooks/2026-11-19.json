@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64888"
     }
+  },
+  {
+    "runNumber": "64889",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-19T09:40:44.935793-05:00",
+    "address": "679 Lima Drive",
+    "extra": {
+      "incidentNumber": "64889",
+      "run_id": "64889",
+      "address": "679 Lima Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10",
+      "units": "E10",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64889"
+    }
   }
 ]
