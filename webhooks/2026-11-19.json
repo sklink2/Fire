@@ -504,5 +504,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64852"
     }
+  },
+  {
+    "runNumber": "64853",
+    "rawCode": "MED",
+    "timestamp": "2026-11-19T04:56:41.887190-05:00",
+    "address": "400 Block Dominican Drive",
+    "extra": {
+      "incidentNumber": "64853",
+      "run_id": "64853",
+      "address": "400 Block Dominican Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64853"
+    }
   }
 ]
