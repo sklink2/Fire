@@ -4112,5 +4112,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64792"
     }
+  },
+  {
+    "runNumber": "64791",
+    "rawCode": "FASS",
+    "timestamp": "2026-11-18T20:28:48.455720-05:00",
+    "address": "137 Rose Street",
+    "extra": {
+      "incidentNumber": "64791",
+      "run_id": "64791",
+      "address": "137 Rose Street",
+      "rawType": "FASS",
+      "typeCode": "FASS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,L01",
+      "units": "E01,L01",
+      "unitCount": "2",
+      "primaryTopic": "FASS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64791"
+    }
   }
 ]
