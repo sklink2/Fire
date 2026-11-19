@@ -3848,5 +3848,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64778"
     }
+  },
+  {
+    "runNumber": "64777",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-11-18T19:35:22.021530-05:00",
+    "address": "3230 Pimlico Parkway",
+    "extra": {
+      "incidentNumber": "64777",
+      "run_id": "64777",
+      "address": "3230 Pimlico Parkway",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,L06,EC13,202,241,RS1",
+      "units": "E16,L06,EC13,202,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-64777"
+    }
   }
 ]
