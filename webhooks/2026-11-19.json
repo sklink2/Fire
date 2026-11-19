@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64955"
     }
+  },
+  {
+    "runNumber": "64953",
+    "rawCode": "MED",
+    "timestamp": "2026-11-19T14:28:10.142694-05:00",
+    "address": "3500 Block Lansdowne Drive",
+    "extra": {
+      "incidentNumber": "64953",
+      "run_id": "64953",
+      "address": "3500 Block Lansdowne Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,EC13",
+      "units": "E15,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64953"
+    }
   }
 ]
