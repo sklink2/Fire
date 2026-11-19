@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64844"
     }
+  },
+  {
+    "runNumber": "64846",
+    "rawCode": "MED",
+    "timestamp": "2026-11-19T03:13:07.545364-05:00",
+    "address": "3200 Block Sebastian Lane",
+    "extra": {
+      "incidentNumber": "64846",
+      "run_id": "64846",
+      "address": "3200 Block Sebastian Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64846"
+    }
   }
 ]
