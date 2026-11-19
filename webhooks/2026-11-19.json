@@ -20,5 +20,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-64829"
     }
+  },
+  {
+    "runNumber": "64830",
+    "rawCode": "MED",
+    "timestamp": "2026-11-19T00:39:27.339660-05:00",
+    "address": "2700 Block Sandersville Road",
+    "extra": {
+      "incidentNumber": "64830",
+      "run_id": "64830",
+      "address": "2700 Block Sandersville Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64830"
+    }
   }
 ]
