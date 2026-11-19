@@ -306,5 +306,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-64843"
     }
+  },
+  {
+    "runNumber": "64845",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-19T03:09:45.667364-05:00",
+    "address": "75 Sb / 118.0 Mm (North Split",
+    "extra": {
+      "incidentNumber": "64845",
+      "run_id": "64845",
+      "address": "75 Sb / 118.0 Mm (North Split",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E19,E24,EC3",
+      "units": "E19,E24,EC3",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64845"
+    }
   }
 ]
