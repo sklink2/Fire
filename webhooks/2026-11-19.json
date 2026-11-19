@@ -3606,5 +3606,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64993"
     }
+  },
+  {
+    "runNumber": "64992",
+    "rawCode": "MED",
+    "timestamp": "2026-11-19T17:38:40.252351-05:00",
+    "address": "Southview Drive & Bradford Drive",
+    "extra": {
+      "incidentNumber": "64992",
+      "run_id": "64992",
+      "address": "Southview Drive & Bradford Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,EC12,CRT1",
+      "units": "E12,EC12,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64992"
+    }
   }
 ]
