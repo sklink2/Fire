@@ -4134,5 +4134,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64791"
     }
+  },
+  {
+    "runNumber": "64790",
+    "rawCode": "MED",
+    "timestamp": "2026-11-18T20:28:48.801119-05:00",
+    "address": "400 Block Transport Court",
+    "extra": {
+      "incidentNumber": "64790",
+      "run_id": "64790",
+      "address": "400 Block Transport Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC1",
+      "units": "E10,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64790"
+    }
   }
 ]
