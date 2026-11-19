@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64856"
     }
+  },
+  {
+    "runNumber": "64860",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-19T06:03:30.970479-05:00",
+    "address": "2105 Carolina Lane",
+    "extra": {
+      "incidentNumber": "64860",
+      "run_id": "64860",
+      "address": "2105 Carolina Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E14,L04,204",
+      "units": "E11,E14,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-64860"
+    }
   }
 ]
