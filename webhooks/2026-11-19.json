@@ -3100,5 +3100,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-64969"
     }
+  },
+  {
+    "runNumber": "64968",
+    "rawCode": "MED",
+    "timestamp": "2026-11-19T15:28:18.681229-05:00",
+    "address": "200 Block Eastin Road",
+    "extra": {
+      "incidentNumber": "64968",
+      "run_id": "64968",
+      "address": "200 Block Eastin Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC3,CRT1",
+      "units": "E08,EC3,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-64968"
+    }
   }
 ]
