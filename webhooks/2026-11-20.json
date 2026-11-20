@@ -1846,5 +1846,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-65123"
     }
+  },
+  {
+    "runNumber": "65122",
+    "rawCode": "MED",
+    "timestamp": "2026-11-20T10:57:53.870979-05:00",
+    "address": "3300 Block Ledford Court",
+    "extra": {
+      "incidentNumber": "65122",
+      "run_id": "65122",
+      "address": "3300 Block Ledford Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,EC9",
+      "units": "E12,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65122"
+    }
   }
 ]
