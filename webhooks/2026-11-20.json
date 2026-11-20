@@ -3474,5 +3474,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-65197"
     }
+  },
+  {
+    "runNumber": "65199",
+    "rawCode": "MED",
+    "timestamp": "2026-11-20T17:15:32.000523-05:00",
+    "address": "3200 Block Mammoth Drive",
+    "extra": {
+      "incidentNumber": "65199",
+      "run_id": "65199",
+      "address": "3200 Block Mammoth Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65199"
+    }
   }
 ]
