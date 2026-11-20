@@ -2814,5 +2814,27 @@
       "commandUnits": "220,204",
       "dedupeKey": "INCIDENT-65167"
     }
+  },
+  {
+    "runNumber": "65168",
+    "rawCode": "MED",
+    "timestamp": "2026-11-20T14:45:09.405326-05:00",
+    "address": "1300 Block Versailles Road",
+    "extra": {
+      "incidentNumber": "65168",
+      "run_id": "65168",
+      "address": "1300 Block Versailles Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC5,CRT1",
+      "units": "EC5,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65168"
+    }
   }
 ]
