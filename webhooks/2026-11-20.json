@@ -702,5 +702,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65070"
     }
+  },
+  {
+    "runNumber": "65072",
+    "rawCode": "MED",
+    "timestamp": "2026-11-20T05:33:46.935407-05:00",
+    "address": "2200 Block Kenwood Drive",
+    "extra": {
+      "incidentNumber": "65072",
+      "run_id": "65072",
+      "address": "2200 Block Kenwood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65072"
+    }
   }
 ]
