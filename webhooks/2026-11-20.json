@@ -790,5 +790,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-65074"
     }
+  },
+  {
+    "runNumber": "65075",
+    "rawCode": "FGAO",
+    "timestamp": "2026-11-20T06:13:51.727381-05:00",
+    "address": "N Locust Hill Drive & Rio Dosa Drive",
+    "extra": {
+      "incidentNumber": "65075",
+      "run_id": "65075",
+      "address": "N Locust Hill Drive & Rio Dosa Drive",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,E21",
+      "units": "E16,E21",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65075"
+    }
   }
 ]
