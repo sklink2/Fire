@@ -3320,5 +3320,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65189"
     }
+  },
+  {
+    "runNumber": "65191",
+    "rawCode": "MED",
+    "timestamp": "2026-11-20T16:38:47.580765-05:00",
+    "address": "4800 Block Ashmont Way",
+    "extra": {
+      "incidentNumber": "65191",
+      "run_id": "65191",
+      "address": "4800 Block Ashmont Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20,EC1,204,241",
+      "units": "E20,EC1,204,241",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241,204",
+      "dedupeKey": "INCIDENT-65191"
+    }
   }
 ]
