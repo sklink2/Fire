@@ -3914,5 +3914,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65216"
     }
+  },
+  {
+    "runNumber": "65218",
+    "rawCode": "FDET",
+    "timestamp": "2026-11-20T18:15:40.834205-05:00",
+    "address": "570 Wildcat Court",
+    "extra": {
+      "incidentNumber": "65218",
+      "run_id": "65218",
+      "address": "570 Wildcat Court",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC30",
+      "units": "EC30",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65218"
+    }
   }
 ]
