@@ -306,5 +306,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65052"
     }
+  },
+  {
+    "runNumber": "65054",
+    "rawCode": "MED",
+    "timestamp": "2026-11-20T02:23:19.282531-05:00",
+    "address": "Bolivar Street & Bolivar Court",
+    "extra": {
+      "incidentNumber": "65054",
+      "run_id": "65054",
+      "address": "Bolivar Street & Bolivar Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,EC7",
+      "units": "E06,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65054"
+    }
   }
 ]
