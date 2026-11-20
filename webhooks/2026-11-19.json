@@ -3914,5 +3914,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65006"
     }
+  },
+  {
+    "runNumber": "65007",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-19T19:38:57.965033-05:00",
+    "address": "1772 Eastwood Drive",
+    "extra": {
+      "incidentNumber": "65007",
+      "run_id": "65007",
+      "address": "1772 Eastwood Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E07,L02,202",
+      "units": "E05,E07,L02,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-65007"
+    }
   }
 ]
