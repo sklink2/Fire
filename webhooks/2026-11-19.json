@@ -4618,5 +4618,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65037"
     }
+  },
+  {
+    "runNumber": "65038",
+    "rawCode": "FSIA",
+    "timestamp": "2026-11-19T23:29:31.844230-05:00",
+    "address": "Street Margaret Drive & Coburn Boulevard",
+    "extra": {
+      "incidentNumber": "65038",
+      "run_id": "65038",
+      "address": "Street Margaret Drive & Coburn Boulevard",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E09,201",
+      "units": "E05,E09,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-65038"
+    }
   }
 ]
