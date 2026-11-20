@@ -3100,5 +3100,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65181"
     }
+  },
+  {
+    "runNumber": "65180",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-20T15:45:17.608087-05:00",
+    "address": "1800 Chatsworth Drive",
+    "extra": {
+      "incidentNumber": "65180",
+      "run_id": "65180",
+      "address": "1800 Chatsworth Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E08,L05,EC7,205,220",
+      "units": "E02,E08,L05,EC7,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-65180"
+    }
   }
 ]
