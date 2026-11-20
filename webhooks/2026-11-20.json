@@ -2682,5 +2682,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65161"
     }
+  },
+  {
+    "runNumber": "65162",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-20T14:01:42.317644-05:00",
+    "address": "3256 Brighton Place Drive",
+    "extra": {
+      "incidentNumber": "65162",
+      "run_id": "65162",
+      "address": "3256 Brighton Place Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E17,L02,202",
+      "units": "E09,E17,L02,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-65162"
+    }
   }
 ]
