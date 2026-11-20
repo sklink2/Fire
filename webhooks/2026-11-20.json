@@ -3672,5 +3672,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65205"
     }
+  },
+  {
+    "runNumber": "65209",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-20T17:45:37.839552-05:00",
+    "address": "3414 Brookhaven Drive",
+    "extra": {
+      "incidentNumber": "65209",
+      "run_id": "65209",
+      "address": "3414 Brookhaven Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E07,L07,EC3,202,220",
+      "units": "E02,E07,L07,EC3,202,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-65209"
+    }
   }
 ]
