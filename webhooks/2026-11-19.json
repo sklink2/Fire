@@ -4552,5 +4552,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65034"
     }
+  },
+  {
+    "runNumber": "65035",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-19T22:56:06.928077-05:00",
+    "address": "708 Hi Crest Drive",
+    "extra": {
+      "incidentNumber": "65035",
+      "run_id": "65035",
+      "address": "708 Hi Crest Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E08,L05,201",
+      "units": "E02,E08,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-65035"
+    }
   }
 ]
