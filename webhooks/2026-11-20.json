@@ -2506,5 +2506,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-65152"
     }
+  },
+  {
+    "runNumber": "65154",
+    "rawCode": "MED",
+    "timestamp": "2026-11-20T13:34:59.793060-05:00",
+    "address": "1900 Block N Broadway",
+    "extra": {
+      "incidentNumber": "65154",
+      "run_id": "65154",
+      "address": "1900 Block N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65154"
+    }
   }
 ]
