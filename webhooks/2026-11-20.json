@@ -3232,5 +3232,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65186"
     }
+  },
+  {
+    "runNumber": "65188",
+    "rawCode": "MED",
+    "timestamp": "2026-11-20T16:12:01.690227-05:00",
+    "address": "300 Block Old Virginia Avenue",
+    "extra": {
+      "incidentNumber": "65188",
+      "run_id": "65188",
+      "address": "300 Block Old Virginia Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10",
+      "units": "EC10",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65188"
+    }
   }
 ]
