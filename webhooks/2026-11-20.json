@@ -3364,5 +3364,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65192"
     }
+  },
+  {
+    "runNumber": "65194",
+    "rawCode": "MED",
+    "timestamp": "2026-11-20T16:45:27.502030-05:00",
+    "address": "1800 Block Sandersville Road",
+    "extra": {
+      "incidentNumber": "65194",
+      "run_id": "65194",
+      "address": "1800 Block Sandersville Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC3,CRT1",
+      "units": "EC3,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65194"
+    }
   }
 ]
