@@ -1516,5 +1516,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-65110"
     }
+  },
+  {
+    "runNumber": "65109",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-11-20T10:01:06.521183-05:00",
+    "address": "3125 Dorchester Place",
+    "extra": {
+      "incidentNumber": "65109",
+      "run_id": "65109",
+      "address": "3125 Dorchester Place",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12",
+      "units": "E12",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65109"
+    }
   }
 ]
