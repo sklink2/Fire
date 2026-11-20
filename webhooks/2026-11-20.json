@@ -1934,5 +1934,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65126"
     }
+  },
+  {
+    "runNumber": "65128",
+    "rawCode": "MED",
+    "timestamp": "2026-11-20T11:31:18.656294-05:00",
+    "address": "400 Block Park Place",
+    "extra": {
+      "incidentNumber": "65128",
+      "run_id": "65128",
+      "address": "400 Block Park Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65128"
+    }
   }
 ]
