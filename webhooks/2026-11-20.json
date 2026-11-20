@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65082"
     }
+  },
+  {
+    "runNumber": "65084",
+    "rawCode": "FMEA",
+    "timestamp": "2026-11-20T08:04:06.487809-05:00",
+    "address": "2170 Ft Harrods Drive",
+    "extra": {
+      "incidentNumber": "65084",
+      "run_id": "65084",
+      "address": "2170 Ft Harrods Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12",
+      "units": "E12",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65084"
+    }
   }
 ]
