@@ -834,5 +834,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-65076"
     }
+  },
+  {
+    "runNumber": "65077",
+    "rawCode": "MED",
+    "timestamp": "2026-11-20T06:27:14.645508-05:00",
+    "address": "3800 Block Salmon Court",
+    "extra": {
+      "incidentNumber": "65077",
+      "run_id": "65077",
+      "address": "3800 Block Salmon Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,EC13",
+      "units": "E22,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65077"
+    }
   }
 ]
