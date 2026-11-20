@@ -3606,5 +3606,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65204"
     }
+  },
+  {
+    "runNumber": "65203",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-20T17:32:13.536199-05:00",
+    "address": "121 Waller Avenue",
+    "extra": {
+      "incidentNumber": "65203",
+      "run_id": "65203",
+      "address": "121 Waller Avenue",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,EC4",
+      "units": "E06,EC4",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65203"
+    }
   }
 ]
