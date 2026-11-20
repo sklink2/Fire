@@ -1648,5 +1648,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65113"
     }
+  },
+  {
+    "runNumber": "65115",
+    "rawCode": "MED",
+    "timestamp": "2026-11-20T10:34:30.477806-05:00",
+    "address": "500 Block Reed Lane",
+    "extra": {
+      "incidentNumber": "65115",
+      "run_id": "65115",
+      "address": "500 Block Reed Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65115"
+    }
   }
 ]
