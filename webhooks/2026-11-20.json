@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65072"
     }
+  },
+  {
+    "runNumber": "65071",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-20T05:33:47.274315-05:00",
+    "address": "1065 Russell Cave Road",
+    "extra": {
+      "incidentNumber": "65071",
+      "run_id": "65071",
+      "address": "1065 Russell Cave Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E08,L01,205",
+      "units": "E04,E08,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-65071"
+    }
   }
 ]
