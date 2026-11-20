@@ -878,5 +878,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-65078"
     }
+  },
+  {
+    "runNumber": "65079",
+    "rawCode": "MED",
+    "timestamp": "2026-11-20T07:24:01.261604-05:00",
+    "address": "700 Block Liberty Ridge Lane",
+    "extra": {
+      "incidentNumber": "65079",
+      "run_id": "65079",
+      "address": "700 Block Liberty Ridge Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC11",
+      "units": "EC11",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65079"
+    }
   }
 ]
