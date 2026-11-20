@@ -856,5 +856,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65077"
     }
+  },
+  {
+    "runNumber": "65078",
+    "rawCode": "FELS",
+    "timestamp": "2026-11-20T07:03:59.140218-05:00",
+    "address": "1935 Stanton Way",
+    "extra": {
+      "incidentNumber": "65078",
+      "run_id": "65078",
+      "address": "1935 Stanton Way",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,L03,203",
+      "units": "E08,L03,203",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-65078"
+    }
   }
 ]
