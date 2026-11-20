@@ -1186,5 +1186,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65093"
     }
+  },
+  {
+    "runNumber": "65094",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-11-20T09:24:19.024337-05:00",
+    "address": "933 Pine Bloom Drive",
+    "extra": {
+      "incidentNumber": "65094",
+      "run_id": "65094",
+      "address": "933 Pine Bloom Drive",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,E14,L02,EC9,205,241,RS1",
+      "units": "E11,E14,L02,EC9,205,241,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,205",
+      "dedupeKey": "INCIDENT-65094"
+    }
   }
 ]
