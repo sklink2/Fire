@@ -3936,5 +3936,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65218"
     }
+  },
+  {
+    "runNumber": "65219",
+    "rawCode": "MED",
+    "timestamp": "2026-11-20T18:22:23.402359-05:00",
+    "address": "2200 Block Devonport Drive",
+    "extra": {
+      "incidentNumber": "65219",
+      "run_id": "65219",
+      "address": "2200 Block Devonport Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E14,EC5",
+      "units": "E14,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65219"
+    }
   }
 ]
