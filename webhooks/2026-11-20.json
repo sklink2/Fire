@@ -1494,5 +1494,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65106"
     }
+  },
+  {
+    "runNumber": "65110",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-20T10:01:06.161789-05:00",
+    "address": "484 Erie Road",
+    "extra": {
+      "incidentNumber": "65110",
+      "run_id": "65110",
+      "address": "484 Erie Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E13,E24,L03,205",
+      "units": "E13,E24,L03,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-65110"
+    }
   }
 ]
