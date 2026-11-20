@@ -3936,5 +3936,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-65007"
     }
+  },
+  {
+    "runNumber": "65008",
+    "rawCode": "MED",
+    "timestamp": "2026-11-19T19:48:58.541994-05:00",
+    "address": "500 Block Georgetown Street",
+    "extra": {
+      "incidentNumber": "65008",
+      "run_id": "65008",
+      "address": "500 Block Georgetown Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,EC1,241",
+      "units": "E10,EC1,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-65008"
+    }
   }
 ]
