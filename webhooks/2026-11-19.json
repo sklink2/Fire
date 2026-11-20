@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65001"
     }
+  },
+  {
+    "runNumber": "65000",
+    "rawCode": "MED",
+    "timestamp": "2026-11-19T19:02:13.913202-05:00",
+    "address": "1000 Block Ridgetree Lane",
+    "extra": {
+      "incidentNumber": "65000",
+      "run_id": "65000",
+      "address": "1000 Block Ridgetree Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,EC12",
+      "units": "E12,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65000"
+    }
   }
 ]
