@@ -746,5 +746,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-65071"
     }
+  },
+  {
+    "runNumber": "65073",
+    "rawCode": "MED",
+    "timestamp": "2026-11-20T05:47:07.888425-05:00",
+    "address": "400 Block Hill N Dale Road",
+    "extra": {
+      "incidentNumber": "65073",
+      "run_id": "65073",
+      "address": "400 Block Hill N Dale Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65073"
+    }
   }
 ]
