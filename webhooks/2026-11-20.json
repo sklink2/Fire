@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65114"
     }
+  },
+  {
+    "runNumber": "65116",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-20T10:37:51.709665-05:00",
+    "address": "4101 Tates Creek Centre Drive",
+    "extra": {
+      "incidentNumber": "65116",
+      "run_id": "65116",
+      "address": "4101 Tates Creek Centre Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E22,L07,EC2,202,220",
+      "units": "E06,E22,L07,EC2,202,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-65116"
+    }
   }
 ]
