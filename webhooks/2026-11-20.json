@@ -1120,5 +1120,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65090"
     }
+  },
+  {
+    "runNumber": "65091",
+    "rawCode": "MED",
+    "timestamp": "2026-11-20T09:14:16.462696-05:00",
+    "address": "1800 Block Ranier Drive",
+    "extra": {
+      "incidentNumber": "65091",
+      "run_id": "65091",
+      "address": "1800 Block Ranier Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65091"
+    }
   }
 ]
