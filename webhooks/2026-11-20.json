@@ -2792,5 +2792,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-65166"
     }
+  },
+  {
+    "runNumber": "65167",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-20T14:38:27.212554-05:00",
+    "address": "526 Breckenridge Street",
+    "extra": {
+      "incidentNumber": "65167",
+      "run_id": "65167",
+      "address": "526 Breckenridge Street",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,E16,L02,EC3,204,220",
+      "units": "E04,E16,L02,EC3,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-65167"
+    }
   }
 ]
