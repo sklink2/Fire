@@ -4332,5 +4332,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65023"
     }
+  },
+  {
+    "runNumber": "65025",
+    "rawCode": "MED",
+    "timestamp": "2026-11-19T21:32:33.626335-05:00",
+    "address": "100 Block Old Lafayette Avenue",
+    "extra": {
+      "incidentNumber": "65025",
+      "run_id": "65025",
+      "address": "100 Block Old Lafayette Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,EC10",
+      "units": "E05,EC10",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65025"
+    }
   }
 ]
