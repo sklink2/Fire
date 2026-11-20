@@ -3452,5 +3452,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65195"
     }
+  },
+  {
+    "runNumber": "65197",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-20T17:12:12.289838-05:00",
+    "address": "347 Queensway Drive",
+    "extra": {
+      "incidentNumber": "65197",
+      "run_id": "65197",
+      "address": "347 Queensway Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E09,L02,EC8,201",
+      "units": "E02,E09,L02,EC8,201",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-65197"
+    }
   }
 ]
