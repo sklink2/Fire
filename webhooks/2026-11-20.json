@@ -2638,5 +2638,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65160"
     }
+  },
+  {
+    "runNumber": "65159",
+    "rawCode": "MED",
+    "timestamp": "2026-11-20T13:51:41.306322-05:00",
+    "address": "2100 Block Executive Drive",
+    "extra": {
+      "incidentNumber": "65159",
+      "run_id": "65159",
+      "address": "2100 Block Executive Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,EC1",
+      "units": "E21,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65159"
+    }
   }
 ]
