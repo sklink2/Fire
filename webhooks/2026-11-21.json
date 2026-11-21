@@ -240,5 +240,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65275"
     }
+  },
+  {
+    "runNumber": "65276",
+    "rawCode": "MED",
+    "timestamp": "2026-11-21T01:50:09.572178-05:00",
+    "address": "2900 Block Mt Mckinley Way",
+    "extra": {
+      "incidentNumber": "65276",
+      "run_id": "65276",
+      "address": "2900 Block Mt Mckinley Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65276"
+    }
   }
 ]
