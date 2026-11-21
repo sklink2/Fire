@@ -2660,5 +2660,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65384"
     }
+  },
+  {
+    "runNumber": "65387",
+    "rawCode": "MED",
+    "timestamp": "2026-11-21T16:32:29.799527-05:00",
+    "address": "300 Block Robertson Street",
+    "extra": {
+      "incidentNumber": "65387",
+      "run_id": "65387",
+      "address": "300 Block Robertson Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10,RS1",
+      "units": "EC10,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65387"
+    }
   }
 ]
