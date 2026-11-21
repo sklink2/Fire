@@ -4222,5 +4222,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65231"
     }
+  },
+  {
+    "runNumber": "65232",
+    "rawCode": "FSIA",
+    "timestamp": "2026-11-20T20:32:42.133604-05:00",
+    "address": "Withers Avenue & N Limestone",
+    "extra": {
+      "incidentNumber": "65232",
+      "run_id": "65232",
+      "address": "Withers Avenue & N Limestone",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E04,201",
+      "units": "E02,E04,201",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-65232"
+    }
   }
 ]
