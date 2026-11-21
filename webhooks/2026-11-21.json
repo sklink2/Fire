@@ -2484,5 +2484,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65375"
     }
+  },
+  {
+    "runNumber": "65374",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-21T15:25:42.838260-05:00",
+    "address": "Old Georgetown Street & W Main Street",
+    "extra": {
+      "incidentNumber": "65374",
+      "run_id": "65374",
+      "address": "Old Georgetown Street & W Main Street",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,EC10,241",
+      "units": "E04,EC10,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-65374"
+    }
   }
 ]
