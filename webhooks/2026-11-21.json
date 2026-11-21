@@ -944,5 +944,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65307"
     }
+  },
+  {
+    "runNumber": "65308",
+    "rawCode": "MED",
+    "timestamp": "2026-11-21T06:54:20.039083-05:00",
+    "address": "1700 Block Benwood Drive",
+    "extra": {
+      "incidentNumber": "65308",
+      "run_id": "65308",
+      "address": "1700 Block Benwood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC2",
+      "units": "E02,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65308"
+    }
   }
 ]
