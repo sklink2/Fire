@@ -2858,5 +2858,27 @@
       "commandUnits": "220,202",
       "dedupeKey": "INCIDENT-65399"
     }
+  },
+  {
+    "runNumber": "65398",
+    "rawCode": "MED",
+    "timestamp": "2026-11-21T17:12:38.498263-05:00",
+    "address": "2700 Block Richmond Road",
+    "extra": {
+      "incidentNumber": "65398",
+      "run_id": "65398",
+      "address": "2700 Block Richmond Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,EC21",
+      "units": "E09,EC21",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65398"
+    }
   }
 ]
