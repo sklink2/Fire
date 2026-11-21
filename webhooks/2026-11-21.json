@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65324"
     }
+  },
+  {
+    "runNumber": "65326",
+    "rawCode": "MED",
+    "timestamp": "2026-11-21T09:31:25.910701-05:00",
+    "address": "1200 Block Morning Side Drive",
+    "extra": {
+      "incidentNumber": "65326",
+      "run_id": "65326",
+      "address": "1200 Block Morning Side Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65326"
+    }
   }
 ]
