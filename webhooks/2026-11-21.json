@@ -1054,5 +1054,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65311"
     }
+  },
+  {
+    "runNumber": "65313",
+    "rawCode": "MED",
+    "timestamp": "2026-11-21T07:57:48.534238-05:00",
+    "address": "3600 Block Ilex Place",
+    "extra": {
+      "incidentNumber": "65313",
+      "run_id": "65313",
+      "address": "3600 Block Ilex Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65313"
+    }
   }
 ]
