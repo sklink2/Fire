@@ -4640,5 +4640,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65251"
     }
+  },
+  {
+    "runNumber": "65250",
+    "rawCode": "FDET",
+    "timestamp": "2026-11-20T22:49:42.940525-05:00",
+    "address": "107 Withers Avenue",
+    "extra": {
+      "incidentNumber": "65250",
+      "run_id": "65250",
+      "address": "107 Withers Avenue",
+      "rawType": "FDET",
+      "typeCode": "FDET",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09",
+      "units": "E09",
+      "unitCount": "1",
+      "primaryTopic": "FDET",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65250"
+    }
   }
 ]
