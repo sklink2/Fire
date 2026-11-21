@@ -2550,5 +2550,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65379"
     }
+  },
+  {
+    "runNumber": "65381",
+    "rawCode": "MED",
+    "timestamp": "2026-11-21T15:42:22.966388-05:00",
+    "address": "500 Block Lima Drive",
+    "extra": {
+      "incidentNumber": "65381",
+      "run_id": "65381",
+      "address": "500 Block Lima Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65381"
+    }
   }
 ]
