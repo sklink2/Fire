@@ -2946,5 +2946,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65395"
     }
+  },
+  {
+    "runNumber": "65400",
+    "rawCode": "MED",
+    "timestamp": "2026-11-21T17:29:18.017568-05:00",
+    "address": "3400 Block Brunswick Road",
+    "extra": {
+      "incidentNumber": "65400",
+      "run_id": "65400",
+      "address": "3400 Block Brunswick Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20,EC4",
+      "units": "E20,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65400"
+    }
   }
 ]
