@@ -1472,5 +1472,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-65332"
     }
+  },
+  {
+    "runNumber": "65331",
+    "rawCode": "FMEA",
+    "timestamp": "2026-11-21T10:08:10.760752-05:00",
+    "address": "1202 Liggett Street",
+    "extra": {
+      "incidentNumber": "65331",
+      "run_id": "65331",
+      "address": "1202 Liggett Street",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65331"
+    }
   }
 ]
