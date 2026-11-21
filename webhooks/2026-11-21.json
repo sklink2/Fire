@@ -416,5 +416,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65283"
     }
+  },
+  {
+    "runNumber": "65284",
+    "rawCode": "MED",
+    "timestamp": "2026-11-21T02:33:37.255278-05:00",
+    "address": "3300 Block Boston Road",
+    "extra": {
+      "incidentNumber": "65284",
+      "run_id": "65284",
+      "address": "3300 Block Boston Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,EC12",
+      "units": "E15,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65284"
+    }
   }
 ]
