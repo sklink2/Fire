@@ -1956,5 +1956,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65353"
     }
+  },
+  {
+    "runNumber": "65354",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-21T12:45:17.141220-05:00",
+    "address": "3710 Palomar Centre Drive",
+    "extra": {
+      "incidentNumber": "65354",
+      "run_id": "65354",
+      "address": "3710 Palomar Centre Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E20,L04,204",
+      "units": "E11,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-65354"
+    }
   }
 ]
