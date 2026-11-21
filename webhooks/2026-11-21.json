@@ -3276,5 +3276,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65413"
     }
+  },
+  {
+    "runNumber": "65415",
+    "rawCode": "MED",
+    "timestamp": "2026-11-21T18:32:47.618775-05:00",
+    "address": "100 Block Alabama Avenue",
+    "extra": {
+      "incidentNumber": "65415",
+      "run_id": "65415",
+      "address": "100 Block Alabama Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1,CRT1",
+      "units": "EC1,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65415"
+    }
   }
 ]
