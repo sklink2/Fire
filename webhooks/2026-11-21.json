@@ -2330,5 +2330,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65370"
     }
+  },
+  {
+    "runNumber": "65371",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-21T14:45:34.465120-05:00",
+    "address": "390 Clearwood Court",
+    "extra": {
+      "incidentNumber": "65371",
+      "run_id": "65371",
+      "address": "390 Clearwood Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E21,L06,201",
+      "units": "E09,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-65371"
+    }
   }
 ]
