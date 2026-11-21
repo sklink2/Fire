@@ -1098,5 +1098,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65314"
     }
+  },
+  {
+    "runNumber": "65315",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-21T08:11:12.185174-05:00",
+    "address": "2107 Sandersville Road",
+    "extra": {
+      "incidentNumber": "65315",
+      "run_id": "65315",
+      "address": "2107 Sandersville Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,E24,L03,203",
+      "units": "E10,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-65315"
+    }
   }
 ]
