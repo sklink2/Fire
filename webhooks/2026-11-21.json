@@ -2836,5 +2836,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65394"
     }
+  },
+  {
+    "runNumber": "65399",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-21T17:12:37.288449-05:00",
+    "address": "3557 King Arthur Drive",
+    "extra": {
+      "incidentNumber": "65399",
+      "run_id": "65399",
+      "address": "3557 King Arthur Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,E16,L07,202,220",
+      "units": "E15,E16,L07,202,220",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-65399"
+    }
   }
 ]
