@@ -2528,5 +2528,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65380"
     }
+  },
+  {
+    "runNumber": "65379",
+    "rawCode": "MED",
+    "timestamp": "2026-11-21T15:29:00.126902-05:00",
+    "address": "300 Block Merino Street",
+    "extra": {
+      "incidentNumber": "65379",
+      "run_id": "65379",
+      "address": "300 Block Merino Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC7,RS1",
+      "units": "EC7,RS1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65379"
+    }
   }
 ]
