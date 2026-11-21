@@ -636,5 +636,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65293"
     }
+  },
+  {
+    "runNumber": "65294",
+    "rawCode": "MED",
+    "timestamp": "2026-11-21T04:37:17.539905-05:00",
+    "address": "2500 Block Palumbo Drive",
+    "extra": {
+      "incidentNumber": "65294",
+      "run_id": "65294",
+      "address": "2500 Block Palumbo Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65294"
+    }
   }
 ]
