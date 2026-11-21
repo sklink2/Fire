@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65338"
     }
+  },
+  {
+    "runNumber": "65341",
+    "rawCode": "MED",
+    "timestamp": "2026-11-21T11:18:21.033909-05:00",
+    "address": "1100 Block Oakwood Drive",
+    "extra": {
+      "incidentNumber": "65341",
+      "run_id": "65341",
+      "address": "1100 Block Oakwood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC3",
+      "units": "E10,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65341"
+    }
   }
 ]
