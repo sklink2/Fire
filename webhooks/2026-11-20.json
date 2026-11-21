@@ -4486,5 +4486,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65241"
     }
+  },
+  {
+    "runNumber": "65242",
+    "rawCode": "FGAO",
+    "timestamp": "2026-11-20T21:49:33.319417-05:00",
+    "address": "370 Preston Avenue",
+    "extra": {
+      "incidentNumber": "65242",
+      "run_id": "65242",
+      "address": "370 Preston Avenue",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,E09",
+      "units": "E06,E09",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65242"
+    }
   }
 ]
