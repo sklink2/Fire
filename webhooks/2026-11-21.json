@@ -2968,5 +2968,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65400"
     }
+  },
+  {
+    "runNumber": "65401",
+    "rawCode": "MED",
+    "timestamp": "2026-11-21T17:36:00.179295-05:00",
+    "address": "1400 Block Parterre Court",
+    "extra": {
+      "incidentNumber": "65401",
+      "run_id": "65401",
+      "address": "1400 Block Parterre Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC13",
+      "units": "EC13",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65401"
+    }
   }
 ]
