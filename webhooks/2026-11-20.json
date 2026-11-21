@@ -4266,5 +4266,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65233"
     }
+  },
+  {
+    "runNumber": "65232",
+    "rawCode": "FSTR",
+    "timestamp": "2026-11-20T20:36:02.132337-05:00",
+    "address": "109 Withers Avenue",
+    "extra": {
+      "incidentNumber": "65232",
+      "run_id": "65232",
+      "address": "109 Withers Avenue",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E02,E04,E13,L03,EC6,201,205,220,241",
+      "units": "E01,E02,E04,E13,L03,EC6,201,205,220,241",
+      "unitCount": "10",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,201,205",
+      "dedupeKey": "INCIDENT-65232"
+    }
   }
 ]
