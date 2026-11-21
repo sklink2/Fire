@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65369"
     }
+  },
+  {
+    "runNumber": "65368",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-21T14:28:50.115166-05:00",
+    "address": "260 Darenia Lane",
+    "extra": {
+      "incidentNumber": "65368",
+      "run_id": "65368",
+      "address": "260 Darenia Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,E24,L03,203",
+      "units": "E13,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-65368"
+    }
   }
 ]
