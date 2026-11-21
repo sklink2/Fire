@@ -4574,5 +4574,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-65247"
     }
+  },
+  {
+    "runNumber": "65246",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-20T22:36:23.444740-05:00",
+    "address": "1450 Etawah Drive",
+    "extra": {
+      "incidentNumber": "65246",
+      "run_id": "65246",
+      "address": "1450 Etawah Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L05",
+      "units": "L05",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65246"
+    }
   }
 ]
