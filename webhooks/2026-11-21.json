@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65401"
     }
+  },
+  {
+    "runNumber": "65402",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-21T17:42:42.707645-05:00",
+    "address": "1580 Alexandria Drive",
+    "extra": {
+      "incidentNumber": "65402",
+      "run_id": "65402",
+      "address": "1580 Alexandria Drive",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,EC12",
+      "units": "E14,EC12",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65402"
+    }
   }
 ]
