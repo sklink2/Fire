@@ -4904,5 +4904,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-65261"
     }
+  },
+  {
+    "runNumber": "65260",
+    "rawCode": "FSCU",
+    "timestamp": "2026-11-20T23:36:30.244204-05:00",
+    "address": "4892 Ashmont Way",
+    "extra": {
+      "incidentNumber": "65260",
+      "run_id": "65260",
+      "address": "4892 Ashmont Way",
+      "rawType": "FSCU",
+      "typeCode": "FSCU",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FSCU",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65260"
+    }
   }
 ]
