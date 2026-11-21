@@ -3100,5 +3100,27 @@
       "commandUnits": "241,220,201,203,205",
       "dedupeKey": "INCIDENT-65406"
     }
+  },
+  {
+    "runNumber": "65408",
+    "rawCode": "FBGL",
+    "timestamp": "2026-11-21T18:02:43.106649-05:00",
+    "address": "2518 Southview Drive",
+    "extra": {
+      "incidentNumber": "65408",
+      "run_id": "65408",
+      "address": "2518 Southview Drive",
+      "rawType": "FBGL",
+      "typeCode": "FBGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12",
+      "units": "E12",
+      "unitCount": "1",
+      "primaryTopic": "FBGL",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65408"
+    }
   }
 ]
