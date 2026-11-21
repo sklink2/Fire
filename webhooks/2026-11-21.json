@@ -900,5 +900,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65306"
     }
+  },
+  {
+    "runNumber": "65305",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-11-21T06:47:40.324049-05:00",
+    "address": "64 Wb / 87.0 Mm (Haley Road",
+    "extra": {
+      "incidentNumber": "65305",
+      "run_id": "65305",
+      "address": "64 Wb / 87.0 Mm (Haley Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E17,E23,L05,EC3,EC8,201,241,RS1",
+      "units": "E17,E23,L05,EC3,EC8,201,241,RS1",
+      "unitCount": "8",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-65305"
+    }
   }
 ]
