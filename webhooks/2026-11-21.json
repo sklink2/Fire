@@ -3386,5 +3386,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-65418"
     }
+  },
+  {
+    "runNumber": "65420",
+    "rawCode": "MED",
+    "timestamp": "2026-11-21T18:56:12.892504-05:00",
+    "address": "2900 Block Constantine Avenue",
+    "extra": {
+      "incidentNumber": "65420",
+      "run_id": "65420",
+      "address": "2900 Block Constantine Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L06,EC11",
+      "units": "L06,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65420"
+    }
   }
 ]
