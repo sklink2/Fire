@@ -2594,5 +2594,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65382"
     }
+  },
+  {
+    "runNumber": "65383",
+    "rawCode": "FMIS",
+    "timestamp": "2026-11-21T16:19:07.050686-05:00",
+    "address": "3600 Winthrop Drive",
+    "extra": {
+      "incidentNumber": "65383",
+      "run_id": "65383",
+      "address": "3600 Winthrop Drive",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,202",
+      "units": "E15,202",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-65383"
+    }
   }
 ]
