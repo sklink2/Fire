@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65336"
     }
+  },
+  {
+    "runNumber": "65337",
+    "rawCode": "MED",
+    "timestamp": "2026-11-21T10:48:15.787088-05:00",
+    "address": "600 Block Springridge Drive",
+    "extra": {
+      "incidentNumber": "65337",
+      "run_id": "65337",
+      "address": "600 Block Springridge Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65337"
+    }
   }
 ]
