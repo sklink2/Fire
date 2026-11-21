@@ -4376,5 +4376,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65236"
     }
+  },
+  {
+    "runNumber": "65238",
+    "rawCode": "MED",
+    "timestamp": "2026-11-20T21:19:29.057866-05:00",
+    "address": "200 Block Mousas Way",
+    "extra": {
+      "incidentNumber": "65238",
+      "run_id": "65238",
+      "address": "200 Block Mousas Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65238"
+    }
   }
 ]
