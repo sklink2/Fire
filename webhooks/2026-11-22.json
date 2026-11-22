@@ -1406,5 +1406,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65527"
     }
+  },
+  {
+    "runNumber": "65526",
+    "rawCode": "MED",
+    "timestamp": "2026-11-22T12:18:47.708642-05:00",
+    "address": "3100 Block Briar Hill Road",
+    "extra": {
+      "incidentNumber": "65526",
+      "run_id": "65526",
+      "address": "3100 Block Briar Hill Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC1",
+      "units": "E08,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65526"
+    }
   }
 ]
