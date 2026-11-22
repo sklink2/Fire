@@ -3122,5 +3122,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65605"
     }
+  },
+  {
+    "runNumber": "65604",
+    "rawCode": "FELS",
+    "timestamp": "2026-11-22T17:59:40.750997-05:00",
+    "address": "369 W Vine Street",
+    "extra": {
+      "incidentNumber": "65604",
+      "run_id": "65604",
+      "address": "369 W Vine Street",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L02,205,RS1",
+      "units": "L02,205,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-65604"
+    }
   }
 ]
