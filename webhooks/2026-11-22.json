@@ -3342,5 +3342,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65612"
     }
+  },
+  {
+    "runNumber": "65604",
+    "rawCode": "FROP",
+    "timestamp": "2026-11-22T18:23:02.194191-05:00",
+    "address": "369 W Vine Street",
+    "extra": {
+      "incidentNumber": "65604",
+      "run_id": "65604",
+      "address": "369 W Vine Street",
+      "rawType": "FROP",
+      "typeCode": "FROP",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E04,E12,E13,L02,EC6,205,241,RS1",
+      "units": "E04,E12,E13,L02,EC6,205,241,RS1",
+      "unitCount": "8",
+      "primaryTopic": "FROP",
+      "commandUnits": "241,205",
+      "dedupeKey": "INCIDENT-65604"
+    }
   }
 ]
