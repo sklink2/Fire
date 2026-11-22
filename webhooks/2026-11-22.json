@@ -2704,5 +2704,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65585"
     }
+  },
+  {
+    "runNumber": "65584",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-22T16:52:51.208642-05:00",
+    "address": "W Loudon Avenue & N Broadway",
+    "extra": {
+      "incidentNumber": "65584",
+      "run_id": "65584",
+      "address": "W Loudon Avenue & N Broadway",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC1,241",
+      "units": "E08,EC1,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-65584"
+    }
   }
 ]
