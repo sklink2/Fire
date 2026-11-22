@@ -2880,5 +2880,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65594"
     }
+  },
+  {
+    "runNumber": "65593",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-22T17:26:16.661615-05:00",
+    "address": "2240 Buena Vista Road",
+    "extra": {
+      "incidentNumber": "65593",
+      "run_id": "65593",
+      "address": "2240 Buena Vista Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E08,L05,201",
+      "units": "E02,E08,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-65593"
+    }
   }
 ]
