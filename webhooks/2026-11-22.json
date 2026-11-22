@@ -2858,5 +2858,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-65591"
     }
+  },
+  {
+    "runNumber": "65594",
+    "rawCode": "MED",
+    "timestamp": "2026-11-22T17:26:16.375986-05:00",
+    "address": "2300 Block Norman Lane",
+    "extra": {
+      "incidentNumber": "65594",
+      "run_id": "65594",
+      "address": "2300 Block Norman Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65594"
+    }
   }
 ]
