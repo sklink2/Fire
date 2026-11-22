@@ -2902,5 +2902,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-65593"
     }
+  },
+  {
+    "runNumber": "65595",
+    "rawCode": "MED",
+    "timestamp": "2026-11-22T17:29:36.821996-05:00",
+    "address": "1600 Block Elkchester Road",
+    "extra": {
+      "incidentNumber": "65595",
+      "run_id": "65595",
+      "address": "1600 Block Elkchester Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65595"
+    }
   }
 ]
