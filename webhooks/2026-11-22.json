@@ -504,5 +504,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-65485"
     }
+  },
+  {
+    "runNumber": "65486",
+    "rawCode": "MED",
+    "timestamp": "2026-11-22T05:57:50.459597-05:00",
+    "address": "400 Block Joseph Bryan Way",
+    "extra": {
+      "incidentNumber": "65486",
+      "run_id": "65486",
+      "address": "400 Block Joseph Bryan Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,EC9",
+      "units": "E15,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65486"
+    }
   }
 ]
