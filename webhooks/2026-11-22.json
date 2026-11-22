@@ -2242,5 +2242,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65564"
     }
+  },
+  {
+    "runNumber": "65565",
+    "rawCode": "MED",
+    "timestamp": "2026-11-22T15:19:14.405338-05:00",
+    "address": "2000 Block Garden Springs Drive",
+    "extra": {
+      "incidentNumber": "65565",
+      "run_id": "65565",
+      "address": "2000 Block Garden Springs Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65565"
+    }
   }
 ]
