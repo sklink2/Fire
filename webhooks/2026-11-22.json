@@ -2308,5 +2308,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65568"
     }
+  },
+  {
+    "runNumber": "65567",
+    "rawCode": "MED",
+    "timestamp": "2026-11-22T15:42:37.898816-05:00",
+    "address": "1200 Block Golden Gate Park",
+    "extra": {
+      "incidentNumber": "65567",
+      "run_id": "65567",
+      "address": "1200 Block Golden Gate Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16,EC4",
+      "units": "E16,EC4",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65567"
+    }
   }
 ]
