@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65483"
     }
+  },
+  {
+    "runNumber": "65484",
+    "rawCode": "FCAR",
+    "timestamp": "2026-11-22T04:57:40.829769-05:00",
+    "address": "3268 Sutherland Drive",
+    "extra": {
+      "incidentNumber": "65484",
+      "run_id": "65484",
+      "address": "3268 Sutherland Drive",
+      "rawType": "FCAR",
+      "typeCode": "FCAR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L07",
+      "units": "L07",
+      "unitCount": "1",
+      "primaryTopic": "FCAR",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65484"
+    }
   }
 ]
