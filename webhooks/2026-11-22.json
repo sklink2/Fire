@@ -1274,5 +1274,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-65520"
     }
+  },
+  {
+    "runNumber": "65522",
+    "rawCode": "MED",
+    "timestamp": "2026-11-22T11:55:23.174058-05:00",
+    "address": "800 Block N Broadway",
+    "extra": {
+      "incidentNumber": "65522",
+      "run_id": "65522",
+      "address": "800 Block N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65522"
+    }
   }
 ]
