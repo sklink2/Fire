@@ -4112,5 +4112,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65453"
     }
+  },
+  {
+    "runNumber": "65452",
+    "rawCode": "MED",
+    "timestamp": "2026-11-21T23:00:09.134573-05:00",
+    "address": "500 Block E Loudon Avenue",
+    "extra": {
+      "incidentNumber": "65452",
+      "run_id": "65452",
+      "address": "500 Block E Loudon Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC1",
+      "units": "E02,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65452"
+    }
   }
 ]
