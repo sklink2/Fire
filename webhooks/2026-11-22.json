@@ -1978,5 +1978,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65553"
     }
+  },
+  {
+    "runNumber": "65549",
+    "rawCode": "MED",
+    "timestamp": "2026-11-22T14:05:45.038568-05:00",
+    "address": "700 Block Portland Drive",
+    "extra": {
+      "incidentNumber": "65549",
+      "run_id": "65549",
+      "address": "700 Block Portland Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E20,EC12",
+      "units": "E20,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65549"
+    }
   }
 ]
