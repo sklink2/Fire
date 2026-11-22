@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65542"
     }
+  },
+  {
+    "runNumber": "65544",
+    "rawCode": "MED",
+    "timestamp": "2026-11-22T13:25:37.070873-05:00",
+    "address": "1000 Block Jouett Creek Drive",
+    "extra": {
+      "incidentNumber": "65544",
+      "run_id": "65544",
+      "address": "1000 Block Jouett Creek Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L06,EC2",
+      "units": "L06,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65544"
+    }
   }
 ]
