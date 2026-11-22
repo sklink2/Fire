@@ -3980,5 +3980,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65447"
     }
+  },
+  {
+    "runNumber": "65448",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-21T22:13:21.057674-05:00",
+    "address": "75 Sb / 104.0 Mm (Athens Boone",
+    "extra": {
+      "incidentNumber": "65448",
+      "run_id": "65448",
+      "address": "75 Sb / 104.0 Mm (Athens Boone",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E17,E21,EC2,241",
+      "units": "E17,E21,EC2,241",
+      "unitCount": "4",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-65448"
+    }
   }
 ]
