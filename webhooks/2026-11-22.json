@@ -1252,5 +1252,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65518"
     }
+  },
+  {
+    "runNumber": "65520",
+    "rawCode": "FFIA",
+    "timestamp": "2026-11-22T11:52:02.402267-05:00",
+    "address": "533 Parkside Drive",
+    "extra": {
+      "incidentNumber": "65520",
+      "run_id": "65520",
+      "address": "533 Parkside Drive",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E19,L03,203",
+      "units": "E08,E19,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FFIA",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-65520"
+    }
   }
 ]
