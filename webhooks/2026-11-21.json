@@ -3738,5 +3738,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65435"
     }
+  },
+  {
+    "runNumber": "65436",
+    "rawCode": "MED",
+    "timestamp": "2026-11-21T20:36:28.211666-05:00",
+    "address": "0 Block Quality Street",
+    "extra": {
+      "incidentNumber": "65436",
+      "run_id": "65436",
+      "address": "0 Block Quality Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65436"
+    }
   }
 ]
