@@ -306,5 +306,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65476"
     }
+  },
+  {
+    "runNumber": "65477",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-22T03:10:46.047884-05:00",
+    "address": "521 S Broadway",
+    "extra": {
+      "incidentNumber": "65477",
+      "run_id": "65477",
+      "address": "521 S Broadway",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,E06,L01,EC10,204,220",
+      "units": "E04,E06,L01,EC10,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-65477"
+    }
   }
 ]
