@@ -3056,5 +3056,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65600"
     }
+  },
+  {
+    "runNumber": "65603",
+    "rawCode": "MED",
+    "timestamp": "2026-11-22T17:52:57.967990-05:00",
+    "address": "3400 Block Holwyn Road",
+    "extra": {
+      "incidentNumber": "65603",
+      "run_id": "65603",
+      "address": "3400 Block Holwyn Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,EC12",
+      "units": "E12,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65603"
+    }
   }
 ]
