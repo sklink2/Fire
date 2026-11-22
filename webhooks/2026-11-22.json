@@ -1472,5 +1472,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65530"
     }
+  },
+  {
+    "runNumber": "65532",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-22T12:35:28.152556-05:00",
+    "address": "1528 Glover Avenue",
+    "extra": {
+      "incidentNumber": "65532",
+      "run_id": "65532",
+      "address": "1528 Glover Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E13,E14,L01,203",
+      "units": "E13,E14,L01,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-65532"
+    }
   }
 ]
