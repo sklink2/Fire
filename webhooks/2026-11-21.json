@@ -4068,5 +4068,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65450"
     }
+  },
+  {
+    "runNumber": "65454",
+    "rawCode": "FELS",
+    "timestamp": "2026-11-21T23:00:08.573860-05:00",
+    "address": "245 Lexington Green Circle",
+    "extra": {
+      "incidentNumber": "65454",
+      "run_id": "65454",
+      "address": "245 Lexington Green Circle",
+      "rawType": "FELS",
+      "typeCode": "FELS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,L04,204",
+      "units": "E12,L04,204",
+      "unitCount": "3",
+      "primaryTopic": "FELS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-65454"
+    }
   }
 ]
