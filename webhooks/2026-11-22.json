@@ -3144,5 +3144,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-65604"
     }
+  },
+  {
+    "runNumber": "65606",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-22T18:03:01.482213-05:00",
+    "address": "1708 Jennifer Road",
+    "extra": {
+      "incidentNumber": "65606",
+      "run_id": "65606",
+      "address": "1708 Jennifer Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E02,E08,L05,201",
+      "units": "E02,E08,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-65606"
+    }
   }
 ]
