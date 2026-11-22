@@ -2990,5 +2990,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65598"
     }
+  },
+  {
+    "runNumber": "65599",
+    "rawCode": "MED",
+    "timestamp": "2026-11-22T17:42:56.359480-05:00",
+    "address": "200 Block Pindell Court",
+    "extra": {
+      "incidentNumber": "65599",
+      "run_id": "65599",
+      "address": "200 Block Pindell Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65599"
+    }
   }
 ]
