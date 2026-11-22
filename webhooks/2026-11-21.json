@@ -4222,5 +4222,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65458"
     }
+  },
+  {
+    "runNumber": "65459",
+    "rawCode": "MED",
+    "timestamp": "2026-11-21T23:30:13.199348-05:00",
+    "address": "2000 Block Glade Lane",
+    "extra": {
+      "incidentNumber": "65459",
+      "run_id": "65459",
+      "address": "2000 Block Glade Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65459"
+    }
   }
 ]
