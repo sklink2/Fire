@@ -658,5 +658,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65491"
     }
+  },
+  {
+    "runNumber": "65493",
+    "rawCode": "MED",
+    "timestamp": "2026-11-22T06:27:54.787482-05:00",
+    "address": "400 Block Welsh Park",
+    "extra": {
+      "incidentNumber": "65493",
+      "run_id": "65493",
+      "address": "400 Block Welsh Park",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65493"
+    }
   }
 ]
