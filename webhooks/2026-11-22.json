@@ -834,5 +834,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65500"
     }
+  },
+  {
+    "runNumber": "65501",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-22T09:21:40.387064-05:00",
+    "address": "101 W Loudon Avenue",
+    "extra": {
+      "incidentNumber": "65501",
+      "run_id": "65501",
+      "address": "101 W Loudon Avenue",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E10,L01,EC3,205,220",
+      "units": "E08,E10,L01,EC3,205,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,205",
+      "dedupeKey": "INCIDENT-65501"
+    }
   }
 ]
