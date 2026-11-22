@@ -1912,5 +1912,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65549"
     }
+  },
+  {
+    "runNumber": "65552",
+    "rawCode": "MED",
+    "timestamp": "2026-11-22T13:48:58.636506-05:00",
+    "address": "1400 Block Newtown Center Way",
+    "extra": {
+      "incidentNumber": "65552",
+      "run_id": "65552",
+      "address": "1400 Block Newtown Center Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L03,EC12",
+      "units": "L03,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65552"
+    }
   }
 ]
