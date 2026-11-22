@@ -3606,5 +3606,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65428"
     }
+  },
+  {
+    "runNumber": "65430",
+    "rawCode": "FGAO",
+    "timestamp": "2026-11-21T20:03:04.071735-05:00",
+    "address": "1795 Old Frankfort Pike",
+    "extra": {
+      "incidentNumber": "65430",
+      "run_id": "65430",
+      "address": "1795 Old Frankfort Pike",
+      "rawType": "FGAO",
+      "typeCode": "FGAO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,E13",
+      "units": "E10,E13",
+      "unitCount": "2",
+      "primaryTopic": "FGAO",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65430"
+    }
   }
 ]
