@@ -2396,5 +2396,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65777"
     }
+  },
+  {
+    "runNumber": "65778",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-23T13:49:21.908071-05:00",
+    "address": "2860 Richmond Road",
+    "extra": {
+      "incidentNumber": "65778",
+      "run_id": "65778",
+      "address": "2860 Richmond Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E21,L06",
+      "units": "E21,L06",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65778"
+    }
   }
 ]
