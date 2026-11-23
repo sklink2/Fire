@@ -2638,5 +2638,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65790"
     }
+  },
+  {
+    "runNumber": "65789",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-23T15:09:37.127260-05:00",
+    "address": "603 S Broadway",
+    "extra": {
+      "incidentNumber": "65789",
+      "run_id": "65789",
+      "address": "603 S Broadway",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12",
+      "units": "E12",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65789"
+    }
   }
 ]
