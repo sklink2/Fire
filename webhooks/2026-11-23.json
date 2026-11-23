@@ -2836,5 +2836,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65797"
     }
+  },
+  {
+    "runNumber": "65800",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-23T15:43:01.288658-05:00",
+    "address": "2080 Stonewood Lane",
+    "extra": {
+      "incidentNumber": "65800",
+      "run_id": "65800",
+      "address": "2080 Stonewood Lane",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,E02,L05,201",
+      "units": "E01,E02,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-65800"
+    }
   }
 ]
