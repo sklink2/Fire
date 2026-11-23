@@ -1780,5 +1780,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65749"
     }
+  },
+  {
+    "runNumber": "65748",
+    "rawCode": "FASS",
+    "timestamp": "2026-11-23T11:45:45.405705-05:00",
+    "address": "874 W Main Street",
+    "extra": {
+      "incidentNumber": "65748",
+      "run_id": "65748",
+      "address": "874 W Main Street",
+      "rawType": "FASS",
+      "typeCode": "FASS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "421",
+      "units": "421",
+      "unitCount": "1",
+      "primaryTopic": "FASS",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65748"
+    }
   }
 ]
