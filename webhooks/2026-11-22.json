@@ -4354,5 +4354,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65660"
     }
+  },
+  {
+    "runNumber": "65661",
+    "rawCode": "MED",
+    "timestamp": "2026-11-22T22:27:02.433249-05:00",
+    "address": "1800 Block Wayland Drive",
+    "extra": {
+      "incidentNumber": "65661",
+      "run_id": "65661",
+      "address": "1800 Block Wayland Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC6",
+      "units": "E08,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65661"
+    }
   }
 ]
