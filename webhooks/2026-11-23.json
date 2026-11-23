@@ -2550,5 +2550,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-65784"
     }
+  },
+  {
+    "runNumber": "65785",
+    "rawCode": "MED",
+    "timestamp": "2026-11-23T14:39:32.576413-05:00",
+    "address": "1300 Block Ox Hill Drive",
+    "extra": {
+      "incidentNumber": "65785",
+      "run_id": "65785",
+      "address": "1300 Block Ox Hill Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC13,CRT1",
+      "units": "EC13,CRT1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65785"
+    }
   }
 ]
