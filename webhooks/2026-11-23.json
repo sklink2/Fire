@@ -3518,5 +3518,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65830"
     }
+  },
+  {
+    "runNumber": "65833",
+    "rawCode": "MED",
+    "timestamp": "2026-11-23T18:30:07.630853-05:00",
+    "address": "200 Block Life Lane",
+    "extra": {
+      "incidentNumber": "65833",
+      "run_id": "65833",
+      "address": "200 Block Life Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65833"
+    }
   }
 ]
