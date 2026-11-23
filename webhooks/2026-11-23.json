@@ -1296,5 +1296,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65725"
     }
+  },
+  {
+    "runNumber": "65728",
+    "rawCode": "MED",
+    "timestamp": "2026-11-23T09:45:24.676507-05:00",
+    "address": "S Upper Street & W Vine Street",
+    "extra": {
+      "incidentNumber": "65728",
+      "run_id": "65728",
+      "address": "S Upper Street & W Vine Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,L01",
+      "units": "E01,L01",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65728"
+    }
   }
 ]
