@@ -174,5 +174,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65676"
     }
+  },
+  {
+    "runNumber": "65678",
+    "rawCode": "MED",
+    "timestamp": "2026-11-23T01:34:08.518156-05:00",
+    "address": "200 Block Cranberry Street",
+    "extra": {
+      "incidentNumber": "65678",
+      "run_id": "65678",
+      "address": "200 Block Cranberry Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65678"
+    }
   }
 ]
