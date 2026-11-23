@@ -2154,5 +2154,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65767"
     }
+  },
+  {
+    "runNumber": "65766",
+    "rawCode": "MED",
+    "timestamp": "2026-11-23T12:52:35.388115-05:00",
+    "address": "100 Block S Limestone",
+    "extra": {
+      "incidentNumber": "65766",
+      "run_id": "65766",
+      "address": "100 Block S Limestone",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E06,EC7,CRT1",
+      "units": "E06,EC7,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65766"
+    }
   }
 ]
