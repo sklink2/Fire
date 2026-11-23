@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65715"
     }
+  },
+  {
+    "runNumber": "65714",
+    "rawCode": "MED",
+    "timestamp": "2026-11-23T08:38:35.977076-05:00",
+    "address": "2500 Block Alumni Drive",
+    "extra": {
+      "incidentNumber": "65714",
+      "run_id": "65714",
+      "address": "2500 Block Alumni Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65714"
+    }
   }
 ]
