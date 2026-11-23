@@ -2880,5 +2880,27 @@
       "commandUnits": "241,202",
       "dedupeKey": "INCIDENT-65799"
     }
+  },
+  {
+    "runNumber": "65801",
+    "rawCode": "MED",
+    "timestamp": "2026-11-23T15:49:43.004636-05:00",
+    "address": "100 Block Constitution Street",
+    "extra": {
+      "incidentNumber": "65801",
+      "run_id": "65801",
+      "address": "100 Block Constitution Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L01,EC1",
+      "units": "L01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65801"
+    }
   }
 ]
