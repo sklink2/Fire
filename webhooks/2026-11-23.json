@@ -746,5 +746,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65702"
     }
+  },
+  {
+    "runNumber": "65703",
+    "rawCode": "MED",
+    "timestamp": "2026-11-23T06:44:56.497118-05:00",
+    "address": "600 Block Shropshire Avenue",
+    "extra": {
+      "incidentNumber": "65703",
+      "run_id": "65703",
+      "address": "600 Block Shropshire Avenue",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65703"
+    }
   }
 ]
