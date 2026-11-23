@@ -2968,5 +2968,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65804"
     }
+  },
+  {
+    "runNumber": "65806",
+    "rawCode": "FMIS",
+    "timestamp": "2026-11-23T16:26:28.095510-05:00",
+    "address": "736 W Main Street",
+    "extra": {
+      "incidentNumber": "65806",
+      "run_id": "65806",
+      "address": "736 W Main Street",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,205",
+      "units": "E04,205",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-65806"
+    }
   }
 ]
