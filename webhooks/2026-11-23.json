@@ -1846,5 +1846,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65752"
     }
+  },
+  {
+    "runNumber": "65751",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-23T11:59:06.336237-05:00",
+    "address": "1650 Bryan Station Road",
+    "extra": {
+      "incidentNumber": "65751",
+      "run_id": "65751",
+      "address": "1650 Bryan Station Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E08,L05,201",
+      "units": "E02,E08,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-65751"
+    }
   }
 ]
