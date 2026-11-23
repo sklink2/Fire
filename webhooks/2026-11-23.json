@@ -218,5 +218,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65677"
     }
+  },
+  {
+    "runNumber": "65679",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-23T01:47:32.403737-05:00",
+    "address": "721 Sports Center Drive",
+    "extra": {
+      "incidentNumber": "65679",
+      "run_id": "65679",
+      "address": "721 Sports Center Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E05,E06,L02,204",
+      "units": "E05,E06,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-65679"
+    }
   }
 ]
