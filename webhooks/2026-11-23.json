@@ -2858,5 +2858,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-65800"
     }
+  },
+  {
+    "runNumber": "65799",
+    "rawCode": "FVIS",
+    "timestamp": "2026-11-23T15:43:01.696128-05:00",
+    "address": "175 N Locust Hill Drive",
+    "extra": {
+      "incidentNumber": "65799",
+      "run_id": "65799",
+      "address": "175 N Locust Hill Drive",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,E21,L06,EC8,202,241,RS1",
+      "units": "E08,E21,L06,EC8,202,241,RS1",
+      "unitCount": "7",
+      "primaryTopic": "FVIS",
+      "commandUnits": "241,202",
+      "dedupeKey": "INCIDENT-65799"
+    }
   }
 ]
