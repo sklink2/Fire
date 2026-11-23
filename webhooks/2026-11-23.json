@@ -1362,5 +1362,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65727"
     }
+  },
+  {
+    "runNumber": "65730",
+    "rawCode": "MED",
+    "timestamp": "2026-11-23T10:12:09.121895-05:00",
+    "address": "4600 Block Walnut Creek Drive",
+    "extra": {
+      "incidentNumber": "65730",
+      "run_id": "65730",
+      "address": "4600 Block Walnut Creek Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L06,EC11",
+      "units": "L06,EC11",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65730"
+    }
   }
 ]
