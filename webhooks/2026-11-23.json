@@ -1384,5 +1384,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65730"
     }
+  },
+  {
+    "runNumber": "65731",
+    "rawCode": "MED",
+    "timestamp": "2026-11-23T10:18:50.037522-05:00",
+    "address": "2400 Block Mackinwood Drive",
+    "extra": {
+      "incidentNumber": "65731",
+      "run_id": "65731",
+      "address": "2400 Block Mackinwood Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,EC5",
+      "units": "E04,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65731"
+    }
   }
 ]
