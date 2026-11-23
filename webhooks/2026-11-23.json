@@ -548,5 +548,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65693"
     }
+  },
+  {
+    "runNumber": "65694",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-23T05:18:03.264574-05:00",
+    "address": "3650 Tates Creek Road",
+    "extra": {
+      "incidentNumber": "65694",
+      "run_id": "65694",
+      "address": "3650 Tates Creek Road",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,L07",
+      "units": "E07,L07",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65694"
+    }
   }
 ]
