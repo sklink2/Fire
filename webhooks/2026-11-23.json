@@ -1890,5 +1890,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-65754"
     }
+  },
+  {
+    "runNumber": "65753",
+    "rawCode": "MED",
+    "timestamp": "2026-11-23T12:02:26.427369-05:00",
+    "address": "3500 Block Camelot Drive",
+    "extra": {
+      "incidentNumber": "65753",
+      "run_id": "65753",
+      "address": "3500 Block Camelot Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65753"
+    }
   }
 ]
