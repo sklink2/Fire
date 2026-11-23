@@ -2660,5 +2660,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65789"
     }
+  },
+  {
+    "runNumber": "65791",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-23T15:12:58.013611-05:00",
+    "address": "2531 Old Rosebud Road",
+    "extra": {
+      "incidentNumber": "65791",
+      "run_id": "65791",
+      "address": "2531 Old Rosebud Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,E21,L06,201",
+      "units": "E02,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-65791"
+    }
   }
 ]
