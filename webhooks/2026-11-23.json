@@ -438,5 +438,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65688"
     }
+  },
+  {
+    "runNumber": "65689",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-23T03:41:10.222159-05:00",
+    "address": "461 Dabney Drive",
+    "extra": {
+      "incidentNumber": "65689",
+      "run_id": "65689",
+      "address": "461 Dabney Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,E21,L06,202",
+      "units": "E09,E21,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-65689"
+    }
   }
 ]
