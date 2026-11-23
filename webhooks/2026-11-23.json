@@ -3540,5 +3540,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65833"
     }
+  },
+  {
+    "runNumber": "65832",
+    "rawCode": "MED",
+    "timestamp": "2026-11-23T18:30:07.908040-05:00",
+    "address": "900 Block Chas Drive",
+    "extra": {
+      "incidentNumber": "65832",
+      "run_id": "65832",
+      "address": "900 Block Chas Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65832"
+    }
   }
 ]
