@@ -3298,5 +3298,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65821"
     }
+  },
+  {
+    "runNumber": "65820",
+    "rawCode": "FLOI",
+    "timestamp": "2026-11-23T17:26:37.401992-05:00",
+    "address": "626 Big Bear Lane",
+    "extra": {
+      "incidentNumber": "65820",
+      "run_id": "65820",
+      "address": "626 Big Bear Lane",
+      "rawType": "FLOI",
+      "typeCode": "FLOI",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L07,203",
+      "units": "L07,203",
+      "unitCount": "2",
+      "primaryTopic": "FLOI",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-65820"
+    }
   }
 ]
