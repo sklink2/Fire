@@ -4222,5 +4222,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65654"
     }
+  },
+  {
+    "runNumber": "65656",
+    "rawCode": "MED",
+    "timestamp": "2026-11-22T21:53:37.552094-05:00",
+    "address": "2600 Block Oakmont Court",
+    "extra": {
+      "incidentNumber": "65656",
+      "run_id": "65656",
+      "address": "2600 Block Oakmont Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E12,EC9,241",
+      "units": "E12,EC9,241",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-65656"
+    }
   }
 ]
