@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65772"
     }
+  },
+  {
+    "runNumber": "65774",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-23T13:22:39.128769-05:00",
+    "address": "1631 Donelwal Drive",
+    "extra": {
+      "incidentNumber": "65774",
+      "run_id": "65774",
+      "address": "1631 Donelwal Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E19,E24,L01,203",
+      "units": "E19,E24,L01,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-65774"
+    }
   }
 ]
