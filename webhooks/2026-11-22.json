@@ -3804,5 +3804,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65634"
     }
+  },
+  {
+    "runNumber": "65636",
+    "rawCode": "MED",
+    "timestamp": "2026-11-22T20:06:39.196584-05:00",
+    "address": "0 Block Chinoe Road",
+    "extra": {
+      "incidentNumber": "65636",
+      "run_id": "65636",
+      "address": "0 Block Chinoe Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65636"
+    }
   }
 ]
