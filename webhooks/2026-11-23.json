@@ -284,5 +284,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-65681"
     }
+  },
+  {
+    "runNumber": "65682",
+    "rawCode": "MED",
+    "timestamp": "2026-11-23T02:34:19.331410-05:00",
+    "address": "3100 Block Old Crow Court",
+    "extra": {
+      "incidentNumber": "65682",
+      "run_id": "65682",
+      "address": "3100 Block Old Crow Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC4",
+      "units": "EC4",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65682"
+    }
   }
 ]
