@@ -1208,5 +1208,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65933"
     }
+  },
+  {
+    "runNumber": "65932",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-24T09:25:39.194074-05:00",
+    "address": "4560 Iron Works Pike",
+    "extra": {
+      "incidentNumber": "65932",
+      "run_id": "65932",
+      "address": "4560 Iron Works Pike",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E24,EC6",
+      "units": "E24,EC6",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65932"
+    }
   }
 ]
