@@ -3848,5 +3848,27 @@
       "commandUnits": "241,220,201,205",
       "dedupeKey": "INCIDENT-66053"
     }
+  },
+  {
+    "runNumber": "66053",
+    "rawCode": "FSTRW",
+    "timestamp": "2026-11-24T18:40:25.928532-05:00",
+    "address": "1081 E New Circle Road",
+    "extra": {
+      "incidentNumber": "66053",
+      "run_id": "66053",
+      "address": "1081 E New Circle Road",
+      "rawType": "FSTRW",
+      "typeCode": "FSTRW",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E08,E09,E13,L05,L06,EC2,EC8,201,205,200,220,241,RS1",
+      "units": "E02,E08,E09,E13,L05,L06,EC2,EC8,201,205,200,220,241,RS1",
+      "unitCount": "14",
+      "primaryTopic": "FSTRW",
+      "commandUnits": "241,220,200,201,205",
+      "dedupeKey": "INCIDENT-66053"
+    }
   }
 ]
