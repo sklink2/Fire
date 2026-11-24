@@ -526,5 +526,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65901"
     }
+  },
+  {
+    "runNumber": "65902",
+    "rawCode": "MED",
+    "timestamp": "2026-11-24T04:28:16.027075-05:00",
+    "address": "100 Block N Broadway",
+    "extra": {
+      "incidentNumber": "65902",
+      "run_id": "65902",
+      "address": "100 Block N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04",
+      "units": "E04",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65902"
+    }
   }
 ]
