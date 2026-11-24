@@ -2814,5 +2814,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66003"
     }
+  },
+  {
+    "runNumber": "66006",
+    "rawCode": "MED",
+    "timestamp": "2026-11-24T15:19:56.071029-05:00",
+    "address": "3000 Block Rio Dosa Drive",
+    "extra": {
+      "incidentNumber": "66006",
+      "run_id": "66006",
+      "address": "3000 Block Rio Dosa Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66006"
+    }
   }
 ]
