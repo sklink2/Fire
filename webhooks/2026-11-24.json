@@ -3210,5 +3210,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-66024"
     }
+  },
+  {
+    "runNumber": "66025",
+    "rawCode": "MED",
+    "timestamp": "2026-11-24T16:43:26.116206-05:00",
+    "address": "800 Block N Broadway",
+    "extra": {
+      "incidentNumber": "66025",
+      "run_id": "66025",
+      "address": "800 Block N Broadway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "L01,EC1",
+      "units": "L01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66025"
+    }
   }
 ]
