@@ -2660,5 +2660,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65998"
     }
+  },
+  {
+    "runNumber": "66001",
+    "rawCode": "MED",
+    "timestamp": "2026-11-24T15:03:12.617449-05:00",
+    "address": "500 Block E High Street",
+    "extra": {
+      "incidentNumber": "66001",
+      "run_id": "66001",
+      "address": "500 Block E High Street",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E05,EC21",
+      "units": "E05,EC21",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66001"
+    }
   }
 ]
