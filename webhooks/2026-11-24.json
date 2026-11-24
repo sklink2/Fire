@@ -1230,5 +1230,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65932"
     }
+  },
+  {
+    "runNumber": "65934",
+    "rawCode": "MED",
+    "timestamp": "2026-11-24T09:28:58.502486-05:00",
+    "address": "400 Block Rose Lane",
+    "extra": {
+      "incidentNumber": "65934",
+      "run_id": "65934",
+      "address": "400 Block Rose Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC8",
+      "units": "EC8",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65934"
+    }
   }
 ]
