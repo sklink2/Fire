@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65892"
     }
+  },
+  {
+    "runNumber": "65895",
+    "rawCode": "MED",
+    "timestamp": "2026-11-24T02:24:37.745337-05:00",
+    "address": "500 Block Stratford Drive",
+    "extra": {
+      "incidentNumber": "65895",
+      "run_id": "65895",
+      "address": "500 Block Stratford Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC12",
+      "units": "EC12",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65895"
+    }
   }
 ]
