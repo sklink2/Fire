@@ -3694,5 +3694,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66047"
     }
+  },
+  {
+    "runNumber": "66046",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-24T17:53:37.512139-05:00",
+    "address": "325 Cooper Drive",
+    "extra": {
+      "incidentNumber": "66046",
+      "run_id": "66046",
+      "address": "325 Cooper Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E11,L02,204",
+      "units": "E06,E11,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-66046"
+    }
   }
 ]
