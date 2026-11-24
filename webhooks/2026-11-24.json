@@ -1472,5 +1472,27 @@
       "commandUnits": "220,204",
       "dedupeKey": "INCIDENT-65945"
     }
+  },
+  {
+    "runNumber": "65944",
+    "rawCode": "MED",
+    "timestamp": "2026-11-24T10:09:06.867592-05:00",
+    "address": "200 Block N Martin Luther King Boulevard",
+    "extra": {
+      "incidentNumber": "65944",
+      "run_id": "65944",
+      "address": "200 Block N Martin Luther King Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65944"
+    }
   }
 ]
