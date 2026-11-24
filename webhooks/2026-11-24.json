@@ -3254,5 +3254,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66027"
     }
+  },
+  {
+    "runNumber": "66026",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-24T16:46:46.834927-05:00",
+    "address": "141 Venture Court",
+    "extra": {
+      "incidentNumber": "66026",
+      "run_id": "66026",
+      "address": "141 Venture Court",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,E24,L03,203",
+      "units": "E10,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-66026"
+    }
   }
 ]
