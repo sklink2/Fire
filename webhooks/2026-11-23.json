@@ -3650,5 +3650,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65836"
     }
+  },
+  {
+    "runNumber": "65837",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-23T19:00:09.572897-05:00",
+    "address": "1556 Old Frankfort Pike",
+    "extra": {
+      "incidentNumber": "65837",
+      "run_id": "65837",
+      "address": "1556 Old Frankfort Pike",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC10,RS1",
+      "units": "EC10,RS1",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65837"
+    }
   }
 ]
