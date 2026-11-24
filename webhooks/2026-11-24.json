@@ -2462,5 +2462,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-65989"
     }
+  },
+  {
+    "runNumber": "65990",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-11-24T14:19:46.280152-05:00",
+    "address": "612 Dardanelles Drive",
+    "extra": {
+      "incidentNumber": "65990",
+      "run_id": "65990",
+      "address": "612 Dardanelles Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E20",
+      "units": "E20",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65990"
+    }
   }
 ]
