@@ -3188,5 +3188,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66023"
     }
+  },
+  {
+    "runNumber": "66024",
+    "rawCode": "FSIA",
+    "timestamp": "2026-11-24T16:40:06.194550-05:00",
+    "address": "E Loudon Avenue & Maple Avenue",
+    "extra": {
+      "incidentNumber": "66024",
+      "run_id": "66024",
+      "address": "E Loudon Avenue & Maple Avenue",
+      "rawType": "FSIA",
+      "typeCode": "FSIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E08,205",
+      "units": "E01,E08,205",
+      "unitCount": "3",
+      "primaryTopic": "FSIA",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-66024"
+    }
   }
 ]
