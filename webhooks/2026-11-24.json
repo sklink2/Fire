@@ -20,5 +20,27 @@
       "commandUnits": "220,201",
       "dedupeKey": "INCIDENT-65879"
     }
+  },
+  {
+    "runNumber": "65880",
+    "rawCode": "MED",
+    "timestamp": "2026-11-24T00:20:58.004159-05:00",
+    "address": "300 Block Hummingbird Lane",
+    "extra": {
+      "incidentNumber": "65880",
+      "run_id": "65880",
+      "address": "300 Block Hummingbird Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65880"
+    }
   }
 ]
