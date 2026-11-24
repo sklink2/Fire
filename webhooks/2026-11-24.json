@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65924"
     }
+  },
+  {
+    "runNumber": "65923",
+    "rawCode": "MED",
+    "timestamp": "2026-11-24T08:35:32.416857-05:00",
+    "address": "500 Block Bellcastle Road",
+    "extra": {
+      "incidentNumber": "65923",
+      "run_id": "65923",
+      "address": "500 Block Bellcastle Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65923"
+    }
   }
 ]
