@@ -174,5 +174,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65886"
     }
+  },
+  {
+    "runNumber": "65887",
+    "rawCode": "MED",
+    "timestamp": "2026-11-24T01:11:06.753891-05:00",
+    "address": "500 Block Haskins Drive",
+    "extra": {
+      "incidentNumber": "65887",
+      "run_id": "65887",
+      "address": "500 Block Haskins Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10,EC6",
+      "units": "E10,EC6",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65887"
+    }
   }
 ]
