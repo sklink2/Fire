@@ -3738,5 +3738,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65838"
     }
+  },
+  {
+    "runNumber": "65840",
+    "rawCode": "MED",
+    "timestamp": "2026-11-23T19:06:51.243032-05:00",
+    "address": "600 Block Triple Crown Parkway",
+    "extra": {
+      "incidentNumber": "65840",
+      "run_id": "65840",
+      "address": "600 Block Triple Crown Parkway",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01,EC1",
+      "units": "E01,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65840"
+    }
   }
 ]
