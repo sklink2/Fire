@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65961"
     }
+  },
+  {
+    "runNumber": "65964",
+    "rawCode": "MED",
+    "timestamp": "2026-11-24T11:46:03.344317-05:00",
+    "address": "500 Block Eureka Springs Drive",
+    "extra": {
+      "incidentNumber": "65964",
+      "run_id": "65964",
+      "address": "500 Block Eureka Springs Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,EC13",
+      "units": "E12,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65964"
+    }
   }
 ]
