@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65960"
     }
+  },
+  {
+    "runNumber": "65962",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-24T11:42:43.345221-05:00",
+    "address": "1240 Colonial Drive",
+    "extra": {
+      "incidentNumber": "65962",
+      "run_id": "65962",
+      "address": "1240 Colonial Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,E20,L04,EC5,204,220",
+      "units": "E14,E20,L04,EC5,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-65962"
+    }
   }
 ]
