@@ -1802,5 +1802,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65959"
     }
+  },
+  {
+    "runNumber": "65960",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-24T11:32:39.046062-05:00",
+    "address": "1005 Hudson Avenue",
+    "extra": {
+      "incidentNumber": "65960",
+      "run_id": "65960",
+      "address": "1005 Hudson Avenue",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10",
+      "units": "E10",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65960"
+    }
   }
 ]
