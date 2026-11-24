@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65908"
     }
+  },
+  {
+    "runNumber": "65909",
+    "rawCode": "MED",
+    "timestamp": "2026-11-24T06:11:50.824050-05:00",
+    "address": "200 Block Newcastle Court",
+    "extra": {
+      "incidentNumber": "65909",
+      "run_id": "65909",
+      "address": "200 Block Newcastle Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65909"
+    }
   }
 ]
