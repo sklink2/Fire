@@ -196,5 +196,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65887"
     }
+  },
+  {
+    "runNumber": "65884",
+    "rawCode": "MED",
+    "timestamp": "2026-11-24T01:14:26.539856-05:00",
+    "address": "1300 Block Stephen Foster Drive",
+    "extra": {
+      "incidentNumber": "65884",
+      "run_id": "65884",
+      "address": "1300 Block Stephen Foster Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65884"
+    }
   }
 ]
