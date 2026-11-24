@@ -4002,5 +4002,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65850"
     }
+  },
+  {
+    "runNumber": "65852",
+    "rawCode": "MED",
+    "timestamp": "2026-11-23T19:56:58.619634-05:00",
+    "address": "3700 Block Dunswood Place",
+    "extra": {
+      "incidentNumber": "65852",
+      "run_id": "65852",
+      "address": "3700 Block Dunswood Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "L04,EC5",
+      "units": "L04,EC5",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-65852"
+    }
   }
 ]
