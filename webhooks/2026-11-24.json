@@ -1978,5 +1978,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-65967"
     }
+  },
+  {
+    "runNumber": "65968",
+    "rawCode": "FMIS",
+    "timestamp": "2026-11-24T12:09:26.010061-05:00",
+    "address": "820 De Roode Street",
+    "extra": {
+      "incidentNumber": "65968",
+      "run_id": "65968",
+      "address": "820 De Roode Street",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,EC10,203",
+      "units": "E04,EC10,203",
+      "unitCount": "3",
+      "primaryTopic": "FMIS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-65968"
+    }
   }
 ]
