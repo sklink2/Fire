@@ -2044,5 +2044,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66207"
     }
+  },
+  {
+    "runNumber": "66208",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-25T13:53:18.084131-05:00",
+    "address": "3329 Tates Creek Road",
+    "extra": {
+      "incidentNumber": "66208",
+      "run_id": "66208",
+      "address": "3329 Tates Creek Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E07,L07,EC11,202",
+      "units": "E06,E07,L07,EC11,202",
+      "unitCount": "5",
+      "primaryTopic": "FNGL",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-66208"
+    }
   }
 ]
