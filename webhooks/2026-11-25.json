@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66150"
     }
+  },
+  {
+    "runNumber": "66149",
+    "rawCode": "MED",
+    "timestamp": "2026-11-25T09:35:56.882804-05:00",
+    "address": "2100 Block Palomar Court",
+    "extra": {
+      "incidentNumber": "66149",
+      "run_id": "66149",
+      "address": "2100 Block Palomar Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66149"
+    }
   }
 ]
