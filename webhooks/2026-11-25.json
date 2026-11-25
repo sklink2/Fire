@@ -1604,5 +1604,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-66187"
     }
+  },
+  {
+    "runNumber": "66188",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-25T12:09:37.318105-05:00",
+    "address": "2384 Huntly Place",
+    "extra": {
+      "incidentNumber": "66188",
+      "run_id": "66188",
+      "address": "2384 Huntly Place",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E24",
+      "units": "E24",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66188"
+    }
   }
 ]
