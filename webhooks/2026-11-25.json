@@ -1736,5 +1736,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66193"
     }
+  },
+  {
+    "runNumber": "66194",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-25T12:33:03.693578-05:00",
+    "address": "1800 Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "66194",
+      "run_id": "66194",
+      "address": "1800 Harrodsburg Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E06,E12,L04,204",
+      "units": "E06,E12,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-66194"
+    }
   }
 ]
