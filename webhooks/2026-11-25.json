@@ -1340,5 +1340,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66168"
     }
+  },
+  {
+    "runNumber": "66169",
+    "rawCode": "MED",
+    "timestamp": "2026-11-25T10:39:25.108971-05:00",
+    "address": "1200 Block Winburn Drive",
+    "extra": {
+      "incidentNumber": "66169",
+      "run_id": "66169",
+      "address": "1200 Block Winburn Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,EC1",
+      "units": "E08,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66169"
+    }
   }
 ]
