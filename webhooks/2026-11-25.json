@@ -2418,5 +2418,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66224"
     }
+  },
+  {
+    "runNumber": "66225",
+    "rawCode": "FMIS",
+    "timestamp": "2026-11-25T15:33:32.058001-05:00",
+    "address": "631 Sherard Circle",
+    "extra": {
+      "incidentNumber": "66225",
+      "run_id": "66225",
+      "address": "631 Sherard Circle",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E22,202",
+      "units": "E22,202",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-66225"
+    }
   }
 ]
