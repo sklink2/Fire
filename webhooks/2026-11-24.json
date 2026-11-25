@@ -3892,5 +3892,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66054"
     }
+  },
+  {
+    "runNumber": "66056",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-24T19:00:26.340217-05:00",
+    "address": "1825 Liberty Road",
+    "extra": {
+      "incidentNumber": "66056",
+      "run_id": "66056",
+      "address": "1825 Liberty Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,E17,L06,EC8,201,220",
+      "units": "E16,E17,L06,EC8,201,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,201",
+      "dedupeKey": "INCIDENT-66056"
+    }
   }
 ]
