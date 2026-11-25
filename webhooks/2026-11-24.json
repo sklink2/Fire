@@ -4750,5 +4750,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66094"
     }
+  },
+  {
+    "runNumber": "66093",
+    "rawCode": "MED",
+    "timestamp": "2026-11-24T23:04:24.551993-05:00",
+    "address": "500 Block Lamont Drive",
+    "extra": {
+      "incidentNumber": "66093",
+      "run_id": "66093",
+      "address": "500 Block Lamont Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E12,EC9",
+      "units": "E12,EC9",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66093"
+    }
   }
 ]
