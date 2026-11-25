@@ -1582,5 +1582,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66185"
     }
+  },
+  {
+    "runNumber": "66187",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-25T11:56:17.829403-05:00",
+    "address": "156 E Main Street",
+    "extra": {
+      "incidentNumber": "66187",
+      "run_id": "66187",
+      "address": "156 E Main Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E05,E06,L01,204",
+      "units": "E01,E05,E06,L01,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-66187"
+    }
   }
 ]
