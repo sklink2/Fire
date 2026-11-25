@@ -3100,5 +3100,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66256"
     }
+  },
+  {
+    "runNumber": "66258",
+    "rawCode": "MED",
+    "timestamp": "2026-11-25T18:33:59.746874-05:00",
+    "address": "3500 Block Sutherland Drive",
+    "extra": {
+      "incidentNumber": "66258",
+      "run_id": "66258",
+      "address": "3500 Block Sutherland Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E07,EC2",
+      "units": "E07,EC2",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66258"
+    }
   }
 ]
