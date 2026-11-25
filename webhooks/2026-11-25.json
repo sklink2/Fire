@@ -1230,5 +1230,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-66163"
     }
+  },
+  {
+    "runNumber": "66166",
+    "rawCode": "MED",
+    "timestamp": "2026-11-25T10:26:02.674008-05:00",
+    "address": "3000 Block Blake James Drive",
+    "extra": {
+      "incidentNumber": "66166",
+      "run_id": "66166",
+      "address": "3000 Block Blake James Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66166"
+    }
   }
 ]
