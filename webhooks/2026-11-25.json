@@ -42,5 +42,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66106"
     }
+  },
+  {
+    "runNumber": "66107",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-25T00:27:57.093924-05:00",
+    "address": "175 Winston Avenue",
+    "extra": {
+      "incidentNumber": "66107",
+      "run_id": "66107",
+      "address": "175 Winston Avenue",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E01,E08,L05,201",
+      "units": "E01,E08,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-66107"
+    }
   }
 ]
