@@ -306,5 +306,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66118"
     }
+  },
+  {
+    "runNumber": "66119",
+    "rawCode": "MED",
+    "timestamp": "2026-11-25T06:08:45.834658-05:00",
+    "address": "100 Block Ashton Drive",
+    "extra": {
+      "incidentNumber": "66119",
+      "run_id": "66119",
+      "address": "100 Block Ashton Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66119"
+    }
   }
 ]
