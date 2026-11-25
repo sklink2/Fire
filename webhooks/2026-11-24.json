@@ -4992,5 +4992,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66102"
     }
+  },
+  {
+    "runNumber": "66104",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-24T23:57:52.915628-05:00",
+    "address": "2250 Leestown Road",
+    "extra": {
+      "incidentNumber": "66104",
+      "run_id": "66104",
+      "address": "2250 Leestown Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,E13,L03,203",
+      "units": "E10,E13,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-66104"
+    }
   }
 ]
