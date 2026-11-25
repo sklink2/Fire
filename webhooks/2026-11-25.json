@@ -460,5 +460,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66125"
     }
+  },
+  {
+    "runNumber": "66126",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-25T07:32:17.565247-05:00",
+    "address": "216 Ellis Park",
+    "extra": {
+      "incidentNumber": "66126",
+      "run_id": "66126",
+      "address": "216 Ellis Park",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08",
+      "units": "E08",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66126"
+    }
   }
 ]
