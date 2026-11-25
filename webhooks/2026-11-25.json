@@ -20,5 +20,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-66105"
     }
+  },
+  {
+    "runNumber": "66106",
+    "rawCode": "MED",
+    "timestamp": "2026-11-25T00:21:15.922721-05:00",
+    "address": "600 Block Warrington Drive",
+    "extra": {
+      "incidentNumber": "66106",
+      "run_id": "66106",
+      "address": "600 Block Warrington Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66106"
+    }
   }
 ]
