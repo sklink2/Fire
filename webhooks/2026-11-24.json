@@ -4376,5 +4376,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66076"
     }
+  },
+  {
+    "runNumber": "66077",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-24T21:37:33.330179-05:00",
+    "address": "3933 Yellowwood Trce",
+    "extra": {
+      "incidentNumber": "66077",
+      "run_id": "66077",
+      "address": "3933 Yellowwood Trce",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,E20,L04,EC4,202,220",
+      "units": "E15,E20,L04,EC4,202,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,202",
+      "dedupeKey": "INCIDENT-66077"
+    }
   }
 ]
