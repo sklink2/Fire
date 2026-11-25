@@ -1758,5 +1758,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-66194"
     }
+  },
+  {
+    "runNumber": "66195",
+    "rawCode": "MED",
+    "timestamp": "2026-11-25T12:39:43.216702-05:00",
+    "address": "1500 Block E New Circle Road",
+    "extra": {
+      "incidentNumber": "66195",
+      "run_id": "66195",
+      "address": "1500 Block E New Circle Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66195"
+    }
   }
 ]
