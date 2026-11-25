@@ -1494,5 +1494,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-66182"
     }
+  },
+  {
+    "runNumber": "66183",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-11-25T11:36:12.799685-05:00",
+    "address": "580 Greenfield Drive",
+    "extra": {
+      "incidentNumber": "66183",
+      "run_id": "66183",
+      "address": "580 Greenfield Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E16",
+      "units": "E16",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66183"
+    }
   }
 ]
