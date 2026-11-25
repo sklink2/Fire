@@ -3914,5 +3914,27 @@
       "commandUnits": "220,201",
       "dedupeKey": "INCIDENT-66056"
     }
+  },
+  {
+    "runNumber": "66055",
+    "rawCode": "MED",
+    "timestamp": "2026-11-24T19:00:26.770777-05:00",
+    "address": "1200 Block Texaco Road",
+    "extra": {
+      "incidentNumber": "66055",
+      "run_id": "66055",
+      "address": "1200 Block Texaco Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC10,EC7",
+      "units": "EC10,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66055"
+    }
   }
 ]
