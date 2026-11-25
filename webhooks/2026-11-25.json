@@ -526,5 +526,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-66128"
     }
+  },
+  {
+    "runNumber": "66130",
+    "rawCode": "MED",
+    "timestamp": "2026-11-25T08:12:23.221269-05:00",
+    "address": "1800 Block Mercer Road",
+    "extra": {
+      "incidentNumber": "66130",
+      "run_id": "66130",
+      "address": "1800 Block Mercer Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "EC6",
+      "units": "EC6",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66130"
+    }
   }
 ]
