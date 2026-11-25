@@ -482,5 +482,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66126"
     }
+  },
+  {
+    "runNumber": "66127",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-25T07:38:58.814514-05:00",
+    "address": "3220 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "66127",
+      "run_id": "66127",
+      "address": "3220 Nicholasville Road",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E15,E20,L07,EC4,204,220",
+      "units": "E15,E20,L07,EC4,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-66127"
+    }
   }
 ]
