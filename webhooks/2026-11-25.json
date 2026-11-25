@@ -1538,5 +1538,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66184"
     }
+  },
+  {
+    "runNumber": "66186",
+    "rawCode": "MED",
+    "timestamp": "2026-11-25T11:52:56.756758-05:00",
+    "address": "1100 Block Trent Boulevard",
+    "extra": {
+      "incidentNumber": "66186",
+      "run_id": "66186",
+      "address": "1100 Block Trent Boulevard",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "L07,EC13",
+      "units": "L07,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66186"
+    }
   }
 ]
