@@ -4574,5 +4574,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66085"
     }
+  },
+  {
+    "runNumber": "66086",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-24T22:44:23.012902-05:00",
+    "address": "1063 E New Circle Road",
+    "extra": {
+      "incidentNumber": "66086",
+      "run_id": "66086",
+      "address": "1063 E New Circle Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,E08,L05,201",
+      "units": "E02,E08,L05,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-66086"
+    }
   }
 ]
