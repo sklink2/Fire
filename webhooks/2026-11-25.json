@@ -1560,5 +1560,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66186"
     }
+  },
+  {
+    "runNumber": "66185",
+    "rawCode": "MED",
+    "timestamp": "2026-11-25T11:52:57.050629-05:00",
+    "address": "200 Block Kingsway Drive",
+    "extra": {
+      "incidentNumber": "66185",
+      "run_id": "66185",
+      "address": "200 Block Kingsway Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E09,EC1",
+      "units": "E09,EC1",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66185"
+    }
   }
 ]
