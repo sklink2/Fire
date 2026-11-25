@@ -2792,5 +2792,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66243"
     }
+  },
+  {
+    "runNumber": "66242",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-25T17:30:29.197106-05:00",
+    "address": "1938 Stanton Way",
+    "extra": {
+      "incidentNumber": "66242",
+      "run_id": "66242",
+      "address": "1938 Stanton Way",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E08,E10,L03,203",
+      "units": "E08,E10,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-66242"
+    }
   }
 ]
