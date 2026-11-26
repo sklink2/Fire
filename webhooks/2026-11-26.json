@@ -1076,5 +1076,27 @@
       "commandUnits": "201",
       "dedupeKey": "INCIDENT-66350"
     }
+  },
+  {
+    "runNumber": "66349",
+    "rawCode": "FSTR",
+    "timestamp": "2026-11-26T11:13:08.770201-05:00",
+    "address": "541 Newbury Way",
+    "extra": {
+      "incidentNumber": "66349",
+      "run_id": "66349",
+      "address": "541 Newbury Way",
+      "rawType": "FSTR",
+      "typeCode": "FSTR",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E12,E15,E20,E22,L04,L07,EC9,202,205,220,241,RS1",
+      "units": "E12,E15,E20,E22,L04,L07,EC9,202,205,220,241,RS1",
+      "unitCount": "12",
+      "primaryTopic": "FSTR",
+      "commandUnits": "241,220,202,205",
+      "dedupeKey": "INCIDENT-66349"
+    }
   }
 ]
