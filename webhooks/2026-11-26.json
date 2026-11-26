@@ -2352,5 +2352,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66410"
     }
+  },
+  {
+    "runNumber": "66409",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-26T18:17:31.087108-05:00",
+    "address": "Bryan Avenue & E New Circle Road",
+    "extra": {
+      "incidentNumber": "66409",
+      "run_id": "66409",
+      "address": "Bryan Avenue & E New Circle Road",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC1,241",
+      "units": "E08,EC1,241",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-66409"
+    }
   }
 ]
