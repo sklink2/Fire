@@ -1780,5 +1780,27 @@
       "commandUnits": "220,202",
       "dedupeKey": "INCIDENT-66382"
     }
+  },
+  {
+    "runNumber": "66383",
+    "rawCode": "MED",
+    "timestamp": "2026-11-26T15:43:46.159197-05:00",
+    "address": "400 Block Rogers Road",
+    "extra": {
+      "incidentNumber": "66383",
+      "run_id": "66383",
+      "address": "400 Block Rogers Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66383"
+    }
   }
 ]
