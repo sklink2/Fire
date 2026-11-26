@@ -1318,5 +1318,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66361"
     }
+  },
+  {
+    "runNumber": "66360",
+    "rawCode": "MED",
+    "timestamp": "2026-11-26T12:16:39.721131-05:00",
+    "address": "1000 Block Pine Bloom Drive",
+    "extra": {
+      "incidentNumber": "66360",
+      "run_id": "66360",
+      "address": "1000 Block Pine Bloom Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66360"
+    }
   }
 ]
