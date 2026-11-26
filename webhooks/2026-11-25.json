@@ -3518,5 +3518,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-66275"
     }
+  },
+  {
+    "runNumber": "66276",
+    "rawCode": "MED",
+    "timestamp": "2026-11-25T20:37:37.060623-05:00",
+    "address": "800 Block Maywick Drive",
+    "extra": {
+      "incidentNumber": "66276",
+      "run_id": "66276",
+      "address": "800 Block Maywick Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,EC12",
+      "units": "E11,EC12",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66276"
+    }
   }
 ]
