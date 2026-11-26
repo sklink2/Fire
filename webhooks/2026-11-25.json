@@ -3210,5 +3210,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66262"
     }
+  },
+  {
+    "runNumber": "66263",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-25T19:10:45.644481-05:00",
+    "address": "2025 Garden Springs Drive",
+    "extra": {
+      "incidentNumber": "66263",
+      "run_id": "66263",
+      "address": "2025 Garden Springs Drive",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E11,E20,L04,EC10,204,220",
+      "units": "E11,E20,L04,EC10,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-66263"
+    }
   }
 ]
