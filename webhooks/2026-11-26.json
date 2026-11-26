@@ -2528,5 +2528,27 @@
       "commandUnits": "220",
       "dedupeKey": "INCIDENT-66418"
     }
+  },
+  {
+    "runNumber": "66417",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-11-26T18:44:14.016830-05:00",
+    "address": "942 Waverly Drive",
+    "extra": {
+      "incidentNumber": "66417",
+      "run_id": "66417",
+      "address": "942 Waverly Drive",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E10",
+      "units": "E10",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66417"
+    }
   }
 ]
