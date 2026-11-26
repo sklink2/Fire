@@ -2330,5 +2330,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-66408"
     }
+  },
+  {
+    "runNumber": "66410",
+    "rawCode": "MED",
+    "timestamp": "2026-11-26T18:17:29.749736-05:00",
+    "address": "200 Block Savoy Road",
+    "extra": {
+      "incidentNumber": "66410",
+      "run_id": "66410",
+      "address": "200 Block Savoy Road",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66410"
+    }
   }
 ]
