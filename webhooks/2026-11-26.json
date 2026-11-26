@@ -922,5 +922,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66342"
     }
+  },
+  {
+    "runNumber": "66343",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-26T10:33:04.517458-05:00",
+    "address": "433 Park Avenue",
+    "extra": {
+      "incidentNumber": "66343",
+      "run_id": "66343",
+      "address": "433 Park Avenue",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05",
+      "units": "E05",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66343"
+    }
   }
 ]
