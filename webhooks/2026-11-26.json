@@ -966,5 +966,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66344"
     }
+  },
+  {
+    "runNumber": "66346",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-26T10:43:04.011165-05:00",
+    "address": "3805 Forest Green Drive",
+    "extra": {
+      "incidentNumber": "66346",
+      "run_id": "66346",
+      "address": "3805 Forest Green Drive",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22",
+      "units": "E22",
+      "unitCount": "1",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66346"
+    }
   }
 ]
