@@ -3892,5 +3892,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66292"
     }
+  },
+  {
+    "runNumber": "66293",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-25T22:41:19.907822-05:00",
+    "address": "280 E High Street",
+    "extra": {
+      "incidentNumber": "66293",
+      "run_id": "66293",
+      "address": "280 E High Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E05,L02,205",
+      "units": "E01,E05,L02,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-66293"
+    }
   }
 ]
