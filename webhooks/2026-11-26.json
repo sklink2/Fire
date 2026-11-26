@@ -2506,5 +2506,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66415"
     }
+  },
+  {
+    "runNumber": "66418",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-26T18:44:13.414427-05:00",
+    "address": "W Maxwell Street & S Broadway",
+    "extra": {
+      "incidentNumber": "66418",
+      "run_id": "66418",
+      "address": "W Maxwell Street & S Broadway",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "EC3,220,RS1",
+      "units": "EC3,220,RS1",
+      "unitCount": "3",
+      "primaryTopic": "FVEA",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-66418"
+    }
   }
 ]
