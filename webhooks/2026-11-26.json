@@ -64,5 +64,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66304"
     }
+  },
+  {
+    "runNumber": "66305",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-26T00:41:35.738885-05:00",
+    "address": "380 S Upper Street",
+    "extra": {
+      "incidentNumber": "66305",
+      "run_id": "66305",
+      "address": "380 S Upper Street",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E01,E06,L01,205",
+      "units": "E01,E06,L01,205",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "205",
+      "dedupeKey": "INCIDENT-66305"
+    }
   }
 ]
