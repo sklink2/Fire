@@ -1054,5 +1054,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66348"
     }
+  },
+  {
+    "runNumber": "66350",
+    "rawCode": "FFIA",
+    "timestamp": "2026-11-26T11:13:08.283779-05:00",
+    "address": "2832 Ryan Circle",
+    "extra": {
+      "incidentNumber": "66350",
+      "run_id": "66350",
+      "address": "2832 Ryan Circle",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E09,E21,L06,201",
+      "units": "E09,E21,L06,201",
+      "unitCount": "4",
+      "primaryTopic": "FFIA",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-66350"
+    }
   }
 ]
