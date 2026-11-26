@@ -3496,5 +3496,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66274"
     }
+  },
+  {
+    "runNumber": "66275",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-25T20:30:55.685954-05:00",
+    "address": "4047 Iron Works Pike",
+    "extra": {
+      "incidentNumber": "66275",
+      "run_id": "66275",
+      "address": "4047 Iron Works Pike",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "E10,E19,L03,203",
+      "units": "E10,E19,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-66275"
+    }
   }
 ]
