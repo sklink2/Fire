@@ -2572,5 +2572,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66575"
     }
+  },
+  {
+    "runNumber": "66574",
+    "rawCode": "MED",
+    "timestamp": "2026-11-27T15:00:39.871002-05:00",
+    "address": "1000 Block Firethorn Place",
+    "extra": {
+      "incidentNumber": "66574",
+      "run_id": "66574",
+      "address": "1000 Block Firethorn Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E22,EC13",
+      "units": "E22,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66574"
+    }
   }
 ]
