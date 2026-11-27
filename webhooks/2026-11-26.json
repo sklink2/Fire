@@ -2616,5 +2616,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66421"
     }
+  },
+  {
+    "runNumber": "66422",
+    "rawCode": "MED",
+    "timestamp": "2026-11-26T19:14:19.213985-05:00",
+    "address": "3700 Block Lytleton Way",
+    "extra": {
+      "incidentNumber": "66422",
+      "run_id": "66422",
+      "address": "3700 Block Lytleton Way",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E22,EC7",
+      "units": "E22,EC7",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66422"
+    }
   }
 ]
