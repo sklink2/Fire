@@ -394,5 +394,27 @@
       "commandUnits": "241,204",
       "dedupeKey": "INCIDENT-66474"
     }
+  },
+  {
+    "runNumber": "66476",
+    "rawCode": "FLIFT",
+    "timestamp": "2026-11-27T02:08:40.642767-05:00",
+    "address": "137 Rose Street",
+    "extra": {
+      "incidentNumber": "66476",
+      "run_id": "66476",
+      "address": "137 Rose Street",
+      "rawType": "FLIFT",
+      "typeCode": "FLIFT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E01",
+      "units": "E01",
+      "unitCount": "1",
+      "primaryTopic": "FLIFT",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66476"
+    }
   }
 ]
