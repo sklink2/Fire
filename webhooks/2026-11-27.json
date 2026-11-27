@@ -372,5 +372,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66473"
     }
+  },
+  {
+    "runNumber": "66474",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-11-27T02:02:00.288785-05:00",
+    "address": "Boston Road & Marblerock Way",
+    "extra": {
+      "incidentNumber": "66474",
+      "run_id": "66474",
+      "address": "Boston Road & Marblerock Way",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E15,L04,EC9,204,241,RS1",
+      "units": "E15,L04,EC9,204,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,204",
+      "dedupeKey": "INCIDENT-66474"
+    }
   }
 ]
