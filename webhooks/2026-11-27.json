@@ -2286,5 +2286,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66561"
     }
+  },
+  {
+    "runNumber": "66562",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-11-27T13:50:28.930484-05:00",
+    "address": "Versailles Road & W New Circle R",
+    "extra": {
+      "incidentNumber": "66562",
+      "run_id": "66562",
+      "address": "Versailles Road & W New Circle R",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E14,L04,EC12,203,241,RS1",
+      "units": "E14,L04,EC12,203,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,203",
+      "dedupeKey": "INCIDENT-66562"
+    }
   }
 ]
