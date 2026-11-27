@@ -86,5 +86,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66462"
     }
+  },
+  {
+    "runNumber": "66461",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-27T00:35:04.327409-05:00",
+    "address": "535 Newtown Pike",
+    "extra": {
+      "incidentNumber": "66461",
+      "run_id": "66461",
+      "address": "535 Newtown Pike",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E04,EC10",
+      "units": "E04,EC10",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66461"
+    }
   }
 ]
