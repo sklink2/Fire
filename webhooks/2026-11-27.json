@@ -1692,5 +1692,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66533"
     }
+  },
+  {
+    "runNumber": "66534",
+    "rawCode": "MED",
+    "timestamp": "2026-11-27T11:10:01.159476-05:00",
+    "address": "1800 Block Alexandria Drive",
+    "extra": {
+      "incidentNumber": "66534",
+      "run_id": "66534",
+      "address": "1800 Block Alexandria Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC12,241,CRT1",
+      "units": "EC12,241,CRT1",
+      "unitCount": "3",
+      "primaryTopic": "MED",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-66534"
+    }
   }
 ]
