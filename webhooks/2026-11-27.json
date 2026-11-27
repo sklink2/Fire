@@ -2814,5 +2814,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66585"
     }
+  },
+  {
+    "runNumber": "66586",
+    "rawCode": "MED",
+    "timestamp": "2026-11-27T16:20:51.529356-05:00",
+    "address": "400 Block Barrister Court",
+    "extra": {
+      "incidentNumber": "66586",
+      "run_id": "66586",
+      "address": "400 Block Barrister Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,EC4,241,CRT1",
+      "units": "E07,EC4,241,CRT1",
+      "unitCount": "4",
+      "primaryTopic": "LARGE_RESPONSE",
+      "commandUnits": "241",
+      "dedupeKey": "INCIDENT-66586"
+    }
   }
 ]
