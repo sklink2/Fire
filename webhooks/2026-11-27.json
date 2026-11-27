@@ -3144,5 +3144,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66601"
     }
+  },
+  {
+    "runNumber": "66600",
+    "rawCode": "FOTF",
+    "timestamp": "2026-11-27T17:51:07.694553-05:00",
+    "address": "435 W High Street",
+    "extra": {
+      "incidentNumber": "66600",
+      "run_id": "66600",
+      "address": "435 W High Street",
+      "rawType": "FOTF",
+      "typeCode": "FOTF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,220",
+      "units": "E16,220",
+      "unitCount": "2",
+      "primaryTopic": "FOTF",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-66600"
+    }
   }
 ]
