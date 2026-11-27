@@ -2110,5 +2110,27 @@
       "commandUnits": "205",
       "dedupeKey": "INCIDENT-66554"
     }
+  },
+  {
+    "runNumber": "66553",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-27T13:07:02.408418-05:00",
+    "address": "3421 Harrodsburg Road",
+    "extra": {
+      "incidentNumber": "66553",
+      "run_id": "66553",
+      "address": "3421 Harrodsburg Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E20,L04,204",
+      "units": "E11,E20,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-66553"
+    }
   }
 ]
