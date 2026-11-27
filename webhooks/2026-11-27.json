@@ -2484,5 +2484,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-66570"
     }
+  },
+  {
+    "runNumber": "66571",
+    "rawCode": "MED",
+    "timestamp": "2026-11-27T14:33:54.082102-05:00",
+    "address": "1100 Block Beaumont Centre Lane",
+    "extra": {
+      "incidentNumber": "66571",
+      "run_id": "66571",
+      "address": "1100 Block Beaumont Centre Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC5",
+      "units": "EC5",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66571"
+    }
   }
 ]
