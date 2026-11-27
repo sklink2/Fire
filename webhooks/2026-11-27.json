@@ -3276,5 +3276,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66604"
     }
+  },
+  {
+    "runNumber": "66607",
+    "rawCode": "FELF",
+    "timestamp": "2026-11-27T18:37:54.304357-05:00",
+    "address": "3691 Red River Drive",
+    "extra": {
+      "incidentNumber": "66607",
+      "run_id": "66607",
+      "address": "3691 Red River Drive",
+      "rawType": "FELF",
+      "typeCode": "FELF",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E15,L07,202",
+      "units": "E09,E15,L07,202",
+      "unitCount": "4",
+      "primaryTopic": "FELF",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-66607"
+    }
   }
 ]
