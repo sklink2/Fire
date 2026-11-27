@@ -1560,5 +1560,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66527"
     }
+  },
+  {
+    "runNumber": "66528",
+    "rawCode": "FMIS",
+    "timestamp": "2026-11-27T10:36:39.252726-05:00",
+    "address": "3301 Nicholasville Road",
+    "extra": {
+      "incidentNumber": "66528",
+      "run_id": "66528",
+      "address": "3301 Nicholasville Road",
+      "rawType": "FMIS",
+      "typeCode": "FMIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,204",
+      "units": "E15,204",
+      "unitCount": "2",
+      "primaryTopic": "FMIS",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-66528"
+    }
   }
 ]
