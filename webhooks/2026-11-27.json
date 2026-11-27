@@ -1626,5 +1626,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66529"
     }
+  },
+  {
+    "runNumber": "66531",
+    "rawCode": "MED",
+    "timestamp": "2026-11-27T10:50:01.067234-05:00",
+    "address": "400 Block Park Place",
+    "extra": {
+      "incidentNumber": "66531",
+      "run_id": "66531",
+      "address": "400 Block Park Place",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC1",
+      "units": "EC1",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66531"
+    }
   }
 ]
