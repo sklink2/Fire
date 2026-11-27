@@ -1186,5 +1186,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66509"
     }
+  },
+  {
+    "runNumber": "66512",
+    "rawCode": "FNGL",
+    "timestamp": "2026-11-27T08:49:41.131651-05:00",
+    "address": "1226 Hammond Avenue",
+    "extra": {
+      "incidentNumber": "66512",
+      "run_id": "66512",
+      "address": "1226 Hammond Avenue",
+      "rawType": "FNGL",
+      "typeCode": "FNGL",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E13,L01,EC9,204,220",
+      "units": "E06,E13,L01,EC9,204,220",
+      "unitCount": "6",
+      "primaryTopic": "FNGL",
+      "commandUnits": "220,204",
+      "dedupeKey": "INCIDENT-66512"
+    }
   }
 ]
