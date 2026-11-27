@@ -1824,5 +1824,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66538"
     }
+  },
+  {
+    "runNumber": "66540",
+    "rawCode": "MED",
+    "timestamp": "2026-11-27T11:50:09.791686-05:00",
+    "address": "4600 Block Hathway Drive",
+    "extra": {
+      "incidentNumber": "66540",
+      "run_id": "66540",
+      "address": "4600 Block Hathway Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66540"
+    }
   }
 ]
