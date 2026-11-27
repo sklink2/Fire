@@ -1868,5 +1868,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66541"
     }
+  },
+  {
+    "runNumber": "66542",
+    "rawCode": "MED",
+    "timestamp": "2026-11-27T11:56:50.348453-05:00",
+    "address": "1000 Block Winburn Drive",
+    "extra": {
+      "incidentNumber": "66542",
+      "run_id": "66542",
+      "address": "1000 Block Winburn Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E08,EC3",
+      "units": "E08,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66542"
+    }
   }
 ]
