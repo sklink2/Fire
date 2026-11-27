@@ -1010,5 +1010,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66502"
     }
+  },
+  {
+    "runNumber": "66503",
+    "rawCode": "MED",
+    "timestamp": "2026-11-27T08:02:54.227351-05:00",
+    "address": "600 Block Buckingham Lane",
+    "extra": {
+      "incidentNumber": "66503",
+      "run_id": "66503",
+      "address": "600 Block Buckingham Lane",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC9",
+      "units": "EC9",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66503"
+    }
   }
 ]
