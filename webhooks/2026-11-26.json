@@ -2946,5 +2946,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66436"
     }
+  },
+  {
+    "runNumber": "66437",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-26T20:47:50.986681-05:00",
+    "address": "2232 Dinsmore Drive",
+    "extra": {
+      "incidentNumber": "66437",
+      "run_id": "66437",
+      "address": "2232 Dinsmore Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E05,E09,L02,201",
+      "units": "E05,E09,L02,201",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "201",
+      "dedupeKey": "INCIDENT-66437"
+    }
   }
 ]
