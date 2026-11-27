@@ -2990,5 +2990,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-66439"
     }
+  },
+  {
+    "runNumber": "66438",
+    "rawCode": "MED",
+    "timestamp": "2026-11-26T21:14:37.620976-05:00",
+    "address": "1000 Block Haddrell Pt",
+    "extra": {
+      "incidentNumber": "66438",
+      "run_id": "66438",
+      "address": "1000 Block Haddrell Pt",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P1",
+      "apparatus": "E02,EC3",
+      "units": "E02,EC3",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66438"
+    }
   }
 ]
