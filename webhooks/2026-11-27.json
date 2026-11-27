@@ -3408,5 +3408,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66609"
     }
+  },
+  {
+    "runNumber": "66611",
+    "rawCode": "FVAJ",
+    "timestamp": "2026-11-27T18:47:53.170755-05:00",
+    "address": "E Nc / Winchester Road",
+    "extra": {
+      "incidentNumber": "66611",
+      "run_id": "66611",
+      "address": "E Nc / Winchester Road",
+      "rawType": "FVAJ",
+      "typeCode": "FVAJ",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,L05,EC2,201,241,RS1",
+      "units": "E02,L05,EC2,201,241,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVAJ",
+      "commandUnits": "241,201",
+      "dedupeKey": "INCIDENT-66611"
+    }
   }
 ]
