@@ -1714,5 +1714,27 @@
       "commandUnits": "241",
       "dedupeKey": "INCIDENT-66534"
     }
+  },
+  {
+    "runNumber": "66535",
+    "rawCode": "FMEA",
+    "timestamp": "2026-11-27T11:13:22.300843-05:00",
+    "address": "436 Lakeshore Drive",
+    "extra": {
+      "incidentNumber": "66535",
+      "run_id": "66535",
+      "address": "436 Lakeshore Drive",
+      "rawType": "FMEA",
+      "typeCode": "FMEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09",
+      "units": "E09",
+      "unitCount": "1",
+      "primaryTopic": "FMEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66535"
+    }
   }
 ]
