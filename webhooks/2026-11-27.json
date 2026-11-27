@@ -2440,5 +2440,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66568"
     }
+  },
+  {
+    "runNumber": "66569",
+    "rawCode": "FINV",
+    "timestamp": "2026-11-27T14:27:13.676682-05:00",
+    "address": "221 Perry Street",
+    "extra": {
+      "incidentNumber": "66569",
+      "run_id": "66569",
+      "address": "221 Perry Street",
+      "rawType": "FINV",
+      "typeCode": "FINV",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E04,L01",
+      "units": "E04,L01",
+      "unitCount": "2",
+      "primaryTopic": "FINV",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66569"
+    }
   }
 ]
