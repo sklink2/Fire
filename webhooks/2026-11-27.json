@@ -1120,5 +1120,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66507"
     }
+  },
+  {
+    "runNumber": "66508",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-27T08:29:37.757560-05:00",
+    "address": "2696 Research Park Drive",
+    "extra": {
+      "incidentNumber": "66508",
+      "run_id": "66508",
+      "address": "2696 Research Park Drive",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E19,E24,L03,203",
+      "units": "E19,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-66508"
+    }
   }
 ]
