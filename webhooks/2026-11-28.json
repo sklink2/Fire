@@ -152,5 +152,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66659"
     }
+  },
+  {
+    "runNumber": "66658",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-28T01:12:15.606022-05:00",
+    "address": "2561 Spring Valley Loop",
+    "extra": {
+      "incidentNumber": "66658",
+      "run_id": "66658",
+      "address": "2561 Spring Valley Loop",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,E24,L03,203",
+      "units": "E13,E24,L03,203",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-66658"
+    }
   }
 ]
