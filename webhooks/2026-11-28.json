@@ -724,5 +724,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66684"
     }
+  },
+  {
+    "runNumber": "66685",
+    "rawCode": "MED",
+    "timestamp": "2026-11-28T05:06:09.483918-05:00",
+    "address": "1500 Block Springfield Drive",
+    "extra": {
+      "incidentNumber": "66685",
+      "run_id": "66685",
+      "address": "1500 Block Springfield Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E16,EC13",
+      "units": "E16,EC13",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66685"
+    }
   }
 ]
