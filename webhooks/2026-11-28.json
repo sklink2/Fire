@@ -372,5 +372,27 @@
       "commandUnits": "202",
       "dedupeKey": "INCIDENT-66668"
     }
+  },
+  {
+    "runNumber": "66669",
+    "rawCode": "MED",
+    "timestamp": "2026-11-28T02:22:24.995628-05:00",
+    "address": "400 Block Carr Court",
+    "extra": {
+      "incidentNumber": "66669",
+      "run_id": "66669",
+      "address": "400 Block Carr Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC3",
+      "units": "EC3",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66669"
+    }
   }
 ]
