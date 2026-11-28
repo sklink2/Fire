@@ -4090,5 +4090,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-66641"
     }
+  },
+  {
+    "runNumber": "66642",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-27T22:05:07.159982-05:00",
+    "address": "524 Angliana Avenue",
+    "extra": {
+      "incidentNumber": "66642",
+      "run_id": "66642",
+      "address": "524 Angliana Avenue",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E11,L02,204",
+      "units": "E06,E11,L02,204",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-66642"
+    }
   }
 ]
