@@ -680,5 +680,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66682"
     }
+  },
+  {
+    "runNumber": "66683",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-28T04:19:22.078800-05:00",
+    "address": "245 Lexington Green Circle",
+    "extra": {
+      "incidentNumber": "66683",
+      "run_id": "66683",
+      "address": "245 Lexington Green Circle",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E07,E12,E15,L04,204",
+      "units": "E07,E12,E15,L04,204",
+      "unitCount": "5",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-66683"
+    }
   }
 ]
