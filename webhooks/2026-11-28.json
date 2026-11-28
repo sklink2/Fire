@@ -812,5 +812,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66689"
     }
+  },
+  {
+    "runNumber": "66688",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-28T05:39:35.543492-05:00",
+    "address": "866 S Broadway",
+    "extra": {
+      "incidentNumber": "66688",
+      "run_id": "66688",
+      "address": "866 S Broadway",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E06,E11,L01,204",
+      "units": "E06,E11,L01,204",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-66688"
+    }
   }
 ]
