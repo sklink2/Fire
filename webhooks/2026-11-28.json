@@ -1120,5 +1120,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-66702"
     }
+  },
+  {
+    "runNumber": "66704",
+    "rawCode": "FOTS",
+    "timestamp": "2026-11-28T07:06:29.126933-05:00",
+    "address": "1540 University Drive",
+    "extra": {
+      "incidentNumber": "66704",
+      "run_id": "66704",
+      "address": "1540 University Drive",
+      "rawType": "FOTS",
+      "typeCode": "FOTS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P3",
+      "apparatus": "220",
+      "units": "220",
+      "unitCount": "1",
+      "primaryTopic": "FOTS",
+      "commandUnits": "220",
+      "dedupeKey": "INCIDENT-66704"
+    }
   }
 ]
