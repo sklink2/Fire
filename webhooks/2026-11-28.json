@@ -416,5 +416,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66670"
     }
+  },
+  {
+    "runNumber": "66671",
+    "rawCode": "MED",
+    "timestamp": "2026-11-28T02:49:08.663070-05:00",
+    "address": "100 Block Street Phillip Drive",
+    "extra": {
+      "incidentNumber": "66671",
+      "run_id": "66671",
+      "address": "100 Block Street Phillip Drive",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "EC2",
+      "units": "EC2",
+      "unitCount": "1",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66671"
+    }
   }
 ]
