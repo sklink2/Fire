@@ -4068,5 +4068,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66640"
     }
+  },
+  {
+    "runNumber": "66641",
+    "rawCode": "FVIS",
+    "timestamp": "2026-11-27T21:55:04.458235-05:00",
+    "address": "756 Terrace View Drive",
+    "extra": {
+      "incidentNumber": "66641",
+      "run_id": "66641",
+      "address": "756 Terrace View Drive",
+      "rawType": "FVIS",
+      "typeCode": "FVIS",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E13,E14,L01,EC12,203,RS1",
+      "units": "E13,E14,L01,EC12,203,RS1",
+      "unitCount": "6",
+      "primaryTopic": "FVIS",
+      "commandUnits": "203",
+      "dedupeKey": "INCIDENT-66641"
+    }
   }
 ]
