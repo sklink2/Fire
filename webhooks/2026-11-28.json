@@ -174,5 +174,27 @@
       "commandUnits": "203",
       "dedupeKey": "INCIDENT-66658"
     }
+  },
+  {
+    "runNumber": "66660",
+    "rawCode": "FVEA",
+    "timestamp": "2026-11-28T01:22:14.798542-05:00",
+    "address": "W New Circle Ramp & Leestown R",
+    "extra": {
+      "incidentNumber": "66660",
+      "run_id": "66660",
+      "address": "W New Circle Ramp & Leestown R",
+      "rawType": "FVEA",
+      "typeCode": "FVEA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E10,EC5",
+      "units": "E10,EC5",
+      "unitCount": "2",
+      "primaryTopic": "FVEA",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66660"
+    }
   }
 ]
