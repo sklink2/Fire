@@ -3628,5 +3628,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66621"
     }
+  },
+  {
+    "runNumber": "66622",
+    "rawCode": "FFIA",
+    "timestamp": "2026-11-27T20:31:29.244851-05:00",
+    "address": "301 Jane Briggs Avenue",
+    "extra": {
+      "incidentNumber": "66622",
+      "run_id": "66622",
+      "address": "301 Jane Briggs Avenue",
+      "rawType": "FFIA",
+      "typeCode": "FFIA",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E09,E21,L06,202",
+      "units": "E09,E21,L06,202",
+      "unitCount": "4",
+      "primaryTopic": "FFIA",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-66622"
+    }
   }
 ]
