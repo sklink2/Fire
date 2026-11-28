@@ -834,5 +834,27 @@
       "commandUnits": "204",
       "dedupeKey": "INCIDENT-66688"
     }
+  },
+  {
+    "runNumber": "66690",
+    "rawCode": "MED",
+    "timestamp": "2026-11-28T05:42:53.665442-05:00",
+    "address": "1800 Block Augusta Court",
+    "extra": {
+      "incidentNumber": "66690",
+      "run_id": "66690",
+      "address": "1800 Block Augusta Court",
+      "rawType": "MED",
+      "typeCode": "MED",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E02,EC8",
+      "units": "E02,EC8",
+      "unitCount": "2",
+      "primaryTopic": "MED",
+      "commandUnits": "",
+      "dedupeKey": "INCIDENT-66690"
+    }
   }
 ]
