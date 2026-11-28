@@ -438,5 +438,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66671"
     }
+  },
+  {
+    "runNumber": "66674",
+    "rawCode": "FSMO",
+    "timestamp": "2026-11-28T03:02:30.678821-05:00",
+    "address": "1568 Alexandria Drive",
+    "extra": {
+      "incidentNumber": "66674",
+      "run_id": "66674",
+      "address": "1568 Alexandria Drive",
+      "rawType": "FSMO",
+      "typeCode": "FSMO",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E11,E14,L04,204",
+      "units": "E11,E14,L04,204",
+      "unitCount": "4",
+      "primaryTopic": "FSMO",
+      "commandUnits": "204",
+      "dedupeKey": "INCIDENT-66674"
+    }
   }
 ]
