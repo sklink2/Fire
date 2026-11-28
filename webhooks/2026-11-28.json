@@ -350,5 +350,27 @@
       "commandUnits": "",
       "dedupeKey": "INCIDENT-66667"
     }
+  },
+  {
+    "runNumber": "66668",
+    "rawCode": "FPRT",
+    "timestamp": "2026-11-28T02:15:44.045686-05:00",
+    "address": "3650 Boston Road",
+    "extra": {
+      "incidentNumber": "66668",
+      "run_id": "66668",
+      "address": "3650 Boston Road",
+      "rawType": "FPRT",
+      "typeCode": "FPRT",
+      "alert": "10",
+      "alertType": "combinedIncident",
+      "activePlatoon": "P2",
+      "apparatus": "E15,E20,L04,202",
+      "units": "E15,E20,L04,202",
+      "unitCount": "4",
+      "primaryTopic": "FPRT",
+      "commandUnits": "202",
+      "dedupeKey": "INCIDENT-66668"
+    }
   }
 ]
